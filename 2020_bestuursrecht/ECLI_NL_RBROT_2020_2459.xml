@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:2459</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T17:01:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:replaces rdfs:label="Vervangt">ECLI:NL:RBROT:2020:2364</dcterms:replaces>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-19</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/325</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_ambtenarenrecht">Bestuursrecht; Ambtenarenrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2459">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2459</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-23T12:42:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:2459 Rechtbank Rotterdam , 19-03-2020 / ROT 19/325</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:2459:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Eervol ontslag van een van werk naar werk-kandidaat, nadat het traject in een impasse is geraakt. Beroep is ongegrond. Artikel 49bb, tweede lid, en artikel 99, eerste lid, van het ARAR en artikel 12 van de Circulaire uitvoering Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:2459:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/325</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 19 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser,</bridgehead>
+    <para>gemachtigde: mr. J.H.M. Nijhuis,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Minister van Volksgezondheid, Welzijn en Sport, verweerder,</bridgehead>
+    <para>gemachtigde: mr. W.C.A. van den End.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 20 april 2018 (het primaire besluit) heeft verweerder eiser met ingang van 1 juni 2018 eervol ontslag verleend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 12 december 2018 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft een nader stuk ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 13 februari 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, bijgestaan door mr. L.T.D. van den Berg en [naam] msc.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser was vanaf 14 juli 1995 ambtenaar. Hij is met ingang van 1 november 2013 aangewezen als verplichte Van Werk Naar Werk (VWNW)-kandidaat vanuit de functie van beveiliger. Verweerder heeft op 6 januari 2015 een VWNW-plan opgesteld voor de duur van achttien maanden. Op 20 januari 2016 heeft verweerder een maatwerkadvies opgesteld voor het vervolgtraject van zes maanden. Het VWNW-traject heeft niet geleid tot een structurele plaatsing van eiser. <?linebreak?>Op 8 februari 2017 heeft eiser zich ziek gemeld. <?linebreak?>Op 22 mei 2017 heeft verweerder het voornemen voor het ontslag van eiser kenbaar gemaakt. Eiser is op 20 april 2018 met ingang van 1 juni 2018 eervol ontslag verleend op grond van artikel 99, eerste lid, van het Algemeen Rijksambtenarenreglement (ARAR).</para>
+    <para />
+    <para>2. In het bestreden besluit, onder overneming van het advies van de Bezwarenadviescommissie personele aangelegenheden BZK, heeft verweerder het ontslag gehandhaafd en is eiser een uitkering verleend die ten minste gelijk is aan het totaal van de uitkeringen berekend op basis van de Werkloosheidswet en het Besluit Bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk. Verweerder heeft aan het bestreden besluit ten grondslag gelegd dat hij voldoende inspanningen heeft gedaan om eiser te begeleiden naar een andere functie. Er is een begeleidingstraject aangeboden dat meermalen opnieuw is vormgegeven en ook is de mogelijkheid geboden tot het volgen van een opleiding. Dit heeft niet geleid tot plaatsing in een structurele functie. De mogelijkheden van verweerder zijn daarmee uitgeput waardoor een impasse in de arbeidsrelatie is ontstaan.</para>
+    <para />
+    <para>3. Eiser is het niet eens met de door verweerder aangehouden datum van de start van het VWNW-traject van 6 januari 2015. Hij stelt dat dit traject is gestart op 8 juni 2015 met de ondertekening van het VWNW-plan en, met het opvolgende maatwerktraject, zou eindigen op 8 juni 2017 en er pas na deze periode sprake had kunnen zijn van een impasse. Bovendien was eiser arbeidsongeschikt op het moment dat verweerder tot de conclusie kwam dat sprake was van een impasse. Eiser is hierdoor benadeeld, omdat een arbeidsongeschikte werknemer niet belast kan worden met werk en ook niet in staat is om te zoeken naar ander werk. Een impasse kan ook niet ontstaan door ziekte aangezien ziekte in de regel geen permanente toestand is. Het voortijds beëindigen van het vervolgtraject is in strijd met de toezeggingen die aan eiser zijn gedaan. Verder volgt uit de Circulaire uitvoering Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid (Circulaire) dat ontslag in het kader van of na afloop van het vervolgtraject slechts mogelijk is als dit met de VWNW-kandidaat is afgesproken. <?linebreak?>Ook geldt dat ontslag in het geval van een reorganisatie niet mogelijk is.</para>
+    <para />
+    <para>4. De voor deze zaak relevante bepalingen zijn opgenomen in een bijlage bij deze uitspraak.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Impasse – ontslag op grond van artikel 99 van het ARAR</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Uit artikel 49bb, tweede lid, van het ARAR volgt dat de eerste periode van het begeleidingstraject voor de verplichte VWNW-kandidaat aanvangt met ingang van de datum van vaststelling van het VWNW-plan. De rechtbank gaat met verweerder uit van de datum van 6 januari 2015 als start van het VWNW-traject. Verweerder heeft op die datum het plan vastgesteld en besproken met eiser. Vervolgens hebben partijen hieraan gezamenlijk uitvoering gegeven en in dat kader hebben ook regelmatig voortgangsbesprekingen plaatsgevonden. Er zijn geen aanknopingspunten voor het standpunt van eiser dat het plan eerst is vastgesteld door zijn ondertekening vijf maanden later.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Op grond van artikel 99, eerste lid, van het ARAR kan aan de ambtenaar in vaste dienst ook op andere gronden dan die in artikel 98 zijn geregeld of waarnaar in dat artikel wordt verwezen ontslag worden gegeven.  <?linebreak?>Volgens vaste rechtspraak van de Centrale Raad van Beroep (CRvB, bijvoorbeeld de uitspraak van 5 juni 2014, ECLI:NL:CRVB:2014:1937) kan aan dit artikel ook toepassing worden gegeven als een in de loop van de tijd ontstane impasse in de weg staat aan een vruchtbare verdere samenwerking en voortzetting van het dienstverband redelijkerwijs niet van het bestuursorgaan kan worden verwacht. <?linebreak?>Verder volgt uit rechtspraak van de CRvB (uitspraak van 16 januari 2014, ECLI:NL:CRVB:2014:58) dat voor de vaststelling of het bestuursorgaan bevoegd is om tot ontslagverlening over te gaan de situatie ten tijde van het nemen van het ontslagbesluit bepalend is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Gedurende het VWNW-traject hebben eiser en verweerder zich ingespannen een nieuwe werkplek voor eiser te vinden. Eiser heeft onder meer de opleiding tot beveiliger op MBO2-niveau gevolgd, wat uiteindelijk niet tot het behalen van het diploma heeft geleid. Daarnaast is eiser diverse malen gedetacheerd geweest en is hij door verweerder begeleid bij zijn sollicitaties.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Verweerder heeft vanaf 6 april 2016 bij de voortgangsgesprekken, zo blijkt uit de verslaglegging, aan eiser steeds laten weten dat als de inspanningen niet het gewenste resultaat zouden hebben er uiteindelijk zou worden overgegaan tot ontslag van eiser. Er is dan ook geen sprake van dat verweerder in strijd met aan eiser gedane toezeggingen heeft gehandeld. Gelet op de inspanningen van verweerder in de VWNW-begeleiding en de constatering door verweerder dat na al deze inspanningen geen zicht meer was op het structureel kunnen plaatsen van eiser, maakt de conclusie van verweerder, dat zijn mogelijkheden waren uitgeput en er daardoor sprake was van een impasse, gerechtvaardigd. Dat de vervolgperiode op enkele weken na niet volledig is afgemaakt doordat eiser arbeidsongeschikt is geworden, maakt dat niet anders. Verweerder heeft de arbeidsongeschiktheid van eiser niet aan het bestreden besluit ten grondslag gelegd en dat staat ook niet aan het eervol ontslag van eiser in de weg. Van de door eiser gestelde benadeling door zijn ziekte is dan ook geen sprake.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Eiser stelt dat nog geen sprake was van een impasse omdat het maatwerktraject volgens hem nog liep tot en met juni 2017. Graag had hij nog de kans gekregen om het traject verder te vervolgen en naar werk te worden begeleid. Zoals hiervoor is overwogen volgt de rechtbank eiser niet in zijn stelling over de duur van het maatwerktraject. De rechtbank acht het begrijpelijk dat eiser op het moment dat hij hersteld is het VWNW-traject zou willen voortzetten en begeleiding zou willen krijgen bij het vinden van werk. Ter zitting heeft eiser nog verklaard dat hij verweerder te kennen heeft gegeven alsnog examen te willen doen om de opleiding tot beveiliger af te ronden. De rechtbank stelt vast dat eiser in 2014 de opleiding tot beveiliger heeft gevolgd en in september 2014 en februari 2015 examen heeft gedaan, maar dat dit beide keren niet tot een positief resultaat heeft geleid. Tussen partijen is hierna nog gesproken om het diploma voor beveiliger alsnog met extra begeleiding te halen. Dit voornemen is in verband met een detachering opgeschort. Het dossier biedt geen aanknopingspunten voor het standpunt van eiser dat hij verweerder te kennen heeft gegeven het diploma voor de opleiding tot beveiliger alsnog te willen halen. Het volgt niet uit de verslagen van de gesprekken tussen eiser en verweerder over de voortgang en ook niet uit de correspondentie van december 2016 of het voornemen tot het primaire besluit waar eiser ter zitting naar heeft verwezen. Gelet op de ontstane impasse heeft verweerder over kunnen gaan tot eervol ontslag.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Circulaire</emphasis>
+        </para>
+      </parablock>
+      <para>6. Anders dan eiser betoogt, staat de Circulaire niet in de weg aan een ontslag op grond van artikel 99 van het ARAR. Uit artikel 12 van de Circulaire volgt dat na afloop van de derde periode van VWNW-begeleiding onder deskundige professionele begeleiding een advies wordt uitgebracht over individueel maatwerk voor een vervolgtraject. Dit laat de mogelijkheid onverlet om als vervolgtraject ontslag op grond van artikel 99 van het ARAR af te spreken. <?linebreak?>De rechtbank stelt vast dat na afloop van de derde periode van zes maanden partijen overeenstemming hebben bereikt over een vervolgtraject en dat zij uitvoering hebben gegeven aan achtereenvolgens het maatwerkadvies van 20 januari 2016 en de aanvulling ervan van 15 december 2016. Eiser heeft niet op enig moment bezwaar gemaakt of aanvullingen gedaan op de verslaglegging hierover door verweerder. Partijen hebben niet in plaats van het afspreken van een vervolgtraject gekozen voor ontslag op grond van artikel 99 van het ARAR. Nu partijen overeenstemming hebben bereikt over het vervolgtraject naar aanleiding van het advies en zij daar ook uitvoering aan hebben gegeven, was het voorleggen van het advies aan de interdepartementale commissie niet aan de orde. <?linebreak?>Het ARAR of de Circulaire biedt geen aanknopingspunten voor het standpunt dat ontslag op grond van artikel 99 van het ARAR tijdens of na een vervolgtraject niet kan volgen als er geen overeenstemming is over ontslag op die grond. Evenmin volgt hieruit dat ontslag niet mogelijk is bij een reorganisatie. In overweging a. bij de overeenkomst behorend bij de Circulaire staat dat uitgangspunt een sluitende aanpak is voor iedereen in de begeleiding van werk naar werk, waarbij ambtenaren die actief meewerken aan het VWNW-traject dat de werkgever aanbiedt, daadwerkelijk begeleid worden naar ander werk. Verder volgt hieruit dat reorganisatie geen zelfstandige grond kan zijn voor ontslag en reorganisatieontslag gedurende de looptijd van de afspraken niet wordt toegepast, maar de reorganisatie is in dit geval niet de grondslag voor het ontslag geweest. Verweerder heeft de ontstane impasse ten grondslag gelegd aan het bestreden besluit en dat dit tijdens de looptijd van afspraken, zoals in dit geval aan het einde van het vervolgtraject, heeft plaatsgevonden maakt niet dat het ontslag in strijd is met het ARAR of de Circulaire.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>7. Naar het oordeel van de rechtbank was ten tijde van het nemen van het primaire besluit sprake van een impasse waardoor verweerder eiser op grond van artikel 99 van het ARAR kon ontslaan.</para>
+      <para />
+      <para>8. Het beroep is ongegrond.</para>
+      <para />
+      <para>9. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. N. Boonstra, voorzitter, en mr. E.J. Rutten en mr. M.C. Snel-van den Hout, leden, in aanwezigheid van mr. E. Naaijen-van Kleunen, griffier. De uitspraak is gedaan op 19 maart 2020 en openbaar gemaakt door middel van publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier is verhinderd	 te tekenen		De voorzitter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.</para>
+      <para>
+        <emphasis role="bold">Bijlage</emphasis>
+      </para>
+      <para>Op grond van artikel 49bb, eerste lid, van het ARAR bestaat het begeleidingstraject uit drie elkaar opvolgende perioden van elk zes maanden, met dien verstande dat bij een aanstelling in tijdelijke dienst het begeleidingstraject bestaat uit maximaal de resterende periode van die aanstelling. Op grond van het tweede lid vangt de eerste periode van het begeleidingstraject voor de verplichte VWNW-kandidaat aan met ingang van de datum van vaststelling van het VWNW-plan, met dien verstande dat voor de verplichte VWNW-kandidaat, bedoeld in artikel 49r, onderdeel e, onder 1° en 2°, het begeleidingstraject niet eerder aanvangt dan nadat hij niet meer met zijn functie wordt belast.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 49dd, tweede lid, van het ARAR wordt, indien de verplichte VWNW-kandidaat na afloop van de derde periode van het begeleidingstraject niet geplaatst is in een andere functie, onder onafhankelijke professionele begeleiding een individueel vervolgtraject bepaald, dat in beginsel is gericht op de aanvaarding van een andere functie door de verplichte VWNW-kandidaat. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 99, eerste lid, van het ARAR kan aan de ambtenaar in vaste dienst ook op andere gronden dan die in artikel 98 zijn geregeld of waarnaar in dat artikel wordt verwezen, ontslag worden gegeven. Dat ontslag wordt eervol verleend. Op grond van het tweede lid wordt in dit geval door het tot ontslagverlening bevoegde gezag een voorziening getroffen waarbij de ambtenaar een uitkering verleend wordt, die, naar het oordeel van dat bevoegde gezag, met het oog op de omstandigheden redelijk is te achten. Deze uitkering zal ten minste gelijk zijn aan het voor de ambtenaar geldende totaal van uitkeringen berekend op basis van de Werkloosheidswet en het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk, als ware als gevolg van het ontslag geen sprake van verwijtbare werkloosheid als bedoeld in artikel 24 van de Werkloosheidswet. Voor zover door het bevoegde gezag ten gunste van de ambtenaar niet anders is beslist, zijn op de uitkering voor het overige de Werkloosheidswet en het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk van overeenkomstige toepassing.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In overweging a. bij de overeenkomst behorend bij de Circulaire staat dat uitgangspunt een sluitende aanpak is voor iedereen in de begeleiding van werk naar werk, waarbij ambtenaren die actief meewerken aan het VWNW-traject dat de werkgever aanbiedt, daadwerkelijk begeleid worden naar ander werk. Reorganisatie kan geen zelfstandige grond zijn voor ontslag, zodat reorganisatieontslag gedurende de looptijd van de afspraken niet wordt toegepast.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In artikel 12 van de overeenkomst behorend bij de Circulaire is VWNW-begeleiding na de derde periode geregeld. Indien de vrijwillige VWNW-kandidaat na afloop van de derde periode van VWNW-begeleiding nog niet definitief is geplaatst in een nieuwe functie, vervalt de status van VWNW-kandidaat. Indien de verplichte VWNW-kandidaat na afloop van de derde periode van VWNW-begeleiding nog niet definitief is geplaatst in een nieuwe functie en nog steeds in dienst is wordt onder deskundige professionele begeleiding een advies uitgebracht over individueel maatwerk voor een vervolgtraject. Ook het vervolgtraject is in beginsel gericht op plaatsing in een nieuwe functie waarbij wederom een sluitende aanpak het uitgangspunt is. Dit laat onverlet de mogelijkheid om als vervolgtraject een ontslag op grond van artikel 99 van het ARAR af te spreken. Indien de VWNW-kandidaat of het bevoegd gezag zich niet kunnen vinden in het advies voor het vervolgtraject wordt het voorgelegd aan de interdepartementale toetsingscommissie voordat het bevoegd gezag een besluit neemt over het vervolgtraject.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

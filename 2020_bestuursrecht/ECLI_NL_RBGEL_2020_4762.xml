@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:4762</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-25T11:53:47</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3130</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:4762">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:4762</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-25T11:50:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:4762 Rechtbank Gelderland , 17-09-2020 / AWB - 19 _ 3130</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:4762:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Omgevingsvergunning crematorium. Beroep door concurrent. Relativiteitsvereiste.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:4762:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para>Zittingsplaats Arnhem</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/3130</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van</bridgehead>
+    <para />
+    <parablock>
+      <para>in de zaak tussen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiseres], te [woonplaats], eiseres,</bridgehead>
+    <para>(gemachtigde: mr. G. Voerman)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente [woonplaats]</emphasis>, verweerder.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: <emphasis role="bold">[derde-partij]</emphasis>, te [woonplaats].</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 april 2019 (het bestreden besluit) heeft verweerder aan de derde-partij een omgevingsvergunning verleend voor de bouw van een uitvaartcentrum en crematorium.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 3 juni 2020. Deze zaak is gelijktijdig op zitting behandeld met het beroep met zaaknummer 19/3100. In de zaken wordt afzonderlijk uitspraak gedaan. </para>
+      <para>Ter zitting is namens eiseres [eiseres] verschenen, bijgestaan door gemachtigde mr. G. Voerman. Verweerder heeft zich laten vertegenwoordigen door mr. G.J.J. Schut. Namens derde-partij is [derde-partij] verschenen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <para>1. De derde-partij heeft op 18 januari 2018 een aanvraag ingediend voor de realisatie van een uitvaartcentrum en crematorium op het perceel [locatie] te [woonplaats]. </para>
+    <parablock>
+      <para>In het bouwplan blijft de op het perceel aanwezige villa uit 1930 behouden. Deze villa zal worden gebruikt als kantoor en het uitvaartcentrum/crematorium wordt met een tussenstuk daar tegen aangebouwd. Daarvoor worden de bestaande bijgebouwen gesloopt. </para>
+      <para>De uitbreiding heeft een oppervlakte van ongeveer 1.100 m² en de bouwhoogte bedraagt ongeveer 4 meter, met verhogingen ter plaatse van de koffieruimte (4,5 meter), ovenruimte (5 meter) en aula (6 meter). </para>
+      <para>Op het perceel wordt daarnaast ook een parkeerterrein met 88 parkeerplaatsen aangelegd, evenals een bloementuin en een afschermende groenstrook. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het perceel is in de beheersverordening “Buitengebied Zevenaar” bestemd als “Wonen – 1”, “Agrarisch” en “Agrarisch met Waarden”. Het gebruik voor een uitvaartcentrum en crematorium is in strijd met deze beheersverordening. </para>
+      <para>Verweerder heeft daarom naast een omgevingsvergunning voor de activiteit “bouwen”<footnote-ref linkend="_75d37646-ea8b-4744-956b-97a4215594ac" /> ook een omgevingsvergunning verleend voor de activiteit “gebruik in strijd met het bestemmingsplan”<footnote-ref linkend="_10f3b3fd-f95f-42ed-b501-86949b2de5eb" />. Deze omgevingsvergunning kan slechts worden verleend als de activiteit niet in strijd is met een goede ruimtelijke ordening en de motivering van het besluit een goede ruimtelijke onderbouwing bevat.</para>
+      <para>Aan de omgevingsvergunning heeft verweerder het voorschrift verbonden dat het aantal crematies maximaal 500 per jaar mag bedragen. </para>
+    </parablock>
+    <para />
+    <para>2. Eiseres exploiteert een crematorium in [woonplaats]. Dit crematorium ligt op een afstand van ongeveer 33 kilometer. Zij heeft daarnaast het voornemen om op het perceel [locatie] te [woonplaats] – op een afstand van ongeveer 16 km – ook een crematorium te realiseren. Voor dit crematorium heeft de gemeenteraad van de gemeente Oude IJsselstreek op 21 februari 2019 een nieuw bestemmingsplan vastgesteld. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Belanghebbendheid</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Verweerder betoogt dat eiseres niet is aan te merken als belanghebbende omdat het nieuwe crematorium van eiseres niet in hetzelfde verzorgingsgebied werkzaam zal zijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <parablock>
+        <para>De rechtbank volgt dit standpunt niet. In de ruimtelijke onderbouwing wordt aangegeven dat het verzorgingsgebied van het crematorium een straal heeft van 10 km. Dit betekent dat – gelet op de afstand van hemelsbreed 16 km tussen beide crematoria – de verzorgingsgebieden van beide crematoria elkaar deels zullen overlappen. </para>
+        <para>Eiseres is daarom belanghebbende bij het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Relativiteitsvereiste</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>Eiseres is een concurrent van derde-partij, zodat het met het bestreden besluit mogelijk gemaakte crematorium haar schaadt in haar concurrentiebelangen. Op grond van artikel 8:69a van de Algemene wet bestuursrecht (Awb) vernietigt de bestuursrechter een besluit niet op de grond dat het in strijd is met een geschreven of ongeschreven rechtsregel of een algemeen rechtsbeginsel, indien deze regel of dit beginsel kennelijk niet strekt tot bescherming van de belangen van degene die zich daarop beroept. Blijkens de geschiedenis van de totstandkoming van de Wet aanpassing bestuursprocesrecht (Kamerstukken II, 2009/10, 32 450, nr. 3, blz. 18-20) heeft de wetgever met artikel 8:69a van de Awb de eis willen stellen dat er een verband moet bestaan tussen een beroepsgrond en het belang waarin eiseres door het bestreden besluit dreigt te worden geschaad. De bestuursrechter mag een besluit niet vernietigen wegens schending van een rechtsregel die kennelijk niet strekt tot bescherming van het belang van eiseres. </para>
+        <para>De rechtbank zal daarom eerst beoordelen of de beroepsgronden die eiseres aanvoert een verband hebben met de (concurrentie)belangen waarin zij wordt geschaad. Daarbij stelt de rechtbank vast dat eiseres gronden heeft op een afstand van respectievelijk 16 en 33 kilometer van het perceel waar derde-partij haar crematorium wil oprichten. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beroepsgrond over de vormvrije mer beoordeling</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <parablock>
+        <para>Zoals de Afdeling bestuursrechtspraak van de Raad van State (Afdeling) heeft overwogen in overweging 12.3 van de uitspraak van 16 maart 2016 (ECLI:NL:RVS:2016:732) is de wettelijke regeling van de mer vastgelegd in hoofdstuk 7 van de Wet milieubeheer. Daaruit volgt dat een mer moet worden gemaakt als de activiteit belangrijke nadelige gevolgen voor het milieu kan hebben. </para>
+        <para>Eiseres ondervindt echter geen milieugevolgen van het voorziene crematorium, omdat haar percelen op minimaal 16 kilometer afstand zijn gelegen. De verplichting een mer-beoordeling uit te voeren strekt dus niet ter bescherming van de belangen van eiseres. </para>
+        <para>Deze beroepsgrond kan dus niet leiden tot vernietiging van het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beroepsgrond over het natuurgebied Rijntakken (stikstofdepositie)</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <parablock>
+        <para>Over natuur- en landschapsbescherming volgt uit de uitspraak van de Afdeling van 13 juli 2011, ECLI:NL:RVS:2011:BR1412, dat de in de Wet natuurbescherming (Wnb) neergelegde gebiedsbescherming algemene natuurbelangen beoogt te beschermen. Belangen van omwonenden bij het behoud van een goede kwaliteit van hun leefomgeving kunnen zo verweven zijn met die algemene belangen dat niet kan worden geoordeeld dat de betrokken normen van de Wnb kennelijk niet strekken tot bescherming van hun belangen, als het betrokken Natura 2000-gebied deel uitmaakt van hun leefomgeving. </para>
+        <para>De belangen van eiseres bij bescherming van het natuurgebied Rijntakken zijn in dit geval niet verweven met de algemene belangen, omdat het natuurgebied Rijntakken te ver van de percelen van eiseres afligt om deel uit te maken van de leefomgeving van eiseres.</para>
+        <para>Zoals de Afdeling in de uitspraak van 29 januari 2020 (ECLI:NL:RVS:2020:283) heeft overwogen strekken de betrokken normen uit de Wnb voorts niet tot bescherming van bedrijfseconomische belangen, zoals die van eiseres. </para>
+        <para>Het relativiteitsvereiste staat daarom aan vernietiging van het bestreden besluit op die grond in de weg. Deze beroepsgrond kan dus ook niet leiden tot vernietiging van het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beroepsgrond over de economische uitvoerbaarheid</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <parablock>
+        <para>Op grond van artikel 3.1.6, eerste lid, onder f, van het Besluit ruimtelijke ordening (Bro) dienen in de omgevingsvergunning de inzichten over de uitvoerbaarheid van het plan te zijn weergegeven. </para>
+        <para>Zoals de Afdeling heeft overwogen in de uitspraak van 16 maart 2016 (ECLI:NL:RVS:2016:732) strekt artikel 3.1.6, eerste lid, aanhef en onder f, van het Bro er mede toe te voorkomen dat belanghebbenden worden geconfronteerd met de nadelige ruimtelijke gevolgen van een bestemming die niet uitvoerbaar is. Aldus beoogt deze bepaling de bij het daadwerkelijk realiseren van de bestemming betrokken belangen te beschermen, waaronder in ieder geval begrepen die van grondeigenaren en grondgebruikers in en om het plangebied. Daaronder worden niet begrepen de belangen van een concurrent die niet in de onmiddellijke nabijheid van het plangebied is gevestigd, aldus die uitspraak. </para>
+        <para>Eiseres is niet in de onmiddellijke nabijheid van het plangebied gevestigd, zodat artikel 3.1.6, eerste lid, aanhef en onder f, niet ter bescherming van haar belangen strekt.</para>
+        <para>Deze beroepsgrond kan dus niet leiden tot vernietiging van het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beroepsgrond over geluid</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <parablock>
+        <para>De geluidsnormen strekken niet tot bescherming van de belangen van eiseres. Zie ter vergelijking de uitspraak van de Afdeling van 20 april 2016 (ECLI:NL:RVS:2016:1069). </para>
+        <para>Deze beroepsgrond kan dus niet leiden tot vernietiging van het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beroepsgrond over het vooroverleg</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <parablock>
+        <para>Ook voor hetgeen eiseres heeft aangevoerd met betrekking tot de vooroverlegreactie van de provincie geldt dat de bepaling waarop eiseres zich beroept (artikel 3.1.1 Bro) niet strekt ter bescherming van de belangen van (concurrerende) bedrijven. Zie de uitspraak van de Afdeling van 29 januari 2020 (ECLI:NL:RVS:2020:283). </para>
+        <para>Deze beroepsgrond kan dus niet leiden tot vernietiging van het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beroepsgrond over het ontbreken van een verklaring van geen bedenkingen</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <parablock>
+        <para>Eiseres betoogt dat aan het bestreden besluit ten onrechte geen verklaring van geen bedenkingen ten grondslag ligt. Dit omdat een verklaring van geen bedenkingen is vereist voor initiatieven waarvoor het noodzakelijk is dat een milieueffectrapport of een milieueffectbeoordeling op grond van de Wet milieubeheer wordt opgesteld. </para>
+        <para>De rechtbank overweegt dat deze gestelde schending van een procedurele norm, dat een verklaring van geen bedenkingen noodzakelijk is, voor zover het gaat over de toepassing van het relativiteitsbeginsel, niet los kan worden gezien van de materiële norm waarop eiseres zich beroept, namelijk dat een milieueffectrapport of een milieueffectbeoordeling op grond van de Wet milieubeheer wordt opgesteld. Dat betekent dat het relativiteitsbeginsel aan vernietiging op grond van strijd met een procedurele norm in de weg staat als de onderliggende materiele norm niet strekt tot bescherming van eisers. Vergelijk de uitspraak van de Afdeling van 23 december 2015, ECLI:NL:RVS:2015:3992, overweging 3.2.</para>
+        <para>De onderliggende materiële norm is in dit geval de noodzaak van het opstellen van een milieueffectrapport of een milieueffectbeoordeling op grond van de Wet milieubeheer.  Uit het voorgaande volgt al dat deze normen niet strekken ter bescherming van het belang van eiseres.</para>
+        <para>Deze beroepsgrond kan dus niet leiden tot vernietiging van het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beroepsgrond over de Ladder voor duurzame verstedelijking</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.8.</nr>
+      <parablock>
+        <para>Eiseres beroept zich hierbij op artikel 3.1.6, tweede lid, van het Bro. Als deze regel in rechte wordt ingeroepen door een concurrent, dienen, zo volgt uit de rechtspraak<footnote-ref linkend="_9b5bed18-d15e-4f96-af74-4b1fecb3b7ed" />, daarbij feiten en omstandigheden naar voren te komen die het oordeel rechtvaardigen dat de voorziene ontwikkeling tot een uit oogpunt van een goede ruimtelijke ordening relevante leegstand zal kunnen leiden. Alleen in dat geval staat de in artikel 8:69a van de Awb neergelegde relativiteitseis niet aan inhoudelijke beoordeling van de gestelde strijd met artikel 3.1.6, tweede lid, van het Bro in de weg. Voor relevante leegstand als hiervoor bedoeld is onvoldoende dat de voorziene ontwikkeling, leidt of kan leiden tot een verminderde vraag naar producten of diensten en daardoor tot daling van omzet en inkomsten van de eigen onderneming of de betreffende vestiging, zo volgt uit die rechtspraak.  </para>
+        <para>De rechtbank sluit niet uit dat het voorziene crematorium kan leiden tot een verminderde vraag en daardoor tot daling van omzet en inkomsten van eiseres. Dat is echter onvoldoende voor het oordeel dat het plan tot een uit oogpunt van een goede ruimtelijke ordening relevante leegstand zal kunnen leiden. Er zijn geen aanknopingspunten dat het voorziene crematorium tot ruimtelijk relevante leegstand zal leiden. Het beroep op de in artikel 3.1.6., tweede lid van het Bro opgenomen ladder van duurzame verstedelijking stuit dus af op het relativiteitsvereiste. </para>
+        <para>Voor zover de betogen van eiseres over de behoefte en of de vraag naar crematies te hoog is ingeschat, het verzorgingsgebied niet juist is en een crematorium met 500 crematies niet rendabel is, zijn gebaseerd op de algemene, overkoepelende norm van artikel 2.12, eerste lid, onder a, onder 3°, van de Wabo, geldt hetzelfde. De in dat artikel opgenomen norm van strijd met een goede ruimtelijke ordening, strekt in dit geval ook pas tot bescherming van de belangen van eiseres als aanknopingspunten aanwezig zijn voor ruimtelijk relevante leegstand. Die zijn er echter niet, zo blijkt uit het voorgaande. </para>
+        <para>Deze beroepsgrond kan dus niet leiden tot vernietiging van het bestreden besluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Leges</emphasis>
+        </para>
+      </parablock>
+      <para>5. Met betrekking tot het betoog van eiseres over het opnemen van de legeskosten in de omgevingsvergunning overweegt de rechtbank dat geen wettelijk voorschrift bestaat dat voorschrijft dat de legeskosten in de omgevingsvergunning moeten worden opgenomen. </para>
+      <para>Dit betoog faalt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>6. Uit het voorgaande volgt dat het beroep ongegrond is, omdat bijna alle betogen op grond van het relativiteitsvereiste niet tot vernietiging van het bestreden besluit kunnen leiden en voor zover de gronden daar niet op afstuiten deze falen. </para>
+      <para>Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="3">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <tbody>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Deze uitspraak is gedaan door mr. J.J.W.P. van Gastel, rechter, in tegenwoordigheid van mr. E. Mengerink, griffier. </para>
+              <para>De beslissing is in het openbaar uitgesproken op: </para>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>rechter</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Afschrift verzonden aan partijen op:</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>
+                <emphasis role="bold">Rechtsmiddel</emphasis>
+              </para>
+              <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+  </section>
+  <footnote id="_75d37646-ea8b-4744-956b-97a4215594ac" label="1">
+    <para> artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht (Wabo).</para>
+  </footnote>
+  <footnote id="_10f3b3fd-f95f-42ed-b501-86949b2de5eb" label="2">
+    <para> artikel 2.1, eerste lid, aanhef en onder c, van de Wabo in samenhang met artikel 2.12, eerste lid, onder a, onder 3°, van de Wabo.</para>
+  </footnote>
+  <footnote id="_9b5bed18-d15e-4f96-af74-4b1fecb3b7ed" label="3">
+    <para> Uitspraak van de Afdeling van 20 mei 2015, ECLI:NL:RVS:2015:1585.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

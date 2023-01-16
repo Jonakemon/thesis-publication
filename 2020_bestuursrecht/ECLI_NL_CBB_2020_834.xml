@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:834</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-17T13:17:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/1236</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0039205&amp;g=2020-01-01">Regeling fosfaatreductieplan 2017</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:834">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:834</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-16T08:28:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:834 College van Beroep voor het bedrijfsleven , 17-11-2020 / 19/1236</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:834:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Regeling Fosfaatreductieplan 2017, bijzonder afkalfpatroon waardoor peildatum voor referentieaantal bijzonder ongunstig uitpakt, toepassing hardheidsclausule, het hoogste en laagste aantal GVE in 2015 moeten worden gemiddeld.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:834:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 19/1236</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 17 november 2020 in de zaak tussen</bridgehead>
+    <bridgehead role="bold">Maatschap [naam 1] , [naam 2] en [naam 3] , handelend onder de naam [naam 4] , te [plaats] (gemeente [gemeente 1] ), appellante </bridgehead>
+    <parablock>
+      <para>(gemachtigde: mr. M.B. Barteldse-Dikkeschei)</para>
+      <para>
+        <?linebreak?>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. A.R. Alladin)</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluiten van 24 maart 2018, 31 maart 2018, 7 april 2018, 14 april 2018 en 21 april 2018 (de primaire besluiten 1, 2, 3, 4 en 5) heeft verweerder op grond van de Regeling Fosfaatreductieplan 2017 (de Regeling) aan appellante een heffing opgelegd van € 10.963,- voor periode 1, van € 6.048,- voor periode 2, van € 6.542,- voor periode 3 en van € 12.677,- voor periode 4 en appellante voor periode 5 een bonusgeldsom toegekend van € 2.697,- toegekend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 juni 2018 (het combinatiebesluit) heeft verweerder de bij de primaire besluiten 1 tot en met 4 opgelegde heffingen voor periode 1 tot en met 4 herhaald en appellante voor periode 5 een heffing van € 22.920,- opgelegd. <?linebreak?>Bij besluit van 1 mei 2019 heeft verweerder de tegen de primaire besluiten 1 tot en met 4 en het besluit van 16 juni 2018 gemaakte bezwaren ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft tegen dit besluit beroep ingesteld. <?linebreak?>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft een nader stuk ingediend. </para>
+      <para>
+        <?linebreak?>Het onderzoek ter zitting heeft plaatsgevonden op 7 oktober 2020. Appellante is verschenen in de persoon van de maat [naam 1] , vertegenwoordigd door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+  </section>
+  <section>
+    <title>
+      <?linebreak?>De Regeling</title>
+    <para />
+    <para>1. De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel vrouwelijke runderen houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot hun referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen, verminderd met 4% – met uitzondering van grondgebonden bedrijven – en omgerekend naar grootvee-eenheden (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer vrouwelijke runderen houdt dan het referentieaantal. Verweerder kent een bonusgeldsom toe indien een melkveehouder minder vrouwelijke runderen houdt dan het referentieaantal.</para>
+    <para>2. De Regeling kent twee soorten heffingen, de hoge geldsom en de solidariteitsgeldsom. Welke heffing wordt opgelegd is mede afhankelijk van de vraag of in de betreffende periode het doelstellingsaantal is behaald. Het doelstellingsaantal is het aantal op 1 oktober 2016 geregistreerde runderen, verminderd met het voor de betreffende periode vastgestelde verminderingspercentage, met dien verstande dat het doelstellingsaantal nooit lager is dan het referentieaantal. Verweerder legt een hoge geldsom op indien in de betreffende periode meer GVE worden gehouden dan het doelstellingsaantal. De hoogte van de hoge geldsom bedraagt € 480,- voor elke GVE boven het referentieaantal. Een bedrijf dat inkrimpt tot het doelstellingsaantal, maar niet tot het referentieaantal, krijgt een solidariteitsgeldsom opgelegd van € 112,- voor elke GVE boven het referentieaantal. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Situatie appellante</emphasis>
+      </para>
+    </parablock>
+    <para>3. Appellante exploiteert een melkveehouderij. Over het bedrijf heeft zij het volgende toegelicht.<?linebreak?>	Eén van de huidige maten, de heer [naam 1] , is de maatschap op 1 januari 1992 gestart met zijn echtgenote. In 1993 hebben [naam 1] en zijn vrouw een geheel nieuwe boerderij gebouwd midden in de [locatie] . Op dat moment bestond het bedrijf uit 15 hectare land in eigendom, 30 hectare huurland, 60 melkkoeien, 60 stuks jongvee, 70 fokschapen en een melkquotum van 500.000 liter. Tussen 1994 en 1999 is 22,5 hectare land bijgekocht zodat de veestapel verder uitgebreid kon worden naar 100 melkkoeien, 80 stuks jongvee en 100 schapen. In 2000 heeft [naam 1] van de gemeente [gemeente 2] 35 hectare land in reguliere pacht ter beschikking gekregen en is het bedrijf omgeschakeld naar een biologische bedrijfsvoering. Hierna is er verder uitgebreid en is een nieuwe jongveestal gebouwd. Het bedrijf bleef in ontwikkeling als biologisch bedrijf en werd in 2000 ook actief als een bedrijf voor agrarisch natuurbeheer. Zo werd het bedrijf van appellante geselecteerd voor het project "Boeren voor Natuur" van de Provincie Zuid-Holland, de Provincie Overijssel en het Ministerie van LNV, waarin een visie was neergelegd over het samengaan van natuur en landbouw door middel van een extensief bedrijfssysteem. Omdat de aandacht voor natuur een lagere productie oplevert, krijgt appellante op basis van een met de minister van LNV gesloten overeenkomst compensatie. Deze overeenkomst loopt tot 1 januari 2038.<?linebreak?>	In 2011 is het bedrijf biodynamisch geworden en in 2015 is, om de koeien gezond te houden en hen een beter dierwelzijn te kunnen bieden, een koeientuin gerealiseerd. Deze koeientuin geeft de koeien ieder circa 30 m2 ruimte terwijl dit voorheen maar circa 7 m2 was. Van eind november tot ongeveer half maart staan de koeien op stal maar de rest van het jaar kunnen ze vrij in- en uitlopen. Ook mogen de kalfjes langer vrij bij hun moeder rondlopen. Voorts zet appellante in op een gesloten kringloop door organische stoffen uit de omgeving als strooisel voor de koeientuin te verwerken en om te zetten tot compost. Thans is het bedrijf gegroeid tot ca. 37 hectare land in eigendom, 135 hectare huurland, 171 stuks melkvee, 208 stuks jongvee inclusief ossen, 35 schapen en een levering van bijna 900.000 liter melk.<?linebreak?>	Appellante heeft verder een coöperatie opgericht, onder meer om de hoge natuurdoelstellingen en belevingsdoelstellingen te realiseren. Door de bouw van de nieuwe koeientuin is de oude stal vrijgekomen en deze stal is door appellante omgebouwd tot belevingsstal. De belevingsstal wordt gehuurd door de coöperatie zodat zij op haar beurt haar leden de kans kan geven een eigen exploitatie te voeren. Inmiddels bestaat de coöperatie uit vijf leden, namelijk de boerenexploitatie, een slager, een bakker, een weilandwinkel met moestuin en hulpboeren. Onderling zijn ze allemaal verweven met elkaar en met appellante. Zo verwerkt de slager het vlees van de koeien van appellante. De slager heeft een belangrijke overeenkomst gesloten met een retailer van biodynamische winkels. Deze afnemer zorgt voor een aanzienlijk deel van de omzet van de slagerij. De weilandwinkel verkoopt o.a. het vlees van de slager, de eigen groenten die biologisch-dynamisch geteeld zijn in de moestuin, de melk van het bedrijf van appellante en diverse andere producten. De moestuin wordt gesteund in het werk door de hulpboeren. Hulpboeren zijn mensen met een beperking of een achterstand op de arbeidsmarkt die de gelegenheid krijgen om mee te helpen op het bedrijf van appellante en bij alle leden van de coöperatie. Het doel hiervan is dat zij na het doorlopen van dit traject kunnen re-integreren in de maatschappij, aldus appellante. <?linebreak?>	Appellante heeft ten slotte uiteengezet dat zij een door de Vogelbescherming Nederland erkende weidevogelboerderij is. Dit betekent dat er rekening moet worden gehouden met broedende weidevogels en opgroeiende kuikens. Het gevolg hiervan is dat er in het voorjaar geen goed gras is voor de koeien, aangezien alles dan in dienst staat van de natuur. Nadat het broedseizoen is afgelopen, zo rond 1 juli, kan het gras pas gemaaid worden en is het voor haar "voorjaar", aldus appellante. </para>
+    <para>4. Verweerder heeft appellante voor ieder van de vijf perioden een hoge geldsom opgelegd, omdat het op haar bedrijf aanwezige aantal vrouwelijke runderen in ieder van die perioden hoger was dan het doelstellingaantal. </para>
+    <para />
+    <para>5. Appellante is het hier niet mee eens en heeft beroep ingesteld. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beroep</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Appellante betoogt dat verweerder heeft miskend dat de peildatum van 2 juli 2015, als gevolg van de bijzondere wijze van afkalven op het bedrijf, voor haar bijzonder ongunstig uitvalt. Reguliere melkveebedrijven hebben een veestapel die afkalft in de zomermaanden. Deze bedrijven hadden derhalve op de peildatum van 2 juli 2015 een piek in het aantal stuks vee. De veestapel van appellante kalft echter af in de wintermaanden, waardoor de kalfjes in de periode van september tot en met januari worden geboren en er dus een piek in het aantal vrouwelijke runderen ontstaat in de wintermaanden. In de zomermaanden wordt juist minder vee gehouden. Dit blijkt ook uit de diertelkaarten uit de jaren 2012 tot en met 2017, aldus appellante. Volgens appellante had er in haar geval rekening gehouden moeten worden met dit bijzondere afkalfpatroon en had van een alternatieve representatieve peildatum uitgegaan dienen te worden. </para>
+    <para />
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het College begrijpt het betoog van appellante aldus dat zij een beroep doet op de hardheidsclausule, neergelegd in artikel 13, derde lid, van de Landbouwwet. Zoals het College eerder heeft overwogen (zie de uitspraken van het College van 14 juli 2020, ECLI:NL:CBB:2020:453 en van 21 juli 2020, ECLI:NL:CBB:2020:470), bestaat voor de toepassing van de hardheidsclausule aanleiding indien het strikt volgen van de Regeling in het desbetreffende geval onevenredige gevolgen met zich brengt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>De peildatum van het referentieaantal is in de Regeling bepaald op <?linebreak?>2 juli 2015. Zoals het College eerder heeft geoordeeld in de uitspraak van <?linebreak?>21 augustus 2018 (ECLI:NL:CBB:2018:414), is de keuze van de wetgever voor deze peildatum niet ontoelaatbaar. Naar het oordeel van het College leidt het aanhouden van deze peildatum echter in het geval van appellante tot onevenredige gevolgen. In dat kader is het volgende van belang.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Uit de door appellante overgelegde dierkaarten over de jaren 2012 tot en met 2017 volgt dat appellante ieder jaar het hoogste aantal runderen in januari/februari had en het laagste aantal in juli/augustus. Dit verschil bedraagt, afhankelijk van het jaar, minimaal 11 GVE en maximaal 30 GVE. Voorts blijkt uit de overgelegde dierkaarten dat het bedrijf van appellante in de periode 2012‑2017 niet is gegroeid. De grootte van de veestapel fluctueert jaarlijks wel iets, maar blijft van dezelfde orde van grootte. Appellante heeft ter zitting ook toegelicht vanwege de focus op de natuur en op het dierenwelzijn niet te zijn gericht op groei. Voorts heeft zij toegelicht dat zij vanwege de bedrijfsvoering, die is gericht op natuur, dierenwelzijn en een gesloten kringloop, haar verplichtingen in verband met het project, en de afspraken met zowel de Vogelbescherming Nederland als met de slager, die zelf ook weer contractuele verplichtingen heeft, ook niet zomaar kon reduceren. Voor de jaren na 2017 heeft zij daarom extra fosfaatrechten gekocht, maar de heffingen over het jaar 2017 had zij niet kunnen voorkomen, aldus appellante. </para>
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>Uit het voorgaande volgt dat de keuze voor de peildatum van 2 juli 2015 in het geval van appellante bijzonder ongunstig uitpakt, omdat zij rond die datum, net als andere jaren, het laagste aantal runderen van het jaar had rondlopen. Daar komt bij dat het verschil in GVE met de periode januari/februari, mede gelet op de totale grootte van haar bedrijf, substantieel is. Hoewel verweerder terecht stelt dat dit het gevolg is van de door appellante gekozen bedrijfsvoering, is het College met appellante van oordeel dat het te ver voert om van haar te verlangen dat zij, om heffingen te voorkomen, haar bedrijfsvoering zeer ingrijpend had moeten aanpassen. Uit de geschiedenis van het bedrijf vloeit immers voort dat de bedrijfsvoering van appellante al minimaal 20 jaar is gericht op een verantwoorde combinatie van het boerenbedrijf en natuurbehoud, waarbij zij ook door verschillende overheidsorganen wordt ondersteund. Daar komt bij dat appellante heeft aangegeven dat zij per 1 januari 2018 fosfaatrechten heeft kunnen kopen om haar bedrijf in dezelfde omvang te kunnen voortzetten, waardoor zij alleen voor 2017 met de fosfaatreductie in de knel is gekomen. Een aanpassing van de bedrijfsvoering is niet een kwestie van maanden, maar van jaren, terwijl de aanpassing maar voor één jaar noodzakelijk was. Bovendien zou een geforceerde eenmalige aanpassing enkel in 2017, gelet op het specifieke type bedrijf met een specifieke keten van afnemers, de sinds jaar en dag gebruikelijke en per 2018 binnen de regels voort te zetten bedrijfsvoering ernstig frustreren. Onder deze omstandigheden is het niet redelijk de door verweerder gevergde aanpassing te verlangen. Verweerder is hier ten onrechte aan voorbijgegaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <para>Ter zitting heeft verweerder het standpunt ingenomen dat de peildatum voor het referentieaantal voor appellante vanwege haar bedrijfsvoering inderdaad nadeliger uitpakt dan voor de meeste andere melkveebedrijven, maar dat zij vanwege diezelfde bedrijfsvoering juist meer voordeel heeft van de keuze voor 1 oktober 2016 als peildatum voor het doelstellingsaantal dan die bedrijven, omdat zij in het najaar standaard meer runderen heeft dan in de zomer. Het was voor appellante dan ook gemakkelijker om in ieder geval tot het doelstellingsaantal te reduceren en zo de oplegging van hoge geldsommen te voorkomen. Ook om deze reden zou voor toepassing van de hardheidsclausule geen plaats zijn, aldus verweerder. <?linebreak?>	Dit standpunt volgt het College om twee redenen niet. De eerste reden is dat het afkalfpatroon op het bedrijf van appellante ertoe leidt dat de kalfjes in de periode september tot en met januari worden geboren. De peildatum van 1 oktober voor het doelstellingsaantal ligt aan het begin van die periode en levert dus maar een beperkt voordeel voor appellante op wat betreft het aantal runderen. De tweede reden is dat op het doelstellingsaantal per periode een verminderingspercentage wordt toegepast, terwijl dat bij het referentieaantal niet het geval is. Dit verminderingspercentage loopt bovendien op van 5% in periode 1, tot 12% in ieder van de perioden 3, 4 en 5. Een hoger doelstellingsaantal levert dus ook in zoverre maar een beperkt voordeel op. Verweerder is ook hier ten onrechte aan voorbij gegaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.6</nr>
+      <para>Het voorgaande betekent dat het betoog van appellante slaagt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Conclusie</title>
+    <para />
+    <para>7. Het beroep is gegrond. Naar het oordeel van het College heeft verweerder miskend dat de keuze voor de peildatum 2 juli 2015 in het geval van appellante bijzonder ongunstig uitpakt en dat dit aanleiding had moeten zijn om in haar geval de hardheidsclausule toe te passen door van een ander referentieaantal uit te gaan. Het besluit van 1 mei 2019 is daarom in strijd met artikel 13, derde lid, van de Landbouwwet genomen en dient dan ook te worden vernietigd. Aan hetgeen appellante verder nog tegen dit besluit had aangevoerd, wordt niet meer toegekomen. </para>
+    <para>8. Bij het nemen van het nieuwe besluit op bezwaar dient verweerder van het volgende uit te gaan. Enerzijds is het, zoals uit deze uitspraak blijkt, onredelijk bezwarend om in het geval van appellante voor het referentieaantal uit te gaan van het aantal vrouwelijke runderen op het bedrijf op 2 juli 2015, nu appellante op dat moment het laagste aantal vrouwelijke runderen had in het gehele jaar. Anderzijds is het evenmin redelijk om voor het referentieaantal uit te gaan van het hoogste aantal vrouwelijke runderen dat in 2015 op het bedrijf geregistreerd stond. Immers, indien dat aantal als uitgangspunt zou worden genomen, zou dit betekenen dat appellante, gelet op haar bedrijfsvoering die niet is gericht op groei, niet of bijna niet zou hoeven te reduceren. Nu de bedoeling van de wetgever is geweest dat alle melkveehouders hun veestapel zouden reduceren en daarmee bijdragen aan het beperken van de fosfaatuitstoot, of ervoor moeten betalen als zij ervoor kiezen dat niet te doen, zou uitgaan van het hoogste aantal op het bedrijf van appellante geregistreerde vrouwelijke runderen daarmee in strijd zijn. Het College acht het, gelet op het voorgaande, daarom redelijk dat voor de vaststelling van het referentieaantal van appellante wordt uitgegaan van 191,73 GVE, te weten het gemiddelde van het hoogste aantal GVE dat appellante in 2015 had (203,16 GVE) en het laagste aantal GVE in dat jaar (180,29), beide bepaald aan de hand van de diertelkaarten, waarvan de juistheid door verweerder niet is betwist. Aan de hand van dit referentieaantal dient verweerder in het nieuwe besluit op bezwaar dan ook na te gaan of appellante in ieder van de perioden een hoge geldsom of een solidariteitsgeldsom verschuldigd is, of juist recht heeft op een bonusgeldsom, en wat de hoogte van die geldsommen dan is. </para>
+    <para />
+    <para>9. In de gegrondverklaring van dit beroep ziet het College aanleiding te bepalen dat verweerder het door appellante betaalde griffierecht aan haar vergoedt en hem te veroordelen in de proceskosten van appellante in beroep. Deze kosten worden op grond van het Besluit proceskosten bestuursrecht (Bpb) vastgesteld op € 1.050,-, te weten de kosten voor de door een derde beroepsmatig verleende rechtsbijstand (1 punt voor het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,-).<?linebreak?></para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- verklaart het beroep gegrond;<?linebreak?>- vernietigt het besluit van 1 mei 2019, met kenmerk 494-22643, 494‑22646, 494‑22647, 494‑22993 en 494‑25961;<?linebreak?>- bepaalt dat verweerder een nieuw besluit op bezwaar neemt met inachtneming van hetgeen in deze uitspraak is overwogen;<?linebreak?>- draagt verweerder op het betaalde griffierecht van € 345,- aan appellante te vergoeden;<?linebreak?>- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 1.050,-.<?linebreak?></para>
+      <para>Deze uitspraak is gedaan door mr. C.J. Borman, in aanwezigheid van mr. I.S. Ouwehand, griffier. De beslissing is in het openbaar uitgesproken op 17 november 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. C.J. Borman					w.g. I.S. Ouwehand</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

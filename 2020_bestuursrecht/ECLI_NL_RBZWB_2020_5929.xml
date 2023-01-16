@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:5929</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-08T20:14:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-26</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20_5507</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5929">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5929</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-08T20:13:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:5929 Rechtbank Zeeland-West-Brabant , 26-11-2020 / AWB - 20_5507</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:5929:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WET</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:5929:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 20/5507 WET</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 26 november 2020 van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] , te [plaatsnaam] , eiser, </bridgehead>
+    <para>gemachtigde: mr. A.J.J. Kreutzkamp,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Infrastructuur en Waterstaat, verweerder.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para>Eiser heeft beroep ingesteld tegen het besluit van 28 januari 2020 (bestreden besluit) van verweerder over het onderbreken van het gebruik van motorvrachtschip [naam vrachtschip] vanwege het niet voldoen aan de van toepassing zijnde technische eisen. </para>
+    <para />
+    <parablock>
+      <para>Het beroep is behandeld op zitting in Breda op 15 oktober 2020. De gemachtigde van eiser was namens hem aanwezig. Namens de minister waren aanwezig mr. I.M. Kops en [naam inspecteur] (inspecteur). </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para>
+      <emphasis role="italic">1.	Feiten </emphasis>
+      <?linebreak?>Op 10 mei 2019 heeft de Landelijke Eenheid van de politie in de laadruimte van het motorvrachtschip [naam vrachtschip] een methamfetamine (crystal meth) laboratorium aangetroffen. Het schip was aangemeerd in de haven van Moerdijk. </para>
+    <para />
+    <parablock>
+      <para>In de nacht van 10 mei 2019 op 11 mei 2019 is de [naam vrachtschip] vol gelopen met water. Oppervlaktewater werd op onverklaarbare wijze via een ingeschakelde pomp in het laadruim gepompt, waardoor het schip dreigde te zinken. Daardoor ontstond het gevaar dat het oppervlaktewater buiten de boot in direct contact kwam met de aanwezige drugs en explosieve, brandgevaarlijke en/of milieugevaarlijke grond- en afvalstoffen die zich in het schip gevonden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 12 mei 2019 is door Rijkswaterstaat aan een inspecteur van het Ministerie van Infrastructuur en Waterstaat gemeld dat meerdere verbouwing en aanpassingen op het schip zijn geconstateerd, waarvoor het schip mogelijk niet meer voldeed aan de voorgeschreven technische eisen. <?linebreak?></para>
+      <para>Op 22 mei 2019 heeft de inspecteur een inspectie uitgevoerd op het schip.<footnote-ref linkend="_417c3ff6-bea2-450e-a5e2-c01f8ec01f8f" /> De inspectie had tot doel een beoordeling of het schip nog voldeed aan de technische eisen uit de Europese standaard tot vaststelling van de technische voorschriften voor binnenschepen (ES-TRIN). Door de inspecteur zijn meerdere tekortkomingen aan het schip geconstateerd. De inspecteur heeft zijn bevindingen opgenomen in een op ambtseed opgemaakt en ondertekend inspectierapport. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar aanleiding van die inspectie heeft de inspecteur namens de minister het gebruik van het schip op 22 mei 2019 per direct – zonder voorafgaand op schrift gesteld besluit – onderbroken op grond van artikel 17, eerste lid, van de Binnenvaartwet. Op 23 mei 2019 is het besluit (primair besluit) op schrift gesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft daar bij brief van 5 juni 2019 bezwaar tegen gemaakt.<?linebreak?></para>
+      <para>Bij bestreden besluit heeft de minister het bezwaar ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft daar op 5 maart 2020 beroep tegen ingesteld.  <?linebreak?></para>
+    </parablock>
+    <bridgehead role="italic">2.	Beroepsgronden </bridgehead>
+    <para />
+    <parablock>
+      <para>Eiser heeft aangevoerd dat het besluit ten onrechte is gericht aan eiser. Hij kon niet worden beschouwd als gezagvoerder van het schip, omdat hij ten tijde van het besluit gedetineerd was. Een Duitse GmbH ( [naam GmbH] ’) is eigenaar van het schip. Daarnaast heeft eiser aangevoerd dat de minister niet bevoegd was om het gebruik van het schip te onderbreken. De minister is daar alleen toe bevoegd, indien de staat waarin het schip zich bevindt zodanig is dat de veiligheid daarvan of van de omgeving onmiddellijk gevaar loopt. De minister heeft het primaire en bestreden besluit niet kunnen baseren op het inspectierapport en het fotomateriaal. In het inspectierapport worden talrijke veranderingen en wijzigingen opgesomd die zouden zijn geconstateerd. Voor een groot deel is dat gebaseerd op veronderstellingen. In het inspectierapport wordt ook niet geconcludeerd dat die veranderingen of wijzigingen leiden tot een gevaar voor de veiligheid of omgeving.  <?linebreak?></para>
+    </parablock>
+    <bridgehead role="italic">3.	Wettelijk kader </bridgehead>
+    <para />
+    <parablock>
+      <para>De relevante wettelijke bepalingen zijn opgenomen in een bijlage, die deel uitmaakt van deze uitspraak. <?linebreak?></para>
+    </parablock>
+    <bridgehead role="italic">4.	Beoordeling </bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het primaire en het bestreden besluit  </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Op 22 mei 2019 heeft de inspecteur namens de minister het gebruik van het schip per direct – zonder voorafgaand op schrift gesteld besluit – onderbroken op grond van artikel 17, eerste lid, van de Binnenvaartwet. Op 23 mei 2019 is het besluit (primair besluit) op schrift gesteld. Het gebruik is onderbroken omdat het schip zich in dusdanige staat bevond dat de veiligheid ervan of van de omgeving onmiddellijk gevaar liep of kon lopen. In het primaire besluit zijn daar de volgende redenen voor gegeven:  </para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>Het achterschip is ingekort zonder dat deze verbouwing constructief voldoende sterk genoeg is gebleken en is goedgekeurd door een erkende instelling en tevens is opgenomen in het Certificaat van Onderzoek; </para>
+        </listitem>
+        <listitem>
+          <para>In de achterpiek bevinden zich meerdere openingen waardoor deze lek is en niet meer als waterdicht is aan te merken en hiermee niet meer voldoet aan de voorgeschreven waterdichte indeling en aantal aanvaringsschotten; </para>
+        </listitem>
+        <listitem>
+          <para>Het hoofd- en noodstuurwerk zijn door voornoemde verbouwing geheel buiten gebruik waardoor het schip niet is te gebruiken; </para>
+        </listitem>
+        <listitem>
+          <para>De ankerlier op het achterdek en hiermee het hekanker is niet te gebruiken; </para>
+        </listitem>
+        <listitem>
+          <para>In de waterdichte vrang tussen de machinekamer en het laadruim bevinden zich onjuiste kabeldoorvoeringen, waardoor deze niet meer als waterdicht aangemerkt kan worden; </para>
+        </listitem>
+        <listitem>
+          <para>Er zitten veel scheuren in de stalen rimvloer en de aanwezige trimvullingen; </para>
+        </listitem>
+        <listitem>
+          <para>In het laadruim is een bouwsel aanwezig t.b.v. het laboratorium en bevindt zich ook een grote hoeveelheid afval en chemische reststoffen; </para>
+        </listitem>
+        <listitem>
+          <para>In het laadruim zijn meerdere openingen aangebracht die daar niet horen; </para>
+        </listitem>
+        <listitem>
+          <para>In het voorschot van het laadruim is een toegangsdeur naar de voorste machinekamer aangebracht die daar niet hoort en hiermee niet voldoet aan de voorgeschreven waterdichte indeling en aantal waterdichte schotten; </para>
+        </listitem>
+        <listitem>
+          <para>Er is twijfel aan de goede werking van het ankerlier en boegankers op het voorschip; </para>
+        </listitem>
+        <listitem>
+          <para>De elektrische installatie aan boord is niet meer zoals deze is voorgeschreven; </para>
+        </listitem>
+        <listitem>
+          <para>De voor dit schip afgegeven meetbrief voor binnenvaartschepen is vervallen door voornoemde inkorting van het achterschip en de hiermee verband houdende waterverplaatsing/laadvermogen. </para>
+        </listitem>
+      </itemizedlist>
+      <para>In het besluit staat dat de maatregel wordt opgeheven, indien de tekortkomingen definitief zijn hersteld. Het bezwaar van eiser tegen dit besluit heeft de minister bij bestreden besluit ongegrond verklaard. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Preventieve maatregel </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>In artikel 17, eerste lid, van de Binnenvaartwet staat dat de minister het gebruik van een schip op de binnenwateren kan onderbreken, indien de staat waarin het zich bevindt zodanig is dat de veiligheid ervan of van zijn omgeving onmiddellijk gevaar loopt. Het derde lid voegt daar aan toe dat de eigenaar dan wel de gezagvoerder het schip op de aangewezen plaats laat liggen, totdat naar het oordeel van de Minister de redenen voor het onderbreken van het gebruik zijn weggenomen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Uit de wetsgeschiedenis blijkt dat toepassing van die bevoegdheid niet kan worden aangemerkt als (zuivere) bestuursdwang. Gelet daarop heeft de wetgever in het vierde lid van artikel 17 van de Binnenvaartwet opgenomen dat titel 5.3 van de Algemene wet bestuursrecht (Awb) niet van toepassing is op deze bevoegdheid. Het is volgens de wetgeschiedenis een maatregel van preventieve aard die in urgente gevallen ook namens de minister kan worden genomen door een inspecteur en zonder een daaraan voorafgaand op schrift gesteld besluit.<footnote-ref linkend="_e709f907-1e7d-4e87-aaac-47e48c7f204d" /></para>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Bekendmaking </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Eiser heeft aangevoerd dat de minister het besluit ten onrechte aan hem heeft gericht. Hij is niet de eigenaar van het schip, dat is een Duitse GmbH ( [naam GmbH] ’). Eiser is slechts geschäftsführer (directeur) van dat bedrijf. Daarnaast was hij ten tijde van het primaire besluit niet de gezagvoerder van het schip omdat hij toen gedetineerd was. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Naar het oordeel van de rechtbank heeft de minister het primaire besluit en het bestreden besluit op de juiste wijze bekend gemaakt door eiser aan te schrijven. In de Awb staat dat de bekendmaking van een besluit dat is gericht tot één of meer belanghebbenden, geschiedt door toezending of uitreiking aan hen.<footnote-ref linkend="_22381627-45f0-480e-95bf-af19d7a2ac89" /> Een besluit tot onderbreking van het gebruik van een schip is gericht tot de eigenaar en/of gezagvoerder van dat schip, omdat het gebruik van die persoon als gevolg van het besluit wordt beperkt. Het besluit tot het onderbreken van het gebruik van de [naam vrachtschip] richt zich tot eiser als eigenaar en gezagvoerder van dat schip. Uit een door eiser overgelegde uitspraak van de politierechter van 19 maart 2020 blijkt dat eiser tegen de politierechter heeft verklaard dat hij de eigenaar en schipper is van het schip. Daarnaast is hij als geschäftsführer van de Duitse GmbH ook de aan te schrijven persoon.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Bevoegdheid tot het onderbreken van het gebruik</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <para>Uit artikel 17 van de Binnenvaartwet volgt dat de minister alleen bevoegd is om het gebruik van een schip te onderbreken, als de staat waarin het zich bevindt zodanig is dat de veiligheid ervan of van zijn omgeving onmiddellijk gevaar loopt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <para>Naar het oordeel van de rechtbank heeft de minister redelijkerwijs mogen besluiten dat de staat waarin het schip zich bevond ten tijde van het onderbreken van het gebruik zodanig was dat de veiligheid ervan of van zijn omgeving onmiddellijk gevaar liep. Gelet daarop was de minister bevoegd om het gebruik van het schip te onderbreken. De minister heeft de onderbreking van het gebruik gebaseerd op een inspectierapport van inspecteur [naam inspecteur] van de Inspectie Leefomgeving en Transport, team Ongevalsonderzoek en Administratie Controles Scheepvaart. Naar het oordeel van de rechtbank is de inspecteur een deskundig te achten persoon op het gebied van schepen en scheepvaart. Uit het inspectierapport blijkt dat de inspecteur feitelijk heeft geconstateerd dat het schip dermate veel serieuze en zorgelijke technische gebreken had, dat de veiligheid van het schip en de omgeving onmiddellijk gevaar liepen als dat schip nog langer gebruikt zou worden. Ter zitting heeft de inspecteur daar aan toegevoegd dat het stuurwerk dermate was gewijzigd, dat het schip niet meer bestuurd of verplaatst kon worden. Daarnaast zaten er gaten in de romp, waardoor het schip niet veilig geladen zou kunnen worden. Ook was de waterdichte indeling niet langer correct, waardoor het schip vol zou lopen met water bij een eventuele aanvaring. Ook de elektrische installatie voldeed niet langer aan de daarvoor geldende eisen, waardoor gevaar voor kortsluiting bestond. Naar het oordeel van de rechtbank blijkt daar in voldoende mate uit dat de door de inspecteur geconstateerde gebreken dermate ernstig en talrijk waren dat de integriteit en de stabiliteit van het schip dusdanig waren aangetast dat een onmiddellijk gevaar was ontstaan voor de veiligheid van het schip en diens omgeving. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8</nr>
+      <para>De rechtbank is echter wel van oordeel dat de minister dat gevaar in het primaire besluit en in het bestreden besluit onvoldoende heeft gemotiveerd. De minister heeft voornoemde motivering pas op zitting naar voren gebracht. In het primaire besluit, het bestreden besluit en in het inspectierapport is dat onvoldoende duidelijk naar voren gemotiveerd. Gelet daarop is het bestreden besluit volgens de rechtbank op dit punt in strijd met het motiveringsbeginsel.<footnote-ref linkend="_efbf332d-3598-43d4-ab8d-142f8ed82a37" /></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Wegnemen redenen onderbreken gebruik  </emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.9</nr>
+      <para>In het derde lid van artikel 17 van de Binnenvaartwet staat dat het onderbreken van het gebruik inhoudt dat de eigenaar dan wel gezagvoerder van het schip het schip op een aangewezen plaats moet laten liggen, totdat de redenen voor het onderbreken van het gebruik zijn weggenomen. <?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>4.10</nr>
+      <para>Naar het oordeel van de rechtbank blijkt uit het primaire en het bestreden besluit onvoldoende welke maatregelen eiser moet nemen om te bewerkstelligen dat de redenen voor het onderbreken van het gebruik worden weggenomen. De minister heeft onvoldoende uitgelegd aan welke specifieke technische eisen uit de ES-TRIN het schip niet langer voldoet en welke specifieke maatregelen getroffen moeten worden om die gebreken te herstellen. In het inspectierapport waar de minister het bestreden besluit op baseert staat beschreven wat feitelijk is geconstateerd, maar dat rapport bevat geen specificatie van de technische voorschriften uit de ES-TRIN waar aan voldaan moet worden om de onderbreking van het gebruik op te heffen. Daarom is het bestreden besluit volgens de rechtbank ook op dit punt in strijd met het motiveringsbeginsel.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">5. 	Conclusie </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Gelet op het voorgaande zal de rechtbank het beroep gegrond verklaren en het bestreden besluit vernietigen. De rechtbank ziet geen aanleiding om de rechtsgevolgen van het bestreden besluit in stand te laten of zelf in de zaak te voorzien. De rechtbank neemt daarbij in aanmerking dat het primair aan de minister is om de motivering ten aanzien van het gevaar aan te vullen en een standpunt in te nemen over de vraag aan welke technische eisen uit het ES-TRIN het schip niet voldoet en welke maatregelen eiser moet treffen om opheffing van de onderbreking van het gebruik te bewerkstelligen. De minister zal daarom een nieuwe beslissing op bezwaar moeten nemen met inachtneming van deze uitspraak binnen 3 maanden na de dag van verzending van deze uitspraak. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Nu het beroep gegrond wordt verklaard, dient het griffierecht aan eiser te worden vergoed.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>De rechtbank zal de minister veroordelen in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand in beroep vast op € 2100,- (1 punt voor het indienen van het bezwaarschrift, 1 punt voor het verschijnen op de hoorzitting in bezwaar, 1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525, en wegingsfactor 1).</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit; </para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op binnen 3 maanden na de dag van verzending van deze een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 178,- aan eiser te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 2.100,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.P. Hertsig, rechter, in aanwezigheid van mr. N. van Asten, griffier, op 26 november 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+      <para>De griffier is niet in de gelegenheid om de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wettelijk kader </emphasis>
+        <?linebreak?>
+        <emphasis role="italic">Artikel 17 van de Binnenvaartwet</emphasis>
+      </para>
+    </parablock>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Onze Minister kan het gebruik van een schip op de binnenwateren onderbreken, indien de staat waarin het zich bevindt zodanig is dat de veiligheid ervan of van zijn omgeving onmiddellijk gevaar loopt.</para>
+      </listitem>
+      <listitem>
+        <para>In geval van toepassing van het eerste lid draagt de gezagvoerder er zorg voor, dat het schip onverwijld en met inachtneming van de aanwijzingen van Onze Minister naar een door hem aangewezen plaats wordt gebracht. </para>
+      </listitem>
+      <listitem>
+        <para>De eigenaar dan wel de gezagvoerder laat het schip op de aangewezen plaats liggen, totdat naar het oordeel van Onze Minister de redenen voor het onderbreken van het gebruik zijn weggenomen.</para>
+      </listitem>
+      <listitem>
+        <para>Titel 5.3 van de Algemene wet bestuursrecht is niet van toepassing op de in het eerste lid bedoelde bevoegdheid.</para>
+      </listitem>
+      <listitem>
+        <para>Het is verboden een schip te gebruiken zolang het gebruik met toepassing van dit artikel is onderbroken, tenzij met inachtneming van de ingevolge het tweede lid gegeven aanwijzingen.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+  </section>
+  <footnote id="_417c3ff6-bea2-450e-a5e2-c01f8ec01f8f" label="1">
+    <para>Op grond van artikel 15 van de Binnenvaartwet. </para>
+  </footnote>
+  <footnote id="_e709f907-1e7d-4e87-aaac-47e48c7f204d" label="2">
+    <para>
+      <emphasis role="italic">Kamerstukken II </emphasis>2005/06, 30523, 3, p. 35 en 36 en <emphasis role="italic">Kamerstukken II </emphasis>1996/97, 26454, 3, p. 3, 25 en 43. </para>
+  </footnote>
+  <footnote id="_22381627-45f0-480e-95bf-af19d7a2ac89" label="3">
+    <para>Artikel 3:41, eerste lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_efbf332d-3598-43d4-ab8d-142f8ed82a37" label="4">
+    <para>Artikel 7:12, eerste lid, van de Awb. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

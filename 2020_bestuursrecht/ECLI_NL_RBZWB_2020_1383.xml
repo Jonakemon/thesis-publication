@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:1383</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-30T17:30:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 5388</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Breda</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:1383">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:1383</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-26T08:38:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:1383 Rechtbank Zeeland-West-Brabant , 20-03-2020 / AWB - 19 _ 5388</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:1383:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WET</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:1383:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Breda</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/5388 WET</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 20 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] , te [plaatsnaam] , eiser,</bridgehead>
+    <para>gemachtigde: mr. R.H.M. Sipman,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van Dijkgraaf en Hoogheemraden van Rijnland, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In de besluiten van 14 augustus 2108 (primaire besluiten) heeft het college drie lasten onder dwangsom aan eiser opgelegd met betrekking tot zijn percelen [nummer perceel] en [nummer perceel2] . </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In het besluit van 1 februari 2019 (bestreden besluit) heeft het college het bezwaar van eiser tegen de primaire besluiten ongegrond verklaard. De primaire besluiten zijn daarbij in stand gelaten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld bij de rechtbank Den Haag. Bij beschikking van 16 oktober 2019 heeft de rechtbank Den Haag de zaak naar de rechtbank Zeeland-West-Brabant verwezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is besproken op de zitting van de rechtbank op 14 februari 2020.</para>
+      <para>Hierbij waren namens eiser aanwezig: zijn gemachtigde en zijn broer [naam persoon] . Namens het college waren aanwezig: [vertegenwoordiger] en [vertegenwoordiger2] . </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser woont aan de [adres] te [plaatsnaam] . Hij is ook eigenaar van de nabijgelegen (agrarische) percelen genummerd [nummer perceel] en [nummer perceel2] . </para>
+    <para />
+    <parablock>
+      <para>In het voorjaar van 2018 heeft het hoogreemraadschap de dijken geïnspecteerd. Het college heeft eiser bij waarschuwingsbrief van 9 mei 2018 erop gewezen dat de dijk op zijn percelen onvoldoende is onderhouden. Het college heeft daarbij foto’s gevoegd van de aangetroffen situatie, waarbij is aangegeven voor welke onderhoudspunten eiser is aangeschreven. Daarbij is vermeld dat het onderhoud alsnog moet worden uitgevoerd voor 9 juli 2018.</para>
+      <para>Op 11 juli 2018 is gecontroleerd of eiser aan zijn onderhoudsplicht heeft voldaan. Geconcludeerd is dat dat niet het geval was. Daarop heeft het college bij brief van 18 juli 2018 eiser kenbaar gemaakt dat het voornemens is om een last onder dwangsom aan eiser op te leggen. Eiser heeft daartegen zijn zienswijze ingebracht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens heeft het college bij de primaire besluiten eiser erop gewezen dat hij nog steeds niet heeft voldaan aan zijn onderhoudsplicht en dat hij daarmee de artikel 2.2.3, tweede lid, en artikel 2.2.4, eerste lid, van de Keur Rijnland 2015 (de Keur) overtreedt. Het college heeft eiser gelast tot het herstellen van de waterkering met de juiste klei en het daarna inzaaien van de waterkering met gras. Eiser heeft tot 1 oktober 2018 de tijd gekregen om de genoemde maatregelen uit te voeren. </para>
+    </parablock>
+    <parablock>
+      <para> Het college heeft daarbij vermeld dat eiser voor wat betreft perceelnummer [nummer perceel] (overtreding 137) een dwangsom verbeurt van € 880,= per twee weken dat de overtreding van de Keur voortduurt, waarbij het maximaal te verbeuren bedrag is gesteld op € 4.400,=.</para>
+      <para> Het college heeft de dwangsom voor wat betreft perceelnummer [nummer perceel2] vastgesteld op € 580,= per twee weken dat de overtreding van de Keur voortduurt, waarbij het maximaal te verbeuren bedrag is gesteld op € 2.900,= (overtreding 138) respectievelijk € 150,= per twee weken, met een maximaal te verbeuren bedrag van € 750,= (overtreding 139). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft bezwaar gemaakt tegen de primaire besluiten. Het college heeft die bezwaren ongegrond verklaard, waarbij het de primaire besluiten in stand heeft gelaten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Procesbelang</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Eiser heeft in zijn beroepschrift aangegeven dat het hoogheemraadschap op 24 oktober 2018 heeft geconstateerd dat eiser aan de lasten heeft voldaan. Dat heeft het college in zijn verweerschrift bevestigd. Het college heeft ter zitting toegelicht dat het de primaire besluiten nog niet heeft ingetrokken, maar dat dat wel de bedoeling is. Daarop heeft de rechtbank het procesbelang van eiser aan de orde gesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>De rechtbank gaat ervan uit dat eiser nog procesbelang heeft. Eiser heeft toegelicht dat hij met het voldoen aan de lasten kosten heeft gemaakt, en dat hij dus schade heeft geleden. Eiser stelt dat hij die kosten alsnog op het college wil verhalen, nadat de onrechtmatigheid van het bestreden besluit is vastgesteld. Aannemelijk is dat eiser kosten heeft gemaakt voor het herstel van de waterkering. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Het beroep is ontvankelijk.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Overtreding/bevoegdheid</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De rechtbank dient in eerste instantie te beoordelen of het college bevoegd was om lasten onder dwangsom aan eiser op te leggen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Ingevolge artikel 61, eerste lid, van de Waterschapswet is het waterschapsbestuur bevoegd tot oplegging van een last onder bestuursdwang.</para>
+      <para />
+      <parablock>
+        <para>In artikel 5:32, eerste lid, van de Algemene wet bestuursrecht is bepaald dat een bestuursorgaan, dat bevoegd is een last onder bestuursdwang op te leggen, in plaats daarvan aan de overtreder een last onder dwangsom kan opleggen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Dat eiser onderhoudsplichtig is op grond van de Keur voor wat betreft het dagelijks onderhoud wordt door eiser niet betwist. Eiser bestrijdt ook niet dat het bijstorten van klei en het inzaaien van gras ter behoud van de kade tot het dagelijks onderhoud behoort. Evenmin bestrijdt eiser dat hij ten tijde van de primaire besluiten niet aan zijn onderhoudsplicht heeft voldaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Dat betekent dat het college bevoegd was om de lasten onder dwangsom aan eiser op te leggen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Bijzondere omstandigheden</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Gelet op het algemeen belang dat is gediend met handhaving, zal in geval van overtreding van een wettelijk voorschrift het bestuursorgaan dat bevoegd is om met een last onder bestuursdwang of een last onder dwangsom op te treden, in de regel van deze bevoegdheid gebruik moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisatie bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen, dat van optreden in die concrete situatie behoort te worden afgezien.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Eiser heeft een beroep gedaan op het égalitébeginsel. Het égalitébeginsel houdt in dat degene, die in vergelijking met anderen onevenredig zwaar wordt getroffen door rechtmatig overheidshandelen, daarvoor een vergoeding dient te ontvangen. </para>
+      <para />
+      <parablock>
+        <para>Eiser voert aan dat de uitgevoerde onderhoudswerkzaamheden (het bijstorten van klei en het inzaaien van gras) geen zoden aan de dijk zetten. Hij stelt daarbij dat het tot de verantwoordelijkheid behoort van het hoogheemraadschap om duurzame maatregelen te nemen, bijvoorbeeld het plaatsen van een beschoeiing. Eiser vindt dat van hem niet mag worden verlangd dat hij het dagelijks onderhoud blijft doen, terwijl het hoogheemraadschap geen maatregelen neemt om de oorzaken van de beschadigingen weg te nemen. Voorts stelt eiser dat de uitwerking van de Keur ten tijde van de aankoop van de percelen anders was, zodat de schade niet voorzienbaar was ten tijde van de aankoop. In dat verband heeft eiser erop gewezen dat destijds het dagelijks onderhoud werd gefinancierd vanuit de polderbegroting. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De rechtbank stelt vast dat op het hoogheemraadschap inderdaad ook een onderhoudsplicht rust, namelijk voor wat betreft het in stand houden van de stabiliteit en het profiel (artikel 2.2.3, eerste lid, van de Keur). De manier waarop het hoogheemraadschap die onderhoudsplicht invult, wordt in de Keur niet voorgeschreven. De Keur verplicht het hoogheemraadschap dus niet tot – bijvoorbeeld – het plaatsen van een beschoeiing.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Het college ontkent dat het hoogheemraadschap zijn onderhoudsplicht niet zou nakomen. Het college heeft in het verweerschrift toegelicht dat rechtsvoorgangers inderdaad beschoeiingen plaatsten om de oevers tegen afkalving te beschermen, maar dat het hoogheemraadschap op die praktijk is teruggekomen. Volgens het college zijn ook andere maatregelen geschikt voor het beschermen van de oevers die bovendien minder kostbaar zijn. </para>
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Eiser heeft zijn stelling, dat het hoogheemraadschap zijn eigen onderhoudsplicht niet zou nakomen, niet met objectieve gegevens onderbouwd. De rechtbank ziet daarin dan ook geen reden om aan te nemen dat het hoogheemraadschap zijn plicht om de stabiliteit en het profiel van de waterkering in stand te houden (heeft) verzaakt. Het college heeft daarin dan ook geen reden hoeven zien om van handhavend op treden af te zien. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <para>De Keur of de Waterschapswet verplicht de bestuursorganen van het hoogheemraadschap ook niet om budget in de begroting te reserveren ter compensatie van de kosten voor het dagelijks onderhoud van de waterkering. Dat zijn politieke keuzes die een bestuursorgaan maakt. Het college heeft ter zitting bevestigd dat er in het verleden een bepaalde subsidieregeling was. De rechtbank ziet in de omstandigheid dat die regeling is afgeschaft geen reden om te oordelen dat van eigenaren niet langer kan worden verlangd dat zij de waterkering op hun gronden onderhouden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <para>Het beroep van eiser op het égalitébeginsel slaagt niet. De rechtbank volgt het standpunt van het college dat elke eigenaar van een waterkering in het gebied van Rijnland met dezelfde onderhoudsplicht te maken heeft. Niet valt in te zien waarom eiser met het handhaven van zijn onderhoudsplicht onevenredig zwaar wordt getroffen ten opzichte van de andere grondeigenaren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8</nr>
+      <para>Het voorgaande leidt de rechtbank tot het oordeel dat het college de lasten onder dwangsom op goede gronden aan eiser heeft opgelegd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. Het beroep is ongegrond. </para>
+      <para />
+      <para>6. Er is geen reden voor een proceskostenveroordeling. </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.A. Karsten-Badal, rechter, in tegenwoordigheid van N.A. D’Hoore, griffier, op 20 maart 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						<emphasis role="italic">de rechter is niet in de gelegenheid om 						deze uitspraak te ondertekenen</emphasis></para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

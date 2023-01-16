@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:5660</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-27T15:54:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 2540, 19_122, 19_3617</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5660">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5660</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-27T15:53:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:5660 Rechtbank Amsterdam , 11-11-2020 / AWB - 19 _ 2540, 19_122, 19_3617</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:5660:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Exploitanten die al een recht hadden om een laadvoorziening als basisvoorziening aan te vragen, behouden dit recht. Toetsingskader voor het wijzigen van een Wbr-vergunning is artikel 3 van de Wbr. Geen nieuwe verdelingsprocedure vereist. Ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:5660:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 19/122, 19/2540 en 19/3617</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] te [plaatsnaam] , eiseres</bridgehead>
+    <para>(gemachtigde: [naam] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Infrastructuur en Waterstaat, verweerder</bridgehead>
+    <para>(gemachtigde: [naam] ).</para>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: <emphasis role="bold">[naam]</emphasis>, te [plaatsnaam] ( [land] ), vergunninghouder</para>
+      <para>(gemachtigde: [naam] ).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen worden hierna [eiseres] , de minister en [naam] genoemd.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">In AMS 19/122</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 29 mei 2018 (het primaire besluit 1) heeft de minister aan [naam] een wijzigingsvergunning toegekend. Met deze vergunning is de oorspronkelijke vergunning van 21 februari 2017 waarmee een laadvoorziening gerealiseerd kon worden op de [omschrijving] [plaatsnaam] langs [locatie] gewijzigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 november 2018 (het bestreden besluit 1) heeft de minister het bezwaar van [eiseres] ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">In AMS 19/2540</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 september 2018 (het primaire besluit 2) heeft de minister aan [naam] een wijzigingsvergunning toegekend. Met deze vergunning is de oorspronkelijke vergunning van 3 november 2016 waarmee een laadvoorziening gerealiseerd kon worden op de [omschrijving] [plaatsnaam] langs [locatie] gewijzigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 maart 2019 (het bestreden besluit 2) heeft de minister het bezwaar van [eiseres] ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">In AMS 19/3617</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 augustus 2018 (het primaire besluit 3) heeft de heeft de minister aan [naam] een wijzigingsvergunning toegekend. Met deze vergunning is de oorspronkelijke vergunning van 23 november 2016 waarmee een laadvoorziening gerealiseerd kon worden op de [omschrijving] [naam] langs [locatie] gewijzigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 mei 2019 (het bestreden besluit) heeft de minister het bezwaar van [eiseres] ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">In alle zaken</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eiseres] heeft tegen de bestreden besluiten beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft verweerschriften ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 30 september 2020. Namens [eiseres] zijn gemachtigde en [naam] verschenen. De minister heeft zich laten vertegenwoordigen door zijn gemachtigde en [naam] . Namens [naam] zijn gemachtigde en [naam] verschenen.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Waar gaan deze zaken over?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. [eiseres] en [naam] hebben in 2012 via een loting een recht gekregen om vergunningen aan te vragen voor laadvoorzieningen op de [omschrijving] [plaatsnaam] , [plaatsnaam] en [naam] (de [omschrijving] ). Beide partijen hebben vervolgens vergunningen op grond van de Wet beheer rijkswaterstaatswerken (Wbr) voor laadvoorzieningen als basisvoorziening op de [omschrijving] gekregen.</para>
+    <para />
+    <para>2. [naam] is daarna een samenwerking aangegaan met [naam] en heeft de vergunningen overgedragen aan [naam] . [naam] wil op andere locaties op de [omschrijving] andere soorten laadvoorzieningen realiseren.</para>
+    <para />
+    <para>3. Met de primaire besluiten heeft de minister de oorspronkelijk aan [naam] verleende vergunningen gewijzigd. De bezwaren van [eiseres] hiertegen heeft minister met de bestreden besluiten ongegrond verklaard.</para>
+    <para />
+    <para>4. [eiseres] stelt zich op het standpunt dat deze wijzigingsvergunningen ten onrechte zijn verleend en is daarom in beroep gegaan bij de rechtbank. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Beoordeling door de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Heeft verweerder het juiste toetsingskader toegepast?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. [eiseres] betoogt dat de aanvragen getoetst hadden moeten worden aan nieuw in werking getreden beleid en dat de aanvragen dan niet verleend waren. Volgens [eiseres] zijn de door [naam] aangevraagde wijzigingen niet ondergeschikt. [eiseres] betoogt dat dit de consequentie heeft dat de aanvragen gekwalificeerd moeten worden als nieuwe aanvragen die getoetst hadden moeten worden aan het beleid zoals dat ten tijde van de besluitvorming gold. Dit is het beleid zoals neergelegd in 'Kennisgeving Voorzieningenbeleid op [omschrijving] langs [locatie] ' (hierna: de Kennisgeving) van 2017<footnote-ref linkend="_9742f553-1d03-4c5b-889e-d274ef15b0e0" />. In deze Kennisgeving staat dat er geen nieuwe basisvoorzieningen meer worden toegestaan, als er op dezelfde [omschrijving] al een basisvoorziening is vergund. </para>
+    <para />
+    <para>6. De minister stelt zich op het standpunt dat aan [naam] met de oorspronkelijke vergunning al een recht is verleend, dat vervolgens overgedragen is aan [naam] . Dat recht is nu slechts wat betreft invulling gewijzigd. Volgens de minister biedt artikel 3 van de Wbr de grondslag voor het wijzigen van een al verleende Wbr-vergunning en is de aard van de wijziging daarbij niet relevant. </para>
+    <para />
+    <para>7. De rechtbank overweegt als volgt. Met de Kennisgeving wordt beoogd in zoverre een wijziging aan te brengen in de voorafgaande Kennisgeving dat er in het vervolg slechts één exploitant van een elektrisch laadpunt als bassivoorziening op een [omschrijving] wordt toegestaan. De wijziging treedt in werking met ingang van de dag na de datum van de uitgifte van de Staatscourant waarin deze wordt geplaatst. De wijziging beoogt dan ook geen terugwerkende kracht. In de toelichting op de Kennisgeving staat dit ook met zoveel woorden vermeld. Daarin staat ook vermeld dat bestaande situaties waarin voor verschillende exploitanten op eenzelfde [omschrijving] vergunningen zijn verleend voor het exploiteren van een elektrisch laadpunt als basisvoorziening worden geëerbiedigd. In de Toelichting is verder opgenomen dat op veel [omschrijving] vergunningen zijn verleend voor het plaatsen van energielaadpunten en een aantal daarvan al operationeel is. In dit licht bezien acht de rechtbank de uitleg van de minister dat ‘bestaande situaties’ ook situaties zijn waarin een exploitant al een recht had om een vergunning aan te vragen zonder dat deze al operationeel is gemaakt een redelijke uitleg. Uit de toelichting kan namelijk worden opgemaakt dat de wetgever er van de op de hoogte was dat veel vergunningen nog niet operationeel waren. Om hun recht niet zinledig te maken, behouden zij daarom hun recht een basisvoorziening aan te vragen, ook al is er al een andere aanbieder die een basisvoorziening op dezelfde [omschrijving] feitelijk exploiteert. Op de zitting heeft de gemachtigde van de minister toegelicht dat dit ook in overeenstemming is met de doelstelling om een landelijk dekkend netwerk voor laadvoorzieningen te realiseren. Voor exploitanten die nog geen recht hebben verkregen om een vergunning aan te vragen, geldt volgens de Kennisgeving dat ‘er geen tweede exploitant van een elektrisch laadpunt als basisvoorziening wordt toegestaan’. [naam] had al wel een recht om een vergunning aan te vragen en de aanvragen in de onderhavige zaken vallen daarom onder bestaande situaties. Voorgaande betekent dat verweerder bij het verlenen van de vergunningen terecht niet heeft getoetst aan de Kennisgeving. </para>
+    <para />
+    <para>8. De rechtbank overweegt verder dat het toetsingskader voor het wijzigen van de oorspronkelijke vergunningen alleen artikel 3 van de Wbr is. Dit artikel stelt, zoals de minister terecht heeft betoogd, geen beperkingen aan de omvang van de wijzigingen. Voor het betoog van [eiseres] dat artikel 3 van de Wbr alleen ziet op wijzigingen van ondergeschikte aard, bestaan geen aanknopingspunten. </para>
+    <para />
+    <para>9. De rechtbank concludeert dat de minister het juiste toetsingskader heeft toegepast bij zijn beoordeling.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Zijn de laadvoorzieningen in strijd met de vergunningen?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>10. [eiseres] betoogt dat de laadvoorzieningen die [naam] wil realiseren in strijd zijn met de voorschriften van de vergunningen. In de voorschriften staat dat weggebruikers met een (deels) elektrisch motorvoertuig zonder enige technische belemmeringen gebruik moeten kunnen maken van het oplaadpunt. Dit is ook een eis in de Kennisgeving sinds de wijziging in 2011.<footnote-ref linkend="_2cf57a4a-24b0-4c8b-aba8-0c785eadede9" /> De door [naam] beoogde laadvoorzieningen zijn echter alleen geschikt voor elektrische auto’s van Europese makelij. De vergunning had daarom niet verleend mogen worden.</para>
+    <para />
+    <para>11. De rechtbank stelt vast dat het voorschrift waar [eiseres] naar verwijst al in de oorspronkelijke vergunningen is genoemd. Dit voorschrift is in de gewijzigde vergunningen overgenomen. De vergunning is dus in overeenstemming met de Kennisgeving verleend. De vraag of [naam] in strijd met dit voorschrift handelt, kan niet in deze procedure aan de orde komen. Die vraag dient aan de orde te komen in een eventuele procedure over de handhaving van dat voorschrift. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Had verweerder een nieuwe verdelingsprocedure moeten volgen?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>12. [eiseres] voert aan dat de verplaatsing van een activiteit waarvoor een schaarse vergunning is verleend naar een andere locatie als gevolg heeft dat de vergunning vrijvalt. Dit is namelijk een wezenlijke wijziging en daarvoor moet een nieuwe verdelingsprocedure komen. [eiseres] verwijst hiervoor naar een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 27 september 2017<footnote-ref linkend="_1244f6ff-3403-4e57-bb89-c588e2738722" /> en een conclusie van [naam] van 6 juni 2018<footnote-ref linkend="_ed8983c9-6ca5-4d68-af5b-66a502486cde" />.</para>
+    <para />
+    <para>13. De rechtbank volgt [eiseres] niet in haar standpunt. De laadvoorzieningen worden nog steeds op dezelfde [omschrijving] als die waarvoor de oorspronkelijke vergunningen zijn verleend, gerealiseerd. Van wezenlijke wijzigingen is naar het oordeel van de rechtbank daarom geen sprake. De gemachtigde van de minister heeft bovendien toegelicht dat de technische ontwikkelingen in laadvoorzieningen zo snel gaan, dat wat eerder vergund is, technisch nu achterhaald kan zijn. Daarom is de gangbare praktijk dat elke wijziging goedgekeurd wordt. De rechtbank acht, gelet hierop, de wijze waarop de minister uitvoering geeft aan zijn beleid in de Kennisgeving niet onredelijk. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>14. De beroepen zijn ongegrond. [eiseres] krijgt dus geen gelijk.</para>
+    <para />
+    <para>15. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart de beroepen ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.F. de Lemos Benvindo, voorzitter, en mr. J.H.M. van de Ven, leden en mr. D. Sullivan, leden, in aanwezigheid van mr. M.L. Pijpers, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>de voorzitter is verhinderd de uitspraak te ondertekenen</para>
+      <para />
+    </parablock>
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+  </section>
+  <footnote id="_9742f553-1d03-4c5b-889e-d274ef15b0e0" label="1">
+    <para> Staatscourant 2017, nr. 11880.</para>
+  </footnote>
+  <footnote id="_2cf57a4a-24b0-4c8b-aba8-0c785eadede9" label="2">
+    <para> Staatscourant 2011, nr. 23149.</para>
+  </footnote>
+  <footnote id="_1244f6ff-3403-4e57-bb89-c588e2738722" label="3">
+    <para> Zie ECLI:NL:RVS:2017:2611.</para>
+  </footnote>
+  <footnote id="_ed8983c9-6ca5-4d68-af5b-66a502486cde" label="4">
+    <para> Zie ECLI:NL:RVS:2018:1847.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

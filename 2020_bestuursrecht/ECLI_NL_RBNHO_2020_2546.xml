@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:2546</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-30T10:03:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">HAA 20/1772</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0015703&amp;g=2020-04-01">Wet werk en bijstand</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JWWB 2020/118</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2546">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2546</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-07T12:29:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:2546 Rechtbank Noord-Holland , 03-04-2020 / HAA 20/1772</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:2546:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Participatiewet: herziening. De voorzieningenrechter heeft vooralsnog - in het licht van het dossier en hetgeen verweerder en verzoekster hebben aangevoerd - geen aanleiding te twijfelen aan de juistheid van de toepassing van de kostendelersnorm.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:2546:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 20/1772</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 3 april 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoekster] , te [woonplaats] , verzoekster</bridgehead>
+    <para>(gemachtigde: mr. C.J. Forder),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Haarlemmermeer</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. M. Eerens).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 februari 2020 (het primaire besluit 1) heeft verweerder het recht op bijstand met ingang van 1 maart 2020 opgeschort.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 maart 2020 (het primaire besluit 2) heeft verweerder het recht op bijstand van verzoekster met ingang van 12 februari 2020 herzien, in die zin dat vanaf die datum de kostendelersnorm naar een driepersoonshuishouden op de bijstandsuitkering wordt toegepast. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen beide besluiten bezwaar gemaakt. Verzoekster heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. Verzocht is om de werking van de primaire besluiten te schorsen zolang de bezwaarprocedures aanhangig zijn en tot zes weken nadat verweerder op het bezwaar heeft beslist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 2 april 2020. Verzoekster is niet verschenen. Haar kinderen [naam 1] en [naam 2] zijn wel verschenen. Zij zijn bijgestaan door de gemachtigde van verzoekster. Verweerder is niet verschenen.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Verzoekster, geboren op [geboortedatum] , is in 2004 in het kader van gezinshereniging naar Nederland gekomen. In 2013 is zij gescheiden. Verzoekster spreekt geen Nederlands; zij spreekt Farsi.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <parablock>
+        <para>Verzoekster ontvangt reeds geruime tijd een bijstandsuitkering. </para>
+        <para>Van 6 maart 2016 tot en met 28 maart 2019 heeft zij een bijstandsuitkering naar de kostendelersnorm van een driepersoonshuishouden ontvangen. Van 1 april 2019 tot en met 13 mei 2019 heeft zij een bijstandsuitkering naar de kostendelersnorm van een tweepersoonshuishouden ontvangen. Vanaf 13 juli 2019 tot 1 maart 2020 heeft zij een bijstandsuitkering naar de alleenstaande norm ontvangen. Per 1 januari 2020 bedraagt de alleenstaande norm € 1.052,32 met vakantiegeld. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Tot maart 2019 woonde verzoekster in [locatie 1] . Op 28 maart 2019 verhuisde ze naar [locatie 2] . Haar kinderen [naam 2] (geboren in [geboortejaar 1] ), [naam 3] (geboren in [geboortejaar 2] ) en [naam 1] (geboren in [geboortejaar 3] ) verstrekken al geruime tijd mantelzorg.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <parablock>
+        <para>Verzoekster is op 3 oktober 2019 in aanwezigheid van [naam 2] en [naam 1] onderzocht door een klinisch psycholoog dr. [naam 4] en collega [naam 5] , Farsi sprekend systeemtherapeut. In het hierover opgestelde rapport van 2 december 2019 is onder het kopje “Leefomstandigheden” vermeld: “ [naam 2] is de jongste en er zijn vier oudere zoons waarvan er twee bij haar in huis wonen. Samen zijn er drie kinderen die dus bij haar verzorging betrokken [zijn] maar de zwaarste last hiervoor komt op de schouders van [naam 2] .” </para>
+        <para>Verder blijkt uit het rapport dat bij verzoekster en haar dochter een WHODASS-assessment is afgenomen en daaruit volgt dat verzoekster op alle gebieden sterk beperkt is in haar functioneren. Haar beperkingen uit het WHODASS-assessment worden gemeten als 74%-84%; voor een psychiatrisch patiënt ligt de gemiddelde beperking rond de 33%. De ergste beperkingen zijn op het gebied van begrijpen en communiceren (91,7%). Bij de beantwoording van de vraagstelling stelt [naam 4] vast dat uit de mate van disfunctioneren en beperkingen de conclusie gerechtvaardigd is dat een gevorderd dementeringsproces waarschijnlijk aan de gang is. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Verzoekster heeft een schuldenoverzicht van 5 maart 2020 overgelegd. De totale schulden bedragen volgens dit overzicht € 13.659,55. Ter zitting is aangegeven dat de schulden inmiddels zijn teruggelopen tot € 5.000,-. Verder is een door de bewindvoerder opgesteld overzicht overgelegd met daarin de inkomsten en uitgaven van verzoekster.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Op 14 november 2019 is verweerder een rechtmatigheidsonderzoek gestart naar aanleiding van een anonieme telefonische melding dat in ieder geval twee van haar kinderen altijd al bij haar wonen. In dit kader heeft verweerder een administratief onderzoek verricht onder meer in de Basisregistratie Personen (BRP) alsmede naar het waterverbruik. </para>
+        <para>Haar dochter [naam 2] staat sinds 25 november 2016 geregistreerd als inwonend bij derden in [plaats 1] . Haar zoon [naam 3] staat sinds 1 november 2018 geregistreerd als inwonend bij derden in [plaats 2] . Haar zoon [naam 1] staat sinds 23 oktober 2018 ingeschreven in de Registratie Niet-ingezetenen.</para>
+        <para>Het waterverbruik van 11 maart 2019 tot en met 28 december 2019 (10 maanden) is 268 m³. Volgens het NIBUD is het gemiddelde waterverbruik per jaar voor 1 persoon 46 m³ en voor 4 personen 163 m³.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Op 20 januari 2020 heeft verweerder verzoekster uitgenodigd voor een gesprek en stukken opgevraagd. Hier heeft verzoekster zonder enig bericht geen gehoor aan gegeven. Vervolgens heeft verweerder op 5 februari 2020 de uitkering van verzoekster geschorst en nogmaals per aangetekende brief bij verzoekster en haar bewindvoerder stukken opgevraagd en verzoekster uitgenodigd voor een gesprek. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Op 12 februari 2020 heeft verweerder een deel van de gevraagde stukken ontvangen en heeft een gesprek met verzoekster, bijgestaan door haar zoon [naam 1] , plaatsgevonden. Uit het rapport rechtmatigheidsonderzoek van 26 maart 2020 blijkt dat [naam 1] voor verzoekster heeft vertaald. </para>
+        <para>In dit gesprek heeft [naam 1] zelf verklaard dat zijn moeder niet alleen kan zijn. Afwisselend zijn zijn broertje [naam 3] en zusje [naam 2] bij haar. Daarnaast heeft verzoekster aangegeven dat [naam 1] bij haar woont. [naam 1] heeft verder aangegeven dat hij doordeweeks bij zijn moeder is en dat hij vrijdag tot en met zondag in Amsterdam werkt als [functie] en niet bij zijn moeder slaapt. Slapen doen zij op de grond. Er is geen bed en ook geen bank. Verzoekster heeft daarnaast op de vraag met wie zij woont geantwoord dat zij woont met haar kinderen [naam 2] , [naam 3] en [naam 1] . De verklaring is door zowel verzoekster als [naam 1] ondertekend. </para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>2.4.1.</nr>
+        <para>Aansluitend aan het gesprek heeft er met toestemming van verzoekster en [naam 1] een huisbezoek plaatsgevonden. In het rapport rechtmatigheidsonderzoek is hierover vermeld dat vooraf is medegedeeld dat verweerder een huisbezoek wenst af te leggen, maar dat er geen gevolgen zouden worden verbonden aan het niet meewerken aan het huisbezoek. Ter zitting heeft [naam 1] verklaard dat er is gezegd dat er wel gevolgen zouden worden verbonden aan het niet meewerken aan het huisbezoek.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.4.2.</nr>
+        <parablock>
+          <para>De bevindingen van het huisbezoek zijn in het rapport rechtmatigheidsonderzoek opgenomen en hierin staat het volgende.</para>
+          <para>Tijdens het huisbezoek waren verzoekster en [naam 1] aanwezig. [naam 3] lag in de (enige) slaapkamer te slapen. Het gaat verder om een tweekamerwoning met een woonkamer/keuken en bovenverdieping met een voorzolder en een slaapkamer. In de woonkamer lagen dekens op de grond. Verder was er een tafel, twee kasten en een televisie aanwezig. Verzoekster en [naam 1] gaven aan op de grond te slapen. </para>
+          <para>De koelkast was goed gevuld met fruit, groente en drinken. In de hal lagen negen paar schoenen. In de slaapkamer stond een bed en verder was er kleding en een televisie aanwezig. </para>
+          <para>Tijdens het huisbezoek zijn met toestemming van verzoekster foto’s gemaakt, die bij het rapport rechtmatigheidsonderzoek zijn gevoegd. </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Vervolgens heeft verweerder de uitkering bij het primaire besluit 1 opgeschort per 1 maart 2020 omdat de adressen van de kinderen afwijken van het adres van verzoekster in de BRP, terwijl verzoekster heeft verklaard dat haar kinderen bij haar wonen (artikel 40, tweede lid van de Participatiewet (PW)). Verzoekster is tot 16 maart 2020 in de gelegenheid gesteld het adres van haar kinderen aan te passen in de BRP met de mededeling dat de opschorting zal worden beëindigd zodra alle kinderen op het adres van verzoekster staan ingeschreven. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>Ondanks dat er geen wijzingen hebben plaatsgevonden in de BRP is de opschorting ongedaan gemaakt en is de uitkering weer betaalbaar gesteld. Zowel de uitkering van februari (nog naar de alleenstaandennorm) als maart 2020 is inmiddels betaald aan verzoekster. Daarbij is vanaf maart 2020 de uitkering verlaagd naar de kostendelersnorm van een driepersoonshuishouden (€ 651,43). De uitkeringsspecificaties zijn aan verzoekster gezonden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7.</nr>
+      <para>Bij besluit van 26 maart 2020 (primaire besluit 2) heeft verweerder het recht op bijstand van verzoekster met ingang van 12 februari 2020 herzien. Verweerder heeft daaraan ten grondslag gelegd dat op de uitkering van verzoekster de kostendelersnorm moet worden toegepast nu zij met twee van haar meerderjarige kinderen in dezelfde woning het hoofdverblijf heeft. Verweerder heeft daarbij verwezen naar het uitgevoerde rechtmatigheidsonderzoek.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.8.</nr>
+      <para>Ter zitting heeft de gemachtigde van verzoekster het verzoek om voorlopige voorziening in verband met het besluit tot opschorting ingetrokken (zaak HAA 20/1219), zodat dit verzoek niet meer hoeft te worden beoordeeld. </para>
+      <para />
+      <parablock>
+        <para>3.	Op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb) kan de voorzieningenrechter van de rechtbank die bevoegd is of kan worden in de hoofdzaak, op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist. Daarom zal de voorzieningenrechter eerst beoordelen of verzoekster voldoende spoedeisend belang heeft. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Namens verzoekster is aangevoerd dat het spoedeisend belang bij het treffen van een voorlopige voorziening is gelegen in het feit dat zij door de herziening van de uitkering de kosten van de woning (huur, elektra en water) niet kan betalen. Ook zal ze geen eten kunnen kopen. Een bijkomende reden is dat zij in de schuldhulpverlening zit. Doordat haar echtgenoot de huur niet betaalde, is een schuld van € 13.000,- opgebouwd die zij nu aflost. Zij heeft een overzicht overgelegd van haar inkomsten en uitgaven alsmede haar schulden. Van haar bewindvoerder krijgt ze wekelijks het bedrag van € 50,00. Van de rest van haar uitkering worden haar huur en vaste lasten betaald en worden de oude schulden afgelost. Door de herziening zal zij niet langer aan het schema van de schuldaflossing kunnen voldoen. Daardoor zal zij nieuwe schulden krijgen. De gemachtigde van verzoekster maakt zich verder zeer ongerust over de geestelijke impact van het primaire besluit op verzoekster.   </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Verweerder heeft zich op het standpunt gesteld dat er geen sprake is van een spoedeisend belang. De uitbetaling van de uitkering is hervat en daarmee is de opschorting beëindigd. Verzoekster ontvangt dus wel een uitkering maar – terecht – op grond van de kostendelersnorm.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Vaste rechtspraak is dat een financieel belang op zichzelf (nog) geen spoedeisend belang oplevert. Voor een voorlopige voorziening is doorgaans slechts plaats wanneer er een acute financiële noodsituatie is of dreigt te ontstaan. Alhoewel daarvan vooralsnog geen sprake lijkt te zijn, zal de voorzieningenrechter gezien de psychische problemen van verzoekster en haar beperkte financiële draagkracht uitgaan van voldoende spoedeisend belang. </para>
+      <para />
+      <parablock>
+        <para>4.	Dat betekent dat vervolgens een inschatting dient te worden gemaakt van de kans van slagen in de onderliggende procedure. Voor het treffen van een voorlopige voorziening moet worden bezien of op grond van een afweging van de wederzijds in aanmerking komende belangen bij een al dan niet onmiddellijke uitvoering van de aangevallen uitspraak, het verzoek om een voorlopige voorziening dient te worden toegewezen. In het algemeen speelt bij deze belangenafweging een rol de vraag of het besluit in de bezwaarprocedure in stand zal blijven. Deze toetsing kan meebrengen dat de voorzieningenrechter een voorlopig oordeel geeft over het geschil in de onderliggende procedure. Daarbij geldt dat het oordeel van de voorzieningenrechter een voorlopig karakter heeft. De rechtbank in een eventueel bodemgeding is daaraan niet gebonden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het gaat hier voorts om een voor verzoekster belastend besluit. Daarom rust de bewijslast om aannemelijk te maken dat aan de voorwaarden voor herziening is voldaan in beginsel op de bijstandverlenende instantie. Dit betekent dat de bijstandverlenende instantie de nodige kennis over de relevante feiten moet verzamelen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Op grond van artikel 19a, eerste lid, van de PW wordt onder kostendelende medebewoner onder meer verstaan de persoon van 21 jaar of ouder, zijnde een bloed- of aanverwant in de eerste of tweede graad van de belanghebbende, die in dezelfde woning als de belanghebbende zijn hoofdverblijf heeft. Daarbij is van belang dat de wetgever mantelzorgsituaties bewust niet heeft willen uitzonderen van de kostendelersnorm. Dat de kinderen van verzoekster mantelzorg aan haar verlenen, betekent dus niet dat de kostendelersnorm niet van toepassing kan zijn. Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep (CRvB) van 1 november 2016, ECLI:NL:CRVB:2016:3875.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Kortgezegd dient dus te worden beoordeeld of twee kinderen van verzoekster hun hoofdverblijf hebben op het uitkeringsadres van verzoekster. De vraag waar iemand zijn hoofdverblijf heeft, moet worden beantwoord aan de hand van concrete feiten en omstandigheden. Daarbij komt geen doorslaggevende betekenis toe aan de inschrijving in de BRP. Het hoofdverblijf van een betrokkene ligt daar waar zich het zwaartepunt van zijn persoonlijk leven bevindt. Zie bijvoorbeeld uitspraak van de CRvB van 26 november 2019, ECLI:NL:CRVB:2019:3817.</para>
+      <para />
+      <paragroup>
+        <nr>4.4.1.</nr>
+        <para>Namens verzoekster is onder meer aangevoerd dat aan haar verklaring geen gewicht kan worden gehecht gezien de beperkingen van verzoekster zoals uit de overgelegde stukken blijkt. Verweerder heeft verzuimd door te vragen en geen nader onderzoek gevoerd. Verweerder heeft daarnaast een huisbezoek uitgevoerd zonder informed consent.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.2.</nr>
+        <parablock>
+          <para>Wat betreft de woonsituatie is namens verzoekster tevens het volgende aangevoerd. </para>
+          <para>Dochter [naam 2] heeft haar hoofdverblijf aan de [locatie 3] . Zij slaapt en doucht daar. Ook de was doet zij daar. Zij gaat ’s avonds na haar werk naar verzoekster. Ze doet de boodschappen, maakt schoon en helpt haar moeder met persoonlijke verzorgingstaken. Ze kookt voor haar moeder en ze eten samen, maar ze slaapt er niet. </para>
+          <para>Zoon [naam 3] stond tot vier á vijf maanden geleden ingeschreven op het adres van zijn moeder. Hij staat nu ingeschreven aan de [locatie 4] . Vier dagen in de week werkt hij bij [werkgever] in Hoofddorp. Zijn ploegdienst is van 6:30 tot 15:30 uur. Gemiddeld vier keer per week overnacht hij bij verzoekster. Hij eet zelden bij haar.</para>
+          <para>Tot ongeveer een jaar geleden stond zoon [naam 1] ingeschreven op het adres van verzoekster. Hij staat nu nergens ingeschreven. Feitelijk verblijft hij samen met een vriend aan de [locatie 5] . Sinds twee weken heeft hij een baan in Amsterdam met een ploegdienst van 12:30 tot 19:00 uur. Na het werk gaat hij iedere avond trainen. Gemiddeld vier nachten per week overnacht hij in het huis van verzoekster. De andere dagen slaapt hij aan de [locatie 5] .</para>
+          <para>Gelet op de feiten en omstandigheden kan volgens verzoekster van geen van de drie kinderen worden gezegd dat het zwaartepunt van hun leven bij verzoekster ligt. Verweerder heeft niet aannemelijk gemaakt dat er sprake is van hoofdverblijf bij verzoekster. </para>
+          <para>Verzoekster is extreem behoeftig en kwetsbaar. De kinderen helpen hun kwetsbare moeder in haar noodsituatie en wat zij doen is heel zwaar, naast hun eigen leven, hun werk, vriendschappen en hobby’s. </para>
+          <para>Verzoekster heeft voorts een beroep gedaan op de uitspraken van de CRvB van 4 september 2018, ECLI:CRVB:2018:2734 en van 27 augustus 2019, ECLI:CRVB: 2019:2818.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>De voorzieningenrechter heeft vooralsnog – in het licht van het dossier en hetgeen verweerder en verzoekster hebben aangevoerd – geen aanleiding te twijfelen aan de juistheid van de toepassing van de kostendelersnorm. Hiertoe wordt als volgt overwogen.</para>
+      <para />
+      <paragroup>
+        <nr>4.5.1.</nr>
+        <para>Verzoekster heeft, bijgestaan door [naam 1] , een verklaring afgelegd die door beiden is ondertekend. Het is vaste jurisprudentie (zie bijvoorbeeld de uitspraak van de CRvB van 16 december 2014 (ECLI:NL:CRVB:2014:4318) dat in het algemeen mag worden uitgegaan van de juistheid van een tegenover een handhavingsspecialist afgelegde en ondertekende verklaring. Er komt weinig betekenis toe aan het achteraf intrekken, ontkennen of nuanceren van een dergelijke verklaring. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.2.</nr>
+        <parablock>
+          <para>Uit het gespreksverslag volgt dat verzoekster zelf heeft verklaard dat [naam 2] , [naam 3] en [naam 1] bij haar wonen. De voorzieningenrechter neemt echter gezien de rapportage van de psycholoog aan dat verzoekster beperkt is in haar functioneren ten aanzien van begrijpen en communiceren, zodat hieraan in beginsel minder gewicht kan worden gehecht dan anders. </para>
+          <para>Daarbij merkt de voorzieningenrechter wel op dat het gaat om zeer basale vragen en uit het rapport rechtmatigheidsonderzoek noch uit het gespreksverslag is gebleken dat de communicatie moeilijk verliep, dat verzoekster de vragen niet begreep of dat verzoekster anderszins verward leek. </para>
+          <para>In dit geval is voorts zeer belangrijk dat verzoekster bij het gesprek is bijgestaan door haar zoon [naam 1] . Hij heeft tijdens het gesprek niet naar voren gebracht dat zijn moeder niet in staat was te begrijpen of te communiceren of anderszins niet in orde was, terwijl als dat op dat moment zo was, dat wel op zijn weg had gelegen. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.3.</nr>
+        <parablock>
+          <para>Daarnaast wordt [naam 1] geacht van de woonsituatie van zijn moeder, broer, zus en zichzelf op de hoogte te zijn. Indien hetgeen verzoekster verklaarde, niet juist was, had het op zijn weg gelegen hierover direct duidelijkheid te verschaffen. In de stukken en ter zitting is aangevoerd dat [naam 1] dit ook heeft gedaan en dat dit ook uit het gespreksverslag blijkt. Zo heeft [naam 1] verklaard dat hij doordeweeks bij zijn moeder is en dat hij vrijdag tot en met zondag in Amsterdam werkt als [functie] en niet bij zijn moeder slaapt. De voorzieningenrechter is voorshands van oordeel dat reeds op basis hiervan kan worden geconcludeerd dat [naam 1] zijn woonverblijf bij verzoekster heeft. Ter zitting heeft [naam 1] aangegeven dat hij [functie] was. Dat hij dan dus niet bij zijn moeder sliep, is logisch. Bovendien ligt het zwaartepunt van iemands persoonlijk leven normaliter niet op zijn werk. Als [naam 1] ook nog ergens anders verbleef, hetgeen nergens uit blijkt, had het wederom op zijn weg gelegen dat te zeggen. Dit geldt temeer nu [naam 1] niet was ingeschreven in de BRP en dit tijdens het gesprek ook is voorgehouden. </para>
+          <para>Daarnaast is er namens verzoekster op gewezen dat [naam 1] heeft verklaard dat zijn moeder niet alleen kan zijn en dat zijn broertje [naam 3] en zusje [naam 2] afwisselend bij haar zijn. Hieruit blijkt echter geenszins dat zij niet bij verzoekster wonen. [naam 1] heeft vervolgens bij de vraag wie er bij verzoekster woont, waarbij verzoekster antwoordt “ [naam 2] , [naam 3] en [naam 1] ,” niet aangegeven dat dit niet klopt noch dit antwoord op enige wijze genuanceerd. Dit bevreemdt temeer nu [naam 1] de vragen en antwoorden van zijn moeder vertaalde. In het licht daarvan kan het verweerder niet worden tegengeworpen dat er niet is doorgevraagd naar de woonsituatie van de kinderen. Dat [naam 1] haast had en daarom niet adequaat heeft gereageerd, acht de voorzieningenrechter ongeloofwaardig. Zo blijkt hiervan niet uit het rapport rechtmatigheidsonderzoek of het gespreksverslag. Daarnaast was [naam 1] vervolgens ook bij het huisbezoek.</para>
+          <para>De verklaring is vervolgens niet alleen door verzoekster maar ook door [naam 1] ondertekend. Dat verzoekster en [naam 1] hierbij onder druk zijn gezet, is niet gebleken. </para>
+          <para>Dat [naam 1] bovendien onvoldoende Nederlands spreekt en daardoor de vragen niet goed heeft begrepen of de antwoorden niet goed heeft verwoord is evenmin gebleken Het strookt ook niet met hetgeen is aangevoerd (zoals hiervoor is vermeld).</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.4.</nr>
+        <para>Op grond van het voorgaande concludeert de voorzieningenrechter dat de door verzoekster en [naam 1] ondertekende verklaring vooralsnog voor juist kan worden gehouden. Gezien hetgeen namens verzoekster is aangevoerd, gaat de voorzieningenrechter er wel van uit dat verweerder in de bezwaarprocedure één en ander nog verifieert bij de betrokken handhavingsmedewerkers.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <parablock>
+        <para>Vervolgens heeft er aansluitend een huisbezoek plaatsgevonden. De voorzieningenrechter ziet geen aanleiding te twijfelen aan het rapport rechtmatigheidsonderzoek waarin staat dat vooraf is medegedeeld dat verweerder een huisbezoek wenste af te leggen, maar dat er geen gevolgen zouden worden verbonden aan het niet meewerken aan het huisbezoek. Gezien de ondertekening van het formulier huisbezoek door verzoekster en [naam 1] worden zij dan ook geacht toestemming te hebben gegeven voor het huisbezoek. </para>
+        <para>Overigens vraagt de voorzieningenrechter zich af of hier niet gewoon een redelijke grond was voor het huisbezoek. Tijdens het gesprek werd duidelijk dat de woonsituatie anders was dan bij verweerder bekend was en het lag derhalve voor de hand om dat aansluitend aan het gesprek door middel van een huisbezoek te controleren. In een dergelijke situatie ligt het niet voor de hand om nog observaties te doen.</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>4.6.1.</nr>
+        <parablock>
+          <para>Uit de bevindingen van het huisbezoek alsmede hetgeen hierover in het rapport rechtmatigheidsonderzoek is opgenomen, volgt dat de aangetroffen woonsituatie overeenkomt met hetgeen verzoekster en [naam 1] in het gesprek hebben verklaard. Zo lagen er op de grond in de woonkamer dekens op de grond, waarbij verzoekster en [naam 1] aangaven daar te slapen. Dat dit niet gebruikelijk is voor de meeste mensen maakt niet dat hieraan getwijfeld moest worden. Bovendien is ook helemaal niet betwist dat zij op de grond slapen.</para>
+          <para>Er lagen negen paar schoenen in de hal. Er lag verschillende kleding in de slaapkamer. Uit hetgeen daarover ter zitting is gezegd maakt de voorzieningenrechter op dat daar ook spullen van de kinderen bij zaten. De koelkast zat vol. Daarnaast is zoon [naam 3] tijdens het huisbezoek slapend aangetroffen in het bed in de slaapkamer (midden op de dag). Hiervoor is geen verklaring gegeven. In het licht van de verklaring van verzoekster en [naam 1] acht de voorzieningenrechter dan ook voorshands voldoende aannemelijk dat ook [naam 3] – naast [naam 1] – zijn woonverblijf op het adres van zijn moeder had. Alleen ten aanzien van [naam 2] is in het licht van het huisbezoek onduidelijk gebleven of zij daadwerkelijk op het adres van haar moeder haar hoofdverblijf had.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <para>Tot slot wijst de voorzieningenrechter erop dat ondanks dat [naam 1] , [naam 2] en de gemachtigde van verzoekster ter zitting meerdermalen zijn gevraagd en in de gelegenheid gesteld hun woonsituatie alsmede die van [naam 3] verder toe te lichten, zij deze gelegenheid niet hebben aangegrepen, terwijl hetgeen door hun gemachtigde in de schriftelijke stukken is aangevoerd een allesbehalve compleet beeld schetst. Ook overigens is hetgeen aangevoerd is ten aanzien van de woonsituatie van de kinderen op geen enkele wijze onderbouwd. In de bezwaarfase hebben verzoekster en haar kinderen daartoe alsnog de gelegenheid. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8.</nr>
+      <para>De voorzieningenrechter komt dan ook voorshands tot de conclusie dat verweerder aannemelijk heeft gemaakt dat sprake is van een driepersoonshuishouden. In het licht van het gesprek en het huisbezoek behoefde verweerder geen nader onderzoek te doen naar waar het zwaartepunt van het persoonlijk leven van de kinderen zich bevond. Daarbij gaat de voorzieningenrechter ervan uit dat [naam 1] en [naam 3] meegenomen zijn in de toegepaste kostendelersnorm en [naam 2] niet. Verweerder dient in het besluit op bezwaar wel te verduidelijken om wie het gaat. </para>
+      <para />
+      <para>5. Gelet op het voorgaande is de voorzieningenrechter voorlopig van oordeel dat het besluit ter zake de herziening in de bezwaarprocedure stand zal houden. Het verzoek tot het treffen van een voorlopige voorziening zal dan ook worden afgewezen. </para>
+      <para />
+      <para>6. Voor een veroordeling in de proceskosten of vergoeden van griffierecht bestaat geen aanleiding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+  </section>
+  <section>
+    <title>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af. </title>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 3 april 2020 door mr. M.P.E. Oomens, voorzieningenrechter, in aanwezigheid van mr. M.H. Boomsma, griffier. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.   </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

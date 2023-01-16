@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:2202</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-29T14:46:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-19</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 19_6344</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2202">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2202</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-20T13:01:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:2202 Rechtbank Zeeland-West-Brabant , 19-05-2020 / AWB- 19_6344</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:2202:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>AW</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:2202:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Breda</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/6344 AW</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 19 mei 2020 in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] , te [plaatsnaam] , eiser</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">De korpschef van politie, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In het besluit van 21 november 2019 (bestreden besluit) heeft de korpschef het bezwaar van eiser tegen zijn verplichte deelname aan de regeling levensfase-uren (LFU-regeling) ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De korpschef heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 30 april 2020 via een skypeverbinding. Bij het onderzoek waren aanwezig eiser en namens de korpschef mr. J. Wegen. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser is op 1 september 2018 in dienst getreden bij de politie. </para>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 juli 2019 heeft de korpschef aan eiser een startsaldo van 19,2 uur aan levensfase-uren toegekend. Eiser heeft bezwaar gemaakt tegen dit besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het bestreden besluit is het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <para>2. In geschil is of de korpschef op goede gronden heeft gesteld dat eiser verplicht is deel te nemen aan de LFU-regeling. </para>
+    <para />
+    <para>3. Eiser voert aan dat alleen is gekeken naar de regelgeving en niet naar de tekortkomingen van de korpschef in dit dossier. Als er op een eerder moment contact was geweest, was eiser ruim voor 1 juli 2018 in dienst gekomen en was hij niet verplicht deel te nemen aan de LFU. Ter onderbouwing van zijn stelling heeft eiser stukken overgelegd waaruit blijkt dat de screening erg lang heeft geduurd. </para>
+    <para />
+    <para>4. In artikel 30, eerste lid, van het Besluit algemene rechtspositie politie (Barp) is bepaald dat bij ten minste een volledige betrekking of deelbetrekkingen met een gezamenlijke omvang van ten minste 36 uur per week de ambtenaar aanspraak op 53,8 levensfase-uren per kalenderjaar heeft.</para>
+    <para />
+    <parablock>
+      <para>In artikel 30e, eerste lid, van het Barp is bepaald dat de artikelen 30 tot en met 30d van toepassing zijn op de ambtenaar die:</para>
+    </parablock>
+    <para>a. op of na 1 juli 2019 in dienst treedt;</para>
+    <para>b. op 30 juni 2019 in dienst is en:</para>
+    <para>1. op of na 1 juli 2018 in dienst is getreden;</para>
+    <para>2. op 30 juni 2018 in dienst was en op 1 juli 2018 jonger was dan 46 jaar; of</para>
+    <para>3. op 30 juni 2018 in dienst was en op 1 juli 2018 46 jaar of ouder was, maar nog geen 55 jaar.</para>
+    <para />
+    <parablock>
+      <para>In artikel 30e, tweede lid, van het Barp is bepaald dat artikel 30 is niet van toepassing is op de ambtenaar:</para>
+    </parablock>
+    <para>a. bedoeld in het eerste lid, onderdeel b, subonderdeel 3, die in de periode van 1 januari 2019 tot en met 31 maart 2019 bij het bevoegd gezag schriftelijk kenbaar heeft gemaakt geen aanspraak te maken op levensfase-uren;</para>
+    <para>b. die op 30 juni 2018 in dienst was en op 1 juli 2018 55 jaar of ouder was;</para>
+    <para>c. op wie artikel 88a van toepassing is.</para>
+    <para>5.	<emphasis role="italic">Beoordeling</emphasis></para>
+    <para />
+    <parablock>
+      <para>De rechtbank stelt vast dat eiser niet valt onder de uitzonderingsbepalingen van artikel 30e, tweede lid, van het Barp. Dit betekent dat eiser niet kan kiezen om af te zien van de LFU-regeling. Eiser heeft dit ook niet betwist. Eiser is echter van mening dat hij die keuze wel zou moeten krijgen omdat hij door toedoen van de politie niet eerder in dienst heeft kunnen treden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de LFU-regeling is echter geen hardheidsclausule opgenomen. Dit betekent dat de datum waarop eiser in dienst is getreden bepalend is voor welke regeling van toepassing is. Dat het lang heeft geduurd voordat eiser in dienst heeft kunnen treden is daarom een omstandigheid die niet betrokken kan worden bij de vraag of de LFU-regeling van toepassing is. Omdat eiser op 1 september 2018 in dienst is getreden, heeft de korpschef op goede gronden gesteld dat eiser valt onder de LFU-regeling. Het beroep zal daarom ongegrond worden verklaard. </para>
+    </parablock>
+    <para />
+    <bridgehead role="italic">6.	Verzoek om schadevergoeding</bridgehead>
+    <para />
+    <parablock>
+      <para>Eiser heeft ter zitting gesteld dat als het bestreden besluit niet gewijzigd kan worden, hij op een andere manier gecompenseerd moet worden. De rechtbank merkt deze stelling aan als een verzoek om schadevergoeding. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 8:88, eerste lid, onder a, en b, van de Algemene wet bestuursrecht (Awb) is de bestuursrechter bevoegd op verzoek van een belanghebbende een bestuursorgaan te veroordelen tot vergoeding van schade die de belanghebbende lijdt of zal lijden als gevolg van een onrechtmatig besluit of een andere onrechtmatige handeling ter voorbereiding van een onrechtmatig besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Uit wat onder punt 5 is overwogen volgt dat er geen sprake is van een onrechtmatig besluit. Gelet op het bepaalde in voornoemd artikel 8:88 Awb bestaat geen aanleiding om de korpschef te veroordelen tot het vergoeden van schade. Het verzoek om schadevergoeding zal daarom worden afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Er is geen reden voor een proceskostenveroordeling. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep ongegrond; </para>
+      </listitem>
+      <listitem>
+        <para>wijst het verzoek om schadevergoeding voor het overige af. </para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. S.A.M.L. van de Sande, rechter, in aanwezigheid van </para>
+      <para>mr. A.J.M. van Hees, griffier, op 19 mei 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De griffier is niet in de gelegenheid deze uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

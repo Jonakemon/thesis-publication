@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:1475</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-06T16:24:13</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 18/5236</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:1475">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:1475</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-06T15:09:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:1475 Rechtbank Amsterdam , 05-03-2020 / AMS 18/5236</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:1475:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Fastned krijgt geen gelijk in de beroepsprocedure die zij heeft aangespannen tegen de vergunning die Shell kreeg voor het plaatsen van elektrische oplaadpunten bij het benzinestation Den Ruygen Hoek-Oost aan de rijksweg A4.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:1475:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 18/5236</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 5 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">de besloten vennootschap Fastned B.V. te Amsterdam eiseres </bridgehead>
+    <para>(gemachtigde: mr. L.P.W. Mensink),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de minister van Infrastructuur en Waterstaat, verweerder</para>
+      <para>(gemachtigde: mr. A.J. van der Ven).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tevens heeft aan het geding deelgenomen: <emphasis role="bold">de besloten vennootschap Shell Nederland Verkoopmaatschappij B.V.</emphasis>, te Rotterdam</para>
+      <para>(gemachtigde: mr. C.H.R.M. van der Hoeven).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen worden hierna Fastned, de minister en Shell genoemd.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met een besluit van 31 januari 2018 heeft de minister aan Shell vergunning verleend als bedoeld in artikel 2 van de Wet beheer rijkswaterstaatwerken (Wbr) voor het wijzigen van de op 16 januari 1976 verleende vergunning voor het maken, hebben en exploiteren van een motorbrandstoffenverkooppunt op verzorgingsplaats ‘ Den Ruygen Hoek-Oost ’ aan de rijksweg A4 , gemeente Haarlemmermeer . De wijziging betreft het realiseren van twee elektrische laadpunten en een Tesla adapterpaal. Fastned heeft tegen dit besluit bezwaar gemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 11 juli 2018 (het bestreden besluit) heeft de minister het bezwaar van Fastned ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Fastned heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Shell heeft een schriftelijke uiteenzetting gegeven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is behandeld op de zitting van 20 januari 2020, gelijktijdig met zeven andere beroepszaken van Fastned<footnote-ref linkend="_9254759b-2a3d-4daa-a721-ae44423955f9" /> en twee beroepszaken van MisterGreen Fast Charging Network B.V.<footnote-ref linkend="_3cdd4622-a97b-49a4-8e8c-bd1b45001806" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Fastned heeft zich op de zitting laten vertegenwoordigen door haar gemachtigde en mr. C.S. Schekkerman en [naam 1] . De minister heeft zich laten vertegenwoordigen door zijn gemachtigde en mr. M. Botman , ing. [naam 2] (adviseur verkeersveiligheid bij Rijkswaterstaat) en mr. [naam 3] (juridisch adviseur bij Rijkswaterstaat). Shell heeft zich laten vertegenwoordigen door haar gemachtigde en mr. F.H.B. Budde . Het onderzoek ter zitting is geschorst tot 23 januari 2020. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op de zitting van 23 januari 2020 heeft de rechtbank het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Shell exploiteert een benzinestation op verzorgingsplaats ‘ Den Ruygen Hoek-Oost ’ (hierna: de verzorgingsplaats). Deze procedure gaat over de op 31 januari 2018 aan haar verleende vergunning, voor zover die ziet op het realiseren, hebben en behouden van een energielaadpunt en een Tesla-adapterpaal voor motorvoertuigen als aanvullende voorziening bij haar benzinestation. Het energielaadpunt bestaat uit twee laadpalen, bedoeld voor het opladen van elk één elektrische auto tegelijk. De twee laadpalen bevinden zich bij twee parkeerplaatsen naast het benzinestation. Fastned verzet zich tegen het aan Shell vergunde energielaadpunt.</para>
+    <para />
+    <para>2. Fastned houdt zich bezig met de realisering van een landelijk dekkende infrastructuur voor het opladen van elektrische auto's, onder meer langs de Nederlandse snelwegen. Zij exploiteert op de verzorgingsplaats een energielaadpunt als basisvoorziening en heeft daarvoor sinds 22 mei 2017 een vergunning op grond van de Wbr. Het energielaadpunt van Fastned, een zogenoemd snellaadstation, bestaat uit een overkapping met daaronder twee laadeilanden met vier snellaadpalen en twee Tesla-adapters. Het snellaadstation bevindt zich naast het benzinestation van Shell. Het snellaadstation van Fastned heeft een eigen toe- en afrit. </para>
+    <para />
+    <para>3. Voor het aanbieden van een voorziening op een verzorgingsplaats langs een rijksweg, zoals het door Shell aangevraagde energielaadpunt, is een vergunning op grond van artikel 2 van de Wbr vereist. De aanvraag van Shell is getoetst aan artikel 3 van de Wbr en aan het door de minister vastgestelde beleid, neergelegd in de 'Kennisgeving Voorzieningenbeleid op verzorgingsplaatsen langs rijkswegen' (hierna: de Kennisgeving).</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Toepasselijke regelgeving</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. De relevante wettelijke bepalingen en een samenvatting van de relevante onderdelen van de Kennisgeving zijn opgenomen in de bijlage bij deze uitspraak en maken daar deel van uit. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De beoordeling van het beroep</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank moet beoordelen of de aan Shell verleende vergunning voor een energielaadpunt als aanvullende voorziening bij het benzinestation op de verzorgingsplaats terecht is verleend. Het in de Kennisgeving neergelegde beleid is hier alleen van belang voor zover dat van toepassing is op de door Shell aangevraagde aanvullende voorziening. Het beleid over energielaadpunten als basisvoorziening speelt in deze procedure geen rol, aangezien er geen vergunning voor een energielaadpunt als basisvoorziening voorligt. De aan Fastned verleende vergunning voor haar snellaadstation en de totstandkoming daarvan vallen dus buiten de omvang van dit geding. </para>
+    <para />
+    <para>6. Partijen zijn het erover eens dat een energielaadpunt met twee laadpalen, zoals in deze procedure aan de orde, de omvang van een energielaadpunt als aanvullende voorziening niet te boven gaat. De rechtbank sluit zich daar bij aan.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Dienstenrichtlijn </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>7. Op de zitting is vastgesteld dat tussen partijen niet langer ter discussie staat dat een vergunning voor een energielaadpunt als aanvullende voorziening bij een bestaande basisvoorziening (een benzinestation, wegrestaurant of servicestation) geen schaarse vergunning is. Dit betekent dat de verleende vergunning niet in strijd is met de artikelen 11 en 12 van de Dienstenrichtlijn<footnote-ref linkend="_8b898df0-afd6-4397-b6c5-5f9bb39b73bf" /> en artikel 33 van de Dienstenwet.<footnote-ref linkend="_bad2e130-2b40-406b-812c-261d4a3f002f" /> Verder heeft de Afdeling al eerder geoordeeld dat de verlening van deze vergunning geen gevolgen heeft voor de mogelijkheid voor andere exploitanten van een bestaande basisvoorziening om daarbij een laadpaal te plaatsen of voor de mogelijkheid van Fastned om meer laadpalen te plaatsen bij haar snellaadstation op de verzorgingsplaats.<footnote-ref linkend="_a89a8f56-337b-45be-a7e6-ae8f41f75d6d" /> Fastned heeft er in dit verband op gewezen dat de regels met betrekking tot de uitbreiding van de basisvoorziening zijn gewijzigd.<footnote-ref linkend="_715d35f4-5a4f-4b04-99cb-31eb87c5bfa8" /> Wat hier verder van zij, deze wijziging dateert van na het bestreden besluit, zodat de rechtbank dit argument alleen al om die reden niet in haar oordeel kan betrekken. Het betoog van Fastned dat zij door deze vergunning wordt belemmerd in haar uitbreidingsmogelijkheden, slaagt dus niet.</para>
+    <para />
+    <para>8. Op de zitting heeft Fastned toegelicht dat zij niet langer haar beroep op de Dienstenrichtlijn handhaaft voor zover zij daarmee beoogt te bereiken dat de exploitant van het benzinestation, in dit geval Shell, op de verzorgingsplaats geen vergunning krijgt voor een energielaadpunt als aanvullende voorziening. Deze beroepsgrond behoeft dus geen verdere bespreking meer.</para>
+    <para />
+    <para>9. Fastned voert aan dat zij had willen meedingen naar de vergunning voor het energielaadpunt als aanvullende voorziening bij het benzinestation op de verzorgingsplaats. Het exclusief voorbehouden van deze vergunning aan de exploitant van het benzinestation (de basisvoorziening) beperkt het vrij vestigen van dienstverrichters. Dit is in strijd met (de criteria van) artikel 10 van de Dienstenrichtlijn, aldus Fastned.</para>
+    <para />
+    <para>10. Volgens de minister kan Fastned zich niet beroepen op artikel 10 van de Dienstenrichtlijn. Artikel 10 van de Dienstenrichtlijn beoogt te voorkomen dat bevoegde instanties hun beoordelingsbevoegdheid op willekeurige wijze uitoefenen. Zo beschrijft artikel 10, tweede lid, van de Dienstenrichtlijn de criteria waaraan vergunningstelsels moeten voldoen. Deze criteria strekken niet tot bescherming van het belang van Fastned, maar tot bescherming van het belang van de aanvrager van de vergunning, in dit geval Shell. Fastned kan dus alleen een beroep doen op artikel 10 van de Dienstenrichtlijn als zij zelf een aanvraag indient om een vergunning voor een aanvullende voorziening. De minister wijst er echter op dat Shell een huurovereenkomst heeft gesloten met de Staat, de eigenaar van de grond, waardoor Shell kan beschikken over het gedeelte van de verzorgingsplaats dat is bestemd voor de vestiging van een verkooppunt van motorbrandstoffen. Dit betekent dat Fastned geen beschikkingsmacht heeft over de grond waarop het energielaadpunt als aanvullende voorziening bij het benzinestation is gepland. In artikel 1, zevende lid, van de Dienstenrichtlijn is bepaald dat de richtlijn geen afbreuk doet aan de uitoefening van grondrechten. De vrijheid van dienstverrichters om zich te vestigen houdt dus geen recht in voor Fastned om op het gedeelte van de verzorgingsplaats dat is verhuurd aan Shell economische activiteiten te mogen verrichten. Fastned kan daar dus ook geen vergunning voor krijgen, aldus de minister.</para>
+    <para />
+    <para>11. De rechtbank stelt vast dat Fastned op de zitting heeft verklaard dat zij geen vergunning heeft aangevraagd voor een energielaadpunt als aanvullende voorziening bij het benzinestation op de verzorgingsplaats, noch voor een aanvullende voorziening op grond die verhuurd is aan Shell noch voor het realiseren van een - in de woorden van Fastned - klein laadstation (een enkele laadpaal bij bestaande parkeerplaatsen) op grond die niet is verhuurd aan Shell (of andere derden). Er is dus ook geen besluit van de minister waarin is beoordeeld of Fastned daarvoor in aanmerking komt. Nog daargelaten of Fastned een beroep kan doen op artikel 10 van de Dienstenrichtlijn, ligt de vraag of Fastned in aanmerking komt voor deze vergunning in deze procedure dus niet voor. Zoals hiervoor al is overwogen moet in deze procedure worden beoordeeld of de minister aan Shell terecht vergunning heeft verleend voor een energielaadpunt als aanvullende voorziening bij het benzinestation op de verzorgingsplaats. Dat de minister op eigen initiatief Fastned in de gelegenheid had moeten stellen mee te dingen naar een vergunning voor een energielaadpunt als aanvullende voorziening volgt niet uit artikel 10 van de Dienstenrichtlijn.</para>
+    <para />
+    <para>12. Het betoog van Fastned slaagt dus niet.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 106 van het Verdrag betreffende de werking van de Europese Unie (VWEU)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>13. Fastned voert verder aan dat de minister in strijd met artikel 106 van het VWEU handelt door aan Shell het recht toe te kennen een energielaadpunt als aanvullende voorziening bij het benzinestation op de verzorgingsplaats te exploiteren. Volgens Fastned verbiedt die bepaling lidstaten om ondernemingen, waaraan bijzondere of uitsluitende rechten zijn verleend, op die grond ook andere voordelen toe te kennen. Fastned betoogt, met verwijzing naar rechtspraak van het Hof van Justitie<footnote-ref linkend="_192433de-c8ab-43c9-9a42-38f8d7dd2ed4" />, dat in dit geval van een uitsluitend of bijzonder recht in de zin van die bepaling sprake is, omdat een beperkt aantal ondernemingen wordt beschermd en andere ondernemingen aanmerkelijk minder mogelijkheden hebben om in hetzelfde geografische gebied en onder gelijkwaardige omstandigheden de betrokken economische activiteit uit te oefenen. </para>
+    <para />
+    <para>14. Het betoog van Fastned slaagt niet. De minister heeft Fastned een vergunning toegekend voor een, inmiddels gerealiseerd, energielaadpunt als basisvoorziening op de verzorgingsplaats. Tevens heeft Fastned de mogelijkheid een vergunning aan te vragen voor uitbreiding van dit energielaadpunt met een of meer extra laadpalen. Verder is, gezien het voorzieningenbeleid in de Kennisgeving, de mogelijkheid om een aanvullende voorziening aan te vragen een bestaand recht bij het hebben en behouden van een basisvoorziening, in dit geval een benzinestation. De duur van de huurovereenkomst voor een locatie, bestemd voor het vestigen van een benzinestation op een verzorgingsplaats, is ten hoogste vijftien jaar. Voor elke volgende termijn van vijftien jaar geeft de Staat belangstellenden, ook Fastned, de gelegenheid op een openbare veiling voor die locatie het hoogste bod uit te brengen. De rechtbank concludeert dan ook dat Fastned geenszins wordt belemmerd in de uitoefening van haar economische activiteit.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Gelijkheidsbeginsel</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>15. Fastned voert aan dat de minister in strijd met het gelijkheidsbeginsel handelt door aan benzinestations vergunningen voor energielaadpunten voor onbepaalde tijd te verlenen en aan Fastned voor de duur van 15 jaar. </para>
+    <para />
+    <para>16. De rechtbank herhaalt dat in deze procedure de aan Shell verleende vergunning voor een energielaadpunt als aanvullende voorziening voorligt. Nog daargelaten of sprake is van gelijke gevallen, dient Fastned dit betoog aan te voeren in een eventuele procedure over de aan haar verleende vergunning.</para>
+    <para />
+    <para>17. Verder voert Fastned aan dat de minister in strijd met het gelijkheidsbeginsel handelt omdat de Staat na afloop van de huurovereenkomst met Fastned over een locatie voor snellaadvoorzieningen, niet wettelijk verplicht is aan Fastned de waarde van de aanwezige gebouwen en werken te vergoeden terwijl dit bij benzinestations wel het geval is. </para>
+    <para />
+    <para>18. De minister heeft op de zitting toegelicht dat deze vergoeding van de restwaarde is vastgelegd in de huurovereenkomst die met Shell is gesloten. Het betreft dus een privaatrechtelijke aangelegenheid en geen vergunningsvoorwaarde. Het staat Fastned vrij om eenzelfde regeling te bedingen in de huurovereenkomst die zij met de Staat sluit over de grond op de verzorgingsplaats waarop het snellaadstation van Fastned zich bevindt, aldus de minister. </para>
+    <para />
+    <para>19. De rechtbank is van oordeel dat, nog daargelaten dat de bestuursrechter zich niet over deze privaatrechtelijke kwestie kan uitlaten, ook hier geldt dat Fastned dit betoog zal moeten aanvoeren in een eventuele procedure over de aan haar verleende vergunning. </para>
+    <para />
+    <para>20. De rechtbank concludeert dat de argumenten van Fastned buiten de omvang van dit geding vallen. Alleen al om die reden faalt het betoog van Fastned.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Veilig gebruik van de verzorgingsplaats</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>21. Fastned betoogt dat de minister de vergunning had moeten weigeren, omdat een tweede energielaadpunt op de verzorgingsplaats in strijd is met de eisen van veilig gebruik van de verzorgingsplaats. Een tweede energielaadpunt leidt bij de splitsing op de afrit naar de verzorgingsplaats tot twijfel en keuzestress bij de automobilist, met als gevolg onverwacht remmen en langzaam rijden op de afrit. Dit kan gevaarlijke verkeerssituaties tot gevolg hebben, zeker bij achteropkomend verkeer dat met relatief hoge snelheid de snelweg verlaat en de afrit oprijdt. Verder zullen bestuurders op de verzorgingsplaats, als het eerste energielaadpunt niet kan worden gebruikt, tegen de rijrichting in naar het tweede energielaadpunt gaan rijden, wat tot ongelukken kan leiden. Bovendien heeft de minister ten onrechte de te verwachten toename van het aandeel elektrische auto’s op de openbare wegen in de komende tien tot vijftien jaar buiten beschouwing gelaten, aldus Fastned.</para>
+    <para />
+    <para>22. Fastned onderbouwt haar betoog met de volgende algemene verkeerskundige adviezen:</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>het advies ‘Memo beschouwing oplaadstations op verzorgingsplaatsen’ van Royal Haskoning DHV van 2 december 2014; </para>
+      </listitem>
+      <listitem>
+        <para>het advies ‘Verkeerspsychologisch advies laadstations op verzorgingsplaatsen’ van De Verkeerspsycholoog GTi van 18 september 2016; en </para>
+      </listitem>
+      <listitem>
+        <para>het advies 'Inrichting verzorgingsplaatsen langs autosnelwegen’ van Prana Consult van 28 april 2017.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para>23. In aanvulling op de genoemde algemene verkeerskundige adviezen onderbouwt Fastned haar betoog met de volgende op de verzorgingsplaats toegespitste verkeerskundige adviezen: van Royal Haskoning DHV van 16 november 2018 en van Roelofs van 22 januari 2019.</para>
+    <para />
+    <para>24. In reactie op het betoog van Fastned heeft de minister het memo ‘Verkeerskundige beoordeling laadvoorzieningen Den Ruygen Hoek-Oost ’ van de verkeerskundige dienst van Rijkswaterstaat van 23 april 2019 ingebracht. Onder verwijzing naar dit memo stelt de minister zich op het standpunt dat het toestaan van een laadpaal als aanvullende voorziening bij het benzinestation op de verzorgingsplaats geen reëel verkeersveiligheidsrisico met zich brengt. Verder heeft de minister op de zitting toegelicht dat de ontwikkelingen op de verzorgingsplaatsen jaarlijks worden gevolgd. Elke twee jaar wordt per verzorgingsplaats de veiligheid beoordeeld. De plaatsing van energielaadpunten heeft niet geleid tot een toename van het aantal botsingen op verzorgingsplaatsen. Op het totaal van 350 verzorgingsplaatsen langs de rijkswegen hebben zich in de afgelopen tien jaar 21 frontale botsingen voorgedaan, waarvan drie met letsel. Van de 21 frontale botsingen vonden er slechts zes plaats in de afgelopen vijf jaar, dat is de periode waarin voor het eerst energielaadpunten zijn geplaatst. De minister heeft op de zitting verder toegelicht dat zonodig de situatie op de verzorgingsplaats wordt aangepast, bijvoorbeeld door verlaging van de toegestane snelheid ter plaatse. Verder is ook in de procedure bij de Afdeling die heeft geleid tot de uitspraak van 19 september 2018<footnote-ref linkend="_2f113957-91a7-46aa-9a2c-0cb92f2638cf" />, de te verwachten groei in het aantal elektrische auto’s aan de orde gekomen, ook al is dit niet expliciet in de uitspraak tot uiting gekomen, aldus de minister.</para>
+    <para />
+    <para>25. De rechtbank overweegt dat de genoemde algemene verkeerskundige adviezen al eerder zijn ingebracht en gewogen in de procedure die heeft geleid tot de hiervoor genoemde uitspraak van de Afdeling van 19 september 2018, over verzorgingsplaats ‘ De Andel ’. De Afdeling heeft toen geoordeeld dat, hoewel niet uitgesloten is dat het door Fastned gestelde onzekere rijgedrag op het splitsingspunt op de afrit naar en het ongewenste rijgedrag op de verzorgingsplaats kan plaatsvinden, dit niet zal leiden tot een zodanige verkeersonveilige situatie dat de vergunning wegens strijd met het vereiste van een veilig gebruik van de verzorgingsplaats had moeten worden geweigerd. De Afdeling heeft dit standpunt ook ingenomen in haar uitspraak van 31 juli 2019<footnote-ref linkend="_5c51c6f0-9d98-454a-8301-4ce6e88aaac8" /> met betrekking tot de verzorgingsplaats ‘ Den Ruygen Hoek-West ’. De Afdeling heeft in die uitspraak verder overwogen dat de omstandigheid dat op de splitsing niet alle informatie kenbaar is om een weloverwogen keuze te maken, niet betekent dat niet tijdig een keuze kan worden gemaakt op basis van de beschikbare informatie. Verder vormt de lange duur van de laadtijd naar het oordeel van de Afdeling weliswaar een prikkel om tegen het verkeer in te rijden, maar Fastned heeft niet aannemelijk gemaakt dat dit vaak gebeurt. De Afdeling heeft in de procedure over ‘ Den Ruygen Hoek-West ’ ook memo’s van Rijkswaterstaat betrokken, waarin staat dat de gevolgen van het tegen het verkeer inrijden gering zijn. De conclusie van de Afdeling is dat de minister zich in redelijkheid op het standpunt heeft kunnen stellen dat onzeker en onvoorspelbaar gedrag op de splitsing en na de afrit alsook de omstandigheid dat sommige bestuurders tegen de rijrichting in zullen rijden op de verzorgingsplaats, niet leiden tot een zodanige verkeersonveilige situatie dat de vergunning had moeten worden geweigerd. </para>
+    <para />
+    <para>26. Aan de orde in deze procedure is of de situatie ter plaatse zodanig anders is dan bij ‘ De Andel ’ en ‘ Den Ruygen Hoek-West ’, dat de minister zich in deze procedure in redelijkheid niet op dat standpunt heeft kunnen stellen. Daarbij betrekt de rechtbank ook of in de later ingebrachte rapporten van Royal Haskoning DHV en Roelofs nieuwe feiten of argumenten staan die zouden moeten leiden tot een ander standpunt. De rechtbank vindt dat dit niet het geval is en zal dat hierna uitleggen.</para>
+    <para />
+    <para>27. In het door de minister overgelegde memo van Rijkswaterstaat van 23 april 2019 is een op de verzorgingsplaats toegespitste ritanalyse opgenomen. Het memo is opgesteld voordat het laadstation van Fastned was gerealiseerd. Vermeld staat dat na realisatie het bord met verwijzing naar de aanwezige voorzieningen wordt aangepast. Niet is betwist dat inmiddels het voor deze situatie gangbare bord aanwezig is. In het memo is de mogelijkheid betrokken om tegen het verkeer in te rijden. Op ‘ Den Ruygen Hoek-Oost ’ zijn geen ongevallen bekend. De conclusie is dat er geen reden is om de vergunning op basis van verkeersveiligheidsargumenten te weigeren. De rapporten van Royal Haskoning DHV en Roelofs over ‘ Den Ruygen Hoek-Oost ’ bevatten naar het oordeel van de rechtbank geen nieuwe feiten of argumenten ten opzichte van de eerder door de Afdeling betrokken feiten en argumenten. Daarbij merkt de rechtbank op dat de snelheid na de splitsing in de richting van het laadstation van Fastned niet 70 km/u maar 50 km/u is. Verder hoeft er bij spookrijden, als dat al zou plaatsvinden, niet over een grotere afstand tegen het verkeer in te worden gereden dan bij ‘ Den Ruygen Hoek-West ’. Tot slot is niet aannemelijk geworden dat bij een toenemend aantal elektrische auto’s de verzorgingsplaats niet kan worden aangepast. Met het genoemde memo van 23 april 2019 en de op de zitting gegeven toelichting, heeft de minister dan ook afdoende gemotiveerd dat de gevolgen voor de verkeersveiligheid op de verzorgingsplaats gering zijn.</para>
+    <para />
+    <para>28. De beroepsgronden van Fastned over het veilig gebruik van de verzorgingsplaats slagen niet. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>29. Het beroep is ongegrond. Fastned wordt dus niet in het gelijk gesteld.</para>
+    <para />
+    <para>30. De rechtbank ziet geen aanleiding voor een proceskostenveroordeling of vergoeding van het griffierecht. </para>
+    <bridgehead role="bold">Beslissing</bridgehead>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.M. van der Linden-Kaajan, voorzitter, en mr. H.B. van Gijn en mr. C.F. de Lemos Benvindo, leden, in aanwezigheid van mr. R.M.N. van den Hazel, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 5 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Tegen deze uitspraak is hoger beroep mogelijk</title>
+    <para>U kunt binnen zes weken na de dag van verzending van deze uitspraak hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+    <parablock>
+      <para>Is uw zaak spoedeisend en moet er al tijdens de procedure in hoger beroep iets worden beslist wat niet kan wachten, dan kunt u de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State vragen om een voorlopige maatregel te treffen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wet beheer rijkswaterstaatwerken (Wbr)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1:</para>
+      <para>In deze wet en de daarop berustende bepalingen wordt verstaan onder waterstaatswerken: bij het Rijk in beheer zijnde wegen alsmede, voor zover in beheer bij het Rijk, de daarin gelegen kunstwerken en hetgeen verder naar zijn aard daartoe behoort.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2, eerste lid:</para>
+      <para>Het is verboden zonder vergunning van Onze Minister van Verkeer en Waterstaat gebruik te maken van een waterstaatswerk door anders dan waartoe het is bestemd:</para>
+    </parablock>
+    <para>a. daarin, daarop, daaronder of daarover werken te maken of te behouden;</para>
+    <para>b. daarin, daaronder of daarop vaste stoffen of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 3:</para>
+    </parablock>
+    <para>1. Weigering, wijziging of intrekking van een vergunning, alsmede toepassing van de artikelen 2, tweede lid, en 6 kan slechts geschieden ter bescherming van waterstaatswerken en ter verzekering van het doelmatig en veilig gebruik van die werken, met inbegrip van het belang van verruiming of wijziging anderszins van die werken.</para>
+    <para>2. De in het eerste lid bedoelde besluiten kunnen mede strekken ter bescherming van aan de waterstaatswerken verbonden belangen van andere dan waterstaatkundige aard, doch enkel voor zover daarin niet is voorzien door bij of krachtens een andere wet gestelde bepalingen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De Kennisgeving</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het toetsingskader voor aanvragen om een vergunning voor het aanbieden van voorzieningen op een verzorgingsplaats langs rijkswegen, als bedoeld in artikel 3 van de Wbr, is het beleid zoals neergelegd in de 'Kennisgeving Voorzieningenbeleid op verzorgingsplaatsen langs rijkswegen' (de Kennisgeving). De Kennisgeving is op 22 maart 2004 vastgesteld en in 2011 (Stcrt. 2011, nr. 23149), 2013 (Stcrt. 2013, nr. 32624) en 2017 (Stcrt. 2017, nr. 11880) gewijzigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In het beleid wordt onderscheid gemaakt tussen basisvoorzieningen en aanvullende voorzieningen. In de Kennisgeving, zoals deze luidde tot 10 januari 2012, werden de volgende drie basisvoorzieningen onderscheiden: een benzinestation, een wegrestaurant en een servicestation. De houder van een vergunning voor een basisvoorziening mag aanvullende voorzieningen aanbieden. Voor het vestigen en wijzigen van een basisvoorziening en het aanbieden van aanvullende voorzieningen is een vergunning op grond van de Wbr vereist. Aanvragen zullen worden getoetst op onder andere de gevolgen voor de verkeersveiligheid, de beschikbare ruimte op de verzorgingsplaats, de doelmatige inrichting van de verzorgingsplaats, het functionele belang voor de weggebruiker en de gevolgen voor de sociale veiligheid.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met de in 2011 gewijzigde Kennisgeving, in werking getreden op 10 januari 2012, wordt naast het benzinestation, het wegrestaurant en het servicestation ook het energielaadpunt als basisvoorziening aangemerkt. In de gewijzigde Kennisgeving is de procedure opgenomen voor aanvragen om een vergunning voor energielaadpunten. Verzoeken om vergunning die uiterlijk 16 januari 2012 zijn ingediend, kunnen bij voldoende ruimte op de verzorgingsplaats in behandeling worden genomen. Indien er vergunningen worden aangevraagd voor meer energielaadpunten dan er ruimte is op een verzorgingsplaats worden de aangevraagde e-laadpunten naar evenredigheid verdeeld onder de aanvragers, maar zodanig dat iedere aanvrager minimaal één energielaadpunt wordt vergund. Indien ook dan nog onvoldoende plaats is, wordt er onder de aanvragers geloot.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met de in 2013 gewijzigde Kennisgeving is onder meer aan de Kennisgeving toegevoegd dat het vergunninghouders van energielaadpunten als basisvoorziening niet is toegestaan aanvullende voorzieningen (zoals een gemakswinkel, autowasstraat, snoepautomaat, etc.) aan te bieden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met de wijziging in 2017 is onder meer aan de Kennisgeving toegevoegd dat per verzorgingsplaats slechts één basisvoorziening van een energielaadpunt zal worden toegestaan. Indien er meer dan één aanvrager is, wordt onder de aanvragers geloot.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De Dienstenrichtlijn</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1, zevende lid:</para>
+      <para>Deze richtlijn doet geen afbreuk aan de uitoefening van de grondrechten zoals die zijn erkend door de lidstaten en in het Gemeenschapsrecht. (…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 4, zesde lid:</para>
+      <para>Voor de toepassing van deze richtlijn wordt verstaan onder “vergunningstelsel”: elke procedure die voor een dienstverrichter of afnemer de verplichting inhoudt bij een bevoegde instantie stappen te ondernemen ter verkrijging van een formele of stilzwijgende beslissing over de toegang tot of de uitoefening van een dienstenactiviteit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 10, eerste en tweede lid:</para>
+    </parablock>
+    <para>1. Vergunningstelsels zijn gebaseerd op criteria die beletten dat bevoegde instanties hun beoordelingsbevoegdheid op willekeurige wijze uitoefenen.</para>
+    <para>2. De in lid 1 bedoelde criteria zijn:</para>
+    <para>a. a) niet-discriminatoir;</para>
+    <para>b) gerechtvaardigd om een dwingende reden van algemeen belang;</para>
+    <para>c) evenredig met die reden van algemeen belang;</para>
+    <para>d) duidelijk en ondubbelzinnig;</para>
+    <para>e) objectief;</para>
+    <para>f) vooraf openbaar bekendgemaakt;</para>
+    <para>g) transparant en toegankelijk.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het Verdrag betreffende de werking van de Europese Unie (VWEU)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 106, eerste lid:</para>
+      <para>De lidstaten nemen of handhaven met betrekking tot de openbare bedrijven en de ondernemingen waaraan zij bijzondere of uitsluitende rechten verlenen, geen enkele maatregel welke in strijd is met de regels van de Verdragen, met name die bedoeld in de artikelen 18 en 101 tot en met 109.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_9254759b-2a3d-4daa-a721-ae44423955f9" label="1">
+    <para> 	Zaaknummers: AMS 18/3761, AMS 18/5238, AMS 18/5364, AMS 18/6151, AMS 18/6479, AMS 18/6480 en AMS 18/7505.</para>
+  </footnote>
+  <footnote id="_3cdd4622-a97b-49a4-8e8c-bd1b45001806" label="2">
+    <para> 	Zaaknummers: AMS 18/4470 en AMS 18/6148.</para>
+  </footnote>
+  <footnote id="_8b898df0-afd6-4397-b6c5-5f9bb39b73bf" label="3">
+    <para>Richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PB 2006, L 376).</para>
+  </footnote>
+  <footnote id="_bad2e130-2b40-406b-812c-261d4a3f002f" label="4">
+    <para> Zie ook de uitspraken van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 31 juli 2019, ECLI:NL:RVS:2019:2645, en 5 december 2019, ECLI:NL:RVS:2019:4107.</para>
+  </footnote>
+  <footnote id="_a89a8f56-337b-45be-a7e6-ae8f41f75d6d" label="5">
+    <para> Zie de uitspraak van 31 juli 2019, ECLI:NL:RVS:2019:2645, overweging 11.1.</para>
+  </footnote>
+  <footnote id="_715d35f4-5a4f-4b04-99cb-31eb87c5bfa8" label="6">
+    <para> Kader inrichting verzorgingsplaatsen van 20 februari 2019.</para>
+  </footnote>
+  <footnote id="_192433de-c8ab-43c9-9a42-38f8d7dd2ed4" label="7">
+    <para> Arrest van 12 december 2013, zaak C-327/12, SOA Nazionale Costruttori, ECLI:EU:C:2013:827.</para>
+  </footnote>
+  <footnote id="_2f113957-91a7-46aa-9a2c-0cb92f2638cf" label="8">
+    <para> ECLI:NL:RVS:2018:2996, overweging 8.4.</para>
+  </footnote>
+  <footnote id="_5c51c6f0-9d98-454a-8301-4ce6e88aaac8" label="9">
+    <para> ECLI:NL:RVS:2019:2645, overweging 10.2 e.v.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

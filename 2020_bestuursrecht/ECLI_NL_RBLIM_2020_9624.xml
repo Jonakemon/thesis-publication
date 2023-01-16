@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBLIM:2020:9624</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-08T14:00:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Limburg" scheme="overheid.RechterlijkeMacht">Rechtbank Limburg</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROE 20/2847</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Roermond</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:9624">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:9624</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-08T10:05:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBLIM:2020:9624 Rechtbank Limburg , 08-12-2020 / ROE 20/2847</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBLIM:2020:9624:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verzoek tot het treffen van een voorlopige voorziening hangende bezwaar tegen de verlening van een tijdelijke omgevingsvergunning (twee jaren) voor het realiseren van een supermarkt. Van verzoekers is enkel een andere supermarkt, op ongeveer 1,4 km afstand, belanghebbende bij het besluit. Verweerder kon toepassing aan artikel 4, aanhef en onder 11, van bijlage II van het Besluit omgevingsrecht geven, aangezien de vestigingen van de tijdelijke supermarkt zonder onomkeerbare gevolgen kan worden beëindigd, geen sprake is van een stedelijk ontwikkelingsproject als bedoeld in het Besluit m.e.r. en er geen feiten of omstandigheden naar voren zijn gebracht die het oordeel rechtvaardigen dat de supermarkt tot relevante leegstand zal kunnen leiden. Het aangevraagde project is niet in strijd met een goede ruimtelijke ordening. Het verzoek wordt afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBLIM:2020:9624:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>RECHTBANK LIMBURG<?linebreak?></para>
+    <para>Zittingsplaats Roermond</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummer:  ROE  20 / 2847 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Uitspraak van de voorzieningenrechter van 8 december 2020 in de zaak tussen </emphasis>
+      </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>
+      [*] Tegelen BV hodn [*] PLUS Tegelen, gevestigd te Tegelen,</title>
+    <para>2. <emphasis role="bold">Plus Vastgoed BV</emphasis>, gevestigd te Utrecht, </para>
+    <para>3. <emphasis role="bold">[naam 1]</emphasis>, <emphasis role="bold">[naam 2]</emphasis> en <emphasis role="bold">[naam 3]</emphasis>, allen wonend te Tegelen, </para>
+    <para>verzoekers, </para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Venlo</emphasis>, verweerder. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Procesverloop</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 2 november 2020 (hierna: het bestreden besluit) heeft verweerder aan Aldi Roermond BV (hierna: Aldi) een omgevingsvergunning verleend voor het tijdelijk realiseren van een supermarkt, het aanleggen van een inrit/uitweg en het maken van handelsreclame op het perceel Raadhuislaan 176 te Tegelen (hierna: het bouwplan). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben tegen het bestreden besluit bezwaar gemaakt. Zij hebben voorts de voorzieningenrechter van de rechtbank verzocht een voorlopige voorziening, als bedoeld in artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (hierna: de Awb), te treffen. Als gemachtigde heeft zich gesteld mr. J.H.P. Hardy, advocaat te Maastricht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Aldi is in de gelegenheid gesteld als partij aan het geding deel te nemen, van welke gelegenheid gebruik is gemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft stukken die op de zaak betrekking hebben ingezonden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 16 november 2020, waar verzoekers [naam 1] en [naam 2], bijgestaan door de gemachtigde van verzoekers, verweerder, vertegenwoordigd door [naam 4], werkzaam bij de gemeente, en Aldi, vertegenwoordigd door [naam 5], bijgestaan door mr. M.J. Thunnissen, advocaat te Arnhem, zijn verschenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Overwegingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>
+      <emphasis role="bold">1.</emphasis>Op grond van artikel 8:81, eerste lid, van de Awb, voor zover hier van belang, kan, indien tegen een besluit, voorafgaand aan een mogelijk beroep bij de bestuursrechter, bezwaar is gemaakt, de voorzieningenrechter van de bestuursrechter die bevoegd kan worden in de hoofdzaak op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist.</para>
+    <para>
+      <emphasis role="bold">2.</emphasis>De voorzieningenrechter stelt vast dat aan de in artikel 8:81, eerste lid, van de Awb geformuleerde formele vereisten is voldaan. Verzoekers hebben bezwaar gemaakt tegen het bestreden besluit en deze rechtbank kan bevoegd worden om van de hoofdzaak kennis te nemen. Aangezien Aldi op korte termijn tot opening van de supermarkt wenst over te gaan, is voorts ook de onverwijlde spoed genoegzaam aangetoond. </para>
+    <para />
+    <para>
+      <emphasis role="bold">3.</emphasis>De beoordeling van een verzoek om een voorlopige voorziening vergt, als het spoedeisend belang niet (geheel) ontbreekt, in de regel een voorlopige beoordeling van de rechtmatigheid van het bestreden besluit en, voor zover aangewezen, een afweging van de betrokken belangen. Voor zover de daartoe in deze zaak uit te voeren toetsing meebrengt dat de rechtmatigheid van het bestreden besluit wordt beoordeeld, heeft het oordeel van de voorzieningenrechter een voorlopig karakter en is dat oordeel niet bindend voor de beslissing op bezwaar of in de (eventuele) hoofdzaak. </para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>4</nr>De voorzieningenrechter overweegt als volgt. </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten en omstandigheden</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Aldi heeft op 17 juli 2020 een aanvraag ingediend voor het bouwplan. Het bouwplan betreft een tijdelijke voorziening voor twee jaar, vooruitlopend op de realisatie van de definitieve vestiging van Aldi in de nog te ontwikkelen Martinushof op een aangrenzende locatie. Rondom de supermarkt worden verhardingen aangebracht ter realisering van parkeerplaatsen en een winkelwagen- en fietsenstalling. Het bouwplan is in strijd met het ter plaatse geldende bestemmingsplan “Actualisatie en reparatie centrum Tegelen” (hierna: het bestemmingsplan), omdat detailhandel niet valt onder de enkelbestemming ‘Maatschappelijk’ en de supermarkt deels valt buiten het bouwvlak. Het aanleggen van het parkeerterrein en voorzieningen voor winkelwagen- en fietsenstalling is in overeenstemming met het bestemmingsplan.  </para>
+    <para />
+    <para>6. Bij het bestreden besluit heeft verweerder omgevingsvergunning verleend voor de activiteiten het bouwen van een bouwwerk (artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht; hierna: de Wabo), het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan (artikel 2.1, eerste lid, aanhef en onder c, van de Wabo), het maken of hebben van een uitweg (artikel 2.2, eerste lid, aanhef en onder e, van de Wabo) en het op of aan een onroerende zaak maken of voeren van handelsreclame (artikel 2.2, eerste lid, aanhef en onder h, van de Wabo). Verweerder heeft met toepassing van artikel 2.12, eerste lid, aanhef en onder a, sub 2°, van de Wabo in samenhang met artikel 4, aanhef en onder 11, van bijlage II van het Besluit omgevingsrecht (hierna: het Bor) vergunning verleend voor afwijking van het bestemmingsplan. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Zijn verzoekers belanghebbenden?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>7. De voorzieningenrechter ziet zich allereerst gesteld voor de ambtshalve te beantwoorden vraag of verzoekers belanghebbenden zijn in de zin van artikel 1:2, eerste lid, van de Awb. In artikel 1:2, eerste lid, van de Awb is bepaald dat onder belanghebbende wordt verstaan: degene wiens belang rechtstreeks bij een besluit is betrokken. Volgens vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) is degene wiens concurrentiebelang rechtstreeks is betrokken bij een besluit, belanghebbende. Dit is bij omgevingsvergunningen als hier aan de orde slechts het geval indien de onderneming in hetzelfde marktsegment en verzorgingsgebied werkzaam is als de bedrijvigheid die door de omgevingsvergunning mogelijk wordt gemaakt. </para>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>
+        [*] Tegelen BV is de exploitant van de Plus-supermarkt aan de Glazenapstraat 21 te Tegelen. Deze supermarkt ligt op een afstand van ongeveer 1,4 kilometer van de tijdelijke Aldi-supermarkt. De voorzieningenrechter acht gelet hierop aannemelijk dat [*] Tegelen BV in hetzelfde marktsegment en verzorgingsgebied werkzaam is als de in het bouwplan voorziene supermarkt. Niet uitgesloten is dat het bouwplan in zoverre een nadelige invloed zal hebben op de exploitatie van de supermarkt van [*] Tegelen BV. Gelet hierop is [*] Tegelen BV belanghebbende in de zin van artikel 1:2, eerste lid, van de Awb, nu haar belang rechtstreeks bij het bestreden besluit is betrokken voor zover het de activiteiten het bouwen van een bouwwerk, het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan en het op of aan een onroerende zaak maken of voeren van handelsreclame betreft. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Plus Vastgoed BV is eigenaar van het winkelpand dat verhuurd wordt aan [*] Tegelen BV. Voor vastgoedeigenaren die in hetzelfde marktsegment en in hetzelfde verzorgingsgebied actief zijn, te weten de verhuur of verkoop van ruimte voor supermarktruimte binnen een bepaald verzorgingsgebied, geldt eveneens dat zij als belanghebbende kunnen worden aangemerkt indien en voor zover niet is uitgesloten dat een besluit nadelige gevolgen heeft voor de verhuurbaarheid van hun pand (zie onder meer de uitspraak van de Afdeling van 21 december 2016, ECLI:NL:RVS:2016:3395). In aanmerking genomen dat aan het bestreden besluit de voorwaarde is verbonden dat de omgevingsvergunning wordt verleend voor een instandhoudingstermijn van twee kalenderjaren, gerekend vanaf de datum van dit besluit, en dat alsdan de winkel en alle bijbehorende inrichtingselementen in het openbare gebied verwijderd dienen te zijn, acht de voorzieningenrechter niet aannemelijk gemaakt dat Plus Vastgoed BV in deze periode zodanig in haar eigendomsbelangen zal worden geraakt dat daardoor de exploitatie door de eigenaar van het winkelpand aan de Glazenapstraat 21 werkelijk wordt aangetast. Overigens is ter zitting van de zijde van verzoekers ook niet ontkend dat Plus Vastgoed BV enkel een afgeleid belang heeft. Daarom is de voorzieningenrechter van oordeel dat zij voorshands niet kan worden aangemerkt als belanghebbende in de zin van artikel 1:2, eerste lid, van de Awb. Voor zover het verzoek tot het treffen van een voorlopige voorziening door Plus Vastgoed BV is ingediend, dient dit reeds hierom te worden afgewezen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>Voorgaande conclusie geldt ook voor de overige verzoekers, die eigenaar zijn van de winkelpanden gelegen aan de Kerkstraat 25 tot en met 29 te Tegelen, op ongeveer 150 meter afstand tot het plangebied. Niet in geding is dat in deze panden de vestiging van een supermarkt planologisch niet mogelijk is, zodat niet valt in te zien dat vestiging van een (tijdelijke) supermarkt in de directe omgeving van deze panden nadelige gevolgen heeft voor de verhuurbaarheid hiervan. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="bold">8.</emphasis>	Gelet op het voorgaande komt de voorzieningenrechter enkel toe aan een inhoudelijke beoordeling van het verzoek tot het treffen van een voorlopige voorziening voor zover daarin gronden zijn aangevoerd die (ook) op [*] Tegelen BV betrekking hebben. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Kan artikel 4, aanhef en onder 11, van Bijlage II van het Bor worden toegepast?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>9</nr>Artikel 4, aanhef en onder 11, van Bijlage II van het Bor luidt:</title>
+    <para>“Voor verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de wet waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet van het bestemmingsplan of de beheersverordening wordt afgeweken, komen in aanmerking ander gebruik van gronden of bouwwerken dan bedoeld in de onderdelen 1 tot en met 10, voor een termijn van ten hoogste tien jaar.”</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">10.</emphasis>	In het verzoekschrift is gesteld dat verweerder ten onrechte toepassing heeft gegeven aan deze bepaling. In dat kader is allereerst betoogd – zakelijk weergegeven – dat niet is aangetoond dat de tijdelijke supermarkt feitelijk wordt beëindigd en dat er geen onomkeerbare gevolgen zullen optreden. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Volgens vaste rechtspraak van de Afdeling (zie bijvoorbeeld de uitspraak van 8 april 2020, ECLI:NL:RVS:2020:1007) is voor de toepasbaarheid van artikel 4, aanhef en onder 11, van bijlage II van het Bor uitsluitend vereist dat het feitelijk mogelijk en aannemelijk is dat de vergunde activiteit zonder onomkeerbare gevolgen kan worden beëindigd. Niet van belang is of het aannemelijk is dat de vergunde activiteit ook daadwerkelijk na het einde van de vergunde termijn zal worden beëindigd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>De voorzieningenrechter ziet – mede gelet op de aard van deze procedure – geen aanleiding die rechtspraak niet te volgen en is van oordeel dat aan het hiervoor vermelde criterium is voldaan. De tijdelijke supermarkt heeft de vorm van een grote tent. Deze tent is in enkele dagen opgebouwd en kan ook weer binnen enkele dagen volledig worden afgebroken. Dat geldt ook voor de aan te leggen inrit/uitweg. De omstandigheid dat er als gevolg van de tijdelijke vergunning gedurende de looptijd hiervan onomkeerbare gevolgen zullen optreden en om die reden niet zonder onomkeerbare gevolgen kan worden beëindigd, is bij de beoordeling van de vraag of toepassing gegeven kan worden aan artikel 4, aanhef en onder 11, van bijlage II van het Bor niet van belang. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="bold">11.</emphasis>	In het verzoekschrift is voorts betoogd dat verweerder (ook) geen tijdelijke omgevingsvergunning kon verlenen vanwege het bepaalde in artikel 5, zesde lid, van bijlage II van het Bor. Daarin staat dat artikel 4, aanhef en onder 11, niet van toepassing is op een activiteit als bedoeld in onderdeel C of D van de bijlage van het Besluit milieueffectrapportage (hierna: het Besluit m.e.r.). In onderdeel D, kolom 1, categorie 11.2 van de bijlage van het Besluit m.e.r. staat de volgende activiteit genoemd: “De aanleg, wijziging of uitbreiding van een stedelijk ontwikkelingsproject met inbegrip van de bouw van winkelcentra of parkeerterreinen.” Gesteld is dat met de tijdelijke omgevingsvergunning sprake is van, althans geanticipeerd wordt op een dergelijk project. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.1.</nr>
+      <para>In de uitspraak van 15 maart 2017, ECLI:NL:RVS:2017:694, heeft de Afdeling overwogen dat het antwoord op de vraag of sprake is van een (wijziging van een) stedelijk ontwikkelingsproject in de zin van het Besluit m.e.r., afhangt van de concrete omstandigheden van het geval, waarbij onder meer aspecten als de aard en de omvang van de voorziene wijziging van de stedelijke ontwikkeling een rol spelen. Uit deze uitspraak volgt eveneens dat het antwoord op de vraag of een activiteit kan worden aangemerkt als een activiteit als bedoeld in onderdeel D, kolom 1, categorie 11.2, van de bijlage van het Besluit m.e.r., niet afhankelijk is van het antwoord op de vraag of per saldo aanzienlijke negatieve gevolgen voor het milieu kunnen ontstaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2.</nr>
+      <para>Uit de rechtspraak leidt de voorzieningenrechter verder af dat voor de beantwoording van de vraag of sprake is van een stedelijk ontwikkelingsproject de volgende aspecten een rol spelen:</para>
+      <para>- de aard en de omvang van de voorziene wijziging;</para>
+      <para>- de wijziging van opzet en vormgeving (eventuele uitbreiding bebouwde oppervlakte);</para>
+      <para>- mogelijke gevolgen voor het milieu;</para>
+      <para>- de verandering van woon- en leefklimaat (bijvoorbeeld verkeersaantrekkende werking).</para>
+      <para>De Afdeling acht ook van belang of het project is gelegen in bestaand stedelijk gebied. In dat geval is er minder snel sprake van een stedelijk ontwikkelingsproject als bedoeld in het Besluit m.e.r.</para>
+    </paragroup>
+    <paragroup>
+      <nr>11.3.</nr>
+      <para>De voorzieningenrechter is van oordeel dat geen sprake is van een stedelijk ontwikkelingsproject. Het project betreft de realisatie van een tijdelijke supermarkt voor de duur van maximaal twee jaar, op een locatie waar ingevolge het bestemmingsplan reeds bebouwing is toegestaan. De locatie is gelegen in het centrum van Tegelen, waar planologisch bedrijfs-, detailhandel- en woonfuncties zijn toegestaan. Ook is de ruimtelijke impact van een tijdelijke supermarkt van ongeveer 1.120m2 met behorende terreininrichting niet groot. Ten slotte zijn er geen grote negatieve gevolgen voor het milieu of het huidige woon- en leefklimaat gebleken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.4.</nr>
+      <para>Gelet op het voorgaande is de voorzieningenrechter van oordeel dat geen sprake is van een stedelijk ontwikkelingsproject als bedoeld in het Besluit m.e.r., zodat artikel 5, zesde lid, van bijlage II bij het Bor zich niet tegen verlening van de tijdelijke omgevingsvergunning verzet. </para>
+      <para />
+      <parablock>
+        <para>12.	Tot slot is in dit kader gesteld dat geen toepassing aan artikel 4, aanhef en onder 11, van bijlage II van het Bor kon worden gegeven omdat door verweerder niet, althans niet juist is getoetst aan de Omgevingsverordening Limburg 2014. Hierin is – voor zover hier van belang – bepaald dat bij een omgevingsvergunning als hier in geding rekening dient te worden gehouden met artikel 3.1.6, tweede lid, van het Besluit ruimtelijke ordening (hierna: het Bro) en waarbij tevens de mogelijkheden van herbenutting van leegstaande monumentale en beeldbepalende gebouwen worden onderzocht. Daarbij dient een toelichting te worden gegeven over de wijze waarop invulling is gegeven aan deze vereisten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.1.</nr>
+      <para>De voorzieningenrechter stelt voorop dat het pand waarin [*] Tegelen BV haar onderneming drijft, niet leeg staat, zodat verweerder reeds hierom niet gehouden was de mogelijkheden van herbenutting te onderzoeken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2.</nr>
+      <parablock>
+        <para>Artikel 3.1.6, tweede lid, van het Bro luidt: </para>
+        <para>“De toelichting bij een bestemmingsplan dat een nieuwe stedelijke ontwikkeling mogelijk maakt, bevat een beschrijving van de behoefte aan die ontwikkeling, en, indien het bestemmingsplan die ontwikkeling mogelijk maakt buiten het bestaand stedelijk gebied, een motivering waarom niet binnen het bestaand stedelijk gebied in die behoefte kan worden voorzien.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.3.</nr>
+      <para>Volgens vaste rechtspraak van de Afdeling (zie bijvoorbeeld de uitspraak van 10 mei 2017, ECLI:NL:RVS:2017:1250), strekt art. 3.1.6, tweede lid, van het Bro tot bevordering van zorgvuldig ruimtegebruik, waaronder het voorkomen van onnodig ruimtebeslag, en het voorkomen van onaanvaardbare leegstand. Voor zover de rechtsregel van artikel 3.1.6, tweede lid, van het Bro in rechte wordt ingeroepen door een concurrent die kwalificeert als belanghebbende bij het besluit in de zin van art. 1:2 van de Awb omdat zijn onderneming werkzaam is in hetzelfde marktsegment en verzorgingsgebied, dienen daarbij feiten en omstandigheden naar voren te komen die het oordeel rechtvaardigen dat de voorziene ontwikkeling tot een uit oogpunt van een goede ruimtelijke ordening relevante leegstand zal kunnen leiden. Voor relevante leegstand als hiervoor bedoeld is onvoldoende dat de voorziene ontwikkeling, die mogelijk wordt gemaakt door een bestemmingsplan of een omgevingsvergunning, leidt of kan leiden tot een verminderde vraag naar producten of diensten en daardoor tot daling van omzet en inkomsten van de eigen onderneming of de betreffende vestiging. Het enkele feit dat de voorziene ontwikkeling kan leiden tot beëindiging van de eigen bedrijfsactiviteiten ter plaatse en daardoor tot leegstand van het in gebruik zijnde bedrijfsgebouw is op zichzelf eveneens onvoldoende om te concluderen dat zich relevante leegstand zal voordoen. Dit kan echter onder omstandigheden anders zijn, bijvoorbeeld indien het bedrijfsgebouw dermate bijzondere bouwkundige dan wel locatie-specifieke eigenschappen heeft, dat andersoortig gebruik – al dan niet door transformatie – niet of onder zeer bezwarende omstandigheden tot de mogelijkheden behoort, wat niet licht zal kunnen worden aangenomen. Voorts zou relevante leegstand zich voor kunnen doen bij leegstand als gevolg van de voorziene ontwikkeling in de omgeving van het bij de concurrent in gebruik zijnde bedrijfspand.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.4.</nr>
+      <para>Reeds omdat de stelling dat niet, althans niet juist aan de Omgevingsverordening Limburg 2014 is getoetst, niet nader is onderbouwd, zijn er van de zijde van [*] Tegelen BV geen feiten of omstandigheden naar voren gebracht die het oordeel rechtvaardigen dat de voorziene ontwikkeling tot een uit oogpunt van een goede ruimtelijke ordening relevante leegstand zal kunnen leiden.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is er strijd met een goede ruimtelijke ordening?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. Uit het voorgaande volgt dat verweerder artikel 4, aanhef en onder 11, van bijlage II van het Bor aan de vergunningverlening ten grondslag heeft kunnen leggen. Dat neemt niet weg dat, gelet op artikel 2.12, eerste lid, van de Wabo, de vergunning alleen kan worden verleend indien het aangevraagde project niet in strijd is met een goede ruimtelijke ordening. Het gaat daarbij om de ruimtelijke effecten van het project. </para>
+      <para />
+      <para>14. In het verzoekschrift is in dit kader gesteld – voor zover thans relevant – dat de toevoeging van een supermarktaanbod van ongeveer 1.120m2 een ontwikkeling betreft die van grote invloed is op de exploitatiemogelijkheden van een Plus-supermarkt in Tegelen. Deze ontwikkeling zal leiden tot vergroting van de leegstand elders in Tegelen. Voorts is gesteld dat een tijdelijke supermarkt niet past binnen het gemeentelijk detailhandelsbeleid waarin is vermeld dat buiten het kernwinkelgebied niet wordt ingezet op detailhandelsfuncties. Ook is er strijd met het Provinciaal Omgevingsplan Limburg 2014 (hierna: het POL) en de regionale detailhandelsvisie omdat de toevoeging van de supermarkt niet wordt gecompenseerd door het schrappen van aanbod elders. </para>
+      <para />
+      <para>15. Voor zover is gesteld dat de vestiging van de tijdelijke supermarkt zal leiden tot vergroting van de leegstand elders in Tegelen, verwijst de voorzieningenrechter allereerst naar wat hiervoor onder 12.3 en 12.4 is overwogen. Voorts blijkt uit het door Aldi overgelegde BRO-rapport “Gemeente Venlo, ruimtelijk-functionele onderbouwing supermarktontwikkelingen centrum Tegelen” van 12 mei 2020 dat de toevoeging van een tweede supermarkt op de locatie Martinushof (waarmee gedoeld wordt op de definitieve vestiging van Aldi) voorziet in de behoefte en dat de effecten op de consumentenverzorging, de detailhandelsstructuur en de leegstand in Tegelen aanvaardbaar zijn. Daarnaast biedt dit rapport onvoldoende aanknopingspunten voor het oordeel dat sprake is van strijd met het gemeentelijk detailhandelsbeleid, het POL en de regionale detailhandelsvisie. De voorzieningenrechter acht het niet aannemelijk dat deze conclusies niet ook (kunnen) gelden waar het de vestiging van een tijdelijke supermarkt betreft. Van de zijde van [*] Tegelen BV zijn geen stukken in geding gebracht die de conclusies van het BRO-rapport weerleggen.</para>
+      <para />
+      <para>16. Gelet op het voorgaande dient het verzoek tot het treffen van een voorlopige voorziening ook op inhoudelijke gronden te worden afgewezen. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="bold">Beslissing</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>wijst het verzoek tot het treffen van een voorlopige voorziening af.</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Aldus vastgesteld door mr. R.M.M. Kleijkers, voorzieningenrechter, in aanwezigheid van mr. P.M. van den Brekel, griffier.</para>
+        <para>De uitspraak is openbaar gemaakt op 8 december 2020. </para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>de griffier is verhinderd te ondertekenen		voorzieningenrechter</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>Afschrift verzonden aan partijen op: </para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="bold">Rechtsmiddel </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+      </parablock>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

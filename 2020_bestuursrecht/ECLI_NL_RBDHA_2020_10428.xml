@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:10428</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-29T09:00:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 3038</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10428">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10428</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-26T14:15:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:10428 Rechtbank Den Haag , 15-10-2020 / AWB - 20 _ 3038</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:10428:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>artikel 1, eerste lid, aanhef en onder a, van de Wet op de Kansspelen (Wok).</para>
+        <para>Dwangsombesluit en openbaarmaking van het dwangsombesluit. Eisers bieden online een kansspel (lootbox) aan dat in een behendigheidsspel is opgenomen. De Kansspelautoriteit (Ksa) heeft terecht geconcludeerd dat aan de definitie van kansspel in de zin van de Wok is voldaan. Gelet op deze kwalificatie en gezien het verbod op het aanbieden van online kansspelen zonder vergunning is de Ksa bevoegd tot handhaving over te gaan. Van deze bevoegdheid is een juist gebruik gemaakt. Het dwangsombesluit is rechtmatig en evenredig. Risico op kansspelverslaving etc. De Ksa heeft het belang van openbaarmaking van het dwangsombesluit in redelijkheid zwaarder kunnen laten wegen dan het belang van eisers. De beroepen zijn ongegrond.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:10428:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: SGR 20/3038 en SGR 20/3905</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 15 oktober 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Electronic Arts Incorporated , te Redwood Shores Parkwood (Verenigde Staten),</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">Electronic Arts Swiss Société à responsabilité limitée</emphasis>, te Genève (Zwitserland), </para>
+      <para>gezamenlijk te noemen EA ,</para>
+      <para>eisers </para>
+      <para>(gemachtigden: prof. mr. T. Barkhuysen en mr. J. Franssen)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de raad van bestuur van de Kansspelautoriteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. drs. T.F. Prins). </para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 15 oktober 2019 heeft verweerder aan eisers in verband met overtreding van artikel 1, eerste lid, aanhef en onder a, van de Wet op de Kansspelen (Wok) een last onder dwangsom opgelegd (het dwangsombesluit). Bij afzonderlijk besluit van 15 oktober 2019 heeft verweerder besloten het dwangsombesluit openbaar te maken (het besluit tot openbaarmaking van het dwangsombesluit)..</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen deze besluiten hebben eisers bezwaar gemaakt. Tevens hebben eisers een verzoek om voorlopige voorziening ingediend, welk verzoek bij uitspraak van 20 december 2019 is toegewezen<footnote-ref linkend="_dfa614c2-544a-4e22-aeb9-7f051cc05dc3" />. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 maart 2020 (het bestreden besluit I) heeft verweerder de bezwaren van eisers ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld (SGR 20/3038). Tevens hebben eisers een verzoek om voorlopige voorziening ingediend, welk verzoek bij uitspraak van 4 juni 2020 is toegewezen<footnote-ref linkend="_82647756-4eff-4856-8458-ee52c7b0908f" />. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij afzonderlijk besluit van 17 maart 2020 heeft verweerder besloten het bestreden besluit I openbaar te maken (het bestreden besluit II). Tegen dit besluit hebben eisers rechtstreeks beroep ingesteld (SGR 20/3905). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben op 2 september 2020 een aanvullend stuk overgelegd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 3 september 2020. </para>
+      <para>Eisers hebben zich ter zitting laten vertegenwoordigen door prof. mr. T. Barkhuysen en <?linebreak?>mr. A.A. al Khatib. Voor eisers zijn tevens verschenen [A] , [B] , [C] en [D] . Verweerder heeft zich laten vertegenwoordigen door mr. drs. T. Prins en mr. drs. R.G.J. Wildemors. Voor verweerder zijn tevens verschenen [E] en [F] . </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Electronic Arts ( EA ) is een organisatie op het gebied van digitaal interactief amusement. EA levert games, content en online diensten voor internet-verbonden consoles, mobiele apparaten en personal computers. EA is aanbieder van het populaire spel EA SPORTS FIFA (FIFA), een videogame die voetbalcompetities simuleert. In FIFA is een speelmodus opgenomen waarin de voetbaltransfermarkt wordt nagebootst. Deze speelmodus is genaamd de FIFA Ultimate Team Modus (FUT-modus). In deze modus is het voor spelers mogelijk om online virtuele voetballers te verhandelen. Deze voetballers kunnen voor zogenaamde FIFA-munten aangekocht of verkocht worden van of aan een andere speler, waarna de voetballer in kwestie gebruikt kan worden om wedstrijden te spelen. Op deze manier kan een speler een selectie voetballers naar keuze samenbrengen en zijn eigen team vormen. Naast het kopen van voetballers via de transfermarkt, is een andere methode om virtuele voetballers te verkrijgen, het openen van zogenaamde “Packs”. Een “Pack” is een verzameling virtuele voorwerpen die gebruikt kan worden in het spel. Packs bevatten daartoe ook virtuele voetballers van mogelijk verschillend niveau. Op voorhand is niet (geheel) duidelijk welke voorwerpen of welke voetballer(s) zich in een Pack bevinden. Volgens verweerder heeft EA in strijd gehandeld met het verbod van artikel 1, eerste lid, aanhef en onder a, van de Wok door zonder vergunning met ‘Packs’ (in het algemeen ook bekend als “loot boxes”) in de FUT-modus van het computerspel FIFA19 een kansspel in Nederland aan te bieden. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het dwangsombesluit </emphasis>
+      </para>
+    </parablock>
+    <para>2. Verweerder heeft bij besluit van 15 oktober 2019 aan eisers een last onder dwangsom opgelegd. Aan de oplegging van het dwangsombesluit heeft verweerder ten grondslag gelegd dat uit het op 19 april 2018 gepubliceerde onderzoeksrapport ‘Onderzoek naar loot boxes – Een buit of een last’ is geconcludeerd dat het aanbieden van loot boxes (schatkistjes) waarbij toeval de inhoud bepaalt en de prijzen een economische waarde vertegenwoordigen, in strijd is met de Wok. Naar aanleiding van dit onderzoek heeft verweerder eisers er bij brief van 26 april 2018 op gewezen dat met het aanbieden van loot boxes in het spel FIFA18 de Wok wordt overtreden. Nadat eisers op 28 september 2018 het spel FIFA19 hebben uitgebracht heeft verweerder, na onderzoek van dit spel en na eisers in de gelegenheid te hebben gesteld een zienswijze in te dienen, een last onder dwangsom opgelegd. De aan eisers opgelegde last houdt in dat zij binnen drie weken na dagtekening van de last de overtreding van artikel 1, eerste lid, aanhef en onder a, van de Wok in het computerspel FIFA19 en latere versies in Nederland, dienen te staken en gestaakt te houden. Verweerder heeft Electronic Arts Swiss Société à responsabilité limitée als feitelijk verkoper van FIFA aangemerkt als overtreder. De overtreding is ook toegerekend aan Electronic Arts Incorporated gezien de positie van dit bedrijf als moederbedrijf van het concern EA en de economische, bestuurlijke en organisatorische verwevenheid van beide bedrijven. De dwangsom van de aan beide organisaties opgelegde last bedraagt € 250.000,- per week of gedeelte van de week, met een maximum van € 5.000.000,-.   </para>
+    <bridgehead role="italic">Het besluit tot openbaarmaking van het dwangsombesluit</bridgehead>
+    <para>3. Bij afzonderlijk besluit van 15 oktober 2019 heeft verweerder besloten om het dwangsombesluit openbaar te maken. Volgens verweerder weegt het maatschappelijk belang om de consument te informeren over, dan wel te waarschuwen voor handelspraktijken die in strijd zijn met de Wok, het belang van transparantie met betrekking tot het functioneren van de organisatie van de Kansspelautoriteit en het belang van de preventieve werking naar andere ondernemingen en natuurlijke personen zwaarder dan de belangen van eisers om openbaarmaking te voorkomen. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het bestreden besluit I</emphasis>
+      </para>
+    </parablock>
+    <para>4. Bij het bestreden besluit I heeft verweerder het bezwaar van eisers ongegrond verklaard en het dwangsombesluit en het besluit tot openbaarmaking daarvan gehandhaafd.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het besluit tot openbaarmaking van het bestreden besluit I (het bestreden besluit II) </emphasis>
+      </para>
+    </parablock>
+    <para>5. Bij afzonderlijk besluit van 17 maart 2020 heeft verweerder besloten om het bestreden besluit I openbaar te maken (bestreden besluit II). Volgens verweerder is het van belang niet alleen sanctiebesluiten maar ook besluiten op bezwaarschriften tegen sanctiebesluiten openbaar te maken zodat consumenten kunnen kennisnemen van de beslissingen na heroverweging en van de overwegingen die daaraan ten grondslag liggen.  </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het geschil </emphasis>
+      </para>
+    </parablock>
+    <para>6. Eisers betogen in beroep – in essentie weergegeven – dat</para>
+    <para />
+    <para>i. verweerder niet bevoegd is tot handhaving over te gaan, omdat van een kansspel</para>
+    <parablock>
+      <para>	geen sprake is;</para>
+      <para>ii	de Wok geen deugdelijke grondslag biedt voor de last onder dwangsom; </para>
+      <para>iii	de last onder dwangsom ook overigens onrechtmatig en onevenredig is;</para>
+      <para>iv	artikel 8 van de Wob geen grondslag biedt voor de openbaarmaking van de bestreden besluiten;</para>
+      <para>v	openbaarmaking onevenredig benadelend is voor eisers.</para>
+    </parablock>
+    <para />
+    <para>7. Aan de rechtbank ligt eerst ter beoordeling voor of verweerder bevoegd is tot handhaving over te gaan. Voor de beantwoording van die vraag, dient te worden beoordeeld of eisers met het aanbieden van Packs binnen het computerspel FIFA19 (en volgende versies) de wet overtreden. Hiertoe dient te worden bezien of sprake is van een kansspel in de zin van artikel 1, eerste lid, aanhef en onder a, van de Wok. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Is het openen van Packs aan te merken als een kansspel? </emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>7.1</nr>
+      <parablock>
+        <para>Verweerder stelt zich op het standpunt dat het openen van Packs een op zichzelf staand kansspel is waartegen, vanwege het ontbreken van een vergunning voor het aanbieden daarvan, moet worden opgetreden. Er is immers aan alle bestanddelen van de verbodsbepaling in artikel 1, eerste lid, aanhef en onder a, van de Wok voldaan. Eisers bieden Packs, een vorm van loot boxes, aan. Deelnemers kunnen deelnemen door Packs te (kopen en) openen. Deelnemers kunnen uit Packs goederen winnen die een (hoge) economische waarde vertegenwoordigen (prijs) en deelnemers kunnen bij het (kopen en) openen van Packs op geen enkele manier invloed uitoefenen op het winnen van een prijs (kans). </para>
+        <para>Verweerder onderbouwt dit als volgt. Uit onderzoek naar het spel FIFA19 is gebleken dat deelnemers aan FIFA kunnen spelen in de FUT-modus, waarbij het de bedoeling is om een zo sterk mogelijk team van spelers te maken. In FIFA19 kunnen de deelnemers spelers verkrijgen door Packs te openen. In deze Packs zitten virtuele weergaves van profvoetballers. De Packs zijn los van het spelen van de FIFA-wedstrijden te kopen en te openen en de virtuele goederen die uit de Packs worden verkregen, zijn los van een FIFA-wedstrijd te winnen. Het gaat dan ook om een zelfstandig spel, waarbij behendigheid geen rol speelt, anders dan bij bijvoorbeeld de virtuele voetbalwedstrijden die kunnen worden gespeeld in FIFA19. Deelnemers kunnen Packs kopen met FUT-punten en/of FUT-munten. FUT-punten kunnen in het spel gekocht worden met echt geld. Het is niet toegestaan dat deelnemers zonder toestemming FUT-munten voor echt geld kopen of verkopen. FUT-munten kunnen in het spel verdiend worden door het spelen van wedstrijden binnen de FUT-modus, speluitdagingen te voltooien of spelers te verkopen op de interne markt van FIFA19 (‘transfermarkt’). Hoe gewilder een speler, hoe meer de speler opbrengt op de transfermarkt.  Binnen FIFA19 kunnen deelnemers de virtuele goederen uit Packs omzetten naar FUT-munten. Ook kunnen deelnemers op de transfermarkt met FUT-munten de virtuele goederen overdragen aan andere deelnemers. Ook buiten FIFA19 is het mogelijk om op websites van andere partijen dan eisers, FUT-munten te verhandelen voor echt geld. Bij het openen van Packs is dus sprake van een prijs.    </para>
+        <para>Omdat deelnemers vooraf niet weten welke spelers in Packs zitten die ze openen, en zij dus  geen invloed hebben op de virtuele goederen die zij kunnen ontvangen, is bij het aanbieden van Packs ook sprake van kans.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Eisers stellen zich op het standpunt dat Packs geen kansspel is in de zin van de Wok en dat om die reden niet in strijd wordt gehandeld met de wet. Verweerder heeft Packs ten onrechte als losstaand kansspel beoordeeld. Packs is immers onlosmakelijk verbonden met de FUT-modus, dat een behendigheidsspel is. Eisers verwijzen naar het rapport van prof. dr. R.H. Koning, van 10 december 2019, waarin wordt geconcludeerd dat de FUT-modus een behendigheidsspel is omdat de behendigheid van de FIFA-speler de grootste en doorslaggevende factor is voor de uitkomst van een virtuele voetbalwedstrijd. De FUT-modus draait niet om het openen van Packs maar om het spelen van voetbalwedstrijden en het winnen van de competitie. Eisers stellen voorts dat verweerder eraan voorbijgaat dat spelers niet de intentie hebben om te gokken, maar om een behendigheidsspel te spelen, te weten het winnen van virtuele voetbalwedstrijden. De toevoeging van een kans-element, zoals Packs, aan een spel maakt dat spel nog niet tot een kansspel. Verweerder had het integrale spel zoals dat in de praktijk wordt gespeeld, moeten onderzoeken en beoordelen aan de hand van de maatstaven in het Saturne-arrest<footnote-ref linkend="_19a3432e-7703-4026-ae58-cc4c2a55afbb" />. Eisers stellen zich daarnaast op het standpunt dat met Packs geen prijzen gewonnen kunnen worden. De goederen uit Packs hebben alleen binnen de FUT-modus een relevante spelwaarde. Er is sprake van interne verhandelbaarheid binnen een gesloten circuit. Er vindt geen uitkering of omzetting in geld plaats, zodat van een economische waarde geen sprake is. Dat er een zwarte markt bestaat doet daaraan niet af. Er zijn geen winnaars en verliezers bij het openen van Packs. Een Pack bevat altijd inhoud en ten aanzien van iedere Pack is van tevoren kenbaar hoeveel en welke kwaliteit items er minimaal in zitten. FIFA-spelers kunnen dus kiezen wat voor Pack zij willen openen en hebben in die zin invloed op hetgeen zij zullen ontvangen.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <parablock>
+        <para>De rechtbank overweegt als volgt. </para>
+        <para>Volgens artikel 1, eerste lid, aanhef en onder a, van de Wok is het verboden gelegenheid te geven om mede te dingen naar prijzen of premies, indien de aanwijzing der winnaars geschiedt door enige kansbepaling waarop de deelnemers in het algemeen geen overwegende invloed kunnen uitoefenen, tenzij daarvoor ingevolge deze wet vergunning is verleend. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Voor de vraag of een spel als een kansspel kwalificeert in de zin van de Wok is doorslaggevend of aan de bestanddelen van deze verbodsbepaling, kans en prijs (of premie),  is voldaan.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De rechtbank stelt voorop dat de verbodsbepaling algemeen en techniekneutraal is geformuleerd. De wetgever kon in 1964 bij de formulering van het kansspelaanbod immers niet voorzien welke nieuwe (technologische) ontwikkelingen zich zouden voordoen. Uit de tekst van de wet en de wetsgeschiedenis blijkt dat de wetgever heeft beoogd het begrip kansspel een zo ruim mogelijke betekenis te geven en zo ruim mogelijk toe te passen. </para>
+        <para>De rechtbank verwijst op deze plaats naar de memorie van toelichting bij de Wet op kansspelen waarin door de wetgever wordt verwezen naar “onderling uiteenlopende vormen van wat men samenvattend kansspelen kan noemen” en rekenschap wordt gegeven van de omstandigheid dat ”het samenstel der bestaande wettelijke voorzieningen met betrekking tot kansspelen en aanverwante verschijnselen zeer ingewikkeld is” (Kamerstukken II 1963/64, 7603, nr. 3 (MvT), p. 6 en 7). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Voor de vraag of Packs een kansspel is, moet eerst worden beoordeeld of Packs als afzonderlijk spel moet worden beschouwd of dat Packs onderdeel uitmaakt van een behendigheidsspel (game). Uit het onderzoek van verweerder naar loot boxes , die in steeds meer games worden ingebouwd, blijkt onder meer dat loot boxes in een spel zitten, maar tevens te spelen zijn als spel op zich. De wetgever heeft in het wetsvoorstel Kansspelen op Afstand hierover het volgende opgemerkt: “De loot box is een opzichzelfstaand kansspel dat wordt aangeboden binnen een game” en: ”dit betekent dat games met loot boxes met op geld waardeerbare prijzen niet mogen worden aangeboden” (Kamerstukken II 2017/18,  33996, G (MvA), p. 71-72 en I (MvA), p. 9). In het onderzoeksrapport van verweerder naar het spel FIFA19 is vastgesteld dat spelers binnen FIFA in de FUT-modus op basis van een kans virtuele goederen (voetballers en items) kunnen winnen door Packs te openen. Vastgesteld is dat Packs los van de FIFA-wedstrijden zijn te kopen en te openen en dat de goederen die uit Packs verkregen worden losstaan van de wedstrijden, in de zin dat een speler ervoor kan kiezen alleen maar Packs te openen teneinde gewenste voetballers te verkrijgen, die vervolgens al dan niet kunnen worden verhandeld. Het feit dat veel spelers het niet op deze manier spelen, zoals eisers stellen, laat de mogelijkheid daartoe onverlet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5</nr>
+      <para>Gelet hierop gaat de rechtbank er vanuit dat verweerder niet ten onrechte heeft geconcludeerd dat Packs, nu dit los van FIFA is te spelen en de voorwerpen uit Packs losstaan van de wedstrijden, als een op zichzelf staand spel moet worden beschouwd en als zodanig moet worden beoordeeld. Het betoog van eisers dat Packs als toegevoegd kans-element een onlosmakelijk onderdeel vormt van een behendigheidsspel en dus niet als een losstaand spel maar als onderdeel van dit behendigheidsspel moet worden beschouwd, slaagt dan ook niet. De conclusie van prof. dr. R.H. Koning dat de FUT-modus een behendigheidsspel is omdat de behendigheid van de FIFA-speler de grootste en doorslaggevende factor is voor de uitkomst van een virtuele voetbalwedstrijd, is niet relevant omdat in zijn onderzoek de FIFA-wedstrijden en Packs zijn samengenomen en niet afzonderlijk van elkaar zijn beoordeeld. De jurisprudentie over Saturne<footnote-ref linkend="_263298ac-7fee-450b-a125-11558880ebbb" /> en Golden Ten<footnote-ref linkend="_d6210507-1222-47a3-a3c4-7ce2e9c02286" /> is hier niet van toepassing. Deze jurisprudentie betreft de rechtsvraag op welke wijze een gemengd kansspel moet worden beoordeeld, waarbij binnen hetzelfde spel sprake is van een combinatie van kans en behendigheid. Reeds omdat Packs als een op zichzelf staand spel gespeeld kan worden, heeft verweerder op goede gronden geen reden gezien om doorslaggevende betekenis toe te kennen aan het feit dat het bij het spelen van de andere onderdelen van de FUT-modus wel hoofdzakelijk om behendigheid gaat. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.6</nr>
+      <para>De vraag of voldaan is aan het bestanddeel ‘kans’ beantwoordt de rechtbank bevestigend, nu uit eerdergenoemd onderzoek gebleken is dat de uitkomst van Packs alleen door toeval wordt bepaald, de spelers geen overwegende invloed hebben op de inhoud van de Packs en er geen behendigheid nodig is om deel te nemen aan Packs. Dat de gewonnen voorwerpen gebruikt kunnen worden voor de wedstrijden en dat er een zekere mate van transparantie is over prijsaanbod en kansen, maakt dat niet anders. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.7</nr>
+      <para>Het betoog van eisers dat niet is voldaan aan het criterium: ‘prijs of premie’ omdat er geen directe omzetbaarheid naar geld is maar alleen een interne verhandelbaarheid van de goederen uit Packs, volgt de rechtbank niet. Verweerder heeft voor de uitleg van het begrip ‘prijs’ aangesloten bij de op 30 maart 2018 gepubliceerde “Leidraad beoordeling kansspelen” (Leidraad) en de Wet KSB. Niet valt in te zien dat verweerder hiermee een onjuiste toetsingsmaatstaf heeft gehanteerd, nu de Wok zoals eerder overwogen, noopt tot een ruime uitleg van het begrippenkader in artikel 1, eerste lid, aanhef en onder a, van de Wok. Het feit dat de Wet KSB, die tot doel heeft het heffen en innen van kansspelbelasting, uitgaat van een beperkter prijsbegrip is dan ook niet relevant. Uitgaande van een ruim prijsbegrip, en onder verwijzing naar het Runescape-arrest<footnote-ref linkend="_466ae36c-ee12-4cce-93ba-3fc61de881bc" /> en de conclusie van de Procureur-Generaal bij dat arrest<footnote-ref linkend="_67ceb602-2f3e-4952-bd5f-bfcce7418b68" /> waaruit blijkt dat de interne, virtuele game-economie als een reële economie kan worden beschouwd en dat de waarde van virtuele items op echt geld gewaardeerd kan worden op basis van de handel buiten een game om, heeft verweerder zich niet ten onrechte op het standpunt gesteld dat ook virtuele objecten als prijs of premie in de zin van de Wok kunnen worden aangemerkt. In het onderhavige geval komt de waarde van de te winnen voetballers tot stand op basis van vraag en aanbod op de transfermarkt, waar deelnemers de goederen tegen FUT-munten aan elkaar kunnen overdragen. De economische waarde komt tot uiting in het feit dat FUT-munten naar FUT-punten kunnen worden omgerekend en vervolgens naar euro’s. Bij Packs is de economische waarde van de betreffende voetballer op de interne markt doorslaggevend voor de vraag of sprake is van een ‘prijs’. Het feit dat er daarnaast een zwarte markt bestaat voor de goederen uit Packs en waarop FUT-munten ook daadwerkelijk <emphasis role="italic">omgezet</emphasis> kunnen worden in echt geld, vormt een extra aanwijzing voor de vaststelling dat sprake is van een reële economische waarde. Volgens verweerder, en eisers hebben dit niet concreet weersproken, hebben de goederen een significante marktwaarde: 5000 FUT-munten staan ongeveer gelijk aan € 1,- en zo was een bijzondere versie van de virtuele speler Gullit als “<emphasis role="italic">buy-it-now-</emphasis>optie” (minimaal) 9.970.000 FUT-munten (€ 1.994,-) waard. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.8</nr>
+      <para>De rechtbank is op grond van het vorenstaande van oordeel dat voldaan is aan alle vereisten van artikel 1, eerste lid, aanhef en onder a, van de Wok. Eisers bieden Packs aan, spelers kunnen deelnemen door Packs te (kopen en) openen, spelers kunnen uit Packs voorwerpen winnen die een (mogelijk hoge) economische waarde vertegenwoordigen, deelnemers kunnen bij het (kopen en) openen van Packs op geen enkele manier overwegende invloed uitoefenen op het winnen van een prijs en de voorwerpen uit Packs kunnen, zowel op de interne transfermarkt, als op de zwarte markt, verhandeld worden. Daarmee is de kwalificatie van Packs als een kansspel gegeven. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.9</nr>
+      <para>De rechtbank merkt overigens op dat omstandigheden zoals onder meer de intentie van de aanbieder, het speeldoel, de intentie van de speler, een zekere mate van transparantie over prijsaanbod en winkansen, het hebben van altijd-prijs, de frequentie waarmee het spel wordt gespeeld, het ontbreken van inleg, uitkering of inwisselbaarheid in geld, het aanwijzen van een winnaar, onderlinge competitie en het uitgangspunt van een afgesloten circuit, voor de beoordeling niet van doorslaggevend belang zijn. Deze omstandigheden vormen immers geen bestanddelen van de verbodsbepaling van de Wok. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.10</nr>
+      <para>De tussenconclusie luidt dat Packs een kansspel is in de zin van de Wok. De kwalificatie van Packs als kansspel brengt met zich dat verweerder in beginsel bevoegd is tot handhaving over te gaan.</para>
+      <para />
+      <parablock>
+        <para>8. 	Aan de rechtbank ligt vervolgens ter beoordeling voor of de Wok in een geval als deze een deugdelijke wettelijke grondslag voor handhaving biedt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Biedt de Wok een deugdelijke wettelijke grondslag voor handhaving ?  </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Het betoog van eisers dat het besluit in strijd is met het legaliteitsbeginsel, omdat de wettelijke grondslag onduidelijk is en het voor eisers onvoldoende duidelijk, voorzienbaar en kenbaar was dat met het aanbieden van Packs in FIFA artikel 1, eerste lid, aanhef en onder a, van de Wok werd overtreden, slaagt om de volgende redenen niet. </para>
+      <para />
+      <parablock>
+        <para>In artikel 5:4 van de Awb is bepaald:</para>
+        <para>“1. De bevoegdheid tot het opleggen van een bestuurlijke sanctie bestaat slechts voor zover zij bij of krachtens de wet is verleend.</para>
+        <para>2. Een bestuurlijke sanctie wordt slechts opgelegd indien de overtreding en de sanctie bij of krachtens een aan de gedraging voorafgaand wettelijk voorschrift zijn omschreven."</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het in artikel 5:4 van de Awb neergelegde legaliteitsbeginsel, dat ook van toepassing is op herstelsancties als de aan eisers opgelegde last onder dwangsom, houdt onder meer in dat tegen een gedraging alleen handhavend kan worden opgetreden indien deze vooraf bij wettelijk voorschrift als verboden gedraging is omschreven. Hierbij geldt dat de verboden gedraging nauwkeurig, duidelijk en ondubbelzinnig geformuleerd moet zijn.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>De rechtbank stelt voorop dat aan het vereiste dat de bevoegdheid tot het opleggen van een bestuurlijke sanctie moet zijn verleend bij of krachtens de wet, is voldaan. De verbodsbepaling heeft immers een wettelijke grondslag in de Wok. Naar het oordeel van de rechtbank was de norm ten tijde van de overtreding voldoende kenbaar. Het verbod is toegepast conform de bestaande wetgeving, de uitleg van de wetgever en de vaste jurisprudentie zoals hiervoor is weergegeven. Dat het een zogenoemde open norm betreft en dat over de specifieke vraag of loot boxes al dan niet als kansspel moeten worden beoordeeld, nog geen jurisprudentie bestaat, maakt niet dat de norm niet kenbaar was dan wel dat het voor eisers redelijkerwijs niet mogelijk was te voorzien dat meergenoemd artikel van toepassing is op de aangeboden Packs. Van eisers als professionele marktdeelnemers mag worden verwacht dat zij zich laten informeren over de beperkingen die kunnen gelden voor de producten die zij aanbieden. </para>
+      <para />
+      <parablock>
+        <para>9. 	De rechtbank dient vervolgens in het licht van de aangevoerde beroepsgronden te beoordelen of de opgelegde last onder dwangsom overigens rechtmatig en evenredig is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is het dwangsombesluit rechtmatig en is de opgelegde last evenredig ? </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <parablock>
+        <para>Eisers betogen in dit verband, kort samengevat, dat het dwangsombesluit onrechtmatig is omdat het, ten eerste, inbreuk maakt op fundamentele rechten, te weten op het eigendomsrecht en het recht op de vrijheid van meningsuiting van eisers. </para>
+        <para>Eisers betogen voorts dat het dwangsombesluit onrechtmatig is, omdat het in strijd is met de algemene beginselen van behoorlijk bestuur, waaronder het gelijkheidsbeginsel en het evenredigheidsbeginsel. Eisers zijn van mening dat met het dwangsombesluit geen legitiem doel wordt nagestreefd, omdat de belangen die met het dwangsombesluit worden nagestreefd (voorkomen kansspelverslaving en criminaliteit) niet in het geding zijn. Daar staat tegenover dat de gevolgen voor eisers disproportioneel zijn. De nadelige gevolgen van het besluit staan dan ook niet in verhouding tot de met het besluit te dienen doelen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>Bij de beoordeling van deze beroepsgronden stelt de rechtbank voorop dat het algemeen belang dat gediend is met handhaving er in de regel toe leidt dat, in geval van overtreding van een wettelijk voorschrift, het bestuursorgaan dat bevoegd is om met een last onder bestuursdwang of een last onder dwangsom op te treden van deze bevoegdheid gebruik zal moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisatie bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3</nr>
+      <para>Eisers hebben gesteld dat de belangen die met de Wok en het daarop gebaseerde dwangsombesluit worden nagestreefd, zoals het voorkomen van kansspelverslaving en criminaliteit, niet in geding zijn in het onderhavige geval. Omdat deze stelling als een belangrijke en terugkerende motivering dient voor de door eisers gestelde inbreuk op het beginsel van evenredigheid en andere beginselen van behoorlijk bestuur alsook op meerdere fundamentele rechten, zal de rechtbank eerst stilstaan bij de vraag of deze belangen al dan niet aan de orde zijn. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Kansspelverslaving</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.4</nr>
+      <para>Eisers betwisten dat in het geval van Packs sprake is van gokverslaving zodat verweerder op grond daarvan van handhaving had moeten afzien. Er is geen wetenschappelijk bewijs dat het openen van Packs leidt tot kansspelverslaving en er is geen toereikend wetenschappelijk onderzoek gedaan naar een causale relatie tussen het openen van loot boxes en het ontwikkelen van een kansspelverslaving. Uit het rapport van dr. S. Gainsbury, van 6 april 2020, “Expert witness report: The relationship between loot boxes and gambling disorder”, blijkt dat het bij gebrek aan zo’n onderzoek niet mogelijk is te bepalen hoe de variabelen elkaar beïnvloeden en hoe de relatie tussen die variabelen verandert door tijdsverloop. Dat het verband tussen het openen van loot boxes en gokverslaving ontbreekt, blijkt ook uit het gebrek aan signalen daarover vanuit Verslavingskunde Nederland, het Centrum voor Verantwoord Spelen, de afwezigheid van klachten over loot boxes in april 2018 bij verweerder en uit het onderzoek naar loot boxes van verweerder zelf. Vanuit het Trimbos instituut voor verslaving is in een radio-interview van 7 juni 2020 bevestigd dat niet bekend is of de loot boxes zoals gebruikt in FIFA verslavend werken. Het is niet voor niets dat er nu WODC-onderzoek plaatsvindt. Ten slotte geldt dat, ook al zouden loot boxes verslavend zijn, daarmee nog is niet aangetoond dat het om kansspelverslaving gaat en niet om gameverslaving. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.5</nr>
+      <parablock>
+        <para>De rechtbank overweegt dat de wetgever met de Wok “de menselijke speelzucht” en de mogelijk kwalijke gevolgen daarvan heeft willen beteugelen. Hieruit vloeit naar het oordeel van de rechtbank voort dat niet vereist is dat verweerder bij elk individueel kansspel dat onder de meergenoemde definitie valt, moet bewijzen dat dit schadelijke effecten heeft nu de wetgever er – gelet op het systeem van de Wok – vanuit gaat dat het risico van kansspelverslaving inherent is aan een spel dat als kansspel in de zin van de Wok kan worden aangemerkt. Met andere woorden: het risico op kansspelverslaving en het zwaarwegende belang bij het voorkomen daarvan is als zodanig verdisconteerd in artikel 1, eerste lid, aanhef en onder a, van de Wok, en behoeft, reeds om die reden, geen afzonderlijke wetenschappelijke bevestiging per kansspel. </para>
+        <para>Daargelaten dat wetenschappelijke bevestiging geen vereiste is, bestaan evenwel signalen uit wetenschappelijke hoek die een risico op kansspelverslaving bij loot boxes onderschrijven. Uit het onder rechtsoverweging 2 genoemde onderzoek naar loot boxes blijkt dat de onderzochte loot boxes een gemiddeld tot hoog risicopotentieel hebben en dat bij Packs een hoog risicopotentieel is vastgesteld. Daarbij komt dat ook de deskundige Gainsbury, wier rapport door eisers in het geding is gebracht, concludeert dat er bewijs bestaat voor een correlatie tussen (het kopen van) loot boxes en gokproblemen. Dat hiermee (nog) geen onomstotelijk op wetenschappelijk onderzoek gestoeld bewijs van causaliteit is, doet niet af aan de aannemelijkheid dat er een risico bestaat op de gevoeligheid voor kansspelverslaving en met name bij kinderen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.6</nr>
+      <para>De omstandigheid dat de verantwoordelijke minister, in reactie op Kamervragen, recentelijk het Wetenschappelijk Onderzoek- en Documentatiecentrum (WODC) heeft verzocht onderzoek te verrichten naar identificatie van risico’s in games die kunnen leiden tot gameverslaving, kansspelverslaving of financiële problemen, doet daar evenmin aan af. Naar verweerder op zitting terecht naar voren heeft gebracht, neemt dit niet weg dat het door deskundigen zeer aannemelijk wordt geacht dat er een risico is dat met name minderjarige deelnemers door Packs gevoeliger kunnen worden voor verslaving. Minderjarigen zijn kwetsbaar en sneller verslaafd; als zij op minderjarige leeftijd gokken lopen zij een groter risico verslaafd te raken. In FIFA hebben minderjarigen toegang tot Packs. Bij het spelen van FIFA kunnen zij onbedoeld en onbeschermd met een kansspel in aanraking komen. Deskundigen waarschuwen voor loot boxes, er zijn individuele meldingen bij verweerder ontvangen over loot boxes, waaronder die van eisers, over de verslavende effecten ervan, en er zijn berichten in de media verschenen van deelnemers. Verweerder heeft al deze signalen terecht in de beoordeling betrokken. De stelling van deskundige Gainsbury dat er onvoldoende bewijs is dat beleid ter beperking van loot boxes in games schade oplost of voorkomt, omdat daar geen onderzoek naar is gedaan, betekent niet dat verweerder daarom van handhaving zou moeten afzien. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.7</nr>
+      <para>Concluderend ligt het in dit verband – gelet op de kwalificatie van Packs als kansspel in combinatie met het voorgaande – niet op de weg van verweerder om te bewijzen dat bij het gebruik van Packs kansspelverslaving optreedt, maar op de weg van eisers om aannemelijk te maken dat het gesignaleerde risicopotentieel bij Packs niet bestaat. Daarin zijn eisers niet geslaagd. Dit betekent dat verweerder in het dwangsombesluit in redelijkheid belang heeft kunnen toekennen aan het risico op kansspelverslaving bij Packs.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het belang van voorkoming van criminaliteit</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.8</nr>
+      <para>Eisers betogen voorts dat het belang van het bestrijden van criminaliteit niet is aangetoond omdat verweerder geen onderzoek heeft gedaan naar fraude, witwassen en bedrog bij het openen van de Packs. Er zijn geen aanwijzingen dat FIFA-spelers worden blootgesteld aan elementen uit het criminele circuit. Eisers nemen zelf maatregelen om de toegang van minderjarigen en de door hen gedane uitgaven te beperken. Onaannemelijk is dat spelers in financiële problemen zijn gekomen. Er zijn geen aanwijzingen dat het veilig betalingsverkeer in gevaar wordt gebracht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.9</nr>
+      <para>Verweerder stelt dat in het algemeen geldt dat illegale gokactiviteiten criminaliteit aantrekken. Als gevolg van het ontbreken van een vergunning kan verweerder geen regels stellen en toezicht houden. De consumenten zijn nu feitelijk onbeschermd bij het kansspelaanbod van eisers. De risico’s op oneerlijke kansspelen en onveilig betalingsverkeer bij loot boxes zijn dan ook niet uitgesloten. Het zonder vergunning aanbieden van een kansspel is een misdrijf; dat geldt ook voor het daarmee verdiende geld. Illegaal verdiend geld vormt een ernstige bedreiging voor de legale economie. Verweerder verwijst naar de zwarte markt waar de prijzen uit Packs illegaal verkocht worden voor echt geld. Ook de deelnemers aan Packs overtreden de Wok. Er zijn diverse signalen van te grote uitgaven aan Packs. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.10</nr>
+      <para>De rechtbank overweegt dat de bescherming van het belang van het tegengaan van criminaliteit dat is gediend met het verbieden van kansspelen niet vereist dat, al dan niet voorafgaand aan een besluit tot handhaving van het verbod, onderzoek is verricht naar de mate waarin het betreffende spel bijdraagt tot fraude, witwassen en bedrog. Net zoals hiervoor is overwogen inzake kansspelverslaving, maakt reeds het feit dat een spel als kansspel kan worden gekwalificeerd dat zich risico’s voordoen op dit gebied, zoals uit jarenlange ervaring met kansspelen blijkt. Verweerder heeft in dit kader voldoende aannemelijk gemaakt dat de potentiële risico’s op het terrein van illegaliteit en criminaliteit verbonden aan het aanbieden van Packs dusdanig zijn dat handhaving mede op grondslag hiervan in redelijkheid gerechtvaardigd is. Verweerder heeft verder niet ten onrechte gesteld dat het feit dat eisers zelf maatregelen nemen ter beperking van toegang en gelduitgave door minderjarigen, aan het vorenstaande niet afdoet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Tijdsverloop handhavingstraject</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.11</nr>
+      <para>Eisers stellen zich tot slot op het standpunt dat er geen dringend belang bij handhaving is, gelet op het gebrek aan voortvarendheid bij verweerder. Packs maken al ruim 10 jaar deel uit van FIFA zonder dat daartegen is opgetreden. Verweerder, die al in 2017 nader onderzoek heeft gedaan naar het fenomeen loot boxes, heeft eerst bij brief van 26 april 2018 aangekondigd dat de Wok zou zijn overtreden en is pas op 15 oktober 2019 tot het opleggen van de last onder dwangsom overgegaan. Kennelijk zag verweerder, die tot eind oktober 2019 heeft gewacht met formele handhaving, niet eerder concrete en acute gevaren voor de volksgezondheid waardoor direct moest worden opgetreden. Dit lange stilzitten rechtvaardigt niet een dwangsom die kan oplopen tot tien miljoen euro met een begunstigingstermijn van enkele weken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.12</nr>
+      <para>De rechtbank volgt verweerder in dienst standpunt dat het gegeven dat eisers gedurende langere tijd de Wok overtreden, niet betekent dat niet meer tot handhaving kan worden overgegaan. Daarbij heeft verweerder terecht heeft gewezen op het feit dat zij beperkte middelen en capaciteit heeft en daarom prioriteiten moet stellen in de handhaving, hetgeen blijkens vaste jurisprudentie is toegestaan<footnote-ref linkend="_f22d61ce-2fb7-430d-8e71-81c50dc5012b" />. Illegale loot boxes zijn een relatief nieuw soort kansspelfenomeen. Vanaf het moment dat dit verschijnsel onder de aandacht van verweerder kwam, is voortvarend gehandeld. De verklaring van verweerder dat enige tijd verstreken is tussen de eerste aanschrijving en het dwangsombesluit omdat eerst lichtere maatregelen zijn getroffen om eisers de gelegenheid te geven de sanctieoplegging te voorkomen, acht de rechtbank niet onredelijk. Voor zover de procedure onnodig langer heeft geduurd, is de rechtbank met verweerder van oordeel dat dat niets afdoet aan de belangen die zijn gemoeid met handhaving van de Wok. Gelet hierop ziet de rechtbank geen aanknopingspunten voor het oordeel dat verweerder vanwege het enkele tijdsverloop van handhavend optreden had behoren af te zien. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is het dwangsombesluit noodzakelijk en doeltreffend? </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.13</nr>
+      <para>Eisers betogen dat het besluit alsmede het onderliggende beleid ongeschikt zijn en niet noodzakelijk om het doel dat verweerder nastreeft te bereiken. Het is niet consistent om een behendigheidsspel van de Nederlandse markt te verbannen vanwege één element, terwijl niet bewezen is dat dit element tot kansspelverslaving zou leiden. Het verbannen van loot boxes is niet consistent gelet op de aanwezigheid van andere, qua verslavingsniveau vermeend vergelijkbaar, bestaand aanbod als fruitautomaten, blackjack, roulette en kleinschalige bingo. Dit geldt evenzeer voor de op grond van de Wet kansspelen op afstand te verlenen vergunningen voor spellen waarbij prijzen mogelijk ‘gecasht’ kunnen worden, en waarvan de risico’s op het gebied van verslaving, fraude en criminaliteit wel zijn aangetoond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.14</nr>
+      <para>De rechtbank verwijst op dit punt naar hetgeen hiervoor reeds is overwogen.  Wetenschappelijk bewijs voor het risico op gokverslaving of kansspelverslaving als gevolg van het aanbieden van loot boxes is geen vereiste om tot handhaving te mogen overgaan. Indien niets zou wijzen op enig risico op het optreden van verslaving of op de met kansspelen samenhangende criminaliteit of indien vastgesteld kan worden dat deze risico’s  verwaarloosbaar zijn, dan zou een dwangsombesluit als het onderhavige onevenredig zijn in het licht van de daarmee te dienen doelen. Zoals echter blijkt uit voorgaande overwegingen is bij Packs een hoog risicopotentieel aannemelijk, zodat verweerder in redelijkheid tot handhaving heeft kunnen overgaan. Ten aanzien van fruitautomaten, blackjack, roulette en kleinschalige bingo heeft verweerder terecht gesteld dat deze, anders dan loot boxes, onder voorwaarden zijn toegestaan op grond van de Wok zodat daarop, anders dan bij loot boxes het geval is, toezicht kan worden uitgeoefend. Het is voorts niet relevant of prijzen in echt geld kunnen worden omgezet hetgeen bij de prijzen van eisers overigens wel mogelijk is en ook gebeurt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.15</nr>
+      <para>Eisers stellen zich op het standpunt dat het dwangsombesluit voorts onevenredig is omdat als gevolg daarvan disproportionele schade zal optreden. Als gevolg van de last zal ingegrepen moeten worden in de populaire FUT-modus en de FUT Transfer Market hetgeen afbreuk zal doen aan de spelbeleving en tot gevolg heeft dat Nederlandse FIFA-spelers niet meer tegen FIFA-spelers wereldwijd kunnen spelen en omgekeerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.16</nr>
+      <para>De rechtbank overweegt dat het enkele feit dat eisers nadeel en schade zullen ondervinden als gevolg van het feit dat het spel moet worden aangepast aan de last onder dwangsom, niet betekent dat het besluit daarom onevenredig is. Van een onevenredige last is naar het oordeel van de rechtbank geen sprake. Eisers zijn, zoals hiervoor is overwogen, eerder in de gelegenheid gesteld om de overtreding te beëindigen zonder dreiging van een herstelsanctie. Van deze gelegenheid hebben zij geen gebruik gemaakt. Voor zover zich nadelen voordoen zijn deze het gevolg van de overtreding. De eventuele schade is voorts niet geconcretiseerd. Eisers kunnen zelf beslissen op welke wijze zij het spel aanpassen. Verweerder heeft in redelijkheid kunnen stellen dat de bedrijfseconomische en commerciële belangen van eisers niet opwegen tegen de algemene belangen die zijn gediend met handhaving.     </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is het dwangsombesluit in strijd met fundamentele rechten (eigendomsrecht respectievelijk vrijheid van meningsuiting)?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.16</nr>
+      <para>Eisers betogen dat het dwangsombesluit in strijd is met artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP EVRM), omdat sprake is van ongerechtvaardigde inmenging in het recht op eigendom. Door de last worden eisers immers gedwongen hun eigendom aan te passen en de functies te beperken. Aan de stringente voorwaarden ter regulering van eigendom zoals dat de inbreuk bij wet is voorzien, een legitiem doel dient en proportioneel is, is niet voldaan. Artikel 1 van de Wok biedt geen precieze, toegankelijke en voorzienbare basis om een inmenging in het eigendomsrecht van eisers te rechtvaardigen. Het beleid dat door verweerder niet systematisch en coherent wordt uitgevoerd is niet noodzakelijk en geschikt om het doel te bereiken. Er is geen wetenschappelijk bewijs dat loot boxes leiden tot kansspelverslaving zodat het besluit geen legitiem doel dient. Het besluit heeft zware gevolgen voor eisers en compensatie is niet geboden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.17</nr>
+      <para>De rechtbank overweegt dat, zoals hiervoor is uiteengezet, artikel 1 van de Wok een voldoende wettelijke basis biedt voor handhaving. De publieke belangen van het voorkomen van kansspelverslaving bij met name minderjarigen, de bescherming van de consument en het tegengaan van criminaliteit en illegaliteit zijn, zoals eveneens volgt uit het voorgaande, als legitieme doelen aan te merken. Niet gebleken is dat het beleid niet consistent wordt uitgevoerd. De last is noodzakelijk, geschikt en proportioneel. Verweerder heeft eisers eerst in de gelegenheid gesteld zelf de overtreding te beëindigen zonder dreiging van een herstelsanctie. Hiervan is geen gebruik gemaakt. Eisers hebben de wijze waarop die aanpassing plaatsvindt zelf in hun macht. Naar het oordeel van de rechtbank is niet aannemelijk gemaakt dat als gevolg van de met de last gevraagde aanpassing van FIFA onevenredig nadeel zal ontstaan. Zoals verweerder terecht heeft gesteld leidt handhaving er niet toe dat het eigendom aan eisers wordt ontnomen, maar dat het spel dat eisers aanbieden zodanig moet worden aangepast dat de overtreding wordt beëindigd. De commerciële belangen wegen niet op tegen de in het geding zijnde publieke belangen, zodat ook gelet op de betrokken belangen de dwangsom die verweerder aan de last heeft verbonden niet excessief is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.18</nr>
+      <para>Eisers betogen voorts dat het dwangsombesluit de vrijheid van meningsuiting zoals neergelegd in artikel 10 van het EVRM beperkt aangezien de creativiteit van de spelontwerpers van FIFA en de denkbeelden over en in de (digitale) voetbalwereld zonder noodzaak worden gecensureerd. Een volledige verwijdering van de loot boxes is niet proportioneel. Er zijn minder ingrijpende mogelijkheden denkbaar, zoals onderbrenging bij het consumentenrecht en handhaving door de ACM.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.19</nr>
+      <para>In het licht van het voorgaande is de rechtbank is, met verweerder, van oordeel dat, voor zover de vrijheid van meningsuiting al in het geding is, de beperking daarvan bij wet is voorzien, de norm voldoende toegankelijk, precies en voorzienbaar is, de doelen van de Wok legitiem en de inbreuk in dit geval noodzakelijk is in het belang van een democratische samenleving. De ACM is, anders dan eisers menen, niet bevoegd toezicht te houden op kansspelen. Het toezicht op de Wok is opgedragen aan de Kansspelautoriteit. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is het dwangsombesluit overigens in strijd met algemene beginselen van behoorlijk bestuur?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.20</nr>
+      <para>Eisers stellen zich op het standpunt dat in strijd met het gelijkheidsbeginsel wordt gehandeld omdat verweerder nalaat op te treden tegen concurrenten van eisers die vergelijkbare loot boxes hebben ingebouwd in hun spellen. Eisers verwijzen naar een tabel met acht aanbieders waarvan verweerder er maximaal drie heeft aangeschreven. Door deze ongelijke behandeling worden eisers in hun concurrentiepositie getroffen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.21</nr>
+      <para>Verweerder stelt dat van willekeur geen sprake is. Er zijn vier aanbieders van illegale loot boxes aangeschreven waarop meerdere aanbieders hun aanbod hebben aangepast. Tegen  aanbieders van loot boxes die niet als kansspel kwalificeren, wordt niet opgetreden. Voor zover concurrentieschade optreedt blijkt uit niets dat die onevenredig zal zijn. Andere aanbieders hebben hun aanbod aangepast zonder dat gebleken is dat zij in de financiële problemen zijn gekomen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.22</nr>
+      <para>De rechtbank overweegt dat niet gebleken is dat verweerder in vergelijkbare gevallen niet optreedt. De rechtbank heeft geen reden te twijfelen aan het standpunt van verweerder dat, hoewel vanwege beperkte middelen en capaciteit prioriteiten worden gesteld aangaande de handhaving, uiteindelijk tegen illegaal aanbod van kansspelen wordt opgetreden. Van strijd met het gelijkheidsbeginsel is niet gebleken.   </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Begunstigingstermijn </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.23</nr>
+      <para>Eisers voeren aan dat de last technisch gezien niet op korte termijn uitvoerbaar is. Eisers verwijzen naar het rapport van dr. S. van Otterloo van 10 december 2019 en de aanvulling daarop van 2 juni 2020 waaruit onder meer blijkt dat het zeer ingewikkeld is om wijzigingen voor één specifiek land door te voeren. In de brief van 1 september 2020 heeft Van Otterloo zijn eerdere conclusies bevestigd en gesteld dat het niet mogelijk is de voorgestelde wijzigingen van het spel binnen de gestelde termijn door te voeren. Eisers hebben verder gesteld dat rekening moet worden gehouden met schadeclaims van consumenten en dat de goede relaties met voetbalclubs zullen worden geschaad. Het gaat om een populair en interactief spel. Dat andere spelaanbieders blijkbaar zonder onoverkomelijke problemen hun spellen hebben aangepast, betekent niet dat dit ook voor eisers geldt. Ter zitting hebben eisers desgevraagd medegedeeld dat er minimaal 12 maanden nodig zijn om de programmatuur aan te passen zodat aan de last kan worden voldaan.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.24</nr>
+      <parablock>
+        <para>De rechtbank overweegt als volgt.</para>
+        <para>In artikel 5:24, tweede lid, van de Awb is bepaald dat de last onder bestuursdwang de termijn vermeldt waarbinnen zij moet worden uitgevoerd. Ingevolge artikel 5:32a, tweede lid, van de Awb wordt bij een last onder dwangsom die strekt tot het ongedaan maken van een overtreding een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat een dwangsom wordt verbeurd (begunstigingstermijn). Uit de toelichting op deze bepaling blijkt dat de begunstigingstermijn zo kort mogelijk moet worden gesteld. De termijn moet wel lang genoeg zijn om de last te kunnen uitvoeren. Volgens vaste jurisprudentie is voor de vraag of een begunstigingstermijn in redelijkheid kan worden gesteld slechts van belang of binnen die termijn aan de last kan worden voldaan en niet of de overtreder dat op een vanuit bedrijfseconomisch opzicht zo gunstig mogelijke wijze kan doen (ECLI:NL:RVS:2016:3126). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.25</nr>
+      <para>Naar het oordeel van de rechtbank hebben eisers niet aannemelijk gemaakt dat zij niet binnen de gestelde termijn van drie weken aan de last kunnen voldoen. De rechtbank acht de gestelde termijn niet onredelijk kort gezien het feit dat eisers meerdere mogelijkheden hebben om het spel aan te passen, zij reeds geruime tijd op de hoogte zijn van het standpunt van verweerder dat eisers met het aanbieden van loot boxes in het spel FIFA de Wok overtreden<footnote-ref linkend="_1f4075be-6def-475a-8378-1909fe8fa173" /> en andere aanbieders van vergelijkbare spellen hun aanbod ook binnen korte tijd hebben kunnen aanpassen. De conclusie van dr. S. van Otterloo dat de door verweerder voorgestelde voorbeeldmaatregelen niet zijn door te voeren binnen het voorgestelde tijdsbestek, acht de rechtbank niet doorslaggevend. Voor het antwoord op de vraag of verweerder de gestelde begunstigingstermijn in redelijkheid kon stellen is immers slechts van belang of eisers binnen de gestelde termijn aan de last kunnen voldoen. Het gaat er niet om of de door verweerder bij wijze van voorbeeld genoemde aanpassingen van het spel binnen drie weken kunnen doorgevoerd en het gaat er ook niet om dat aan de last wordt voldaan op een vanuit bedrijfseconomisch of commercieel opzicht zo gunstig mogelijke wijze voor eisers. Voor zover de door eisers ter zitting genoemde termijn van 12 maanden correspondeert met de termijn van 8 tot 12 maanden die S. van Otterloo in zijn rapport van 2 juni 2020 noemt, is de rechtbank van oordeel dat hierbij wordt uitgegaan van aanpassingen waarmee een kwaliteitsniveau wordt bereikt dat gelijkwaardig is aan de huidige spelbeleving en dus van aanpassingen die vanuit bedrijfseconomisch of commercieel opzicht zo gunstig mogelijk zijn voor eisers. Zoals verweerder terecht heeft gesteld is het aan eisers op welke wijze zij hun spel aanpassen en hebben zij daarvoor meerdere mogelijkheden. Aanpassing van de programmatuur is slechts één van de mogelijkheden. Niet betwist is dat bijvoorbeeld ook het afsluiten van Nederlandse accounts een mogelijkheid is om aan de last te voldoen. De rechtbank heeft geen aanleiding te twijfelen aan de stelling van verweerder dat het andere aanbieders van vergelijkbare spellen is gelukt het aanbod in drie weken aan te passen zodat van een overtreding van de Wok geen sprake meer is. Van onevenredige schade als gevolg van een dergelijke aanpassing is niet concreet gebleken. Verweerder heeft er daarnaast terecht op gewezen dat de belangen van handhaving in deze zaak, gelet op met name de mogelijke gevolgen voor minderjarigen, dermate groot zijn dat het mede daarom niet onredelijk is om van eisers te verlangen dat zij binnen de gestelde termijn aan de last voldoen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Tussenconclusie</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.26</nr>
+      <para>Gelet op het voorgaande is de rechtbank van oordeel dat het dwangsombesluit onrechtmatig noch onevenredig is. Het beroep slaagt niet.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Biedt artikel 8 van de Wob een grondslag voor de openbaarmakingsbesluiten en zijn deze onevenredig benadelend voor eisers? </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Eisers betogen dat de openbaarmakingsbesluiten in strijd zijn met artikel 8, eerste lid, van de Wob omdat deze bepaling geen grondslag biedt voor openbaarmaking van handhavingsbesluiten die nog niet onherroepelijk zijn, temeer niet nu het hier om een proefproces gaat. Eisers betogen dat verweerder had moeten aansluiten bij het openbaarmakingsregime van het financieel toezichtrecht waar een last onder dwangsom alleen openbaar wordt gemaakt als het besluit onherroepelijk is. Ook de jurisprudentie van de Afdeling biedt geen grondslag voor openbaarmaking. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2</nr>
+      <para>Eisers betogen voorts dat de openbaarmakingsbesluiten een punitief karakter hebben omdat zij zijn gericht op leedtoevoeging en generale preventie. Aangezien verweerder haar bevoegdheid tot openbaarmaking gebruikt om eisers te straffen handelt zij in strijd met artikel 3:3 van de Awb (détournement de pouvoir). Daarnaast achten eisers de openbaarmakingsbesluiten in strijd met artikel 10, tweede lid, aanhef en onder g, van de Wob. Er is sprake van onevenredige benadeling van eisers ten eerste omdat het onderliggende sanctiebesluit naar alle waarschijnlijkheid geen stand zal houden en ten tweede omdat openbaarmaking tot onevenredige schade voor eisers zal leiden. Die schade houdt in dat eisers hun bedrijfsvoering moeten aanpassen met alle kosten van dien, reputatieschade zal ontstaan en de verkoop van spellen mogelijk zal teruglopen. Tenslotte zal openbaarmaking een eerlijk proces belemmeren. Aangezien sprake is van een proefproces willen eisers de vraag of Packs een kansspel zijn eerst definitief beantwoord zien, dit onder meer ter voorkoming van “trial by media’, aldus eisers.       </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3</nr>
+      <parablock>
+        <para>Ingevolge artikel 8, eerste lid, van de Wob verschaft het bestuursorgaan dat het rechtstreeks aangaat, uit eigen beweging informatie over het beleid, de voorbereiding en de uitvoering daaronder begrepen, zodra dat in het belang is van een goede en democratische bestuursvoering. Ingevolge het tweede lid draagt het bestuursorgaan er zorg voor dat de informatie wordt verschaft in begrijpelijke vorm, op zodanige wijze, dat belanghebbende en belangstellende burgers zoveel mogelijk worden bereikt en op zodanige tijdstippen, dat deze hun inzichten tijdig ter kennis van het bestuursorgaan kunnen brengen.</para>
+        <para>Ingevolge artikel 10, tweede lid, aanhef en onder g, van de Wob blijft het verstrekken van informatie ingevolge deze wet achterwege voor zover het belang daarvan niet opweegt tegen het belang van het voorkomen van onevenredige bevoordeling of benadeling van bij de aangelegenheid betrokken natuurlijke personen of rechtspersonen dan wel van derden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.4</nr>
+      <para>De rechtbank overweegt dat op de openbaarmaking van de dwangsombesluiten de Wob van toepassing is en niet het bijzondere openbaarmakingsregime van de Wet financieel toezicht. Volgens vaste rechtspraak vormen de artikelen 8 en 10 van de Wob in het algemeen de basis om sanctiebesluiten volledig te publiceren en staat de omstandigheid dat een sanctie nog niet onherroepelijk is, niet aan publicatie in de weg. Van een proefproces is geen sprake nu een reëel besluit voorligt. Het past in het kader van de toezichthoudende taak van verweerder om sanctiebesluiten te publiceren zodat bekendheid wordt gegeven aan de wijze van uitvoering van deze taak en de consument wordt gewaarschuwd. De enkele stelling van eisers dat sprake is van détournement de pouvoir, omdat van publicatie van de bestreden besluiten een bestraffende werking uitgaat, volgt de rechtbank niet. Dat dit als zodanig door eisers wordt ervaren, doet er niet aan af dat verweerder dergelijke besluiten, anders dan uit het oogpunt van leedtoevoeging, neemt vanwege de waarschuwende functie die van openbaarmaking uit gaat en die passend is bij verweerders wettelijke taak om toezicht te houden op de naleving van regelgeving.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.5</nr>
+      <para>Op grond van artikel 10, tweede lid, aanhef en onder g, van de Wob, dient verweerder bij toepassing van deze uitzonderingsgrond een belangenafweging te verrichten, waarbij het algemene belang dat door de openbaarmaking wordt gediend, wordt afgewogen tegen het belang van eisers geen onevenredig nadeel te lijden als gevolg van de publicatie, waarbij aan het algemeen belang een groot gewicht moet worden toegekend. De rechtbank is met verweerder van oordeel dat eisers niet concreet hebben onderbouwd dat reputatieschade wordt geleden en daarvan (onevenredig) financieel nadeel wordt ondervonden<footnote-ref linkend="_37b35939-dc17-4248-8f9f-c2efaa431fdb" /> . Van onevenredige schade als gevolg van openbaarmaking is dan ook niet gebleken. Gelet hierop heeft verweerder in dit geval het algemeen belang bij openbaarmaking van het dwangsombesluit en het bestreden besluit I, te weten het informeren van de consument over, dan wel te waarschuwen voor handelspraktijken die in strijd zijn met de Wok, in redelijkheid zwaarder kunnen laten wegen dan het belang van eisers bij het uitblijven van reputatieschade. Voor geanonimiseerde of geparafraseerde openbaarmaking bestaat geen aanleiding<footnote-ref linkend="_dcc28cb5-f7d4-4ab1-bbc8-fe5c26388aff" />.</para>
+      <para />
+      <para>11. Op grond van het vorenstaande dienen de beroepen ongegrond te worden verklaard. Hetgeen meer of anders is aangevoerd leidt niet tot een ander oordeel. </para>
+      <para />
+      <para>12. Voor een proceskostenveroordeling bestaat geen aanleiding.  </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart de beroepen ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. D. Biever, voorzitter, mr. J.L.E. Bakels, rechter en mr. R. de Jong, rechter, in aanwezigheid van mr. B.M. van der Meide, griffier. De beslissing is in het openbaar uitgesproken op 15 oktober 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+  </section>
+  <footnote id="_dfa614c2-544a-4e22-aeb9-7f051cc05dc3" label="1">
+    <para> Zaaknummers: SGR 19/6975, 19/6976, 19/6977 en 19/6978.</para>
+  </footnote>
+  <footnote id="_82647756-4eff-4856-8458-ee52c7b0908f" label="2">
+    <para> Zaaknummers: SGR 20/3025, 20/3026, 20/3036 en 20/3039. </para>
+  </footnote>
+  <footnote id="_19a3432e-7703-4026-ae58-cc4c2a55afbb" label="3">
+    <para>HR 21 december 1965, <emphasis role="italic">NJ</emphasis> 1966, 364. </para>
+  </footnote>
+  <footnote id="_263298ac-7fee-450b-a125-11558880ebbb" label="4">
+    <para> Zie hiervoor bij voetnoot 3.</para>
+  </footnote>
+  <footnote id="_d6210507-1222-47a3-a3c4-7ce2e9c02286" label="5">
+    <para> HR 18 april 2014, ECLI:NL:HR:2014:938</para>
+  </footnote>
+  <footnote id="_466ae36c-ee12-4cce-93ba-3fc61de881bc" label="6">
+    <para> HR 31 januari 2012, ECLI:NL:HR:2012:BQ9251</para>
+  </footnote>
+  <footnote id="_67ceb602-2f3e-4952-bd5f-bfcce7418b68" label="7">
+    <para> Conclusie PG van 31 januari 2012, ECLI:NL:PHR:2012:BQ9251</para>
+  </footnote>
+  <footnote id="_f22d61ce-2fb7-430d-8e71-81c50dc5012b" label="8">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 28 juni 2017, ECLI:NL:RVS:2017:1719.</para>
+  </footnote>
+  <footnote id="_1f4075be-6def-475a-8378-1909fe8fa173" label="9">
+    <para> Verweerder heeft eisers daarover eerst bij brief van 26 april 2018 geïnformeerd. </para>
+  </footnote>
+  <footnote id="_37b35939-dc17-4248-8f9f-c2efaa431fdb" label="10">
+    <para> Zie de bij voetnoot 10 genoemde uitspraak. </para>
+  </footnote>
+  <footnote id="_dcc28cb5-f7d4-4ab1-bbc8-fe5c26388aff" label="11">
+    <para> Zie de uitspraak van de Afdeling van 29 september 2018, ECLI:NL:RVS:2018:3135.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

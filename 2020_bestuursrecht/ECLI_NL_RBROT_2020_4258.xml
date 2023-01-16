@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:4258</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-05T14:18:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#bodemzaak">Bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:4258">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:4258</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-05T14:16:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:4258 Rechtbank Rotterdam , 15-05-2020 / ROT 19/3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:4258:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wet ter voorkoming van witwassen en financieren van terrorisme - Boete omdat niet is voldaan aan de monitoringsverplichting, geen verscherpt cliëntenonderzoek is verricht en is verzuimd ongebruikelijke transacties te melden. Beroep ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:4258:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/3</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 15 mei 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , eiseres ( [eiseres] ), </bridgehead>
+    <para>gemachtigde: mr. J.W. Both,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het Bureau Financieel Toezicht, verweerder (BFT),</bridgehead>
+    <para>gemachtigde: mr. H.O. Nieuwpoort.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 juni 2018 (het primaire besluit) heeft het BFT aan [eiseres] een bestuurlijke boete van € 45.000,- opgelegd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 21 november 2018 (het bestreden besluit) heeft het BFT het daartegen door [eiseres] gemaakte bezwaar ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit heeft [eiseres] beroep ingesteld bij de rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het BFT heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 december 2019 (het wijzigingsbesluit) heeft het BFT de beslissing op het bezwaar van [eiseres] gewijzigd door de aan haar opgelegde boete te verlagen naar € 20.000,-. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 28 januari 2020. Namens [eiseres] is verschenen haar gemachtigde, vergezeld door [vennoot 1] en [vennoot 2] , vennoten van [eiseres] . Het BFT is ter zitting vertegenwoordigd door haar gemachtigde, vergezeld door mr. C.A. Reckweg, toezichthouder bij het BFT.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>
+        [eiseres] is een administratie- en belastingadvieskantoor met de hoofdvestiging in [plaatsnaam 1] en een vestiging in [plaatsnaam 2] . [eiseres] heeft voornamelijk MKB ondernemers, ZZP’ers en particulieren als klanten en levert onder andere de volgende diensten: het verzorgen van financiële administraties, het opstellen van jaarrekeningen, het verzorgen van fiscale aangiften en het verlenen van financieel advies. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Naar aanleiding van een bericht in de media in december 2016 over de veroordeling van twee [personen] uit [plaatsnaam 1] wegens witwassen, heeft het BFT bij de Belastingdienst geïnformeerd naar het advieskantoor dat de fiscale aangiften en administratie van de ondernemingen van deze twee [personen] verzorgt. Dit bleek [eiseres] te zijn. Het BFT heeft vervolgens in maart 2017 bij [eiseres] een onderzoek verricht naar de naleving van de Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft) in de dossiers van de twee [personen] . Dit betreffen het dossier van [klant 1] , en het dossier van [klant 2] . [eiseres] verzorgt onder meer de administratie en de fiscale aangiften van de eenmanszaak [van klant 1] . De dienstverlening van [eiseres] aan deze eenmanszaak is gestart in 2007. De dienstverlening van [eiseres] aan [klant 2] is gestart in april 2010. [klant 2] heeft sinds 1 december 1995 een eenmanszaak. [eiseres] verzorgt onder meer de administratie en de fiscale aangiften van deze eenmanszaak. Beide eenmanszaken zijn volgens de gegevens in de Kamer van Koophandel actief in de bouw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Uit het onderzoek is volgens het BFT naar voren gekomen dat [eiseres] in beide dossiers niet heeft voldaan aan de verplichting tot het verrichten van een cliëntenonderzoek als bedoeld in artikel 3, eerste lid en tweede lid, aanhef en onder a, en artikel 4, eerste lid,  van de Wwft. Verder heeft [eiseres] volgens het BFT in beide dossiers niet voldaan aan de monitoringsverplichting van artikel 3, tweede lid, aanhef en onder d, van de Wwft en ten onrechte geen verscherpt cliëntenonderzoek als bedoeld in artikel 8, eerste lid, van deze wet verricht. Ook heeft [eiseres] volgens het BFT in beide dossiers verzuimd ongebruikelijke transacties overeenkomstig artikel 16 , eerste lid, van de Wwft (tijdig) te melden aan de Financiële inlichtingen eenheid.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boete voor overtredingen van de Wwft</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Na op 16 maart 2018 het voornemen daartoe aan [eiseres] kenbaar te hebben gemaakt en kennis te hebben genomen van de zienswijze van [eiseres] daarop van 13 april 2018, heeft het BFT wegens voormelde overtredingen aan [eiseres] bij het primaire besluit een bestuurlijke boete van € 45.000,- opgelegd. Bij het bestreden besluit heeft het BFT het daartegen door [eiseres] gemaakte bezwaar ongegrond verklaard. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Bij het wijzigingsbesluit heeft het BFT de aan [eiseres] opgelegde boete verlaagd naar € 20.000,-. Dit omdat op grond van artikel 5:46, vierde lid, van de Algemene wet bestuursrecht (Awb), in samenhang met artikel 1, tweede lid, van het Wetboek van Strafrecht, bij verandering van wetgeving na het tijdstip waarop de overtreding is begaan de voor de overtreder gunstigste bepalingen dienen te worden toegepast. De aan [eiseres] opgelegde boete van € 45.000,- is tot stand is gekomen door toepassing van het huidige boetebeleid van het BFT, terwijl ten tijde van de hier begane overtredingen andere</para>
+        <para>(vaste) uitgangspunten werden gehanteerd bij het bepalen van de hoogte van de boete en met toepassing daarvan aan [eiseres] een boete zou zijn opgelegd van € 20.000,-. Van deze uitgangspunten heeft het BFT ter zitting een afschrift overgelegd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het wijzigingsbesluit komt niet geheel tegemoet aan de bezwaren van [eiseres] tegen het bestreden besluit, zodat haar beroep op grond van artikel 6:19, eerste lid, van de Awb van rechtswege mede betrekking heeft op dit wijzigingsbesluit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Cliëntenonderzoek</emphasis>
+        </para>
+        <para>3.	[eiseres] betoogt dat zij heeft voldaan aan de verplichting [klant 1] en [klant 2] te identificeren en hun identiteit te verifiëren en dat zij niet hoeft te kunnen aantonen dat zij te allen tijde over een identiteitsbewijs van beiden heeft beschikt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <parablock>
+        <para>Op grond van artikel 3, eerste lid, van de Wwft verricht een instelling ter voorkoming van witwassen en financieren van terrorisme cliëntenonderzoek.</para>
+        <para>Op grond van het tweede lid, aanhef en onder a, van dit artikel stelt het cliëntenonderzoek de instelling in staat om de cliënt te identificeren en diens identiteit te verifiëren.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 4, eerste lid, van de Wwft voldoet een instelling aan artikel 3, tweede lid, onderdeel a, voordat de zakelijke relatie wordt aangegaan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 33, eerste lid, van de Wwft, zoals dit luidde ten tijde van belang, legt een instelling die op grond van deze wet een persoon heeft geïdentificeerd en zijn identiteit heeft geverifieerd op opvraagbare wijze de volgende gegevens vast:</para>
+        <para>a. van natuurlijke personen:</para>
+        <para>1°. de geslachtsnaam, de voornamen, de geboortedatum, het adres en de woonplaats dan wel plaats van vestiging van de cliënt alsmede van degene die namens die natuurlijke persoon optreedt of een afschrift van het document dat een persoonidentificerend nummer bevat en aan de hand waarvan de identificatie heeft plaatsgevonden;</para>
+        <para>2°. de aard, het nummer en de datum en plaats van uitgifte van het document met behulp waarvan de identiteit is geverifieerd;</para>
+        <para>3°. de aard van de dienstverlening;</para>
+        <para>Op grond van het vierde lid van dit artikel, zoals dit luidde ten tijde van belang, bewaart een instelling de in het eerste tot en met derde lid bedoelde gegevens op toegankelijke wijze gedurende vijf jaar na het tijdstip van het beëindigen van de zakelijke relatie of tot vijf jaar na het uitvoeren van de desbetreffende transactie.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Gelet op artikel 33, eerste en vierde lid, van de Wwft moet [eiseres] , anders dan zij kennelijk meent, kunnen aantonen dat zij, overeenkomstig artikel 3, eerste lid en tweede lid, aanhef en onder a, en artikel 4, eerste lid, van de Wwft, [klanten 1 en 2] heeft geïdentificeerd en hun identiteit heeft geverifieerd voordat de zakelijke relatie met hen werd aangegaan (vergelijk de uitspraak van het College van Beroep voor het bedrijfsleven (CBb) van 29 juni 2017, ECLI:NL:CBB:2017:235, r.o. 6).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Niet is in geschil dat de dienstverlening van [eiseres] aan de eenmanszaak van [klant 1] in 2007 en aan de eenmanszaak van [klant 2] in april 2010 is gestart. Met het BFT is de rechtbank van oordeel dat aan de hand van de door [eiseres] na het onderzoek ter plaatse aan het BFT toegestuurde kopieën van de identiteitsbewijzen van [klant 1] en [klant 2] in beide dossiers niet kan worden vastgesteld dat tijdig, dus voor aanvang van de zakelijke relatie, is voldaan aan de verplichting tot identificatie en verificatie, nu op deze kopieën niet is vermeld wanneer de identificatie heeft plaatsgevonden en daaruit blijkt dat het identiteitsbewijs aan [klant 1] op 2 februari 2016 en aan [klant 2] op 4 juli 2016 is afgegeven. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Anders dan [eiseres] kennelijk beoogt te stellen, is niet jaarlijks bij de opdracht tot het verzorgen van de aangifte IB voor [klanten 1 en 2] sprake van het aangaan van een (nieuwe) zakelijk relatie met hen, waarbij telkens opnieuw om een kopie van hun identiteitsbewijs moet worden gevraagd. Gelet op de jarenlange relatie tussen [eiseres] en [klanten 1 en 2] , acht de rechtbank ook niet aannemelijk dat [eiseres] , zoals zij stelt, [klanten 1 en 2] jaarlijks bij het aanvaarden en uitvoeren van de opdracht tot het verzorgen van de aangifte IB om een kopie van hun identiteitsbewijzen vroeg en dat zij de oude, het jaar daarvoor verkregen kopieën vernietigde. Overigens verzorgde [eiseres] ook de administratie van de eenmanszaken en bleven de werkzaamheden van [eiseres] , anders dan zij doet voorkomen, dus niet beperkt tot het verzorgen van de aangifte IB.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>Het betoog faalt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Monitoringsverplichting en verscherpt cliëntenonderzoek</emphasis>
+        </para>
+        <para>4.	[eiseres] betoogt dat uit niets blijkt dat zij tijdens de duur van de jaarlijks terugkerende opdracht tot het verzorgen van de aangifte IB voor [klanten 1 en 2] onvoldoende voortdurende controle op de relatie en transacties heeft uitgeoefend. Ook is er volgens [eiseres] geen moment geweest tijdens de uitvoering van de jaarlijkse opdrachten dat zij, gezien de zakelijke relatie of transactie, wist dat naar de aard ervan een hoger risico op witwassen aanwezig zou zijn. Voor zover de verplichting tot een verscherpt cliëntenonderzoek bestond, heeft zij met haar brief van 25 oktober 2016 aan [klant 2] daaraan voldaan, aldus [eiseres] . </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>Op grond van artikel 3, eerste lid, van de Wwft verricht een instelling ter voorkoming van witwassen en financieren van terrorisme cliëntenonderzoek.</para>
+        <para>Op grond van het tweede lid, aanhef en onder d, van dit artikel stelt het cliëntenonderzoek de instelling in staat om een voortdurende controle op de zakelijke relatie en de tijdens de duur van deze relatie verrichte transacties uit te oefenen, teneinde te verzekeren dat deze overeenkomen met de kennis die de instelling heeft van de cliënt en diens risicoprofiel, met zo nodig een onderzoek naar de bron van de middelen die bij de zakelijke relatie of de transactie gebruikt worden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 8, eerste lid, van de Wwft verricht een instelling, in aanvulling op artikel 3, tweede tot en met vierde lid, verscherpt cliëntenonderzoek in ten minste de volgende gevallen:</para>
+        <para>a. indien de zakelijke relatie of transactie naar haar aard een hoger risico op witwassen of financieren van terrorisme met zich brengt;</para>
+        <para>(…). </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Dossier [klant 1]</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Het BFT heeft zich onder verwijzing naar een (blijkens een bijlage bij het bezwaarschrift op 10 augustus 2016 gedateerde) e-mail van een medewerker van [eiseres] aan [klant 1] op het standpunt gesteld dat [eiseres] in het dossier [klant 1] , gezien de verplichting tot voortdurende controle als bedoeld in artikel 3, tweede lid, aanhef en onder d, van de Wwf, een hoger risico op witwassen had moeten onderkennen en een verscherpt cliëntenonderzoek had moeten verrichten, waarbij onderzoek naar de bron van de middelen was aangewezen. Uit deze e-mail blijkt dat [eiseres] van mening was dat de administratie “verre van compleet” was en dat er alleen een uitdraai was van bankmutaties, zonder onderbouwende stukken. Verder blijkt uit de e-mail dat [eiseres] onbekend was met een hypotheek in [land] , waarvoor ten behoeve van de aflossing een betaling was verricht aan de [bank] , en dat zij niet kon achterhalen wat de stand was van de leningen van [(rechts)personen] . De medewerker concludeert in de mail dat [eiseres] niet achter een belastingaangifte kan staan die is gebaseerd op zoveel onduidelijke zaken. Uiteindelijk is er toch aangifte IB gedaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De rechtbank onderschrijft het standpunt van het BFT dat [eiseres] in de in de e-mail geschetste omstandigheden aanleiding had moeten zien voor verder onderzoek en dat [eiseres] door dat onderzoek niet te verrichten niet heeft voldaan aan artikel 3, tweede lid, aanhef en onder d, van de Wwft en artikel 8 van deze wet. Het BFT stelt zich terecht op het standpunt dat [eiseres] had moeten doorvragen naar (stukken aangaande) de hypotheek in [land] en had moeten verlangen dat er een sluitende administratie zou worden overgelegd en dat opheldering zou worden gegeven over de stand van de genoemde leningen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Dossier [klant 2]</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Het BFT heeft zich onder verwijzing naar een brief van 25 oktober 2016 van een van de vennoten van [eiseres] aan [klant 2] op het standpunt gesteld dat [eiseres] in het dossier [klant 2] , gezien de verplichting tot voortdurende controle als bedoeld in artikel 3, tweede lid, aanhef en onder d, van de Wwf, een hoger risico op witwassen had moeten onderkennen en een verscherpt cliëntenonderzoek had moeten verrichten, waarbij onderzoek naar de bron van de middelen was aangewezen. Uit deze brief blijkt dat de desbetreffende vennoot van mening was dat sprake was van tekortkomingen in de administratie voor wat betreft leningen en daarmee samenhangend de privé opnamen. De leningen zijn niet juist of niet in het juiste jaar verwerkt, wat ook gold voor de onroerende zaken. De brief vermeldt verder: “U heeft bij ons weliswaar nadere gegevens aangeleverd, doch ook dan blijven wij met de nodige verschillen en vragen zitten omdat naar onze mening de lasten van de woning en de overige privé opnamen niet betaald kunnen zijn vanuit de inkomsten, ondanks het feit dat u stelt dat dit wel zo is en deze o.a. zijn voldaan uit huurinkomsten e.d.” Deze brief is aan [klant 2] gestuurd met het verzoek deze ondertekend weer bij [eiseres] in te leveren om eventuele aansprakelijkheid van [eiseres] wat betreft de cijfers af te wentelen en te verklaren dat deze geheel voor zijn verantwoordelijkheid zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>De rechtbank onderschrijft het standpunt van het BFT dat [eiseres] in de in de brief geschetste omstandigheden aanleiding had moeten zien voor verder onderzoek en dat [eiseres] door dat onderzoek niet te verrichten niet heeft voldaan aan artikel 3, tweede lid, aanhef en onder d, van de Wwft en artikel 8 van deze wet. Het BFT stelt zich terecht op het standpunt dat [eiseres] niet heeft kunnen volstaan met deze brief, maar had moeten doorvragen naar hoe de lasten van de woning en de overige privé opnamen zijn bekostigd, waarbij tevens om een onderbouwing had moeten worden gevraagd. De stelling van [eiseres] dat zij de mededeling van [klant 2] dat hij ook leefde van huurinkomsten afdoende achtte om met de aangifte IB door te gaan, laat onverlet dat zij, zoals ook blijkt uit de brief van 25 oktober 2016, ondanks die mededeling met “de nodige verschillen en vragen” bleef zitten en dat zij dus verder, verscherpt cliëntenonderzoek had moeten verrichten, zoals is vereist op grond van artikel 8, eerste lid, aanhef en onder a, van de Wwft.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Het betoog faalt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Meldingsplicht</emphasis>
+        </para>
+        <para>5.	[eiseres] betoogt dat in beide dossiers geen vermoeden van witwassen bestond en dat zij dus niet, zoals het BFT meent, een melding van ongebruikelijke transacties had moeten doen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Op grond van artikel 16, eerste lid, van de Wwft meldt een instelling een verrichte of voorgenomen ongebruikelijke transactie onverwijld nadat het ongebruikelijke karakter van de transactie bekend is geworden, aan de Financiële inlichtingen eenheid. </para>
+      <para />
+      <parablock>
+        <para>Op basis van artikel 15, eerste lid, van de Wwft zijn in het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme (Uitvoeringsbesluit Wwft), zoals dit gold ten tijde van belang, indicatoren vastgesteld aan de hand waarvan wordt beoordeeld of een transactie dient te worden aangemerkt als een ‘ongebruikelijke transactie’. In de bijlage bij het Uitvoeringsbesluit Wwft is de volgende indicator vastgesteld: “een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme”. Als hulpmiddel om te bepalen of hiervan sprake is, heeft het BFT de Specifieke leidraad naleving WWFT voor accountants, belastingadviseurs, administratiekantoren en alle overige instellingen zoals genoemd in artikel 1, lid 1, letter a, sub 11, 12, 13 en 23 WWFT (de Leidraad) opgesteld. In bijlage 1 van de Leidraad van 15 juli 2014 zijn voorbeelden opgenomen waarmee is beoogd instellingen een handreiking te geven hoe zij ongebruikelijke transacties kunnen herkennen. Het betreft onder meer de volgende voorbeelden: </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>E1: De cliënt heeft voorkeur voor activa die geen sporen achterlaten, zoals contant geld, toonderpapier, toonderpolissen.</para>
+        <para>E3: Het betaalverkeer vertoont een ongebruikelijk patroon. De gelden waarover de cliënt beschikt zijn afkomstig uit onduidelijke bronnen of de door de cliënt aangegeven bronnen zijn onwaarschijnlijk of onvoldoende gedocumenteerd.</para>
+        <para>J2: Er is een onverklaarbare discrepantie tussen geld en goederenstroom.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Dossier [klant 1]</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Het BFT heeft zich, onder verwijzing naar voorbeelden E3 en J2 uit bijlage 1 van de Leidraad, op het standpunt gesteld dat [eiseres] in diverse omstandigheden, in samenhang bezien met de in 4.2. genoemde incomplete administratie, aanleiding had moeten zien in het dossier [klant 1] melding te maken van ongebruikelijke transacties. Daarbij heeft het BFT erop gewezen dat uit de administratie (auditfile) over 2014 blijkt dat er door [de eenmanszaak van klant 1] elf verkoopfacturen zijn uitgereikt aan een cliënt voor een totaalbedrag van € 26.660,-, terwijl hier geen inkoopfacturen tegenover staan, wat ongebruikelijk is. De (verkoop)facturen zijn gedurende het jaar 2014 door [eiseres] ingevoerd tijdens het verwerken van de administratie. Ook begin 2015 had [eiseres] dit kunnen zien bij het uitvoeren van de samenstelopdracht, aldus het BFT. Verder heeft het BFT erop gewezen dat uit de auditfile over 2015 is gebleken dat er zeven verkoopfacturen zijn uitgeschreven voor een totaalbedrag van € 40.300,- aan een garagebedrijf in de Verenigde Arabische Emiraten (de VAE), terwijl ook hier geen inkoopfacturen tegenover staan. Bovendien is het volgens het BFT ongebruikelijk dat een bouwbedrijf facturen (zeker van deze omvang) uitschrijft aan een garagebedrijf in de VAE. Deze facturen heeft [eiseres] ingevoerd tijdens het verwerken van de administratie gedurende het jaar 2015. Ook bij het uitvoeren van de samenstelopdracht had dit kunnen worden opgemerkt, aldus het BFT.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Met het BFT is de rechtbank van oordeel dat [eiseres] in deze door haar niet betwiste omstandigheden aanleiding had moeten zien om in het dossier [van klant 1] bij de Financiële inlichtingen eenheid melding te maken van ongebruikelijke transacties. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Dossier [klant 2]</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <parablock>
+        <para>Het BFT heeft zich, onder verwijzing naar voorbeelden E1, E3 en J2 uit bijlage 1 van de Leidraad, op het standpunt gesteld dat [eiseres] in diverse omstandigheden aanleiding had moeten zien in het dossier [klant 2] melding te maken van ongebruikelijke transacties. Daarbij heeft het BFT erop gewezen dat uit de administratie (auditfile) over 2014 blijkt dat meer dan de helft van de omzet ad € 48.279,-, waarvoor zeventien facturen waren uitgeschreven, contant (€ 25.905,-) was betaald. Verder werden er tot en met september 2014 maandelijks facturen uitgeschreven, terwijl er daarna geen omzet meer is gefactureerd, en stonden tegenover de omzet geen inkoopfacturen, wat ongebruikelijk is. De (verkoop)facturen zijn gedurende het jaar 2014 door [eiseres] ingevoerd tijdens het</para>
+        <para>verwerken van de administratie. Ook begin 2015 had dit kunnen worden opgemerkt bij het uitvoeren van de samenstelopdracht, aldus het BFT.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Met het BFT is de rechtbank van oordeel dat [eiseres] in de door haar niet betwiste omstandigheden dat sprake was van een omzet die voor meer dan de helft uit contanten bestond, dat er tegenover de omzet geen inkoopfacturen stonden en dat er na september 2014 geen omzet meer is gefactureerd, aanleiding had moeten zien om in het dossier [van klant 2] bij de Financiële inlichtingen eenheid melding te maken van ongebruikelijke transacties. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>Het betoog faalt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Verwijtbaarheid</emphasis>
+        </para>
+        <para>6.	Met haar beroepsgronden over de inbeslagname van de administratie van [klanten 1 en 2] door de Fiscale Inlichtingen- en Opsporingsdienst (FIOD) betoogt [eiseres] , naar de rechtbank begrijpt, dat haar de overtredingen in het kader van de monitoringsverplichting, het verscherpt cliëntenonderzoek en de meldingsplicht niet kunnen worden verweten.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>De administratie van [klanten 1 en 2] die de FIOD bij de inval op 20 januari 2015 bij [eiseres] in beslag heeft genomen betreft het boek- en fiscale jaar 2014, zoals ter zitting desgevraagd door [vennoot 1] is bevestigd. De aangiftes IB voor [klanten 1 en 2] voor dat jaar heeft [eiseres] blijkens de bijlagen bij haar bezwaarschrift gedaan op 11 mei 2016 ( [klant 1] ) en 8 augustus 2016 ( [klant 2] ). De aangiftes IB voor [klanten 1 en 2] voor het jaar 2015 heeft [eiseres] blijkens deze bijlagen gedaan op 29 augustus 2016 ( [klant 1] ) en 31 oktober 2016 ( [klant 2] ). Gezien deze data moet de hiervoor in 4.2 genoemde e-mail van 10 augustus 2016 van een medewerker van [eiseres] aan [klant 1] de aangifte IB voor het jaar 2015 betreffen, wat [vennoot 1] ter zitting ook heeft bevestigd. Ook de hiervoor in 4.4 genoemde brief van 25 oktober 2016 van een van de vennoten van [eiseres] aan [klant 2] moet gezien de data van de aangiftes de aangifte IB voor het jaar 2015 betreffen. Tussen de inbeslagname van de administratie van [klanten 1 en 2] betreffende het boek- en fiscale jaar 2014 en de door [eiseres] begane overtredingen in het kader van de monitoringsverplichting en het verscherpt cliëntenonderzoek kan, anders dan [eiseres] doet voorkomen, dan ook geen verband worden gelegd. Dit geldt ook voor de door [eiseres] begane overtredingen in het kader van de meldingsplicht. Weliswaar gaat het daarbij (ook) om facturen uit 2014, maar [eiseres] heeft niet weersproken dat zij deze facturen gedurende het jaar 2014 heeft ingevoerd tijdens het verwerken van de administratie en dus daarvan kennis moet hebben genomen.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Het betoog faalt. 	</para>
+      <para />
+      <para>7. Ook faalt het betoog van [eiseres] dat, nu [klanten 1 en 2] kennelijk al in beeld waren bij de FIOD en het openbaar ministerie, bezwaarlijk van haar kon worden verlangd een melding te doen als bedoeld in artikel 16, eerste lid, van de Wwft. Zoals volgt uit de uitspraak van het CBb van 13 september 2016 (ECLI:NL:CBB:2016:305, r.o. 5.2.), ontslaat deze omstandigheid [eiseres] niet van haar meldingsplicht. Ook bestaat er geen grond om [eiseres] te volgen in haar ter zitting ingenomen standpunt dat het BFT in beleid kenbaar had moeten maken dat de meldingsplicht onder dergelijke omstandigheden onverkort geldt. Artikel 16, eerste lid, van de Wwft, waarin met betrekking tot de meldingsplicht geen voorbehouden zijn gemaakt, is voldoende duidelijk.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Cautie</emphasis>
+        </para>
+      </parablock>
+      <para>8. Het betoog van [eiseres] dat ten onrechte geen cautie is gegeven, wat daarvan ook zij, kan haar niet baten, nu het BFT aan de boetoplegging geen verklaringen van de zijde van [eiseres] ten grondslag heeft gelegd, maar alleen informatie uit de door haar van [eiseres] verkregen dossiers van [klanten 1 en 2] . Deze dossiers betreffen wilsonafhankelijk materiaal. De verkrijging van dergelijk materiaal langs de weg van een ingevolge respectievelijk artikel 5:16 en artikel 5:17 van de Awb gedane vordering inlichtingen te verstrekken of inzage te geven in zakelijke gegevens en bescheiden, waaraan op grond van artikel 5:20 van de Awb medewerking moet worden verleend, levert geen schending op van het recht om geen bewijs tegen zichzelf te hoeven leveren, ook niet indien van die vordering dwang zou uitgaan (vergelijk de uitspraak van het CBb van 7 mei 2019,  ECLI:NL:CBB:2019:177). Gelet hierop kan de stelling van [eiseres] dat [vennoot 1] de hiervoor in 4.4 genoemde brief van 25 oktober 2016 niet aan het BFT zou hebben verstrekt indien de cautie was gegeven, haar evenmin baten. De eerst ter zitting door [eiseres] ingenomen stelling dat deze brief geen deel uitmaakte van de verstrekte dossiers, maar door [vennoot 1] naar aanleiding van het gesprek op zijn kantoor met de toezichthouders van het BFT is verstrekt, biedt geen grond voor een ander oordeel. Volgens het (definitieve) onderzoeksrapport van 9 maart 2018 betrof dit niet meer dan een algemeen gesprek. Voorts heeft een van deze toezichthouders ter zitting verklaard dat de brief is aangetroffen in een dossier dat op het kantoor van [eiseres] aan hem is verstrekt. De rechtbank ziet geen aanleiding hieraan te twijfelen. Grond om aan te nemen dat, zoals [eiseres] kennelijk heeft beoogd te stellen, een verklaring van [vennoot 1] tijdens het gesprek met de toezichthouders heeft bijgedragen aan het verkrijgen van de brief van 25 oktober 2016 door het BFT, acht de rechtbank dan ook niet aanwezig.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boetehoogte</emphasis>
+        </para>
+      </parablock>
+      <para>9. De rechtbank volgt [eiseres] niet in haar betoog dat de in de v.o.f. genoten huurinkomsten bij de vaststelling van de draagkracht buiten beschouwing moeten worden gelaten. De betekenis van de draagkracht voor het bepalen van de boetehoogte is beperkt tot het beantwoorden van de vraag of aanleiding bestaat een aan de ernst, duur en verwijtbaarheid van de overtreding evenredige boete te matigen. Daartoe kan aanleiding bestaan indien deze boete, gelet op de hoogte daarvan, onevenredige gevolgen heeft voor de overtreder. Niet alleen de omzet behaald met de dienstverlening als administratie- en belastingadvieskantoor, maar ook de overige gegevens over de financiële positie van [eiseres] zijn relevant voor de vraag of [eiseres] door de hoogte van de boete onevenredig wordt getroffen en of de boete al dan niet moet worden verlaagd. Zou het standpunt van [eiseres] worden gevolgd, dan zou dit onder omstandigheden ernstig afbreuk kunnen doen aan het punitieve karakter van de boete (vergelijk de uitspraak van deze rechtbank van 3 augustus 2017, ECLI:NL:RBROT:2017:7264, r.o. 6.4.). Overigens bedroegen de huurinkomsten destijds, naar ter zitting is gebleken, slechts 10% van de totale inkomsten van [eiseres] en heeft [eiseres] niet gesteld dat zij de boete niet kan dragen.  </para>
+      <para>Te minder nu de boete bij het wijzigingsbesluit is verlaagd naar € 20.000,-, ziet de rechtbank evenmin grond om [eiseres] te volgen in haar verder niet toegelichte standpunt dat het BFT bij het vaststellen van de hoogte van de boete onvoldoende rekening heeft gehouden met de in artikel 1b, eerste lid, van het Besluit bestuurlijke boetes financiële sector genoemde omstandigheden. Dat volgens een brief van de Nederlandse orde van administratie- en belastingdeskundigen van 16 januari 2019 na een op 9 november 2018 uitgevoerde herkwalificatie is geconstateerd dat door [eiseres] wordt voldaan aan toepassing van de Wwft, leidt niet tot een ander oordeel. Daartoe is [eiseres] te allen tijde verplicht.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>10. Het beroep van [eiseres] tegen het bestreden besluit is niet ontvankelijk voor zover gericht tegen de boetehoogte, nu het BFT dat besluit in zoverre heeft ingetrokken. Voor het overige is het beroep ongegrond. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Griffierecht en proceskosten</emphasis>
+        </para>
+      </parablock>
+      <para>11. Omdat het beroep heeft geleid tot gedeeltelijke intrekking van het bestreden besluit, bepaalt de rechtbank dat het BFT aan [eiseres] het door haar betaalde griffierecht vergoedt. </para>
+      <para />
+      <para>12. Om dezelfde reden veroordeelt de rechtbank het BFT op grond van artikel 8:75, eerste lid, van de Awb in de door [eiseres] in beroep gemaakte kosten voor de door een derde beroepsmatig verleende rechtsbijstand. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht (Bpb) vast op € 1.575,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en wegingsfactor 1,5).</para>
+      <para />
+      <parablock>
+        <para>Gelet op artikel 8:75, eerste lid, gelezen in samenhang met artikel 7:15, derde lid, van de Awb, kunnen de in bezwaar gemaakte kosten slechts voor vergoeding in aanmerking komen, indien daarom is verzocht voordat op het bezwaar is beslist. Nu in bezwaar door [eiseres] geen verzoek is gedaan om vergoeding van in bezwaar gemaakte kosten, komen deze kosten, anders dan zij meent, niet voor vergoeding in aanmerking. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ook de voor het indienen van de zienswijze gemaakte kosten komen, anders dan [eiseres] meent, niet voor vergoeding in aanmerking, nu artikel 8:75, eerste lid, van de Awb daarin niet voorziet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Over de middels het door [eiseres] ter zitting overgelegde formulier proceskosten verzochte vergoeding van reis- en verletkosten heeft het BFT terecht opgemerkt dat vergoeding van reiskosten op basis van openbaar vervoer het uitgangspunt is en dat bij niet gespecificeerde verletkosten in verband met het bijwonen van de zitting moet worden uitgegaan van het minimumtarief uit artikel 2, eerste lid, aanhef en onder d, van het Bpb, waarbij geldt dat eventuele kosten die zijn gemaakt in verband met de voorbereiding van de zitting niet vallen onder de kosten in verband met het bijwonen van de zitting.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Nu niet is gebleken dat de kosten voor het reizen met het openbaar vervoer voor de twee ter zitting verschenen vennoten van [eiseres] lager liggen dan de door hen opgegeven kosten van </para>
+        <para>€ 100,- voor het reizen met de auto, komt € 100,- aan reiskosten voor vergoeding in aanmerking. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Nu het voor de verletkosten in verband met het bijwonen van de zitting opgegeven bedrag van € 475,- (5 uren) niet met bewijsstukken is onderbouwd, gaat de rechtbank bij de bepaling van de vergoeding voor de verletkosten uit van de in artikel 2, eerste lid, aanhef en onder d, van het Bpb vermelde laagste forfaitaire vergoeding van € 7,00 per uur. Nu het geclaimde tijdsbeslag van vijf uur de rechtbank, gelet op de duur van de zitting en de reisafstand, niet onredelijk voorkomt, betekent dit dat aan verletkosten voor de twee vennoten € 70,- (5x7x2) voor vergoeding in aanmerking komt. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het totaal te vergoeden bedrag aan proceskosten komt dus op € 1.745,-.</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para>- verklaart het beroep tegen het bestreden besluit niet ontvankelijk voor zover gericht tegen de boetehoogte;</para>
+    <para>- verklaart het beroep voor het overige ongegrond;</para>
+    <para>- bepaalt dat het BFT het door [eiseres] betaalde griffierecht van € 338,- vergoedt;</para>
+    <para>- veroordeelt het BFT in de proceskosten van [eiseres] tot een bedrag van € 1.745,-.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.J. Spengen, rechter, in aanwezigheid van </para>
+      <para>mr. M.J.F.J. van Beek, griffier. De uitspraak is gedaan op 15 mei 2020.</para>
+      <para>Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken<emphasis role="bold">.</emphasis></para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">de griffier is buiten staat			de rechter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

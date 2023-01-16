@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:5885</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-08T17:00:30</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/4914</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5885">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5885</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-07T07:37:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:5885 Rechtbank Rotterdam , 08-07-2020 / ROT 19/4914</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:5885:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>BC; boete wegens het niet beschikken over geldige certificaten van goedkeuring van een aangewezen instelling of daarmee gelijkgestelde certificaten; boetebesluit is bevoegd genomen; cautie; Dienstenrichtlijn; boete terecht opgelegd; beroep ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:5885:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/4914</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 8 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [plaats] , eiseres,</bridgehead>
+    <para>gemachtigde: mr. A. van Lohuizen,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verweerder] , verweerder,</bridgehead>
+    <para>gemachtigde: mr. J.S. Boer.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 mei 2019 (het primaire besluit) heeft verweerder eiseres een boete opgelegd van € 2.100,-.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 augustus 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft bij brief van 2 juni 2020 een reactie op het verweerschrift gegeven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben toestemming verleend om zonder zitting uitspraak op het beroep te doen.  </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiseres exploiteert een tankstation. Op het buitenterrein van eiseres zijn vier verschillende speeltoestellen aanwezig, te weten een trampoline, een zogenoemde dierenspeelkubus, een zogenoemd combispeeltoestel met glijbaan en vogelnetschommel en een speelbos met onder meer klimtouwen, een klimtoestel, evenwichtsbalken en een speelhuisje. Op 12 september 2018 heeft een inspecteur van de Nederlandse Voedsel- en Warenautoriteit (NVWA) deze speeltoestellen geïnspecteerd. De bevindingen van de inspecteur zijn neergelegd in het Rapport van bevindingen van 29 maart 2019. Op basis daarvan heeft verweerder de bij het bestreden besluit gehandhaafde boete opgelegd.</para>
+    <para />
+    <para>2. Het bestreden besluit berust op verweerders standpunt dat eiseres voor de speeltoestellen niet beschikt over geldige certificaten van goedkeuring van een aangewezen instelling of een daarmee gelijkgesteld certificaat. Verweerder heeft eiseres een boete van € 2.100,- opgelegd wegens het viermaal overtreden van artikel 3a, in samenhang gelezen met artikel 14a, van het Warenwetbesluit attractie- en speeltoestellen (Was). </para>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Eiseres voert als beroepsgrond aan dat het besluit namens [verweerder] is genomen. Volgens de Warenwet is echter de Minister van Volksgezondheid, Welzijn en Sport, en in uitzonderingsgevallen de Minister van Sociale Zaken en Werkgelegenheid, bevoegd tot boeteoplegging op grond van deze wet. Dit betekent dat [verweerder] niet bevoegd was de boete op te leggen. Verder vraagt eiseres zich af of de vereiste mandaatbesluiten aanwezig zijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Naar het oordeel van de rechtbank zijn het primaire besluit en het bestreden besluit bevoegd genomen. Uit de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 10 oktober 2001 (ECLI:NL:RVS:2001:AD4637) volgt dat, als uit een departementale indeling een andere bevoegde bewindspersoon blijkt dan uit de wet zelf, dat niet afdoet aan de bevoegdheid van die andere bewindspersoon. Uit de door het Kabinet Rutte III gemaakte portefeuilleverdeling blijkt dat voor toezicht op de voedselkwaliteit en NVWA [verweerder] de bevoegde minister is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>De enkele twijfel van eiseres of de vereiste mandaatbesluiten aanwezig zijn, levert geen beroepsgrond op. Mandaatbesluiten moeten bekend worden gemaakt om in werking te treden en worden daartoe gepubliceerd. Gelet daarop lag het op de weg van de gemachtigde van eiseres om na te gaan of er een mandaatbesluit is genomen en of dat toereikend is en daar vervolgens een standpunt over in te nemen. Daarbij is van belang dat de vraag of verweerder de juiste natuurlijke persoon heeft gemandateerd om namens hem te beslissen, door de rechter niet ambtshalve behoeft te worden beantwoord. Overigens heeft verweerder in het verweerschrift, onder verwijzing naar een mandaatbesluit, gesteld dat er een toereikend mandaat is verleend. Eiser heeft dit in zijn reactie op het verweerschrift niet betwist.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Eiseres betoogt dat de inspecteur van de NVWA tijdens de inspectie ten onrechte niet de cautie heeft verleend aan de heer [naam persoon] , bestuurder van eiseres. Nu de verklaringen van [naam persoon] niettemin aan de boete ten grondslag zijn gelegd, kan het bestreden besluit volgens eiseres niet in stand blijven. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De enige relevante verklaring van [naam persoon] die aan de boete ten grondslag is gelegd, is dat hij niet beschikte over certificaten van goedkeuring. Dat eiseres niet beschikte over certificaten van goedkeuring, is een feit dat onafhankelijk van de wil van eiseres bestond. Reeds daarom behoefde de toezichthouder voorafgaand aan zijn vraag naar de certificaten van goedkeuring, aan eiseres niet de cautie te verlenen. Maar ook overigens bestond daartoe geen grond omdat op dat moment slechts onderzocht werd of sprake was van een overtreding. Naar objectieve maatstaven kon door een redelijk waarnemer niet worden vastgesteld dat [naam persoon] werd verhoord met het oog op het aan hem opleggen van een bestraffende sanctie (zie de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 27 juni 2018, ECLI:NL:RVS:2018:2115). Er bestaat dan ook geen grond voor het oordeel dat ten onrechte geen cautie is verleend aan [naam persoon] en dat zijn verklaringen ten onrechte aan de boete ten grondslag zijn gelegd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Eiseres voert aan dat de in artikel 14a van het WAS neergelegde verplichting dat iedereen die een attractie- of speeltoestel voorhanden heeft over een geldig certificaat van goedkeuring van een aangewezen instelling of een gelijkgesteld certificaat moet beschikken, een handelsbelemmering betreft omdat deze ook geldt voor (tijdelijke) dienstverleners uit andere Lidstaten. Omdat geen rechtvaardigingsgrond voor deze specifieke beperkende regeling is gegeven, dient deze vanwege strijd met de Dienstenrichtlijn onverbindend te worden verklaard. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Aan toetsing aan de Dienstenrichtlijn kan slechts worden toegekomen indien en voor zover die richtlijn niet of op onjuiste wijze is omgezet in Nederlandse wet- en regelgeving. De Dienstenrichtlijn is in Nederland omgezet in de Dienstenwet. Eiseres stelt niet dat die omzetting gebrekkig is, zodat er geen grond bestaat om rechtstreeks aan de Dienstenrichtlijn te toetsen. Maar ook als het betoog van eiseres aan de Dienstenwet wordt getoetst, slaagt dat niet. In de nota van toelichting bij het besluit van 14 maart 2016, inhoudende wijziging van het Was (Stb. 2016, 134), is de in artikel 14a neergelegde verplichting nader toegelicht. Hierin is gemotiveerd dat de eis gerechtvaardigd is omdat deze niet discriminerend is, noodzakelijk is uit oogpunt van bescherming van de openbare veiligheid, de gezondheid en het leven van personen en dat deze daarnaast evenredig is. <?linebreak?>De stelling van eiseres dat er geen rechtvaardigingsgrond voor de regeling is gegeven is dan ook onjuist. Wat eiseres heeft aangevoerd geeft bovendien geen grond voor het oordeel dat die rechtvaardigingsgrond ontoereikend zou zijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Eiseres betoogt dat verweerder de geconstateerde overtreding in strijd met zijn Specifiek interventiebeleid attractie- en speeltoestellen (IB02-SPEC46, hierna het interventiebeleid) heeft aangemerkt als een klasse-B-overtreding en haar direct een boete heeft opgelegd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Dit betoog slaagt niet. Gelet op bijlage 1, regel 6, bij het interventiebeleid is het ontbreken van een certificaat van goedkeuring een klasse B overtreding omdat deze overtreding een ernstige ondermijning van het systeem is en een risico voor de veiligheid en/of de gezondheid oplevert. Daarbij is vermeld dat tegen deze overtredingen wordt opgetreden met een bestuurlijke boete en de onmiddellijke buitengebruikstelling en verzegeling van de speeltoestellen. Verweerder heeft dan ook in overeenstemming met het interventiebeleid gehandeld.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Eiseres betoogt dat de boete moet worden gematigd vanwege bijzondere omstandigheden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Op grond van artikel 5:46, derde lid, van de Algemene wet bestuursrecht (Awb) legt het bestuursorgaan, indien de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, niettemin een lagere bestuurlijke boete op indien de overtreder aannemelijk maakt dat de vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog is. In dit geval is de hoogte van de boete vastgesteld aan de hand van het in de bijlage als bedoeld in artikel 32b van de Warenwet vastgelegde systeem van gefixeerde boetebedragen, waarbij vooraf een afweging is gemaakt tussen de ernst van de gedraging en de hoogte van de boete. In een dergelijk geval dient het bestuursorgaan in beginsel uit te gaan van de afweging door de wetgever, tenzij er sterke aanwijzingen zijn (doorgaans door een beroep van de overtreder op bijzondere omstandigheden, zoals bijvoorbeeld een geringe draagkracht) dat de hoogte van de boete onevenredig hoog is. De rechter dient te toetsen of het besluit van het bestuursorgaan tot oplegging van de boete voldoet aan deze eisen en dus leidt tot een evenredige sanctie in het individuele geval. Zie bijvoorbeeld de uitspraak van het College van Beroep voor het bedrijfsleven (CBb) van 1 februari 2018, ECLI:NL:CBB:2018:68. </para>
+      <para />
+      <parablock>
+        <para>De door eiseres gestelde omstandigheden zijn geen bijzondere omstandigheden op grond waarvan het bedrag van de boete verlaagd moet worden. De door eiseres veronderstelde reden voor de bij de NVWA ingediende klacht, is niet van invloed op de boeteoplegging. Eiseres moet steeds voldoen aan de wettelijke eisen en verweerder is ook zonder klachten bevoegd inspecties uit te voeren en zo nodig handhavend op te treden. Niet valt in te zien dat het belang dat met het handhavend optreden wordt nagestreefd, het waarborgen van de gezondheid en veiligheid van gebruikers van de speeltoestellen, niet kan worden bereikt met de maatregel die is opgelegd. Het beroep van eiseres op de uitspraak van de Afdeling van 10 januari 2018 (ECLI:NL:RVS:2018:34) is dan ook tevergeefs. Dat bij eiseres geen sprake was van opzet en dat zij de speeltoestellen regelmatig zou hebben gecontroleerd doet hier niet aan af. Opzet is geen vereiste voor het opleggen van een boete als hier aan de orde. Eiseres treft wel een verwijt; zij had zich er namelijk van moeten vergewissen of de door haar aan haar klanten ter beschikking gestelde speeltoestellen aan de wettelijke eisen voldoen. Voor het aannemen van verminderde verwijtbaarheid, ziet de rechtbank geen aanleiding. Dat eiseres als gevolg van publicaties in de pers over de interventie van de NVWA inkomsten is misgelopen, is geen aanleiding om over te gaan tot matiging van de door verweerder opgelegde boete (vergelijk CBb 5 februari 2019, ECLI:NL:CBB:2019:47) te meer nu verweerder geen ruchtbaarheid aan het boetebesluit heeft gegeven. De rechtbank acht de opgelegde boete passend en geboden.</para>
+      </parablock>
+      <para />
+      <para>8. De beroepsgronden slagen niet. Het beroep is ongegrond.</para>
+      <para />
+      <para>9. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.C. Rop, rechter, in aanwezigheid van </para>
+      <para>mr. N.S.J. Letschert, griffier. De uitspraak is gedaan op 8 juli 2020 en openbaar gemaakt op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier en de rechter zijn verhinderd de uitspraak te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven. </para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:375</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-03T00:04:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/2245</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2018:7870" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#overig">Eerste aanleg: ECLI:NL:RBROT:2018:7870, Overig</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:375">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:375</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-29T08:45:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:375 College van Beroep voor het bedrijfsleven , 02-06-2020 / 18/2245</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:375:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Verordening (EG) nr. 1099/2009</para>
+        <para>Artikel 5:41 van de Awb</para>
+        <para>Besluit proceskosten bestuursrecht</para>
+      </parablock>
+      <para />
+      <para>Hoger beroep diverse bestuurlijke boetes wegens overtredingen artikel 3 van Verordening (EG) nr. 1099/2009. Appellante heeft er niet voor gezorgd dat de kuikens bij het doden en daarmee verband houdende activiteiten elke vermijdbare vorm van pijn, spanning of lijden werd bespaard. De rechtbank heeft ten aanzien van de proceskostenveroordeling ten onrechte besloten tot matiging op grond van artikel 2, derde lid, Besluit proceskosten bestuursrecht.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:375:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/2245</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 2 juni 2020 op het hoger beroep van:<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam 1] B.V., te [plaats] , appellante, </bridgehead>
+    <para>(gemachtigde: mr. P.J.G.G. Sluijter),</para>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Rotterdam van 7 september 2018, kenmerk ROT 17/4425, in het geding tussen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>appellante</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>en<?linebreak?></bridgehead>
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, de minister,</bridgehead>
+    <para>(gemachtigde: mr. ing. H.D. Strookman).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Appellante heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam (de rechtbank) van 7 september 2018, ECLI:NL:RBROT:2018:7870.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een reactie op het hogerberoepschrift ingediend.</para>
+      <para>
+        <?linebreak?>Het onderzoek ter zitting heeft plaatsgevonden op 16 januari 2020. Dit hoger beroep is tegelijk behandeld met andere hoger beroepen van appellante, namelijk 18/2235, 18/2236, 18/2237, 18/2238, 18/2239, 18/2240, 18/2241, 18/2242, 18/2243, 18/2244 en 18/2728.</para>
+      <para>Appellante, vertegenwoordigd door [naam 2] en [naam 3] is verschenen, bijgestaan door haar gemachtigde. De minister heeft zich laten vertegenwoordigen door zijn gemachtigde. Voor de minister zijn tevens verschenen drs. J.D. Greep, drs. R. Visser, drs. C. de Bruin, drs. B. van der Linden en drs. B. Braarels.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Voor een uitgebreide weergave van het verloop van de procedure, het wettelijk kader en de in dit geding van belang zijnde feiten en omstandigheden, voor zover niet bestreden, wordt verwezen naar de aangevallen uitspraak, die als bijlage II aan deze uitspraak is gehecht. Het College volstaat met het volgende en gaat voor de beoordeling van deze zaak uit van het wettelijk kader, zoals dat is opgenomen in bijlage I bij deze uitspraak. Beide bijlagen maken deel uit van de uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>De minister heeft bij veertien te onderscheiden primaire besluiten aan appellante boetes opgelegde wegens verschillende overtredingen van de Wet de dieren. Het betreft in chronologische volgorde de volgende besluiten, die zijn gebaseerd op de hierbij telkens  –  kort weergegeven - constateringen van een toezichthouder van de Nederlandse Voedsel- en Warenautoriteit (NVWA) en volgens de minister een of meerdere overtredingen van genoemde wet inhouden:<?linebreak?>- besluit van 28 oktober 2016 (boetezaak 201603567): boete van € 1.500,- wegens beknellingen en rugliggingen bij kuikens in geloste containers;</para>
+      <para>- besluit van 25 november 2016 (boetezaak 201605888): boete van € 2.500,- wegens levende kuikens die door de wasstraat voor containers zijn gegaan;</para>
+      <para>- besluit van 25 november 2016 (boetezaak 201603103): boete van € 1.500,-- wegens dode en levende kuikens die onder de kantelaar lagen en zaten;</para>
+      <para>- besluit van 25 november 2016 (boetezaak 201605001): boete van € 1.500,- wegens  kuikens die onder en bij de carrousel liepen;<?linebreak?>- besluit van 25 november 2016 (boetezaak 201605000): boete van € 2.500,- wegens een levend kuiken dat door de wasstraat voor containers is gegaan;<?linebreak?>- besluit van 25 november 2016 (boetezaak 201605316): boete van € 2.500,- wegens beknellingen en rugliggingen bij kuikens in geloste containers;<?linebreak?>- besluit van 25 november 2016 (boetezaak 201605241): boete van € 2.500,- wegenskuikens die op elkaar bleven zitten in een gekantelde container, terwijl de lopende band niet liep;<?linebreak?>- besluit van 25 november 2016 (boetezaak 201605363): boete van € 2.500,- wegens kuikens in geloste containers die tekenen van hittestress vertoonden;<?linebreak?>- besluit van 25 november 2016 (boetezaak 201605958): boete van € 2.500,- wegens een levend kuiken dat door de wasstraat voor containers is gegaan;<?linebreak?>- besluit van 23 december 2016 (boetezaak 201605873): boete van € 2.500,- wegens kuikens in geloste containers die tekenen van hittestress vertoonden;</para>
+      <para>- besluit van 13 januari 2017 (boetezaak 201607047): boete van € 2.500,- wegens levende kuikens die door de wasstraat voor de containers zijn gegaan;<?linebreak?>- besluit van 20 januari 2017 (boetezaak 201607048): boete van € 2.500,- wegens levende kuikens die in de bak voor DOA’s (death on arrivals) lagen;</para>
+      <para>- besluit van 28 januari 2017 (boetezaak 201603567): boete van € 1.500,- wegens beknellingen bij kuikens in container op aanvoerband naar kantelaar;<?linebreak?>- besluit van 3 februari 2017 (201607150): € 2500,- wegens levend kuiken in bak met DOA’s.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Bij besluit van 12 juni 2017 (het bestreden besluit), waartegen het beroep bij de rechtbank was gericht, heeft de minister het bezwaar van appellante tegen de primaire besluiten van 20 januari 2017 (boetezaak 201607048) en 3 februari 2017 (boetezaak 20167150) ongegrond verklaard. De minister heeft de bezwaren van appellante tegen de overige primaire besluiten gedeeltelijk gegrond verklaard en de hierbij opgelegde boetes gehandhaafd onder aanvulling van de motivering van deze primaire besluiten. Reden hiervoor is – kort gezegd – dat de minister heeft geconcludeerd dat de te onderscheiden boetes ten onrechte zijn gebaseerd op meerdere beboetbare feiten, terwijl vanwege een zodanige samenhang daartussen moet worden geconcludeerd dat sprake is van minder beboetbare feiten dan waarvan is uitgegaan bij genoemde primaire besluiten. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de rechtbank</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Voor zover het College hierna delen van de aangevallen uitspraak citeert, geldt daarbij dat hierin appellante is aangeduid als ‘eiseres’ en de minister als ‘verweerder’.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>De rechtbank heeft het beroep van appellante gegrond verklaard. De rechtbank heeft het bestreden besluit vernietigd voor zover dat ziet op boetezaak 201607048 en het primaire besluit van 20 januari 2017 in deze zaak herroepen. De rechtbank heeft het bestreden besluit voor zover dat ziet op de overige boetezaken in stand gelaten. Voorts heeft de rechtbank de minister veroordeelt in de proceskosten van appellante tot een bedrag van € 506,62. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para>3. <?linebreak?>Het hoger beroep richt zich niet tegen de beslissing van de rechtbank met betrekking tot boetezaak 201607048, zodat het College deze zaak verder buiten beschouwing laat.</para>
+    <para />
+    <para>4. Voor zover appellante in hoger beroep enkel heeft verwezen naar de door haar in bezwaar en beroep aangevoerde standpunten, stelt het College vast dat appelante niet met een op het bestreden besluit, onderscheidenlijk de aangevallen uitspraak toegespitste motivering nader heeft uiteengezet waarom het bestreden besluit, respectievelijk de aangevallen uitspraak de rechterlijke beoordeling in hoger beroep niet kan doorstaan. Het College gaat derhalve aan deze standpunten voorbij.</para>
+    <para />
+    <para>5. Het College zal de in geding zijnde boetes hierna beoordelen aan de hand van de door appellante tegen de aangevallen uitspraak aangevoerde beroepsgronden. Hierbij zal het College de boetes die zijn gebaseerd op dezelfde soort constateringen en overtredingen dienovereenkomstig gegroepeerd bespreken, zoals de rechtbank ook heeft gedaan in de aangevallen uitspraak. Het College zal telkens eerst beoordelen of de rechtbank terecht heeft geconcludeerd dat appellante de door de minister geconstateerde overtredingen heeft begaan. Dat geldt ook voor de afzonderlijke boetezaken die geen gezamenlijke bespreking behoeven. Daarna zal het College de andere gelijkluidende beroepsgronden voor alle boetezaken tezamen bespreken, alsmede de beroepsgrond tegen de proceskostenvergoeding.   </para>
+    <para />
+    <para>6. Het College wijst er in het algemeen op dat het ingevolge artikel 6:2, eerste lid, van de Wet dieren verboden is in strijd te handelen met bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling aangewezen voorschriften van EU-verordeningen betreffende onderwerpen waarop deze wet van toepassing is. Waar hierna sprake is van overtreding van met name genoemde voorschriften uit Verordening (EG) Nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (Verordening nr. 1099/2009) geldt dat deze voorschriften ingevolge artikel 5.8 van de Regeling houders van dieren zijn aangewezen als voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid van de Wet dieren.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De boetes wegens beknellingen en rugliggingen bij kuikens in containers (201603567 en 201605316</emphasis>
+        <emphasis role="bold">)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Algemeen</emphasis>
+        <?linebreak?>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Zoals de rechtbank in de aangevallen uitspraak onder punt 7.1 ten aanzien van boetezaak 201605316 en onder punt 8.1 ten aanzien van boetezaak 201603567 terecht tot uitgangspunt heeft genomen zijn de boetes inzake beknellingen en rugliggingen bij kuikens in containers bij het bestreden besluit gebaseerd op artikel 3, eerste lid, van Verordening nr. 1099/2009. Hierin staat dat bij het doden van dieren en daarmee verband houdende activiteiten ervoor wordt gezorgd dat de dieren elke vermijdbare vorm van pijn, spanning of lijden wordt bespaard. De minister heeft bij het bestreden besluit de aan de betreffende twee primaire besluiten als beboetbaar feit 2 mede ten grondslag gelegde overtreding van artikel 15, eerste lid, in verbinding met punt 1.1 van bijlage III van Verordening nr. 1099/2009 laten vervallen. Ingevolge het in punt 1.1 neergelegde operationele voorschrift als bedoeld in artikel 15 van Verordening nr. 1099/2009 worden de welzijnsomstandigheden van elke zending dieren systematisch bij aankomst beoordeeld door de functionaris voor het dierenwelzijn of door een persoon die rechtstreeks aan die functionaris rapporteert om de prioriteiten in kaart te kunnen brengen, met name door te bepalen welke dieren specifieke welzijnsbehoeften hebben en welke maatregelen genomen dienen te worden om in die behoeften te voorzien.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>De rechtbank heeft ten aanzien van deze boetes in het algemeen het volgende overwogen:</para>
+      <para />
+      <parablock>
+        <para>	“6.1. De rechtbank overweegt dat de omstandigheid dat (ook) de vervoerder of vangploeg 	verantwoordelijk kan worden gesteld voor beknellingen en rugliggingen bij de kuikens, niet 	afdoet aan de verantwoordelijkheid van eiseres voor het welzijn van de kuikens die zich op 	haar terrein bevinden. Verweerder verwijt eiseres ook niet dat sprake is van beknellingen en 	rugliggingen in de geloste containers, maar dat eiseres de containers onvoldoende heeft 	beoordeeld op welzijnsproblemen bij de kuikens en onvoldoende daarop heeft ingegrepen. Dit 	zal voldoende uit het rapport van bevindingen moeten blijken. De enkele constatering door een 	toezichthouder dat sprake was van beknellingen en rugliggingen is dus onvoldoende. Ook 	moet blijken dat eiseres de welzijnscontrole die volgens Bijlage III, punt 1.1, van Verordening 	1099/2009 moet plaatsvinden, niet of onvoldoende heeft verricht of dat zij geen noodzakelijke 	maatregelen heeft genomen bij geconstateerde welzijnsproblemen. Van belang is dat uit het 	rapport van bevindingen voldoende blijkt dat eiseres de gelegenheid heeft gehad om de 	betreffende controle te verrichten. Immers, als de toezichthouder beknellingen constateert bij 	containers die net in de aanvoerhal zijn geplaatst terwijl een welzijnsfunctionaris van eiseres 	nog doende was een welzijnscontrole op korte termijn uit te voeren, kan uit de enkele 	aanwezigheid van beknellingen in de containers niet worden geconcludeerd dat de 	welzijnscontrole niet is verricht. Daarbij is ook relevant dat het exacte moment waarop deze 	controle doorgaans wordt verricht onduidelijk is gebleven en ook in de Verordening hiervoor 	geen duidelijk termijn is vastgesteld. Bovendien is voor de toezichthouder eenvoudig vast te 	stellen, middels de administratie van eiseres, sinds wanneer de geladen containers zich op het 	terrein van eiseres bevinden, aan de hand waarvan (mede) kan worden beoordeeld of eiseres 	voldoende gelegenheid heeft gehad om de welzijnscontrole uit te voren. Voorts kan een 	overtreding ook worden vastgesteld indien gebleken is dat eiseres de welzijnscontrole wél 	heeft verricht maar daarbij beknelde dieren of rugliggingen niet heeft opgemerkt, dan wel 	daarop niet heeft ingegrepen. In dat geval dient uit het rapport te blijken dat de 	welzijnscontrole is verricht (bijvoorbeeld door overlegging van een formulier waarop die 	controle is afgetekend) en dat de toezichthouder wel of meer beknellingen en rugliggingen in 	de gecontroleerde containers waarneemt dan bij de welzijnscontrole door eiseres is opgemerkt. 	Of uit de rapporten voldoende blijkt dat de gestelde overtredingen zijn begaan zal hierna per 	boetezaak worden besproken. Dat de NVWA in haar interventiebeleid op andere gebieden wel 	tolerantiemarges hanteert, maakt niet dat verweerder die ook in deze situatie moet hanteren. 	Zoals verweerder ter zitting heeft toegelicht gaat het hier om een controle die volgens Bijlage 	III, punt 1.1 van Verordening 1099/2009 systematisch plaats moet vinden en kunnen 	geconstateerde beknellingen en rugliggingen op eenvoudige wijze worden opgelost.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>Appellante voert, onder verwijzing naar de uitspraak van de rechtbank van 20 december 2017, ROT 16/7462 (niet gepubliceerd) aan dat een welzijnscontrole moet worden uitgevoerd na het lossen maar voor het uitladen van de kuikens uit de containers, opdat correct gekanteld kan worden. Aldus is volgens appellante het toetsingspunt of voorafgaande aan de kanteling een adequate welzijnscontrole op rugliggingen en beknellingen heeft plaatsgevonden en is niet doorslaggevend of de welzijnscontrole eerder of gedeeltelijk is of had kunnen worden uitgevoerd. Dit betekent dat de door de minister aan de betreffende boetes ten grondslag gelegde overtreding niet is bewezen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Het College begrijpt de in 7.3 genoemde beroepsgrond mede aldus dat dit neerkomt op herhaling van het door appellante in eerste aanleg ingenomen standpunt dat de haar door de minister verweten gedragingen met betrekking tot vleugelbeknellingen en rugliggingen in geloste containers niet vallen onder het bereik van Verordening nr. 1099/2009, maar onder Verordening Nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten (de Transportverordening).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5</nr>
+      <para>In verband hiermee is ook de volgende overweging van de rechtbank in de aangevallen uitspraak van belang:</para>
+      <para />
+      <parablock>
+        <para>		“ 3.1. De rechtbank overweegt dat voor zover de Transportverordening ook van toepassing is 		op het lossen en/of uitladen van containers bij de slachterij, dit niet betekent dat verweerder 		eiseres niet kan verwijten dat zij bij het lossen en/of uitladen regels uit de Verordening 			1099/2009 heeft overtreden. Verordening 1099/2009 richt zich specifiek tot slachterijen en 		stelt allerlei regels om het welzijn van dieren op slachterijen te bewaken. Nu in dit geval de 		kuikens aanwezig waren op het terrein van de slachterij, namelijk in geloste containers en bij 		de kantelaar en voorwasser van eiseres, draagt eiseres op grond van Verordening 1099/2009 		een verantwoordelijkheid voor het welzijn van deze kuikens.” </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.6</nr>
+      <para>Het College overweegt over deze beroepsgrond als volgt.</para>
+      <para />
+      <paragroup>
+        <nr>7.6.1</nr>
+        <para>De door appellante te slachten levende vleeskuikens worden vanaf het pluimveebedrijf in containers aangevoerd op haar slachterij. Deze containers, die bestaan uit een aantal lades waarin de kuikens zich bevinden, zijn geplaatst op een vrachtwagen waarmee de kuikens van het pluimveebedrijf worden verplaatst naar de slachterij. Op de slachterij worden de containers gelost van de vrachtwagen. Via een lopende band gaan de containers naar de kantelaar. Dat is een machine die ervoor zorgt dat de container kantelt, waardoor de lades opengaan en de kuikens terechtkomen op een rolband, die deze kuikens voert naar een volgende fase in het productieproces van de slachterij.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.6.2</nr>
+        <para>Uit artikel 1, eerste lid, van de Transportverordening blijkt dat deze verordening, voor zover hier van belang, van toepassing is op het vervoer van dieren binnen de Europese Unie. Het begrip ‘vervoer’ is gedefinieerd in artikel 2, onder w, van de Transportverordening. Volgens deze definitie is sprake van vervoer in de daar genoemde zin van de verplaatsing van dieren met vervoermiddelen en de daarmee samenhangende activiteiten, zoals onder meer het lossen, tot aan het moment waarop alle dieren op de plaats van bestemming zijn uitgeladen. De ‘plaats van bestemming’ is gedefinieerd in artikel 2, onder s, van de Transportverordening. Daaruit blijkt dat dit, voor zover hier van belang, de plaats is waar een dier uit een vervoermiddel geladen en geslacht wordt. Gelet op deze voorschriften, bezien in onderling verband, is duidelijk dat de Transportverordening van toepassing is tot aan het moment waarop alle dieren op de plaats van bestemming, dat wil zegen op de plaats waar zij uit het vervoermiddel geladen en geslacht worden, zijn uitgeladen. Vanaf dat moment eindigt het vervoer als bedoeld in de Transportverordening, waarop de voorschriften van de Transportverordening van toepassing zijn. Daarmee eindigt dus de verantwoordelijkheid voor de bescherming van de dieren op grond van de Transportverordening, waartoe de in deze verordening bedoelde organisatoren, vervoerders, houders en verzamelcentra zijn gehouden. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.6.3</nr>
+        <para>Gelet op vorengenoemde definitie van de ‘plaats van bestemming’ is hiervoor bepalend de plaats waar een dier uit een vervoermiddel wordt geladen en geslacht. Dit betekent naar het oordeel van het College ten aanzien van de op de slachterij van appellante aangevoerde levende vleeskuikens dat de toepassing van de Transportverordening eindigt op het moment waarop een container met kuikens op het terrein van het slachthuis van appellante van de vrachtwagen is gelost. Vanaf dit moment immers zijn de vleeskuikens op de locatie waar ze worden geslacht, geladen uit het vervoermiddel waarmee zij naar de slachterij zijn getransporteerd. Voor zover de rechtbank in de aangevallen uitspraak heeft aangenomen dat vanaf dat moment nog sprake kan zijn van een overlap van de Transportverordening met Verordening nr. 1099/2009 is deze aanname derhalve onjuist. Het vorenstaande betekent voorts dat het College appellante niet volgt in haar stelling dat de toepasselijkheid van de Transportverordening eerst eindigt op het moment dat de containers waarin de kuikens zijn aangevoerd, worden gekanteld en dat tot aan dat moment alleen sprake kan zijn van een overtreding van de Transportverordening.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.6.4</nr>
+        <para>Zoals volgt uit hetgeen hiervoor in 7.1 is overwogen, staat vast dat de twee hier aan de orde zijnde boetes, zoals deze zijn gehandhaafd bij het bestreden besluit, alleen zijn gebaseerd op overtreding van artikel 3, eerste lid, van Verordening nr. 1099/2009 en niet (mede) op overtreding van punt 1.1 van bijlage III van Verordening nr. 1099/2009. Voor zover appellante met de in 7.3 genoemde beroepsgrond betwist dat artikel 3, eerste lid, van Verordening nr. 1099/2009 in deze gevallen van toepassing is, overweegt het College voorst het volgende.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.6.5</nr>
+        <para>In artikel 1 van Verordening nr. 1099/2009 is het onderwerp en het toepassingsbereik van deze verordening geregeld. Voor zover hier van belang is in het eerste lid van dit artikel bepaald dat in deze verordening regels worden neergelegd voor het doden van dieren, die gefokt of gehouden worden voor de productie van levensmiddelen en voor daarmee verband houdende activiteiten. De definitie van “daarmee verband houdende activiteiten” luidt ingevolge artikel 2, aanhef en onder b, van Verordening nr. 1099/2009 als volgt: “activiteiten zoals het behandelen, onderbrengen, fixeren, bedwelmen en verbloeden van dieren die worden verricht in de context van het doden van dieren op de locatie waar de dieren worden gedood. Deze definitie sluit naar het oordeel van het College niet uit dat ook andere activiteiten dan de hierin specifiek genoemde activiteiten moeten worden aangemerkt als ‘daarmee verband houdende activiteiten’, indien en voor zover het activiteiten zijn die worden verricht in de context van het doden van dieren op de locatie waar de dieren worden gedood.  Hoofdstuk II van Verordening nr. 1099/2009 is getiteld: “Algemene voorschriften”. Uit het opschrift van artikel 3 van Verordening nr. 1099/2009 uit dit hoofdstuk blijkt dat in dit artikel algemene voorschriften voor het doden van dieren en daarmee verband houdende activiteiten zijn neergelegd. Ingevolge het eerste lid wordt er bij het doden van dieren en daarmee verband houdende activiteiten voor gezorgd dat de dieren elke vermijdbare vorm van pijn, spanning of lijden wordt bespaard. Zoals volgt uit het bepaalde in artikel 3, tweede lid, van Verordening nr. 1099/2009 is de bedrijfsexploitant degene op wie de in het eerste lid neergelegde zorgplicht rust. In artikel 2, aanhef en onder l, van Verordening nr. 1099/2009 is het begrip ‘bedrijfsexploitant’ als volgt gedefinieerd: “elke natuurlijke of rechtspersoon die het beheer voert over een onderneming waar dieren worden gedood of waar daarmee verband houdende activiteiten worden verricht die binnen de werkingssfeer van deze verordening vallen. Vaststaat dat appellante bedrijfsexploitant is. <?linebreak?>De in de onderhavige boetezaken opgelegde boetes zijn gebaseerd op de bevindingen van toezichthouders van de NVWA bij controles op 23 augustus 2016 (201605316) onderscheidenlijk 7 juni 2016 (201603567), die zijn neergelegd in de rapporten van bevindingen van respectievelijk 31 augustus 2016 en 7 juni 2016. Uit deze rapporten blijkt dat de boetes zijn opgelegd op basis van feiten en omstandigheden die door de betreffende toezichthouders zijn geconstateerd ten aanzien van levende kuikens in containers die zich in de aanvoerhal bevonden op de aanvoerband naar de kantelaar (201603567), onderscheidenlijk bij de AM-keuring van vleeskuikens in geloste containers die zich bevonden in de aanvoerhal van het bedrijf (201605316). Naar het oordeel van het College zijn al deze controles uitgevoerd bij activiteiten van appellante die verband houden met het doden van de betreffende koppels kuikens als bedoeld in artikel 3, eerste lid, van Verordening nr. 1099/2009. Dit betekent dat appellante er bij deze activiteiten voor moet zorgen dat de kuikens elke vermijdbare vorm van pijn, spanning of lijden wordt bespaard.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>7.7.</nr>
+      <para>Voor zover de rechtbank de beoordeling van deze boetes geheel heeft geplaatst in het kader van de in punt 1.1 van bijlage III van Verordening nr. 1099/2009 vereiste welzijnscontrole heeft de rechtbank naar het oordeel van het College ten onrechte niet inzichtelijk gemaakt op welke gronden zij dit, gelet op het bepaalde in artikel 3, eerste lid, van deze verordening, heeft gedaan. De tekst van laatstgenoemde bepaling sluit niet uit dat sprake kan zijn van overtreding van deze bepaling, ongeacht het antwoord op de vraag of het voorschrift van punt 1.1 is nageleefd, bijvoorbeeld in het geval de beknellingen en/of rugliggingen voorkomen bij kuikens die zich in het volle zicht in de geloste containers bevinden. Dat neemt niet weg dat in het geval kan worden vastgesteld dat bedoelde welzijnscontrole niet heeft plaatsgevonden, dan wel dat deze wel heeft plaatsgevonden, maar daarbij beknelde kuikens of kuikens met rugliggingen niet zijn opgemerkt en er daarop vervolgens niet is ingegrepen, dit een sterke aanwijzing is voor overtreding van artikel 3, eerste lid, van Verordening nr. 1099/2009. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Boetezaak 201605316 (vaststelling overtreding)</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>De minister heeft de boete in deze zaak gebaseerd op het rapport van bevindingen van 31 augustus 2016. De rechtbank heeft een weergave van deze bevindingen opgenomen in punt 7.3 van de aangevallen uitspraak en in punt 7.4 geoordeeld dat in voldoende mate vaststaat dat appellante de overtreding heeft begaan. Het College volstaat hier met een verwijzing naar deze overwegingen uit de aangevallen uitspraak. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Het College onderschrijft het in punt 7.4 van de aangevallen uitspraak gegeven oordeel van de rechtbank met betrekking tot de vaststelling van de overtreding. Appellante heeft hiertegen in hoger beroep geen specifieke beroepsgronden aangevoerd en evenmin de bevindingen in het rapport van bevindingen van 31 augustus 2016 concreet en gemotiveerd betwist.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Boetezaak 201603567 (vaststelling overtreding)</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>In deze zaak heeft de minister de boete gebaseerd op het rapport van 7 juni 2016. De rechtbank heeft dit rapport weergegeven in punt 8.3 van de aangevallen uitspraak. In punt 8.4 heeft de rechtbank geoordeeld dat in voldoende mate vaststaat dat appellante de overtreding heeft begaan. Het College volstaat hier met een verwijzing naar deze onderdelen van de aangevallen uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <para>Appellante voert ten aanzien van deze boetezaak aan dat zij met gedetailleerde werkinstructies, alsmede met de aan het personeel verstrekte opleiding en het toezicht op en de begeleiding van hun functioneren alle zorg betracht die in redelijkheid van haar kan worden gevergd om het kantelen van beknelde of kuikens met rugliggingen te voorkomen. Zij wijst in dit verband op artikel 5:41 van de Algemene wet bestuursrecht (Awb) en stelt dat haar betoog dat ten onrechte een nultolerantiebeleid wordt gevoerd door de NVWA en de minister behoort te slagen, omdat anders ten onrechte voorbij wordt gegaan aan het afwezig zijn van verwijtbaarheid en/ of alle schuld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.5</nr>
+      <para>In hetgeen appellante heeft aangevoerd ziet het College geen grond voor het oordeel dat de rechtbank ten onrechte heeft geoordeeld dat in voldoende mate vaststaat dat appellante de in geding zijnde overtreding heeft begaan. Het antwoord op de vraag of deze overtreding niet aan appellante kan worden verweten in de zin van artikel 5:41 van de Awb moet worden onderscheiden van de beoordeling of de minister op goede gronden heeft vastgesteld dat appellante de overtreding heeft begaan. Voor zover appellante met vorengenoemde beroepsgrond beoogt te stellen dat zij vanwege haar gedetailleerde werkinstructies, de aan het personeel verstrekte opleiding en het toezicht op en de begeleiding van hun functioneren weldegelijk de ingevolge artikel 3, eerste lid, van Verordening nr. 1099/2009 op haar rustende verplichting heeft nageleefd, volgt het College appellante daarin niet. Appellante heeft deze algemene stelling in hoger beroep niet nader onderbouwd en toegespitst op de concrete situatie zoals door de toezichthouder is beschreven in zijn rapport van bevindingen van 7 juni 2016. De minister heeft op grond van deze bevindingen terecht vastgesteld dat appellante de overtreding heeft begaan.</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.6</nr>
+      <para>Gelet op hetgeen hiervoor is overwogen in 7.1 tot en met 8.5 was de minister in de boetezaken 201603567 en 201605316 bevoegd om boetes op te leggen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De boetes wegens levende kuikens die door de wasstraat zijn gegaan (201605000, 201605888, 201605958, 201607047, vaststelling overtreding)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <para>Bij het bestreden besluit heeft de minister de boetes in al deze zaken gehandhaafd wegens overtreding van artikel 3, eerste lid, van Verordening nr. 1099/2009. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>Appellante heeft gelijkluidende beroepsgronden aangevoerd tegen het oordeel van de rechtbank dat de minister terecht heeft vastgesteld dat zij deze overtredingen heeft begaan. Het College zal deze beroepsgronden daarom voor al deze boetezaken tezamen bespreken.</para>
+      <para />
+      <paragroup>
+        <nr>9.3.1</nr>
+        <para>De rechtbank heeft ten aanzien van deze boetezaken in het algemeen het volgende overwogen:</para>
+        <para />
+        <parablock>
+          <para>“16.1 De rechtbank overweegt dat de omstandigheid dat in de eigen werkinstructies van eiseres (die de NVWA heeft gezien en gestempeld) ervan wordt uitgegaan dat het kan voorkomen dat kuikens door de voorwasser gaan, nog niet betekent dat verweerder eiseres nimmer kan verwijten dat het vermijdbaar is dat een kuiken door de voorwasser gaat. Het uitgangspunt is dat moet worden voorkomen dat kuikens door de voorwasser gaan en dat hiervoor controles moeten worden uitgevoerd op de containers, zoals ook in de werkinstructies van eiseres is beschreven. Niet ondenkbaar is dat desondanks een kuiken door de voorwasser gaat, bijvoorbeeld doordat de controle niet juist is uitgevoerd. Dat de werkinstructies van eiseres beschrijven hoe dan gehandeld moet worden, maakt evenwel niet dat eiseres überhaupt niet kan worden verweten dat het kuiken door de voorwasser is geweest. In elke boetezaak afzonderlijk zal moeten worden vastgesteld of het vermijdbaar is geweest. Daarbij merkt de rechtbank wel op dat gelet op het hiervoor genoemde uitgangspunt in beginsel ervan mag worden uitgegaan dat vermijdbaar was dat een kuiken door de voorwasser is gegaan indien de controle afdoende zou zijn verricht, zodat het met name aan eiseres zal zijn om nader te onderbouwen waarom het in dat geval voor haar toch niet vermijdbaar was.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>9.3.2</nr>
+        <para>Appellante is het niet eens met het oordeel van de rechtbank dat de minister haar kan verwijten dat het vermijdbaar is dat een kuiken door de voorwasser gaat. Volgens haar brengt  het punitieve karakter van een boetebesluit met zich dat er geen ruimte is om, zoals de rechtbank heeft gedaan, uit te gaan van vermijdbaarheid, waarbij het aan appellante is om haar onschuld te bewijzen. Dit klemt te meer, omdat de werkinstructie van appellante luidt zoals zij luidt en in en na het kantelproces ook bij zorgvuldige controle niet vermijdbaar is dat in de containers verscholen kuikens niet worden opgemerkt.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>9.3.3</nr>
+        <para>Het College stelt voorop dat de bewijslast van de overtreding, gelet op de waarborgen die voortvloeien uit artikel 6, tweede lid, van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM), rust op de minister als het bestuursorgaan dat de boete heeft opgelegd. In hetgeen appellante heeft aangevoerd ziet het College geen grond voor het oordeel dat de rechtbank dit heeft miskend met hetgeen zij in punt 16.1 van de aangevallen uitspraak heeft overwogen, waaronder het daarin geformuleerde uitgangspunt dat moet worden voorkomen dat kuikens door de voorwasser gaan en dat hiervoor controles op de containers moeten worden uitgevoerd. Het bepaalde in artikel 3, eerste lid, van Verordening nr. 1099/2009 laat er geen twijfel over bestaan dat er bij het doden van dieren en daarmee verband houdende activiteiten voor moet worden gezorgd dat de dieren <emphasis role="italic">elke vermijdbare</emphasis> vorm van pijn, spanning of lijden wordt bespaard. Er is dus sprake van een vergaande verplichting om elke vorm van pijn, spanning of lijden die bij bedoelde dieren kan worden vermeden, te voorkomen. Dat is mogelijk door voordat de containers worden gereinigd te controleren of zich in de containers geen levende kuikens bevinden. Het door de rechtbank geformuleerde uitgangspunt is hiermee in lijn. Appellante heeft ter zitting bevestigd dat haar bedrijfsproces erin voorziet dat genoemde controle visueel wordt uitgevoerd door medewerkers van het bedrijf, zoals ook volgt uit haar werkinstructies. Het is mogelijk dat hierbij levende kuikens over het hoofd worden gezien, bijvoorbeeld doordat de visuele controle niet goed is uitgevoerd, zoals de rechtbank ook heeft aangegeven. De rechtbank heeft hierbij terecht overwogen dat in elke boetezaak afzonderlijk moet worden vastgesteld of het vermijdbaar was dat een levend kuiken de voorwasser is ingegaan. Het College voegt daaraan toe dat de minister, gelet op de vergaande zorgplicht uit vorengenoemde bepaling voor de exploitant van het slachthuis, in gevallen als de onderhavige waarin de controles door medewerkers van het slachthuis visueel worden uitgevoerd, mag uitgaan van het door de exploitant te weerleggen vermoeden dat bij een kuiken dat de voorwasser is ingegaan sprake is geweest van een niet naar behoren uitgevoerde controle. Dat het kan gebeuren dat een levend kuiken om een andere reden dan als gevolg van een niet naar behoren uitgevoerde visuele controle niet (tijdig) wordt opgemerkt in een container die de voorwasser in gaat, is op zich zelf dus geen reden om appellante te volgen in haar standpunt dat van haar ten onrechte wordt verlangd om haar onschuld te bewijzen. Het ligt derhalve op de weg van appellante om genoemd vermoeden te weerleggen en met concrete feiten en omstandigheden aannemelijk te maken dat de betreffende kuikens niet als gevolg van een door een medewerker niet naar behoren uitgevoerde visuele controle de voorwasser zijn ingegaan en haar om die reden geen verwijt kan worden gemaakt van de overtredingen. Hierbij is van belang dat de minister ter zitting onweersproken heeft gesteld dat bedoelde controle ook kan worden uitgevoerd door een op de markt verkrijgbaar automatisch detectiesysteem, maar dat appellante ervoor heeft gekozen om hiervan geen gebruik te maken. De gevolgen daarvan dienen voor rekening en risico van appellante komen. </para>
+      </paragroup>
+      <paragroup>
+        <nr>9.4.1</nr>
+        <para>De minister heeft de boetes in deze zaak gebaseerd op de bevindingen van toezichthouders van de NVWA bij verschillende controles die zij hebben uitgevoerd op 2 augustus 2016 (201605000), 21 september 2016 (201605888), 28 september 2016 (201605958) en 19 oktober 2016 (201607047). Zij hebben deze bevindingen neergelegd in rapporten van bevindingen van 2 augustus 2016 (201605000), 27 september 2016 (201605888), 30 september 2016 (201605958) en 16 november 2016 (201607047). De rechtbank heeft al deze bevindingen onderscheidenlijk weergegeven in de punten 17.3, 18.3, 19.3 en 20.3 van de aangevallen uitspraak, waarnaar het College op deze plaats verwijst. De rechtbank heeft in al deze boetezaken geoordeeld dat in voldoende mate vast staat dat appellante de overtredingen heeft begaan. Het College volstaat hier met een verwijzing naar hetgeen de rechtbank daarover heeft overwogen in de punten 17.4, 18.4, 19.4 en 20.4 van de aangevallen uitspraak. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>9.4.2</nr>
+        <para>Appellante voert ten aanzien van alle onderhavige boetezaken gezamenlijk aan dat de rechtbank ten onrechte waarde hecht aan de beschrijvingen van de toezichthouder. Volgens appellante beperken de toezichthouders zich in hun rapporten niet tot het beschrijven van hetgeen zij feitelijk hebben vastgesteld, maar kleuren zij hun bevindingen ten nadele van appellante door in de rapporten aannamen, veronderstellingen en redeneringen op te nemen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>9.4.3</nr>
+        <para>Volgens vaste jurisprudentie van het College, waaronder de uitspraak van 21 juni 2017 (ECLI:NL:CBB:2017:230), mag een bestuursorgaan in beginsel uitgaan van de bevindingen in een toezichtrapport, indien de controle is verricht en het rapport is opgemaakt door een hiertoe bevoegde controleur en het rapport zelf geen grond biedt om aan de juistheid van de bevindingen te twijfelen. Het ligt dan op de weg van degene bij wie de controle is verricht om aannemelijk te maken dat de bevindingen niettemin onjuist zijn.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>9.4.4</nr>
+        <para>Het College onderschrijft het in deze boetezaken gegeven oordeel van de rechtbank met betrekking tot de vaststelling van de overtreding (zie de hiervoor in 9.4.1 genoemde onderdelen van de aangevallen uitspraak). Haar algemene stelling over ‘de kleuring’ door de toezichthouders van hun bevindingen heeft appellante niet met concrete feiten onderbouwd.  Evenmin heeft appellante concrete feiten en omstandigheden gesteld waaruit volgt dat dat de door de toezichthouders waargenomen levende, natte kuikens niet als gevolg van een niet naar behoren uitgevoerde controle de voorwasser zijn ingegaan en haar van de overtreding geen verwijt kan worden gemaakt.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>9.5</nr>
+      <para>Gelet op het vorenstaande was de minister in de boetezaken 201605000, 201605888, 201605958, 201607047 bevoegd appellante een boete op te leggen wegens de hierin aan de orde zijnde overtredingen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De boetes wegens kuikens in geloste containers die tekenen vertoonden van hittestress (201605363 en 201605873, vaststelling overtreding)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Bij het bestreden besluit zijn de boetes in deze zaken gehandhaafd wegens overtreding van artikel 3, eerste lid, van Verordening nr. 1099/2009 en artikel 3, tweede lid, aanhef en onder a, van deze verordening. Volgens de minister heeft appellante niet de noodzakelijke maatregelen genomen om te waarborgen dat de kuikens fysiek comfort en fysieke bescherming wordt geboden in een omgeving met adequate thermische omstandigheden als bedoeld in laatstgenoemde bepaling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2</nr>
+      <para>De minister heeft deze boetes gebaseerd op de bevindingen van toezichthouders van de NVWA bij controles die zij hebben uitgevoerd op 31 augustus 2016 (201605363) onderscheidenlijk 15 september 2016 (201605873). Hun bevindingen zijn neergelegd in rapporten van bevindingen van respectievelijk 2 september 2016 en 15 september 2016. De rechtbank heeft deze bevindingen weergegeven onder punt 14.3 (201605363) en punt 15.3 (201605873) van de aangevallen uitspraak, waarnaar het College hier verwijst. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3</nr>
+      <para>De rechtbank heeft ten aanzien van deze boetezaken, voor zover hier van belang, meer in het algemeen het volgende overwogen:</para>
+      <para />
+      <parablock>
+        <para>“13.1 De rechtbank overweegt dat volgens vaste jurisprudentie van het College van Beroep voor het bedrijfsleven (CBb) - onder meer de uitspraak van 14 augustus 2015, ECLI:NL:CBB:2015:300 - een bestuursorgaan in beginsel mag uitgaan van de bevindingen in een controlerapport, indien de controle is verricht en het rapport is opgemaakt door een hiertoe bevoegde controleur en het rapport zelf geen grond biedt om aan de juistheid van de bevindingen te twijfelen. Het ligt dan op de weg van degene bij wiens bedrijf de controle is verricht om aannemelijk te maken dat de bevindingen niettemin onjuist zijn. Ten aanzien van de aanwezigheid van (symptomen van) hittestress, is van belang wat de toezichthouder hierover in de rapporten van bevindingen heeft neergelegd. Daarbij zij opgemerkt dat in beginsel van de deskundigheid van de toezichthouder als dierenarts mag worden uitgegaan. Daarnaast is in deze zaken niet expliciet een boete opgelegd voor de aanwezigheid van hittestress bij kuikens, maar voor het niet besparen van vermijdbare pijn, spanning of lijden en het niet nemen van maatregelen om de dieren fysiek comfort en bescherming te bieden in adequate thermische omstandigheden. Dit is dan ook het toetsingskader in deze zaken. Daarvoor is niet noodzakelijk dat alle kuikens alle door eiseres genoemde symptomen van hittestress vertonen.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.4</nr>
+      <para>Voorts heeft de rechtbank in de punten 14.4 en 15.4 van de aangevallen uitspraak  geconcludeerd dat in voldoende mate vaststaat dat appellante de overtredingen heeft begaan. Het College volstaat hier met een verwijzing naar deze onderdelen uit de aangevallen uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.5</nr>
+      <para>Appellante voert aan dat de rechtbank een onjuist toetsingskader hanteert. Volgens haar kan slechts tot hittestress worden geconcludeerd indien een groot aantal dieren de hieraan verbonden symptomen vertoont. Voorts stelt appellante dat deze symptomen een natuurlijke reactie zijn op blootstelling aan hogere temperaturen zonder dat daaruit pijn, spanning of lijden kan worden afgeleid. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.6</nr>
+      <parablock>
+        <para>Het College stelt vast dat de in 10.2 genoemde controles zijn uitgevoerd door toezichthoudend dierenartsen. Met de rechtbank is het College van oordeel dat in beginsel mag worden uitgegaan van hun deskundigheid bij de vaststelling van verschijnselen waaruit blijkt dat levende kuikens last hebben van hittestress. In het rapport van bevindingen van </para>
+        <para>2 september 2016 (201605363) heeft de toezichthoudend dierenarts concreet vastgesteld dat veel kuikens in de gecontroleerde containers, die in de volle zon stonden, hun kop naar buiten staken, met hun snavels naar adem hapten en een versnelde ademhaling hadden. Ook in het rapport van 15 september 2016 (201605873) heeft de toezichthoudend dierenarts de door hem geconstateerde verschijnselen van hittestress concreet beschreven, namelijk dat kuikens in een aantal containers in de aanvoerhal hun kop uit de container staken, dat kuikens hijgden en aan het staartwippen waren, dat kuikens in een container die in de volle zon stond, onrustig gedrag vertoonden, wat zich uitte in druk rondscharrelen, en dat er veel vocalisatie was. Het College ziet in hetgeen appellante heeft aangevoerd geen reden voor het oordeel dat de minister niet op basis van de bevindingen van deze deskundige toezichthouders mocht aannemen dat genoemde verschijnselen erop wijzen dat de betreffende kuikens last hadden van hittestress en evenmin dat moet worden getwijfeld aan hun waarnemingen daaromtrent bij de gecontroleerde kuikens. Appellante heeft in hoger beroep haar stelling dat slechts tot hittestress kan worden geconcludeerd indien een groot aantal dieren de hieraan verbonden symptomen vertoont, niet met enig bewijs onderbouwd. Met de enkele niet nader onderbouwde stelling dat de geconstateerde verschijnselen een natuurlijke reactie zijn op blootstelling aan hogere temperaturen zonder dat daaruit pijn, spanning of lijden kan worden afgeleid, heeft appelante niet de aanname van de deskundige toezichthouders weerlegd dat bedoelde verschijnselen wijzen op hittestress. Bovendien heeft de rechtbank er in dit verband op goede gronden op gewezen dat de kern van het verwijt aan appellante is dat zij wegens genoemde verschijnselen niet de noodzakelijke maatregelen heeft genomen om te waarborgen dat de kuikens fysiek comfort en fysieke bescherming wordt geboden in een omgeving met adequate thermische omstandigheden. De minister heeft terecht vastgesteld dat de betreffende kuikens geen fysiek comfort en fysieke bescherming in adequate thermische omstandigheden is geboden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.7</nr>
+      <para>Dit betekent dat de minister in beide boetezaken bevoegd was boetes op te leggen wegens de hier in geding zijnde overtredingen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boete wegens dode en levende kuikens die onder de kantelaar lagen en zaten (201603103, vaststelling overtreding)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.1</nr>
+      <para>In deze zaak is de boete opgelegd wegens overtreding van artikel 3, eerste lid, van Verordening nr. 1099/2009 en artikel 3, tweede lid, aanhef en onder b, van die verordening. Ingevolge laatstgenoemde bepaling nemen bedrijfsexploitanten voor de toepassing van lid 1 met name de noodzakelijke maatregelen om te waarborgen dat dieren beschermd zijn tegen letsel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2</nr>
+      <para>De minister heeft deze boete gebaseerd op een rapport van bevindingen van een toezichthouder van de NVWA van 27 mei 2016, dat is opgesteld naar aanleiding van een op 6 mei 2016 bij appellante uitgevoerde controle. Deze bevindingen zijn weergegeven in punt 4.3 van de aangevallen uitspraak. In punt 4.4 heeft de rechtbank geoordeeld dat in voldoende mate vaststaat dat appellante het eerste in punt 3.1 van haar uitspraak genoemde feit heeft begaan, maar dat niet kan worden vastgesteld dat appellante ook het tweede genoemde feit heeft begaan. Het College neemt aan dat de rechtbank hierbij abusievelijk heeft verwezen naar punt 3.1, waar punt 4.1 is bedoeld. Dat betekent dat de rechtbank heeft geoordeeld dat in voldoende mate vaststaat dat appellante artikel 3, eerste lid, van Verordening nr. 1099/2009 heeft overtreden, maar niet dat appellante ook artikel 3, tweede lid, aanhef en onder b, van deze verordening heeft overtreden. Het College volstaat hier met een verwijzing naar de punten 4.1, 4.3 en 4.4 van de aangevallen uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.3</nr>
+      <para>In hoger beroep staat alleen genoemd oordeel van de rechtbank met betrekking tot de overtreding van artikel 3, eerste lid, van Verordening nr. 1099/2009 ter beoordeling. Appellante voert daartegen aan dat de toezichthouder geen feitelijke vaststellingen heeft gedaan over de oorzaak van de bij de kantelaar aangetroffen levende en dode kuikens. Derhalve is volgens appellante niet vast te stellen dat sprake is van vermijdbaarheid. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.4</nr>
+      <para>Het College stelt vast dat uit het rapport van bevindingen van 27 mei 2016 blijkt dat de toezichthouder onder de kantelaar op de grond drie levende kuikens zag zitten en de karkassen van twee dode kuikens zag liggen. Er lagen tevens twee karkassen direct onder de kantelaar en de lopende band. Al deze karkassen waren volgens de waarneming van de toezichthouder ernstig beschadigd/ kapot getrokken. Ook onder de lopende band lagen stukken van een kapot getrokken kuiken. Gelet op deze bevindingen, die worden ondersteund door de bij het rapport gevoegde foto’s, acht het College met de rechtbank aannemelijk dat de bij de kantelaar aangetroffen levende en dode kuikens afkomstig waren uit de kantelaar, zoals – anders dan appellante kennelijk meent - ook voldoende kan worden afgeleid uit de bevindingen van de toezichthouder. Tegenover de constateringen van de toezichthouder met betrekking tot de plaats waar hij de levende en dode kuikens heeft aangetroffen en de staat waarin de dode kuikens verkeerden, die daarop wijzen, heeft appellante ook geen enkele alternatieve verklaring voor hun aanwezigheid gegeven. Het College ziet in hetgeen appellante heeft aangevoerd dus geen reden voor twijfel aan de juistheid van de bevindingen van de toezichthouder. Uit het vorenstaande volgt dat appellante haar stelling dat niet is vast te stellen dat sprake was van vermijdbare pijn, spanning of lijden, niet aannemelijk heeft gemaakt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.5</nr>
+      <para>Het College concludeert dat de minister bevoegd was tot het opleggen van een boete wegens de onderhavige overtreding.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boete wegens  kuikens die op elkaar bleven zitten in een gekantelde container, terwijl de lopende band niet liep (201605241, vaststelling overtreding)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.1</nr>
+      <para>Bij het bestreden besluit is de boete in deze zaak gehandhaafd wegens overtreding van artikel 3, eerste lid, en artikel 3, tweede lid, aanhef en onder d, van Verordening nr. 1099/2009. Ingevolge laatstgenoemde bepaling nemen bedrijfsexploitanten voor de toepassing van lid 1 met name de noodzakelijke maatregelen om te waarborgen dat de dieren geen tekenen van vermijdbare pijn, angst, of abnormaal gedrag vertonen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2</nr>
+      <para>De minister heeft de boete gebaseerd op de bevindingen van een toezichthouder van de NVWA bij een controle op het bedrijf van appellante, die is uitgevoerd op 15 augustus 2016. Zijn bevindingen zijn neergelegd in het boeterapport van 24 augustus 2016 en weergegeven in punt 5.3 van de aangevallen uitspraak. In punt 5.4 van die uitspraak heeft de rechtbank geoordeeld dat in voldoende mate vaststaat dat appellante de overtreding heeft begaan. Het College verwijst op deze plaats naar deze twee onderdelen uit de aangevallen uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.3</nr>
+      <para>Appellante voert aan dat, gelet op de notitie van Wageningen University &amp; Research van 4 juli 2017, voldoende is onderbouwd dat een onderbreking in het slachtproces, zoals hier aan de orde was, niet tot tekenen van pijn, spanning of lijden, of van pijn, spanning of abnormaal gedrag heeft geleid. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.4</nr>
+      <para>Het College stelt vast dat de door appellante genoemde notitie, getiteld “Waarnemingen van het kantelproces bij twee koppels vleeskuikens, bij [naam 1] , [plaats] op 4 juli 2017” een verslag bevat van de observaties van de betrokken onderzoeker bij het tien keer uitkantelen van twee koppels kuikens tijdens het reguliere slachtproces op de slachterij van appellante, alsmede een interpretatie van deze observaties en een voorstel voor verdere verbetermogelijkheden met betrekking tot het kantelproces. Reeds omdat genoemde observaties zijn gedaan tijdens een regulier kantelproces en dus onder normale omstandigheden, terwijl daarvan ten tijde van de controle door de toezichthouder nu juist geen sprake was, ziet het College in deze notitie geen grond voor het oordeel dat de rechtbank ten onrechte heeft geoordeeld dat de overtreding in voldoende mate vaststaat. Gelet op vorengenoemd verslag van bevindingen, was immers kenmerkend voor de door de toezichthouder aangetroffen situatie dat de lopende band van de kantelaar niet meteen na het kantelen van de container is gaan lopen, zoals onder normale omstandigheden wel gebeurt. Hierdoor kwamen de kuikens in de gekantelde container op elkaar te zitten. De toezichthoudend dierenarts heeft hierbij geconstateerd dat de kuikens veel aan het fladderen waren, over elkaar heen liepen, veel vocaliseerden en dat veel kuikens hun snavel herhaaldelijk open en dicht deden, wat volgens hem wijst op stress. Met genoemde notitie heeft appellante niet aannemelijk gemaakt dat deze bevindingen onjuist zijn.</para>
+    </paragroup>
+    <paragroup>
+      <nr>12.5</nr>
+      <para>Gelet op het vorenstaande is het College van oordeel dat de minister bevoegd was appellante een boete op te leggen wegens vorengenoemde overtreding.			</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De boete wegens kuikens die onder en bij de carrousel liepen (201605001, vaststelling overtreding)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.1</nr>
+      <para>Bij het bestreden besluit is deze boete gehandhaafd wegens overtreding van artikel 3, eerste lid en artikel 3, tweede lid, aanhef en onder d, van Verordening nr. 1099/2009.	</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.2</nr>
+      <para>De boete is gebaseerd op het rapport van bevindingen van 24 juni 2016, waarin een toezichthouder van de NVWA zijn bevindingen naar aanleiding van een op 21 juni 2016 bij appellante uitgevoerde controle heeft neergelegd. Deze bevindingen zijn weergegeven in punt 9.3 van de aangevallen uitspraak. In punt 9.4 heeft de rechtbank geconcludeerd dat in voldoende mate vaststaat dat appellante de overtreding heeft begaan. Het College verwijst hier naar deze twee overwegingen uit de aangevallen uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.3</nr>
+      <para>Appellante betwist dat uit het rapport van bevindingen genoegzaam kan worden vastgesteld dat bij de kuikens sprake was van pijn, spanning, lijden, angst of abnormaal gedrag, zoals de rechtbank heeft overwogen in punt 9.4 van de aangevallen uitspraak. Appellante is het evenmin eens met het in dat punt gegeven oordeel van de rechtbank dat bovendien in dit geval kan worden aangenomen dat dit vermijdbaar was, nu uit het rapport volgt dat appellante meermaals is gewaarschuwd maar de kuikens vervolgens niet direct werden gevangen en teruggeplaatst. Volgens appellante heeft de rechtbank miskend dat het onvermijdelijk is dat kuikens bij het aanhangen uit de carrousel kunnen geraken en dat deze kuikens vanwege de drukte bij het aanhangen niet onmiddellijk geraapt kunnen worden. Daarbij wijst appellante erop dat uit niets blijkt dat het bij de constateringen telkens om dezelfde kuikens gaat. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.4</nr>
+      <para>Uit het rapport van bevindingen blijkt dat de toezichthoudend dierenarts bij zijn controle verspreid over de dag meerdere keren vleeskuikens heeft zien lopen bij de carrousel waar kuikens worden aangehangen. Vanuit zijn deskundigheid als dierenarts beschrijft hij dat de kuikens in elkaar gedoken waren, dat zij vanwege het lawaai tijdens het kantelen van de containers, de ongewone geluiden en het lopen van de band, angstig worden en dat de kuikens zichtbaar angstig waren. In hetgeen appellante heeft aangevoerd, ziet het College onvoldoende grond voor twijfel aan deze bevindingen. Gelet op deze bevindingen heeft de minister terecht vastgesteld dat appellante vorengenoemde wettelijke bepalingen heeft overtreden. Het College acht niet aannemelijk dat één of meerdere van deze situaties niet vermijdbaar waren, zoals appellante lijkt te betogen. Gelet op de ingevolge de hiervoor in 13.1 genoemde wettelijke bepalingen op appellante rustende verplichtingen ten aanzien van vermijdbare pijn, spanning, lijden, angst of abnormaal gedrag, zal van appellante, ook in het geval dat kuikens van de carrousel ‘geraken’, bijvoorbeeld omdat zij niet behoorlijk worden aangehaakt, mogen worden gevergd dat zij daarop onmiddellijk actie onderneemt om te bewerkstelligen dat de betreffende kuikens (verder) pijn, spanning lijden, angst of abnormaal gedrag wordt bespaard. In het rapport van bevindingen is onweersproken beschreven dat de toezichthouder meerdere keren leidinggevende medewerkers van appellante heeft gewezen op de aanwezigheid van genoemde kuikens en dat desondanks de kuikens niet direct werden gevangen en teruggeplaatst in de carrousel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.5</nr>
+      <para>Het College concludeert dat de minister bevoegd was appellante een boete op te leggen voor deze overtreding.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De boete wegens levend kuiken in bak met DOA’s (201607150, vaststelling overtreding)</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.1</nr>
+      <para>De minister heeft in deze zaak een boete opgelegd wegens overtreding van artikel 3, eerste lid, van Verordening nr. 1099/2009.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.2</nr>
+      <para>De minister heeft de boete gebaseerd op de bevindingen van een toezichthouder van de NVWA naar aanleiding van een op 21 oktober 2016 bij appellante uitgevoerde controle. Deze bevindingen zijn neergelegd in een rapport van bevindingen van 16 november 2016 en zijn weergegeven in punt 11.3 van de aangevallen uitspraak. In punt 11.4 heeft de rechtbank geconcludeerd dat in voldoende mate vaststaat dat appellante deze overtreding heeft begaan. Het College verwijst hier naar deze overwegingen van de rechtbank.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.3</nr>
+      <para>Appellante voert aan dat het feit dat een levend kuiken onder een dood kuiken is aangetroffen geenszins het bewijs van genoemde overtreding oplevert. Appellante wijst hierbij op de praktijk van het aanhangen van kuikens aan de carrousel, hetgeen in hoog tempo door meerdere medewerkers gebeurt en waarbij (schijn)dode kuikens worden uitgeselecteerd. Het is zeer wel mogelijk dat de kuikens onmiddellijk voordat ze levend in de DOA-bak zijn aangetroffen zijn uitgeselecteerd en (nagenoeg) tegelijkertijd in de bak voor DOA’s zijn gedeponeerd. Voorts is in dit geval niet komen vast te staan dat het personeel van appellante het betreffende levende kuiken eerder had kunnen en moeten opmerken, omdat de toezichthouder onmiddellijk heeft ingegrepen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.4</nr>
+      <para>Appellante betwist niet de juistheid van de constatering van de toezichthouder in het rapport van bevindingen dat in één nagenoeg tot de rand gevulde DOA-bak een levend kuiken was bedolven onder zeven dode kuikens. Evenmin heeft appellante gemotiveerd betwist dat dit levende kuiken volgens de toezichthouder nog duidelijke tekenen van leven vertoonde, waaronder een ritmische ademhaling en vleugel- en pootbewegingen. Gelet op deze duidelijke levenstekens acht het College, zonder nadere onderbouwing van appellante die ontbreekt, niet aannemelijk dat dit kuiken kon worden aangezien voor een schijndood kuiken en dat daarom verklaarbaar en begrijpelijk moet worden geacht dat het dier bij het zogenaamde uitselecteren in de bak met DOA’s terecht is gekomen. Ook indien dit wel zo zou zijn, neemt dit niet weg dat appellante er ingevolge artikel 3, eerste lid, van Verordening nr. 1099/2009 voor moet zorgen dat abusievelijk in de DOA-bak gedeponeerde levende dieren elke vermijdbare vorm van pijn, spanning of lijden wordt bespaard, bijvoorbeeld door de DOA-bak tijdig te controleren op levende kuikens. Met de rechtbank is het College van oordeel dat appellante niet aannemelijk heeft gemaakt dat van één van haar medewerkers niet kon worden verlangd dat hij het betreffende levende kuiken bij een controle van de DOA-bak had opgemerkt en had ingegrepen om verdere pijn of lijden van dit dier te voorkomen, voordat de toezichthouder het dier waarnam en ingreep. Hierbij is van belang dat de DOA-bak nagenoeg helemaal vol was en dat de toezichthouder de bak nader is gaan controleren omdat hij zag dat de inhoud van de bak bewoog. Appellante heeft niet aannemelijk gemaakt dat een medewerker van haar niet dienovereenkomstig had kunnen handelen. Het hoge tempo waarmee het aanhangen geschiedt, acht het College daarvoor onvoldoende rechtvaardiging gegeven genoemde verplichtingen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.5</nr>
+      <para>Gelet op het vorenstaande is de minister bevoegd appellante een boete op te leggen wegens de hier aan de orde zijnde overtreding.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overige beroepsgronden (alle boetezaken, tenzij anders vermeld)</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Keuze minister voor opleggen boetes</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>15.1</nr>
+      <para>Appellante heeft aangevoerd dat de minister ten aanzien van haar bedrijf een lik-op-stukbeleid voert waarbij iedere vermeende onvolkomenheid wordt vastgelegd in een rapport van bevindingen en leidt tot een boete. De minister heeft ten onrechte geen rekening gehouden met dit ‘nultolerantiebeleid’, waardoor appellante financieel en in haar bedrijfsvoering zwaar wordt belast door het moeten voeren van veel bezwaar- en beroepsprocedures.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.2</nr>
+      <para>Voor zover appellante hiermee heeft willen betogen dat de minister niet in redelijkheid tot het opleggen van de in geding zijnde boetes heeft kunnen besluiten, ziet het College voor dat oordeel geen grond in de specifiek hiertoe door appellante genoemde redenen. Het gaat bij het opleggen van een boete als hier in geding om de aanwending van een discretionaire bevoegdheid, waarbij de minister bij het maken van deze keuze beschikt over beleidsruimte. Gesteld noch gebleken is dat ter zake beleid van de minister van toepassing is waaruit volgt dat het opleggen van deze boetes achterwege had moeten blijven. De minister heeft gewezen op het belang van de bescherming van het dierenwelzijn, dat wordt gediend door de overtreden wettelijke voorschriften van Verordening nr. 1099/2009, en het grote belang van adequate handhaving van deze voorschriften ter bescherming van dat belang. Volgens de minister is het opleggen van boetes, die bestraffend van aard zijn en gericht zijn op leedtoevoeging, wegens de in geding zijnde overtredingen, gelet op alle feiten en omstandigheden, een geschikte en passende sanctie voor appellante. Op het bedrijf van appellante zijn over een langere periode bij controles een groot aantal overtredingen op het gebied van het dierenwelzijn, de dier- en volksgezondheid en voedselveiligheid geconstateerd. Van incidentele overtredingen is dus geen sprake. In dit verband heeft de minister ter zitting uiteengezet dat, voordat is besloten om op het bedrijf van appellante geconstateerde overtredingen te sanctioneren met bestuurlijke boetes, er veel en regelmatig overleg tussen appellante en de NVWA heeft plaatsgevonden om tot verbetering van de naleving van de betreffende wet- en regelgeving te komen en dat  met het oog daarop eerst waarschuwingen aan haar zijn opgelegd. Toen verbetering uitbleef, heeft de minister besloten de handhaving ‘op te schalen’ en boetes op te leggen. Nadat de erkenning van de slachterij van appellante in de eerste helft van 2017 gedeeltelijk is geschorst, appellante een verbeterplan heeft ingediend en deze schorsing is opgeheven, is de situatie op het bedrijf volgens de minister spectaculair verbeterd. Die stijgende lijn is vastgehouden. Er worden minder overtredingen geconstateerd. Appellante heeft een en ander niet weersproken. Onder deze omstandigheden acht het College de keuze van de minister om in de onderhavige zaken gebruik te maken van zijn bevoegdheid om boetes op te leggen niet onaanvaardbaar. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.3</nr>
+      <parablock>
+        <para>Voor zover appellante ter aanvulling op de in 15.1.1 genoemde beroepsgrond specifiek voor de boetezaken 201605316 en 201603567 met betrekking tot de vleugelbeknellingen en rugliggingen betoogt dat de minister voor vangletsel een handhavingsnorm hanteert, die inhoudt dat niet handhavend wordt opgetreden indien de toezichthouder een vangletselpercentage van twee procent of minder vaststelt, en niet valt in te zien waarom een dergelijke norm niet wordt gehanteerd in het kader van de in die zaken aan de orde zijnde overtreding, leidt dit betoog het College niet tot een ander oordeel. Zoals hiervoor in 15.2 reeds is overwogen gaat het bij het opleggen van een boete als hier in geding om de aanwending van een discretionaire bevoegdheid, waarbij de minister bij het maken van deze keuze beschikt over beleidsruimte. Gegeven deze beleidsruimte betekent het enkele feit dat voor vangletsel een dergelijke handhavingsnorm bestaat niet dat de minister niet in redelijkheid ervan heeft kunnen afzien om met betrekking tot de onderhavige overtreding een handhavingsnorm als bedoeld door appellante te hanteren.</para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">Beroep op artikel 5:41 Awb</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>16.1.1</nr>
+        <para>Appellante voert in het algemeen met een beroep op artikel 5:41 van de Awb aan dat  haar de in geding zijnde overtredingen niet kunnen worden verweten, omdat zij alle zorg heeft betracht die in redelijkheid van haar kan worden gevergd om de in de rapporten van bevindingen beschreven incidenten te voorkomen. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>16.1.2</nr>
+        <para>In deze algemene, niet met feiten onderbouwde en met betrekking tot de verschillende in geding zijnde overtredingen ook niet geconcretiseerde stelling ziet het College geen grond voor het oordeel dat appellante geen verwijt kan worden gemaakt van deze overtredingen</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>16.2.1.</nr>
+        <para>Ten aanzien van boetezaak 201603567 voert appellante onder verwijzing naar artikel 5:41 van de Awb meer in het bijzonder nog aan dat zij met gedetailleerde werkinstructies, alsmede met de aan het personeel verstrekte opleiding en het toezicht op en de begeleiding van hun functioneren alle zorg betracht die in redelijkheid van haar kan worden gevergd om het kantelen van beknelde of kuikens met rugliggingen te voorkomen. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>16.2.2</nr>
+        <para>Appellante heeft deze stelling niet nader onderbouwd en toegespitst op de concrete situatie zoals door de toezichthouder is beschreven in zijn rapport van bevindingen van 7 juni 2016. Daarin ziet het College derhalve geen grond voor het oordeel dat specifiek de in deze boetezaak aan de orde zijnde overtreding appellante niet kan worden verweten. </para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Hoogte van de boetes </emphasis>
+            <?linebreak?>17.1	Appellante betwist voorts de hoogte van de opgelegde boetes met een beroep op artikel 5:46, derde lid, van de Awb. Volgens appellante had de minister lagere boetes moeten opleggen wegens een aantal bijzondere omstandigheden als bedoeld in deze bepaling. Appellante heeft hiertoe aangevoerd dat zij van de aan de boetes ten grondslag gelegde gedragingen geen enkel economisch voordeel heeft genoten en dat sprake is van niet te vermijden voorvallen in het productieproces, die haar economische belang juist schaden. Voorts heeft de minister ten onrechte geen rekening gehouden met het door hem ten aanzien van appellante gevoerde lik-op-stuk beleid, wat naast voor haar belastende besluiten in meerdere gevallen leidt tot het door de minister gegrond (moeten) verklaren van door haar ingediende bezwaarschriften. Door het (moeten) voeren van veel bezwaar- en beroepsprocedures wordt appellante financieel en in haar bedrijfsvoering zwaar belast. Voorts staat de opeenstapeling van boetebesluiten volgens appellante in geen verhouding tot de financiële positie van haar bedrijf.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>17.2</nr>
+      <parablock>
+        <para>Het College stelt vast dat de hoogte van de bestuurlijke boete die mag worden opgelegd wegens de in geding zijnde overtredingen op grond van artikel 8.8 van de Wet dieren wettelijk is vastgelegd in het Besluit handhaving en overige zaken Wet dieren (Besluit handhaving) en de Regeling handhaving en overige zaken Wet dieren (Regeling handhaving). Niet gebleken is dat de minister met betrekking tot de in geding zijnde boetes een onjuiste toepassing heeft gegeven aan hetgeen in deze regelingen is bepaald omtrent de hoogte van de boete. Appellante heeft weliswaar gesteld dat de minister de boetes had moeten halveren op grond van artikel 2.3, aanhef en onder a, van het Besluit handhaving, maar zij heeft niet concreet gemotiveerd waarom de in deze bepaling bedoelde risico’s of gevolgen van een overtreding voor de diergezondheid of het dierenwelzijn gering zijn of ontbreken. Gegeven de bevindingen van de toezichthouders in de onderhavige boetezaken en gelet op de</para>
+        <para>aard van de hier aan de orde zijnde overtredingen, acht het College niet aannemelijk dat die gevolgen gering zijn of ontbreken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>17.3</nr>
+      <para>Ingevolge artikel 5:46, derde lid, van de Awb legt het bestuursorgaan, indien de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, niettemin een lagere boete op indien de overtreder aannemelijk maakt dat de vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog is. In hetgeen appellante heeft aangevoerd in het kader van deze bepaling ziet het College geen reden om de boetes verdergaand te matigen of te schrappen. Zoals het College onder meer heeft geoordeeld in de uitspraak van 23 april 2019, ECLI:NL:CBB:2019:167, brengt artikel 6 van het EVRM mee dat de rechter dient te toetsen of de hoogte van de opgelegde boete in redelijke verhouding staat tot de ernst en de verwijtbaarheid van de overtreding. Voor bij wettelijk voorschrift vastgestelde boetebedragen vormt artikel 5:46, derde lid, van de Awb het kader waarin de op artikel 6 van het EVRM gestoelde evenredigheidstoets wordt voltrokken. Binnen dit kader kan en behoort te worden beoordeeld of de ingevolge artikel 2.2, eerste lid, aanhef en onder c, van het Besluit handhaving, gelezen in samenhang met artikel 1.2 van de Regeling, voorgeschreven boete in het concrete geval evenredig is aan met name de aard en ernst van de geconstateerde overtreding, de mate waarin deze aan de overtreder kan worden verweten en, zo nodig, de omstandigheden waaronder de overtreding is begaan. De door appellante genoemde omstandigheden zijn geen omstandigheden waarin de minister aanleiding had moeten zien om de boetes te matigen of te schrappen. Gelet op hetgeen hiervoor in 15.2 is overwogen met betrekking tot de aanpak van het bedrijf van appellante door de minister, leidt de enkele stelling van appellante dat zij financieel en in haar bedrijfsvoering zwaar wordt belast door de bezwaar- en beroepsprocedures en dat zij geen economisch voordeel heeft gehad van de gesanctioneerde gedragingen, niet tot de conclusie dat de boetes onevenredig zijn. Op het bedrijf van appellante was sprake was van een situatie waarin over een langere periode structureel overtredingen van wettelijke voorschriften op het gebied van het dierenwelzijn, de dier- en volksgezondheid en voedselveiligheid zijn geconstateerd door de minister, terwijl appellante er niet in slaagde om wat dit betreft wezenlijke verbeteringen door te voeren, ondanks herhaald overleg met de NVWA en andere maatregelen die door de NVWA en de minister zijn opgelegd. Dit blijkt ook uit de uitspraken van heden van het College in de hiervoor in het procesverloop genoemde andere beroepsprocedures van appellante 18/2235, 18/2236, 18/2237, 18/2238, 18/2239, 18/2240, 18/2241, 18/2242, 18/2243 en 18/2244. Genoemde omstandigheden komen dan ook voor rekening en risico van appellante. Appellante heeft haar stelling dat de opeenstapeling van boetebesluiten in geen verhouding staat tot de financiële positie van haar bedrijf niet met feiten onderbouwd. Appellante heeft op geen enkele wijze op enig moment in de procedure inzicht gegeven in de financiële positie van haar bedrijf. Ter zitting heeft appellante desgevraagd verklaard dat zij dit inzicht ook niet zal geven. De financiële positie van appellante geeft daarom geen grond voor het oordeel dat de boetes moeten worden gematigd of op nihil moeten worden vastgesteld.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie boetezaken</emphasis>
+          <?linebreak?>
+        </para>
+        <para>18	Gelet op al het vorenstaande komt de aangevallen uitspraak voor zover de rechtbank daarbij heeft beslist dat het bestreden besluit met betrekking tot de in hoger beroep aan de orde zijnde boetezaken in stand blijft voor bevestiging in aanmerking, met verbetering van de gronden in de boetezaken 201603567 en 201605316 in verband met hetgeen hiervoor in 7.7 is overwogen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Proceskostenveroordeling</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>19.1</nr>
+      <para>De rechtbank heeft ten aanzien van de proceskostenveroordeling, voor zover van belang, het volgende geoordeeld:</para>
+      <para />
+      <parablock>
+        <para>“25. De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten. De rechtbank stelt deze kosten vast aan de hand van het Besluit proceskosten bestuursrecht (Bpb). Naar het oordeel van de rechtbank leidt toepassing van de in het Bpb zuiver forfaitair bepaalde vergoeding tot een dermate disproportionele vergoeding dat er aanleiding bestaat om deze vergoeding op grond van artikel 2, derde lid, van het Bpb te matigen. Daartoe is van belang dat dit beroep en de beroepen ROT 17/4424, ROT 18/3138, ROT 18/3139, ROT 18/3140, ROT 18/3141, ROT 18/3142, ROT 18/3143, ROT 18/3144, ROT 18/3145 en ROT 18/3146, weliswaar niet als samenhangende zaken in de zin van het Bpb kunnen worden aangemerkt, maar wel op onderdelen enige samenhang vertonen ten aanzien van het soort overtreding en een aantal algemene beroepsgronden. Daarnaast zijn al deze beroepen tegelijk op dezelfde zitting behandeld. Gelet hierop ziet de rechtbank aanleiding om de forfaitaire toe te kennen vergoeding te halveren. Voor de vaststelling van het forfaitaire bedrag wordt 1 punt toegekend voor de aanvulling van het beroep bij brief van 28 juni 2018 en 1 punt voor het verschijnen op de zitting van 8 augustus 2018, met een waarde per punt van € 501,- en wegingsfactor 1. Na halvering van dit bedrag komen de te vergoeden kosten voor de rechtsbijstandverlening in dit inhoudelijke deel van het beroep op € 501,-. Ten aanzien van de reiskosten van de directeur van eiseres naar de zitting van 8 augustus 2018 overweegt de rechtbank dat de hiervoor genoemde inhoudelijke beroepen op dezelfde zitting zijn behandeld en hij dus slechts één maal heeft moeten reizen voor de inhoudelijke behandeling van deze beroepen. De rechtbank zal de te vergoeden reiskosten (€ 50,60) dan ook gelijkelijk verdelen over de negen van de hiervoor genoemde beroepen die gegrond zijn verklaard, wat neerkomt op € 5,62 per zaak. Daarmee komen de totale door verweerder te vergoeden proceskosten in dit beroep op € 506,62.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.2</nr>
+      <para>Appellante betoogt dat de rechtbank de proceskostenvergoeding ten onrechte heeft gematigd. Zij wijst er op dat alle beroepen meerdere boetebesluiten omvatten, die elk voor zich nopen tot bestudering en bespreking van de feiten en de juridische merites van de betreffende zaak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.3</nr>
+      <para>Het College stelt vast dat de rechtbank op grond van artikel 2, derde lid, van het Besluit proceskosten bestuursrecht (Bpb) heeft besloten tot matiging van de veroordeling van de minister in de proceskosten van appellante. Deze bepaling geeft, voor zover hier van belang, de bestuursrechter de mogelijkheid om in bijzondere omstandigheden af te wijken van het in het eerste lid, onderdeel a, van genoemd artikel bedoelde forfaitaire tarief voor de kosten van door een derde beroepsmatig verleende rechtsbijstand. De toelichting bij het Bpb (Stb. 1993, 763, p. 10) vermeldt dat in uitzonderlijke gevallen strikte toepassing van de regeling onrechtvaardig kan uitpakken en dat de rechter in bijzondere omstandigheden de volgens het Bpb berekende vergoeding – zonder af te doen aan het karakter van een tegemoetkoming in de daadwerkelijke kosten – kan verhogen of verlagen. Benadrukt wordt dat het werkelijk gaat om uitzonderingen en als voorbeeld wordt genoemd een geval waarin de burger door gebrekkige informatievoorziening door de overheid op uitzonderlijk hoge kosten voor het verzamelen van het benodigde feitenmateriaal is gejaagd. In dit verband wijst het College ook op de toelichting met dezelfde strekking bij het Besluit proceskosten bestuursrecht van 27 oktober 2017 tot wijziging van het Besluit proceskosten bestuursrecht in verband een verruiming van de regeling voor samenhangende zaken (Stb. 2014, 411, p. 3).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.4</nr>
+      <para>Het College begrijpt de door de rechtbank aan de toepassing van artikel 2, derde lid, Bpb ten grondslag gelegde motivering aldus dat de rechtbank van oordeel is dat de omstandigheid dat de daarbij genoemde zaken, hoewel niet samenhangend in de zin van artikel 3 van het Bbp, op onderdelen enige samenhang vertonen ten aanzien van de soort overtreding en een aantal algemene beroepsgronden, alsmede de omstandigheid dat alle betreffende beroepen tegelijk op dezelfde zitting zijn behandeld, bijzondere omstandigheden zijn in de zin van genoemde wettelijke bepaling. Het College is van oordeel dat geen van deze omstandigheden zo uitzonderlijk is en evenmin in onderling verband zo uitzonderlijk zijn, dat afwijking van vorengenoemd forfaitaire tarief op grond van artikel 2, derde lid, van het Bpb gerechtvaardigd is. Dit betekent dat de in 19.2 genoemde beroepsgrond slaagt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.5</nr>
+      <para>Gelet op het vorenstaande dient de aangevallen uitspraak voor zover de rechtbank hierbij de minister heeft veroordeeld in de door appellante gemaakte proceskosten tot een bedrag van € 506,62 te worden vernietigd. Doende hetgeen de rechtbank zou behoren te doen, stelt het College de proceskosten die appellante heeft gemaakt in verband met de behandeling van het in de aangevallen uitspraak gegrond verklaarde beroep vast op € 1.024,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting bij de rechtbank, met een waarde per punt van € 512,-, zijnde de waarde die gold toen de rechtbank de aangevallen uitspraak deed). De in verband met de behandeling van het beroep bij de rechtbank gemaakte (eenmalige) reiskosten zijn reeds voor vergoeding in aanmerking gebracht in de procedure 18/2235, zodat deze kosten in de onderhavige procedure niet nogmaals voor vergoeding in aanmerking komen.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.6</nr>
+      <para>Het College veroordeelt de minister voorts in de door appellante in verband met de behandeling van het hoger beroep gemaakte proceskosten. Deze kosten stelt het College op grond van het Bpb voor de door een derde beroepsmatig verleende rechtsbijstand vast op  <?linebreak?>€ 1.050,- (1 punt voor het indienen van het hoger beroepschrift, 1 punt voor het verschijnen ter zitting bij het College, met een waarde per punt van € 525,- en een wegingsfactor 1). Nu de in verband met de behandeling van het hoger beroep gemaakte (eenmalige) reiskosten reeds voor vergoeding in aanmerking zijn gebracht in de procedure 18/2728, komen deze kosten in de onderhavige procedure niet nogmaals voor vergoeding in aanmerking.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.7</nr>
+      <para>De minister wordt dus veroordeeld in de door appellante in verband met de behandeling van het beroep in eerste aanleg en het hoger beroep gemaakte proceskosten voor in totaal <?linebreak?>€ 2.074,- ( € 1.024,- vermeerderd met € 1.050,-).</para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing </title>
+    <para />
+    <parablock>
+      <para>Het College: </para>
+    </parablock>
+    <para />
+    <para>- bevestigt de aangevallen uitspraak voor zover de rechtbank daarbij heeft beslist dat het 	bestreden besluit met betrekking tot de in hoger beroep aan de orde zijnde boetezaken 	in stand blijft, met verbetering van de gronden in de boetezaken 201603567 en 	201605316; </para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt de aangevallen uitspraak voor zover de rechtbank hierbij de minister heeft veroordeeld in de door appellante in verband met de behandeling van het beroep gemaakte proceskosten tot een bedrag van € 506,62; </para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt de minister in de door appellante in verband met de behandeling van het beroep in eerste aanleg en het hoger beroep gemaakte proceskosten tot een bedrag van in totaal € 2.074,-;</para>
+      </listitem>
+      <listitem>
+        <para>draagt de minister op het in hoger beroep betaalde griffierecht van € 508,- aan appellante te vergoeden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. S.C. Stuldreher, mr. H.S.J. Albers en mr. J.A.M. van den Berk, in aanwezigheid van mr. A. Verhoeven, griffier. De beslissing is in het openbaar uitgesproken op 2 juni 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De griffier is verhinderd de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage I: van toepassing zijnde wettelijke voorschriften</title>
+    <para />
+    <parablock>
+      <para>Verordening (EG) Nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 luidt, voor zover van belang, als volgt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		“Artikel 1</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Toepassingsgebied</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		1. Deze verordening is van toepassing op het vervoer van levende gewervelde dieren binnen 		de Gemeenschap, alsmede op de door ambtenaren te verrichten speciale controles op partijen 		dieren die het douanegebied van de Gemeenschap binnenkomen of verlaten.<?linebreak?>		(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Artikel 2</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Definities</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Voor de toepassing van deze verordening gelden de volgende definities<?linebreak?>		(…)<?linebreak?>		s)  ,, plaats van bestemming”: de plaats waar een dier uit een vervoermiddel geladen wordt en<?linebreak?>		i.  gedurende ten minste 48 uur voor het vertrek gestald wordt, of<?linebreak?>		ii. geslacht wordt;<?linebreak?>		(…)	</para>
+      <para>w) ,,vervoer”: de verplaatsing van dieren met behulp van een of meer vervoermiddelen en de 	daarmee samenhangende activiteiten, zoals laden, lossen, overladen en rusten, tot aan het 	moment waarop alle dieren op de plaats van bestemming zijn uitgeladen.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden luidt, voor zover van belang, als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		“Artikel 2</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Definities</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Voor de toepassing van deze verordening gelden de volgende definities:<?linebreak?>		a) ,, doden”: iedere bewust gebruikte methode die resulteert in de dood van een dier;<?linebreak?>		b) ,, daarmee verband houdende activiteiten”: activiteiten zoals het behandelen, onderbrengen, 		fixeren, bedwelmen en verbloeden van dieren die worden verricht in de context van het doden 		van dieren op de locatie waar de dieren worden gedood;<?linebreak?>		(…)<?linebreak?>		l) ,,bedrijfsexploitant”: elke natuurlijke of rechtspersoon die het beheer voert over een 			onderneming waar dieren worden gedood of waar daarmee verband houdende activiteiten 		worden verricht die binnen de werkingssfeer van deze verordening vallen;</para>
+      <para>		(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Artikel 3</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Algemene voorschriften voor het doden van dieren en daarmee verband houdende activiteiten</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. Bij het doden van dieren en daarmee verband houdende activiteiten wordt ervoor gezorgd dat de dieren elke vermijdbare vorm van pijn, spanning of lijden wordt bespaard.</para>
+      <para>(…)</para>
+      <para>2. Voor de toepassing van lid 1nemen bedrijfsexploitanten met name de noodzakelijke maatregelen om te waarborgen dat dieren:</para>
+      <para>a) fysiek comfort en fysieke bescherming wordt geboden, met name doordat zij schoon worden gehouden, in een omgeving met adequate thermische omstandigheden die ook bescherming biedt tegen vallen of uitglijden;<?linebreak?>b) beschermd zijn tegen letsel;<?linebreak?>(…)<?linebreak?>d) geen tekenen van vermijdbare pijn, angst, of abnormaal gedrag vertonen;<?linebreak?>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hoofdstuk III</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Aanvullende voorschriften voor slachthuizen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Artikel 15</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Behandeling van dieren en fixatieactiviteiten in slachthuizen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. De bedrijfsexploitanten waarborgen dat de in bijlage III opgenomen operationele voorschriften voor slachthuizen in acht worden genomen.</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bijlage III</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Operationele voorschriften voor slachthuizen </para>
+      <para>(zoals bedoeld in artikel 15)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. de aankomst en verplaatsing van en het omgaan met dieren</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>De welzijnsomstandigheden van elke zending dieren worden systematisch bij aankomst beoordeeld door de functionaris voor het dierenwelzijn of door een persoon die rechtstreeks aan die functionaris rapporteert om de prioriteiten in kaart te kunnen brengen, met name door te bepalen welke dieren specifieke welzijnsbehoeften hebben en welke maatregelen genomen dienen te worden om in die behoeften te voorzien.”<?linebreak?></para>
+        <para>De Wet dieren luidt, voor zover van belang, als volgt:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Artikel 6:2 Strafbaarstelling overtredingen EU-verordeningen<?linebreak?>	1. Het is verboden in strijd te handelen met bij of krachtens algemene maatregel van 	bestuur of bij ministeriële regeling aangewezen voorschriften van EU-verordeningen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>	Artikel 8:7 Bevoegdheid</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>	Onze Minister kan een overtreder een bestuurlijke boete opleggen	</para>
+        <para>Artikel 8.8 Hoogte bestuurlijke boete</para>
+        <para>1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen kan worden opgelegd.</para>
+        <para>2. De op grond van het eerste lid te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap, of, indien dat meer is, 10 procent van de jaaromzet in het boekjaar voorafgaande aan het boekjaar waarin de boete wordt opgelegd.”</para>
+        <para>De Regeling houders van dieren luidt, voor zover van belang, als volgt:</para>
+        <para>“Artikel 5.8 Verbodsbepaling</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>	Als voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de wet 	worden aangewezen de artikelen 3, 4, eerste en vierde lid, 5, eerste en tweede lid, 6, eerste en 	tweede lid, 7, 8, 9, 12, 14, eerste en tweede lid, 15, eerste, tweede en derde lid, 16, eerste tot en 	met vierde lid, 17, 19, 21, zesde lid, 24 en 28, eerste lid, van verordening (EG) nr. 1099/2009.”</para>
+        <para>Het Besluit handhaving en overige zaken wet dieren luidt, voor zover van belang, als volgt:</para>
+        <para>	“Artikel 2.2 Boetecategorieën</para>
+        <para>1. De hoogte van de bestuurlijke boete die Onze Minister aan een overtreder voor een overtreding kan opleggen wordt overeenkomstig de volgende boetecategorieën vastgesteld:</para>
+        <para>a. categorie 1: € 500;</para>
+        <para>b. categorie 2: € 1500;</para>
+        <para>c. categorie 3: € 2500;</para>
+        <para>d. categorie 4: € 5000;</para>
+        <para>e. categorie 5: € 10.000 of, indien dat meer is, 10% van de jaaromzet.</para>
+        <para>2. Indien de hoogte van de krachtens het derde lid aangewezen boetecategorie door het met de overtreding te behalen economische voordeel aanmerkelijk wordt overschreden, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste categorie 5, bedoeld in het eerste lid.</para>
+        <para>3. Bij ministeriële regeling worden de bepalingen waarvoor in geval van overtreding een bestuurlijke boete kan worden opgelegd, ingedeeld overeenkomstig de daarbij aangewezen boetecategorie.</para>
+        <para>4. In de regeling, bedoeld in het derde lid, kan worden bepaald dat de hoogte van de bestuurlijke boete voor een overtreding wordt vastgesteld op het bedrag behorende bij de naast hogere boetecategorie ten opzichte van de categorie, bedoeld in het derde lid, indien bij de betreffende gedraging een in die regeling vastgesteld percentage dieren van het totaal aantal betrokken dieren was betrokken op een in die regeling aangewezen wijze.</para>
+        <para>Artikel 2.3 Gevolgen volksgezondheid, diergezondheid en dierenwelzijn</para>
+        <para>	Indien de risico’s of de gevolgen van een overtreding voor de volksgezondheid, 	diergezondheid, dierenwelzijn of milieu:</para>
+        <para>a. gering zijn of ontbreken, wordt het bedrag, bedoeld in artikel 2.2, eerste lid, gehalveerd;</para>
+        <para>b. ernstig zijn, wordt het bedrag, bedoeld in artikel 2.2, eerste lid, verdubbeld.”</para>
+        <para>De Regeling handhaving en overige zaken Wet dieren luidt, voor zover van belang, als volgt:</para>
+        <para>“Artikel 1.2 Indeling categorieën bestuurlijke boete</para>
+        <para>	De hoogte van de bestuurlijke boete, bedoeld in artikel 2.2, eerste lid, van het besluit, wordt 	vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de 	bijlage bij deze regeling voor desbetreffende overtredingen zijn vastgelegd</para>
+        <para>	(…)</para>
+        <para>	Bijlage als bedoeld in artikel 1.2 van de Regeling handhaving en overige zaken Wet dieren</para>
+        <para>(…)										Categorie</para>
+        <para>	Regeling houders van dieren</para>
+        <para>	(…)</para>
+        <para>	Artikel 5.8										3”</para>
+        <para>De Algemene wet bestuursrecht luidt, voor zover van belang, als volgt:<?linebreak?></para>
+        <para>“Artikel 5:41<?linebreak?>	Het bestuursorgaan legt geen bestuurlijke boete op voor zover de overtreding niet aan de overtreder kan worden verweten.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>	(…)<?linebreak?></para>
+        <para>	Artikel 5:46<?linebreak?>	1. De wet bepaalt de bestuurlijke boete die wegens een bepaalde overtreding ten 	hoogste kan worden opgelegd.<?linebreak?>	(…)<?linebreak?>	3. Indien de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgelegd, legt het 	bestuursorgaan niettemin een lagere bestuurlijke boete op indien de overtreder aannemelijk 	maakt dat de vastgestelde bestuurlijke boete wegens bijzondere 	omstandigheden te hoog is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 8:75<?linebreak?>	1. De bestuursrechter is bij uitsluiting bevoegd een partij te veroordelen in de kosten die een 	andere partij in verband met de behandeling van het beroep bij de bestuursrechter, en van het 	bezwaar of van het administratief beroep redelijkerwijs 	heeft moeten maken. De artikelen 	7:15, tweede tot en met vierde lid, en 7:28, tweede, vierde en vijfde lid, zijn van toepassing.	Een natuurlijke persoon kan slechts in de kosten worden veroordeeld in geval van kennelijk 	onredelijk gebruik van procesrecht. Bij algemene maatregel van bestuur worden nadere regels 	gesteld over de kosten waarop een veroordeling als bedoeld in de eerste volzin uitsluitend 	betrekking kan 	hebben en over de wijze waarop bij de uitspraak het bedrag van de kosten 	wordt vastgesteld”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het Besluit proceskosten bestuursrecht luidt, voor zover hier van belang, als volgt:		<?linebreak?>“Artikel 1 </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Een veroordeling in de kosten als bedoeld in artikel 8:75 (…) van de Algemene wet bestuursrecht kan uitsluitend betrekking hebben op:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>a. kosten van door een derde beroepsmatig verleende rechtsbijstand,</para>
+        <para>(…)</para>
+        <para>c. reis- en verblijfkosten van een partij of een belanghebbende,</para>
+        <para>(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 2</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>1 Het bedrag van de kosten wordt bij de uitspraak, onderscheidenlijk de beslissing op het bezwaar of het administratief beroep als volgt vastgesteld: </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>a. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel a, overeenkomstig het in de bijlage opgenomen tarief;</para>
+        <para>(…)</para>
+        <para>c. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel c: overeenkomstig artikel 11, eerste lid, onderdeel d, van het Besluit tarieven in strafzaken 2003;</para>
+        <para>(…)</para>
+        <para>3 In bijzondere omstandigheden kan van het eerste lid worden afgeweken.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 3<?linebreak?>1.Samenhangende zaken worden voor de toepassing van artikel 2, eerste lid, onder a, beschouwd als één zaak.<?linebreak?>2. Samenhangende zaken zijn: door een of meer belanghebbenden gemaakte bezwaren of ingestelde beroepen, die door het bestuursorgaan of de bestuursrechter gelijktijdig of nagenoeg gelijktijdig zijn behandeld, waarin rechtsbijstand als bedoeld in artikel 1, onder a, is verleend door dezelfde persoon dan wel door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.”</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para>
+        <?linebreak?>
+      </para>
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <bridgehead>Bijlage II: de aangevallen uitspraak</bridgehead>
+</uitspraak>
+</open-rechtspraak>

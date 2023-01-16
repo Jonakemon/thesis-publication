@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:3712</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-05T16:40:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 20/3624</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Viditax (FutD), 29-07-2020</rdf:li>
+          <rdf:li>FutD 2020-2232 met annotatie van Fiscaal up to Date</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3712">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3712</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-29T14:00:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:3712 Rechtbank Amsterdam , 10-07-2020 / AMS 20/3624</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:3712:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Voorlopige voorziening hangende bezwaar afgewezen, vooralsnog niet aannemelijk dat verzoeker in aanmerking komt voor een Tozo uitkering, niet aannemelijk dat hij ten minste 1.225 uur per jaar besteedt aan de werkzaamheden voor zijn eenmanszaak</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:3712:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 20/3624 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 10 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam] , te Amsterdam, verzoeker,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van de gemeente Amsterdam, verweerder</para>
+      <para>(gemachtigde: mr. C. Telting).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 juni 2020 (het bestreden besluit) heeft verweerder de aanvraag van verzoeker voor een uitkering op grond van de Tijdelijke overbruggingsregeling zelfstandig ondernemers (Tozo) afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het bestreden besluit bezwaar gemaakt. Daarnaast heeft hij de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter heeft de zaak behandeld op de zitting van 7 juli 2020. Vanwege de maatregelen die zijn getroffen omtrent de uitbraak van COVID-19 (het coronavirus) heeft de zitting met een videoverbinding plaatsgevonden. Verzoeker is verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <para>2. Verzoeker verricht werkzaamheden als zelfstandige bij zijn [bedrijf]  . Dit bedrijf richt zich op arbeidsbemiddeling voor evenementen. De evenementen waar verzoeker personeel voor regelt, vinden voornamelijk plaats in de zomer. Naast zijn werk bij [bedrijf] heeft verzoeker de afgelopen jaren gestudeerd. Tot april dit jaar had hij recht op studiefinanciering. Op dit moment heeft verzoeker zijn master bijna afgerond en vanaf september hoopt hij een baan te hebben. In de tussentijd was hij van plan om fulltime voor [bedrijf] te werken. Omdat een groot aantal evenementen door de uitbraak van het coronavirus is geannuleerd, heeft [bedrijf] nu echter geen opdrachten. Verzoeker heeft daardoor geen inkomsten uit zijn onderneming, terwijl de zomer voor hem normaal gesproken het hoogseizoen is. Daarom heeft hij begin april een aanvraag om een bijstandsuitkering ingediend. Verweerder heeft die aanvraag afgewezen, omdat verzoeker zelfstandig ondernemer is. Daarna heeft verzoeker de Tozo-aanvraag gedaan waar het in deze uitspraak om gaat. </para>
+    <para />
+    <para>3. Verweerder heeft de Tozo-aanvraag afgewezen op de grond dat studiefinanciering voor verzoeker een passende en toereikende voorliggende voorziening is op grond van artikel 15, eerste lid, van de Participatiewet (Pw). </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Beoordeling door de voorzieningenrechter</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. De voorzieningenrechter stelt vast dat verzoeker zijn Tozo-aanvraag heeft ingediend in april 2020. Volgens artikel 3, tweede lid, van de Tozo wordt deze aanvraag geacht te zijn ingediend op 1 maart 2020. Op de zitting is gebleken dat partijen het erover eens zijn dat verzoeker over de maand maart 2020 nog studiefinanciering heeft ontvangen en dat hij sinds april 2020 geen recht op studiefinanciering meer heeft. Vanaf dat moment was studiefinanciering dus geen passende en toereikende voorziening meer in de zin van de Pw. Dit betekent echter niet automatisch dat verweerder de aanvraag ten onrechte heeft afgewezen. Dat licht de voorzieningenrechter hierna toe. </para>
+    <para />
+    <para>5. Volgens artikel 1 van de Tozo is iemand pas zelfstandige in de zin van de regeling als hij ten minste 1.225 uur per jaar besteedt aan de werkzaamheden voor het bedrijf of zelfstandig beroep. Omgerekend is dit (afgerond) 23,5 uur per week. In deze procedure heeft verzoeker op het aanvraagformulier vermeld dat hij vijftien uur per week als zelfstandige werkt. Dit is dus te weinig om te worden aangemerkt als zelfstandige in de zin van de Tozo.</para>
+    <para />
+    <para>6. Op de zitting heeft verzoeker toegelicht dat het lastig is het exacte aantal uren per week aan te geven waarin hij als zelfstandige werkt. Dit komt doordat hij voornamelijk in de zomer werkt en de afgelopen periode vooral bezig was met het afronden van zijn studie. Het was de verwachting dat hij na zijn studie veel meer uren voor [bedrijf] zou gaan werken, omdat hij deze zomer voor meer evenementen zou gaan bemiddelen dan in de afgelopen jaren. Daarom zou hij dit jaar naar verwachting (veel) meer dan 1.225 uur besteden aan zijn werk als zelfstandig ondernemer. </para>
+    <para>	De voorzieningenrechter overweegt dat het aan verzoeker is om dit in bezwaar verder met bewijsstukken te onderbouwen. Maar voor dit moment heeft verzoeker niet aannemelijk gemaakt dat hij ten minste 1.225 uur per jaar besteedt aan de werkzaamheden voor [bedrijf] . In zijn aanvraag heeft hij namelijk vermeld dat hij vijftien uur per week voor [bedrijf] werkt en in het dossier zitten geen aanwijzingen dat dit te laag is ingeschat. Dat betekent dat het vooralsnog niet aannemelijk is dat verzoeker in aanmerking komt voor een Tozo‑uitkering.  </para>
+    <para />
+    <para>7. Gelet op het voorgaande ziet de voorzieningenrechter geen aanleiding een voorlopige voorziening te treffen. De voorzieningenrechter wijst het verzoek daarom af. </para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. E.J. Otten, voorzieningenrechter, in aanwezigheid van mr. C.C.H. Hersbach, griffier. De beslissing is in het openbaar uitgesproken op 10 juli 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier</para>
+      <para />
+      <para>							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

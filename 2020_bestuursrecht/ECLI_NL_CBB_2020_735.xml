@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:735</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-20T12:22:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1982</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0039205&amp;g=2020-01-01">Regeling fosfaatreductieplan 2017</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:735">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:735</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-19T08:06:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:735 College van Beroep voor het bedrijfsleven , 20-10-2020 / 18/1982</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:735:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Regeling Fosfaatreductieplan 2017. Geen individuele buitensporige last.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:735:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>Zaaknummer: 18/1982</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 20 oktober 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">V.O.F. [naam] , te [plaats] , appellante</bridgehead>
+    <para>(gemachtigde: mr. G.H. Blom),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. R. Ramlal).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluiten van 2 december 2017, 6 december 2017, 9 december 2017, 16 december 2017 en 27 januari 2018 (de primaire besluiten) heeft verweerder op grond van de Regeling fosfaatreductieplan 2017 (de Regeling) aan appellante heffingen opgelegd van € 461,00 voor periode 1, van € 451,00 voor periode 2, van € 1.786,00 voor periode 3 en van € 1.637,00 voor periode 4. Tevens heeft verweerder aan appellante een bonusgeldsom toegekend van € 222,00 voor periode 5. </para>
+      <para>Bij besluit van 31 juli 2018 (het bestreden besluit) heeft verweerder de bezwaren van appellante tegen de primaire besluiten ongegrond verklaard.</para>
+      <para>Appellante heeft beroep ingesteld tegen het bestreden besluit. </para>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 2 september 2020. Appellante is, met bericht van verhindering, niet verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>Overwegingen <?linebreak?>Inleiding</title>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer vrouwelijke runderen houdt dan het referentieaantal op 2 juli 2015 (de peildatum) en kent een bonusgeldsom toe indien een melkveehouder minder vrouwelijke runderen houdt dan het referentieaantal op de peildatum.</para>
+      </listitem>
+      <listitem>
+        <para>Appellante heeft een melkveehouderij. Op de peildatum 2 juli 2015 had appellante 126 melkkoeien, 48 kalveren en 51 pinken.<?linebreak?><emphasis role="italic">Besluiten van verweerder</emphasis></para>
+      </listitem>
+      <listitem>
+        <para>Verweerder heeft aan appellante hoge geldsommen opgelegd voor de periodes 1 tot en met 4 omdat het gemiddeld aantal runderen op haar bedrijf hoger is dan het doelstellingsaantal voor de betreffende periodes. Verweerder heeft aan appellante een bonusgeldsom toegekend voor periode 5 omdat het gemiddeld aantal runderen op haar bedrijf voor die periode lager is dan het referentieaantal.</para>
+      </listitem>
+      <listitem>
+        <para>Verweerder heeft het bezwaar van appellante tegen de primaire besluiten ongegrond verklaard. Volgens verweerder ontbeert de Regeling geen deugdelijke grondslag nu deze kan worden gevonden in artikel 13 van de Landbouwwet. Verder heeft verweerder geconcludeerd dat er geen sprake is van een te late inning van de geldsommen. Tot slot heeft verweerder geconcludeerd dat zich in het geval van appellante geen bijzondere omstandigheden voordoen die maken dat sprake is van een individuele buitensporige last.<?linebreak?><emphasis role="italic">Beroepsgronden</emphasis></para>
+      </listitem>
+    </orderedlist>
+    <bridgehead role="italic">-grondslag Regeling</bridgehead>
+    <para>5. Voor zover appellante betoogt dat de basis van de Regeling niet kan worden gevonden in artikel 13, eerste lid, van de Landbouwwet, slaagt deze grond niet. Zoals het College eerder heeft geoordeeld in de uitspraak van 21 augustus 2018 (ECLI:NL:CBB:2018:421), heeft de minister voldoende onderbouwd dat de Regeling een doel dient als bedoeld in artikel 13 van de Landbouwwet. Op grond van de overwegingen van die uitspraak heeft de Regeling een wettelijke grondslag in artikel 13 van de Landbouwwet. Voor zover appellante betoogt dat het behoud van derogatie geen doel dient als bedoeld in artikel 13 Landbouwwet slaagt dit betoog evenmin. Het heffingenstelsel in de Regeling heeft tot doel de mestproductie te reduceren door de veestapel stapsgewijs in omvang terug te brengen en op die manier toekomstige derogatie veilig te stellen. Het vervallen van die derogatie zou tot gevolg hebben dat de Nederlandse (melkvee)stapel aanzienlijk moet inkrimpen. Derogatie is dus van belang voor de bedrijfsvoering van de meeste individuele melkveehouders en gericht op de bevordering van de melkproductie op de langere termijn en dientengevolge ook op de bestaanszekerheid van de (meeste) melkveehouders. Die (afgeleide) doelstelling van de Regeling past binnen de kaders van artikel 13 van de Landbouwwet (zie de uitspraak van het College van 14 juli 2020, ECLI:NL:CBB:2020:464).</para>
+    <bridgehead role="italic">-inning</bridgehead>
+    <para>6. Appellante betoogt dat verweerder niet tijdig is overgegaan tot het inwinnen van de geldsommen. Zoals het College eerder heeft geoordeeld (zie eveneens de uitspraak van 21 augustus 2018, ECLI:NL:CBB:2018:421) is de inningstermijn van artikel 8, eerste lid van de Regeling niet dwingendrechtelijk van aard, maar van regelend recht. Uit de toelichting bij de Regeling blijkt dat voor de inningstermijn aansluiting is gezocht bij de uitvoering in de praktijk. Daaruit blijkt niet dat bedoeld is dat de verplichting om te betalen zou vervallen als de heffing pas op een later tijdstip wordt opgelegd. Deze grond slaagt niet.</para>
+    <bridgehead role="italic">-artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP)</bridgehead>
+    <para>7. Voorts betoogt appellante dat het bestreden besluit in strijd is met artikel 1 van het EP. De toepassing van de Regeling leidt in haar geval tot een individuele buitensporige last. Appellante heeft een groot aantal investeringen gedaan om haar bedrijf te kunnen uitbreiden en het grondgebonden en rendabel te houden voor de toekomst. Door de Regeling kunnen deze investeringen niet worden terugverdiend. Hierdoor komt de bedrijfsvoering van appellante ernstig onder druk te staan. Volgens appellante moet de Regeling daarom onverbindend worden verklaard.</para>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Bij de beoordeling of de last voor de betrokken melkveehouder buitensporig is, weegt het College alle betrokken belangen van het individuele geval. In dat verband is vooral de mate waarin het in de Regeling opgenomen stelsel van maatregelen de individuele melkveehouder raakt relevant. Niet ieder inkomens- of vermogensverlies als gevolg van de opgelegde heffingen en de inperking van de exploitatiemogelijkheden – waardoor bijvoorbeeld ook investeringen nutteloos of beperkt nuttig zijn geworden – als gevolg van de tenuitvoerlegging van de Regeling vormt een buitensporige last. De uiteindelijke bewijslast dat sprake is van een buitensporige last, rust op appellante. Daarvoor is inzicht nodig in al haar bedrijfsmatige gegevens en omstandigheden (zie de uitspraak van het College van 21 april 2020, ECLI:NL:CBB:2020:281 (https://jure.nl/ECLI:NL:CBB:2020:281)).</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Voor de situatie waarin sprake is van een uitbreiding van het bedrijf, zoals in het geval van appellante, is verder van belang of en zo ja op welk moment, in welke mate en met welke noodzaak of andere motieven de melkveehouder zijn bedrijf legaal heeft uitgebreid op grond van door de overheid verleende vergunningen voor het houden van specifieke aantallen melkvee en daartoe onomkeerbare investeringen is aangegaan (vergelijk de uitspraak van het College in het fosfaatrechtenstelsel van 23 juli 2019, ECLI:NL:CBB:2019:291, onder 6.8.2).</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>Bij de beoordeling of de last buitensporig is, staat verder voorop dat de beslissingen van melkveehouders om te investeren in productiemiddelen als stallen, grond, melkvee en machines, moeten worden gezien als ondernemersbeslissingen waaraan risico’s inherent zijn. Het College hanteert als uitgangspunt dat de individuele melkveehouder zelf de gevolgen van die risico’s draagt en dat niet ieder vermogensverlies als gevolg van het fosfaatrechtenstelsel een individuele en buitensporige last vormt. Dit uitgangspunt wordt alleen bij uitzondering verlaten. Daarvoor moet dan wel de ondernemersbeslissing in de gegeven omstandigheden – wat betreft het tijdstip waarop de beslissing is genomen, de omstandigheden waaronder de beslissing is genomen, de mate waarin is geïnvesteerd en de reden waarom is geïnvesteerd –navolgbaar zijn, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren (zie de uitspraak van 23 juli 2019, onder 6.7.5.4). Bovendien moeten er goede redenen zijn om aan te nemen dat de last buitensporig is en aldus geen evenwicht bestaat tussen de belangen die zijn gediend met het fosfaatrechtenstelsel (de bescherming van het milieu en de volksgezondheid en het voldoen aan de verplichtingen die voortvloeien uit de Nitraatrichtlijn) en de belangen van de melkveehouder (zie de uitspraak van 25 februari 2020, ECLI:NL:CBB:2020:114, onder 6.9).</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.4.</nr>
+      <para>Appellante hield op 2 juli 2015 nog niet het door haar beoogde aantal melkvee, maar dit maakt niet dat er sprake is van een individuele buitensporige last. In dit geval is van belang dat appellante in 2008, 2009 en 2010 gronden heeft gekocht. Zij heeft in 2010/2011 een nieuwe ligboxenstal gebouwd en een melkrobot gekocht. Voorts heeft appellante in december 2013 opnieuw grond gekocht en in augustus 2015 een nieuwe melktank aangeschaft. Ook heeft zij in januari 2016 nog een melkrobot aangeschaft. Zoals hiervoor in 7.3 is overwogen, draagt appellante zelf de risico’s die zijn verbonden aan haar investeringsbeslissingen en kan zij de nadelige gevolgen van een door haar genomen beslissing om uit te breiden in beginsel niet afwentelen op het collectief. In wat appellante heeft aangevoerd, ziet het College geen aanleiding om hier van dat uitgangspunt af te wijken. In dat verband is van belang dat de bewijslast dat sprake is van een buitensporige last, op appellante rust. Naar het oordeel van het College heeft appellante onvoldoende inzicht gegeven in de last die op haar bedrijf is komen te rusten. Evenmin heeft zij onderbouwd waarom die last buitensporig zou zijn. Uit de door appellante overgelegde stukken blijkt dat zij weliswaar investeringen in haar bedrijf heeft gedaan, maar niet duidelijk is wat de gevolgen van die investeringen zijn voor haar bedrijfsvoering. Appellante heeft geen inzicht gegeven in de financiële positie van haar bedrijf en heeft geen stukken overgelegd die inzicht geven in de gevolgen van de aan haar opgelegde heffingen van totaal € 4.335,00 voor de continuïteit van haar bedrijf. Gelet hierop alsmede gelet op het tijdstip waarop sommige investeringen zijn gedaan, acht het College de investeringsbeslissingen van appellante, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren waarover het College in de uitspraak van 23 juli 2019 (onder 6.7.5.4) heeft geoordeeld, niet navolgbaar. Het had voor melkveehouders al vanaf het moment dat bekend werd dat het melkquotum zou worden afgeschaft en bijgevolg een einde zou komen aan de begrenzing van mestproductie voor rundvee, redelijkerwijs duidelijk moeten zijn dat een ongeremde groei van de melkveehouderij niet mogelijk was en dat in verband met die afschaffing maatregelen te verwachten waren. Al in 2013 is gewaarschuwd dat (dreigende) overschrijding van het fosfaatproductieplafond kon leiden tot productiebeperkende maatregelen, waaronder dierrechten. Ook daarna zijn in aanloop naar de afschaffing van het melkquotum nog verschillende soortgelijke waarschuwingen vanuit de markt en de overheid gevolgd. Appellante had daarom ten tijde van haar uitbreidingsplannen een zekere mate van voorzichtigheid kunnen en moeten in acht nemen en zich moeten realiseren dat de uitbreiding voor haar meer dan de gebruikelijke ondernemersrisico’s met zich zou brengen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.5.</nr>
+      <para>Naar het oordeel van het College heeft appellante niet aannemelijk gemaakt dat zij een individuele en buitensporige last te dragen heeft. In dit geval weegt het belang van de gehele melkveesector bij het behoud van de derogatiebeschikking zwaarder dan de belangen van appellante. Het bestreden besluit is daarom niet in strijd met artikel 1 van het EP.  <?linebreak?>De beroepsgrond slaagt niet.</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.6.</nr>
+      <para>Het College wil er tot slot nog op wijzen dat in de fosfaatrechtenzaak van appellante tot eenzelfde oordeel is gekomen (zie de uitspraak van <?linebreak?>8 september 2020, ECLI:NL:CBB: (https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:CBB:2019:715&amp;showbutton=true&amp;keyword=ECLI%3aNL%3aCBB%3a2019%3a715)2020:627).<?linebreak?><emphasis role="italic">-zorgvuldigheid</emphasis></para>
+      <para>8. Appellante wordt evenmin gevolgd in haar betoog dat verweerder het bestreden besluit onzorgvuldig heeft voorbereid. De enkele omstandigheid dat het besluit dateert van voor de eerste uitspraken van het College van <?linebreak?>21 augustus 2018 (bijvoorbeeld ECLI:NL:CBB:2018:418) waarin is geoordeeld of in de desbetreffende zaken de Regeling leidt tot een individuele en buitengewone last, biedt geen grond voor dat oordeel.<?linebreak?><emphasis role="italic">Slotsom</emphasis></para>
+      <para>9. Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.A. Hagen, in aanwezigheid van <?linebreak?>mr. A.J. Jansen, griffier. De beslissing is in het openbaar uitgesproken op <?linebreak?>20 oktober 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd de uitspraak te ondertekenen. De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

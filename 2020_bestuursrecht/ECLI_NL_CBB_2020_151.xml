@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:151</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-10T12:48:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/2918</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:151">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:151</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-05T10:19:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:151 College van Beroep voor het bedrijfsleven , 10-03-2020 / 18/2918</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:151:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Onjuiste berekening basis- en vergroeningsbetaling. Percelen van appellant ten onrechte niet als ecologisch aandachtsgebied beschouwd. Uitleg voorwaarde 3 in Bijlage 2 Uitvoeringsregeling rechtstreekse betalingen GLB.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:151:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/2918 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 10 maart 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">Akkerbouwbedrijf [naam 1] , te [plaats] , appellant</bridgehead>
+    <para>(gemachtigde: mr. L. Boer),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Minister van Landbouw, Natuur en Voedselkwaliteit, verweerder </bridgehead>
+    <para>(gemachtigde: mr. M. Wullink).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 mei 2018 (het primaire besluit) heeft verweerder het bedrag dat appellant ontvangt aan basis- en vergroeningsbetaling voor 2017 op grond van de Uitvoeringsregeling rechtstreekse betalingen GLB (Uitvoeringsregeling) vastgesteld op € 33.548,77. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 30 oktober 2018 (het bestreden besluit) heeft verweerder het primaire besluit gehandhaafd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellant heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 14 januari 2020. Voor appellant zijn verschenen zijn gemachtigde alsmede [naam 2] en [naam 3] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Appellant heeft op 12 mei 2017 een Gecombineerde opgave bij verweerder ingediend en hierin verzocht om uitbetaling van de basis- en vergroeningsbetaling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Op het bedrijf van appellant heeft op 15 oktober 2017 een controle met teledetectie en op 18 december 2017 een fysieke controle plaatsgevonden om vast te stellen of de door appellant opgegeven percelen als ecologisch aandachtsgebied als bedoeld in artikel 2.17, eerste lid, aanhef en onder d, van de Uitvoeringsregeling kunnen worden beschouwd. De bevindingen van deze controles zijn neergelegd in een Rapportage Controle ter Plaatse door middel van Teledetectie Najaar-/wintercontrole Vergroening van 22 december 2017 en een Inspectierapport BBR van 18 december 2017 (rapport). In het rapport staat dat de inspecteurs onder meer hebben geconstateerd dat de te controleren percelen zo goed als zwart zagen en dat er bij goed zoeken sporadisch iets van opkomend gras valt te zien.  </para>
+      <para />
+      <parablock>
+        <para>2.	Het bestreden besluit berust op verweerders standpunt dat appellant niet voldoet aan de voorwaarden voor het ecologisch aandachtsgebied, omdat op zijn percelen geen vanggewas is aangetroffen. Om die reden is bij de berekening van de oppervlakte voor de vergroeningsbetaling de oppervlakte verkleind met 39,72 ha. Daartoe heeft verweerder overwogen dat uit de gehouden controle naar voren is gekomen dat de percelen 8, 14, 21, 32 en 38 er op het oog zwart bij lagen maar dat bij goed zoeken sporadisch iets van opkomende grasvegetatie is te zien. Daarom kan volgens verweerder niet zonder meer worden geconcludeerd dat appellant de desbetreffende percelen niet heeft ingezaaid. Dat betekent echter nog niet dat verweerder de percelen meeneemt als ecologisch aandachtsgebied. Daartoe wijst verweerder erop dat de landbouwer op grond van artikel 2.17, eerste lid, aanhef en onder d, en Bijlage 2 van de Uitvoeringsregeling dient zorg te dragen voor een zichtbare bodembedekking door het vanggewas. Bij twijfel over de mate van bedekking kan de landbouwer alsnog aan de voorwaarden voldoen wanneer de landbouwer meer dan 75% van de aanbevolen hoeveelheid zaaizaad heeft gebruikt bij het inzaaien van het vanggewas. Het perceel komt niet in aanmerking als ecologisch aandachtsgebied wanneer er geen sprake is van een bodembedekkend vanggewas. Nu uit het rapport duidelijk blijkt dat op de desbetreffende percelen geen sprake was van een zichtbare bodembedekking door het vanggewas en er slechts bij goed zoeken sporadisch enig opkomend gras te zien was, zijn de percelen terecht afgewezen om in aanmerking te komen als ecologisch aandachtsgebied. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In artikel 46, eerste lid, van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid (Verordening 1307/2013) is, voor zover thans van belang, bepaald dat, indien het bouwland van een bedrijf meer dan 15 hectare beslaat, de landbouwers ervoor zorgen dat vanaf 1 januari 2015 een areaal dat ten minste 5 % vertegenwoordigt van het bouwland van het bedrijf dat de landbouwer overeenkomstig artikel 72, lid 1, eerste alinea, onder a), van Verordening (EU) nr. 1306/2013 heeft aangegeven en, voor zover die gebieden als ecologisch aandachtsgebied worden beschouwd door de lidstaat overeenkomstig lid 2 van dit artikel, waaronder de onder c), d), g), en h), bedoelde gebieden, ecologisch aandachtsgebied is.</para>
+      <para />
+      <parablock>
+        <para>Op grond van het tweede lid van artikel 46 van Verordening 1307/2013 beslissen de lidstaten uiterlijk op 1 augustus 2014 dat een of meer van de volgende gebieden als ecologisch aandachtsgebied moet worden beschouwd:</para>
+        <para>(…)</para>
+        <para>i) arealen met vanggewassen, of door het planten en kiemen van zaden ontstaan plantendek, waarop de wegingsfactoren van lid 3 van dit artikel van toepassing zijn;</para>
+        <para>(…).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Op grond van artikel 2.17, eerste lid, aanhef onder d, van de Uitvoeringsregeling wordt als ecologisch aandachtsgebied als bedoeld in artikel 46, eerste en tweede lid, van Verordening (EU) nr. 1307/2013 beschouwd areaal, anders dan het areaal waarop artikel 45, negende lid, tweede alinea, van Verordening (EU) nr. 639/2014 van toepassing is, waarop combinaties van vanggewassen worden geteeld als bedoeld in bijlage 2, onder de voorwaarden die per categorie voor de desbetreffende soorten in deze bijlage zijn vermeld.</para>
+      <para />
+      <parablock>
+        <para>In Bijlage 2 bij artikel 2.17, eerste lid, onderdeel d, onder A. Lijst van vanggewassen die in combinatie met een of meer andere vanggewassen kunnen worden geteeld, is Italiaans/Westerwolds raaigras (Lolium multiflorum) vermeld.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Voorts staat onder B. Voorwaarden waaronder de vanggewassen, bedoeld in onderdeel A, kunnen worden geteeld, voor zover thans van belang, het volgende:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3. De landbouwer gebruikt tenminste 75% van de in de Aanbevelende Rassenlijst voor landbouwgewassen, CSAR, aanbevolen hoeveelheid zaaizaad, of draagt zorg voor een zichtbare bedekking met het vanggewas.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6. De vanggewassen dienen ten minste 10 weken op het perceel aanwezig te zijn.</para>
+      </parablock>
+      <para />
+      <para>4. Appellant heeft in beroep betoogd dat hij wel degelijk aan de vergroeningseisen heeft voldaan nu hij heeft aangetoond dat hij de desbetreffende percelen vóór 1 oktober 2017 volledig heeft ingezaaid met Italiaans raaigras. Volgens appellant stelt verweerder ten onrechte daarnaast nog de voorwaarde dat sprake moet zijn van een zichtbare bodembedekking door het vanggewas. Daartoe wijst appellant erop dat de voorwaarde onder 3 (voorwaarde 3) in Bijlage 2 spreekt van het gebruiken van voldoende zaaizaad “óf” het zorgdragen voor een zichtbare bodembedekking. Indien voldoende is ingezaaid, is daarmee aan de voorwaarde voldaan. Dat daarnaast nog sprake moet zijn van een volledige zichtbare bedekking, blijkt niet uit de bijlage bij de Uitvoeringsregeling, aldus appellant. Zou de mate van zichtbaarheid van het vanggewas om een of andere reden toch van invloed zijn, dan is volgens appellant sprake van een overmachtssituatie vanwege de extreem natte herfst, met als gevolg een slechte opkomst van het gras, in combinatie met trap- en vraatschade door ganzen. Dat appellant van de overmacht geen melding heeft gedaan, kan hem niet worden verweten.</para>
+      <para />
+      <para>5. Verweerder heeft erop gewezen dat de vereisten om voor uitbetaling van de vergroeningsbetaling in aanmerking te komen, hun grondslag vinden in artikel 46, eerste en tweede lid, van Verordening 1307/2013, en artikel 2.17, eerste lid, aanhef en onder d, en Bijlage 2 van de Uitvoeringsregeling. Verweerder interpreteert deze vereisten zo dat het uitgangspunt is dat er een zichtbare bedekking van de bodem door het vanggewas is. Voorwaarde 3 moet zo worden gelezen dat deze de mogelijkheid biedt om aan te tonen dat er voldoende zaad is ingezaaid, terwijl het vanggewas de bodem onvoldoende bedekt. Het doel en de strekking van het inzaaien van vanggewas is immers dat stikstoffen en nitraten worden gevangen uit de lucht. Gelet daarop acht verweerder het niet wenselijk dat aangetoond wordt dat voldoende zaad wordt gebruikt, terwijl geen vanggewas opkomt. Dit voldoet volgens verweerder niet aan de bedoeling van het inzaaien van vanggewas, omdat dan immers geen stikstoffen en nitraten worden gevangen. De “of”-bepaling in voorwaarde 3 van Bijlage 2 moet dan ook zo worden gelezen dat als er geen zichtbare, volledige, bodembedekking is, maar dus wel enige vorm van bodembedekking, aangetoond kan worden dat er voldoende is ingezaaid. In dat geval komen de percelen wel in aanmerking voor de inrichting van ecologisch aandachtsgebied. In dit geval is er echter in het geheel geen bodembedekking waargenomen, als gevolg waarvan het volgens verweerder niet mogelijk is de percelen in acht te nemen voor de inrichting van ecologisch aandachtsgebied. Ter zitting heeft verweerder ter nadere onderbouwing van zijn standpunt nog gewezen op de voorwaarde onder 6 (voorwaarde 6), waarin is neergelegd dat de vanggewassen ten minste tien weken op het perceel aanwezig dienen te zijn. Wordt voorwaarde 3 in samenhang met deze voorwaarde gelezen, dan is duidelijk dat in ieder geval sprake moet zijn van enige zichtbare bedekking, aldus verweerder. Indien zich in zijn geval omstandigheden voordeden waardoor het vanggewas in zijn geheel niet opkwam, had appellant een melding van overmacht, als bedoeld in artikel 4 van Gedelegeerde Verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013, kunnen doen. Dat heeft hij echter niet gedaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Ter beantwoording ligt voor de vraag of verweerder zich terecht op het standpunt heeft gesteld dat de percelen 8, 14, 21, 32 en 38 van appellant niet als ecologisch aandachtsgebied kunnen worden beschouwd, omdat appellant het vanggewas op deze percelen niet heeft geteeld onder de voorwaarden 3 en 6 van Bijlage 2 bij artikel 2.17, eerste lid, aanhef en onder d, van de Uitvoeringsregeling. Niet in geschil is dat appellant de aanbevolen hoeveelheid zaaizaad heeft gebruikt, zodat appellant heeft voldaan aan het eerste onderdeel van voorwaarde 3. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>In voorwaarde 3 worden twee situaties omschreven, te weten enerzijds het gebruiken van 75% van de aanbevolen hoeveelheid zaaizaad, en anderzijds het zorgdragen voor een zichtbare bedekking met het vanggewas, waarbij de omschrijvingen van beide situaties worden onderscheiden door het woord “of”. Naar het oordeel van het College duidt het gebruik van dit woord “of” erop dat de regelgever twee alternatieve situaties heeft willen onderscheiden die ieder voor zich, indien aan de omschrijving van die situatie is voldaan, kunnen leiden tot de conclusie dat aan voorwaarde 3 is voldaan. Een sterke aanwijzing daarvoor is ook te vinden in de toelichting bij de Regeling van de Staatssecretaris van Economische Zaken van 28 juni 2016, nr. WJZ/16089025, tot wijziging van de Uitvoeringsregeling rechtstreekse betalingen GLB in verband met het doorvoeren van verduidelijkingen, Stcrt. 2016, 34648, in welke regeling de zinsnede “of draagt zorg voor een zichtbare bedekking met het vanggewas” is toegevoegd aan voorwaarde 3. In die toelichting staat onder meer het volgende vermeld:</para>
+      <para />
+      <parablock>
+        <para>“Met deze wijziging wordt geregeld dat het vanggewas een voldoende zichtbare bedekking van de bodem moet hebben. De bestaande voorwaarde, dat een landbouwer tenminste 75% gebruikt van de in de aanvullende Rassenlijst voor landbouwgewassen, CSAR, aanbevolen hoeveelheid zaaizaad, blijft gehandhaafd als alternatief. Landbouwers krijgen hiermee keuzevrijheid om aan te tonen dat de landbouwer voldoet aan de voorwaarden.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Anders dan verweerder ziet het College in doel en strekking van de regeling geen aanleiding om, in weerwil van de duidelijke terminologie en toelichting (waarin de aanbevolen hoeveelheid zaaizaad expliciet als alternatief wordt genoemd), van een andere uitleg uit te gaan. Dit betekent dat naar het oordeel van het College aan voorwaarde 3 wordt voldaan indien een landbouwer, zoals appellant, ten minste 75% van de aanbevolen hoeveelheid zaaizaad heeft gebruikt, ongeacht of hij tevens heeft zorggedragen voor een zichtbare bedekking met het vanggewas. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>In voorwaarde 6 is neergelegd dat de vanggewassen ten minste tien weken op het perceel aanwezig dienen te zijn. Het College leest in deze voorwaarde, anders dan verweerder, niet dat het perceel ook gedurende een periode van tien weken zichtbaar bedekt dient te zijn met de vanggewassen. In dit geval is in het rapport vermeld dat op de percelen op enkele plaatsen wat opkomend gras te zien was, en dit is ook te zien op de bij het rapport gevoegde foto 1. Hieruit blijkt naar het oordeel van het College voldoende duidelijk dat het vanggewas op de percelen aanwezig was. Verweerder heeft appellant dan ook ten onrechte tegengeworpen dat hij niet heeft voldaan aan voorwaarde 6. Slotsom is dat verweerder bij de vaststelling van de basis- en vergroeningsbetaling voor 2017 ten onrechte heeft geconcludeerd dat appellant niet heeft voldaan aan de voorwaarden voor het ecologisch aandachtsgebied en dus de oppervlakte bij de berekening van de vergroeningsbetaling ten onrechte heeft verlaagd met 39,72 ha. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>Uit 6.2 en 6.3 volgt dat het beroep van appellant gegrond is en dat het bestreden besluit zal worden vernietigd. Wat verder is aangevoerd behoeft geen bespreking. Het College beschikt niet over de gegevens om het bedrag voor de basis- en vergroeningsbetaling voor 2017 zelf vast te stellen. Omdat het gaat om een louter financiële uitwerking, waarover geen geschil meer te verwachten valt, zal het College ook geen tussenuitspraak als bedoeld in artikel 8:80a van de Algemene wet bestuursrecht (Awb) doen. Het College zal daarom met toepassing van artikel 8:72, vierde lid, van de Awb, verweerder opdragen binnen acht weken opnieuw op de bezwaren van appellant tegen het primaire besluit te beslissen, met inachtneming van wat in deze uitspraak is overwogen, te weten dat appellant ten onrechte is tegengeworpen dat hij niet voldoet aan de voorwaarden voor de vergroeningsbijdrage als hierboven weergegeven. </para>
+      <para />
+      <parablock>
+        <para>7.	Het College ziet aanleiding om verweerder te veroordelen in de in beroep gemaakte proceskosten van appellant. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1). Over de vergoeding van de verzochte proceskosten in bezwaar dient verweerder in de nieuw te nemen beslissing op bezwaar te beslissen. </para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- draagt verweerder op om binnen acht weken opnieuw op het bezwaar te beslissen met inachtneming van hetgeen in deze uitspraak is overwogen;</para>
+    <para>- veroordeelt verweerder tot vergoeding van de proceskosten van appellant tot een bedrag van in totaal € 1.050,-;</para>
+    <para>- bepaalt dat verweerder aan appellant het in beroep betaalde griffierecht van in totaal € 170,- vergoedt.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.H. de Wildt, mr. H.L. van der Beek en mr. D. Brugman, in aanwezigheid van mr. S.M. van Ditmarsch, griffier. De beslissing is in het openbaar uitgesproken op 10 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. J.H. de Wildt	w.g. S.M. van Ditmarsch</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

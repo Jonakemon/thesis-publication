@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:8466</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-05T15:10:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3428</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:8466">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:8466</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-05T15:07:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:8466 Rechtbank Rotterdam , 29-09-2020 / AWB - 19 _ 3428</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:8466:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bestuurlijke boete wegens overtreding van artikel 2:60 Wft. Niet alleen grensoverschrijdend krediet in Nederland aangeboden vanuit Malta (cross border) dat was toegestaan, maar ook vanuit een bijkantoor in Nederland. Voor dat laatste was geen vergunning. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:8466:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/3428</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 29 september 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [Naam onderneming] , te Malta, eiseres ( [eiseres] ),</bridgehead>
+    <para>gemachtigden: mr. M.G. van Well, mr. S.M.C. Nuijten, mr. F.W.J. van der Eerden en mr. T. Janse,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Stichting Autoriteit Financiële Markten, verweerster (AFM),</bridgehead>
+    <para>gemachtigden: mr. C. de Rond en mr. M. Koppenol.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 oktober 2018 (het primaire besluit) heeft de AFM aan [eiseres] een bestuurlijke boete van € 1.750.000,- opgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 20 december 2018 (ECLI:NL:RBROT:2018:10909) is het door [eiseres] ingediende verzoek om een voorlopige voorziening afgewezen door de voorzieningenrechter van deze rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 29 mei 2019 (het bestreden besluit) heeft de AFM het bezwaar van [eiseres] tegen het primaire besluit ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eiseres] heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De AFM heeft een verweerschrift ingediend. Bij brief van 2 juni 2020 heeft [eiseres] hierop gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De behandeling van het beroep was gepland op de zitting van de meervoudige kamer bij deze rechtbank van 19 mei 2020. Als gevolg van de maatregelen rondom het coronavirus heeft de behandeling van deze zaak op deze zitting geen doorgang gevonden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 4 juni 2020 heeft de rechtbank schriftelijke vragen aan partijen gesteld. </para>
+      <para>Bij brieven van 18 juni 2020 hebben partijen deze vragen beantwoord. Vervolgens hebben partijen bij brieven van 16 juli 2020 op elkaars beantwoording van de gestelde vragen in tweede termijn gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Omdat geen van partijen desgevraagd heeft aangegeven (alsnog) op zitting te willen worden gehoord, heeft de rechtbank met toepassing van artikel 8:57, eerste en derde lid, van de Algemene wet bestuursrecht (Awb) op 18 augustus 2020 het onderzoek gesloten. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>1.	Het relevante wettelijke kader is opgenomen in een bijlage bij deze uitspraak.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feiten</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>
+        [eiseres] is een vennootschap (‘Limited’) naar Maltees recht en is statutair gevestigd te Malta. Enig aandeelhouder van [eiseres] is [naam aandeelhouder] [eiseres] staat sinds 11 november 2009 onder toezicht van de Malta Financial Services Authority (MFSA), die haar op grond van de Maltese Banking Act 1994 een bankvergunning heeft verleend voor onder meer het verstrekken van consumentenkrediet. Sinds 15 juni 2010 is [eiseres] opgenomen in het register van De Nederlandsche Bank N.V. (DNB) als Europees paspoorthouder in de zin van artikel 2:18 van de Wet op het financieel toezicht (Wft), met als activiteit onder meer het grensoverschrijdend verstrekken van leningen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De moedermaatschappij van [eiseres] heeft in 2012 ondernemingen overgenomen die flitskredieten aanboden in Nederland, Spanje, België en Polen. Daaronder bevond zich de Nederlandse flitskredietaanbieder [naam] ( [naam] ), waaraan de AFM bij besluit van 31 december 2013 een bestuurlijke boete heeft opgelegd voor het zonder vergunning aanbieden van krediet in Nederland. De voormalige bestuurders van [naam] zijn na de overname gaan werken voor [eiseres] of de groep waarvan [eiseres] deel uitmaakte. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Op 3 september 2013 is [eiseres] gestart met het in Nederland aanbieden van krediet via de in de Nederlandse taal opgestelde website [naam website] . [naam 2] is een van de handelsnamen die gebruik werd door [Holding] , de moedermaatschappij van [naam] . </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Onderzoek </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Mede naar aanleiding van de informatie vermeld op de website [naam 2] is de AFM op 20 maart 2014 een onderzoek gestart naar de activiteiten van [eiseres] in Nederland. Op deze website stond vermeld dat [naam 2] gevestigd is in [plaats] en dat consumenten bij vragen contact kunnen opnemen met een Nederlands telefoonnummer. De AFM heeft op 20 maart 2014 aan de MFSA en aan [eiseres] een informatieverzoek gestuurd, waarop door hen op 4 respectievelijk 10 april 2014 is gereageerd. Ook ontving de AFM een afschrift van de reactie van [eiseres] op een informatieverzoek van DNB. Uit de van DNB ontvangen informatie is de AFM gebleken dat [eiseres] in Nederland bijna 40 fte aan werknemers in loondienst had. Hierdoor ontstond bij de AFM het vermoeden dat [eiseres] mogelijk niet voldeed aan de vergunningplicht en de gedragsregels die zijn gesteld voor het aanbieden van consumptief krediet en evenmin aan de voorwaarden die zijn verbonden aan grensoverschrijdende dienstverlening. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>De AFM heeft op 15 en 16 maart 2016 op het kantoor van [eiseres] te [plaats] , waar eerder [naam] was gevestigd, onaangekondigd onderzoek gedaan naar de naleving door [eiseres] van de Wft en de Wet handhaving consumentenbescherming bij het aanbieden van consumptief krediet in Nederland. De AFM heeft tijdens het onderzoek ter plaatse een aankondigingsbrief overhandigd met te overleggen documenten. Tevens heeft de AFM onder meer met [naam teamleider] ( [naam 3] ), teamleider back office, in aanwezigheid van de gemachtigde van [eiseres] een gesprek gevoerd.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>
+        [eiseres] is op 3 april 2016 gestopt met het in behandeling nemen van nieuwe kredietaanvragen van consumenten in Nederland. Op 13 juni 2016 heeft zij een bericht op de website [naam website] geplaatst waaruit blijkt dat het niet meer mogelijk is om krediet aan te vragen. In overleg met de AFM heeft [eiseres] vervolgens haar Nederlandse kredietportefeuille afgewikkeld voor 1 januari 2017. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Uit de door [eiseres] aan de AFM verstrekte gegevens blijkt dat [eiseres] in de periode van 3 september 2013 tot en met 16 maart 2016 151.961 kredietaanvragen heeft ontvangen en 140.103 kredieten heeft verstrekt, waarmee zij een omzet heeft gerealiseerd van ruim € 57 miljoen. Het betrof kredieten van € 100,- of € 200,- met een terugbetalingstermijn van 15 of 30 dagen en kredieten van € 300,- tot € 600,- met een terugbetalingstermijn van 30 dagen. De rente op jaarbasis was eerst 15%, vanaf 15 juli 2015 13,9%. Een kredietaanvraag zonder bundel werd binnen zeven werkdagen behandeld en uitbetaald. [eiseres] heeft 19.193 kredieten verstrekt waarbij de consument koos voor ‘comfort bundel Gemak’, wat betekende dat de kredietaanvraag binnen vier uur werd afgehandeld tegen betaling van 20% van het geleende bedrag. [eiseres] heeft 112.531 kredieten verstrekt waarbij de consument koos voor ‘super bundel Snel’. Dit betekende dat de kredietaanvraag binnen tien minuten werd afgehandeld tegen betaling van 25% van het geleende bedrag.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Op basis van haar onderzoek is bij de AFM het vermoeden ontstaan dat [eiseres] haar activiteiten in Nederland heeft uitgevoerd vanuit een bijkantoor als bedoeld in artikel 4, eerste lid, aanhef en onder 17, van de Single Supervisory Mechanism verordening (de SSM-verordening). De AFM heeft dit vermoeden bij brief van 5 oktober 2016 met bijbehorend rapport ter toetsing voorgelegd aan de MFSA. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Op 7 november 2017 heeft de AFM van de MFSA een kopie ontvangen van een brief van de MFSA aan [eiseres] van diezelfde datum. In die brief oordeelt de MFSA dat het kantoor van [eiseres] in [plaats] een niet-geregistreerd bijkantoor is en dat [eiseres] in Nederland activiteiten heeft verricht die verder gaan dan de diensten die [eiseres] zou mogen verlenen op basis van haar Europees paspoort. De MFSA heeft [eiseres] daarbij voor de keuze gesteld de notificatieprocedure voor het openen van een bijkantoor te doorlopen of om noodzakelijke maatregelen te nemen om ervoor te zorgen dat consumenten buiten Malta enkel worden bediend vanuit de infrastructuur in Malta.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <para>Onder verwijzing naar dit oordeel van de MFSA heeft de AFM in haar onderzoeksrapport van 14 mei 2018 geconcludeerd dat [eiseres] op basis van haar Europese bankvergunning op grond van artikel 2:18 van de Wft vanuit Malta krediet mocht aanbieden in Nederland zonder te beschikken over een daartoe door de AFM verleende vergunning (cross border dienstverlening). [eiseres] heeft evenwel krediet in Nederland aangeboden vanuit een in Nederland gelegen bijkantoor. Op grond van artikel 2:15 van de Wft was haar dit niet toegestaan, omdat [eiseres] de daarvoor vereiste notificatieprocedure niet had doorlopen. Gelet hierop kan [eiseres] zich niet beroepen op een uitzondering op de vergunningplicht. Nu [eiseres] niet beschikte over een vergunning voor het aanbieden van krediet in Nederland en zij geen beroep kon doen op artikel 2:62, aanhef en onder a, van de Wft, heeft zij in de periode van 3 september 2013 tot 13 juni 2016 artikel 2:60, eerste lid, van de Wft overtreden.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.8</nr>
+      <para>Bij besluit van 15 november 2018 heeft de MFSA aan [eiseres] een bestuurlijke boete ter hoogte van € 80.500 opgelegd. [eiseres] heeft volgens de MFSA in Nederland activiteiten verricht die verder gaan dan de diensten die [eiseres] zou mogen verlenen op basis van haar Europees paspoort en zij heeft in Nederland een bijkantoor gevestigd zonder dat de vereiste notificatieprocedure hiervoor is doorlopen. [eiseres] heeft tegen dit besluit geen rechtsmiddel ingesteld. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Besluitvorming</emphasis>
+        </para>
+        <para>4.	Na bij brief van 14 mei 2018, onder verwijzing naar het onderzoeksrapport van gelijkluidende datum, een voornemen tot boeteoplegging aan [eiseres] kenbaar te hebben gemaakt en kennis te hebben genomen van de zienswijze van [eiseres] daarop, heeft de AFM [eiseres] bij het primaire besluit voor overtreding van artikel 2:60, aanhef en onder a, van de Wft een bestuurlijke boete van € 1.750.000,- opgelegd. Vervolgens heeft besluitvorming plaatsgevonden zoals vermeld onder Procesverloop. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beoordeling door de rechtbank  </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Niet in geschil is dat [eiseres] van 3 september 2013 tot 13 juni 2016 in Nederland krediet heeft aangeboden en dat zij niet beschikte over een daartoe door de AFM verleende vergunning. [eiseres] betoogt dat de in artikel 2:60, eerste lid, van de Wft neergelegde vergunningplicht op grond van artikel 2:62, aanhef en onder a, van deze wet niet op haar van toepassing was. In de visie van [eiseres] heeft de MFSA als home state toezichthouder het primaat en diende de AFM het door de MFSA afgegeven Europese paspoort van [eiseres] te erkennen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Europees paspoort</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <parablock>
+        <para>Op grond van Europese regelgeving kan een kredietinstelling zoals [eiseres] (opererend vanuit lidstaat Malta) onder omstandigheden ook zonder een vergunning van de AFM in Nederland krediet aanbieden. Dit volgt uit de (in de Wft geïmplementeerde) Richtlijn Kapitaalvereisten en de (rechtstreeks werkende) SSM-kaderverordening. </para>
+        <para>Een instelling met een in een andere Europese lidstaat verleende vergunning op basis van een Europees paspoort kan zijn diensten rechtstreeks in Nederland aanbieden of in Nederland een bijkantoor vestigen, mits is voldaan aan de gestelde voorwaarden. Van het voornemen gebruik te maken van de opties dient voor aanvang melding gemaakt worden bij zijn nationale bevoegde autoriteit, hier DNB. Niet in geschil is dat [eiseres] op basis van haar Europese bankvergunning de diensten in Nederland rechtstreeks mocht aanbieden vanuit Malta. Het geschil spitst zich toe op de vraag of [eiseres] vanuit een bijkantoor in Nederland krediet heeft aangeboden zonder dat aan de voorwaarden is voldaan. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Bijkantoor</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>In de visie van [eiseres] kwalificeerde het kantoor in [plaats] niet als een bijkantoor, maar slechts als een representative office of luisterpost. </para>
+        <para>De AFM heeft na gedegen onderzoek geconstateerd dat de activiteiten die vanuit het Nederlandse kantoor zijn verricht inherent zijn aan het aanbieden van (flits)krediet en niet slechts van ondersteunende of ondergeschikte aard zijn ten opzichte van het kantoor in Malta. Dit standpunt is bevestigd door de MFSA. </para>
+        <para>De wijze waarop [eiseres] zich presenteerde in Nederland aan consumenten wekte de indruk dat deze te maken hadden met een Nederlandse bank of een buitenlandse bank met een Nederlands bijkantoor. Het kantoor werd als centraal aanspreekpunt gepresenteerd. Het kantoor was gevestigd in Nederland, de website (.nl) was in de Nederlandse taal opgesteld, de medewerkers van het kantoor spraken de Nederlandse taal en gebruikten een Nederlands telefoonnummer. Alle correspondentie (per post, e-mail en telefonisch) met consumenten werd uitgevoerd vanuit het Nederlandse kantoor in de Nederlandse taal. Er werd slechts summier of in kleine letters vermeld dat de diensten door een Maltese bank werden aangeboden. </para>
+        <para>De AFM heeft terecht gewezen op de omvang van de Nederlandse vestiging die niet duidt op slechts een back office. In het Nederlandse kantoor waren circa 40 fulltime medewerkers met verschillende functies actief. Het verificatie- en identificatieproces, het inhoudelijk beoordelen van de kredietaanvragen en het uitvoeren van de kredietovereenkomsten en het afhandelen van betalingsachterstanden vond plaats vanuit de Nederlandse vestiging. De medewerkers waren verantwoordelijk voor het opstellen en verspreiden van facturen en aanmaningen op naam van [eiseres] . Zij belden actief naar klanten met een betalingsachterstand om te vragen wanneer er zou worden betaald. Zij konden een betalingsregeling treffen waarbij de Nederlandse medewerker binnen bepaalde grenzen naar eigen inzicht en afhankelijk van de situatie van de klant de invulling van de betalingsregeling kon bepalen. Of klanten het kantoor al dan niet bezochten kan in het midden blijven nu dit gelet op alle overige punten niet doorslaggevend is. </para>
+        <para>Het Management Credit Comittee (MCC) bestaande uit [naam 4] , [naam 5] en [naam 6] stelden gezamenlijk de kredietvoorwaarden en risico-parameters vast. Uit het onderzoek van de MFSA komt naar voren dat diverse bijeenkomsten van de MCC in Nederland werden gehouden. Ook [naam 3] bevestigt in haar verklaring dat door de MCC één keer per maand vergaderingen in Nederland plaatsvonden. Zowel [naam 4] als [naam 6] hadden hun kantoor in Nederland. Het MCC opereerde feitelijk vanuit de Nederlandse vestiging. Het Nederlandse IT-team vertaalde de kredietvoorwaarden en risicoparameters in digitale business rules en implementeerde ze in het computersysteem, zodat dit systeem geautomatiseerd kredietaanvragen kon beoordelen. Het systeem draaide op (interne) servers die zich bevonden op Nederlands grondgebied. De in Nederland gevestigde data-analisten concludeerden aan de hand van de uitkomsten van de digitale risicomodellen of de (flits)kredieten al dan niet werden verleend. </para>
+        <para>
+          [eiseres] heeft haar stelling dat in Nederland geen kredietbeslissingen werden genomen, geen kredieten werden goedgekeurd en dat ook niet de relevante parameters werden vastgesteld niet nader onderbouwd. De AFM heeft zich op het standpunt kunnen stellen dat de snelheid waarmee de (flits)kredieten in Nederland werden verstrekt het, gelet op alle omstandigheden, praktisch onmogelijk maakte dat dit steeds vanuit Malta gebeurde. Daarbij komt dat [eiseres] de overige specifiek hiervoor genoemde activiteiten vanuit het kantoor in Nederland niet heeft betwist. Op grond van het voorgaande heeft de AFM kunnen concluderen dat de met [eiseres] gesloten kredietovereenkomsten zeer waarschijnlijk niet, en zeker niet op dezelfde schaal, tot stand hadden kunnen komen zonder tussenkomst van het kantoor in [plaats] . Van enkel back office ondersteunende activiteiten was geen sprake. Evenmin kon het kantoor enkel als representative office of vertegenwoordigend kantoor kunnen worden aangemerkt. De Nederlandse vestiging functioneerde niet uitsluitend als luisterpost. </para>
+        <para>De rechtbank volgt de AFM dan ook in haar standpunt dat het kantoor van [eiseres] functioneerde als bijkantoor als bedoeld in artikel 4, eerste lid, aanhef en onder 17, van de SSM-verordening. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Notificatieprocedure</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>
+        [eiseres] was, als niet-significante bank, gehouden vóór aanvang van haar activiteiten vanuit Nederland (dus vóór 3 september 2013) aan de MFSA kennis te geven van de vestiging van een bijkantoor op het grondgebied van een andere lidstaat, met inachtneming van de vereisten van artikel 35, tweede lid, van de Richtlijn Kapitaalsvereisten. [eiseres] heeft de MFSA destijds geen kennis gegeven van haar intentie om in Nederland een bijkantoor te vestigen. Op 7 november 2017 heeft de MFSA per brief bericht dat [eiseres] in Nederland activiteiten heeft verricht die verder gaan dan de diensten die [eiseres] zou mogen verlenen op basis van haar Europees paspoort en dat in Nederland een bijkantoor is gevestigd zonder dat de vereiste notificatieprocedure hiervoor is doorlopen. Bij besluit van 15 november 2018 heeft de MFSA [eiseres] om deze reden een bestuurlijke boete opgelegd. [eiseres] heeft tegen dit besluit geen rechtsmiddel ingesteld, zodat het besluit in rechte vast staat. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Uitzondering van artikel 2:62 van de Wft </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>Nu gelet op het voorgaande vast staat dat [eiseres] niet de notificatieprocedure voor een bijkantoor heeft doorlopen terwijl wel van een bijkantoor sprake was, heeft de AFM zich terecht op het standpunt gesteld dat door [eiseres] geen geslaagd beroep kon worden gedaan op uitzondering van de vergunningplicht op grond van artikel 2:62, aanhef en onder a, van de Wft. In artikel 2:62 van de Wft wordt onderscheid gemaakt tussen het uitoefenen vanuit een in Nederland gelegen bijkantoor en het verrichten van diensten naar Nederland, waarbij wordt verwezen naar afdeling 2.2.2.van de Wft. In die afdeling zien de artikelen 2:14 en 2:15 van de Wft specifiek op de mededeling in verband met het uitoefenen van het bedrijf vanuit een in Nederland gelegen bijkantoor. Artikel 2:18 van de Wft ziet op de mededeling in verband het voornemen voor de eerste maal door middel van het verrichten van diensten naar Nederland het bedrijf uit te oefenen. Het begrip diensten strekt zich niet mede uit tot het vestigen van een bijkantoor. Voor de vestiging van een bijkantoor is in de artikel 2:14 en 2:15 van de Wft een eigen, afwijkende procedure beschreven. Alleen bij het aanbieden van krediet in Nederland vanuit Malta kon [eiseres] zich op artikel 2:62 van de Wft beroepen en dus niet bij het aanbieden van krediet in Nederland vanuit een in Nederland gelegen bijkantoor. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overtreding</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.6</nr>
+      <para>De conclusie is dat [eiseres] met het aanbieden van krediet in Nederland vanuit een in Nederland gelegen bijkantoor artikel 2:60, eerste lid, van de Wft heeft overtreden.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Bevoegdheid</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <parablock>
+        <para>Het betoog van [eiseres] dat de AFM niet bevoegd was tot het opleggen van de bestuurlijke boete aan [eiseres] slaagt niet. </para>
+        <para>Uitgangspunt is dat elke financiële onderneming die in Nederland krediet aanbiedt, hiervoor in beginsel een vergunning nodig heeft op grond van artikel 2:60, eerste lid, van de Wft. Dit artikel kent een algemene verbodsbepaling om zonder vergunning van de AFM krediet aan te bieden. Het is een bepaling van nationaal toezicht. De artikelen 2:61 en 2:62 van de Wft vormen een uitzondering op dat verbod. Zoals hiervoor onder 5.5 al is overwogen maken de Wft (artikelen 2:14, 2:15 en 2:18) en ook de SSM-Kaderverordening (artikelen 11 en 12) expliciet onderscheid tussen het uitoefenen van het bedrijf van een bank vanuit enerzijds een bijkantoor in Nederland en anderzijds door het verrichten van diensten naar Nederland (cross border dienstverlening). De procedures verschillen wezenlijk van elkaar en leiden tot andere gevolgen. </para>
+        <para>Bij het openen van een bijkantoor in Nederland had DNB op 3 september 2013 op grond van artikel 2:14, tweede lid, van de Wft de bevoegdheid om binnen twee maanden mee te delen welke voorwaarden om redenen van algemeen belang door de bank in acht moeten worden genomen bij het uitoefenen van haar bedrijf vanuit het bijkantoor. Die bevoegdheid had DNB niet bij cross border dienstverlening. Zoals hiervoor is vastgesteld was het [eiseres] op basis van haar Europese paspoort slechts toegestaan diensten vanuit Malta te verrichten naar Nederland en mocht zij geen krediet aanbieden vanuit een bijkantoor in Nederland, omdat zij niet de juiste notificatieprocedure daarvoor had doorlopen. [eiseres] kon daarom geen beroep doen op artikel 2:62, aanhef en onder a, van de Wft. In het geval van overtreding van artikel 2:60 van de Wft is de AFM bevoegd en mocht zij op grond van artikel 1:80, aanhef en onder a, van de Wft een bestuurlijke boete opleggen. De MFSA als buitenlandse toezichthouder heeft gelet op het territorialiteitsbeginsel geen bevoegdheid met betrekking tot artikel 2:60 van de Wft.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>
+        [eiseres] beroept zich op artikel 2:61, eerste lid, aanhef en onder c, van de Wft. Zij meent met inwerkingtreding van de SSM-verordening op grond van artikel 33, vijfde lid, van de verordening (EU) nr. 1024/2013 per 3 november 2013 over een ECB-vergunning te beschikken en dus uitgezonderd te zijn van artikel 2:60 van de Wft. Dit betoog slaagt niet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>
+        [eiseres] is op 3 september 2013 begonnen met het aanbieden van krediet in Nederland via een bijkantoor. Vanaf dat moment is zij in overtreding. De SSM-verordening is op 3 november 2013 in werking getreden, de ECB is met ingang van 4 november 2014 begonnen met de uitvoering van haar taken en artikel 2:61, eerste lid, aanhef en onder c, van de Wft is met ingang van 12 juni 2015 gewijzigd. Het aan [eiseres] verleende Europese paspoort zag slechts op cross border dienstverlening. Ook na wijziging van de Europese regelgeving gelden notificatieregels voor het openen van een bijkantoor in een andere lidstaat (artikel 11 van de SSM-Kaderverordening). [eiseres] was in de gehele periode van overtreding (tot 13 juni 2016) gehouden de home state toezichthouder (MFSA) in kennis te stellen van het openen van een bijkantoor. Nu zij dit niet heeft gedaan is zij de gehele tegengeworpen periode in overtreding geweest. [eiseres] kan niet gevolgd worden in haar standpunt dat het Europese paspoort voor cross border dienstverlening (van rechtswege) omgezet is naar een ECB-vergunning die zonder voorafgaande kennisgeving ook geldig is voor het openen van een bijkantoor in de host state. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Ne bis in idem</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <parablock>
+        <para>Het betoog van [eiseres] dat sprake is van strijd met het ne bis in idem-beginsel, nu zij bij besluit van 15 november 2018 door de MFSA voor hetzelfde feit is beboet, faalt. </para>
+        <para>Zoals de AFM in het bestreden besluit in overwegingen 110 tot en met 118 en haar nadere toelichting in het verweerschrift onder punten 6.2 tot en met 6.23 terecht opmerkt, is [eiseres]  niet beboet voor hetzelfde feit. Hoewel de twee boetes wel in elkaars verlengde liggen zijn de juridische aard van de feiten en de feitelijke gedragingen verschillend. Artikel 11 van de Malta Banking Act, op grond waarvan de Maltese boete is opgelegd, en artikel 2:60 van de Wft zijn in aard en strekking afwijkend. De boete door de AFM is opgelegd voor het illegaal aanbieden van krediet, de boete door de MFSA voor het niet vooraf melden van de vestiging van een bijkantoor (notificatieprocedure). Daarnaast verschillen de feitelijke gedragingen naar hun aard en strekking zodanig van elkaar dat niet van hetzelfde feit kan worden gesproken. De boete van de MFSA ziet op een andere periode nu die niet is opgelegd voor  de activiteiten van [eiseres] in Nederland, maar ziet op de periode voorafgaand aan het openen van het bijkantoor. De rechtbank komt met de AFM tot de conclusie dat het ne bis in idem-beginsel niet in de weg staat aan het opleggen van een boete aan [eiseres] wegens overtreding van artikel 2:60, eerste lid, van de Wft. </para>
+        <para>Het voorgaande laat echter onverlet dat de boetes enige raakvlakken hebben en [eiseres] wel tweemaal een boete heeft moeten betalen. Bij de beoordeling van de evenredigheid van de hoogte van de boete heeft de AFM daar rekening mee gehouden. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Vertrouwensbeginsel</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>De rechtbank ziet in het dossier geen aanknopingspunten voor het oordeel dat de AFM jegens [eiseres] in strijd met het vertrouwensbeginsel heeft gehandeld. Uit de verlening van het Europese paspoort door de MFSA voor de cross border dienstverlening kon [eiseres] geen gerechtvaardigd vertrouwen ontlenen dat zij krediet vanuit een bijkantoor in Nederland mocht aanbieden. Evenmin volgt dit uit de omstandigheid dat [eiseres] haar business plan in 2013 ter beoordeling aan de MFSA heeft voorgelegd. Op pagina 20 van het business plan staat uitdrukkelijk vermeld dat geen sprake is van vestiging van een bijkantoor, zodat [eiseres] in praktijk anders gehandeld heeft dan zij in haar business plan deed voorkomen. Niet gebleken is van een toezegging door de MFSA dat het [eiseres] was toegestaan om vanuit een bijkantoor in Nederland krediet aan te bieden. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Vertaling</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>De rechtbank is met de AFM van oordeel dat [eiseres] niet in haar verdediging is geschaad doordat aan haar geen vertaling van het boeterapport en -besluit is verstrekt in de Engelse taal. De AFM heeft terecht gewezen op de omstandigheid dat [eiseres] op de Nederlandse markt leningen heeft aangeboden en daarbij de Nederlandse taal heeft gebruikt, dat twee van de zeven leden van het bestuur van [eiseres] de Nederlandse nationaliteit bezitten, dat de enig aandeelhouder van [eiseres] een Nederlandse onderneming is en dat [eiseres] wordt vertegenwoordigd door advocaten die de Nederlandse taal machtig zijn. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wilsafhankelijke informatie</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Het standpunt van [eiseres] dat aan de vaststelling van deze overtreding wilsafhankelijke informatie ten grondslag ligt die de AFM via haar informatieverzoeken onder dwang heeft verkregen, volgt de rechtbank niet. Voor zover [eiseres] in reactie op informatievorderingen schriftelijk wilsafhankelijk materiaal heeft verstrekt, is dat wilsafhankelijke materiaal niet gebruikt als bewijs van de overtreding. [eiseres] heeft weliswaar genoemd welke door haar naar aanleiding van de informatieverzoeken verstrekte informatie volgens haar wilsafhankelijk is, maar zij heeft niet toegelicht waaruit blijkt dat deze informatie als bewijs van de overtreding is gebruikt. De AFM heeft voor het bewijs gebruik gemaakt, en ook gebruik mogen maken, van wilsonafhankelijke informatie afkomstig van de website [naam website] , de Algemene Voorwaarden van [eiseres] en het register van DNB en daarnaast van de verklaring van [naam 3] . Het standpunt van [eiseres] dat de verklaringen van [naam 3] tijdens het gesprek op 15 maart 2016 niet mogen worden gebruikt als bewijs, omdat de cautie achterwege is gebleven en deze verklaringen onder dwang zijn afgelegd, volgt de rechtbank niet. [naam 3] was geen bestuurder van [eiseres] , terwijl dat volgens vaste rechtspraak (bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 24 oktober 2018 (ECI:NL:RVS:2018:3494) bepalend is voor het antwoord op de vraag of haar de cautie had moeten worden gegeven. Evenmin is aannemelijk geworden dat [naam 3] als feitelijk leidinggever aan een overtreding van [eiseres] beboet had kunnen worden en dat haar om die reden zwijgrecht toekwam. <?linebreak?>De hiervoor genoemde wilsonafhankelijke informatie en de verklaring van [naam 3] vormen, in samenhang bezien, voldoende bewijs dat [eiseres] vanuit een bijkantoor in Nederland krediet heeft aangeboden zonder de daarvoor vereiste notificatieprocedure te hebben doorlopen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Hoogte van de boete</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Gelet op artikel 10 van het Besluit bestuurlijke boetes financiële sector viel een overtreding van artikel 2:60, eerste lid, van de Wft ten tijde hier van belang in boetecategorie 3. Voor deze categorie gold op grond van 1:81, eerste en tweede lid, van de Wft een basisbedrag van € 2.000.000,-. De AFM heeft het basisbedrag vanwege bovengemiddelde ernst en duur van de overtreding verhoogd met 25%. Daarnaast heeft zij het basisbedrag met nog eens 25% verhoogd op grond van bovengemiddelde verwijtbaarheid, zodat het bedrag op € 3.000,000,- uitkomt. Op grond van haar vermogen is [eiseres] ingedeeld in de 60%-categorie van het AFM-boetetoemetingsbeleid en is het bedrag verlaagd tot € 1.800.000,-. De AFM heeft vervolgens de boete verlaagd met € 50.000,-, omdat de boete van de MFSA op zekere hoogte met de boete van de AFM in verband staat.  Het boetebedrag komt daarmee uit op € 1.750.000,-.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>De rechtbank volgt [eiseres] niet in haar stelling dat het basisbedrag niet met 25% mocht worden verhoogd vanwege de ernst van de overtreding, omdat onvoldoende onderzoek is gedaan naar de hoogte van de kredietvergoeding en vanwege gebrekkige motivering. Ten eerste ziet deze verhoging ook op de duur van de overtreding. De AFM heeft [eiseres] voldoende gemotiveerd tegengeworpen dat zij een lange periode, bijna drie jaar lang, illegaal op grote schaal flitskredieten aan Nederlandse consumenten heeft aangeboden. Ten tweede blijkt uit het onderzoeksrapport (pagina 11-13) dat de AFM ook onderzoek heeft gedaan naar door [eiseres] in rekening gebrachte kosten voor kredieten. De AFM heeft in het boetebesluit vastgesteld (pagina 31) dat [eiseres] vrijwel altijd hogere kosten in rekening bracht dan wettelijk voor kredietaanbieders is toegestaan. De AFM heeft vastgesteld dat [eiseres] naast de maximale kredietvergoeding aan circa 80% van haar klanten kosten in rekening bracht van 25% van het geleende bedrag voor de service het bedrag direct op de dag van aanvraag uitbetaald te krijgen (super bundel Snel). Nog eens 14% van de klanten betaalde 20% extra kosten om het bedrag binnen vier dagen te ontvangen (comfort bundel Gemak). Dat [eiseres] zich hier niet over heeft kunnen uitlaten wordt niet gevolgd, nu zij zowel na het onderzoeksrapport en voornemen als na het boetebesluit daartoe voldoende in de gelegenheid is geweest. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>De rechtbank is van oordeel dat de AFM in wat overigens is aangevoerd terecht geen aanleiding heeft gezien tot verdere matiging van de boete. De AFM heeft in haar besluitvorming reeds meegewogen dat [eiseres] zich gedurende het onderzoek coöperatief heeft opgesteld en dat zij haar bedrijfsvoering heeft aanpast nadat de AFM zich op het standpunt stelde dat zij een illegaal bijkantoor had gevestigd. Van een onderneming die zich niet houdt aan de regels mag echter worden verwacht dat zij (direct) medewerking verleent aan het onderzoek van de toezichthouder en zij is daartoe op grond van artikel 5:20 van de Awb ook gehouden. Daarbij is van belang dat [eiseres] pas actie heeft ondernomen nadat zij signalen van de AFM ontving in het kader van de illegaliteit van dit concept, terwijl het in feite al drie jaar om een vorm van doorstart van (vergelijkbare illegale) activiteiten van [naam] ging, die eerst zijn gestopt na ingrijpen door de AFM. Dat [eiseres] wel een Europees paspoort voor cross border activiteiten had doet aan het voorgaande niet af, nu het haar daarmee niet was toegestaan krediet in Nederland aan te bieden via een bijkantoor. De door [eiseres] verleende medewerking was mede gelet op het voorgaande niet van dien aard dat de AFM op grond hiervan tot verlaging van het boetebedrag diende over te gaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <para>Dat aan andere ondernemingen bestuurlijke boetes zijn opgelegd voor vergelijkbare overtredingen met lagere boetebedragen maakt niet dat de aan [eiseres] opgelegde boete onevenredig is. De AFM heeft bij bepaling van de hoogte van de boete de wettelijke systematiek en haar boetetoemetingsbeleid gevolgd. [eiseres] heeft niet onderbouwd dat bij eerdere door de AFM opgelegde bestuurlijke boetes voor overtreding van artikel 2:60 van de Wft sprake was dezelfde feiten en omstandigheden als bij [eiseres] . Ook de stelling dat de boete van [eiseres] de hoogste uit 2018 is maakt niet dat de boete onevenredig is. [eiseres] heeft niet onderbouwd dat de boetes uit dat jaar zijn opgelegd voor dezelfde overtreding en dat sprake is van gelijke omstandigheden.  </para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Tijdsverloop </emphasis>
+        </para>
+      </parablock>
+      <para>9. Ook in de overschrijding van de in artikel 5:51, eerste lid, van de Awb opgenomen beslistermijn is geen grond gelegen voor het oordeel dat de AFM aanleiding had moeten zien de boete te matigen. Anders dan [eiseres] meent, is de termijn aangevangen met het uitbrengen van het boeterapport van 14 mei 2018 en niet met het rapport van 4 oktober 2016 dat de AFM bij brief van 5 oktober 2016 heeft toegezonden aan de MFSA. Laatstgenoemd rapport bevat slechts het vermoeden van de AFM dat sprake is van een bijkantoor en een beschrijving van de door de AFM geconstateerde activiteiten op het kantoor. In dit rapport wordt geen overtreding van 2:60, eerste lid, van de Wft vastgesteld, wat in het rapport van 14 mei 2018 wel het geval is. Dit laatste rapport voldoet dan ook aan de vereisten van artikel 5:48, eerste lid, van de Awb. In tegenstelling tot wat [eiseres] stelt heeft de AFM na 4 oktober 2016 nog wel onderzoekshandelingen verricht. Zo heeft er nog correspondentie tussen [eiseres] , de AFM en MFSA plaatsgevonden en heeft de AFM het oordeel van de MFSA bestudeerd alvorens zij de overtreding in haar boeterapport heeft opgenomen. </para>
+      <para>Nu de termijn is aangevangen op 14 mei 2018 is de overschrijding van de beslistermijn aanzienlijk beperkter (twee maanden) dan [eiseres] stelt. De termijn van dertien weken is  een termijn van orde. Gelet op de geringe overschrijding van de termijn in combinatie met de complexiteit van zaak waarbij internationale aspecten een rol spelen bestaat geen aanleiding tot matiging van de boete. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>10. Het beroep is ongegrond. Wat [eiseres] overigens aan beroepsgronden heeft aangevoerd, kan in het licht van het voorgaande onbesproken blijven. </para>
+      <para />
+      <para>11. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. P. Vrolijk, voorzitter, mr. dr. M.I. Blagrove en mr. A.J. van Spengen, leden, in aanwezigheid van mr. E. Naaijen-van Kleunen, griffier. De uitspraak is gedaan op 29 september 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier is buiten staat	De voorzitter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>De Richtlijn (EU) nr. 2013/36 (<emphasis role="bold">Richtlijn Kapitaalsvereisten of CRD IV</emphasis>) van 26 juni 2013 luidt - voor zover hier van belang - als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 35</para>
+      <para>Kennisgevingsplicht en interactie tussen bevoegde autoriteiten</para>
+    </parablock>
+    <para>1. Iedere kredietinstelling die op het grondgebied van een andere lidstaat een bijkantoor wenst te vestigen, stelt de bevoegde autoriteiten van de lidstaat van herkomst daarvan in kennis.</para>
+    <para>2. De lidstaten schrijven voor dat elke kredietinstelling die een bijkantoor in een andere lidstaat wenst te vestigen, de in lid 1 bedoelde kennisgeving vergezeld doet gaan van de volgende gegevens:</para>
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>de lidstaat op het grondgebied waarvan zij voornemens is een bijkantoor te vestigen;</para>
+      </listitem>
+      <listitem>
+        <para>een programma van werkzaamheden waarin onder meer de aard van de voorgenomen activiteiten en de organisatiestructuur van het bijkantoor worden vermeld;</para>
+      </listitem>
+      <listitem>
+        <para>het adres in de lidstaat van ontvangst waar documenten kunnen worden opgevraagd;</para>
+      </listitem>
+      <listitem>
+        <para>e naam van de degenen die het bijkantoor gaan besturen.</para>
+      </listitem>
+    </orderedlist>
+    <para>3. Tenzij de bevoegde autoriteiten van de lidstaat van herkomst, gelet op het betrokken project, redenen hebben om aan de deugdelijkheid van de administratieve structuur of van de financiële positie van de kredietinstelling te twijfelen, doen zij binnen drie maanden na ontvangst van alle in lid 2 bedoelde gegevens, mededeling van deze gegevens aan de bevoegde autoriteiten van de lidstaat van ontvangst en stellen zij de betrokken kredietinstelling hiervan in kennis.</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 36</para>
+      <para>Aanvang van de werkzaamheden</para>
+    </parablock>
+    <para>1. Voordat het bijkantoor van de kredietinstelling met zijn werkzaamheden aanvangt, beschikken de bevoegde autoriteiten van de lidstaat van ontvangst over twee maanden, te rekenen vanaf de ontvangst van de in artikel 35 bedoelde mededeling, om het in hoofdstuk 4 bedoelde toezicht op de kredietinstelling voor te bereiden en om, in voorkomend geval, de voorwaarden aan te geven waaronder deze werkzaamheden om redenen van algemeen belang in de lidstaat van ontvangst moeten worden uitgeoefend.</para>
+    <para>2. Zodra een mededeling van de bevoegde autoriteiten van de lidstaat van ontvangst is binnengekomen of wanneer deze niet reageren binnen de in lid 1 bedoelde termijn, kan het bijkantoor gevestigd worden en met zijn werkzaamheden aanvangen.</para>
+    <para>(…).”</para>
+    <para />
+    <parablock>
+      <para>De Uitvoeringsverordening (EU) Nr. 926/2014 (<emphasis role="bold">Uitvoeringsverordening</emphasis>) van 27 augustus 2014 luidt - voor zover hier van belang - als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 2</para>
+      <para>Definities</para>
+      <para>Voor de toepassing van deze verordening wordt verstaan onder:</para>
+      <para>1) 	„kennisgeving paspoort bijkantoor”: een kennisgeving die overeenkomstig artikel 35, lid 1, van Richtlijn 2013/36/EU wordt gedaan door een kredietinstelling die een bijkantoor wil vestigen binnen het grondgebied van een andere lidstaat aan de bevoegde autoriteiten van haar lidstaat van herkomst;</para>
+      <para>(…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 4</para>
+      <para>Indiening van de kennisgeving paspoort bijkantoor</para>
+      <para>Kredietinstellingen gebruiken het in bijlage I neergelegde formulier om een kennisgeving paspoort bijkantoor bij de bevoegde autoriteiten van de lidstaat van herkomst in te dienen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 6</para>
+      <para>Mededeling van de kennisgeving paspoort bijkantoor</para>
+    </parablock>
+    <para>1. De bevoegde autoriteiten van de lidstaat van herkomst gebruiken het in bijlage II neergelegde formulier om een kennisgeving paspoort bijkantoor aan de bevoegde autoriteiten van de lidstaat van ontvangst mee te delen samen met een kopie van de kennisgeving paspoort bijkantoor en met de laatste beschikbare informatie over het eigen vermogen aan de hand van het formulier als neergelegd in bijlage III.</para>
+    <para>2. De bevoegde autoriteiten van de lidstaat van ontvangst bevestigen aan de bevoegde autoriteiten van de lidstaat van herkomst onverwijld de ontvangst van de kennisgeving paspoort bijkantoor en vermelden daarbij de datum waarop de kennisgeving paspoort bijkantoor is ontvangen.</para>
+    <para>3. Na de bevestiging van ontvangst door de bevoegde autoriteiten van de lidstaat van ontvangst stellen de bevoegde autoriteiten van de lidstaat van herkomst de kredietinstelling onverwijld in kennis van het volgende:</para>
+    <para>a. a)	de mededeling van de kennisgeving paspoort bijkantoor aan de bevoegde autoriteiten van de lidstaat van ontvangst;</para>
+    <para>b)	de datum van ontvangst van de kennisgeving paspoort bijkantoor door de bevoegde autoriteiten van de lidstaat van ontvangst.”</para>
+    <para />
+    <parablock>
+      <para>De Verordening (EU) nr. 575/2013 (<emphasis role="bold">GTM-verordening of SSM-verordening</emphasis>) van 26 juni 2013 luidt - voor zover hier van belang - als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 4</para>
+      <para>Definities</para>
+    </parablock>
+    <para>1. Voor de toepassing van deze verordening wordt verstaan onder:</para>
+    <parablock>
+      <para>(…)</para>
+      <para>(17) "bijkantoor": een bedrijfszetel welke een deel zonder juridische zelfstandigheid vormt van een instelling en welke rechtstreeks, geheel of gedeeltelijk de handelingen verricht die eigen zijn aan de werkzaamheden van een instelling;</para>
+      <para>(…)”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Verordening (EU) nr. 468/2014 (<emphasis role="bold">GTM-kaderverordening of SSM-Kaderverordening</emphasis>) van 16 april 2014 luidt - voor zover hier van belang - als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 2</para>
+      <para>Definities</para>
+      <para>In deze verordening gelden, tenzij anders bepaald, de definities die zijn vastgelegd in de GTM-verordening en daarnaast de volgende definities:</para>
+      <para>(…)</para>
+    </parablock>
+    <para>2.	„ bijkantoor”: een bijkantoor zoals gedefinieerd in artikel 4, lid 1, punt 17, van Verordening (EU) nr. 575/2013; </para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 11</para>
+      <para>Recht van vestiging van kredietinstellingen binnen het GTM</para>
+      <para>(…) 	</para>
+    </parablock>
+    <para>2. Een minder belangrijke onder toezicht staande entiteit die een bijkantoor op het grondgebied van een andere deelnemende lidstaat wil vestigen, geeft kennis van haar intentie aan haar NBA, met inachtneming van de in artikel 35, lid 2, van Richtlijn 2013/36/EU vermelde vereisten.</para>
+    <para>(…)</para>
+    <para>4. Indien geen andersluidend besluit is genomen door de NBA van de lidstaat van herkomst binnen twee maanden na ontvangst van de kennisgeving, mag het in lid 2 genoemde bijkantoor worden gevestigd en aanvangen met haar activiteiten. De NBA stuurt deze informatie door naar de ECB en naar de NBA van de deelnemende lidstaat waar het bijkantoor gevestigd zal worden.</para>
+    <para>5. Indien er een wijziging optreedt met betrekking tot enige krachtens lid 1 of 2 doorgestuurde informatie, brengt de onder toezicht staande entiteit de NBA die de initiële informatie ontving schriftelijk in kennis van een dergelijke wijziging, ten minste één maand voor de implementatie van de wijziging. Deze NBA informeert de NBA van de lidstaat waar het bijkantoor wordt gevestigd.</para>
+    <para />
+    <parablock>
+      <para>Artikel 12</para>
+      <para>Uitoefening van het recht tot het vrij verrichten van diensten door kredietinstellingen binnen het GTM</para>
+    </parablock>
+    <para>1. Een belangrijke onder toezicht staande entiteit die haar recht tot het vrij verrichten van diensten wil uitoefenen door haar werkzaamheden voor het eerst op het grondgebied van een andere deelnemende lidstaat uit te voeren, stelt de NBA van de deelnemende lidstaat waar de belangrijke onder toezicht staande entiteit haar hoofdkantoor heeft in kennis van haar intentie. Er wordt informatie verstrekt in overeenstemming met de vereisten van artikel 39, lid 1, van Richtlijn 2013/36/EU. De NBA brengt de ECB direct op de hoogte van de ontvangst van deze kennisgeving. De NBA stuurt de kennisgeving ook door naar de NBA van de deelnemende lidstaat waar de diensten zullen worden verricht.</para>
+    <para>2. Een minder belangrijke onder toezicht staande entiteit die haar recht tot het vrij verrichten van diensten wil uitoefenen door haar werkzaamheden voor het eerst op het grondgebied van een andere deelnemende lidstaat uit te voeren, stelt haar NBA hiervan in kennis in overeenstemming met de vereisten van artikel 39, lid 1, van Richtlijn 2013/36/EU. Deze kennisgeving wordt doorgestuurd naar de ECB en naar de NBA van de deelnemende lidstaat waar de diensten zullen worden verricht.”</para>
+    <para />
+    <parablock>
+      <para>De Verordening (EU) nr. 1024/2013 van 15 oktober 2013 luidt - voor zover hier van belang - als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 33</para>
+      <para>Overgangsbepalingen</para>
+      <para>(…)</para>
+    </parablock>
+    <para>2. De ECB begint op 4 november 2014 aan de haar bij deze verordening opgedragen taken, overeenkomstig de in dit lid bepaalde uitvoeringsregeling en uitvoeringsmaatregelen. (…)</para>
+    <para>5. Kredietinstellingen die op 3 november 2013 of, in voorkomend geval, op de in de leden 2 en 3 van dit artikel vermelde data beschikken over een door de deelnemende lidstaten afgegeven vergunning, worden geacht over een vergunning te beschikken overeenkomstig artikel 13 en mogen hun werkzaamheden verder uitoefenen. De nationale bevoegde autoriteiten doen de ECB vóór de datum waarop deze verordening van toepassing wordt of, in voorkomend geval, vóór de in de leden 2 en 3 van dit artikel vermelde data, de gegevens betreffende die kredietinstellingen toekomen, alsmede een verslag waarin de toezichtantecedenten en het risicoprofiel van de betrokken instellingen zijn vermeld, alsmede alle verdere door de ECB verlangde informatie. Deze informatie wordt in het door de ECB verlangde format ingediend.”</para>
+    <para />
+    <parablock>
+      <para>De <emphasis role="bold">Wet op het financieel toezicht (Wft)</emphasis> luidt - voor zover hier van belang - als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 1:80</para>
+      <para>De toezichthouder kan een bestuurlijke boete opleggen terzake van overtreding van:</para>
+    </parablock>
+    <para>a. 	voorschriften, gesteld ingevolge de in de bijlage bij dit artikel genoemde artikelen;</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>In de Bijlage bij artikel 1:80 is artikel 2:60, eerste lid genoemd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afdeling 2.2.2</para>
+      <para>Artikel 2:14 (<emphasis role="italic">tot 12 juni 2015</emphasis>) </para>
+    </parablock>
+    <para>1. Indien de Nederlandsche Bank een mededeling van het voornemen van een bank met zetel in een andere lidstaat tot het uitoefenen van haar bedrijf vanuit een in Nederland gelegen bijkantoor heeft ontvangen van een toezichthoudende instantie van een andere lidstaat, deelt zij de betrokken bank onverwijld deze ontvangst mede.</para>
+    <para>2. De Nederlandsche Bank kan binnen twee maanden na ontvangst van de mededeling de toezichthoudende instantie van de andere lidstaat mededelen welke voorwaarden om redenen van algemeen belang door de bank in acht moeten worden genomen bij het uitoefenen van haar bedrijf vanuit een in Nederland gelegen bijkantoor. De Nederlandsche Bank zendt hiervan een afschrift aan de bank.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:14 (<emphasis role="italic">vanaf 12 juni 2015</emphasis>) </para>
+    </parablock>
+    <para>1. Indien de Nederlandsche Bank een mededeling van het voornemen van een bank met zetel in een andere lidstaat niet zijnde een deelnemende lidstaat als bedoeld in artikel 2 van de verordening bankentoezicht, tot het uitoefenen van haar bedrijf vanuit een in Nederland gelegen bijkantoor heeft ontvangen van een toezichthoudende instantie van een andere lidstaat, deelt zij de betrokken bank onverwijld deze ontvangst mede.</para>
+    <para>2. De Nederlandsche Bank kan binnen twee maanden na ontvangst van de mededeling de toezichthoudende instantie van de andere lidstaat mededelen welke voorwaarden om redenen van algemeen belang door de bank in acht moeten worden genomen bij het uitoefenen van haar bedrijf vanuit een in Nederland gelegen bijkantoor. De Nederlandsche Bank zendt hiervan een afschrift aan de bank.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:15 (<emphasis role="italic">tot 12 juni 2015</emphasis>) </para>
+    </parablock>
+    <para>1. Een bank met zetel in een andere lidstaat die een vergunning heeft voor het uitoefenen van haar bedrijf, verleend door de toezichthoudende instantie van die lidstaat, en voornemens is haar bedrijf uit te oefenen vanuit een in Nederland gelegen bijkantoor kan daartoe overgaan twee maanden na ontvangst van de mededeling, bedoeld in artikel 2:14, eerste lid, of onmiddellijk na ontvangst van de mededeling, bedoeld in artikel 2:14, tweede lid.</para>
+    <para>2. Het is de bank toegestaan de werkzaamheden, genoemd in bijlage I van de herziene richtlijn banken, te verrichten, tenzij in de mededeling, bedoeld in artikel 2:14, eerste lid, uitdrukkelijk anders is bepaald of die mededeling het verrichten van die werkzaamheden niet vermeldt.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:15 (<emphasis role="italic">vanaf 12 juni 2015</emphasis>) </para>
+    </parablock>
+    <para>1. Een bank met zetel in een andere lidstaat niet zijnde een deelnemende lidstaat als bedoeld in artikel 2 van de verordening bankentoezicht, die een vergunning heeft voor het uitoefenen van haar bedrijf, verleend door de toezichthoudende instantie van die lidstaat, en voornemens is haar bedrijf uit te oefenen vanuit een in Nederland gelegen bijkantoor kan daartoe overgaan twee maanden na ontvangst van de mededeling, bedoeld in artikel 2:14, eerste lid, of onmiddellijk na ontvangst van de mededeling, bedoeld in artikel 2:14, tweede lid.</para>
+    <para>2. Het is de bank toegestaan de werkzaamheden, bedoeld in bijlage I bij de richtlijn kapitaalvereisten, te verrichten, tenzij in de mededeling, bedoeld in artikel 2:14, eerste lid, uitdrukkelijk anders is bepaald of die mededeling het verrichten van die werkzaamheden niet vermeldt.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:18 (<emphasis role="italic">tot 12 juni 2015</emphasis>)</para>
+    </parablock>
+    <para>1. Een bank met zetel in een andere lidstaat die een door de toezichthoudende instantie van die lidstaat verleende vergunning heeft voor het uitoefenen van haar bedrijf en voornemens is voor de eerste maal door middel van het verrichten van diensten naar Nederland haar bedrijf uit te oefenen, kan daartoe overgaan nadat zij de toezichthoudende instantie van de lidstaat waar zij haar zetel heeft, kennis heeft gegeven van het voornemen.</para>
+    <para>2. Het is de bank toegestaan de werkzaamheden, genoemd in bijlage I van de herziene richtlijn banken, te verrichten, tenzij de Nederlandsche Bank van de toezichthoudende instantie van de lidstaat van de zetel van de desbetreffende bank een mededeling heeft ontvangen waarin uitdrukkelijk anders is bepaald of die mededeling, het verrichten van die werkzaamheden niet vermeldt.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:18 (<emphasis role="italic">vanaf 12 juni 2015</emphasis>)</para>
+    </parablock>
+    <para>1. Een bank met zetel in een andere lidstaat niet zijnde een deelnemende lidstaat als bedoeld in artikel 2 van de verordening bankentoezicht, die een door de toezichthoudende instantie van die lidstaat verleende vergunning heeft voor het uitoefenen van haar bedrijf en voornemens is voor de eerste maal door middel van het verrichten van diensten naar Nederland haar bedrijf uit te oefenen, kan daartoe overgaan nadat zij de toezichthoudende instantie van de lidstaat waar zij haar zetel heeft, kennis heeft gegeven van het voornemen.</para>
+    <para>2. Het is de bank toegestaan de werkzaamheden, bedoeld in bijlage I bij de richtlijn kapitaalvereisten, te verrichten, tenzij de Nederlandsche Bank van de toezichthoudende instantie van de lidstaat van de zetel van de desbetreffende bank een mededeling heeft ontvangen waarin uitdrukkelijk anders is bepaald of die mededeling, het verrichten van die werkzaamheden niet vermeldt.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:60 </para>
+    </parablock>
+    <para>1. Het is verboden in Nederland zonder een daartoe door de Autoriteit Financiële Markten verleende vergunning krediet aan te bieden.</para>
+    <para>2. De Autoriteit Financiële Markten kan op aanvraag, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid indien de aanvrager aantoont dat de belangen die dit deel en het Deel Gedragstoezicht financiële ondernemingen beogen te beschermen anderszins voldoende worden beschermd.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:61 (<emphasis role="italic">tot 12 juni 2015</emphasis>) </para>
+    </parablock>
+    <para>1. Artikel 2:60, eerste lid, is niet van toepassing op financiële ondernemingen die:</para>
+    <para>(…)</para>
+    <para>c.	voor het uitoefenen van het bedrijf van bank een door de Nederlandsche Bank op grond van dit deel verleende vergunning hebben.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:61 (<emphasis role="italic">vanaf 12 juni 2015</emphasis>) </para>
+    </parablock>
+    <para>1. Artikel 2:60, eerste lid, is niet van toepassing op financiële ondernemingen die:</para>
+    <para>(…)</para>
+    <para>c.	voor het uitoefenen van het bedrijf van bank een door de Europese Centrale Bank of de Nederlandsche Bank verleende vergunning hebben.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2:62 </para>
+      <para>Artikel 2:60, eerste lid, is niet van toepassing op financiële ondernemingen met zetel in een andere lidstaat die:</para>
+    </parablock>
+    <para>a.	als bank hun bedrijf uitoefenen vanuit een in Nederland gelegen bijkantoor of door middel van het verrichten van diensten naar Nederland, voorzover het aan hen ingevolge afdeling 2.2.2 is toegestaan krediet aan te bieden;</para>
+    <para>(…).”</para>
+    <para />
+    <parablock>
+      <para>De <emphasis role="bold">Algemene wet bestuursrecht (Awb)</emphasis> luidt - voor zover hier van belang - als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 5:51</para>
+    </parablock>
+    <para>1. Indien van de overtreding een rapport is opgemaakt, beslist het bestuursorgaan omtrent het opleggen van de bestuurlijke boete binnen dertien weken na de dagtekening van het rapport.</para>
+    <para>(…).”</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

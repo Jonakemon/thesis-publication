@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:6007</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-17T09:00:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 1368</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:6007">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:6007</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-03T12:08:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:6007 Rechtbank Den Haag , 02-07-2020 / AWB - 20 _ 1368</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:6007:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Besluitbegrip, voorbereidingshandeling</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:6007:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 20/1368 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 2 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Stichting Omroep Zuidplas, te Nieuwerkerk a/d IJssel, eiseres</bridgehead>
+    <para>(gemachtigde: mr. P.E.M. Baur)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Commissariaat voor de Media, verweerder</bridgehead>
+    <para>(gemachtigde: mr. I.M. van der Heijden).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Eiseres heeft bij brief van 14 februari 2020, ontvangen op 17 februari 2020, beroep ingesteld tegen een e-mailbericht van verweerder van 7 februari 2020. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft op 13 mei 2020 een verweerschrift ingediend.  </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De rechtbank doet op grond van artikel 8:54 van de Algemene wet bestuursrecht (Awb) uitspraak zonder zitting.  </para>
+    <para />
+    <para>2. Eiseres is bij besluit van 25 november 2014 door verweerder aangewezen als lokale publieke media-instelling in de gemeente Zuidplas. Deze aanwijzing is ingegaan op </para>
+    <para>1 januari 2015 en geëindigd op 1 januari 2020. Eiseres heeft op 24 juni 2019 een aanvraag ingediend voor een hernieuwde aanwijzing als zendgemachtigde in de gemeente Zuidplas voor de volgende vijf jaren. De Stichting Gouda Media heeft op 2 september 2019 een soortgelijke aanvraag ingediend. Aanwijzing geschiedt eerst nadat de raad van de betreffende gemeente advies heeft uitgebracht over de vraag of de instelling voldoet aan de eisen van de Mediawet 2008. Bij brief van 27 januari 2020 heeft de gemeenteraad van Zuidplas het wettelijk voorgeschreven advies uitgebracht aan verweerder. Dit advies houdt in dat beide verzoeken voldoen aan de criteria maar dat de zendmachtiging voor de komende vijf jaren om een aantal redenen wordt gegund aan de Stichting Gouda Media. Met een e-mailbericht van 3 februari 2020 heeft eiseres bezwaar gemaakt bij verweerder tegen het beweerdelijk gestelde besluit om de aanvraag van de Stichting Gouda Media ontvankelijk te verklaren. Met een e-mailbericht van 7 februari 2020 aan eiseres heeft verweerder in reactie hierop de te volgen procedure uiteengezet. Op 14 februari 2020 heeft eiseres tegen dit bericht beroep ingesteld bij de rechtbank. Bij brief van 21 februari 2020 heeft verweerder eiseres bericht voornemens te zijn de aanvraag af te wijzen en de aanvraag van de Stichting Gouda Media toe te wijzen. In deze brief wordt eiseres in de gelegenheid gesteld een zienswijze in te dienen tegen dit voornemen. Bij e-mailberichten van 1 en 15 maart 2020 heeft eiseres een zienswijze ingediend. Bij besluit van 14 april 2020 heeft verweerder de aanvraag van Stichting Gouda Media ingewilligd en de aanvraag van eiseres afgewezen. </para>
+    <para />
+    <para>3. Ingevolge artikel 8:1 in samenhang met het bepaalde in artikel 7:1 van de Awb kan een belanghebbende, na voorafgaand bezwaar, tegen een besluit beroep instellen bij de bestuursrechter. Ingevolge het bepaalde in artikel 1:3, eerste lid, van de Awb wordt onder besluit verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.</para>
+    <para />
+    <para>4. Het beroep van eiseres is gericht tegen het e-mailbericht van verweerder van 7 februari 2020 waarin uitleg wordt gegeven over de procedure die uiteindelijk leidt tot de aanwijzing van een zendgemachtigde. Deze brief van verweerder is een reactie op het e-mail bericht van eiseres van 3 februari 2020 waarin zij stelt bezwaar te maken tegen verweerders besluit om de aanvraag van Stichting Gouda Media ontvankelijk te verklaren. Van een dergelijk besluit is echter geen sprake. Voor zover eiseres heeft bedoeld te stellen dat verweerder de aanvraag van de Stichting Gouda Media ten onrechte in behandeling heeft genomen en ten onrechte om advies naar de gemeenteraad heeft doorgezonden, geldt eveneens dat deze handelingen niet als besluit(en) in de zin van de Awb kunnen worden aangemerkt. De rechtbank oordeelt, met verweerder, dat het doorzenden van de aanvraag van de Stichting Gouda Media om advies naar de raad van de gemeente Zuidplas een voorbereidingsbeslissing betreft in de zin van artikel 6:3 van de Awb. Een dergelijke beslissing is volgens deze bepaling niet vatbaar voor bezwaar of beroep, tenzij deze beslissing de belanghebbende los van het voor te bereiden besluit rechtstreeks in zijn belang treft. Aan deze voorwaarde is niet voldaan nu het belang van eiseres niet los kan worden gezien van het uiteindelijke aanwijzingsbesluit waartegen voor haar wel bezwaar en beroep openstaat. Zoals verweerder in zijn verweerschrift terecht heeft opgemerkt kon eiseres tegen het aanwijzingsbesluit van 14 april 2020 rechtsmiddelen aanwenden.</para>
+    <para />
+    <para>5. Op grond van het vorenstaande dient de rechtbank zich onbevoegd te verklaren van het beroep kennis te nemen. Voor een proceskostenveroordeling bestaat geen aanleiding.    </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart zich onbevoegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 2 juli 2020 door mr. R.H. Smits, rechter, in aanwezigheid van mr. B.M. van der Meide, griffier. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Al gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan verzet worden ingesteld bij deze rechtbank. De indiener van het verzetschrift kan daarbij vragen in de gelegenheid te worden gesteld over het verzet te worden gehoord.  </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

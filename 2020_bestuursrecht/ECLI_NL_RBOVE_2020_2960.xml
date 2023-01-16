@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOVE:2020:2960</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-11T11:47:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel" scheme="overheid.RechterlijkeMacht">Rechtbank Overijssel</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 20/1609</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Almelo</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:2960">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:2960</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-10T15:06:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOVE:2020:2960 Rechtbank Overijssel , 10-09-2020 / AWB 20/1609</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOVE:2020:2960:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Café De Skihut mag niet open in afwachting van de beslissing van de gemeente Almelo op het bezwaar. Dat heeft de voorzieningenrechter van de rechtbank Overijssel besloten. De gemeente Almelo trok eerder dit jaar de verleende exploitatievergunning en drank- en horecavergunning van De Skihut in, omdat er een ernstig gevaar bestaat dat de vergunningen onder andere gebruikt zouden worden voor het plegen van strafbare feiten.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOVE:2020:2960:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK OVERIJSSEL</bridgehead>
+    <para>Zittingsplaats Zwolle</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 20/1609</para>
+    </parablock>
+    <para />
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter op het verzoek om voorlopige voorziening </bridgehead>
+    <bridgehead role="bold">in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [verzoekster] te [woonplaats] , verzoekster,</bridgehead>
+    <para>gemachtigde: ing. M.H. Middelkamp,</para>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Almelo, verweerder,</bridgehead>
+    <para>gemachtigde: mr. M. Ichoh.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 juni 2020 (het bestreden besluit) heeft verweerder de aan verzoekster verleende exploitatievergunning en drank- en horecavergunning voor de uitoefening </para>
+      <para>van horecabedrijf “ [horecabedrijf] ” ( [horecabedrijf] ), gevestigd aan de [adres]</para>
+      <para>te Almelo, ingetrokken met ingang van de dag na de termijn van zes weken waarbinnen bezwaar kan worden ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen het bestreden besluit is namens verzoekster bezwaar gemaakt. Ook is namens verzoekster op 20 augustus 2020 de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 3 september 2020. </para>
+      <para>Verzoekster is verschenen met haar gemachtigde en [naam 1] . Verweerder heeft </para>
+      <para>zich doen vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>1. Indien voorafgaand aan een mogelijk beroep bij de rechtbank tegen een besluit bezwaar </para>
+      <para>is gemaakt, kan de voorzieningenrechter van de rechtbank die bevoegd kan worden in de hoofdzaak op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb) op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voor zover de daartoe uit te voeren toetsing meebrengt dat de rechtmatigheid van het bestreden besluit wordt beoordeeld, heeft het oordeel van de voorzieningenrechter een voorlopig karakter en is dat oordeel niet bindend voor de beslissing op bezwaar of in een eventuele beroepsprocedure.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Bij besluiten van 21 juli 2015 heeft verweerder een exploitatievergunning en een </para>
+        <para>drank- en horecavergunning verleend aan [naam 2] voor het exploiteren van </para>
+        <para>
+          [horecabedrijf] . In beide besluiten is verzoekster als leidinggevende I aangeduid en [naam 2] </para>
+        <para> als leidinggevende II.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Bij overeenkomst van 31 december 2016 heeft verzoekster [horecabedrijf] gekocht van </para>
+        <para>
+          [naam 2] . </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Bij besluit van 17 februari 2017 heeft verweerder een exploitatievergunning en een drank-</para>
+        <para>en horecavergunning aan verzoekster verleend. Daarin is verzoekster als leidinggevende I aangeduid en [naam 2] als leidinggevende II.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Op 4 december 2019 heeft verweerder verzoekster schriftelijk in kennis gesteld van </para>
+        <para>het feit dat hij naar aanleiding van een tip van het Openbaar Ministerie (OM) op grond van artikel 26 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (wet Bibob) op 3 december 2019 heeft besloten een advies aan te vragen bij het Landelijk Bureau Bibob (LBB). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Op 9 januari 2020 heeft verzoekster aan verweerder verzocht de leidinggevenden </para>
+        <para>te wijzigen. Bij besluit van 13 januari 2020 heeft verweerder dit verzoek gehonoreerd waarmee onder meer [naam 2] niet meer als leidinggevende is aangemerkt. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Het LBB heeft op 17 maart 2020 een Bibob-advies uitgebracht met als conclusie dat er een ernstig gevaar bestaat dat de vergunningen mede zullen worden gebruikt om strafbare feiten te plegen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Met overname van dit advies heeft verweerder bij het besluit van 9 juni 2020 de eerder  aan verzoekster verleende drank- en horecavergunning en exploitatievergunning ingetrokken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>Namens verzoekster is tegen dit besluit bezwaar gemaakt. Op 20 augustus 2020 is namens verzoekster een verzoek om een voorlopige voorziening te treffen ingediend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7.</nr>
+      <parablock>
+        <para>Verzoekster heeft aangevoerd dat zij voor haar inkomen afhankelijk is van haar horecabedrijf. Door de coronamaatregelen was er eerst geen spoedeisendheid maar door </para>
+        <para>de recente versoepeling van de coronamaatregelen kan haar horecabedrijf weer open. </para>
+        <para>Door het intrekkingsbesluit wordt ze nu onredelijk zwaar getroffen. Met het bedrijf van verzoekster worden geen strafbare handelingen verricht en verzoekster doet dit zelf ook niet. Verzoekster vindt het bestreden besluit een te buitenproportioneel middel die gelet op de algemene beginselen van behoorlijk bestuur niet in stand kan blijven. Ter zitting heeft de gemachtigde van verzoekster de voorzieningenrechter verzocht het bestreden besluit te schorsen tot zes weken na de beslissing op bezwaar. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het wettelijk kader</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <parablock>
+        <para>Het wettelijk kader is vermeld op de bijlage bij deze uitspraak.</para>
+        <para>
+          <emphasis role="italic">Het spoedeisend belang</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Ter zitting heeft verzoekster toegelicht dat zij [horecabedrijf] graag weer openen wil en dat zij kan voldoen aan de 1,5 meter regel. De voorzieningenrechter heeft geen aanleiding gevonden hieraan te twijfelen, zodat verzoekster het spoedeisende belang bij de door haar gevraagde voorlopige voorziening voldoende heeft aangetoond.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het oordeel van de voorzieningenrechter</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>De voorzieningenrechter stelt in de eerste plaats vast dat verweerder in beginsel mag uitgaan van het advies van het LBB gelet op de expertise van dat bureau. Dit neemt niet </para>
+        <para>weg dat verweerder zich ervan moet vergewissen dat het advies en het daartoe ingestelde onderzoek naar de feiten op een zorgvuldige wijze tot stand zijn gekomen en dat de feiten </para>
+        <para>de conclusie kunnen dragen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <parablock>
+        <para>De voorzieningenrechter is van oordeel dat verweerder aan de vergewisplicht heeft voldaan. Verweerder heeft zich op juiste gronden op het standpunt gesteld dat het Bibob-advies en het daartoe ingestelde onderzoek naar de feiten op zorgvuldige wijze tot stand gekomen zijn en dat de feiten de conclusies kunnen dragen. Ook kunnen de feiten de conclusie, dat sprake is van ernstig gevaar zoals bedoeld onder de b-grond (artikel 3, </para>
+        <para>eerste lid onder b van de wet Bibob), dragen. Het LBB heeft bij het vergaren van die gegevens gebruik kunnen maken van de informatie zoals opgenomen in het advies. </para>
+        <para>Van enige onzorgvuldigheid of tegenstrijdigheid in het advies is de voorzieningenrechter </para>
+        <para>niet gebleken.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verweerder heeft het Bibob-advies van 17 maart 2020 dan ook aan zijn besluitvorming ten grondslag mogen leggen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Feitelijke situatie bepalend</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <parablock>
+        <para>De voorzieningenrechter benadrukt dat de feitelijke situatie maatgevend en bepalend </para>
+        <para>is en niet hetgeen op papier is gesteld, zoals bijvoorbeeld de formele wijziging van de leidinggevenden van [horecabedrijf] .</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <parablock>
+        <para>Uitgaande van de feitelijke situatie is ook de voorzieningenrechter op basis van de bevindingen die ten grondslag liggen aan het Bibob-advies van oordeel, dat [naam 2] </para>
+        <para>feitelijk nog steeds betrokken is bij de bedrijfsvoering van [horecabedrijf] . In  bezwaar heeft verzoekster dit ook bevestigd door aan te geven dat zij [naam 2] gevraagd heeft </para>
+        <para>of hij haar in weekenden kon helpen gelet op zijn ervaring met en zijn overwicht ondanks </para>
+        <para>dat zij de relatie met hem had beëindigd. Daarbij is feitelijk ook nog sprake van een aanmerkelijk geldschuld van verzoekster aan [naam 2] .</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Zelf geen strafbare feiten gepeeld</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Ter zitting heeft de gemachtigde van verzoekster herhaald dat verzoekster zelf geen strafbare feiten heeft gepleegd. Maar een betrokkene staat niet alleen in relatie tot strafbare feiten als hij of zij deze zelf heeft begaan. Uit artikel 3 vierde lid aanhef en onder c van de wet Bibob volgt dat een betrokkene ook in relatie tot strafbare feiten staat indien een ander deze heeft gepleegd en deze persoon direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over, vermogen verschaft dan wel heeft verschaft aan betrokkene, of in een zakelijk samenwerkingsverband tot hem staat of heeft gestaan. Gelet op de gedingstukken en het verhandelde ter zitting is daarvan in de situatie van verzoekster sprake.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Zakelijk samenwerkingsverband.</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <parablock>
+        <para>Verweerder heeft naar het oordeel van de voorzieningenrechter voldoende aangetoond, </para>
+        <para>dat er sprake is van een zakelijk samenwerkingsverband tussen verzoekster en [naam 2] . Daarbij is van belang de langdurige betrokkenheid in het recente verleden van [naam 2] als exploitant en leidinggevende bij [horecabedrijf] , de persoonlijke relatie die verzoekster en [naam 2] hebben gehad, de aanmerkelijke geldschuld die verzoekster bij [naam 2] heeft en de blijvende betrokkenheid van [naam 2] bij [horecabedrijf] nadat hij in januari 2020 als leidinggevende is geschrapt. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ernstig gevaar</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <parablock>
+        <para>Bij de toepassing van de b-grond moet worden beoordeeld of er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om strafbare feiten te plegen. Indien in dit kader een besluit wordt genomen is deze niet bestraffend van aard (punitief) maar wordt </para>
+        <para>met een dergelijk besluit voorkomen dat vergunningen worden misbruikt voor mogelijke criminele activiteiten. De voorzieningenrechter volgt de gemachtigde van verzoekster dan ook niet in zijn stelling dat dergelijke besluiten wel punitief van aard zouden zijn. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter stelt vast dat uit het Bibob-advies blijkt van een strafrechtelijk verleden van [naam 2] . De voorzieningenrechter heeft niet uit het oog verloren dat </para>
+        <para>de laatste veroordeling van [naam 2] uit 2014 dateert, doch het tijdsverloop is niet zodanig groot is dat met deze veroordelingen geen rekening meer zou mogen worden gehouden. Daarnaast beroept verweerder zich op een bestuurlijke rapportage van de politie van 4 maart 2020 waaruit zou blijken dat in de woning van [naam 2] illegale prostitutie </para>
+        <para>zou hebben plaatsgevonden waartegen handhavend zou zijn opgetreden. Deze bestuurlijke rapportage is niet overgelegd, maar kan in bezwaar alsnog aan de stukken worden toegevoegd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De conclusie dat er sprake is van ernstig gevaar als bedoeld in de b-grond, is door verweerder op basis van het Bibob-advies naar het oordeel van de voorzieningenrechter</para>
+        <para>gelet op al het voorgaande voldoende gemotiveerd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Belangenafweging</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8.</nr>
+      <parablock>
+        <para>De voorzieningenrechter is van oordeel dat verweerder aan het algemeen belang ten aanzien van de openbare orde, de veiligheid en de gezondheid en het belang van naleving van de regelgeving, een zwaarder belang heeft mogen toekennen dan aan de belangen van verzoekster. </para>
+        <para>Aan de stelling van verzoekster, dat zij naar vermogen probeert de betrokkenheid </para>
+        <para>van [naam 2] bij [horecabedrijf] te beëindigen, kan thans onvoldoende gewicht worden toegekend, nu verzoekster [naam 2] zelf doorgaand heeft betrokken bij de bedrijfsvoering van [horecabedrijf] vanwege zijn ervaring en overwicht en ter zitting tevens </para>
+        <para>is aangegeven dat [naam 2] zich lastig laat wegzetten gelet op zijn persoon en de geldschuld die verzoekster bij [naam 2] heeft.</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ten slotte</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.9.</nr>
+      <parablock>
+        <para>In het bestreden besluit heeft verweerder expliciet aangegeven dat de aan verzoekster verleende exploitatievergunning en drank- en horecavergunning worden ingetrokken. </para>
+        <para>De voorzieningenrechter kan de gemachtigde van verzoekster dan ook niet volgen in zijn stelling dat deze tekst opgevat zou moeten worden als een enkele mededeling van verweerder dat hij dat van plan is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De gemachtigde van verzoekster heeft nog betoogd, dat verweerder de betrokkenheid van [naam 2] bij [horecabedrijf] langdurig heeft gedoogd en daartegen nu niet meer zou kunnen optreden. Naar het oordeel van de voorzieningenrechter vormen de resultaten van het</para>
+        <para>Bibob-onderzoek dat op verzoek van verweerder is ingesteld na de tip van het OM van </para>
+        <para>25 november 2019, voldoende grond om nu op te treden tegen verzoeksters exploitatie </para>
+        <para>van [horecabedrijf] .</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie:</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. Uit het voorgaande volgt dat in bezwaar het bestreden besluit naar verwachting in stand kan blijven, zodat er geen aanleiding is voor het treffen van een voorlopige voorziening.</para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A. Oosterveld, rechter, in aanwezigheid van C. Kuiper, </para>
+      <para>als griffier, op</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								  rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De uitspraak wordt openbaar gemaakt op de eerstvolgende donderdag na deze datum.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open. </para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage:</title>
+    <para />
+    <parablock>
+      <para>Artikel 3, van de Wet Bibob, voor zover hier van belang, luidt:</para>
+    </parablock>
+    <para />
+    <para>1. Voor zover bestuursorganen bij of krachtens de wet daartoe de bevoegdheid hebben gekregen, kunnen zij weigeren een aangevraagde beschikking te geven dan wel een gegeven beschikking intrekken, indien ernstig gevaar bestaat dat de beschikking mede zal worden gebruikt om:</para>
+    <para>[…], of</para>
+    <para>b. strafbare feiten te plegen.</para>
+    <para>[…]</para>
+    <para />
+    <para>3. Voor zover het ernstig gevaar als bedoeld in het eerste lid, aanhef en onderdeel b, betreft, wordt de mate van het gevaar vastgesteld op basis van:</para>
+    <para>a. feiten en omstandigheden die erop wijzen of redelijkerwijs doen vermoeden dat de betrokkene in relatie staat tot strafbare feiten die zijn gepleegd bij activiteiten die overeenkomen of samenhangen met activiteiten waarvoor de beschikking wordt aangevraagd dan wel is gegeven,</para>
+    <para>b. ingeval van vermoeden de ernst daarvan,</para>
+    <para>c. de aard van de relatie en</para>
+    <para>d. het aantal van de gepleegde strafbare feiten.</para>
+    <para />
+    <para>4. De betrokkene staat in relatie tot strafbare feiten als bedoeld in het tweede en derde lid, indien:</para>
+    <para>[…],</para>
+    <para>c. een ander deze strafbare feiten heeft gepleegd en deze persoon direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over, vermogen verschaft dan wel heeft verschaft aan betrokkene, of in een zakelijk samenwerkingsverband tot hem staat of heeft gestaan.</para>
+    <para />
+    <para>5. De weigering dan wel intrekking, bedoeld in het eerste lid, vindt slechts plaats indien deze evenredig is met:</para>
+    <para>a. de mate van het gevaar en</para>
+    <para>b. voor zover het ernstig gevaar als bedoeld in het eerste lid, onderdeel b, betreft, de ernst van de strafbare feiten.</para>
+    <para>[…]</para>
+    <para />
+    <parablock>
+      <para>Artikel 31 lid 3 sub a van de Drank- en Horecawet bepaalt dat een vergunning voorts </para>
+      <para>door de burgemeester worden ingetrokken, indien er sprake is van het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

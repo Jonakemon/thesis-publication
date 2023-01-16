@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:4503</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-23T09:23:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 20/1873</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:4503">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:4503</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-18T12:57:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:4503 Rechtbank Noord-Nederland , 21-12-2020 / LEE 20/1873</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:4503:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Weigering wapenverlof te verlengen wegens geringe twijfel wat betreft vrees voor misbruik.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:4503:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: LEE 20/1873 </para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer van 21 december 2020 in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. D. Tanke),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">De Minister van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. A.P.N. de Bruijn).<?linebreak?></para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 maart 2019 (het primaire besluit) heeft de Korpschef van politie eisers aanvraag om een wapenverlof afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 februari 2020 (het bestreden besluit) heeft verweerder het administratief beroep van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 9 december 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde en zijn echtgenote [naam] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser is sinds 2002 lid van een schietvereniging. In 2003 is aan hem voor de eerste maal een wapenverlof verleend. Laatstelijk was zijn wapenverlof geldig tot 1 januari 2019.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Op 19 december 2018 heeft eiser met een politiebeambte een gesprek gevoerd over de verlenging van zijn wapenverlof. Op 21 december 2018 heeft eiser een telefoongesprek gevoerd met een andere politiebeambte. Op 10 januari 2019 heeft eiser zijn wapen in bewaring gegeven bij de Korpschef van politie.</para>
+      <para />
+      <para>2. De relevante regelgeving is opgenomen in een bijlage bij deze uitspraak.</para>
+      <para />
+      <para>3. De aanvraag is afgewezen op de grond dat, gezien de omstandigheden van eiser, aan hem het onder zich hebben van wapens niet kan worden toevertrouwd. Er is geringe twijfel wat betreft de vraag of er vrees is voor misbruik. Verweerder baseert deze twijfel op de psychische omstandigheden van eiser en het feit dat eiser wapens zonder verlof onder zich heeft gehouden. De geringe twijfel is voldoende voor weigering.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>In bovengenoemd gesprek van 19 december 2018 is aan de orde geweest dat eiser met psychische klachten te maken had gehad, dat hij een periode arbeidsongeschikt was geweest maar dat hij inmiddels weer arbeidsgeschikt werd geacht. Tijdens dit gesprek maakte eiser op de politiebeambte een geagiteerde indruk.</para>
+        <para>In het telefoongesprek van 21 december 2018 heeft eiser aan een andere politiebeambte, die de aanvraag niet in behadeling had, de vraag voorgelegd wat hij met zijn wapens zou moeten doen als zijn verlof op 31 december 2018 afliep.</para>
+        <para>Na het verlopen van het verlof per 1 januari 2019 heeft eiser de wapens tot 10 januari 2019 onder zich gehouden. Bij die gelegenheid maakte eiser een geagiteerde indruk.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>De rechtbank overweegt dat eiser, gezien zijn jarenlange bekendheid met de wapenwetgeving, kon weten dat hij zijn wapens in diende te leveren voordat het verlof was afgelopen. Uit de omstandigheden dat hij toch navraag is gaan doen of dit echt vereist was, dat hij de wapens vervolgens te laat heeft ingediend en dat hij tweemaal een geagiteerde indruk heeft gemaakt, heeft voor verweerder voldoende kunnen zijn voor de conclusie van vrees voor misbruik gezien eisers psychische gesteldheid. Uit de regelgeving en de rechtspraak volgt dat deze vrees er reeds is bij geringe twijfel over de psychische gesteldheid.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Daarnaast heeft verweerder terecht gewicht toegekend aan het feit dat het houden van een wapen zonder verlof, zoals eiser van 1 januari tot 10 januari 2019 heeft gedaan, een misdrijf is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>De rechtbank oordeelt daarom dat verweerder zich in redelijkheid op het standpunt heeft kunnen stellen dat er aanwijzingen waren dat het voorhanden hebben van wapens en munitie niet aan eiser kon worden toevertrouwd.</para>
+      <para />
+      <para>5. Het beroep is ongegrond.</para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.J. Bastin, rechter, in aanwezigheid van mr. H.A. Hulst, griffier. De uitspraak is gedaan op 21 december 2020 en op dezelfde dag openbaar gemaakt.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>rechter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">BIJLAGE</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wet wapens en munitie</emphasis>
+      </para>
+      <para>Artikel 7    </para>
+    </parablock>
+    <para>1. De in deze wet genoemde erkenningen, consenten, vergunningen, verloven en ontheffingen worden, onverminderd de bijzondere gronden tot weigering daarvan en onverminderd verordening (EU) nr. 258/2012, geweigerd indien:</para>
+    <parablock>
+      <para>(…)</para>
+      <para>c.er reden is om te vrezen dat aan de aanvrager het onder zich hebben van wapens of munitie niet kan worden toevertrouwd;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 8      </para>
+    </parablock>
+    <para>1. Hij die een wapen of munitie voorhanden heeft, zonder daartoe gerechtigd te zijn, is verplicht deze terstond bij de korpschef in bewaring te geven.</para>
+    <para />
+    <parablock>
+      <para>Artikel 26      </para>
+    </parablock>
+    <para>1. Het is verboden een wapen of munitie van de categorieën II en III voorhanden te hebben.</para>
+    <para />
+    <parablock>
+      <para>Artikel 28</para>
+    </parablock>
+    <para>1. Verlof tot het voorhanden hebben van een wapen en munitie wordt, uitsluitend voor wapens en munitie behorend tot categorie III, verleend door de korpschef.</para>
+    <para>2. Een verlof wordt verleend indien:</para>
+    <parablock>
+      <para>a.een redelijk belang de verlening van het verlof vordert;</para>
+      <para>b.de aanvrager geen gevaar voor zichzelf, de openbare orde of veiligheid kan vormen;</para>
+      <para>c.de aanvrager tenminste de leeftijd van achttien jaren heeft bereikt, behoudens afwijking voor leden van een schietvereniging.</para>
+      <para>(…)</para>
+    </parablock>
+    <para>4. Een verlof heeft een geldigheid van ten hoogste een jaar en kan worden verlengd, indien aan de vereisten voor de verlening daarvan nog wordt voldaan.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Circulaire wapens en munitie 2019</emphasis>
+      </para>
+      <para>B. Bijzonder deel (B)</para>
+      <para>(…)</para>
+    </parablock>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Invulling van het ‘vrees voor misbruik’ criterium	   </para>
+      <para />
+      <parablock>
+        <para>Wapens en munitie vormen een potentieel ernstige bedreiging voor de veiligheid in de samenleving indien zij in handen komen van personen die onvoldoende betrouwbaar zijn om wapens en munitie voorhanden te hebben. Derhalve wordt er een restrictief beleid gevoerd waar het de toepassing van het criterium ‘geen vrees voor misbruik’ betreft.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Degene aan wie een vergunning wordt verleend voor het voorhanden hebben van wapens en/of munitie komt in een bijzondere positie te verkeren ten opzichte van zijn medeburgers, voor wie immers het algemene wettelijke verbod geldt om wapens of munitie voorhanden te hebben. Die positie brengt met zich mee dat van de vergunninghouder stipte naleving van de (wapen)wettelijke voorschriften moet kunnen worden verlangd en dat van hem tevens wordt verwacht dat hij zich onthoudt van overtredingen die kunnen worden beschouwd als een (ernstige) aantasting van de rechtsorde.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het weigeren dan wel intrekken van een verlof is uitdrukkelijk geen strafrechtelijke sanctie, maar is een maatregel ter bescherming van de veiligheid in de samenleving. Tegen de achtergrond van het eerdergenoemde maatschappelijke belang, is daarom reeds geringe twijfel aan het verantwoord zijn van de te maken (of gemaakte) uitzondering – ook naar de vaste jurisprudentie van de afdeling Bestuursrechtspraak van de Raad van State – voldoende reden om een verlof niet te verlenen respectievelijk in te trekken. Het spreekt voor zich dat die twijfel gebaseerd moet zijn op een objectief toetsbare motivering (zie hierna).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Voor de beoordeling van de vraag of in een bepaald geval vrees voor misbruik bestaat worden in dit onderdeel een aantal concrete criteria gegeven. De korpschef zal aan de hand van deze criteria in elk geval afzonderlijk moeten bezien of er sprake is van ‘vrees voor misbruik’.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Bij het onderzoek in verband met de vraag of er vrees voor misbruik bestaat kan gebruik worden gemaakt van informatie afkomstig uit de registers van de justitiële documentatie en van andere, politiële informatie, die afkomstig kan zijn uit verschillende bronnen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Bij dergelijk onderzoek kan blijken van:</para>
+        <para>a.veroordelingen en andere rechterlijke uitspraken;</para>
+        <para>b.andere omtrent de aanvrager bekende feiten.</para>
+        <para>(…)</para>
+        <para>Ad b. (andere omtrent de aanvrager bekende feiten) Algemeen</para>
+        <para>Vrees voor misbruik kan ook worden aangenomen op basis van andere, niet uit veroordelingen of transacties gebleken, omtrent betrokkene bekende feiten.</para>
+        <para>(…)</para>
+        <para>Psychische gesteldheid</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In beginsel is het niet verantwoord om aan iemand die – door oorzaken van zowel interne, als externe aard – onder sterke psychische druk staat, wat tot uitdrukking komt in een onvoorspelbaar gedragspatroon of (bijvoorbeeld) alcohol- en drugsmisbruik en waarbij de indruk bestaat dat de vergunninghouder zichzelf niet in de hand heeft, het voorhanden hebben van vuurwapens en munitie toe te vertrouwen. In het bezit van een vuurwapen zou de vergunninghouder een gevaar zijn voor zichzelf en voor de openbare orde en veiligheid. Indien de aanvrager of vergunninghouder – in tegenstelling tot de korpschef – van mening is dat het voorhanden hebben van wapens en munitie wel aan hem kan worden toevertrouwd dan dient hij dit aan te tonen middels een schriftelijke verklaring van een arts/psychiater. Uit deze verklaring moet duidelijk blijken dat de arts/psychiater bekend is met de problemen van betrokkene en dat deze niet (langer) een belemmering vormen om aan betrokkene een vergunning te verlenen voor het voorhanden hebben van (vuur)wapens. Een dergelijke verklaring wordt dan in de beoordeling betrokken, maar daaraan hoeft niet altijd doorslaggevende betekenis te worden toegekend. Dat is afhankelijk van de omstandigheden van het geval. Zo mag van iemand die recent nog onder behandeling was in verband met zijn psychische gesteldheid, worden verwacht dat hij over een langere periode aantoont dat zijn psychische gesteldheid niet meer aan het bezit van wapens en munitie in de weg staat.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Risicofactoren betreffende de psychische gesteldheid van aanvragers of houders van een wapenverlof met het oog op potentieel misbruik van een (legaal) vuurwapen zijn:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>•Klinische factoren (psychische stoornis, verslaving, gedwongen opname, forensische zorg en suïcidale gedachten);</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>•Stressvolle omstandigheden (problemen in relationele sfeer, problemen in de arbeidssfeer of opleiding, gebrekkig sociaal steunsysteem en stressvolle levensomstandigheden);</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>•Specifieke kenmerken van de aanvrager (agressie, crimineel gedrag, impulsiviteit en zelfregulatie, zelfstandige handelingsbekwaamheid, fascinatie voor geweld, extreme uitingen en/of uitingen van radicalisering).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Deze risicofactoren worden in het aanvraagproces in ieder geval meegewogen. Daarbij gaat het niet zozeer om de klinische kant van de psychische aandoening, maar veel meer om het risico dat de aandoening inhoudt voor risicovol gedrag.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <paragroup>
+        <nr>2.4.8.</nr>
+        <para>Voorschriften en beperkingen	   </para>
+        <para />
+        <parablock>
+          <para>Aan het verlof dienen de volgende beperkingen en voorschriften te worden verbonden:</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>(…)</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>VOORSCHRIFTEN:</para>
+          <para>(…)</para>
+          <para>6.De verlofhouder dient uiterlijk twee weken voor de datum waarop de geldigheid van het verlof afloopt, het verlof ter verlenging aan te bieden aan de korpschef van politie, onder bijvoeging van de voor de verlenging benodigde KNSA-licentie of KNTS-licentie of lidmaatschapsbewijs van een niet bij de KNSA aangesloten maar wel door de KNSA gecertificeerde schietvereniging en zijn schietbeurtenregister;</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

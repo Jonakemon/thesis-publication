@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2048</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-05T09:41:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">UTR 20/896 en UTR 20/901</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2048">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2048</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-05T09:41:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2048 Rechtbank Midden-Nederland , 02-06-2020 / UTR 20/896 en UTR 20/901</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2048:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Vovo en beroep. V was bevoegd tot woningsluiting voor 12 maanden wegens aangetroffen hennepplantage in woning. Gelet op ernstige situatie mocht V sluiting noodzakelijk en evenredig vinden. Beroep ongegrond, geen reden voor treffen voorziening.</para>
+        <para>(ZIE  OOK: ECLI:NL:RBMNE:2020:2047)</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2048:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Utrecht</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: UTR 20/896 en UTR 20/901</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 2 juni 2020 op het beroep en het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker/eiser] , te [woonplaats] , verzoeker/eiser</bridgehead>
+    <para>(gemachtigde: mr. N.S. van der Vliet),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Utrecht, verweerder</bridgehead>
+    <para>(gemachtigde: mr. H. Kavi).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 augustus 2019 (het primaire besluit) heeft verweerder gelast de woning aan de [adres] te [woonplaats] te sluiten voor de duur van twaalf maanden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 22 januari 2020 (het bestreden besluit) heeft verweerder het bezwaar van verzoeker/eiser (verzoeker) ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Hij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben toestemming gegeven om uitspraak te doen zonder zitting.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter heeft het onderzoek per brief van 22 mei 2020 gesloten. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Voorlopige voorziening</emphasis>
+      </para>
+    </parablock>
+    <para>1. De voorzieningenrechter is van oordeel dat het spoedeisend belang voldoende aannemelijk is gemaakt. Verzoeker kan de woning aan de [adres] te [woonplaats] die (ook) op zijn naam staat voor de duur van twaalf maanden niet betreden. </para>
+    <para />
+    <para>2. Na bestudering van de dossiers is de voorzieningenrechter tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Aanleiding sluiting</emphasis>
+      </para>
+    </parablock>
+    <para>3. Uit het proces-verbaal van 2 augustus 2019 van de inspecteur handhaving van verweerder blijkt dat bij de politie anonieme meldingen binnen zijn gekomen van een henneplucht op het adres [adres] te [woonplaats] . Dit was de aanleiding voor het controlebezoek op 2 augustus 2019 van de inspecteur van verweerder. Uit het controlebezoek bleek dat de woning in zijn geheel gebruikt was voor de hennepteelt. In totaal waren er 245 hennepplanten aanwezig. Er was een aangelegde installatie met koeling, verwarming, zuivering van de lucht, koolstoffilters en toegevoegd CO2 aanwezig. Dit maakt dat sprake was van een vrij professionele installatie. In de woning lagen geen persoonlijke spullen. Verder was er sprake van een illegale aangebrachte stroomaansluiting (ongezekerd) in de meterkast ten behoeve van de hennepplantage, waardoor er sprake was van ernstig brandgevaar. Ook was er gevaar voor kortsluiting in verband met de combinatie van water en stroom in de hennepplantage.</para>
+    <para />
+    <para>4. Gelet op de bevindingen in het proces-verbaal heeft verweerder per direct gelast om de woning voor de duur van twaalf maanden te sluiten. Volgens verweerder is sprake van een ernstige situatie zoals bedoeld in de Beleidsregel sluiting woningen op grond van artikel 13b van de Opiumwet (Beleidsregel). Er is volgens verweerder namelijk sprake van de volgende indicatoren: </para>
+    <para>a. handelshoeveelheid drugs; </para>
+    <para>e. er was een vermoeden van verwijtbaarheid van de bewoners; </para>
+    <para>i. het gevaar voor de omgeving en mate van risico voor omwonenden; </para>
+    <para>j. de mate van overlast; en </para>
+    <para>k. de aannemelijkheid dat de woning niet overeenkomstig de woonfunctie wordt gebruikt. </para>
+    <para>Door het gebruik van het pand neemt verweerder aan dat het pand een naamsbekendheid heeft gekregen die verweerder niet wenselijk acht. Het doel van deze sluiting is om de bekendheid van het pand als drugspand te doorbreken en te verhinderen dat het pand (weer) wordt gebruikt ten behoeve van het drugscircuit en de georganiseerde drugshandel. Ook het signaal dat wordt afgegeven met de sluiting, dat hard wordt opgetreden tegen dit soort criminaliteit, vindt verweerder zeer belangrijk.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bevoegdheid tot sluiting</emphasis>
+      </para>
+    </parablock>
+    <para>5. Op grond van artikel 13b, eerste lid, aanhef en onder a, van de Opiumwet kan de burgemeester een last onder bestuursdwang opleggen indien in woningen een middel als bedoeld in lijst I of II wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is. Verweerder heeft deze bevoegdheid uitgewerkt in de Beleidsregel.</para>
+    <para />
+    <para>6. Volgens de Beleidsregel wordt het sluiten van een woning alleen ingezet als ultimum remedium in ernstige situaties in het kader van de bestuurlijke aanpak van de georganiseerde criminaliteit. Van een ernstige situatie is sprake als het aannemelijk is dat drugshandel in georganiseerd verband in of vanuit een woning plaatsvindt of als aanwezigheid van drugs hierop duidt. Als sprake is van indicatoren die worden genoemd in de Beleidsregel, is sprake van een ernstige situatie en kan een woning voor de duur van zes tot twaalf maanden worden gesloten. Wanneer een woning voor meer dan zes maanden wordt gesloten, moet dat extra worden gemotiveerd in het besluit. </para>
+    <para />
+    <para>7. In het geval dat in een woning meer dan 5 gram softdrugs wordt aangetroffen, kan worden aanvaard dat de drugs in beginsel bestemd zijn voor verkoop, aflevering of verstrekking.<footnote-ref linkend="_26b6ee35-00ca-462f-b0cd-bea27f228958" /> Het ligt dan op de weg van verzoeker om het tegendeel aannemelijk te maken. In de woning zijn 245 hennepplanten aangetroffen, dat is meer dan 5 gram en kan worden aangemerkt als een handelshoeveelheid drugs. Verzoeker heeft niet betwist dat deze hennepplanten zijn aangetroffen. Verweerder was daarom bevoegd tot sluiting van de woning op grond van artikel 13b, eerste lid, aanhef en onder a, van de Opiumwet. Het betoog van verzoeker dat het ‘slechts’ gaat om softdrugs en handel vanuit de woning niet is vastgesteld, geeft geen aanleiding voor en ander oordeel.  </para>
+    <para />
+    <para>8. De vraag die vervolgens beantwoord moet worden, is of sprake is van bijzondere omstandigheden die maken dat het handelen overeenkomstig het beleid gevolgen heeft die onevenredig zijn in verhouding tot de met het beleid te dienen doelen op grond waarvan verweerder met toepassing van artikel 4:84 van de Awb niet in redelijkheid van zijn bevoegdheid tot sluiting van de woning gebruik heeft kunnen maken. In haar uitspraak van 28 augustus 2019 heeft de Afdeling bestuursrechtspraak van de Raad van State (ABRvS) in hoofdlijnen weergegeven wanneer de toepassing van de bevoegdheid tot woningsluiting noodzakelijk en evenredig kan zijn.<footnote-ref linkend="_e149f8ff-4f0d-471c-a4e0-85f4f0a108d6" /></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Noodzaak van de sluiting</emphasis>
+      </para>
+    </parablock>
+    <para>9. Verzoeker voert aan dat verweerder in het bestreden besluit onvoldoende heeft gemotiveerd dat sprake was van een ernstige situatie, waardoor er geen noodzaak was om tot sluiting van de woning te gaan. Het gaat namelijk om softdrugs waarbij niet kan worden gesteld dat er een vorm van handel vanuit de woning heeft plaatsgevonden. Er was verder geen sprake van overlast of gevaar voor de omgeving. Gelet op de korte duur van het gebruik van de woning door de huurder, is het onwaarschijnlijk dat het pand als drugspand bekend stond. Daarnaast heeft verweerder onvoldoende gemotiveerd dat met het inzetten van het Hennep Convenant Midden Nederland het doel van de sluiting van de woning niet bereikt kan worden.</para>
+    <para />
+    <para>10. De noodzaak voor sluiting van een woning kan gegeven zijn bij de aanwezigheid van een handelshoeveelheid harddrugs in een woning. Het uitgangspunt is dat dan in beginsel aangenomen mag worden dat de woning een rol vervult binnen de keten van drugshandel, hetgeen op zichzelf een belang bij sluiting oplevert, ook al is ter plaatse geen overlast of feitelijke drugshandel geconstateerd. Als er in de woning ook attributen aangetroffen worden die te relateren zijn aan drugshandel kan dat ook een rol spelen bij het aannemen van feitelijke handel in of vanuit de woning op grond waarvan het belang bij sluiting groter wordt.</para>
+    <para />
+    <para>11. Verzoeker heeft niet betwist dat de hennepplanten en andere voorwerpen (zoals weergegeven onder 2.) zijn aangetroffen. De voorzieningenrechter ziet ook geen aanleiding om te twijfelen aan de door de inspecteur geconstateerde feiten en omstandigheden. De voorzieningenrechter is van oordeel dat verweerder in het primaire besluit en het bestreden besluit voldoende heeft gemotiveerd welke indicatoren van de Beleidsregel van toepassing zijn. Zoals boven aangegeven is er een grote handelshoeveelheid drugs aangetroffen, namelijk 245 planten. Daarmee mag verweerder aannemen dat de woning een rol vervult binnen de keten van drugshandel. Met de enkele stelling van verzoeker dat er geen sprake was van handel vanuit de woning, heeft verzoeker niet aannemelijk gemaakt dat daar geen sprake van was. De bekendheid van de woning als drugspand volgt naar het oordeel van de voorzieningenrechter uit de aangetroffen hoeveelheid hennepplanten. Dat de woning maar een korte tijd is gebruikt door de huurder, doet daar niet aan af. Ook heeft verweerder in het verweerschrift nader toegelicht dat er sprake is van een vermoeden van verwijtbaarheid van de bewoners, althans de persoon die de woning van verzoeker had gehuurd voor bewoning. Verzoeker stelt terecht dat hij in die zin niet als bewoner kan worden aangemerkt, maar dit betekent niet dat verweerder deze indicator niet heeft mogen meewegen. Verzoekers stelling dat er geen sprake was van gevaar voor de omgeving of overlast volgt de rechtbank niet. Uit het proces-verbaal blijkt namelijk dat de stroom illegaal dus ongezekerd werd afgetapt, waardoor sprake was van brandgevaar. Verder leverde de combinatie van de aangetroffen stroomvoorzieningen en het gebruik van water gevaar op voor kortsluiting. Dat maakt dat sprake was van een brandgevaarlijke omgeving. Verder meldt het proces-verbaal van dat melding is gedaan van overlast, de voorzieningenrechter ziet geen aanleiding om te twijfelen aan deze mededeling afkomstig van politie. Ook blijkt uit het proces-verbaal dat de woning niet voor bewoning werd gebruikt, er zijn geen persoonlijke spullen of levensmiddelen aangetroffen. Dat er kennelijk nog ruimte was om in te richten om te overnachten geeft geen aanleiding voor een andere conclusie op dit punt. Verweerder heeft daarom de situatie als ernstig mogen aanduiden, waarmee de noodzaak voor de sluiting van de woning is gegeven. Dat verweerder op grond van het Hennepconvenant Midden Nederland had moeten afzien van het sluiten van de woning, ziet de rechtbank niet. Het Hennepconvenant Midden Nederland is een samenwerking tussen partijen om georganiseerde hennepcriminaliteit aan te pakken. Uit het convenant blijkt juist dat de convenantpartners binnen de wettelijke kaders van hun eigen bevoegdheden invulling geven aan hun eigen taak. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Evenredigheid</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>12.1.</nr>
+      <para>Verzoeker voert aan dat dat het sluiten van de woning niet evenredig is. De overtreding is hem namelijk niet te verwijten. Hij was niet op de hoogte van de hennepkwekerij en kon daar ook redelijkerwijs niet van op de hoogte zijn. Verzoeker heeft een huurovereenkomst gesloten met [A] en heeft de woning bij oplevering uitvoerig gecontroleerd. Hij heeft toezicht op de woning gehouden en geïnformeerd over het gebruik van de woning. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2.</nr>
+      <para>Verzoeker heeft het financieel niet breed en heeft geen vaste woon- en verblijfplaats. Dit moet worden aangemerkt als bijzondere omstandigheden, waardoor de sluiting onevenredig is. Daarnaast is er sprake van schending van zijn grondrechten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.3.</nr>
+      <para>Verder heeft verweerder onvoldoende gemotiveerd waarom de woning meer dan zes maanden gesloten moet worden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.1.</nr>
+      <para>De voorzieningenrechter stelt voorop dat persoonlijke verwijtbaarheid niet is vereist voor toepassing van artikel 13b, eerste lid, van de Opiumwet. Het kan echter wel een rol spelen bij de evenredigheid van een sluiting. Van verzoeker als eigenaar van een pand die dat verhuurd, mag worden verwacht dat hij zich tot op zekere hoogte informeert over het gebruik van dat verhuurde pand wordt gemaakt. Verzoeker moet concreet toezicht houden op het gebruik van het pand dat hij verhuurt. Daarvoor moet verzoeker ook controles uitvoeren die zijn gericht op het gebruik van het pand. Dat heeft verzoeker onvoldoende gedaan. Verweerder heeft daartoe terecht overwogen dat verzoeker voorafgaand aan de verhuur van de woning onvoldoende controle heeft uitgeoefend. Verzoeker heeft alleen bij het aangaan van de huurovereenkomst de woning gecontroleerd en een legitimatiebewijs van de huurder opgevraagd. Niet is gebleken dat verzoeker nadat de huurovereenkomst is ingegaan het pand heeft gecontroleerd op het gebruik van de woning. Ook hier kent de voorzieningenrechter het gegeven dat de controle kort na de start van de huurovereenkomst heeft plaatsgevonden en er dus feitelijk een korte periode was voor verzoeker om toezicht te houden niet het gewicht toe dat verzoeker daaraan toekent. De stelling van verzoeker dat hij wel toezicht op de woning heeft gehouden en heeft geïnformeerd over het gebruik van de woning, heeft hij niet nader onderbouwd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.2.</nr>
+      <para>Voor wat betreft de gevolgen van het besluit staat voorop dat het moeten verlaten van de woning of het niet meer kunnen betreden daarvan op zichzelf geen bijzondere omstandigheid is. Dit is immers altijd het gevolg van toepassen van bestuursdwang door het sluiten van een woning. Op het moment dat de woning werd gesloten, woonde verzoeker niet in de woning. Dat verzoeker door zijn scheiding gebruik had willen maken van de woning, maakt niet dat er sprake is van bijzondere binding met de woning. Verder heeft verzoeker zijn financiële omstandigheden niet nader onderbouwd. De gevolgen van de sluiting heeft verweerder daarom evenredig mogen vinden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.3.</nr>
+      <para>Ook is de voorzieningenrechter van oordeel dat verweerder de duur van de sluiting van de woning voor twaalf maanden voldoende heeft gemotiveerd. Zoals reeds onder rechtsoverweging 10 is overwogen, zijn er meerdere indicatoren van de Beleidsregel van toepassing, waardoor sprake is van een ernstige situatie. Verweerder heeft daarom de woning voor de duur van twaalf maanden mogen sluiten. Daarnaast maakt het feit dat een eerdere strafzaak over het telen, bereiden etc. van een grote hoeveelheid van een middel uit lijst II, gepleegd op 4 december 2015, is geseponeerd, het oordeel niet anders.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>14. Verweerder heeft zich naar het oordeel van de voorzieningenrechter op het standpunt mogen stellen dat de sluiting voor twaalf maanden noodzakelijk en evenredig is. Verweerder heeft in de omstandigheden die verzoeker heeft aangevoerd geen reden hoeven zien om met toepassing van artikel 4:84 van de Awb af te wijken van de Beleidsregel. Dit betekent dat verzoeker gedurende de periode van sluiting geen gebruik mag maken van de woning.</para>
+      <para />
+      <para>15. Het beroep is ongegrond.</para>
+      <para />
+      <para>16. Omdat het beroep ongegrond is, is er geen aanleiding om een voorlopige voorziening te treffen.</para>
+      <para />
+      <para>17. Verzoeker krijgt geen gelijk. Daarom bestaat geen aanleiding om zijn proceskosten te vergoeden. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>wijst het verzoek om voorlopige voorziening af.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 2 juni 2020 door mr. V.E. van der Does, voorzieningenrechter, in aanwezigheid van mr. A. Wilpstra-Foppen, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">						De voorzieningenrechter is verhinderd</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">						deze uitspraak te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan voor zover daarbij is beslist op het beroep binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+  </section>
+  <footnote id="_26b6ee35-00ca-462f-b0cd-bea27f228958" label="1">
+    <para> Zie hiervoor de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 11 april 2018 (ECLI:NL:RVS:2018:1193). Te raadplegen op <emphasis role="underline">www.rechtspraak.nl</emphasis>. </para>
+  </footnote>
+  <footnote id="_e149f8ff-4f0d-471c-a4e0-85f4f0a108d6" label="2">
+    <para> Uitspraak van de ABRvS van 28 augustus 2019 (ECLI:NL:RVS:2019:2912).</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:123</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-15T10:33:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201808913/1/R1</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:123">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:123</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-15T10:18:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:123 Raad van State , 15-01-2020 / 201808913/1/R1</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:123:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 27 september 2018 heeft de raad het bestemmingsplan "Gemeenschapshuis Puth" vastgesteld.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:123:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201808913/1/R1.</para>
+    <para>Datum uitspraak: 15 januari 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak in het geding tussen:</para>
+    <para>1.    [appellant sub 1A] en [appellant sub 1B] (hierna tezamen en in enkelvoud: [appellant sub 1]), wonend te Puth, gemeente Beekdaelen,</para>
+    <para>2.    [appellant sub 2A] en [appellant sub 2B] (hierna tezamen en in enkelvoud: [appellant sub 2]), wonend te Puth, gemeente Beekdaelen,</para>
+    <para>3.    [appellant sub 3A] en [appellant sub 3B] (hierna: [appellanten sub 3]), wonend te Puth, gemeente Beekdaelen,</para>
+    <para>en</para>
+    <para>de raad van de gemeente Schinnen, thans de gemeente Beekdaelen,</para>
+    <para>verweerder.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 27 september 2018 heeft de raad het bestemmingsplan "Gemeenschapshuis Puth" vastgesteld.</para>
+    <para>Tegen dit besluit hebben [appellant sub 1], [appellant sub 2] en [appellanten sub 3] beroep ingesteld.</para>
+    <para>De raad heeft een verweerschrift ingediend.</para>
+    <para>De raad, [appellant sub 1] en [appellanten sub 3] hebben nadere stukken ingediend.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 15 november 2019, waar [appellant sub 1], bijgestaan door [gemachtigde A] en mr. H.P.J.G. Berkers, rechtsbijstandverlener te ‘s Hertogenbosch, [appellant sub 2], bijgestaan door [gemachtigde B], [appellanten sub 3], bij monde van [appellant sub 3A], en de raad, vertegenwoordigd door L.A.P. Vaessen en ing. R.P.T. van den Waardenberg, bijgestaan door ing. B.H.C. Weekers en mr. M. Box, rechtsbijstandverlener te Vught, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.    Het plan voorziet ten noorden en ten zuiden van de Sittarderweg in de transformatie van voormalige voetbalvelden met een kantine tot een zogenoemde "gemeenschapsaccommodatie" met onder meer een horecavoorziening. Daarnaast voorziet het plan in een evenemententerrein, parkeerterrein, terras en speeltuin.</para>
+    <para>2.    [appellant sub 1], [appellant sub 2] en [appellanten sub 3] wonen in de nabijheid van het plangebied aan de Onderste Puth en de Sittarderweg. [appellant sub 2] exploiteert tevens een Bed &amp; Breakfast aan de [locatie] te Puth. Zij kunnen zich niet verenigen met het plan, omdat zij onder andere vrezen voor verkeers-, parkeer- en geluidoverlast.</para>
+    <para>Ontvankelijkheid</para>
+    <para>3.    De raad stelt dat het beroep van [appellanten sub 3] niet-ontvankelijk dient te worden verklaard, omdat zij bij het bestreden besluit niet als belanghebbende in de zin van artikel 1:2, eerste lid en derde lid, van de Algemene wet bestuursrecht (hierna: de Awb) kunnen worden aangemerkt. Volgens de raad wonen [appellanten sub 3] op een dusdanige afstand van het plangebied dat de gevolgen van het plan voor hen van te geringe betekenis zijn om een rechtstreeks bij het besluit betrokken belang aan te nemen.</para>
+    <para>3.1.    Op grond van artikel 8:1, in samenhang gelezen met artikel 8:6 en artikel 2 van bijlage 2, van de Awb kan door een belanghebbende bij de Afdeling beroep worden ingesteld tegen een besluit omtrent vaststelling van een bestemmingsplan. Om als belanghebbende in de zin van artikel 1:2, eerste lid, van de Awb te kunnen worden aangemerkt, moet een natuurlijke persoon een voldoende objectief bepaalbaar belang bij het besluit hebben.</para>
+    <para>3.2.    Het plan voorziet binnen het plandeel met de bestemming "Maatschappelijk" onder andere in een gemeenschapshuis met horecagelegenheid. De afstand tussen de woning van [appellant sub 3A] en het plangebied bedraagt ongeveer 160 m. De afstand tussen de woning van [appellant sub 3B] en het plangebied bedraagt ongeveer 270 m. De Afdeling oordeelt dat gelet op de aard en omvang van de ruimtelijke ontwikkelingen die binnen het plangebied mogelijk worden gemaakt, het niet is uitgesloten dat het bestreden besluit gevolgen heeft voor [appellanten sub 3].</para>
+    <para>[appellanten sub 3] zijn dus belanghebbenden bij het bestreden besluit als bedoeld in artikel 1:2, eerste lid, van de Awb. Het beroep van [appellanten sub 3] is ontvankelijk.</para>
+    <para>Toetsingskader</para>
+    <para>4.    Bij de vaststelling van een bestemmingsplan moet de raad bestemmingen aanwijzen en regels geven die de raad uit een oogpunt van een goede ruimtelijke ordening nodig acht. De raad heeft daarbij beleidsruimte en moet de betrokken belangen afwegen. De Afdeling beoordeelt aan de hand van de beroepsgronden of het besluit tot vaststelling van het bestemmingsplan in overeenstemming is met het recht. De Afdeling stelt niet zelf vast of het plan in overeenstemming is met een goede ruimtelijke ordening, maar beoordeelt aan de hand van die gronden of de raad zich in redelijkheid op het standpunt heeft kunnen stellen dat het plan strekt ten behoeve van een goede ruimtelijke ordening.</para>
+    <para>Ingetrokken beroepsgronden</para>
+    <para>5.    Ter zitting hebben [appellant sub 2] en [appellanten sub 3] de beroepsgronden over de informatieverstrekking, terinzagelegging en de voorbereidingsprocedure ingetrokken.</para>
+    <para>Relativiteit</para>
+    <para>6.    [appellanten sub 3] betogen dat de raad, gelet op de uitspraak van de Afdeling van 29 mei 2019, ECLI:NL:RVS:2019:1603, over de passende beoordeling die ten grondslag ligt aan het Programma Aanpak Stikstof, onvoldoende rekening heeft gehouden met de gevolgen van het plan voor de nabijgelegen heemtuin.</para>
+    <para>6.1.     Artikel 8:69a van de Awb luidt: "De bestuursrechter vernietigt een besluit niet op de grond dat het in strijd is met een geschreven of ongeschreven rechtsregel of een algemeen rechtsbeginsel, indien deze regel of dit beginsel kennelijk niet strekt tot bescherming van de belangen van degene die zich daarop beroept."</para>
+    <para>6.2.    De Afdeling stelt vast dat de heemtuin niet is aangewezen als een Natura 2000-gebied. Voor zover het betoog van [appellanten sub 3] aldus moet worden begrepen dat de raad onvoldoende rekening heeft gehouden met de gevolgen van het plan voor het Natura 2000-gebied "Geleenbeekdal", overweegt de Afdeling als volgt. De bepalingen in de Wet natuurbescherming (hierna: Wnb) over de beoordeling van plannen die gevolgen kunnen hebben voor een Natura 2000-gebied, strekken ter bescherming van het behoud van de natuurwaarden in deze gebieden. Uit de uitspraak van de Afdeling van 13 juli 2011, ECLI:NL:RVS:2011:BR1412, volgt dat de individuele belangen van burgers bij het behoud van een goede kwaliteit van hun leefomgeving waarvan een Natura 2000-gebied deel uitmaakt, zo verweven kunnen zijn met het algemene belang dat de Wnb beoogt te beschermen, dat niet kan worden geoordeeld dat de betrokken normen van de Wnb kennelijk niet strekken tot bescherming van hun belangen. Hiervan is bij [appellanten sub 3] geen sprake, omdat zij op ongeveer 1 km afstand van het dichtstbijzijnde Natura 2000-gebied "Geleenbeekdal", in de kern van Puth wonen en geen direct zicht hebben op het Natura 2000-gebied. De ingeroepen normen uit de Wnb over de bescherming van het Natura 2000-gebied strekken daarom kennelijk niet tot bescherming van de belangen van [appellanten sub 3].</para>
+    <para>Het betoog van [appellanten sub 3] over de gevolgen voor het Natura 2000-gebied, kan op grond van artikel 8:69a van de Awb niet leiden tot vernietiging van het plan. De Afdeling ziet daarom af van een inhoudelijke bespreking van dit betoog.</para>
+    <para>Belangenverstrengeling</para>
+    <para>7.    [appellant sub 2] betoogt dat het besluit met vooringenomenheid tot stand is gekomen, omdat een van de verantwoordelijke wethouders, P.L.H.E. Janssen, meerdere bestuursfuncties heeft in het verenigingsleven van Puth. In dit verband wijst [appellant sub 2] op het artikel "Onderkoning van Puth? Nee, alleen schutterskoning" van 21 september 2018 in De Limburger. Volgens [appellant sub 2] onderkent de burgemeester L.J.P.M. Frissen in dit artikel de vooringenomenheid van de wethouder en aanvaardt hij dat dergelijke processen mogen plaatsvinden.</para>
+    <para>7.1.    Artikel 2.4, eerste lid, van de Awb luidt: "Het bestuursorgaan vervult zijn taak zonder vooringenomenheid."</para>
+    <para>7.2.    De wethouder die volgens [appellant sub 2] meerdere bestuursfuncties bekleedt in het verenigingsleven van Puth, was geen lid van de raad van de gemeente Schinnen, zijnde het bestuursorgaan dat besloten heeft omtrent de vaststelling van het bestemmingsplan. [appellant sub 2] heeft met de enkele verwijzing naar het krantenartikel waarin de taken van de wethouder worden beschreven, niet aannemelijk gemaakt dat de raad bij het vaststellen van het plan zijn taak niet zonder vooringenomenheid zoals bedoeld in artikel 2:4, eerste lid, van de Awb heeft vervuld.</para>
+    <para>Het betoog faalt.</para>
+    <para>Alternatief</para>
+    <para>8.    [appellant sub 2] betoogt dat met het projectplan "Cohesiegebied Puth" van oktober 2016 voorzien had kunnen worden in de zogenoemde "gemeenschapsaccommodatie", aangezien dit plan € 137.730,- kost. [appellanten sub 3] voeren aan dat de alternatieve locatie vanuit financieel oogpunt geschikter is dan de locatie aan de Sittarderweg.</para>
+    <para>8.1.    De raad dient bij de keuze van een bestemming een afweging te maken van alle belangen die betrokken zijn bij de vaststelling van het plan. Daarbij heeft de raad beleidsruimte. De voor- en nadelen van alternatieven dienen in die afweging te worden meegenomen.</para>
+    <para>De Afdeling overweegt dat de raad in de nota van zienswijzen op de aangevoerde alternatieven is ingegaan. De raad stelt zich op het standpunt dat de inpassing van de voorziene functies van de "gemeenschapsaccommodatie" niet gerealiseerd kan worden ter plaatse van de locatie "Oud Limburg". Daarnaast heeft de raad erop gewezen dat voor het plan op de locatie Sittarderweg kredieten beschikbaar zijn gesteld.</para>
+    <para>Naar het oordeel van de Afdeling heeft de raad de voor- en nadelen van de aangedragen alternatieven afgewogen. Daarbij heeft hij zijn keuze voor deze "gemeenschapsaccommodatie" voldoende gemotiveerd, rekening houdend met alle betrokken belangen.</para>
+    <para>Het betoog faalt.</para>
+    <para>Structuurvisie Infrastructuur en Ruimte</para>
+    <para>9.     [appellant sub 2] betoogt dat het plan in strijd met de Structuurvisie Infrastructuur en Ruimte (hierna: SVIR) is vastgesteld. Daartoe voert hij aan dat de beoogde ontwikkeling op gespannen voet staat met een in de SVIR opgenomen belang, namelijk het belang van een zorgvuldige afweging en transparante besluitvorming bij alle ruimtelijke en infrastructurele besluiten.</para>
+    <para>9.1.    De Afdeling stelt vast dat de SVIR betrekking heeft op de ambities op rijksniveau van het ruimtelijk en mobiliteitsbeleid voor Nederland in 2040. De Afdeling ziet in wat [appellant sub 2] heeft aangevoerd geen aanleiding voor het oordeel dat het plan in strijd met de SVIR is vastgesteld.</para>
+    <para>Het betoog faalt.</para>
+    <para>Maximale planologische mogelijkheden</para>
+    <para>10.    [appellant sub 1], [appellant sub 2] en [appellanten sub 3] vrezen voor onaanvaardbare geluid- en verkeersoverlast van de in het plan mogelijk gemaakte voorzieningen. Daarnaast voert [appellant sub 1] aan dat de parkeerbehoefte verkeerd is berekend en betogen [appellanten sub 3] dat ten onrechte geen onderzoek is uitgevoerd naar geuroverlast.</para>
+    <para>10.1.    Binnen het plandeel met de bestemming "Maatschappelijk" is onder andere horeca van categorie 2 toegestaan. De raad heeft aangegeven dat het zijn bedoeling is dat binnen dit plandeel een brasserie voor passanten mogelijk wordt gemaakt. De brasserie betreft een ondergeschikt onderdeel van de zogenoemde "gemeenschapsaccommodatie", aldus de raad.</para>
+    <para>10.2.    Artikel 4, lid 4.1.1, van de planregels luidt:</para>
+    <para>"De voor 'Maatschappelijk' aangewezen gronden zijn bestemd voor:</para>
+    <para>a. gezondheidszorg;</para>
+    <para>b. jeugd- en kinderopvang;</para>
+    <para>c. sociaal-culturele doeleinden;</para>
+    <para>d. openbare dienstverlening;</para>
+    <para>e. verenigingsleven;</para>
+    <para>f. welzijnsinstellingen;</para>
+    <para>g. het uitoefenen van sport- en spelactiviteiten;</para>
+    <para>h. horeca van categorie 2;</para>
+    <para>[…]"</para>
+    <para>10.3.    De Afdeling is van oordeel dat de raad met het voorliggende plan niet heeft geregeld wat hij heeft beoogd te regelen. Daartoe overweegt zij dat de omvang van het voor horeca van categorie 2 bestemde plandeel niet gemaximeerd is in oppervlakte. Het plan maakt nu binnen het gehele plandeel met de bestemming "Maatschappelijk" horeca van categorie 2 mogelijk. Ook laat het plan binnen het plandeel met de bestemming "Maatschappelijk" een andere dan de door de raad voorgestane invulling toe met een of meer van de in artikel 4, lid 4.1.1, van de planregels onder a tot en met g genoemde functies. De aan het plan ten grondslag gelegde onderzoeken zijn uitgegaan van de door de raad beoogde invulling met een "gemeenschapsaccommodatie" met daaraan ondergeschikte horeca. De milieu- en verkeersgevolgen van door het plan mogelijk gemaakte andere invullingen van het hiervoor genoemde plandeel zijn niet onderzocht.</para>
+    <para>Gelet op het vorenstaande is het bestreden besluit in zoverre in strijd met artikel 3:2 van de Awb onzorgvuldig voorbereid.</para>
+    <para>De betogen slagen.</para>
+    <para>Conclusie</para>
+    <para>11.     In het betoog van [appellant sub 1] en [appellant sub 2] en [appellanten sub 3] ziet de Afdeling aanleiding voor het oordeel dat het besluit van 27 september 2018, is genomen in strijd met artikel 3:2 van de Awb. De beroepen zijn gegrond, zodat het bestreden besluit dient te worden vernietigd.</para>
+    <para>12.    Gelet op het voorgaande behoeven de overige beroepsgronden geen bespreking meer.</para>
+    <para>13.    Voor zover de raad de Afdeling heeft verzocht hem het gebrek te laten herstellen met toepassing van artikel 8:51d van de Awb, overweegt de Afdeling dat gelet op de aard van het gebrek in het bestreden besluit geen aanleiding bestaat voor het toepassen van een bestuurlijke lus.</para>
+    <para>Opdracht</para>
+    <para>14.    Uit een oogpunt van rechtszekerheid en gelet op artikel 1.2.3 van het Besluit ruimtelijke ordening, ziet de Afdeling aanleiding de raad op te dragen het hierna in de beslissing nader aangeduide onderdeel van deze uitspraak binnen vier weken na verzending van deze uitspraak te verwerken in het elektronisch vastgestelde plan dat te raadplegen is op de landelijke voorziening, www.ruimtelijkeplannen.nl.</para>
+    <para>Proceskosten</para>
+    <para>15.    De raad dient op na te melden wijze tot vergoeding van de proceskosten van [appellant sub 1] en [appellant sub 2] te worden veroordeeld. Ten aanzien van [appellanten sub 3] is niet gebleken van proceskosten die voor vergoeding in aanmerking komen.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.    verklaart de beroepen gegrond;</para>
+    <para>II.    vernietigt het besluit van de raad van de gemeente Beekdaelen van 27 september 2018, waarbij het bestemmingsplan "Gemeenschapshuis Puth" is vastgesteld;</para>
+    <para>III.    draagt de raad van de gemeente Beekdaelen op om binnen vier weken na verzending van deze uitspraak ervoor zorg te dragen dat het hiervoor vermelde onderdeel II wordt verwerkt in het elektronisch vastgestelde plan dat te raadplegen is op de landelijke voorziening, www.ruimtelijkeplannen.nl;</para>
+    <para>IV.    veroordeelt de raad van de gemeente Beekdaelen tot vergoeding van bij appellanten in verband met de behandeling van het beroep opgekomen proceskosten als volgt:</para>
+    <para>- bij [appellant sub 1A] en [appellant sub 1B] een bedrag van € 1.024,00 (zegge: duizendvierentwintig euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand, met dien verstande dat het bestuursorgaan bij betaling aan één van hen aan zijn betalingsverplichting heeft voldaan;</para>
+    <para>- bij [appellant sub 2A] en [appellant sub 2B] een bedrag van € 99,97 (zegge: negenennegentig euro en zevenennegentig cent), met dien verstande dat bij betaling aan één van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;</para>
+    <para>V.    gelast dat de raad van de gemeente Beekdaelen aan appellanten het door hen voor de behandeling van de beroepen betaalde griffierecht als volgt vergoedt:</para>
+    <para>- € 170,00 (zegge: honderdzeventig euro) voor [appellant sub 1A] en [appellant sub 1B], met dien verstande dat bij betaling aan één van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;</para>
+    <para>- € 170,00 (zegge: honderdzeventig euro) voor [appellant sub 2A] en [appellant sub 2B], met dien verstande dat bij betaling aan één van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;</para>
+    <para>- € 170,00 (zegge: honderdzeventig euro) voor [appellant sub 3A] en [appellant sub 3B] , met dien verstande dat bij betaling aan één van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan.</para>
+    <para>Aldus vastgesteld door mr. D.A.C. Slump, voorzitter, en mr. F.D. van Heijningen en mr. P.H.A. Knol, leden, in tegenwoordigheid van mr. S. Zwemstra, griffier.</para>
+    <para>w.g. Slump    w.g. Zwemstra</para>
+    <para>voorzitter    griffier</para>
+    <para>Uitgesproken in het openbaar op 15 januari 2020</para>
+    <para>91-889.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

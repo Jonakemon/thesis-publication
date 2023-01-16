@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:3734</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-31T15:04:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/4703</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3734">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3734</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-30T12:05:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:3734 Rechtbank Amsterdam , 30-07-2020 / AMS 19/4703</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:3734:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De Sociale Verzekeringsbank heeft een man terecht gekort op zijn AOW-aanvulling, omdat hij te lang in het buitenland verbleef.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:3734:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/4703</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser,</bridgehead>
+    <para>gemachtigde: mr. D. Kuhn,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de raad van bestuur van de Sociale verzekeringsbank, verweerder,</para>
+      <para>gemachtigde: mr. L.M.J.A. Erkens-Hanssen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank zal partijen hierna aanduiden als eiser respectievelijk de Svb.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met een besluit van 22 maart 2019 (primaire besluit 1) heeft de Svb de AIO-aanvulling<footnote-ref linkend="_479cc62c-2b16-4475-94b2-a3d9a11db00f" /> op het AOW-pensioen<footnote-ref linkend="_fe374fa3-2063-4008-9f95-051e512a1060" /> van eiser over de periode van 3 november 2016 tot en met 10 augustus 2017 ingetrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met een afzonderlijk besluit van 22 maart 2019 (primaire besluit 2) heeft de Svb de AIO-aanvulling op het AOW-pensioen van eiser over de periode van 11 maart 2016 tot en met 23 juli 2016 ingetrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met een besluit van 29 juli 2019 heeft de Svb het bezwaar van eiser tegen de besluiten van 22 maart 2019 ongegrond verklaard (het bestreden besluit).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft beroep ingesteld tegen het bestreden besluit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Svb heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen waren uitgenodigd voor een zitting op 28 april 2020. In verband met de uitbraak van het coronavirus kon deze zitting niet doorgaan. De rechtbank heeft partijen met een brief van 12 juni 2020 in de gelegenheid gesteld om binnen een termijn van twee weken aan te geven of zij op een zitting willen worden gehoord. Binnen de gestelde termijn is geen reactie van partijen ontvangen. De rechtbank heeft vervolgens het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Achtergrond van deze zaak</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eiser ontving sinds 18 oktober 2014 een AIO-aanvulling op zijn AOW-pensioen. Op een formulier ‘Verblijf en vermogen buiten Nederland’ van 5 februari 2018 heeft eiser aangegeven dat hij van 12 oktober 2016 tot 10 augustus 2017 in India heeft verbleven in verband met een Ayurveda-behandeling voor prostaatkanker. In een bijgevoegde brief van zijn huisarts van 5 februari 2018 staat dat eiser de laatste twee jaar regelmatig en langdurig in India is geweest wegens een medische behandeling die hij in Nederland niet kan krijgen. Naar aanleiding van deze melding heeft de Svb bewijsstukken opgevraagd bij eiser over zijn reizen naar India in 2016 en 2017. Eiser heeft vervolgens de gevraagde bewijsstukken overgelegd.<footnote-ref linkend="_8d601ada-c4e1-4f60-9c1d-3bae9f5fd2e3" /></para>
+    <para />
+    <para>2. Met een besluit van 1 mei 2018 heeft de Svb de AIO-aanvulling van eiser over de periode van 11 januari 2017 tot en met 10 augustus 2017 ingetrokken, omdat eiser langer dan het maximaal toegestane aantal weken in het buitenland heeft verbleven. Eiser heeft bezwaar gemaakt tegen dit besluit.</para>
+    <para />
+    <para>3. Met een besluit van 22 maart 2019 heeft de Svb het besluit van 1 mei 2018 ingetrokken<footnote-ref linkend="_39c1e05f-474f-4c51-bdd2-5f0ec6283c7c" /> en de AIO-aanvulling van eiser over de periode van 3 november 2016 tot en met 10 augustus 2017 ingetrokken. De Svb heeft dit besluit bij de lopende bezwaarprocedure betrokken.<footnote-ref linkend="_61f2a3be-030c-4bfc-9522-a4553c84feda" /></para>
+    <para />
+    <para>4. Met een afzonderlijk besluit van 22 maart 2019 heeft de Svb de AIO-aanvulling op het AOW-pensioen van eiser over de periode van 11 maart 2016 tot en met 23 juli 2016 ingetrokken. Eiser heeft tegen dit besluit bezwaar gemaakt.</para>
+    <para />
+    <para>5. Met het bestreden besluit heeft de Svb het bezwaar van eiser tegen de besluiten van 22 maart 2019 ongegrond verklaard.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Relevante regelgeving</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Voor de relevante regelgeving verwijst de rechtbank naar de bijlage bij deze uitspraak die deel uitmaakt van de uitspraak.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Standpunten van partijen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>7. De Svb stelt zich op het standpunt dat eiser zijn verblijf in het buitenland van </para>
+    <para>10 december 2015 tot en met 23 juli 2016 en van 12 oktober 2016 tot en met 10 augustus 2017 niet heeft doorgegeven. Hij heeft daarmee de inlichtingenplicht geschonden. Een verblijf buiten Nederland van meer dan 13 weken is alleen toegestaan in geval van zeer dringende redenen. De Svb vindt dat in dit geval geen sprake is van zeer dringende redenen.</para>
+    <para />
+    <para>8. Eiser voert aan dat de wettelijke regeling inzake het recht op aanvullende bijstand (AIO-aanvulling) in samenhang met het beleid van de Svb in strijd is met het verbod op discriminatie als bedoeld in artikel 26 van het Internationaal Verdrag inzake burgerrechten en politieke rechten (IVBPR) en in strijd is met artikel 1 van het Eerste Protocol bij het Europees Verdrag tot bescherming van de rechten van de mens en fundamentele vrijheden (EVRM) in verbinding met artikel 1 van Protocol 12 bij het EVRM. Verder voert eiser aan dat sprake is van dringende redenen, waardoor een verblijf van langer dan 13 weken in dit geval was toegestaan. Ten slotte voert eiser aan dat de Svb in strijd met het verbod van ‘reformatio in peius’ heeft gehandeld, omdat hij door zijn bezwaar in een slechtere positie is komen te verkeren.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het oordeel van de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Zeer dringende redenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>9. Een AIO-aanvulling is een vorm van algemene bijstand als bedoeld in de Participatiewet (PW). Een groot aantal artikelen van de PW is van overeenkomstige toepassing verklaard op een AIO-aanvulling, waaronder artikel 13 van de PW.<footnote-ref linkend="_aae7fd3a-4dcb-4ed9-96c9-1b65351558aa" /> Uit dit artikel volgt dat een pensioengerechtigde die per kalenderjaar langer dan 13 weken verblijf houdt buiten Nederland dan wel een aaneengesloten periode van langer dan 13 weken verblijf houdt buiten Nederland, geen recht op bijstand heeft.<footnote-ref linkend="_f1c6cf8f-8e08-4552-bd47-e602f83fcb5e" /></para>
+    <para />
+    <para>10. Niet in geschil is dat eiser van 10 december 2015 tot en met 23 juli 2016 en van </para>
+    <para>12 oktober 2016 tot en met 10 augustus 2017 in India heeft verbleven en daarmee zowel in 2016 als in 2017 langer dan 13 weken (aaneengesloten) buiten Nederland heeft verbleven. Als gevolg hiervan had hij geen recht op AIO-aanvulling van 11 maart 2016 tot en met 23 juli 2016 en van 3 november 2016 tot en met 10 augustus 2017. Dit is alleen anders als sprake is van zeer dringende redenen.<footnote-ref linkend="_bab96c4c-5f87-4516-9f87-dee26a0d46bb" /></para>
+    <para />
+    <para>11. Volgens vaste rechtspraak doen zeer dringende redenen zich voor als sprake is van een acute noodsituatie en de behoeftige omstandigheden waarin betrokkene verkeert op geen enkele andere wijze zijn te verhelpen, zodat het verlenen van bijstand volstrekt onvermijdelijk is. Een acute noodsituatie is aan de orde als een situatie van levensbedreigende aard is of blijvend ernstig psychisch of lichamelijk letsel of invaliditeit tot gevolg kan hebben.<footnote-ref linkend="_2474ef0e-ea9e-410e-b511-f956371429ad" /></para>
+    <para />
+    <para>12. Eiser wijst er in dit verband op dat zijn behandeling voor prostaatkanker in India op aandringen van de behandelend arts is verlengd. Dat geldt volgens hem voor beide periodes. Hij was aanvankelijk van plan om 30 dagen in India te verblijven voor behandeling, maar gedurende de behandeling werd duidelijk dat een langer verblijf noodzakelijk was. Het tweede verblijf betrof een voortzetting van de eerste behandeling waarvan de duur onzeker was en afhing van de ontwikkeling van zijn gezondheid, aldus eiser.</para>
+    <para />
+    <para>13. De Svb stelt zich op het standpunt dat niet is gebleken dat vooraf vaststond dat eiser korter dan 13 weken in India zou verblijven voor een medische behandeling en dat een acute noodsituatie tijdens zijn verblijf in India een langer verblijf daar noodzakelijk maakte.</para>
+    <para />
+    <para>14. De rechtbank is in ieder geval met de Svb van oordeel dat de gegevens die eiser heeft aangeleverd onvoldoende aannemelijk maken dat sprake was van een acute noodsituatie als boven beschreven. Eiser heeft drie medische verklaringen overgelegd. In een verklaring van 5 februari 2018 heeft de huisarts van eiser, M. Dekeukeleire, samengevat aangegeven dat eiser regelmatig langdurig in India heeft verbleven voor een medische behandeling die hij niet in Nederland kan krijgen. Hieruit blijkt niet van een acute noodsituatie op grond waarvan zou moeten worden gezegd dat eiser niet binnen 13 weken naar Nederland kon terugkeren. </para>
+    <parablock>
+      <para>Eiser heeft ook een verklaring van 19 december 2018 overgelegd van dr. Vipin, senior physician and administrator van Ayurveda Yogaville in India. Daarin staat vermeld dat eiser in de periode van januari tot augustus 2017 in India verbleef voor een behandeling van prostaatkanker. Gedurende deze periode kon eiser vanwege zijn gezondheidstoestand niet terugkeren naar Nederland omdat een onderbreking van de behandeling zou resulteren in een verslechtering van zijn terminale kanker. De rechtbank vindt dat hieruit niet blijkt dat een tijdig vertrek naar Nederland (na een verblijf van 13 weken in India) een levensbedreigende situatie zou opleveren voor eiser of blijvend ernstig psychisch of lichamelijk letsel of invaliditeit tot gevolg zou hebben. Uit de stukken blijkt dat eiser al vóórdat hij naar India vertrok aan prostaatkanker leed waarvoor hij zich ook in Nederland had kunnen laten behandelen. Ook na een terugkeer in Nederland na een verblijf van 13 weken in India had hij zich in Nederland (verder) kunnen laten behandelen voor zijn ziekte. Voor zover een tijdige terugkeer naar Nederland al tot een verslechtering van zijn gezondheidstoestand zou hebben geleid, staat daarmee nog niet vast dat dit ook levensbedreigend zou zijn geweest of zou leiden tot blijvend ernstig psychisch of lichamelijk letsel of invaliditeit. </para>
+      <para>Eiser heeft nog een tweede verklaring van dr. Vipin overgelegd van 13 november 2019. Daarin staat vermeld dat eiser aanvankelijk voor een behandeling van een maand naar India is gegaan, maar dat hij (dr. Vipin) daarna voorstelde dat eiser langer zou blijven ‘for receiving beneficial treatments’. Volgens dr. Vipin zou het vroegtijdig beëindigen van de behandelingen een ongunstig effect hebben gehad op de gezondheid van eiser. Eiser kreeg alleen, toen het veilig voor hem was, toestemming om het ziekenhuis te verlaten om voor twee maanden terug te keren naar Nederland om wat familiekwesties te regelen om daarna terug te keren om de behandelingen af te maken, aldus dr. Vipin. Echter, ook hieruit blijkt naar het oordeel van de rechtbank niet van een acute noodsituatie. Dat het vroegtijdig beëindigen van de behandelingen een ongunstig effect zou hebben op de gezondheid van eiser, wil nog niet zeggen dat een tijdige terugkeer naar Nederland levensbedreigend voor eiser zou zijn geweest of zou leiden tot blijvend ernstig psychisch of lichamelijk letsel of invaliditeit. </para>
+    </parablock>
+    <para />
+    <para>15. Gelet hierop is de rechtbank van oordeel dat geen sprake was van zeer dringende redenen als bedoeld in artikel 16, eerste lid, van de PW. Nu eiser zijn lange verblijf in het buitenland niet heeft doorgegeven, heeft hij de inlichtingenplicht geschonden. Dit brengt mee dat de Svb de AIO-uitkering over voornoemde periodes in beginsel terecht heeft ingetrokken.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 26 IVBPR en artikel 1 Eerste Protocol EVRM</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>16. Eiser voert in het kader van deze beroepsgrond aan dat de wettelijke regeling in samenhang met het beleid van de Svb over de zeer dringende redenen leidt tot een indirect onderscheid tussen uitkeringsgerechtigden die recht hebben op een volledig AOW-pensioen en met behoud van hun pensioen langer dan 13 weken in het buitenland kunnen verblijven en personen als hijzelf die vanwege hun migratieachtergrond zijn aangewezen op een aanvulling op hun AOW-pensioen tot de voor hen geldende norm en dit recht vanwege een langdurig verblijf buiten Nederland geheel verliest. Voor dit onderscheid zijn volgens eiser onvoldoende redelijke en objectieve gronden. </para>
+    <para />
+    <para>17. De rechtbank volgt eiser hierin niet. De Centrale Raad van Beroep (de Raad) heeft in een uitspraak van 3 april 2015<footnote-ref linkend="_6cca1260-9a23-4f3d-aa5c-9529ee993cc9" /> geoordeeld dat in artikel 13, vierde lid, van de WWB<footnote-ref linkend="_099d2c74-1151-49c2-b34b-0d4253d83f52" /> geen direct onderscheid naar etnische afkomst wordt gemaakt.<footnote-ref linkend="_ecee80af-c4a9-49d1-9d06-5712e7d9cc19" /> Voor zover er al sprake zou zijn van een indirect onderscheid naar etnische afkomst, is voor dit onderscheid naar het oordeel van de Raad een objectieve en redelijke rechtvaardiging gelegen in de doelstellingen van deze bepaling, waaraan elk oogmerk van discriminatie ontbreekt. De rechtbank verwijst voor een uitgebreide motivering van dit oordeel naar de desbetreffende uitspraak van de Raad. Hoewel het in die uitspraak gaat om een indirect onderscheid naar etnische afkomst, geldt dit naar het oordeel van de rechtbank evenzeer voor een eventueel indirect onderscheid naar nationaliteit. In dezelfde uitspraak heeft de Raad ook een beroep op artikel 1 van het Eerste Protocol bij het EVRM verworpen, omdat de inbreuk op het eigendomsrecht is voorzien bij wet in artikel 13 van de WWB<footnote-ref linkend="_a1937cd9-0bc7-4c8e-bd58-4e881f958df0" /> welke inbreuk gerechtvaardigd is te achten. De rechtbank volgt dit oordeel van de Raad en verwijst voor een motivering van dit oordeel naar de desbetreffende uitspraak van de Raad. Deze beroepsgrond van eiser slaagt dus niet.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Reformatio in peius</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>18. Eiser voert aan dat hij in een slechtere positie is geraakt door het intrekken en vervangen van het besluit van 1 mei 2018 door de twee besluiten van 22 maart 2019. Zijn recht op AIO-aanvulling is daardoor gedurende twee periodes in plaats van één periode ingetrokken.</para>
+    <para />
+    <para>19. Het verweer van de Svb luidt dat hij ook buiten de bezwaarprocedure om verplicht is de uitkering in te trekken indien daarvoor wettelijke termen zijn. Daarom staat het zogeheten verbod van reformatio in peius niet in de weg aan een verslechtering van eisers positie als bezwaarmaker.</para>
+    <para />
+    <para>20. De rechtbank oordeelt als volgt. Volgens vaste rechtspraak staat het verbod van reformatio in peius er aan in de weg dat het indienen van een bezwaarschrift ertoe leidt dat de indiener via de heroverweging door het bestuursorgaan in een slechtere positie komt te verkeren dan zonder de bezwaarprocedure mogelijk zou zijn. In dit geval heeft de Svb de AIO-aanvulling over de eerste periode per een eerdere datum ingetrokken (primaire besluit 1). Daartoe was de Svb op grond van artikel 54, derde lid, van de PW verplicht, ook los van het bezwaar van eiser. Van strijd met het verbod van reformatio in peius is daarom geen sprake.<footnote-ref linkend="_1cae12f8-6ea1-47c5-a55d-f930785cd30d" /> Wat betreft de intrekking van de AIO-aanvulling over de periode van 11 maart 2016 tot en met 23 juli 2016 met het besluit van 22 maart 2019 (primaire besluit 2), is evenmin sprake van strijd met het genoemde verbod. Dit besluit ziet op een geheel andere periode dan het besluit van 1 mei 2018 en eiser heeft tegen dit besluit (primaire besluit 2) ook afzonderlijk bezwaar gemaakt. Dit besluit had de Svb dus ook kunnen nemen als eiser geen bezwaar had gemaakt tegen het besluit van 1 mei 2018. Ook deze beroepsgrond van eiser slaagt daarom niet.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>21. Het beroep is ongegrond. Dit betekent dat eiser geen gelijk krijgt.</para>
+    <para />
+    <para>22. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.F. de Lemos Benvindo, rechter, in aanwezigheid van </para>
+      <para>mr. T.E. Bouwmeester, griffier. Deze uitspraak is niet in het openbaar uitgesproken vanwege de coronamaatregelen. De uitspraak is aan partijen bekend gemaakt door verzending op de onderstaande datum.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier rechter</para>
+      <para>De griffier is verhinderd te ondertekenen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.</para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de Centrale Raad van Beroep worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Participatiewet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 11</para>
+    </parablock>
+    <para>1. Iedere in Nederland woonachtige Nederlander die hier te lande in zodanige omstandigheden verkeert of dreigt te geraken dat hij niet over de middelen beschikt om in de noodzakelijke kosten van bestaan te voorzien, heeft recht op bijstand van overheidswege.</para>
+    <para />
+    <parablock>
+      <para>Artikel 13</para>
+    </parablock>
+    <para>1. Geen recht op bijstand heeft degene:</para>
+    <para>e. die per kalenderjaar langer dan vier weken verblijf houdt buiten Nederland dan wel een aaneengesloten periode van langer dan vier weken verblijf houdt buiten Nederland.</para>
+    <para>4. In afwijking van het eerste lid, onderdeel e, geldt voor personen die de pensioengerechtigde leeftijd hebben bereikt, een periode van dertien weken.</para>
+    <para />
+    <parablock>
+      <para>Artikel 16</para>
+    </parablock>
+    <para>1. Aan een persoon die geen recht op bijstand heeft, kan het college, gelet op alle omstandigheden, in afwijking van deze paragraaf, bijstand verlenen indien zeer dringende redenen daartoe noodzaken.</para>
+    <para />
+    <parablock>
+      <para>Artikel 17</para>
+    </parablock>
+    <para>1. De belanghebbende doet aan het college op verzoek of onverwijld uit eigen beweging mededeling van alle feiten en omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op zijn arbeidsinschakeling of het recht op bijstand.</para>
+    <para />
+    <parablock>
+      <para>Artikel 47a</para>
+    </parablock>
+    <para>1. De Sociale verzekeringsbank heeft tot taak het verlenen van algemene bijstand in de vorm van een aanvullende inkomensvoorziening ouderen aan:</para>
+    <para>a. alleenstaanden en alleenstaande ouders die de pensioengerechtigde leeftijd hebben bereikt;</para>
+    <para>b. gehuwden, van wie beide echtgenoten de pensioengerechtigde leeftijd hebben bereikt dan wel van wie één echtgenoot de pensioengerechtigde leeftijd heeft bereikt;</para>
+    <para>hier te lande die in zodanige omstandigheden verkeren of dreigen te geraken dat zij niet over de middelen beschikken om in de noodzakelijke kosten van het bestaan te voorzien.</para>
+    <para>2. De artikelen 1 tot en met 6, hoofdstuk 2, met uitzondering van artikel 18, hoofdstuk 3, de paragrafen 5.1 en 5.2, hoofdstuk 6 en de artikelen 79, 80 en 81 zijn van toepassing op de uitvoering van de taak, bedoeld in het eerste lid, door de Sociale verzekeringsbank, tenzij in deze paragraaf anders is bepaald.</para>
+    <para />
+    <parablock>
+      <para>Artikel 54</para>
+    </parablock>
+    <para>3. Het college herziet een besluit tot toekenning van bijstand, dan wel trekt een besluit tot toekenning van bijstand in, indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 17, eerste lid, of artikel 30c, tweede en derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van bijstand. Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van bijstand kan het college een besluit tot toekenning van bijstand herzien of intrekken, indien anderszins de bijstand ten onrechte of tot een te hoog bedrag is verleend.</para>
+    <para />
+  </section>
+  <footnote id="_479cc62c-2b16-4475-94b2-a3d9a11db00f" label="1">
+    <para> AIO = Aanvullende Inkomensvoorziening Ouderen. </para>
+  </footnote>
+  <footnote id="_fe374fa3-2063-4008-9f95-051e512a1060" label="2">
+    <para> AOW = Algemene Ouderdomswet.</para>
+  </footnote>
+  <footnote id="_8d601ada-c4e1-4f60-9c1d-3bae9f5fd2e3" label="3">
+    <para> Kopieën van zijn paspoort en vliegtickets.</para>
+  </footnote>
+  <footnote id="_39c1e05f-474f-4c51-bdd2-5f0ec6283c7c" label="4">
+    <para> In het besluit staat dat het besluit van 31 mei 2018 met als onderwerp “intrekking AIO-aanvulling” wordt ingetrokken, maar de rechtbank gaat ervan uit dat het besluit van 1 mei 2018 met als onderwerp “intrekking AIO-aanvulling” wordt bedoeld.</para>
+  </footnote>
+  <footnote id="_61f2a3be-030c-4bfc-9522-a4553c84feda" label="5">
+    <para> Op grond van artikel 6:19, eerste lid, van de Algemene wet bestuursrecht (Awb).</para>
+  </footnote>
+  <footnote id="_aae7fd3a-4dcb-4ed9-96c9-1b65351558aa" label="6">
+    <para> Zie artikel 47a van de PW.</para>
+  </footnote>
+  <footnote id="_f1c6cf8f-8e08-4552-bd47-e602f83fcb5e" label="7">
+    <para> Artikel 13, eerste lid, onder e, in samenhang met artikel 13, vierde lid, van de PW.</para>
+  </footnote>
+  <footnote id="_bab96c4c-5f87-4516-9f87-dee26a0d46bb" label="8">
+    <para> Op grond van artikel 16, eerste lid, van de PW kan in geval van zeer dringende redenen toch AIO-aanvulling worden toegekend.</para>
+  </footnote>
+  <footnote id="_2474ef0e-ea9e-410e-b511-f956371429ad" label="9">
+    <para> Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep van 24 juni 2014, ECLI:NL:CRVB:2014:2141.</para>
+  </footnote>
+  <footnote id="_6cca1260-9a23-4f3d-aa5c-9529ee993cc9" label="10">
+    <para> ECLI:NL:CRVB:2015:1051.</para>
+  </footnote>
+  <footnote id="_099d2c74-1151-49c2-b34b-0d4253d83f52" label="11">
+    <para> WWB = Wet werk en bijstand. </para>
+  </footnote>
+  <footnote id="_ecee80af-c4a9-49d1-9d06-5712e7d9cc19" label="12">
+    <para> Nu: artikel 13, vierde lid, van de PW.</para>
+  </footnote>
+  <footnote id="_a1937cd9-0bc7-4c8e-bd58-4e881f958df0" label="13">
+    <para> Nu: PW.</para>
+  </footnote>
+  <footnote id="_1cae12f8-6ea1-47c5-a55d-f930785cd30d" label="14">
+    <para> Zie in vergelijkbare zin de uitspraak van de Raad van 7 november 2019,  ECLI:NL:CRVB:2019:3580.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

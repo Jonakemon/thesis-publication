@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:660</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-10T10:03:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201904049/1/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>AB 2020/155 met annotatie van P.J. Stolk</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:660">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:660</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-04T10:15:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:660 Raad van State , 04-03-2020 / 201904049/1/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:660:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 15 februari 2018 heeft het college besloten op een verzoek van de vennootschappen om op grond van de Wet openbaarheid van bestuur (hierna: de Wob) informatie openbaar te maken.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:660:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201904049/1/A3.</para>
+    <para>Datum uitspraak: 4 maart 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>Aldi Ommen B.V., gevestigd te Ommen, en Aldi Vastgoed B.V., gevestigd te Culemborg,</para>
+    <para>appellanten,</para>
+    <para>tegen de uitspraak van de rechtbank Overijssel van 11 april 2019 in zaak nr. 18/1543 in het geding tussen:</para>
+    <para>de vennootschappen</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Hardenberg.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 15 februari 2018 heeft het college besloten op een verzoek van de vennootschappen om op grond van de Wet openbaarheid van bestuur (hierna: de Wob) informatie openbaar te maken.</para>
+    <para>Bij besluit van 11 juli 2018 heeft het college het daartegen door de vennootschappen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 11 april 2019 heeft de rechtbank het daartegen door de vennootschappen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak hebben de vennootschappen hoger beroep ingesteld.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 8 januari 2020, waar de vennootschappen, vertegenwoordigd door [gemachtigde], bijgestaan door mr. D.R. Pinxter, advocaat te Amsterdam, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>1.    Bij brief van 14 december 2017 hebben de vennootschappen het college verzocht op grond van de Wob de volgende informatie te verstrekken: "[A]lle documentatie met betrekking tot de ontwikkeling van detailhandel in de dagelijkse sector in Hardenberg in het algemeen, en de ontwikkeling van detailhandel in de dagelijkse sector in Dedemsvaart in het bijzonder. Dit inclusief stukken waaruit de eventuele afspraak blijkt tussen uw gemeentebestuur en een of meer partijen dat op de Mercator-locatie geen vestiging van een supermarkt mogelijk wordt gemaakt." Bij het besluit van 15 februari 2018 heeft het college een aantal documenten met betrekking tot de gemeentelijke detailhandelsstructuurvisie, de Structuurvisie Dedemsvaart Centrum, het bestemmingsplan 'Dedemsvaart Centrum', het bestemmingsplan 'Dedemsvaart centrum, Markt Noordzijde' en het bestemmingsplan 'Dedemsvaart Centrum, Markt Westzijde' verstrekt en een aantal dossiers ter inzage gelegd. Openbaarmaking van stukken waaruit de afspraak blijkt dat op het Mercatorterrein geen vestiging van een supermarkt mogelijk wordt gemaakt, heeft het college geweigerd, omdat een dergelijke afspraak niet is gemaakt. Bij het besluit van 11 juli 2018 heeft het college het besluit van 15 december 2018 gehandhaafd.</para>
+    <para>2.    De vennootschappen betogen dat de rechtbank ten onrechte heeft geoordeeld dat het college zijn standpunt, dat het niet beschikt over meer documenten dan verstrekt of ter inzage gelegd, deugdelijk heeft gemotiveerd en dat zij niet aannemelijk hebben gemaakt dat het college toch over meer documenten beschikt. Hierbij voeren zij aan dat de ter inzage gelegde dossiers alleen op de periode van voor 2013 zien en er latere documenten moeten zijn over de ontwikkeling van de detailhandel in de dagelijkse sector in Hardenberg. Hierbij wijzen zij op de verhuizing in 2016 van de Jumbo-vestiging aan de Julianastraat naar de Markt. Voorts moeten er volgens hen documenten van na 2013 over het Mercatorterrein zijn. Hierbij wijzen zij erop dat zij sinds 2016 met de gemeente in contact zijn over verplaatsing van de Aldi-vestiging aan de Julianastraat naar het Mercatorterrein. Er moeten meer documenten over dat terrein zijn dan de uit dat contact voortgekomen documenten waarover zij al beschikken. Zo heeft er op 24 januari 2017 een raadsvergadering plaatsgevonden waarin is gesproken over afspraken tussen de raad en het college in het kader van de vaststelling van het bestemmingsplan 'Dedemsvaart Centrum' over het niet toestaan van een supermarktvestiging op het Mercatorterrein. Hierbij wijzen de vennootschapen op een transcriptie van het desbetreffende gedeelte van de vergadering. Documenten waarin deze afspraken staan, hadden moeten worden verstrekt. Voorts zijn er tussen de gemeente en Jumbo afspraken gemaakt over de aankoop van een perceel van de Jumbo. Dit blijkt uit een raadsvoorstel van 14 mei 2013. Het raadsvoorstel, de koopovereenkomst en de onderliggende correspondentie hadden moeten worden verstrekt, aldus de vennootschappen.</para>
+    <para>2.1.    Artikel 3, eerste lid, van de Wob luidt: "Een ieder kan een verzoek om informatie neergelegd in documenten over een bestuurlijke aangelegenheid richten tot een bestuursorgaan of een onder verantwoordelijkheid van een bestuursorgaan werkzame instelling, dienst of bedrijf."</para>
+    <para>    Het tweede lid luidt: "De verzoeker vermeldt bij zijn verzoek de bestuurlijke aangelegenheid of het daarop betrekking hebbend document, waarover hij informatie wenst te ontvangen."</para>
+    <para>    Het vierde lid luidt: "Indien een verzoek te algemeen geformuleerd is, verzoekt het bestuursorgaan de verzoeker zo spoedig mogelijk om zijn verzoek te preciseren en is het hem daarbij behulpzaam."</para>
+    <para>2.2.    Zoals de Afdeling heeft overwogen in de door de rechtbank aangehaalde uitspraak van 10 februari 2016, ECLI:NL:RVS:2016:292, is het, wanneer een bestuursorgaan stelt dat na onderzoek is gebleken dat een bepaald document niet of niet meer onder hem berust en een dergelijke mededeling niet ongeloofwaardig voorkomt, in beginsel aan degene die om informatie verzoekt om aannemelijk te maken dat, in tegenstelling tot de uitkomsten van het onderzoek door het bestuursorgaan, dat document toch onder het bestuursorgaan berust.</para>
+    <para>2.3.    De motivering van het besluit van 11 juli 2018, zoals toegelicht in beroep en onderschreven door de rechtbank, spitst zich toe op de vraag of het college documenten heeft die betrekking hebben op gemaakte afspraken tussen het gemeentebestuur en supermarktketens over het niet toestaan van een supermarkt op het Mercatorterrein. De vennootschappen hebben echter ook meer algemeen verzocht om documentatie met betrekking tot de ontwikkeling van detailhandel in de dagelijkse sector in Hardenberg. Daarbij hebben de vennootschappen niet alleen het oog op documenten als structuurvisies of bestemmingsplannen, maar ook op onderliggende stukken. Zo staat in de brief van 14 december 2017: "Volledigheidshalve merk ik op dat onderhavig verzoek voorts niet uitsluitend ziet op documenten die direct zijn terug te voeren op besluitvorming. Tevens vallen andere documenten die zien op de hierboven omschreven bestuurlijke aangelegenheid onder de omvang van dit verzoek. Dit betreft onder meer, maar zeker niet alleen, besluiten, (koop)overeenkomsten en daaraan ten grondslag liggende stukken, ambtelijke notities, beleidsstukken, adviezen, gespreksverslagen, e-mailberichten, computerbestanden." Het college heeft in hoger beroep schriftelijk noch ter zitting gesteld naar dergelijke documenten te hebben gezocht.</para>
+    <para>    Dit betekent dat het besluit van 11 juli 2018 onzorgvuldig is voorbereid en ondeugdelijk is gemotiveerd. De rechtbank heeft dit niet onderkend.</para>
+    <para>    Reeds hierom slaagt het betoog.</para>
+    <para>3.    Het hoger beroep is gegrond. De aangevallen uitspraak moet worden vernietigd. Doende hetgeen de rechtbank zou behoren te doen zal de Afdeling het beroep gegrond verklaren en het besluit van 11 juli 2018 wegens strijd met de artikelen 3:2 en 7:12, eerste lid, van de Algemene wet bestuursrecht (hierna: de Awb) vernietigen. Het college moet met inachtneming van deze uitspraak een nieuw besluit op het gemaakte bezwaar nemen. De Afdeling zal hiervoor een termijn stellen.</para>
+    <para>     Met het oog op een efficiënte afdoening van het geschil ziet de Afdeling aanleiding om met toepassing van artikel 8:113, tweede lid, van de Awb te bepalen dat tegen het nieuwe besluit slechts bij de Afdeling beroep kan worden ingesteld.</para>
+    <para>4.    Het college moet op na te melden wijze in de proceskosten worden veroordeeld.    </para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.    verklaart het hoger beroep gegrond;</para>
+    <para>II.    vernietigt de uitspraak van de rechtbank Overijssel van 11 april 2019 in zaak nr. 18/1543;</para>
+    <para>III.    verklaart het beroep in die zaak gegrond;</para>
+    <para>IV.    vernietigt het besluit van het college van burgemeester en wethouders van Hardenberg van 11 juli 2018, kenmerk 2293666;</para>
+    <para>V.    draagt het college van burgemeester en wethouders van Hardenberg op om binnen zes weken na de verzending van deze uitspraak met inachtneming van hetgeen daarin is overwogen een nieuw besluit te nemen en dit bekend te maken;</para>
+    <para>VI.    bepaalt dat tegen het nieuw te nemen besluit slechts bij de Afdeling beroep kan worden ingesteld;</para>
+    <para>VII.    veroordeelt het college van burgemeester en wethouders van Hardenberg tot vergoeding van bij Aldi Ommen B.V. en Aldi Vastgoed B.V. in verband met de behandeling van het beroep en het hoger beroep opgekomen proceskosten tot een bedrag van € 2.100,00 (zegge: tweeduizend honderd euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand;</para>
+    <para>VIII.    gelast dat het college van burgemeester en wethouders van Hardenberg aan Aldi Ommen B.V. en Aldi Vastgoed B.V. het door hen betaalde griffierecht ten bedrage van € 857,00 (zegge: achthonderdzevenenvijftig euro) voor de behandeling van het beroep en het hoger beroep vergoedt.</para>
+    <para>Aldus vastgesteld door mr. C.J. Borman, voorzitter, en mr. B.P.M. van Ravels en mr. A. ten Veen, leden, in tegenwoordigheid van mr. T. Hartsuiker, griffier.</para>
+    <para>w.g. Borman    w.g. Hartsuiker</para>
+    <para>voorzitter    griffier</para>
+    <para>Uitgesproken in het openbaar op 4 maart 2020</para>
+    <para>620.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

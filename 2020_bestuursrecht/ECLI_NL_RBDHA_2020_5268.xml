@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:5268</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-15T09:56:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-09</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.4426</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:5268">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:5268</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-15T09:56:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:5268 Rechtbank Den Haag , 09-06-2020 / NL20.4426</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:5268:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Asielaanvraag van staatloze etnische Rus uit Letland. Discriminatie. Ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:5268:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL20.4426</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , eiser,</bridgehead>
+    <parablock>
+      <para>V-nummer: [V-nummer]</para>
+      <para>(gemachtigde: mr. E.R. Weegenaar),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 februari 2020 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd afgewezen als kennelijk ongegrond. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting had moeten plaatsvinden op 10 maart 2020. Voor eiser is zijn gemachtigde verschenen en voor verweerder mr. F. Gieskes. Omdat eiser door een fout niet was aangevoerd maar wel de zitting wenste bij te wonen, heeft de rechtbank de zaak voor verdere behandeling aangehouden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft vervolgens een verweerschrift ingediend waarop eiser schriftelijk heeft gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Na toestemming van partijen om nader onderzoek ter zitting achterwege te laten, heeft de rechtbank het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Eiser is geboren op [geboortedatum] in de toenmalige Sovjet-Unie en woont vanaf zijn tweede jaar in Letland. Sinds Letland onafhankelijk werd, is eiser staatloos en beschikt hij over een Lets vreemdelingenpaspoort.</para>
+      </listitem>
+      <listitem>
+        <para>Eiser heeft aan zijn asielaanvraag ten grondslag gelegd dat hij als etnische Rus ernstig wordt gediscrimineerd in Letland en daarom in Letland geen normaal leven kan leiden. Zo kan hij vanwege zijn etnische afkomst geen werk krijgen. Werkgevers breken het gesprek af zodra zij zijn paspoort zien. Zij kunnen eiser niet aannemen omdat hij staatloos is en zij daarover problemen zouden krijgen met de autoriteiten. Na zijn opleiding tot meubelmaker heeft hij ongeveer vijf à zeven jaar als meubelmaker gewerkt. Daarna zijn de wetten veranderd en konden alleen Letse mensen op een legale wijze werk krijgen. Omdat eiser geen inkomen meer had, heeft hij zijn huis moeten verkopen en is hij op straat beland. Eiser heeft hepatitis C en hiv, en geen geld voor medicijnen. Omdat hij niet werkt kan hij zich niet verzekeren. Vanwege de slechte leefomstandigheden als staatloze in Letland ziet eiser zich gedwongen Letland steeds te verlaten. Hij heeft tussen 2016 en 2019 driemaal om asiel verzocht in Duitsland.</para>
+      </listitem>
+      <listitem>
+        <para>Verweerder stelt zich in het bestreden besluit op het standpunt dat de identiteit en herkomst van eiser geloofwaardig zijn. Ook vindt verweerder geloofwaardig dat eiser is gediscrimineerd vanwege zijn Russische afkomst. Verweerder heeft eisers asielaanvraag echter als kennelijk ongegrond afgewezen omdat eiser afkomstig is uit Letland. Verweerder beschouwt Letland als een veilig land van herkomst omdat Letland lid is van de Europese Unie. Eiser heeft volgens verweerder niet aannemelijk gemaakt dat Letland ten aanzien van hem zijn verdragsverplichtingen schendt. Verweerder stelt zich daarbij op het standpunt dat de ondervonden discriminatie niet een dusdanig ernstige beperking van de bestaansmogelijkheden oplevert dat het voor eiser onmogelijk is om op maatschappelijk en sociaal gebied te kunnen functioneren. Daarnaast heeft eiser niet aannemelijk gemaakt dat hij voor de gestelde problemen niet de bescherming van de Letse autoriteiten kan inroepen.</para>
+      </listitem>
+      <listitem>
+        <para>Eiser voert in beroep aan dat verweerder toegeeft dat in Letland de positie van etnische Russen sterk is achtergesteld en dat dit (deels) in de nationale wetten is vastgelegd. Zo heeft eiser bijvoorbeeld geen stemrecht. Het is daarom niet realistisch om te stellen dat hij zich met zijn klachten tot de autoriteiten moet wenden nu het (deels) de autoriteiten zijn die de niet-Letse burgers discrimineren. Eiser heeft geprobeerd verandering in zijn positie te brengen en de Letse nationaliteit te krijgen. Toen dit niet lukte, heeft hij de moed verloren. Ook wist hij niet wat hij nog meer kon doen. Eiser voert aan dat verweerder niet is ingegaan op het verlies van zijn baan en woning, het vruchteloos zoeken naar een andere baan en de onmogelijkheid van het afsluiten van een ziektekostenverzekering terwijl hij een ernstige ziekte heeft. Ook is verweerder niet ingegaan op het niet hebben van stemrecht. Eiser stelt dat hij zich wel degelijk tot de autoriteiten heeft gewend, maar dat dit geen succes had. Er kunnen hem op papier wel allerlei rechten toekomen, maar de praktijk is dat hem stelselmatig werk wordt geweigerd en dat hij slecht wordt behandeld en gediscrimineerd.</para>
+      </listitem>
+      <listitem>
+        <para>De rechtbank stelt vast dat eiser niet heeft bestreden dat Letland in het algemeen een veilig land van herkomst is. Voor zover eiser stelt dat Letland ten opzichte van hem, als staatloze en etnische Rus, zijn internationale verplichtingen niet nakomt, overweegt de rechtbank het volgende.</para>
+      </listitem>
+      <listitem>
+        <para>Verweerder heeft niet bestreden dat eiser als etnische Rus discriminatie ondervindt. Verweerder heeft echter ook terecht gesteld dat eiser daartegen bescherming kan inroepen van de Letse (hogere) autoriteiten. Omdat eiser dit niet heeft gedaan, heeft hij niet aannemelijk gemaakt dat hij dusdanig wordt beperkt in zijn bestaansmogelijkheden dat hij op maatschappelijk en sociaal gebied niet kan functioneren. Daarbij heeft verweerder in zijn beoordeling kunnen betrekken dat eiser de taal spreekt, naar school is geweest, een aantal jaren heeft gewerkt, over (reis)documenten beschikt en huisvesting heeft gehad. Verder heeft verweerder terecht gewezen op het rapport van het United States Department of State, “Human Rights Country Report Latvia, 2018”. Hierin staat over ‘noncitizen residents’ onder meer dat zij een permanente verblijfsvergunning hebben, gelijke bescherming in het land en consulaire bescherming in het buitenland krijgen, recht hebben op alle overheidsuitkeringen, en op werk, behalve in sommige overheids- en private sectoren die samenhangen met het rechtssysteem, rechtshandhaving en nationale veiligheid. Ook zijn er wetten die regelen dat staatloze inwoners de Letse nationaliteit kunnen verkrijgen. Verder blijkt uit door eiser ingebrachte stukken dat het zorgstelsel voor eenieder geldt. De rechtbank ziet daarom geen concrete aanknopingspunten voor het oordeel dat eiser vanwege zijn etnische afkomst dusdanig wordt beperkt in zijn bestaansmogelijkheden dat hij op maatschappelijk en sociaal gebied niet kan functioneren. Nu eiser nooit aangifte heeft gedaan van discriminatie op de arbeidsmarkt, of van uitsluiting van (medische) voorzieningen of huisvesting, is er ook geen grond om verweerders standpunt onjuist te vinden dat eiser niet aannemelijk heeft gemaakt dat Letse overheidsinstanties hem bij eventuele discriminatie of problemen op dit gebied niet kunnen of willen helpen. Eiser heeft de weigering van de Letse nationaliteit, en daarmee zijn stemrecht, niet met stukken onderbouwd, zodat niet vast staat waarom eisers aanvraag is afgewezen. Verweerder is daarmee, naar het oordeel van de rechtbank, terecht tot de conclusie gekomen dat niet is gebleken dat Letland voor eiser geen veilig land van herkomst is. Eisers asielaanvraag heeft verweerder daarom terecht kennelijk ongegrond verklaard.</para>
+      </listitem>
+      <listitem>
+        <para>Het beroep is ongegrond.</para>
+      </listitem>
+      <listitem>
+        <para>Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M. Kraefft, rechter, in aanwezigheid van drs. M.A.J. Arts, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op:</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

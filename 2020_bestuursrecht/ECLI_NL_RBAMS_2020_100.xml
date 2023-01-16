@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:100</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-19T14:01:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 1687</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:100">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:100</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-19T14:00:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:100 Rechtbank Amsterdam , 13-01-2020 / AWB - 19 _ 1687</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:100:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>AOW, duurzaam gescheiden leven, ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:100:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/1687 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 14 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , (Spanje), eiser</bridgehead>
+    <para>(gemachtigde: mr. M. Hartkoorn),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de raad van bestuur van de Sociale verzekeringsbank, verweerder</bridgehead>
+    <para>(gemachtigde: J.A.H. Koning). </para>
+    <para />
+    <parablock>
+      <para>De rechtbank zal partijen hierna aanduiden als [eiser] en de Svb.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met de besluiten van 17 oktober 2018 heeft de Svb het ouderdomspensioen van [eiser] op grond van de Algemene Ouderdomswet (AOW) vanaf december 2017 herzien (het primaire besluit I) en het vanaf december 2017 teveel betaalde pensioen teruggevorderd (het primaire besluit II).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 8 februari 2019 (het bestreden besluit) heeft de Svb het bezwaar van [eiser] gegrond verklaard. De Svb heeft de periode waarover het pensioen wordt herzien en het bedrag dat wordt teruggevorderd, gewijzigd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eiser] heeft tegen het bestreden besluit beroep ingesteld. De Svb heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 5 november 2019. [eiser] en de Svb hebben zich laten vertegenwoordigen door hun gemachtigden.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. [eiser] woont in Spanje en ontving vanaf augustus 2010 een AOW-pensioen naar de norm voor een alleenstaande.</para>
+    <para />
+    <para>2. Op 3 mei 2018 is [eiser] getrouwd met [de persoon] . Op 17 oktober 2018 heeft de Svb aan [eiser] met ingang van 1 december 2017 een AOW-pensioen naar de norm voor een gehuwde toegekend en een bedrag van € 1.802,33 bruto, teruggevorderd. </para>
+    <para />
+    <para>3. De Svb heeft het bezwaar van [eiser] tegen dit besluit gegrond verklaard en [eiser] in de periode van 17 november 2017 tot aan de huwelijksdatum 3 mei 2018, aangemerkt als alleenstaande. De vordering is verlaagd naar een bedrag van € 703,35 bruto. Daarnaast heeft de Svb overwogen dat [eiser] vanaf de huwelijksdatum weliswaar gescheiden leefde van zijn echtgenote, maar dat zij wel de bedoeling hadden om samen te wonen op het moment dat zijn echtgenote een verblijfsvergunning kreeg. Er is vanaf de datum van het huwelijk daarom volgens de Svb geen sprake van duurzaam gescheiden leven en dus heeft [eiser] vanaf 3 mei 2018 recht op een AOW-pensioen naar de norm van een gehuwde.</para>
+    <para />
+    <para>4. [eiser] heeft in beroep aangevoerd dat hij duurzaam gescheiden leeft van zijn vrouw en dat hij daarom recht heeft op een AOW-pensioen naar de norm voor een alleenstaande.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wettelijk kader</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Op grond van artikel 1, derde lid, aanhef en onder b, van de AOW wordt in deze wet en daarop berustende bepalingen als ongehuwd mede aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Beoordeling door de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. De rechtbank dient de vraag te beantwoorden of [eiser] vanaf de datum van het huwelijk duurzaam gescheiden leefde van zijn echtgenote, als bedoeld in voormeld artikel 1, derde lid, onder b, van de AOW. </para>
+    <para />
+    <para>7. Volgens vaste rechtspraak<footnote-ref linkend="_8ade2990-8718-42a7-8ad8-4de7573291b9" /> is van duurzaam gescheiden leven van gehuwden sprake als de echtelijke samenleving is geëindigd door de wil van één of beide echtgenoten, zij ieder afzonderlijk hun eigen leven leiden alsof zij niet getrouwd zijn en het de bedoeling van ten minste één van beide echtgenoten is dat die situatie blijvend is. Verder is in de rechtspraak tot uitdrukking gebracht dat in het algemeen kan worden aangenomen dat na het sluiten van een huwelijk betrokkenen de intentie hebben om een vorm van echtelijke samenleving aan te gaan. Evenwel is niet uit te sluiten dat onder omstandigheden vanaf de huwelijksdatum van duurzaam gescheiden leven kan worden gesproken, mits dat ondubbelzinnig uit de feiten en omstandigheden blijkt. Het gaat dus om een uitzonderingssituatie, die door de betrokkene aannemelijk gemaakt moet worden.</para>
+    <para />
+    <para>8. Alle feiten en omstandigheden in aanmerking genomen is naar het oordeel van de rechtbank in dit geval niet ondubbelzinnig gebleken dat [eiser] vanaf 3 mei 2018 duurzaam gescheiden leefde van [de persoon] . De rechtbank neemt daarbij in aanmerking dat [eiser] aanvankelijk desgevraagd heeft vermeld dat [de persoon] met ingang van 17 november 2017 op zijn adres woonachtig was en dat zij de wederzijdse zorg voor elkaar droegen. Daarna heeft hij verklaringen afgelegd waaruit blijkt dat het de intentie was dat [de persoon] naar Spanje zou komen als haar visum rond was. De rechtbank heeft ook een notariële akte van 25 september 2018 bij haar beoordeling betrokken, waarin is vermeld dat [eiser] de zorg voor [de persoon] en haar twee kinderen op zich wil nemen zodat zij zich in Spanje kunnen vestigen voor gezinshereniging. Dat [eiser] in deze procedure verklaart dat hij en [de persoon] nooit hebben samengewoond, ieder een eigen leven hebben, geen affectieve relatie hebben en dat hij een echtscheiding heeft aangevraagd, maakt, gelet op het vorenstaande, niet dat ondubbelzinnig blijkt dat hij en [de persoon] duurzaam gescheiden van elkaar leven. Dit betekent dat de Svb terecht de norm van het AOW-pensioen van [eiser] per 3 mei 2018 heeft gewijzigd naar de norm voor een gehuwde.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>9. Het beroep is ongegrond.  </para>
+    <para />
+    <para>10. Omdat de rechtbank [eiser] geen gelijk geeft, krijgt hij het betaalde griffierecht niet terug. Voor een proceskostenveroordeling is geen aanleiding. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. F.P. Lauwaars, rechter, in aanwezigheid van mr. N. van der Kroft, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 14 januari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+  </section>
+  <footnote id="_8ade2990-8718-42a7-8ad8-4de7573291b9" label="1">
+    <para>Zie bijvoorbeeld de uitspraak de Centrale Raad van Beroep (de Raad) van 13 januari 2017, ECLI:NL:CRVB:2017:172.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

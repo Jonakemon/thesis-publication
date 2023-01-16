@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:452</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-17T16:08:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">02/368191 HA RK 20-20 en 02/368193 HA RK 20-21</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#wraking">Wraking</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Breda</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:452">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:452</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-04T10:00:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:452 Rechtbank Zeeland-West-Brabant , 03-02-2020 / 02/368191 HA RK 20-20 en 02/368193 HA RK 20-21</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:452:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wraking</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:452:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT </bridgehead>
+    <para />
+    <parablock>
+      <para>Wrakingskamer</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Locatie Breda</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers 02/368191 HA RK 20-20 en 02/368193 HA RK 20-21 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>beslissing van 3 februari 2020 inzake het wrakingsverzoek ex artikel 8:15 van de Algemene wet bestuursrecht (Awb) van:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [verzoeker] ,</emphasis>
+      </para>
+      <para>kantoorhoudende te [naamplaats] ,</para>
+      <para>verder ook te noemen verzoeker.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De procedure</title>
+    <para />
+    <parablock>
+      <para>Het verloop van de procedure blijkt onder meer uit:</para>
+    </parablock>
+    <para>- de processtukken zoals opgenomen in het procesdossier van de hierna te noemen zaken;</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>de wrakingsverzoeken ontvangen op 24 januari 2020 en 27 januari 2020;</para>
+      </listitem>
+      <listitem>
+        <para>de schriftelijke reactie op de wrakingsverzoeken van de rechter, ontvangen op </para>
+      </listitem>
+    </itemizedlist>
+    <para>29 januari 2020;</para>
+    <para>- de brief van verzoeker ontvangen op 29 januari 2020 in zaaknummer </para>
+    <para>BRE 18/7797 IW TA;</para>
+    <para>- de mondelinge behandeling van de verzoeken door de wrakingskamer op </para>
+    <para>31 januari 2020. Verzoeker en de rechter zijn niet verschenen.</para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het verzoek</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Het verzoek strekt tot wraking van mr. [voorletter] Tanghe, hierna te noemen de rechter, die belast is met de behandeling van de zaken met zaaknummers BRE 18/3073 MRB TA en BRE 18/7797 IW TA die op 6 februari 2020 door hem behandeld gaan worden en waarin [verzoeker] als gemachtigde optreedt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De rechter berust niet in het verzoek tot wraking.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Gelet op de brief van verzoeker van 29 januari 2020 is door de wrakingskamer op </para>
+        <para>30 januari 2020 telefonisch contact met verzoeker opgenomen. Hem is medegedeeld dat zijn brief niet een expliciet verzoek tot aanhouding betreft. Mocht dit wel zo door hem zijn bedoeld, dan wordt dit verzoek afgewezen, gelet op hetgeen hierover is vermeld in het wrakingsprotocol onder <emphasis role="underline">8.2 Betrokkenen informeren en informatie verzamelen door griffier</emphasis>: </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“(…) Aan verzoeker, diens vertegenwoordiger, de gewraakte rechter(s) en andere procespartijen worden geen verhinderdata gevraagd, noch wordt daarmee rekening gehouden. Evenmin wordt uitstel verleend. Zo nodig kan een partij haar standpunt schriftelijk toelichten of zich laten vertegenwoordigen. Partijen dienen zich ervan bewust te zijn dat het wrakingsincident bij voorrang moet worden behandeld en afgedaan.”</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>De wrakingskamer overweegt dat de wrakingsverzoeken in één beslissing zullen worden behandeld, nu de gronden ten aanzien van de gewraakte rechter nagenoeg gelijkluidend zijn. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>De feiten en de gronden van het verzoek</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Door verzoeker is, kort weergegeven, aangevoerd dat een schijn van partijdigheid of objectief gerechtvaardigde vrees van vooringenomenheid van de rechter bestaat door het navolgende.</para>
+      <para />
+      <parablock>
+        <para>Verzoeker is van mening dat eerdere uitspraken gedaan door de rechter onjuist zijn, omdat de rechter zijn uitspraken motiveert met jurisprudentie van de Hoge Raad en verzoeker niet van deze uitspraken gecharmeerd is. Verzoeker vindt dat de Hoge Raad niet competent is en hij is het dan ook niet eens met de uitspraken van de Hoge Raad. De rechter had in eerdere zaken geen aansluiting moeten zoeken bij deze uitspraken, maar bij het Unierecht en bij uitspraken van het Hof van Justitie. Verzoeker is van oordeel dat de rechter de bepalingen van het Unierecht kennelijk onbevoegd, onjuist en partijdig uitlegt. Verzoeker heeft het vermoeden dat de rechter in de zaken die door hem op 6 februari 2020 behandeld zullen worden hetzelfde standpunt in zal nemen als hij eerder heeft gedaan en de rechter dus niet naar de argumenten van verzoeker zal luisteren. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>4</nr>Het standpunt van de rechter</title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De rechter is van oordeel dat geen gerechtvaardigde vrees voor vooringenomenheid kan worden afgeleid uit hetgeen door hem in eerdere beslissingen is bepaald.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>De rechter heeft de wrakingsverzoeken van verzoeker zo begrepen dat hij hieruit afleidt dat met name eerdere door hem gedane uitspraken de reden vormen voor het wrakingsverzoek, waarbij door hem is verwezen naar uitspraken van de Hoge Raad. De Hoge Raad is volgens verzoeker niet onpartijdig. Zijn uitspraken zouden daarnaast het primaat van het Europese recht miskennen en daardoor worden niet de juiste rechtsregels toegepast. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De rechter heeft opgemerkt dat een wrakingsprocedure niet is bedoeld om de inhoud van eerdere uitspraken ter discussie te stellen en dat verzoeker tegen een uitspraak in hoger beroep kan gaan, als hij meent dat een uitspraak onjuist is. In een wrakingsverzoek kan er om die reden niet inhoudelijk worden ingegaan op deze eerdere uitspraken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Verder heeft de rechter kenbaar gemaakt dat de wrakingsverzoeken hem bevreemden omdat hij relatief weinig zaken heeft behandeld waarin verzoeker als gemachtigde optreedt. Er is in die zaken verwezen naar arresten van de Hoge Raad, uitspraken van gerechtshoven en er is Unierecht aan de orde geweest. Verzoeker is door hem regelmatig in het gelijk gesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Tot slot heeft de rechter naar voren gebracht dat toekomstige zaken waarin verzoeker als gemachtigde optreedt op dezelfde onpartijdige en niet-vooringenomen wijze zullen worden behandeld. Deze wrakingsverzoeken maken dat niet anders. </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>5</nr>De beoordeling en de gronden daarvoor</title>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Ingevolge artikel 8:15 Awb kan op verzoek van een partij elk van de rechters die een zaak behandelen worden gewraakt op grond van feiten of omstandigheden waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Daarbij moet voorop worden gesteld, dat bij de beoordeling van een beroep op het ontbreken van onpartijdigheid van de rechter als uitgangspunt geldt, dat een rechter uit hoofde van zijn aanstelling wordt vermoed onpartijdig te zijn, tenzij zich een uitzonderlijke omstandigheid voordoet die een zwaarwegende aanwijzing oplevert dat een rechter ten aanzien van een partij een vooringenomenheid koestert, althans dat de bij die partij daarvoor bestaande vrees objectief gerechtvaardigd is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Het verzoek moet op grond van artikel 8:16 lid 1 Awb worden gedaan, zodra de feiten of omstandigheden aan de verzoeker bekend zijn geworden. De wrakingskamer is van oordeel dat verzoeker ontvankelijk is in zijn verzoek, nu hij zijn verzoek heeft gedaan op het moment dat hem bekend is geworden dat de rechter de betreffende zaken tijdens een zitting zal behandelen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Te onderzoeken is vervolgens of de door verzoeker aangevoerde specifieke feiten en omstandigheden een zwaarwegende aanwijzing opleveren voor het oordeel dat de door verzoeker geuite vrees dat de rechter jegens hem een vooringenomenheid koestert – objectief – gerechtvaardigd is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>De wrakingskamer overweegt dat, kort gezegd, de wrakingsgrond erin is gelegen dat verzoeker van oordeel is dat de eerder door de rechter gedane uitspraken de vrees bij hem hebben teweeg gebracht dat de zaken in de toekomst op dezelfde wijze zullen worden behandeld en beoordeeld, en dat daarmee al vaststaat wat de uitkomst in die zaken zal zijn. </para>
+      <para />
+      <parablock>
+        <para>Dat verzoeker het niet eens is met eerdere uitspraken is onvoldoende om aan te nemen dat de zaken die nog moeten worden behandeld op dezelfde manier zullen worden beoordeeld en tot dezelfde uitkomst zullen leiden. In zijn schriftelijke reactie heeft de rechter bevestigd dat hij de zaken open en niet-vooringenomen zal behandelen, zodat het niet vaststaat dat hij dezelfde beslissing zal nemen en uitspraak zal doen als in eerdere zaken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>Gelet op het voorgaande is naar het oordeel van de wrakingskamer niet gebleken dat de bij verzoeker bestaande vrees dat de rechter ten aanzien van hem vooringenomenheid koestert objectief gerechtvaardigd is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.7.</nr>
+      <para>Dit alles leidt ertoe dat het wrakingsverzoek moet worden afgewezen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.8.</nr>
+      <para>Nu verzoeker heeft aangekondigd dat hij bij afwijzing van het verzoek dat op 6 februari 2020 ter zitting zal herhalen, bepaalt de wrakingskamer dat verzoeker op de gronden die thans zijn aangevoerd, niet nogmaals een wrakingsverzoek kan doen ten aanzien van de rechter in de zaken met zaaknummer BRE 18/3073 MRB TA en zaaknummer BRE 18/7797 IW TA.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>6</nr>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:	</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>wijst de verzoeken tot wraking af;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat de behandeling van de zaken met zaaknummer BRE 18/3073 MRB TA en zaaknummer BRE 18/7797 IW TA zal worden voortgezet in de stand waarin deze zich bevonden ten tijde van de schorsing wegens indiening van dit verzoek; </para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat verzoeker op de gronden die thans zijn aangevoerd niet nogmaals een wrakingsverzoek kan doen ten aanzien van de rechter in de zaken met zaaknummer BRE 18/3073 MRB TA en zaaknummer BRE 18/7797 IW TA.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze beslissing is gegeven op 3 februari 2020 door mrs. Peters, Kok en </para>
+      <para>Tempel, in tegenwoordigheid van mr. Rockx, griffier, en in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift aangetekend verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen deze beslissing staat geen rechtsmiddel open.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

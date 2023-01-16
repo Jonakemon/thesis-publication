@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:2524</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-24T13:01:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 4533</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2524">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2524</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-24T12:57:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:2524 Rechtbank Zeeland-West-Brabant , 11-06-2020 / AWB - 19 _ 4533</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:2524:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>AWB - 19 _ 4533</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:2524:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Breda</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/4533 AOW</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 11 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [eiser], te [plaatsnaam], eiser</bridgehead>
+    <para>gemachtigde: mr. I.A.C. Cools,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Raad van bestuur van de Sociale Verzekeringsbank Breda (Svb), verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In het besluit van 5 juni 2019 (primaire besluit) heeft de Svb eisers aanvraag om een Aanvullende Inkomensvoorziening Ouderen (AIO) buiten behandeling gesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In het besluit van 12 juli 2019 (bestreden besluit) heeft de Svb het bezwaar van eiser tegen het primaire besluit ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Svb heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is besproken op de zitting van de rechtbank op 28 mei 2020. Hierbij waren aanwezig eisers gemachtigde en mr. A. Marijnissen namens de Svb. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <para>1.	<emphasis role="italic">Feiten en omstandigheden</emphasis></para>
+    <para />
+    <parablock>
+      <para>Eiser ontvangt sinds 1 juli 2005 een pensioen op grond van de Algemene Ouderdomswet (AOW) naar de norm voor een alleenstaande. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 29 mei 2017 heeft de Svb aan eiser meegedeeld dat hij vanaf juni 2017 minder AOW-pensioen krijgt, omdat onduidelijk is of hij het juiste bedrag ontvangt. Eiser heeft verklaard dat hij gehuwd is. Dit heeft gevolgen voor zijn AOW-pensioen. De Svb heeft aan eiser verzocht om de huwelijksakte te overleggen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 12 januari 2018 heeft de Svb eisers AOW-pensioen met ingang van </para>
+      <para>januari 2018 stopgezet, omdat zij niet kan vaststellen of eiser daarop recht heeft. Er zijn onduidelijkheden blijven bestaan over zijn burgerlijke staat. Eiser wordt verzocht om zijn officiële huwelijksakte te overleggen. Eiser heeft tegen dit besluit bezwaar gemaakt. Met het besluit op bezwaar van 30 april 2018 heeft de Svb eisers bezwaar gegrond verklaard. De Svb erkent ten onrechte eisers volledige AOW-pensioen te hebben opgeschort. Aangezien er geen twijfel is over zijn recht op een AOW-pensioen voor een gehuwde, houdt hij recht op dit pensioen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 9 april 2019 heeft eiser een aanvraag ingediend voor een AIO-aanvulling op grond van de Participatiewet. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 11 april 2019 heeft de Svb aan eiser verzocht om zijn aanvraag te completeren met gegevens over zijn partner, inkomen en schulden, en om aanvullende informatie, betrekking hebbend op zijn inkomen en schulden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 23 april 2019 heeft de Svb verzocht om informatie over eisers (ex)echtgenote, [(ex)echtgenote] (geboren op [geboortedag] 1974), en om een geboorteakte van zijn huidige huwelijkspartner. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 30 april 2019 heeft de Svb gesteld dat eiser ten overstaan van twee rapporteurs heeft verklaard dat hij medio 2017 in [woonplaats] [land] in het huwelijk is getreden met mevrouw [naam], geboren in 1998. Voorts heeft eiser toen verklaard dat hij samen met zijn broer een woning, ongeveer 9 kilometer buiten [woonplaats], in eigendom heeft. De Svb verzoekt eiser om stukken met betrekking tot die woning en om informatie over [naam], om haar geboorteakte en de huwelijksakte. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 15 mei 2019 heeft de Svb aan eiser nogmaals verzocht om de huwelijksakte en bewijsstukken met betrekking tot de woning in [land].</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het primaire besluit heeft de Svb eisers aanvraag om een AIO-aanvulling buiten behandeling gesteld. De Svb stelt dat zij aan eiser verschillende keren heeft gevraagd om gegevens en dat hij die niet heeft overgelegd.</para>
+    </parablock>
+    <para />
+    <para>2. 	<emphasis role="italic">Bestreden besluit </emphasis></para>
+    <para />
+    <parablock>
+      <para>Met het bestreden besluit heeft de Svb eisers bezwaar tegen het primaire besluit ongegrond verklaard. De Svb stelt dat de informatie die bij eiser is opgevraagd van belang is voor het recht op AIO-aanvulling en dus voor het besluit op zijn aanvraag om AIO-aanvulling. Eiser heeft niet aan het informatieverzoek voldaan. De Svb stelt dan ook eisers aanvraag om een AIO-aanvulling terecht buiten behandeling te hebben gesteld. </para>
+    </parablock>
+    <para />
+    <para>3.	<emphasis role="italic">Beroepsgronden</emphasis></para>
+    <para />
+    <parablock>
+      <para>Eiser heeft in beroep samengevat aangevoerd dat hij alle informatie, die redelijkerwijs van hem gevergd kan worden, heeft aangeleverd. Eiser heeft de aanvraag volledig ingevuld, de ontbrekende stukken aangeleverd en antwoord gegeven op alle vragen. De Svb blijft echter terugkomen op een verklaring die hij op 22 mei 2017 zou hebben afgelegd over een huwelijk. Eiser heeft tijdig gereageerd op vragen daarover, zelfs met stukken, waaruit blijkt dat het huwelijk met [(ex)echtgenote] op 21 november 2016 is ontbonden. De Svb stelt dat er nog bewijsstukken ontbreken, maar er zijn niet meer stukken voorhanden, zoals eiser de Svb ook heeft meegedeeld. Het is eiser niet duidelijk welke stukken hij nog had kunnen aanleveren, anders dan de stukken die al aangeleverd zijn. Eiser stelt dan ook dat de Svb zijn aanvraag om een AIO-aanvulling niet buiten behandeling had kunnen stellen en daarop inhoudelijk had moeten beslissen.</para>
+    </parablock>
+    <para />
+    <para>4.	<emphasis role="italic">Juridisch kader</emphasis></para>
+    <para />
+    <parablock>
+      <para>Artikel 4:5, eerste lid, aanhef en onder c, van de Algemene wet bestuursrecht (Awb) bepaalt dat het bestuursorgaan kan besluiten de aanvraag niet te behandelen, indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking, mits de aanvrager de gelegenheid heeft gehad de aanvraag binnen een door het bestuursorgaan gestelde termijn aan te vullen. Van een onvolledige of ongenoegzame aanvraag is onder andere sprake indien onvoldoende gegevens of bescheiden worden verstrekt om een goede beoordeling van de aanvraag mogelijk te maken. Gelet op artikel 4:2, tweede lid, van de Awb gaat het daarbij om gegevens die voor de beslissing op de aanvraag nodig zijn en waarover de aanvrager redelijkerwijs de beschikking kan krijgen.</para>
+    </parablock>
+    <para />
+    <para>5.	<emphasis role="italic">Oordeel van de rechtbank </emphasis></para>
+    <para />
+    <parablock>
+      <para>Ter beoordeling ligt aan de rechtbank voor of de Svb op goede gronden eisers aanvraag om een AIO-aanvulling buiten behandeling heeft gesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Svb heeft eisers AIO-aanvraag buiten behandeling gesteld omdat zij aan eiser heeft verzocht om gegevens die van belang zijn voor (de beoordeling van) zijn recht op AIO-aanvulling en hij die niet heeft verstrekt. Het gaat in de procedure volgens de Svb nog om de huwelijksakte van eisers huwelijk met [naam] en om bewijsstukken met betrekking tot de woning in [land], die hij met zijn broer in eigendom heeft.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser betwist dat hij gehuwd is met [naam]. Er is geen sprake van een rechtsgeldig huwelijk, er is slechts een religieuze ceremonie geweest. Eiser kan dan ook geen huwelijksakte overleggen, omdat die er niet is. Daarnaast is er geen woning in [land]. Er is alleen een ruïne van een oud huis op een stuk grond, zonder waarde. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Svb gaat er wel van uit dat eiser gehuwd is met [naam], dat hij daarvan een huwelijksakte kan overleggen en dat hij samen met zijn broer een woning in [land] heeft. De Svb baseert dit op eisers verklaring van 22 mei 2017, die hij heeft afgelegd ten overstaan van toezichthouders/medewerkers van de Svb, [naam medewerker1] en [naam medewerker2], en die door hen is opgetekend in het gespreksverslag van die datum. Blijkens dat gespreksverslag heeft eiser onder meer de volgende antwoorden gegeven: ‘<emphasis role="italic">Ik ben momenteel getrouwd in [land]. Ik denk dat ongeveer 1 jaar geleden is. Mijn vrouw heet [naam] (=familienaam). (…) Ik zal u de huwelijksakte opsturen zodra ik de huwelijksakte heb ontvangen. (…) Ik heb ook een woning in het dorp, ongeveer 9 kilometer van [woonplaats]. Dit is eigendom van mij en mijn broer. De woning heeft 4 kamers. De woning is niet veel waard. Er is geen water en geen elektriciteit. De woning is een kwartje waard.’ </emphasis>De rechtbank acht de door eiser gegeven antwoorden uitgebreid en consistent en ziet geen reden om zijn verklaring niet voor juist te houden. Verder ziet zij geen aanknopingspunten op grond waarvan eiser niet aan zijn verklaring kan worden gehouden. De rechtbank gaat dan ook uit van die verklaring. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar het oordeel van de rechtbank heeft de Svb er, gelet op die verklaring, van uit mogen gaan dat eiser gehuwd is met [naam] en dat hij met zijn broer een woning heeft in [land]. De Svb heeft dan ook van eiser gegevens met betrekking tot dat huwelijk en die woning mogen verlangen ter beoordeling van zijn aanvraag om AIO-aanvulling. Naar het oordeel van de rechtbank heeft eiser onvoldoende aannemelijk gemaakt dat hij redelijkerwijs niet de beschikking kon krijgen over deze gegevens. In ieder geval is niet gebleken dat eiser geen huwelijksakte kon overleggen. Ter zitting is namelijk duidelijk geworden dat eiser in het kader van een nieuwe aanvraag wel een huwelijksakte heeft overgelegd. Alhoewel de Svb erkent dat blijkens dit stuk er geen sprake is van een officieel huwelijk, is het dus niet juist dat eiser geen stukken met betrekking tot dat huwelijk kon overleggen. Ten aanzien van de woning overweegt de rechtbank dat het wellicht moeilijk is om een uittreksel uit het [land] Kadaster te verkrijgen, zoals eiser ter zitting heeft gesteld, maar niet aannemelijk is dat hij niet andere gegevens zou kunnen overleggen over de woning, zoals het adres, foto’s en een waardebepaling van de woning middels een taxatie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Nu eiser de gevraagde gegevens niet (tijdig) heeft overgelegd, heeft de Svb eisers aanvraag om AIO-aanvulling buiten behandeling kunnen stellen. Dat besluit houdt dan ook stand.</para>
+    </parablock>
+    <para />
+    <para>6.	<emphasis role="italic">Conclusie </emphasis></para>
+    <para />
+    <parablock>
+      <para>Het beroep is daarom ongegrond. Er is geen reden voor een proceskostenveroordeling of vergoeding van het griffierecht. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. S.A.M.L. van de Sande, rechter, in aanwezigheid van </para>
+      <para>mr. H.D. Sebel, griffier, op 11 juni 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+      <para>De griffier is niet in de gelegenheid om de uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

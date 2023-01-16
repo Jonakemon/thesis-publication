@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:2280</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-02T12:00:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 19_2203</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Middelburg</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2280">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2280</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-27T10:49:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:2280 Rechtbank Zeeland-West-Brabant , 22-05-2020 / AWB- 19_2203</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:2280:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WAO</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:2280:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Middelburg</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/2203 WAO</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 22 mei 2020 van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [eiser] , wonende te [plaatsnaam] , eiser</bridgehead>
+    <para>gemachtigde: mr. B.H. Vader, advocaat te Oost-Souburg,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen </emphasis>(UWV)<emphasis role="bold">, </emphasis>verweerder.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In het besluit van 4 februari 2019 (het primaire besluit) heeft het UWV de aanvraag van eiser om een verhoging van zijn WAO-uitkering in verband met hulpbehoevendheid afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In het besluit van 26 april 2019 (het bestreden besluit) heeft het UWV het bezwaar van eiser tegen het primaire besluit ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het UWV heeft op 1 juli 2019 een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben daarna aanvullende stukken ingediend en zijn akkoord gegaan met een schriftelijke afdoening van de zaak. <?linebreak?></para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <para>1.	<emphasis role="italic">Feiten</emphasis></para>
+    <para />
+    <parablock>
+      <para>Eiser, geboren op [geboortedatum] 1953, ontvangt sinds 21 december 2004 een WAO-uitkering berekend naar een mate van arbeidsongeschiktheid van 80 tot 100%. Op 4 januari 2019 heeft eiser een verhoging van zijn WAO-uitkering aangevraagd in verband met hulpbehoevend-heid. </para>
+    </parablock>
+    <para />
+    <para>2.	<emphasis role="italic">Standpunt UWV </emphasis></para>
+    <para />
+    <parablock>
+      <para>In het primaire besluit heeft het UWV de aanvraag afgewezen, omdat uit rapportage van een arts van het UWV (hierna ook de primaire arts genoemd) van 3 februari 2019 is gebleken dat eiser niet aan de voorwaarden voor verhoging van de uitkering voldoet. Om in aanmerking te komen voor een verhoging van de uitkering op grond van hulpbehoevendheid moet eiser  verkeren in een althans voorlopig blijvende toestand van hulpbehoevendheid, die geregelde oppassing en verzorging noodzakelijk maakt. De arts is van mening dat daarvan geen sprake is. Met name omdat eiser recent gestart is met intensieve passende behandeling is het volgens de arts voorbarig om al te spreken van een “althans voorlopig blijvende toestand van hulpbehoevendheid.” Mocht na afronding van de passende behandeling blijken dat er geen herstel is opgetreden, kan eiser weer een aanvraag doen om de uitkering te verhogen vanwege hulpbehoevendheid.  <?linebreak?></para>
+      <para>In het bestreden besluit heeft het UWV zijn standpunt gehandhaafd dat een verhoging niet aan de orde is. Daaraan ligt een rapport van de verzekeringsarts bezwaar en beroep  (verzekeringsarts b&amp;b) van 24 april 2019 ten grondslag. De verzekeringsarts b&amp;b is van mening dat eiser gezien zijn functioneringsniveau niet in aanmerking komt voor verhoging van zijn WAO-uitkering. Hij kan lopen, zelfstandig reizen, het huishouden voor een deel voeren, heeft betekenisvolle contacten, kan koken en er is volgens de verzekeringsarts b&amp;b zeker geen situatie van oppassingsbehoeftigheid of van noodzaak tot ADL-hulp. Er moet sprake zijn van permanente en zeer zware persoonsgerichte zorg en continue begeleiding. Daar is geen sprake van, aldus de verzekeringsarts b&amp;b.  </para>
+    </parablock>
+    <para />
+    <para>3.	<emphasis role="italic">Beroepsgronden eiser</emphasis></para>
+    <para />
+    <parablock>
+      <para>Eiser voert in zijn aanvullend beroepschrift van 4 juni 2019 aan dat het UWV ten onrechte voorbij is gegaan aan de brief van de revalidatiearts A.C. Hagedoorn van 23 januari 2019 en het daarbij gevoegde Intake- en Behandelplan van 31 december 2018. Het heeft er volgens eiser alle schijn van dat het UWV bij de beoordeling is uitgegaan van zijn toestand ten tijde van de hoorzitting. Dat is ten onrechte en de interpretatie van zijn toestand is ook onjuist. <?linebreak?>Uit de brief van de revalidatiearts blijkt dat na het incident van 2 november 2018, waarbij hij na een TIA achterover is gevallen bij het opstaan vanuit een stoel, sprake was van een verslechterde toestand. Ook geeft de revalidatiearts aan dat sprake was van herstel belemmerende omstandigheden en dat een intensieve revalidatiebehandeling vereist is met een minimale duur van vier maanden. Verder is er onder andere sprake van moeilijkheden met schrijven, moeilijkheden met het uitvoeren van ADL-taken en dergelijke. Voor wat betreft de ADL-taken is eiser qua zelfzorg en lichte taken in en om het huis beperkt en niet in staat tot zware taken in en om het huis. Eiser krijgt hulp in de huishouding en hulp van zijn voormalige partner en zijn zoon bij alle ADL-taken. Ook vond dagelijks therapie plaats. Volgens eiser was er op de datum in geding wel degelijk sprake van een voorlopig blijvende toestand van hulpbehoevendheid. Ook was er geregelde oppassing en verzorging nodig en die is ook uitgevoerd, aldus eiser.</para>
+    </parablock>
+    <para />
+    <para>4.	<emphasis role="italic">Oordeel rechtbank</emphasis></para>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>In dit geschil gaat het om de vraag of het UWV terecht heeft geweigerd de uitkering van eiser te verhogen. Daarbij strekt de periode in geding zich uit van de aanvraag (4 januari 2019) tot de datum van het primaire besluit (4 februari 2019). </para>
+      <para />
+      <paragroup>
+        <nr>4.1.1</nr>
+        <parablock>
+          <para>In artikel 22 van de WAO is bepaald dat een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van 80% of meer, wordt verhoogd tot ten hoogste 100/108 maal zijn dagloon of zijn vervolgdagloon, indien de betrokkene in een althans voorlopig blijvende toestand van hulpbehoevendheid verkeert, welke geregeld oppassing en verzorging nodig maakt.</para>
+          <para>Voor de uitleg van de in deze bepaling voorkomende begrippen geregelde oppassing en verzorging hanteert het UWV de Beleidsregel verhoging uitkering bij hulpbehoevendheid van 23 oktober 2007 (Stcrt. 2007, 241; Beleidsregel).</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.1.2</nr>
+        <para>Volgens artikel 2, eerste lid, van de Beleidsregel wordt de uitkering verhoogd tot 100% van het dagloon: </para>
+        <para>a.  indien de verzekerde hulp nodig heeft bij alle of nagenoeg alle essentiële, dagelijks terugkerende levensverrichtingen en continue oppassing noodzakelijk is; </para>
+        <para>b. indien de verzekerde hulp nodig heeft bij sommige essentiële, dagelijks terugkerende levensverrichtingen en continue oppassing noodzakelijk is; </para>
+        <para>c. indien de verzekerde hulp nodig heeft bij alle of nagenoeg alle essentiële, dagelijks terugkerende levensverrichtingen en geregelde handreikingen door derden noodzakelijk zijn. </para>
+        <para />
+        <parablock>
+          <para>Volgens artikel 3, eerste lid, van de Beleidsregel wordt de uitkering verhoogd tot 85% van het dagloon, indien de verzekerde hulp nodig heeft bij sommige essentiële, dagelijks terugkerende levensverrichtingen en geregelde handreikingen door derden noodzakelijk zijn. </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Bij essentiële, dagelijks terugkerende levensverrichtingen gaat het om zaken zoals wassen, aan- en uitkleden en toiletgang. Huishoudelijke taken en vervoer buitenhuis kunnen daaronder niet worden begrepen (zie de uitspraak van de Centrale Raad van Beroep van <?linebreak?>5 december 2019, ECLI:NL:CRVB:2019:3893). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Naar het oordeel van de rechtbank bieden de rapportages van de primaire arts en van de verzekeringsarts b&amp;b een voldoende grondslag voor de conclusie dat eiser niet voor een verhoging van zijn uitkering in aanmerking komt. De primaire arts is op basis van een op dat moment recent gestarte behandeling van eiser tot het standpunt gekomen dat het voorbarig is om te concluderen dat sprake is van een voorlopig blijvende toestand van hulpbehoevendheid. De rechtbank kan zich in dat standpunt vinden. Uit de informatie van de revalidatiearts Hagedoorn van 23 januari 2019 blijkt naar het oordeel van de rechtbank niet dat eiser op dat moment in een voorlopig <emphasis role="underline">blijvende</emphasis> toestand van hulpbehoevendheid verkeerde. Ook blijkt daaruit naar het oordeel van de rechtbank niet dat eiser de essentiële, dagelijks terugkerende levensverrichtingen als bedoeld in onderdeel 4.2. niet kon uitvoeren. Dat eiser op 23 januari 2019 niet in een voorlopig blijvende toestand van hulpbehoevendheid verkeerde, wordt bovendien bevestigd in de rapportage van de verzekeringsarts b&amp;b. <?linebreak?>Twee maanden na het onderzoek door de primaire arts wordt door de verzekeringsarts b&amp;b immers gerapporteerd dat eiser kan lopen, dat hij zelfstandig kan reizen, het huishouden voor een deel kan voeren, dat hij betekenisvolle contacten heeft en dat er zeker geen situatie van oppassingsbehoeftigheid is of van noodzaak tot ADL-hulp. De toestand van eiser ten tijde van de hoorzitting, zoals door de verzekeringsarts b&amp;b beschreven, wordt door eiser niet betwist, althans eiser heeft in beroep geen medische informatie ingebracht die de rechtbank doet twijfelen aan de juistheid van de rapportage van de verzekeringsarts b&amp;b. Ook heeft eiser in beroep geen medische informatie ingebracht waaruit blijkt dat hij gedurende de periode in geding de essentiële, dagelijks terugkerende levensverrichtingen als bedoeld in onderdeel 4.2. niet kon uitvoeren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Het bovenstaande leidt tot de conclusie dat het beroep ongegrond zal worden verklaard. Dit betekent dat eiser geen gelijk krijgt. Voor een proceskostenveroordeling is geen reden. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing <?linebreak?></title>
+    <para>De rechtbank verklaart het beroep ongegrond.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.L. Sierkstra, rechter, in aanwezigheid van <?linebreak?>W.J. Steenbergen, griffier, op 22 mei 2020 en is openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>griffier*								rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>* De griffier is niet in de gelegenheid de uitspraak mede te ondertekenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Als u het niet eens bent met deze uitspraak</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.   <?linebreak?></para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

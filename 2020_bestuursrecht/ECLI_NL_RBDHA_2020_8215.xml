@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:8215</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T13:59:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 5125</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8215">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8215</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T13:58:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:8215 Rechtbank Den Haag , 18-08-2020 / AWB - 19 _ 5125</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:8215:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Paspoortaanvraag niet in behandeling genomen, want eiser heeft (door afstand) het Nederlanderschap verloren.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:8215:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/5125</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 18 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: J.N. Dankoor),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Buitenlandse Zaken, verweerder</bridgehead>
+    <para>(gemachtigde: mr. L.H.T. Geuzendam).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 april 2019 (het primaire besluit) heeft verweerder de aanvraag van eiser voor een Nederlands paspoort niet in behandeling genomen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 28 juni 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 7 juli 2020.</para>
+      <para>Eiser en verweerder hebben zich laten vertegenwoordigen door hun gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser is geboren op [geboortedag] 1963 in [geboorteplaats] , Suriname. Eiser heeft bij geboorte de Nederlandse nationaliteit verkregen. Op 25 november 1975 verkreeg eiser, in navolging van zijn ouders, de Surinaamse nationaliteit op grond van de Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname. Eiser heeft toen van rechtswege het Nederlanderschap verloren. </para>
+    <parablock>
+      <para>	Eiser heeft zich op 28 november 2000 voor het eerst in Nederland gevestigd en heeft bij Koninklijk Besluit van 18 juli 2001 het Nederlanderschap verkregen. </para>
+      <para>	Bij brief van 12 januari 2009 is door de Sociale Verzekeringsbank aan eiser een remigratie‑uitkering toegekend. Bij resolutie van 25 oktober 2010 van de President van Suriname heeft eiser door naturalisatie de Surinaamse nationaliteit gekregen. Daaruit blijkt voorts dat eiser sinds 5 maart 2009 weer staat ingeschreven in het Bevolkingsregister van [woonplaats] . Eiser heeft door verkrijging van de Surinaamse nationaliteit de Nederlandse niet verloren, aangezien hij onder een van de uitzonderingen van artikel 15, tweede lid, aanhef en onder a of b, van de Rijkswet op het Nederlanderschap (hierna: RWN) viel. Op 23 juni 2011 heeft eiser evenwel bij de ambassade een verklaring van afstand van het Nederlanderschap afgelegd, welke op dezelfde datum door de ambassade is bevestigd. Op 23 mei 2012 werd eiser uitgeschreven uit de Basisregistratie Personen van de gemeente Rotterdam, wegens emigratie naar Suriname.</para>
+      <para>	Eiser heeft op 26 april 2018 een Nederlands paspoort aangevraagd. </para>
+    </parablock>
+    <para />
+    <para>2. Verweerder heeft de aanvraag buiten behandeling gesteld, omdat eiser door zijn afstandsverklaring op 23 juni 2011 niet langer de Nederlandse nationaliteit heeft. Verweerder heeft dit besluit in bezwaar gehandhaafd.</para>
+    <para />
+    <para>3. Ingevolge artikel 9 van de Paspoortwet heeft iedere Nederlander binnen de grenzen bij deze wet bepaald, recht op een nationaal paspoort, geldig voor tien jaren en voor alle landen.</para>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 28, eerste lid, van de Paspoortwet verschaft de in artikel 26 bedoelde autoriteit zich de nodige zekerheid over de identiteit en de nationaliteit van de aanvrager, en indien deze geen Nederlander is, tevens met betrekking tot diens verblijfstitel.</para>
+      <para>	Ingevolge het tweede lid kan de aanvrager worden verzocht in verband met het in het eerste lid bedoelde onderzoek de nodige bewijsstukken over te leggen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 9, eerste lid, van de Paspoortuitvoeringsregeling Buitenland 2001 (hierna: Pub) wordt voor het verkrijgen van de nodige zekerheid over het Nederlanderschap van de aanvrager gebruik gemaakt van het door deze overgelegde Nederlandse reisdocument, alsmede van de door de aanvrager bij de aanvraag verstrekte gegevens.</para>
+      <para>	Ingevolge het vierde lid wordt indien onzekerheid blijft bestaan over het Nederlanderschap van de aanvrager daarnaar een gericht onderzoek ingesteld. Dit onderzoek omvat zoveel mogelijk verificatie van de nationaliteit met behulp van door de aanvrager over te leggen documenten die zijn afgegeven door een bevoegde autoriteit, waaronder zijn geboorteakte, en eventuele andere bewijsstukken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 52, eerste lid, van de Pub wordt een aanvraag waarbij niet is voldaan aan het bepaalde in de artikelen 9 tot en met 51 niet in behandeling genomen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 15, eerste lid, van de RWN gaat het Nederlanderschap voor een meerderjarige verloren:</para>
+    </parablock>
+    <para>a. door het vrijwillig verkrijgen van een andere nationaliteit;</para>
+    <para>b. door het afleggen van een verklaring van afstand;</para>
+    <parablock>
+      <para>(…).</para>
+      <para>	Ingevolge het tweede lid is het eerste lid, aanhef en onder a, niet van toepassing op de verkrijger:</para>
+    </parablock>
+    <para>a. die in het land van die andere nationaliteit is geboren en daar ten tijde van de verkrijging zijn hoofdverblijf heeft;</para>
+    <para>b. die voor het bereiken van de meerderjarige leeftijd gedurende een onafgebroken periode van tenminste vijf jaren in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad; of</para>
+    <para>c. die gehuwd is met een persoon die die andere nationaliteit bezit.</para>
+    <para />
+    <para>4. Eiser betoogt dat hij gebruik heeft gemaakt van een remigratie-uitkering en dat hij krachtens de Remigratiewet binnen twee jaar na aankomst in Suriname moest kiezen voor de Surinaamse nationaliteit, waardoor van rechtswege de Nederlandse nationaliteit kwam te vervallen. Een ambtenaar van de Nederlandse ambassade heeft eiser toen ten onrechte gesommeerd afstand te doen van zijn Nederlandse paspoort. Voorts betoogt eiser geen gevaar te vormen voor de openbare orde, de goede zeden, de volksgezondheid of de veiligheid van de Staat.</para>
+    <para />
+    <para>5. De rechtbank overweegt als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Verweerder heeft zich op het standpunt gesteld dat eiser zijn Nederlandse nationaliteit niet van rechtswege heeft verloren door verkrijging van de Surinaamse nationaliteit op 25 oktober 2010. In de resolutie van die datum tot verkrijging van de Surinaamse nationaliteit staat vermeld dat de resolutie kan worden ingetrokken indien eiser heeft nagelaten, na de totstandkoming van zijn naturalisatie, al het mogelijke te doen om zijn vorige nationaliteit te verliezen. Niet in geschil is dat eiser op 23 juni 2011 afstand heeft gedaan van zijn Nederlandse nationaliteit en daarmee heeft voldaan aan deze voorwaarde in de resolutie. Daarmee verschilt deze zaak met de rechtsfeiten zoals die voorlagen in de uitspraak van 26 juni 2015 van de Hoge Raad (ECLI:NL:HR:2015:1749), waarnaar eiser heeft verwezen. Ten aanzien van de stelling van eiser dat de ambtenaar van de ambassade hem heeft gesommeerd een afstandsverklaring te tekenen heeft verweerder er terecht op gewezen dat eiser deze stelling niet met stukken heeft onderbouwd. Het is de rechtbank voorts niet gebleken dat eiser gehouden was om gebruik te maken van de remigratie-uitkering en derhalve de Surinaams nationaliteit aan te vragen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Verweerder heeft zich dan ook terecht op het standpunt gesteld dat eiser de Nederlandse nationaliteit niet heeft en daarom aan hem geen Nederlands paspoort kan worden verstrekt. De vraag of eiser een gevaar vormt voor de openbare orde, de goede zeden, de volksgezondheid of de veiligheid van de Staat doet daarbij niet ter zake.</para>
+      <para />
+      <para>6. Het beroep is ongegrond.</para>
+      <para />
+      <para>7. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.M. Meijers, rechter, in aanwezigheid van mr. A. Nobel, griffier. Deze uitspraak is gedaan op 18 augustus 2020. Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

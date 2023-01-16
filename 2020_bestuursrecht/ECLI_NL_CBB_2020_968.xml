@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:968</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-15T13:40:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/566, 18/1121 t/m 1124</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#schadevergoedingsuitspraak">Schadevergoedingsuitspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0039205&amp;g=2020-01-01">Regeling fosfaatreductieplan 2017</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:968">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:968</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-14T08:43:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:968 College van Beroep voor het bedrijfsleven , 15-12-2020 / 18/566, 18/1121 t/m 1124</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:968:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Regeling Fosfaatreductieplan 2017, grondslag Regeling, referentieaantal door verweerder juist vastgesteld, geen individuele buitensporige last, bestreden besluiten onvoldoende gemotiveerd, overschrijding redelijke termijn.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:968:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummers: 18/566, 18/1121, 18/1122, 18/1123 en 18/1124 <?linebreak?></para>
+    </parablock>
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 15 december 2020 in de zaken tussen</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">Vennootschap onder firma [naam]</emphasis>, te [plaats] (gemeente [gemeente] ), appellante</para>
+      <para>(gemachtigde: ir. S. Boonstra)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. J.G. Biesheuvel) </para>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staat der Nederlanden (minister van Justitie en Veiligheid).</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <parablock>
+      <para>
+        <?linebreak?>
+        <emphasis role="underline">Zaak nummer 18/566</emphasis>
+      </para>
+      <para>Bij besluit van 18 september 2017 (primair besluit 1) heeft verweerder het verzoek van appellante om de Regeling Fosfaatreductieplan 2017 (de Regeling) buiten werking te stellen toegewezen. </para>
+      <para>Bij besluit van 22 maart 2018 (bestreden besluit 1) heeft verweerder het bezwaar van appellante tegen primair besluit 1 ongegrond verklaard.</para>
+      <para>Appellante heeft beroep ingesteld tegen het bestreden besluit 1. Dit beroep heeft zaak nummer 18/566 gekregen. </para>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+      <para>
+        <emphasis role="underline">Zaak nummers 18/1121, 18/1122, 18/1123 en 18/1124</emphasis>
+      </para>
+      <para>Bij besluiten van 2 december 2017, 6 december 2017 en 9 december 2017 (de primaire besluiten 2, 3 en 4) heeft verweerder op grond van de Regeling aan appellante een bonusgeldsom toegekend van € 83,- voor periode 1, van € 497,- voor periode 2 en van € 43,- voor periode 3.</para>
+      <para>Bij besluit van 16 december 2017 (primair besluit 5) heeft verweerder op grond van de Regeling aan appellante een heffing opgelegd van € 4.440,- voor periode 4.</para>
+      <para>Bij onderscheiden besluiten van 2 mei 2018 (de bestreden besluiten 2 tot en met 5) heeft verweerder de bezwaren van appellante tegen de primaire besluiten 2 tot en met 5 ongegrond verklaard. </para>
+      <para>Appellante heeft beroep ingesteld tegen ieder van de bestreden besluiten 2 tot en met 5. De beroepen hebben de zaak nummers 18/1121, 18/1122, 18/1123 en 18/1124 gekregen.</para>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft een nader stuk ingediend.</para>
+      <para>Het onderzoek ter zitting in alle vijf de zaak nummers heeft plaatsgevonden op 30 september 2020. Appellante en verweerder hebben zich laten vertegenwoordigen door hun gemachtigden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 27 oktober 2020 heeft het College in deze vijf zaken uitspraak gedaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 8 december 2020 heeft het College de uitspraak van 27 oktober 2020 vervallen verklaard, omdat is gebleken dat hij bij de behandeling en beoordeling van de zaken geen kennis had genomen van door appellante bij brieven van 18 juni 2020 gedane verzoeken om schadevergoeding wegens overschrijding van de redelijke termijn. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 27 november 2020 heeft verweerder gereageerd op de door appellante gedane verzoeken om schadevergoeding wegens overschrijding van de redelijke termijn. </para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <?linebreak?>Overwegingen </title>
+    <para />
+    <para>1. <?linebreak?>De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel vrouwelijke runderen houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot hun referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen, verminderd met 4% – met uitzondering van grondgebonden bedrijven – en omgerekend naar grootvee-eenheden (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer vrouwelijke runderen houdt dan het referentieaantal. Verweerder kent een bonusgeldsom toe indien een melkveehouder minder vrouwelijke runderen houdt dan het referentieaantal.</para>
+    <para>2. De Regeling kent twee soorten heffingen, de hoge geldsom en de solidariteitsgeldsom. Welke heffing wordt opgelegd is mede afhankelijk van de vraag of in de betreffende periode het doelstellingsaantal is behaald. Het doelstellingsaantal is het aantal op 1 oktober 2016 geregistreerde runderen, verminderd met het voor de betreffende periode vastgestelde verminderingspercentage, met dien verstande dat het doelstellingsaantal nooit lager is dan het referentieaantal. Verweerder legt een hoge geldsom op indien in de betreffende periode meer GVE worden gehouden dan het doelstellingsaantal. De hoogte van de hoge geldsom bedraagt € 480,- voor elke GVE boven het referentieaantal. Een bedrijf dat inkrimpt tot het doelstellingsaantal, maar niet tot het referentieaantal, krijgt een solidariteitsgeldsom opgelegd van € 112,- voor elke GVE boven het referentieaantal.</para>
+    <para>3. Appellante exploiteert een melkveehouderij. Verweerder heeft appellante voor periode 1 tot en met 3 een bonusgeldsom toegekend, omdat het gemiddeld aantal runderen op haar bedrijf in ieder van die periodes lager was dan het referentieaantal. Voor periode 4 heeft verweerder appellante een hoge geldsom opgelegd, omdat het gemiddeld aantal runderen op haar bedrijf in die periode hoger was dan het doelstellingsaantal. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Zaak nummer 18/566</emphasis>
+        <?linebreak?>4.	Ter zitting heeft appellante te kennen gegeven het beroep in deze zaak niet te willen handhaven. Dit betekent dat aan bespreking van de in het kader van dit beroep aangevoerde gronden niet wordt toegekomen.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Zaak nummers 18/1121, 18/1122, 18/1123 en 18/1124</emphasis>
+        <?linebreak?>
+        <emphasis role="italic">Grondslag Regeling</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Appellante betoogt dat de Regeling niet op artikel 13, eerste lid, van de Landbouwwet kan worden gebaseerd, nu deze wet toeziet op de bevordering van de voortbrenging, de afzet en een redelijke prijsvorming van voortbrengselen van de landbouw. Krimp van het volledige rundveebestand staat hier haaks op. De onderliggende doelstelling van het behoud van derogatie maakt dit niet anders, aldus appellante.</para>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Zoals het College eerder heeft geoordeeld in de uitspraak van 21 augustus 2018 (ECLI:NL:CBB:2018:421), heeft de minister voldoende onderbouwd dat de Regeling een doel dient als bedoeld in artikel 13 van de Landbouwwet. Met verwijzing naar de overwegingen van die uitspraak moet worden geoordeeld dat  de Regeling een wettelijke grondslag heeft in artikel 13 van de Landbouwwet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Referentieaantal onjuist vastgesteld</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	Appellante betoogt dat verweerder haar referentieaantal onjuist heeft vastgesteld. Daartoe voert zij aan dat verweerder bij de vaststelling van de fosfaatrechten op 2 juli 2015 ervan uit is gegaan dat er 109 runderen, jonger dan één jaar, op haar bedrijf waren geregistreerd, terwijl hij er in het kader van de fosfaatreductie van uit is gegaan dat er op 2 juli 2015 105 runderen, jonger dan één jaar, op haar bedrijf waren geregistreerd. Volgens appellante had verweerder ook in het kader van de fosfaatreductie uit moeten gaan van het aantal van 109 runderen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Verweerder heeft uiteengezet dat de betreffende vier runderen in het kader van de fosfaatreductie terecht niet zijn meegenomen bij de vaststelling van het referentieaantal, omdat dit mannelijke dieren betreft. Op grond van artikel 1, eerste lid, aanhef en onder c, van de Regeling, gelezen in samenhang met dit artikellid, aanhef en onder d, wordt bij de vaststelling van het referentieaantal namelijk alleen gekeken naar het aantal vrouwelijke runderen dat op 2 juli 2015 bij het bedrijf van de melkveehouder geregistreerd staat. <?linebreak?>	Gelet hierop faalt het betoog. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Individuele buitensporige last</emphasis>
+        </para>
+        <para>
+          <?linebreak?>7.	Appellante betoogt dat verweerder heeft miskend dat voor haar sprake is van een individuele buitensporige last. In dat kader voert zij allereerst aan dat verweerder ten onrechte heeft gesteld dat voor het aannemen van een dergelijke last meer nodig is dan het enkel aangegaan zijn van een (forse) investeringsbeslissing. Volgens appellante strookt dit niet met het arrest van het gerechtshof Den Haag van 31 oktober 2017, ECLI:NL:GHDHA:2017:3067 en dient ieder bedrijf op zijn eigen merites te worden beoordeeld. Daarbij zijn de financiële gevolgen en de hoogte daarvan wel degelijk een grondslag voor de beoordeling van de fair balance op individueel niveau. Bovendien kunnen vraagtekens worden geplaatst bij de voorzienbaarheid van de maatregelen, aldus appellante. <?linebreak?>	Verder voert appellante in dit kader aan dat zij naast de investeringsverplichtingen nog een andere omstandigheid heeft aangevoerd die maakt dat in haar geval sprake is van een individuele buitensporige last, te weten dat de overname van het bedrijf bij uittreding van de ouders onmogelijk is geworden. Verweerder heeft hier ten onrechte geen aandacht aan besteed en haar bedrijf niet op haar eigen merites beoordeeld. Dat in haar geval sprake is van een individuele buitensporige last volgt uit de onafhankelijk opgestelde rapportage ‘zware toets’, aldus appellante.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>De wetgever heeft de productie van fosfaat in de melkveehouderij aan banden willen leggen, omdat de Nederlandse veehouderij in 2015 meer fosfaat heeft geproduceerd dan is toegestaan op basis van Europese afspraken en juist in de melkveehouderij de fosfaatproductie sterk is toegenomen. De wetgever heeft hiertoe op 1 januari 2018 het stelsel van fosfaatrechten ingevoerd. Verder heeft hij besloten om melkveehouders in 2017 – het jaar voorafgaand aan de invoering van het fosfaatrechtenstelsel – te stimuleren hun fosfaatproductie terug te brengen tot het referentieaantal. Hiertoe heeft de wetgever de Regeling tot stand gebracht. De Regeling maakt deel uit van een maatregelenpakket dat tot doel heeft de fosfaatproductie in Nederland voor het einde van 2017 terug te brengen tot het niveau dat als voorwaarde is verbonden aan de derogatiebeschikking Nitraatrichtlijn. Op basis van de Regeling kan verweerder heffingen opleggen aan melkveehouders die meer GVE houden dan het referentieaantal en bonusgeldsommen toekennen aan melkveehouders die minder GVE houden dan op de peildatum. Met de Regeling beoogt de wetgever – kort samengevat – dat de melkveehouders het aantal GVE terugbrengen. Het opleggen van heffingen en het toekennen van bonusgeldsommen zijn de middelen om dit doel te bewerkstelligen. Vanwege de hoogte van deze geldbedragen worden melkveehouders belemmerd in het ongestoord blijven uitvoeren van de gebruikelijke bedrijfsvoering of in plannen om de bedrijfsvoering in een zelfgekozen richting te veranderen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>De inbreuk op het eigendomsrecht ontstaat door de vaststelling van het referentieaantal. Als gevolg daarvan kan de melkveehouder namelijk niet meer runderen houden dan het referentieaantal, zonder dat aan hem heffingen worden opgelegd. De last die de individuele melkveehouder te dragen heeft bestaat eruit dat het hem niet vrijstaat zijn melkveebedrijf voort te zetten of uit te breiden op een zelfgekozen wijze, omdat aan hem dan heffingen kunnen worden opgelegd. Ook een melkveehouder aan wie verweerder bonusgeldsommen heeft toegekend draagt deze last. Voor een melkveehouder aan wie verweerder heffingen heeft opgelegd omdat hij zijn veestapel niet of onvoldoende heeft teruggebracht, bestaat de last, naast de beperking van de bedrijfsvoering, uit deze heffingen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>Het College heeft onder meer in zijn uitspraak van 21 augustus 2018, ECLI:NL:CBB:2018:419, onder 9.1 en verder, geoordeeld dat de Regeling als zodanig niet in strijd is met artikel 1 van het EP. De volgende vraag is of de Regeling in het geval van appellante zodanig uitwerkt, dat in haar geval sprake is van een individuele en buitensporige last.</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Bij de beoordeling of de last voor de betrokken melkveehouder buitensporig is, weegt het College alle betrokken belangen van het individuele geval. In dat verband is vooral de mate waarin het in de Regeling opgenomen stelsel van maatregelen de individuele melkveehouder raakt relevant. Niet ieder inkomens- of vermogensverlies als gevolg van de opgelegde heffingen en de inperking van de exploitatiemogelijkheden – waardoor bijvoorbeeld ook investeringen nutteloos of beperkt nuttig zijn geworden – als gevolg van de tenuitvoerlegging van de Regeling vormt een buitensporige last.</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.5</nr>
+      <para>Voor de situatie waarin sprake is van een uitbreiding van het bedrijf, zoals in het geval van appellante, is verder van belang of en zo ja op welk moment, in welke mate en met welke noodzaak of andere motieven de melkveehouder zijn bedrijf legaal heeft uitgebreid op grond van door de overheid verleende vergunningen voor het houden van specifieke aantallen melkvee en daartoe onomkeerbare investeringen is aangegaan (vergelijk de uitspraak van het College in het fosfaatrechtenstelsel van 23 juli 2019, ECLI:NL:CBB:2019:291, onder 6.8.2).</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.6</nr>
+      <para>Bij de beoordeling of de last buitensporig is, staat verder voorop dat de beslissingen van melkveehouders om te investeren in productiemiddelen als stallen, grond, melkvee en machines, om deze te verhuren of te verkopen, of om bestaande stalruimte (nog) niet te benutten, moeten worden gezien als ondernemersbeslissingen waaraan risico’s inherent zijn. Het College hanteert als uitgangspunt dat de individuele melkveehouder zelf de gevolgen van die risico’s draagt en dat niet ieder vermogensverlies als gevolg van het fosfaatrechtenstelsel een individuele en buitensporige last vormt. Dit uitgangspunt wordt alleen bij uitzondering verlaten. Daarvoor moet dan wel de ondernemersbeslissing in de gegeven omstandigheden – wat betreft het tijdstip waarop de beslissing is genomen, de omstandigheden waaronder de beslissing is genomen, de mate waarin en de reden waarom is geïnvesteerd – navolgbaar zijn, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren en waarover het College in zijn hiervoor aangehaalde uitspraak van 23 juli 2019 (onder 6.7.5.4) heeft geoordeeld. Bovendien moeten er goede redenen zijn om aan te nemen dat geen evenwicht bestaat tussen de belangen die zijn gediend met de Regeling (het behoud van de derogatie in het belang van de gehele melkveesector) en de belangen van de melkveehouder (vergelijk de uitspraak van het College van 25 februari 2020, ECLI:NL:CBB:2020:114, onder 6.9).</para>
+    </paragroup>
+    <paragroup>
+      <nr>7.7</nr>
+      <para>Over de betekenis van financiële rapportages als bewijsmiddel, heeft het College in de hiervoor aangehaalde uitspraak van 25 februari 2020 (onder 6.13) overwogen dat hij daaraan slechts beperkte waarde toekent. Dat een rapportage aangeeft dat bedrijfscontinuering door het in de Regeling opgenomen stelsel van maatregelen niet realistisch is, laat met name zien dat de last substantieel is en vormt verder een factor van belang in de uiteindelijke beoordeling of er goede redenen zijn om de belangen van de melkveehouder zwaarder te laten wegen dan de belangen die gediend zijn met het de Regeling, maar betekent op zichzelf genomen niet dat de last ook individueel en buitensporig is. Omgekeerd is het ook niet zo dat een dergelijke last slechts wordt aangenomen indien de bedrijfscontinuïteit op het spel staat.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.8</nr>
+      <para>Appellante heeft gesteld dat zij door de Regeling onevenredig wordt geraakt. In dat kader heeft zij toegelicht dat zij op 2 februari 2015, na een voorbereiding van circa twee jaar, een bedrijfslocatie met woning, boerderij, ligboxenstal en diverse bouwwerken voor het houden van 200 stuks jongvee heeft aangekocht en 69 hectare grasland in erfpacht heeft gekregen. Hiermee werd een uitbreiding van het bedrijf mogelijk gemaakt naar 285 melkkoeien en bijbehorend jongvee (in totaal 361 GVE). Deze uitbreiding zou in drie jaar gerealiseerd moeten worden en was dus op 2 juli 2015, toen zij 310 GVE had, nog niet gerealiseerd. Doel van de uitbreiding was om als gezinsbedrijf met ouders en drie zonen een bestaan uit de melkveehouderij te halen en uiteindelijk de overname van het bedrijf van de ouders door de drie zonen. <?linebreak?>	Ter onderbouwing van haar standpunt dat zij financieel onevenredig is geraakt heeft appellante een overzicht van haar financiën en de gevolgen van de Regeling daarvoor, opgesteld door Admin Agras BV, overgelegd. In dat overzicht zijn de opbrengsten, de kosten, de afschrijvingen en de nettowinst van het jaar 2016/2017, van de GVE reductie in 2017 en van hetgeen vergund is tegen elkaar afgezet. Volgens appellante blijkt hieruit dat zij circa € 110.000,00 schade heeft geleden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.9</nr>
+      <para>Verweerder heeft zich terecht op het standpunt gesteld dat appellante een groot risico heeft genomen met de keuze voor uitbreiding in een laat stadium, vlak voor de productiebeperkende maatregelen. Toen was immers al voorzienbaar dat dergelijke maatregelen genomen zouden kunnen gaan worden. Appellante heeft toegelicht dat het doel van de uitbreiding was dat zowel de ouders als de drie zonen van de melkveehouderij konden leven en de zonen het bedrijf uiteindelijk konden overnemen. Dit betekent evenwel niet dat de uitbreiding vanuit een bedrijfseconomisch perspectief noodzakelijk was; ook zonder uitbreiding was het bedrijf immers levensvatbaar. De keuze om uit te breiden zodat meer gezinnen dan voorheen van het bedrijf zouden kunnen leven is een ondernemerskeuze. Dat, naar appellante heeft gesteld, de uiteindelijke overname van het bedrijf door de drie zonen op losse schroeven is komen te staan doordat de beoogde uitbreiding niet kan worden gerealiseerd, is een gevolg van deze ondernemerskeuze en maakt niet dat er sprake is van een individuele buitensporige last. <?linebreak?>	Gezien het moment waarop de investeringen zijn gedaan en het ontbreken van een noodzaak voor het doen van die investeringen acht het College die beslissingen, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren waarover het College in de hiervoor aangehaalde uitspraak van 23 juli 2019 (onder 6.7.5.4) heeft geoordeeld, niet navolgbaar.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.10</nr>
+      <para>Het College realiseert zich dat appellante door de tenuitvoerlegging van de Regeling financieel wordt geraakt. Uit hetgeen hiervoor is overwogen vloeit evenwel voort dat appellante zelf de risico’s die zijn verbonden aan haar investeringsbeslissingen dient te dragen.<?linebreak?>	Het betoog faalt in zoverre.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.11</nr>
+      <para>Appellante betoogt evenwel terecht dat verweerder in de bestreden besluiten ten onrechte niet is ingegaan op haar specifieke omstandigheden en op al haar bezwaargronden. Gelet hierop zijn die besluiten in strijd met artikel 7:12, eerste lid, van de Algemene wet bestuursrecht (Awb) niet deugdelijk gemotiveerd. Deze besluiten komen voor vernietiging in aanmerking. Nu, gelet op het voorgaande, verweerder evenwel de bonusgeldsommen en de hoge geldsom voor de periode 1 tot en met 4 juist heeft vastgesteld, ziet het College aanleiding de rechtsgevolgen van de vernietigde besluiten in stand te laten.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overschrijding redelijke termijn</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>8.	Appellante heeft om schadevergoeding verzocht wegens overschrijding van de redelijke termijn als bedoeld in artikel 6 van het EVRM. Het College stelt vast dat deze termijn is verstreken. Het gaat hier om niet‑punitieve procedures die volgen op primaire besluiten die zijn bekend gemaakt na 1 februari 2014. In dat geval geldt als uitgangspunt dat de bezwaar- en beroepsfase tezamen niet langer mogen duren dan twee jaar. Daarbij mag de behandeling van het bezwaar ten hoogste een half jaar en de behandeling van het beroep ten hoogste anderhalf jaar duren. Dit behoudens factoren die onder omstandigheden aanleiding kunnen geven overschrijding van deze behandelingsduren gerechtvaardigd te achten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Verweerder heeft de bezwaarschriften tegen de primaire besluiten van 2 en 6 december 2017 op 14 december 2017 ontvangen. Op het moment van het doen van deze uitspraak is de tweejaartermijn met één jaar en een dag overschreden. Van factoren die onder omstandigheden aanleiding kunnen geven overschrijding van de behandelingsduur gerechtvaardigd te achten is geen sprake. Uitgaande van een forfaitair tarief van € 500,- per half jaar dat de redelijke termijn is overschreden, heeft appellante daarom recht op een vergoeding van € 1.500,- aan immateriële schade. Vanwege de onderlinge samenhang wordt dat bedrag voor alle zaken gezamenlijk toegekend, waarbij voor de aanvang van de redelijke termijn is uitgegaan van het eerst ingediende bezwaarschrift.<?linebreak?>	Omdat de behandeling van de bezwaren minder dan een half jaar in beslag heeft genomen, terwijl de behandeling van het beroep meer dan anderhalf jaar heeft geduurd, is de overschrijding volledig toe te rekenen aan het College. Het College zal daarom op de voet van artikel 8:88 van de Awb de Staat der Nederlanden veroordelen tot betaling van € 1.500,- aan appellante.<?linebreak?><emphasis role="bold">Conclusie</emphasis></para>
+      <para />
+      <para>9. De beroepen zijn gegrond. De vier bestreden besluiten van 2 mei 2018 dienen te worden vernietigd vanwege strijd met artikel 7:12, eerste lid, van de Awb. Het College zal bepalen dat de rechtsgevolgen van deze vernietigde besluiten volledig in stand worden gelaten. </para>
+      <para />
+      <para>10. Appellante heeft recht op een vergoeding van € 1.500,- aan immateriële schade wegens overschrijding van de redelijke termijn. Omdat deze overschrijding volledig aan het College is toe te rekenen, dient de Staat de in het kader van de verzoeken door appellante gemaakte proceskosten eveneens te vergoeden. Het College stelt deze kosten op grond van het Besluit proceskosten bestuursrecht (Bpb) vast op € 393,75. Daarbij is uitgegaan van 1 punt tegen een waarde van € 525,- per punt, betreffende vier of meer samenhangende zaken (wegingsfactor 1,5) van licht gewicht (wegingsfactor 0,5).<?linebreak?>11.	Het College veroordeelt verweerder in de overige door appellante gemaakte proceskosten in beroep. <?linebreak?>	Deze kosten stelt het College op grond van het Bpb voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.575,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1,5 vanwege vier of meer samenhangende zaken). <?linebreak?>	Over de kosten van het opstellen van het deskundigenrapport wordt als volgt overwogen. Volgens vaste rechtspraak komen de kosten van inschakeling van een deskundige voor vergoeding in aanmerking als het inschakelen van de deskundige redelijk was en de deskundigenkosten zelf redelijk zijn. Ter bepaling of het inroepen van een deskundige, zoals hier aan de orde, redelijk was, kan in het algemeen als maatstaf worden gehanteerd of degene die deze deskundige heeft ingeroepen, gezien de feiten en omstandigheden zoals die bestonden ten tijde van inroeping, ervan uit mocht gaan dat de deskundige een relevante bijdrage zou leveren aan een voor hem gunstige beantwoording door de rechter van een voor de uitkomst van het geschil mogelijk relevante vraag. <?linebreak?>	Verweerder heeft met de informatie op zijn website, waarmee hij melkveehouders heeft bericht met welke stukken kan worden aangetoond dat sprake is van een individuele buitensporige last en welke informatie deze stukken moeten bevatten, de indruk gewekt dat een financiële rapportage een relevante bijdrage zou leveren aan een voor appellante gunstige beantwoording door de rechter van de vraag of sprake is van een individuele buitensporige last (zie de eerdergenoemde uitspraak van het College van 25 februari 2020, onder 5.3 en 6.13). Gelet hierop was het inroepen van een financieel deskundige redelijk. 	Het College acht de gevraagde vergoeding van deskundigenkosten van 12 uur redelijk. Gelet op artikel 2, eerste lid, aanhef en onder b, van het Bpb, in samenhang gelezen met artikel 8:36, tweede lid, van de Awb en artikel 6 van het Besluit tarieven in strafzaken 2003, geldt voor de vergoeding van het rapport een maximum uurtarief van € 121,95, het tarief dat gold ten tijde van het opstellen daarvan. Het te vergoeden bedrag voor het opstellen van het deskundigenrapport is derhalve € 1.463,40. Dit bedrag dient te worden vermeerderd met de daarover verschuldigde omzetbelasting.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>- verklaart de beroepen gegrond;<?linebreak?>- vernietigt de besluiten van 2 mei 2018 met kenmerken 494‑10759, 494‑10785, 494‑12491 en 494-12493;<?linebreak?>- bepaalt dat de rechtsgevolgen van deze besluiten in stand blijven;<?linebreak?>- veroordeelt de Staat der Nederlanden (minister van Justitie en Veiligheid) om aan appellante een vergoeding voor immateriële schade van € 1.500,- te betalen;<?linebreak?>- veroordeelt de Staat der Nederlanden (minister van Justitie en Veiligheid) in de proceskosten van appellante tot een bedrag van € 393,75;<?linebreak?>- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 3.038,40, waarvan € 1.463,40 kosten van een deskundige betreft, zodat dit bedrag moet worden vermeerderd met de daarover verschuldigde omzetbelasting; - bepaalt dat verweerder het betaalde griffierecht van € 1.352,- aan appellante dient te vergoeden.<?linebreak?></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.A. Hagen, in aanwezigheid van mr. I.S. Ouwehand, griffier. De beslissing is in het openbaar uitgesproken op 15 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. J.A. Hagen		w.g. I.S. Ouwehand<?linebreak?></para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

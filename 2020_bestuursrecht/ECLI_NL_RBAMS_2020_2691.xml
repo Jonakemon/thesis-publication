@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:2691</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-09T09:19:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/4779</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2691">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2691</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-09T09:18:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:2691 Rechtbank Amsterdam , 30-04-2020 / AMS 19/4779</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:2691:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Beëindiging Ziektewetuitkering.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:2691:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/4779 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te Amsterdam, eiser</bridgehead>
+    <para>(gemachtigde: mr. J. Yoshikawa), </para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, </emphasis>verweerder</para>
+      <para>(gemachtigde: Y. Huisman).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Op 4 juni 2019 heeft verweerder de Ziektewetuitkering van eiser met ingang van 5 juli 2019 beëindigd (het primaire besluit).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 5 september 2019 heeft verweerder het bezwaar van eiser ongegrond verklaard (het bestreden besluit). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft beroep ingesteld. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen waren uitgenodigd voor een zitting op 14 april 2020. In verband met de uitbraak van het coronavirus heeft eiser de rechtbank op 17 maart 2020 verzocht om uitspraak te doen zonder zitting. Verweerder heeft met dat verzoek ingestemd. Omdat de overgelegde stukken in deze zaak naar het oordeel van de rechtbank voldoende inzicht bieden in de standpunten van partijen en partijen niet in hun belangen worden geschaad, sluit de rechtbank het onderzoek en zal zij uitspraak doen zonder zitting.<footnote-ref linkend="_716ff322-4a03-4ac7-b07a-4987a416f1d0" /></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wat aan dit beroep voorafging</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eiser was werkzaam als medewerker spoelkeuken. Hij heeft zich op 11 oktober 2017 ziek gemeld. Het dienstverband van eiser is per 14 november 2017 geëindigd. Vanaf dat moment heeft eiser een ZW-uitkering ontvangen. </para>
+    <para />
+    <para>2. In het kader van de zogeheten eerstejaars Ziektewetbeoordeling heeft een medisch en arbeidskundig onderzoek plaatsgevonden. De bevindingen daarvan zijn neergelegd in het rapport van de verzekeringsarts van 16 april 2019 en het rapport van de arbeidsdeskundige van 3 juni 2019. De conclusie van de onderzoeken is dat eiser per 27 mei 2019 meer dan 65% kan verdienen van het loon dat hij verdiende voordat hij ziek werd. Op basis van deze conclusie heeft verweerder de ZW-uitkering van eiser beëindigd.</para>
+    <para>3. Eiser heeft bezwaar gemaakt tegen het primaire besluit. Naar aanleiding daarvan heeft verweerder opnieuw medisch en arbeidskundig onderzoek laten uitvoeren. De bevindingen van dat onderzoek zijn neergelegd in het rapport van de verzekeringsarts bezwaar en beroep van 2 september 2019 en in het rapport van de arbeidsdeskundige bezwaar en beroep van 4 september 2019. De conclusie van dat onderzoek is onveranderd. Eiser kan tenminste 65% van zijn oude loon verdienen. </para>
+    <para />
+    <para>4. In het bestreden besluit heeft verweerder deze bevinden overgenomen en beslist dat eiser geen recht meer heeft meer op een ZW-uitkering. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het standpunt van eiser</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. In beroep voert eiser aan dat zijn klachten de afgelopen twee jaar zijn verergerd. Hij heeft last van benauwdheid, een hoge bloeddruk, hartklachten, rugklachten, vermoeidheidsklachten en depressieve klachten. Volgens eiser hadden meer beperkingen en in ieder geval een verdergaande urenbeperking moeten worden aangenomen. Ter onderbouwing van zijn standpunt verwijst eiser naar diverse stukken van de behandelend sector. Als gevolg van deze klachten en beperkingen is hij niet in staat om te werken. Het medisch onderzoek is volgens eiser onzorgvuldig verricht, alleen al omdat de verzekeringsarts bezwaar en beroep geen aanvullend lichamelijk onderzoek heeft verricht. Hij verzoekt de rechtbank een onafhankelijke deskundige te benoemen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beoordeling door de rechtbank </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De medische beoordeling </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. De rechtbank stelt bij haar beoordeling voorop dat het beoordelingsmoment van de medische toestand van eiser 27 mei 2019 is. Voor de beoordeling zijn verder alleen de beperkingen van eiser die het gevolg zijn van medisch objectiveerbare ziektes of gebreken van belang. </para>
+    <para />
+    <para>7. De rechtbank overweegt dat als uitgangspunt geldt dat verweerder in beginsel mag afgaan op de juistheid van de bevindingen van een verzekeringsarts. Dit is anders wanneer het onderzoek van de verzekeringsarts niet zorgvuldig of niet volledig is geweest, inconsistenties bevat of andere gebreken vertoont, dan wel dat het gemotiveerd wordt betwist aan de hand van andere medische rapportages.</para>
+    <para />
+    <para>8. De rechtbank is van oordeel dat het onderzoek van de verzekeringsarts bezwaar en beroep voldoet aan de gestelde eisen. Daarbij is voor de rechtbank van belang dat de verzekeringsarts bezwaar en beroep kennis heeft genomen van het rapport van de eerste verzekeringsarts, het medisch dossier van eiser heeft bestudeerd en de beschikbare medische informatie uit de behandelend sector bij zijn beoordeling heeft betrokken. Daarnaast heeft hij eiser gezien op de hoorzitting van 23 juli 2019. Aangezien de eerste verzekeringsarts onafhankelijk is, kan verzekeringsarts bezwaar en beroep zijn beoordeling in beginsel op diens rapportage baseren. Dat na bezwaar niet opnieuw lichamelijk onderzoek heeft plaatsgevonden, maakt niet dat het medisch onderzoek onzorgvuldig is. In de medische rapportage van de verzekeringsarts bezwaar en beroep worden de bevindingen naar aanleiding van het onderzoek helder omschreven. Er wordt uitgelegd waarom er naast de reeds aangenomen beperkingen in de rubrieken persoonlijk en sociaal functioneren, dynamische handelingen, statische houdingen en werktijden geen extra beperkingen worden aangenomen. Ook wordt uitgelegd waarom de klachten van eiser niet van zodanige aard zijn dat hij niet als volledig arbeidsongeschikt kan worden beschouwd. Volgens de verzekeringsarts is eiser beperkt in zijn fysieke en psychische mogelijkheden, maar niet zodanig dat sprake is van een situatie van ‘geen benutbare mogelijkheden’.</para>
+    <para />
+    <para>9. De rechtbank volgt eiser niet in zijn standpunt dat verdergaande beperkingen hadden moeten worden aangenomen voor zijn psychische klachten. De verzekeringsarts heeft voor deze klachten al de beperkingen aangenomen dat eiser is aangewezen op werkzaamheden zonder veel deadlines of productiepieken en conflicten in direct contact moet vermijden. Ook fysiek zwaar werk wordt niet passend geacht gezien de energetische klachten. Dat er meer beperkingen aangenomen hadden moeten worden, zoals eiser betoogt, blijkt ook niet uit de overgelegde medische stukken. Uit de verwijsbrief van 12 december 2019 volgt dat eiser wordt doorverwezen naar specialistische GGZ vanwege een posttraumatische stressstoornis (PTSS). Dat eiser doorverwezen is met een diagnose betekent echter niet zonder meer dat op de datum in geding, 27 mei 2019, ook al sprake was van PTSS. De rechtbank neemt daarbij in aanmerking dat de verzekeringsarts bezwaar en beroep in de nadere rapporten van 3 oktober 2019 en 10 februari 2020 aangeeft, dat zowel hij als de eerste verzekeringsarts geen relevante psychopathologie hebben gezien. Ook merkt de verzekeringsarts bezwaar en beroep op dat de verwijzing geen onderzoeksbevindingen bevat of uitleg hoe tot deze diagnose is gekomen. Hoewel de rechtbank zich realiseert dat psychische klachten niet zomaar van de een op de andere dag toeslaan, geeft de door eiser overgelegde informatie onvoldoende aanknopingspunten voor het oordeel dat eiser al op de datum in geding verdergaande psychische beperkingen had dan bij de medische beoordeling van de verzekeringsarts in aanmerking zijn genomen.</para>
+    <para />
+    <para>10. Eiser heeft aangegeven dat zijn hartklachten zijn toegenomen. De verzekeringsarts bezwaar en beroep heeft om die reden aanvullende informatie opgevraagd bij de cardioloog en de longarts. Daaruit blijkt dat sprake is van een alleszins redelijke hartfunctie en ook de longfunctie blijkt zonder meer goed. De verzekeringsarts bezwaar en beroep heeft daarom geen aanknopingspunten gevonden om aan te nemen dat eiser meer beperkt is dan reeds is aangenomen. De rechtbank kan deze conclusie goed volgen. </para>
+    <para />
+    <para>11. De rechtbank volgt eiser evenmin in zijn standpunt dat verdergaande beperkingen hadden moeten worden aangenomen voor zijn verhoogde rustbehoefte. De verzekeringsarts heeft voor deze klachten al de beperking aangenomen dat eiser niet ’s nachts kan werken en geen sterk wisselende diensten kan draaien. Een verdergaande urenbeperking is pas aan de orde wanneer de klachten niet al zijn ondervangen door de overige beperkingen die in de functionele mogelijkhedenlijst (FML) zijn opgenomen. Volgens de verzekeringsarts bezwaar en beroep zijn de klachten van eiser voldoende verdisconteerd in de gestelde beperkingen. Dat ook een beperking had moeten worden aangenomen voor het aantal te werken uren per dag en/of week, volgt bovendien niet uit de overgelegde medische stukken. </para>
+    <para />
+    <para>12. De rechtbank volgt eiser niet in zijn standpunt dat sprake is van een oneerlijk proces en strijd met artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden omdat het hem aan financiële middelen ontbreekt om een advies van een deskundige in te brengen. Los van het feit dat eiser zijn gestelde financiële onvermogen niet heeft onderbouwd, volgt volgens de Centrale Raad van Beroep uit het arrest Korošec<footnote-ref linkend="_ae0dc447-b167-424b-a837-65e3057f17c5" /> niet zonder meer dat de rechter gehouden is om – als een betrokkene geen financiële middelen heeft – een medisch deskundige te benoemen.<footnote-ref linkend="_d1b45080-7ba6-4182-ab0b-475ba8464496" /> Er is overigens geen reden om aan te nemen dat eiser belemmeringen heeft ondervonden bij de onderbouwing van zijn standpunt dat verweerder zijn medische beperkingen heeft onderschat. 	</para>
+    <para />
+    <para>13. De rechtbank vindt dat de verzekeringsarts bezwaar en beroep inzichtelijk heeft gemotiveerd waarom de overgelegde medische informatie niet leidt tot een andere conclusie. </para>
+    <para>Ook is volgens de rechtbank geen sprake van een schending van ‘equality of arms’. De rechtbank ziet dan ook geen aanleiding om een medische deskundige te benoemen. De rechtbank benadrukt dat, hoe invoelbaar de klachten die eiser ervaart ook zijn, het bij de beoordeling van zijn medische situatie op 27 mei 2019 gaat om de objectief medisch vast te stellen beperkingen op dat moment. De verzekeringsarts bezwaar en beroep heeft daarom alleen met die beperkingen rekening kunnen houden.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De arbeidskundige beoordeling</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>14. De arbeidsdeskundige bezwaar en beroep heeft bij de selectie van de functies rekening gehouden met de beperkingen die zijn vastgelegd in de FML van 16 april 2019. Eiser heeft daartegen geen specifieke arbeidskundige gronden aangevoerd. De rechtbank heeft in het dossier ook geen aanknopingspunten gevonden om aan te nemen dat de geselecteerde functies in medisch opzicht niet geschikt zijn voor eiser. De rechtbank gaat er daarom van uit dat eiser in medisch opzicht in staat is om de geduide functies te verrichten. Dit betekent dat het bestreden besluit op een deugdelijke arbeidskundige grondslag berust.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>15. Eiser krijgt dus geen gelijk. Het beroep is ongegrond. Voor een proceskostenveroordeling of vergoeding van het door eiser betaalde griffierecht bestaat bij die uitkomst geen aanleiding.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.W.J. Harten, rechter, in aanwezigheid van mr. M. Gayir, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op: </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>						 rechter</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending hiervan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+    <para />
+  </section>
+  <footnote id="_716ff322-4a03-4ac7-b07a-4987a416f1d0" label="1">
+    <para> Artikel 8:57 van de Algemene wet bestuursrecht.</para>
+  </footnote>
+  <footnote id="_ae0dc447-b167-424b-a837-65e3057f17c5" label="2">
+    <para> Arrest van het Europees Hof voor de Rechten van de Mens van 8 oktober 2015 (ECLI:CE:ECHR:2015:1008JUD007721212 – Korošec). In deze zaak is geoordeeld dat het in bepaalde gevallen aan de bestuursrechter is om een partij, zo nodig, compensatie te bieden wanneer zij niet in een gelijke positie verkeert ten opzichte van de wederpartij.</para>
+  </footnote>
+  <footnote id="_d1b45080-7ba6-4182-ab0b-475ba8464496" label="3">
+    <para> Zie de uitspraken van de Centrale Raad van Beroep van 30 juni 2017 (ECLI:NL:CRVB:2017:2226) en 23 augustus 2017 (ECLI:NL:CRVB:2017:3013).</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:9352</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T12:02:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.10900 en NL20.10901</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9352">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9352</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T12:01:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:9352 Rechtbank Den Haag , 02-09-2020 / NL20.10900 en NL20.10901</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:9352:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verweerder heeft de afwijzing van de asielaanvraag van een familie uit Irak, met een ernstig ziek kind, wederom onvoldoende gemotiveerd</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:9352:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG					</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: NL20.10900 en NL20.10901 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , eiser </bridgehead>
+    <parablock>
+      <para>v-nummer: [nummer 1] </para>
+      <para>en </para>
+      <para>
+        <emphasis role="bold">
+          [eiseres]
+        </emphasis>, eiseres</para>
+      <para>v-nummer: [nummer 2]  </para>
+      <para>mede namens hun minderjarige kinderen: </para>
+      <para>
+        <emphasis role="bold">
+          [minderjarige 1]
+        </emphasis> en </para>
+      <para>
+        <emphasis role="bold">
+          [minderjarige 2]
+        </emphasis>,  </para>
+      <para>allen van Iraakse nationaliteit,  </para>
+      <para>tezamen te noemen: eisers, </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(gemachtigde: mr. M. Terpstra), </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staatssecretaris van Justitie en Veiligheid, verweerder </bridgehead>
+    <para>(gemachtigde: mr. M. Dalhuisen). </para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij afzonderlijke besluiten van 2 februari 2018 heeft verweerder de aanvragen van eisers tot </para>
+      <para>het verlenen van een verblijfsvergunning asiel voor bepaalde tijd afgewezen als ongegrond.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze rechtbank, zittingsplaats Haarlem, heeft in een uitspraak van 9 maart 2018, </para>
+      <para>zaaknummers NL18.2716 en NL18.2717, de beroepen van eisers gegrond verklaard, de </para>
+      <para>besluiten vernietigd en verweerder opgedragen nieuwe besluiten te nemen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Afdeling bestuursrechtspraak van de Raad van State heeft het door verweerder </para>
+      <para>ingestelde hoger beroep in een uitspraak van 20 februari 2016, met toepassing van artikel </para>
+      <para>91, tweede lid, van de Vreemdelingenwet 2000 (Vw) ongegrond verklaard en de uitspraak </para>
+      <para>op de beroepen bevestigd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij afzonderlijke besluiten van 14 mei 2020 (de bestreden besluiten) heeft verweerder de </para>
+      <para>aanvragen van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd </para>
+      <para>afgewezen als kennelijk ongegrond.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen de bestreden besluiten beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 24 augustus 2020. Eiser is verschenen, </para>
+      <para>bijgestaan door zijn gemachtigde. Als tolk in de taal Sorani is verschenen [de persoon] . </para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inleiding </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>In deze zaak gaat het om een Koerdisch gezin, dat afkomstig is uit Tuz Kurmatu, </para>
+        <para>Irak. Tuz Kurmatu ligt tussen Baghdad en Arbil (Erbil), hoofdstad van de Koerdisch </para>
+        <para>Autonome Regio. Eisers hebben allen de Iraakse nationaliteit. Eisers zijn gehuwd en hebben </para>
+        <para>twee dochters, [minderjarige 1] (9 jaar) en [minderjarige 2] (5 jaar oud).  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <parablock>
+        <para>Eisers hebben aan hun asielaanvragen van 14 maart 2017 ten grondslag gelegd dat </para>
+        <para>zij Irak in 2017 hebben verlaten vanwege de algemene veiligheidssituatie in Tuz Khurmatu </para>
+        <para>als gevolg van de gevechten tussen de Koerden en de sjiitische militie, de Hashid Al Shabi. </para>
+        <para>Zij vreesden voor hun veiligheid. Daarnaast zijn eisers vertrokken vanwege de gezondheid </para>
+        <para>van dochter [minderjarige 2] . Zij kon in Irak niet de benodigde medisch zorg krijgen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <parablock>
+        <para>Bij [minderjarige 2] is psychomotore retardatie vastgesteld. Dit houdt in dat sprake is van een </para>
+        <para>algehele ontwikkelingsachterstand. Die ontwikkeling is na een epileptische aanval gestopt </para>
+        <para>toen zij 3 maanden oud was. Daarom loopt zij in de ontwikkeling van haar </para>
+        <para>bewegingsmogelijkheden en spraak en in sociaal emotionele ontwikkeling ver achter ten </para>
+        <para>opzichte van andere kinderen van haar leeftijd. Zij heeft een mogelijke gehoorstoornis en is </para>
+        <para>waarschijnlijk blind. Zij heeft regelmatig terugkerende, langdurige epileptische aanvallen, </para>
+        <para>krijgt sondevoeding en slaapt kort en onregelmatig. Uit onderzoek van het Universitair </para>
+        <para>Medische Centrum Groningen blijkt dat de retardatie het gevolg is van een genetische </para>
+        <para>afwijking. [minderjarige 2] is ongeneeslijk ziek. Haar situatie zal niet verbeteren. Medische </para>
+        <para>behandeling, die onder meer bestaat uit veelvuldige medicatie, dient ter bestrijding van de </para>
+        <para>symptomen. Vanwege deze situatie heeft [minderjarige 2] voortdurende intensieve zorg nodig.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <parablock>
+        <para>Verweerder heeft aan [minderjarige 2] een verblijfsvergunning regulier voor bepaalde tijd op </para>
+        <para>medische gronden verleend. Aan de overige gezinsleden is een reguliere verblijfsvergunning </para>
+        <para>voor bepaalde tijd met als verblijfsdoel uitoefening van gezinsleven op grond van artikel 8 </para>
+        <para>van het EVRM<footnote-ref linkend="_98a1876d-ab7f-4c00-b5f6-cd11dfe0d57a" />  verleend.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <parablock>
+        <para>Verweerder heeft aanvankelijk Duitsland gevraagd om de behandeling van de </para>
+        <para>asielaanvragen over te nemen, omdat eisers met een door de Duitse autoriteiten afgegeven </para>
+        <para>visum de Europese Unie binnen zijn gekomen. Duitsland is met dit verzoek akkoord gegaan. </para>
+        <para>Bij besluit van 21 augustus 2017 zijn de aanvragen van eisers niet in behandeling genomen </para>
+        <para>op grond van artikel 30, eerste lid, Vw. Met de uitspraak van deze rechtbank en </para>
+        <para>zittingsplaats Amsterdam, van 5 oktober 2017 (NL17.7336, NL17.7337, NL17.7338 en </para>
+        <para>NL17.7339) is het door eisers ingestelde beroep gegrond verklaard. Verweerder heeft bij </para>
+        <para>brief van 17 oktober 2017 aan eisers kenbaar gemaakt dat zij worden opgenomen in de </para>
+        <para>nationale procedure. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <parablock>
+        <para>De inhoudelijke behandeling van de aanvragen heeft geleid tot de door in de </para>
+        <para>uitspraak van 9 maart 2018 vernietigde besluiten. De rechtbank heeft die besluiten </para>
+        <para>vernietigd omdat, kort gezegd, verweerder bij de beoordeling of terugkeer naar Irak een </para>
+        <para>reëel risico op schending van artikel 3 van het EVRM zou opleveren niet alle relevante </para>
+        <para>omstandigheden heeft meegewogen. De rechtbank heeft daarom verweerder opgedragen om </para>
+        <para>een nieuw besluit te nemen waarin samengevat de volgende omstandigheden worden </para>
+        <para>betrokken: </para>
+      </parablock>
+      <para>- eisers zijn Koerden en afkomstig uit Tuz Khurmatu. Tuz Khurmatu is gelegen in de </para>
+      <parablock>
+        <para>provincie Salaheddin. Salaheddin werd door verweerder op het moment van vertrek van </para>
+        <para>eisers uit Irak aangemerkt als 15c-gebied, hetgeen betekent dat eisers enkel door hun </para>
+        <para>aanwezigheid daar een reëel risico liepen op ernstige schade; </para>
+      </parablock>
+      <para>- dochter [minderjarige 2] , van toentertijd slechts twee jaar oud, moet vanwege haar ernstige medische </para>
+      <parablock>
+        <para>situatie en de behandeling die zij als gevolg daarvan nodig heeft, worden gezien als een zeer </para>
+        <para>kwetsbaar persoon;  </para>
+      </parablock>
+      <para>- het huis van eisers is afgebrand en zij hebben daardoor in tenten buiten de stad verbleven. </para>
+      <parablock>
+        <para>De rechtbank heeft daarbij overwogen dat verweerder in het licht van het op 28 juni 2011 </para>
+        <para>door het EHRM gewezen arrest in de zaak ‘ [namen] ’ 2  de medische situatie van dochter </para>
+        <para>
+          [minderjarige 2] niet (enkel) als los element kan zien met betrekking tot de vraag of aan eisers een </para>
+        <para>asielvergunning kan worden verleend. Verweerder kon daarom niet volstaan met het betoog </para>
+        <para>dat verlening van een verblijfsvergunning asiel niet mogelijk is op grond van medische </para>
+        <para>omstandigheden. Verweerder diende daarom te beoordelen of eisers gelet op alle </para>
+        <para>humanitaire omstandigheden die in hun specifieke situatie op dit moment spelen, in </para>
+        <para>aanmerking komen voor een verblijfsvergunning asiel.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De bestreden besluiten </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>Verweerder heeft in het besluit op de aanvraag van eiser de volgende relevante </para>
+        <para>elementen onderscheiden: </para>
+      </parablock>
+      <para>- identiteit, nationaliteit en herkomst; </para>
+      <para>- Koerdische etniciteit; </para>
+      <para>- gevechten tussen Koerden en de sjiitische militie, Hasd al Shaabi; </para>
+      <para>- waarschuwingsbrief van Asa’ib Ahl Al-Haq; </para>
+      <para>- medische situatie dochter. </para>
+      <parablock>
+        <para>In het besluit op de aanvraag van eiseres heeft verweerder de volgende elementen </para>
+        <para>onderscheiden: </para>
+      </parablock>
+      <para>- identiteit, nationaliteit en herkomst; </para>
+      <para>- algemene veiligheidsituatie in Tuz Khurmatu; </para>
+      <para>- medische situatie van dochter [minderjarige 2] . </para>
+      <parablock>
+        <para>Verweerder heeft in beide besluiten de relevante elementen geloofwaardig geacht. </para>
+        <para>Verweerder heeft vervolgens in beide besluiten op dezelfde wijze getoetst of terugkeer naar </para>
+        <para>Irak leidt tot schending van artikel 3 van het EVRM. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Verweerder ziet in de geloofwaardig geachte elementen geen grond om aannemelijk </para>
+        <para>te achten dat terugkeer naar Irak leidt tot een reëel risico op een onmenselijke behandeling.. </para>
+        <para>De problematiek als in ' [namen] ' doet zich hier niet voor. Daarin werd immers, anders </para>
+        <para>dan in dit geval, een binnenlands vestigingsalternatief tegengeworpen. [namen] zouden ook in vluchtelingenkampen terechtkomen, wat in deze zaak niet het geval zal zijn. </para>
+        <para>Schending van artikel 3 van het EVRM wegens humanitaire omstandigheden doet </para>
+        <para>zich slechts in zeer uitzonderlijke situaties voor. In het geval van eisers is niet gebleken dat </para>
+        <para>zij bij terugkeer in een zodanig slechte humanitaire situatie terechtkomen dat een 3 EVRM </para>
+        <para>schending dreigt. De Koerdische etniciteit, de veiligheidssituatie en de medische toestand </para>
+        <para>van [minderjarige 2] zijn daarvoor onvoldoende. De vader heeft een middelbare schoolopleiding en </para>
+        <para>werkervaring. Met hulp van NGO's of derden moeten eisers zich kunnen handhaven. Van </para>
+        <para>een situatie van willekeur geweld als bedoeld in artikel 15 c van Richtlijn 2011/95/EU (de </para>
+        <para>Definitierichtlijn) is geen sprake meer. De medische situatie wordt bovendien getoetst aan </para>
+        <para>artikel 64. In zoverre is gewaarborgd dat uitzetting ondanks een medische situatie niet leidt </para>
+        <para>tot een met artikel 3 van het EVRM strijdige behandeling. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De gronden van beroep </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3.  	Volgens eisers maakt de situatie in Tuz Khurmatu terugkeer van dit gezin niet </para>
+        <para>mogelijk. De woning van eisers is verbrand. Nog steeds liggen huizen in puin. De werkplek </para>
+        <para>van eiser is vernield omdat eisers Koerden zijn. Maar weinig gevluchte Koerden zijn </para>
+        <para>teruggekeerd. De stad Tuz Khurmatu in de regio Salaheddin is de meest getroffen stad en </para>
+        <para>regio in Irak als gevolg van het dispuut tussen de Koerden en het Iraakse leger. IS maakt van </para>
+        <para>dit machtsvacuüm gebruik en ziet sinds eind maart 2020 de coronacrisis als een kans om </para>
+        <para>ongemerkt aan terrein te winnen in dit gebied met een enorme stijging aan aanslagen tot </para>
+        <para>gevolg. Onder die omstandigheid is het voor het gein niet mogelijk om [minderjarige 2] , die als </para>
+        <para>bijzonder kwetsbaar moet worden aangemerkt, de verzorging te bieden die zij nodig heeft. </para>
+        <para>Terugkeer naar Irak houdt daarom een reëel risico op schending van artikel 3 van het </para>
+        <para>EVRM in. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beoordeling </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <parablock>
+        <para>In de uitspraak van 9 maart 2018 heeft de rechtbank overwogen dat uit het arrest </para>
+        <para>
+          [namen] kan worden afgeleid dat de gevolgen van uitzetting moeten worden afgezet </para>
+        <para>tegen de achtergrond van de algemene situatie en persoonlijke omstandigheden. Daarbij zijn </para>
+        <para>het algemeen risico, groepsrisico en individueel risico geen strak te onderscheiden </para>
+        <para>categorieën, maar is sprake van een glijdende schaal waarin alle omstandigheden moeten </para>
+        <para>worden meegewogen. De rechtbank heeft geoordeeld dat deze zaak op eenzelfde wijze moet </para>
+        <para>worden beoordeeld. Nu die uitspraak in hoger beroep is bevestigd, ziet de rechtbank geen </para>
+        <para>aanleiding om een andere toets aan te leggen.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>In overweging 283 van het arrest [namen] heeft het EHRM ervoor gekozen om </para>
+        <para>de in het arrest ‘M.S.S. tegen België’ aangelegde toets toe te passen. Die toets hield in dat in </para>
+        <para>aanmerking moet worden genomen ‘the applicant's ability to cater for his most basic needs, </para>
+        <para>such as food, hygiëne and shelter, his vulnerability to ill-treatment and the prospect of his </para>
+        <para>situation improving within a reasonable time-frame'. De rechtbank zal nu beoordelen of </para>
+        <para>verweerder die toets op de juiste wijze heeft verricht en de uitkomst van die beoordeling </para>
+        <para>voldoende heeft gemotiveerd.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>In de bestreden besluiten heeft verweerder overwogen dat indien de humanitaire </para>
+        <para>omstandigheden in een land veroorzaakt worden door opzettelijk handelen of nalaten van de </para>
+        <para>bij een conflict betrokken partijen, aan de hand van criteria neergelegd in het arrest M.S.S. </para>
+        <para>getoetst moet worden of een vreemdeling bij terugkeer naar dat land door humanitaire omstandigheden aldaar een reëel risico loopt op een met artikel 3 van het EVRM strijdige </para>
+        <para>behandeling. Verweerder heeft zich vervolgens op het standpunt gesteld dat de </para>
+        <para>veiligheidssituatie in Tus Khurmatu, de Koerdische etniciteit van eisers en de medische </para>
+        <para>situatie van [minderjarige 2] daartoe onvoldoende zijn.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <parablock>
+        <para>Niet in geschil is dat de algemene veiligheidssituatie in Tuz Khurmatu sinds het </para>
+        <para>vertrek van eisers is verbeterd en dat van een uitzonderlijke situatie waarin personen louter </para>
+        <para>door hun aanwezigheid in het land van herkomst, een reëel risico lopen op ernstige schade </para>
+        <para>geen sprake meer is. Verder is niet in geschil dat Koerden niet tot de door verweerder in het </para>
+        <para>landgebonden beleid zijn aangewezen als risicogroep of kwetsbare minderheidsgroep.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <parablock>
+        <para>Een terugkeer naar Irak zou niet zonder meer een reëel risico op een met artikel 3 </para>
+        <para>van het EVRM strijdige behandeling opleveren in een situatie waarin geen van de </para>
+        <para>gezinsleden kunnen worden aangemerkt als bijzonder kwetsbaar persoon. Maar die situatie </para>
+        <para>doet zich hier niet voor. De situatie van dochter [minderjarige 2] vereist, nog afgezien van de al dan </para>
+        <para>niet in Irak beschikbare medische zorg, voortdurende intensieve zorg van haar ouders. Om </para>
+        <para>een bijzonder kwetsbaar persoon als [minderjarige 2] die zorg te kunnen bieden is een door de </para>
+        <para>autoriteiten gewaarborgde veilige en stabiele leefomgeving een voorwaarde.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <parablock>
+        <para>Verweerder heeft slechts overwogen dat geen sprake is van een zogenoemde 15c-</para>
+        <para>situatie en dat uit de verklaringen van eisers niet blijkt van uitsluiting van Koerden van </para>
+        <para>medische zorg. Daarmee heeft verweerder geen rekenschap gegeven van de door eisers </para>
+        <para>overgelegde nieuwsberichten en documentatie, waaronder een rapport van </para>
+        <para>14 december 2018 van het European Asylum Support Office (EASO), waaruit blijkt dat dat </para>
+        <para>de situatie allerminst veilig en stabiel is te noemen en dat sprake is van etnische spanningen. </para>
+        <para>Tuz Kurmatu is weliswaar in oktober 2017 in handen van Iraakse regeringstroepen </para>
+        <para>gekomen, maar ligt in het door de Koerdische Autonome Regio en Iraakse regering betwiste </para>
+        <para>gebied. Daarnaast deden volgens deze berichtgeving in 2018 nog (bom)aanslagen door IS </para>
+        <para>strijders op Iraakse veiligheidstroepen en burgers voor. Over de etnische spanningen </para>
+        <para>omschrijft het EASO rapport Tuz Khurmatu als ‘a city that has experienced ethnic conflicts </para>
+        <para>and violence for a long period of time, the current situation poses a vulnerable situation’. </para>
+        <para>Sinds het geweld in 2017 zijn maar weinig Koerden naar Tuz Khurmatu teruggekeerd. </para>
+        <para>Verweerder heeft niet aangevoerd dat deze berichtgeving niet langer actueel is.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <parablock>
+        <para>Verweerder heeft zich op het standpunt gesteld dat eiser een volwassen man is en </para>
+        <para>dat hij een middelbare schoolopleiding heeft genoten. Volgens verweerder valt niet in te </para>
+        <para>zien dat hij en zijn gezin zich – eventueel met hulp van derden of van hulporganisaties – niet </para>
+        <para>zouden kunnen handhaven in Irak. In het licht van de feitelijke veiligheidssituatie in een </para>
+        <para>betwiste regio, de etnische spanningen, de omstandigheid dat het gezin niet over onderdak </para>
+        <para>beschikt en eiser geen werk heeft, schiet deze motivering te kort. Op basis van de enkele </para>
+        <para>aanname dat eisers al dan niet met hulp van derden voldoende zelfredzaam moet worden </para>
+        <para>geacht heeft verweerder onvoldoende gemotiveerd dat zij onder die omstandigheden in staat </para>
+        <para>moet worden geacht om [minderjarige 2] te voorzien in de voor haar noodzakelijke bijzondere zorg.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie  </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. De bestreden besluiten zijn onvoldoende gemotiveerd. Het beroep is gegrond en de </para>
+      <parablock>
+        <para>rechtbank vernietigt het bestreden besluit. Verweerder moet een nieuw besluit nemen op de </para>
+        <para>aanvragen van eisers met inachtneming van wat in deze uitspraak is overwogen. </para>
+      </parablock>
+      <para />
+      <para>6. De rechtbank veroordeelt verweerder in de door eisers gemaakte proceskosten. </para>
+      <parablock>
+        <para>Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de </para>
+        <para>door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het </para>
+        <para>indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per </para>
+        <para>punt van € 525,- en een wegingsfactor 1). Omdat aan eisers een toevoeging is verleend, </para>
+        <para>moet verweerder de proceskostenvergoeding betalen aan de rechtsbijstandverlener.   </para>
+        <para>
+          <emphasis role="bold">Beslissing </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De rechtbank: </para>
+      </parablock>
+      <para>- verklaart het beroep gegrond; </para>
+      <para>- vernietigt het bestreden besluit; </para>
+      <para>- draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een </para>
+      <para>nieuw besluit te nemen met inachtneming van deze uitspraak; </para>
+      <para>- veroordeelt verweerder in de proceskosten van eisers tot een bedrag van € 1.050,-.  </para>
+      <para />
+      <parablock>
+        <para>Deze uitspraak is gedaan door mr. A.K. Mireku, rechter, in aanwezigheid van J.P. Braam, </para>
+        <para>griffier. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>griffier	</para>
+        <para>									 rechter</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op 2 september 2020.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Rechtsmiddel </para>
+        <para>Tegen de uitspraak op het beroep kan hoger beroep worden ingesteld bij de Afdeling </para>
+        <para>bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking. </para>
+        <para>Tegen de uitspraak op het verzoek om voorlopige voorziening staat geen rechtsmiddel open. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <footnote id="_98a1876d-ab7f-4c00-b5f6-cd11dfe0d57a" label="1">
+    <para> Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:6741</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-21T14:59:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20-6366, 20-6369 en 20-6405</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:6741">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:6741</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-21T14:55:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:6741 Rechtbank Gelderland , 21-12-2020 / 20-6366, 20-6369 en 20-6405</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:6741:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Opslag brandblusmiddel in lekkende IBC’s; last onder bestuursdwang; begunstigingstermijnen in bezwaar verlengd; lengte begunstigingstermijn; verweerder heeft een aanvang gemaakt met effectuering van de last.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:6741:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Arnhem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: ARN 20/6366, 20/6369 en 20/6405</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de voorzieningenrechter van 21 december 2020 in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [verzoekster] , te [woonplaats] , </bridgehead>
+    <parablock>
+      <para>en</para>
+      <para>
+        <emphasis role="bold">
+          [verzoeker] , </emphasis>te [woonplaats] , verzoekers <?linebreak?>(gemachtigde: mr. R.J.G. Bäcker),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Doetinchem</emphasis>, verweerder<?linebreak?>(gemachtigde: mr. T.E.P.A. Lam). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als derde-partijen hebben aan het geding deelgenomen<emphasis role="bold">: [derde partij]</emphasis>, te [woonplaats]</para>
+      <para>(gemachtigde: mr. A.J.  Meijer). </para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop <?linebreak?>Bij besluit van 19 februari 2020 (het primaire besluit) heeft verweerder aan [derde partij] ( [derde partij] ) en [derde partij] een last onder bestuursdwang opgelegd.</title>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit hebben [derde partij] en [derde partij] bezwaar gemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 11 augustus 2020 heeft [derde partij] het bezwaar ingetrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 21 oktober 2020 heeft verweerder het bezwaar van [derde partij] gedeeltelijk gegrond verklaard en het bestreden besluit na toevoeging van een last, aanpassing van de wijze waarop de tweede last wordt uitgevoerd en verlenging van de</para>
+      <para>begunstigingstermijnen, in stand gelaten (besluit 1, procedure 20/6366).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij separaat besluit van 21 oktober 2020 heeft verweerder ambtshalve de aan [derde partij] opgelegde last onder dwangsom gewijzigd door het toevoegen van een last, aanpassing van de wijze waarop de tweede last moet worden uitgevoerd en verlenging van de begunstigingstermijnen (besluit 2, procedure 20/6369).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 november 2020 heeft verweerder het verzoek van verzoekers van 16 oktober 2020 tot het toepassen van bestuursdwang buiten behandeling gelaten (besluit 3, procedure 20/6405).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers heeft tegen besluiten 2 en 3 bezwaar gemaakt en tegen besluit 1 beroep ingesteld. Tevens heeft zij de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 14 december 2020. [verzoeker] was aanwezig, bijgestaan door de gemachtigde en mr. A. Janssens, kantoorgenoot van de gemachtigde. Verweerder werd vertegenwoordigd door de gemachtigde. [derde partij] was aanwezig, bijgestaan door de gemachtigde. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wat ging er aan de last vooraf.</emphasis>
+      </para>
+    </parablock>
+    <para>2. [verzoekster] is eigenaar van het perceel aan de [locatie] te [woonplaats] . [verzoeker] is enig bestuurder van [verzoekster] . [verzoekster] verhuurde het terrein sinds 1 november 2010 aan [derde partij] . [derde partij] exploiteerde hier een inrichting die zich onder meer bezig hield met het recyclen van blusschuim. Dit blusschuim werd in afwachting van verwerking opgeslagen in Intermediate Bulk Containers (IBC’s).</para>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Omdat [derde partij] volgens verweerder in strijd handelde met de voor de inrichting verleende omgevingsvergunningen, heeft verweerder aan [derde partij] en [derde partij] bij besluit van 16 augustus 2019 vijf lasten onder dwangsom opgelegd. Tegen dit besluit heeft [derde partij] verzocht een voorlopige voorziening te treffen. Deze verzoeken zijn door de voorzieningenrechter van deze rechtbank op 25 september 2019 afgewezen<footnote-ref linkend="_41861e15-7122-4ee3-9c28-81b1271e4733" /> en door de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) op 28 oktober 2019 afgewezen.<footnote-ref linkend="_0dd76b6f-3205-46cc-94a5-e67f2b14d425" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Omdat de geconstateerde overtredingen niet zijn beëindigd heeft verweerder op 19 februari 2020 [derde partij] en [derde partij] een last onder bestuursdwang opgelegd en gelast:</para>
+      <para />
+      <para>1. de overtreding van artikel 2.1 lid 1, aanhef en onder e. sub 2° van de Wet algemene bepalingen omgevingsrecht en voorschrift 2.2.4. van de omgevingsvergunning (onderdeel milieu) van 4 mei 2010 te beëindigen en beëindigd te houden.</para>
+      <para>Dit kunt u doen door niet meer dan 10 ton aan blusschuim/schuimwater binnen de inrichting op te slaan en het meerdere dan 10 ton opgeslagen blusschuim/schuimwater uit de inrichting te verwijderen naar een daartoe erkende afvalinzamelaar.</para>
+      <para />
+      <parablock>
+        <para>Voor 20 maart 2020 moet aan deze last worden voldaan.</para>
+      </parablock>
+      <para />
+      <para>2) de overtreding van voorschrift 1. van de omgevingsvergunning (onderdeel milieu) van 31juli 2012 te beëindigen en beëindigd te houden.</para>
+      <parablock>
+        <para>Dit kunt u doen door afvalstoffen die niet in een geschikte verpakking en/of op een deugdelijke wijze zijn verpakt alsnog in een geschikte verpakking en op een deugdelijke wijze te verpakken. U kunt de overtreding ook beëindigen door de betreffende verpakte afvalstoffen uit de inrichting te verwijderen naar een erkende inzamelaar.</para>
+        <para>Voor 20 maart 2020 moet aan deze last worden voldaan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verweerder heeft in deze last onder bestuursdwang opgenomen dat hij na het verstrijken van de begunstigingstermijn overgaat tot het treffen van maatregelen:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Last 1.</para>
+        <para>Verweerder zal een bedrijf inschakelen dat het teveel aan aanwezige opslag van blusschuim/schuimwater op het terrein gaat verwerken. De opslag van blusschuim/schuimwater binnen de inrichting aan de [locatie] te [woonplaats] wordt hierbij door het ingeschakelde bedrijf teruggebracht tot de maximaal vergunde hoeveelheid van 10 ton. Hiertoe wordt het blusschuim/schuimwater vanuit de IBC’s overgepompt in grote containers op het terrein waarna de vloeistoffen worden gefilterd. De vervuilde filters</para>
+        <para>worden afgevoerd naar een erkende verwerker en het resterende water zal ter plekke worden geloosd op de riolering.</para>
+        <para>Last 2.</para>
+        <para>Van de aanwezige opslag worden de goede IBC’s geselecteerd tot de vergunde opslag van 10 ton. De overige IBC’s worden geleegd in de grote container, daarna gereinigd en vervolgens op het perceel aan de [locatie] opgeslagen.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De gewijzigde last</emphasis>
+        </para>
+      </parablock>
+      <para>3. In de volledige heroverweging van de primaire besluiten naar aanleiding van het bezwaar van [derde partij] heeft verweerder in bestreden besluiten 1 en 2 de lasten aangepast. Verweerder is tot de conclusie gekomen dat filtering van de inhoud van de IBC’s en vervolgens afvoer via riolering niet mogelijk is. Omdat de veroorzaakte bodem- en grondwaterverontreiniging toeneemt, is het van belang dat stabilisatie op korte termijn plaatsvindt, om verdere milieuschade te voorkomen. Veel IBC’s zijn immers in slechte staat </para>
+      <parablock>
+        <para>en er zijn lekkages en verontreiniging van de bodem aangetroffen. Dit maakt ingrijpen op korte termijn noodzakelijk, aldus verweerder. Daarom heeft verweerder er in bezwaar voor gekozen de bestuursdwang in fasen op te leggen en eerst te gelasten dat de lekkages en verdere verontreiniging van het milieu worden gestopt door de inhoud van IBC’s over te pompen in grote bassins op een vloeistofdichte opstelplaats op het perceel. Zo ontstaat in de bassins een homogeen mengsel, wat de kans op kostenefficiënte verwerking verhoogt: het vergemakkelijkt de monstername en door de homogeniteit kan het gehele mengsel op dezelfde manier verwerkt worden. Door het overpompen in bassins ontstaat bovendien een stabiele situatie, van waaruit het blusschuim/schuimwater op een kostenefficiënte manier verwijderd kan worden.</para>
+        <para>Om ervoor te zorgen dat op korte termijn een aanvang met het beëindigen van de overtreding wordt gemaakt heeft verweerder een last toegevoegd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De lasten die in bezwaar zijn opgelegd luiden:</para>
+      </parablock>
+      <para />
+      <para>1. de overtreding van artikel 2.1 lid 1, aanhef en onder e. sub 2° van de Wet algemene bepalingen omgevingsrecht en voorschrift 2.2.4. van de omgevingsvergunning (onderdeel milieu) van 4 mei 2010 te beëindigen en beëindigd te houden.</para>
+      <para>Dit kan door niet meer dan 10 ton aan blusschuim/schuimwater binnen de inrichting op te slaan en het meerdere dan 10 ton opgeslagen blusschuim/schuimwater uit de inrichting te verwijderen naar een daartoe erkende afvalinzamelaar.</para>
+      <para />
+      <parablock>
+        <para>Binnen zes maanden na de dag van het verzenden van het besluit moet aan deze last worden voldaan.</para>
+      </parablock>
+      <para />
+      <para>2) de overtreding van voorschrift 1. van de omgevingsvergunning (onderdeel milieu) van 31 juli 2012 te beëindigen en beëindigd te houden. Dit kan door afvalstoffen die niet in een geschikte verpakking en/of op een deugdelijke wijze zijn verpakt over te pompen in grote bassins op een vloeistofdichte opstelplaats op het terrein.</para>
+      <para>Binnen tien weken na de dag van het verzenden van de beslissing moet aan deze last worden voldaan.</para>
+      <para />
+      <para>3) Aangevangen moet worden met de beëindiging van de overtreding van voorschrift 1. van de omgevingsvergunning (onderdeel milieu) van 31 juli 2012.</para>
+      <parablock>
+        <para>Dit kan door aan te vangen met het overpompen van afvalstoffen die niet in een geschikte verpakking en/of op een deugdelijke wijze zijn verpakt, in grote bassins op een vloeistofdichte opstelplaats op het perceel. </para>
+        <para>Binnen zes weken na de dag van het verzenden van de beslissing moet aan deze last worden voldaan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Feitelijke uitvoering</emphasis>
+        </para>
+      </parablock>
+      <para>4. Verweerder heeft aangegeven sinds donderdag 10 december met de feitelijke uitvoering van besluiten 1 en 2 begonnen te zijn door het aanleggen van een vloeistofdichte vloer voor het plaatsen van de silo’s. Verweerder verwacht dat dit nog voor de jaarwisseling klaar is en dat dan met het overpompen uit de IBC’s kan worden gestart. Begin februari moeten de IBC’s dan leeg zijn, waarna [derde partij] nog tot 21 april 2021 heeft om zelf voor afvoer van de vloeistof zorg te dragen. Intussen zal verweerder zelf ook starten met monstername van de homogene stoffen in de silo’s en voorbereidingen treffen om zo snel mogelijk om zo snel mogelijk na 21 april 2021 zelf uitvoering te geven aan de last, als dit niet door [derde partij] gebeurt.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Besluit 1 en besluit 2 </emphasis>
+        </para>
+      </parablock>
+      <para>5. De voorzieningenrechter treft op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb) alleen een voorlopige voorziening als "onverwijlde spoed" dat vereist. Het is aan de verzoekers om aan te tonen dat hiervan sprake is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Verzoekers hebben diverse gronden aangevoerd ten aanzien van de lasten zoals die inhoud van de lasten als ten aanzien van de wijziging van de begunstigstermijnen. Zij willen hiermee bereiken dat de lasten snel worden uitgevoerd en dat de inhoud van de IBC’s niet op het terrein wordt opgeslagen in silo’s, maar direct wordt afgevoerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>De voorzieningenrechter is van oordeel dat verzoekers hiermee hun spoedeisend belang voldoende hebben onderbouwd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>Ten aanzien van de gronden over de gestelde begunstigingstermijnen overweegt de voorzieningenrechter als volgt. Voor de uitvoering van de last zoals verwoord in besluit 1 en 2 moet deze in feite van onder naar boven worden gelezen. </para>
+        <para> De begunstigingstermijn van de derde last is inmiddels verstreken. Verweerder is inmiddels ook begonnen met de uitvoering van deze last. Ook de termijn die is gesteld in de tweede last verstrijkt binnen afzienbare tijd, te weten volgende week. Daarom hebben verzoekers geen belang bij het treffen van een voorlopige voorziening ten aanzien van deze termijnen.</para>
+        <para>Ten aanzien van de termijn van de eerste last heeft verweerder toegelicht dat het ongeveer vier tot zes weken kost om de IBC’s leeg te pompen in de silo’s. Dan is aan last 2 voldaan en moet worden bepaald wat de samenstelling is van de homogene stoffen in de silo’s en moet vervolgens worden bepaald hoe deze inhoud afgevoerd moet worden. Daar heeft [derde partij] dan nog ongeveer twee maanden de tijd voor. [derde partij] heeft ter zitting desgevraagd aangegeven daar zeker een jaar voor nodig te hebben. Verweerder heeft ter zitting aangegeven dat die periode ook zal worden benut om zelf al te starten met het onderzoek van de stoffen in de silo’s, zodat na het verstrijken van de begunstigingstermijn op 21 april zo nodig op korte termijn kan worden begonnen met het verwerken en afvoeren van het blusschuim. In het licht van het bovenstaande bezien is een termijn van twee maanden zeker niet te lang.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Voor zover in de gronden wordt aangevoerd dat verweerder op een andere manier uitvoering moet geven aan de lasten en het terrein zo snel leeg moet maken, in het bijzonder door de inhoud van de IBC’s niet in de silo’s maar op een andere locatie op te slaan, is de voorzieningenrechter van oordeel dat dit gaat over de feitelijke uitvoering van de bestuursdwang. Tegen de wijze waarop verweerder de lasten door feitelijk handelen uitvoert, staat geen bezwaar en beroep open en kan de voorzieningenrechter derhalve geen oordeel geven. Dit is voorbehouden aan de civiele rechter, waar verzoekers inmiddels ook een procedure zijn gestart zo bleek ter zitting.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Ten aanzien van de gronden van verzoekers waarin wordt aangevoerd dat verweerder niet bevoegd was om besluit 2 ambtshalve te wijzigen naar aanleiding van de bezwaarprocedure die heeft geleid tot besluit 1, is de voorzieningenrechter niet duidelijk geworden welke rechtsregel zich hiertegen verzet. </para>
+      <para />
+      <para>6. Gelet op het voorgaande is er geen reden om te veronderstellen dat de bestreden besluiten 1 en 2 in bezwaar dan wel beroep niet in stand zullen blijven. Voor het treffen van een voorlopige voorziening is daarom geen aanleiding. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Besluit van 6 november 2020</emphasis>
+        </para>
+      </parablock>
+      <para>7. Bij besluit van 6 november 2020 heeft verweerder het verzoek om tot effectuering van de aan [derde partij] en [derde partij] opgelegde lasten over te gaan, buiten behandeling gesteld. Nu verweerder inmiddels is gestart met de uitvoering van de opgelegde lasten, hebben verzoekers geen spoedeisend belang bij beoordeling van dit verzoek. De voorzieningenrechter zal ook het verzoek met procedurenummer 20/6405 daarom afwijzen.</para>
+      <para />
+      <para>8. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst de verzoeken om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. M.J.M. Verhoeven, voorzieningenrechter, in aanwezigheid vanmr. M.H.Y Snoeren-Bos, griffier. De uitspraak is uitgesproken in het openbaar op 21 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De voorzieningenrechter en de griffier zijn verhinderd de uitspraak te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>voorzieningenrechter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <bridgehead>Rechtsmiddel<?linebreak?>Tegen deze uitspraak staat geen rechtsmiddel open.</bridgehead>
+  <footnote id="_41861e15-7122-4ee3-9c28-81b1271e4733" label="1">
+    <para> ECLI:NL:RBGEL:2019:4298</para>
+  </footnote>
+  <footnote id="_0dd76b6f-3205-46cc-94a5-e67f2b14d425" label="2">
+    <para> ECLI:NL:RVS:2019:3612</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

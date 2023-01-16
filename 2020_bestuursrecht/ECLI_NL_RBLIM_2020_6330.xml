@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBLIM:2020:6330</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-14T11:47:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Limburg" scheme="overheid.RechterlijkeMacht">Rechtbank Limburg</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROE 19/3032</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Roermond</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:6330">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:6330</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-11T13:24:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBLIM:2020:6330 Rechtbank Limburg , 27-08-2020 / ROE 19/3032</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBLIM:2020:6330:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Afwijzing naturalisatieverzoek. De rechtbank is van oordeel dat verweerder zich terecht op het standpunt heeft gesteld dat eiser niet heeft aangetoond dat hij in bewijsnood verkeert ten aanzien van het verkrijgen van documenten ter staving van zijn identiteit. Het beroep is daarom ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBLIM:2020:6330:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">RECHTBANK limburg</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Roermond</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROE 19/3032</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer van 27 augustus 2020 in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [eiser]
+        </emphasis>, te [woonplaats] , eiser</para>
+      <para>(gemachtigde: mr. R.C. van den Berg),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Staatssecretaris van Justitie en Veiligheid</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. M. Singh).</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Procesverloop </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 juli 2018 (het primaire besluit) heeft verweerder het naturalisatieverzoek van eiser afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 oktober 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft met toepassing van artikel 8:57 van de Algemene wet bestuursrecht bepaald dat het onderzoek ter zitting achterwege blijft, omdat geen van de partijen heeft verklaard dat zij gebruik wil maken van het recht ter zitting te worden gehoord.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Overwegingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>Inleiding en uitkomst</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser wil Nederlander worden, maar verweerder betwijfelt zijn opgegeven identiteit en nationaliteit. De zaak gaat vooral over eisers geboorteakte. Hij zegt dat het originele document niet meer bestaat en dat verweerder dus genoegen moet nemen met alles wat er ligt. Verweerder vindt dat eiser zijn bewijsnood niet goed heeft onderbouwd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>De rechtbank concludeert uiteindelijk dat het beroep ongegrond is. Verweerders afwijzing van eisers naturalisatieverzoek houdt dus stand. Hierna legt de rechtbank uit hoe zij tot dat oordeel is gekomen.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Feiten en geschil</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Volgens eiser is hij [eiser] , geboren op [geboortedatum] en burger van Sierra Leone. Verweerder betwijfelt die identiteit en die nationaliteit. In de loop van de procedure zijn zes documenten relevant geacht. Voor het overzicht somt de rechtbank die op naar datum van afgifte:</para>
+      <orderedlist numeration="loweralpha">
+        <listitem>
+          <para>??-??- 2009: geboorteakte 1 (wel gesteld, niet overgelegd)</para>
+        </listitem>
+        <listitem>
+          <para>08-09-2010: paspoort 1</para>
+        </listitem>
+        <listitem>
+          <para>27-08-2014: geboorteakte 2 (‘delayed BC/2009’)</para>
+        </listitem>
+        <listitem>
+          <para>00-00-2014: paspoort 2</para>
+        </listitem>
+        <listitem>
+          <para>07-06-2016: geboorteakte 3 (‘certified true copy BC/2014’)</para>
+        </listitem>
+        <listitem>
+          <para>22-11-2018: geboorteakte 4 (‘certified true copy delayed BC/2009’)</para>
+        </listitem>
+      </orderedlist>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Uit het ambtsbericht over Sierra Leone (van mei 2011) blijkt dat een paspoort alleen wordt opgemaakt en afgegeven op basis van een geboorteakte. Met dat uitgangspunt heeft Bureau Documenten vier onderzoeken gedaan:</para>
+      <para>14-01-2015:</para>
+      <parablock>
+        <para> als paspoort 1 bevoegd is opgemaakt en afgegeven, dan is geboorteakte 2 onbevoegd opgemaakt en afgegeven (omdat dit dan geen ‘verlate’ maar een ‘dubbele’ registratie moet zijn);</para>
+        <para> als geboorteakte 2 bevoegd is opgemaakt en afgegeven (en dus een eerste registratie betreft), dan is paspoort 1 frauduleus verkregen (omdat dit dan niet kan berusten op een voorafgaande geboorteakte);</para>
+      </parablock>
+      <parablock>
+        <para> 07-01-2016: het is niet bekend of paspoort 2 berust op geboorteakte 2, dus het kan niet worden vastgesteld of paspoort 2 bevoegd is opgemaakt en afgegeven;</para>
+        <para> 28-11-2016: geboorteakte 3 is een kopie van geboorteakte 2, dus de conclusie blijft hetzelfde;</para>
+        <para> 09-05-2019: geboorteakte 4 is een kopie van geboorteakte 2, dus de conclusie blijft hetzelfde.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Het geschil draait dus om geboorteakte 1, waarop paspoort 1 zou berusten. Eiser stelt dat hij het originele document verloor bij een verhuizing. Verweerder wil dan één van de volgende stukken zien: (i) een uittreksel uit het register waaruit blijkt dat in 2009 eisers geboorte is geregistreerd of (ii) een verklaring van de bevoegde autoriteit waaruit blijkt dat eiser de registratie uit 2009 niet meer kan bewijzen. Volgens eiser is dat eerste stuk niet beschikbaar en is dat tweede stuk wel overgelegd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>De rechtbank toetst het bestreden besluit op basis van deze beroepsgrond aan de Rijkswet op het Nederlanderschap (RWN), het Besluit verkrijging en verlies Nederlanderschap (BvvN), de Handleiding Rijkswet op het Nederlanderschap 2003 (HRWN) en de rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State (ABRvS).</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>3</nr>Het oordeel van de rechtbank</title>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Bij het verzoek om naturalisatie moest eiser ‘voorzoveel mogelijk’ de ‘gegevens’ verstrekken over zijn volledige naam, zijn geboortedatum, -plaats en -land en zijn nationaliteit (artikel 31, eerste lid, onder a, b en e van het BvvN). Verweerder ‘kan verlangen’ dat eiser bewijst dat deze gegevens juist zijn, met ‘zo nodig gelegaliseerde en eventueel inhoudelijk geverifieerde documenten’ (artikel 31, vijfde lid, van het BvvN). Hij moet daarom ‘in beginsel’ een geldig paspoort en een gelegaliseerde geboorteakte overleggen (paragraaf 3.5.1 en 3.5.2 van de HRWN). Dit betekent dat eiser zijn identiteit en nationaliteit op deze manier moet aantonen.<footnote-ref linkend="_c4ac8bac-8c32-4f67-a434-b732ff463212" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>In beroep erkent eiser dat hij geen ‘certified true copy’ heeft overgelegd van de gestelde registratie uit 2009. De rechtbank stelt vast dat de vermelding ‘delayed BC/2009’ op geboorteakte 2 inderdaad niet verwijst naar het jaar van verlate registratie, maar slechts het nummer van het formulier betreft. De enige vraag in dit geschil is dan ook of eiser in bewijsnood verkeert. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <parablock>
+        <para>Volgens verweerders beleid kan eiser zijn bewijsnood aantonen met ‘een schriftelijke verklaring (…) van de autoriteiten van [Sierra Leone], waarin gemotiveerd wordt aangegeven waarom [hij] niet in het bezit wordt gesteld van een (…) geboorteakte’ (paragraaf 3.5.5 van de HRWN). Het Immigration Department dat paspoort 1 afgaf in 2010, heeft verklaard dat zij haar eigen kopieën van de brondocumenten na drie jaar heeft vernietigd. Uit haar archief kon eiser dus geen kopie van geboorteakte 1 meer verkrijgen. De rechtbank betrekt deze verklaring wel in haar beoordeling, omdat die de situatie van destijds beschrijft. Voor haar oordeel maakt dat echter geen verschil. Dit is namelijk niet de autoriteit die geboorteaktes afgeeft, want dat is de Chief Registrar of the Office of the</para>
+        <para>Registrar of Births and Deaths. Niet is gebleken dat deze autoriteit ook is benaderd. Eiser heeft dus niet aangetoond dat hij al het mogelijke heeft gedaan om in het bezit te komen van de gevraagde documenten.<footnote-ref linkend="_ff44ce6e-f1b0-4d1e-a3de-3ea24cddda16" /> De beroepsgrond slaagt daarom niet. Nu niet vaststaat dat eiser in bewijsnood verkeert, blijven zijn standpunten over de leeftijdsonderzoeken en de pardonvergunning onbesproken.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>4</nr>Conclusie </title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het beroep is ongegrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="bold">Beslissing</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De rechtbank verklaart het beroep ongegrond.</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Deze uitspraak is gedaan door mr. N.P.J. van de Pasch, rechter, in aanwezigheid van mr. D.SA.W. Raes, griffier.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De uitspraak is gedaan op 27 augustus 2020.</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. De griffier is verhinderd deze uitspraak te ondertekenen.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>rechter</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>Afschrift verzonden aan partijen op: 27 augustus 2020</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="bold">Rechtsmiddel</emphasis>
+        </para>
+        <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <footnote id="_c4ac8bac-8c32-4f67-a434-b732ff463212" label="1">
+    <para> ABRvS 27 juli 2013, ECLI:NL:RVS:2013:501.</para>
+  </footnote>
+  <footnote id="_ff44ce6e-f1b0-4d1e-a3de-3ea24cddda16" label="2">
+    <para> ABRvS 1 februari 2012, ECLI:NL:RVS:2012:BV2474.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

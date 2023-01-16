@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:877</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-23T12:26:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 2145</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:877">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:877</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-23T12:23:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:877 Rechtbank Zeeland-West-Brabant , 27-01-2020 / AWB - 19 _ 2145</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:877:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Participatiewet. Bijzondere bijstand voor bewindvoeringskosten.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:877:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Breda</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/2145 PW</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 27 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] , te [naam woonplaats] , eiser</bridgehead>
+    <para>gemachtigde: mr. T.E. van der Bent,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het dagelijks bestuur van de Uitvoeringsorganisatie Baanbrekers, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In het besluit van 14 januari 2019 heeft Baanbrekers eisers aanvraag om bijzondere bijstand voor de kosten van beschermingsbewind afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft bezwaar gemaakt tegen het besluit van 14 januari 2019. In het besluit van 27 februari 2019 heeft Baanbrekers het bezwaar ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft vervolgens nog aanvullende stukken ingeleverd. Naar aanleiding hiervan heeft Baanbrekers besloten om het besluit van 27 februari 2019 deels te herzien. In het besluit van 27 maart 2019 (bestreden besluit) heeft Baanbrekers aan eiser bijzondere bijstand toegekend voor € 50,99 per maand, vanaf 9 oktober 2018.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft beroep ingesteld tegen het bestreden besluit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is besproken op de zitting van de rechtbank op 6 september 2019. Hierbij waren aanwezig eisers gemachtigde en [naam bewindvoerder] (bewindvoerder), en mr. S.L. Burg namens Baanbrekers.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft het onderzoek ter zitting geschorst, om eiser in de gelegenheid te stellen nadere stukken in te sturen. Eiser heeft stukken ingestuurd en Baanbrekers heeft hier nog op gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft het onderzoek op 4 december 2019 gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser heeft op 9 november 2018 een aanvraag ingediend voor bijzondere bijstand vanaf 16 augustus 2018. Dit is in eerste instantie afgewezen. In het bestreden besluit is alsnog bijzondere bijstand toegekend vanaf 9 oktober 2018.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Is het bestreden besluit een primair besluit of een beslissing op bezwaar?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Eiser heeft aangevoerd dat het bestreden besluit een primair besluit is, waartegen eerst nog bezwaar open staat.</para>
+    <para />
+    <para>3. De rechtbank stelt vast dat Baanbrekers met het besluit van 27 februari 2019 heeft beslist op het bezwaarschrift van eiser. Baanbrekers heeft in dat besluit het bezwaar ongegrond verklaard. Volgens Baanbrekers kan het recht op bijzondere bijstand niet worden vastgesteld, omdat eiser geen originele bankafschriften heeft overgelegd. Ook ontbreken er objectieve stukken over de aanschafwaarde en wijze van aanschaf van een caravan die eiser in zijn bezit heeft.</para>
+    <para />
+    <parablock>
+      <para>Na het besluit van 27 februari 2019 is er nog contact geweest tussen eisers bewindvoerder en Baanbrekers. In eerste instantie is tegen de bewindvoerder gezegd dat het alsnog inleveren van de gevraagde bankafschriften geen zin had, omdat de aanvraag buiten behandeling was gesteld. Dit bleek onjuiste informatie. Baanbrekers heeft vervolgens aangegeven dat als eiser de bankafschriften binnen de beroepstermijn inlevert, deze stukken alsnog meegenomen zouden worden in de besluitvorming. Eiser heeft de gevraagde bankafschriften ingeleverd. Baanbrekers heeft vervolgens het bestreden besluit genomen, waarbij besloten is om het besluit van 27 februari 2019 gedeeltelijk te herzien.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank vindt dat uit het dossier duidelijk naar voren komt dat Baanbrekers een gewijzigde beslissing op bezwaar heeft genomen en dit ook zo bedoeld heeft. Er was geen sprake van een nieuwe aanvraag of een herzieningsverzoek. Als daar wel sprake van was geweest, dan had Baanbrekers een nieuw primair besluit moeten nemen. In dit geval heeft Baanbrekers uit coulance de door eiser achteraf overgelegde bankafschriften alsnog meegenomen bij de beoordeling van het bezwaarschrift. Dit is ook op die manier naar de bewindvoerder gecommuniceerd. Zo schrijft de gemachtigde van Baanbrekers in een e-mail van 26 maart 2019: <emphasis role="italic">“Ik ga een nieuwe beschikking op bezwaar maken.”</emphasis> De rechtbank ziet geen aanleiding om mee te gaan in de stelling van eiser dat het bestreden besluit een primair besluit is, waartegen eerst nog bezwaar open staat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Waar gaat het in deze zaak om?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. Eiser heeft gevraagd om bijzondere bijstand per 16 augustus 2018. In het besluit van 14 januari 2019 is het verzoek gesplitst in 2 periodes:</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>de periode van 16 augustus 2018 tot en met 8 oktober 2018;</para>
+      </listitem>
+      <listitem>
+        <para>de periode vanaf 9 oktober 2018.</para>
+      </listitem>
+    </itemizedlist>
+    <para>Voor beide periodes heeft Baanbrekers een andere afwijzingsgrond gehanteerd. </para>
+    <para />
+    <parablock>
+      <para>Eiser heeft tijdens de bezwaarprocedure alleen gronden ingediend tegen de afwijzing van het verzoek om bijzondere bijstand per 9 oktober 2018. De afwijzing van bijzondere bijstand over de periode van 16 augustus 2018 tot en met 8 oktober 2018 is daarom vast komen te staan met het besluit van 14 januari 2019.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de beslissing op bezwaar van 27 februari 2019 is het bezwaar ongegrond verklaard. In het bestreden besluit is er alsnog bijzondere bijstand toegekend over de periode vanaf 9 oktober 2018. Eiser heeft alleen beroep ingesteld tegen het bestreden besluit en niet (ook) tegen het besluit van 27 februari 2019. </para>
+    </parablock>
+    <para />
+    <para>5. Het gaat in deze zaak dus alleen nog om de bijzondere bijstand over de periode vanaf 9 oktober 2018. Daarbij verschillen partijen alleen nog van mening over de caravan en niet meer over de bankafschriften.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wat vindt de rechtbank van deze zaak?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Uit gegevens van de RDW blijkt dat eiser per 30 oktober 2018 een caravan op zijn naam heeft staan. Tussen partijen is niet in geschil dat het om een zeer oude caravan gaat (van ongeveer 40 jaar oud). Eiser heeft verklaard dat hij de caravan niet zelf gekocht heeft. Hij heeft deze caravan van zijn oom gekregen, zodat hij een plaats had om te overnachten. De bewindvoerder heeft geprobeerd om de waarde van de caravan te achterhalen, maar dit is niet gelukt. Wel heeft hij de caravan te koop aangeboden op een website met een vraagprijs van € 500,-, en kreeg hij een bod van € 100,-. Volgens de bewindvoerder duidt dit er op dat de caravan nauwelijks iets waard is.</para>
+    <para />
+    <para>7. Eiser heeft niet met objectieve gegevens aangetoond wat de waarde van de caravan is, hoe deze is betaald en hoe deze caravan in zijn bezit is gekomen. De rechtbank heeft eiser in de gelegenheid gesteld om dit nog aan te tonen. Eiser heeft vervolgens een verklaring van zijn oom overgelegd. In deze verklaring staat dat eisers oom de caravan in oktober 2018 via Marktplaats heeft gekocht voor € 600,-. Bij thuiskomst bleek de caravan echter veel gebreken te hebben, zodat zij ter compensatie nog € 100,- terug hebben gekregen van de aankoopprijs.</para>
+    <para />
+    <parablock>
+      <para>De rechtbank stelt vast dat eiser nog steeds geen objectieve gegevens heeft verstrekt van de aankoop en aanschafprijs van de caravan. De rechtbank is het daarom met Baanbrekers eens dat daardoor het recht op bijzondere bijstand niet kan worden vastgesteld.</para>
+    </parablock>
+    <para />
+    <para>8. Baanbrekers heeft in het bestreden besluit een buitenwettelijke oplossing bedacht om eiser enigszins tegemoet te komen. Baanbrekers heeft aan de caravan een waarde van € 1.000,- toegekend, omdat het volgens Baanbrekers wel duidelijk is dat de caravan een geringe waarde vertegenwoordigt. Baanbrekers heeft de caravan aangemerkt als inkomen en opgeteld bij eisers inkomen over de maand oktober 2018. Dit omdat eiser in oktober 2018 in het bezit is gekomen van de caravan. Vervolgens heeft Baanbrekers eisers draagkracht berekend. De uitkomst van deze berekening is dat eiser vanaf 9 oktober 2018 recht heeft op bijzondere bijstand voor de kosten van beschermingsbewind van € 50,99 per maand.</para>
+    <para />
+    <parablock>
+      <para>Eiser is het er niet mee eens dat Baanbrekers de waarde van de caravan heeft bepaald op € 1.000,- en hij vindt het ook onterecht dat de caravan is aangemerkt als inkomen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank overweegt dat Baanbrekers uit coulance een oplossing heeft bedacht om eiser enigszins tegemoet te komen. Er is geen wettelijke grondslag voor deze toekenning en er ligt ook geen beleid waaraan de rechtbank zou kunnen toetsen. De rechtbank kan dus alleen maar heel terughoudend naar deze oplossing kijken. Eiser heeft niets naar voren gebracht op grond waarvan de rechtbank vindt dat Baanbrekers van deze oplossing af had moeten wijken. Dit was anders geweest als eiser met objectieve gegevens had aangetoond wat de aanschafwaarde van de caravan was geweest. De verklaring van de oom kan echter niet als objectief stuk worden aangemerkt.</para>
+    </parablock>
+    <para />
+    <para>9. Het beroep is ongegrond. Er is geen reden voor een proceskostenveroordeling. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. P.H.J.G. Römers, rechter, in tegenwoordigheid van E.C. Petrusma, griffier en in het openbaar uitgesproken op 27 januari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

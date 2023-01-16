@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:584</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-11T09:00:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">SGR 19/493 en SGR 19/465</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:584">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:584</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-31T14:55:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:584 Rechtbank Den Haag , 27-01-2020 / SGR 19/493 en SGR 19/465</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:584:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De rechtbank is van oordeel dat verweerder in redelijkheid de terrasvergunning heeft mogen verlenen. Beroepen ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:584:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: SGR 19/493 en SGR 19/465</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 27 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , wonende te [woonplaats] , (hierna eiser 1)</bridgehead>
+    <parablock>
+      <para>(gemachtigde: mr. T. van der Weijde),</para>
+      <para>en</para>
+      <para>
+        <emphasis role="bold">Stichting RondomAnna</emphasis>, te [vestigingsplaats] , (hierna eiser 2)</para>
+      <para>(gemachtigde: [A] ),</para>
+      <para>hierna tezamen: eisers,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Den Haag, verweerder</bridgehead>
+    <para>(gemachtigde: [B] ).</para>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: <emphasis role="bold">[derde partij]</emphasis>, te [woonplaats] , vergunninghouder, </para>
+      <para>(gemachtigde: mr. M.W.R. Hoogstraten).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 7 mei 2018 (het primaire besluit) heeft verweerder aan vergunninghouder een terrasvergunning verleend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van [huisnummer] december 2018 (het bestreden besluit) heeft verweerder de bezwaren van eisers ongegrond verklaard.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 22 november 2019.</para>
+      <para>Eiser 1 is verschenen, bijgestaan door zijn gemachtigde. Eiser 2 heeft zich laten vertegenwoordigen door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. De vergunninghouder [derde partij] is verschenen, bijgestaan door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De rechtbank gaat uit van de volgende feiten en omstandigheden. Vergunninghouder exploiteert de horeca-onderneming ‘Bite Me!’ aan het [adres] te [plaats] . Eiser 1 is eigenaar van het pand aan het [adres] , welk pand wordt verhuurd aan eiser 2. Op 15 januari 2018 heeft vergunninghouder een aanvraag ingediend ten behoeve van het plaatsen van een zomerterras aan- en tegenover de gevel van het [adres] te [plaats] . Verweerder heeft de aanvraag om advies voorgelegd aan de wegbeheerder van het stadsdeel Centrum (hierna: wegbeheerder), de Adviescommissie Openbare Ruimte (hierna: AOR) en het vooroverleg over Verkeerszaken (hierna: VOV). Allen hebben ingestemd met het verlenen van de terrasvergunning. Verweerder heeft bij besluit van 7 mei 2018 de gevraagde vergunning verleend en daaraan voorschriften verbonden. </para>
+    <para />
+    <para>2. Eisers voeren aan dat de terrasvergunning in strijd is met het bestemmingsplan en niet wordt voldaan aan de Beleidsregels. Volgens de Beleidsregels mag een terras alleen gelegen zijn direct voor de gevel van het pand dat een terrasvergunning aanvraagt. Doordat de gevels van de panden aan het [adres] in een bocht lopen, komt het terras van de vergunninghouder ook voor het pand van eisers op nummer [huisnummer] . Het pand is daardoor slecht zichtbaar en bereikbaar voor (mogelijke) bezoekers en huurders, die tevens last hebben van geluidsoverlast. Dit raakt de verhuurbaarheid van het pand. Ook krijgt eiser 1 de begane grond van zijn pand niet verhuurd aan een horecagelegenheid, omdat het terras van de vergunninghouder ver voor zijn gevel langs komt. De beschikbare terrasruimte is dan ook oneerlijk verdeeld, omdat geen rekening wordt gehouden met een mogelijk terras voor het pand van eiser 1. Verweerder miskent derhalve dat sprake is van strijdigheid met de weigeringsgronden in artikel 2:10 van de Algemene Plaatselijke Verordening voor de gemeente Den Haag (hierna: APV). Gelet op vorenstaande stelt eiser 1 dat het bestreden besluit in onevenredige strijd is met zijn belangen. Verder stelt eiser 1 dat het bestreden besluit in strijd is met het gelijkheidsbeginsel, omdat bij andere zaken aan het plein, waar op dit moment ook geen horeca in is gevestigd, de gehele voorgevel van die panden wel vrijgehouden wordt van terrassen. Ook stellen eisers dat de ruimte van 1,5 meter naast de ingang van het pand niet groot genoeg is om de bereikbaarheid van het pand te garanderen en dat de aanvraag aan het bestemmingsplan Zeeheldenkwartier 2010 getoetst had moeten worden. </para>
+    <para>Tot slot stellen eisers dat zij in bezwaar niet, dan wel onvoldoende zijn gehoord en daardoor in hun procesbelang zijn geschaad.</para>
+    <para />
+    <para>3. Op grond van artikel 2:10, derde lid, van de APV wordt een vergunning geweigerd,  indien tegen de verlening daarvan overwegend bezwaar bestaat uit een oogpunt van:</para>
+    <para>- doelmatig beheer en onderhoud van de weg, daaronder mede begrepen de bescherming van de belangen van het rij- en voetgangersverkeer en de verdeling van gebruiksmogelijkheden van de weg;</para>
+    <para>- bescherming van het uiterlijk aanzien van de gemeente, tenzij het betreffende voorwerp op grond van de Woningwet dient te worden getoetst aan de redelijke eisen van welstand;</para>
+    <para>- schade die door het gebruik aan de weg wordt toegebracht; of</para>
+    <para>- te verwachten hinder voor de omgeving als gevolg van het gebruik van de weg ten behoeve waarvan de vergunning wordt gevraagd, tenzij daarop regels bij of krachtens de Wet milieubeheer of het bepaalde in de artikelen 2:27 tot en met 2:29, 2:33A en artikel 4:6 van toepassing is.</para>
+    <para />
+    <parablock>
+      <para>Het uitvoeringsbeleid voor de afhandeling van vergunningaanvragen voor terrassen is neergelegd in de Beleidsregel vergunningverlening terrassen Den Haag 2016 (verder Beleidsregel).</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De rechtbank overweegt als volgt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Ontvankelijkheid eiser 2</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Volgens de vergunninghouder moet de belanghebbendheid van eiser 2 worden betwijfeld, omdat niet duidelijk is welke bewoners opdracht hebben gegeven aan de gemachtigde om het beroep in te stellen en wat het doel is van eiser 2.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Ingevolge artikel 1:2, eerste lid, van de Algemene wet bestuursrecht (hierna: de Awb) wordt onder belanghebbende verstaan: degene wiens belang rechtstreeks bij een besluit is betrokken.</para>
+      <para />
+      <parablock>
+        <para>Ingevolge het derde lid worden ten aanzien van rechtspersonen als hun belangen mede beschouwd de algemene en collectieve belangen die zij krachtens hun doelstellingen en blijkens hun feitelijke werkzaamheden in het bijzonder behartigen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Voor de vraag of een rechtspersoon belanghebbende is als bedoeld in artikel 1:2, eerste en derde lid, van de Awb, is bepalend of de rechtspersoon krachtens zijn statutaire doelstelling en blijkens zijn feitelijke werkzaamheden een rechtstreeks bij het bestreden besluit betrokken algemeen of collectief belang in het bijzonder behartigt. Met artikel 1:2, derde lid, van de Awb heeft de wetgever blijkens de totstandkomingsgeschiedenis (Kamerstukken II 1988/1989, 21 221, nr. 3, p. 32-35) veilig willen stellen dat organisaties als belanghebbende kunnen opkomen, mits een algemeen of collectief belang dat zij zich statutair ten doel stellen te behartigen en waarvoor zij zich daadwerkelijk inzetten, bij het besluit rechtstreeks is betrokken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <parablock>
+        <para>Blijkens artikel 3, lid 1, van de statuten heeft eiser 2 ten doel het uitvoeren, initiëren en/of begeleiden van activiteiten als belangenbehartiging, participatiebevordering en samenlevingsopbouw, voor alle bewoners, of groepen daarvan, binnen haar werkgebied en het in dit kader, indien nodig en/of gewenst, ter beschikking stellen van faciliteiten en middelen die de stichting hiervoor ten dienst staan en voorts al hetgeen in de ruimste zin met één en ander verband houdt, daartoe behoort en/of daartoe bevorderlijk kan zijn.  </para>
+        <para>Blijkens artikel 3, lid 4, tracht de stichting haar doel onder meer te bereiken door, onder andere: </para>
+      </parablock>
+      <para>e. het desgevraagd behulpzaam zijn van bewoners en/of bewonersgroepen van het [adres] en omgeving bij het opstellen en in uitvoering nemen van plannen ter verbetering van de leefbaarheid in dat gebied;</para>
+      <para>g. het vertegenwoordigen van bewoners en/of bewonersgroepen bij het voeren van rechtsgedingen indien daarmee het doel van de Stichting gediend is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Gelet op voormelde in de statuten neergelegde doelstelling kan eiser 2 in dit geval naar het oordeel van de rechtbank als belanghebbende in de zin van artikel 1:2, derde lid, van de Awb worden aangemerkt. Ter zitting heeft de gemachtigde van eiser 2 nader toegelicht dat de Stichting vorig jaar onderzoek heeft gedaan naar allerlei onderwerpen met betrekking tot de leefbaarheid in de buurt, hetgeen is terug te vinden op de website van de stichting. Op basis van deze onderzoeksresultaten en in opdracht van het bestuur van eiser 2 heeft de gemachtigde beroep ingesteld. Bovendien is de Stichting gevestigd in het pand van eiser 1, gelegen aan het [adres] te [plaats] .</para>
+      <para />
+      <parablock>
+        <para>Eiser 2 is dan ook door verweerder terecht ontvankelijk geacht in haar bezwaar.</para>
+        <para>
+          <emphasis role="underline italic">Hoorplicht bezwarenprocedure</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5.	De stelling van eisers dat zij in bezwaar niet, dan wel onvoldoende zijn gehoord, slaagt niet. Op 5 november 2018 heeft immers een hoorzitting plaatsgevonden, waarbij naar het oordeel van de rechtbank uitgebreid met partijen is gesproken. De Adviescommissie bezwaarschriften heeft naar aanleiding van de hoorzitting reden gezien om de behandeling van bezwaar aan te houden ten behoeve van het inwinnen van aanvullende informatie vanuit het college. Hiertoe is een termijn geboden tot 16 november 2018. Op deze datum is per e-mail het verweerschrift van het college naar eisers gestuurd met de mogelijkheid hier binnen 10 dagen op te reageren. Er zijn binnen de termijn geen reacties ontvangen. Verweerder heeft terecht opgemerkt dat eisers meermalen in de gelegenheid zijn gesteld om hun standpunten naar voren te brengen, maar daar is geen gebruik van gemaakt. Verder is gesteld noch gebleken dat het bestreden besluit is gebaseerd op nieuwe gegevens die na de hoorzitting naar voren zijn gekomen, waarvan eisers geen kennis hadden. Gelet hierop is de rechtbank van oordeel dat niet is gebleken dat eisers in hun belangen zijn geschaad.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Terrasvergunning</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <parablock>
+        <para>Voor zover eisers stellen dat de aanvraag aan het bestemmingsplan Zeeheldenkwartier 2010 had moeten worden getoetst, overweegt de rechtbank het volgende.</para>
+        <para>Zoals de Afdeling bestuursrechtspraak van de Raad van State in de uitspraken van 16 december 2015 (ECLI:NL:RVS:2015:3869) en 20 februari 2019 (ECLI:NL:RVS:2019:534)  heeft overwogen, kan bij de beslissing omtrent het verlenen van een terrasvergunning geen integrale afweging worden gemaakt van alle in het plangebied betrokken ruimtelijk relevante belangen. Bij beoordeling van een aanvraag van een terrasvergunning wordt slechts getoetst aan de voorschriften in de APV voor de gemeente Den Haag. Dit betekent dat de aanvraag slechts kan worden geweigerd indien deze niet zou voldoen aan de vereisten van artikel 2:10, derde lid, van de APV. Dit artikel brengt niet mee dat een aanvraag voor een terrasvergunning getoetst dient te worden aan het bestemmingsplan. Er is derhalve sprake van een beperkte toets. Alleen bij de vaststelling van het bestemmingsplan dan wel een verzoek om handhaving op grond hiervan en de verlening van de exploitatievergunning dient te worden beoordeeld of de woon- en leefsituatie in de omgeving van de horeca-inrichting op ontoelaatbare wijze nadelig zal worden beïnvloed. Een verzoek om handhaving van het bestemmingsplan of een exploitatievergunning is bij de behandeling van dit beroep niet aan de orde. Dat eisers het terras strijdig achten met het bestemmingsplan en de verleende exploitatievergunning staat in deze zaak dan ook niet ter discussie. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 2:10 van de APV behelst een vergunningplicht voor het plaatsen van voorwerpen op de weg. De weigeringsgronden zien met name op de gevolgen die het plaatsen van de voorwerpen op de weg met zich brengt. Ook bij het beoordelen van hinder als bedoeld in artikel 2:10, derde lid, van de APV gaat het om de inrichting van de openbare ruimte met het oog op de bruikbaarheid van de weg.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <parablock>
+        <para>De rechtbank volgt eisers niet in hun stelling dat het terras, in strijd met de Beleidsregels, niet recht voor de gevel van nummer [huisnummer] is gelegen. Uit de tekening behorend bij de aanvraag blijkt dat het terrasdeel B (Bite Me!) overeenkomstig de beleidsregels recht voor de gevel van nummer [huisnummer] is gelegen. Dat een deel van het aan huisnummer [huisnummer] vergunde terras voor het pand van eiser 1 komt te liggen en er voor hem, zoals hij stelt, een relatief klein stuk vrije ruimte (in de vorm van een driehoek) overblijft betekent niet dat de vergunning in strijd met de beleidsregels is verleend. Omdat de panden aan een plein zijn gelegen kunnen zowel huisnummer [huisnummer] als huisnummer [huisnummer] aanspraak maken op een overlappend deelterras, welke recht voor hun beide gevel ligt. De rechtbank verwijst in dit verband naar de uitspraak van Afdeling bestuursrechtspraak van de Raad van State van 6 september 2017 (ECLI:NL:RVS:2017:2425). De rechtbank ziet evenmin aanleiding om te oordelen dat verweerder in casu aanleiding had moeten zien om van het beleid af te wijken, omdat eiser onevenredig in zijn belangen is geschaad. Gesteld noch gebleken is dat in het pand van eiser 1 een horecaonderneming is gevestigd waarvoor een vergunning is aangevraagd. Evenmin is gebleken van concrete plannen daartoe. Verweerder mocht daarbij van betekenis achten dat rekening houden met een mogelijk toekomstig terras voor nummer [huisnummer] niet leidt tot een optimale verdeling van de gebruiksmogelijkheden van de weg. Ook omdat dit afbreuk zou doen aan het streven om het [adres] intensief te gebruiken als horecaplein om de levendigheid van dit deel van de stad te versterken. Indien eiser 1 in de toekomst een terrasvergunning zou willen aanvragen, dan zal na afloop van de bepaalde termijn van de betwiste vergunning een herverdeling van de beschikbare ruimte op het plein kunnen plaatsvinden. De rechtbank is verder van oordeel dat de enkele verwijzing naar de verklaring van de vorige huurder, bij gebreke van verdere concrete onderbouwing, onvoldoende reden is om aan te nemen dat de verhuurbaarheid van het pand van eiser zodanig negatief wordt beïnvloed door (de locatie van) het vergunde terras dat verweerder op grond daarvan had behoren af te zien van verlening van de vergunning.</para>
+        <para>Daartoe is verder van belang dat de indeling van de terrasvergunningen tot stand is gekomen in overleg met alle horecaondernemers aan het plein en de situatie al jaren zo is. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Verweerder heeft er verder op gewezen dat de vrije loopdoorgang van 1,5 meter, ten behoeve van de bereikbaarheid van het pand van eiser 1, zoals opgenomen in de beleidsregels, bij de aanvraag is getoetst. Deze voorwaarde maakt derhalve deel uit van de vergunning. Dit is, zoals ter zitting besproken, een bestendiging naar aanleiding van een eerdere bezwaarprocedure. Indien de loopdoorgang niet wordt vrijgehouden, omdat stoelen, banken of tafels van het terras te dicht op de gevel van eiser 1 worden geplaatst, kan dit middels een handhavingsverzoek aan de orde worden gesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>Verder heeft verweerder overwogen dat aan de vergunninghouder een exploitatievergunning is verleend, waarbij is afgewogen in welke mate van de horeca-inrichting, al dan niet met terrassen, overlast valt te vrezen. Bezwaren tegen geluidsoverlast hadden aan de orde kunnen komen in een bezwaarprocedure tegen de verleende exploitatievergunning. Er kan verder om handhaving worden gevraagd, indien de voorschriften van die vergunning worden overtreden. Ook heeft verweerder van belang mogen achten dat, zoals volgt uit het advies van de Adviescommissie bezwaarschriften van 4 december 2018, er sinds vele jaren terrassen zijn gelegen aan het [adres] . De gestelde geluidsoverlast zal met het aangevraagde terras niet heel anders zijn. Bovendien betreft de aanvraag een zomerterras lopen van 1 maart tot 1 november, waardoor slechts een deel van het jaar sprake zal zijn van een (eventueel) verhoogd geluidsniveau.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <parablock>
+        <para>Het beroep van eisers op het gelijkheidsbeginsel slaagt niet. Eisers geven als voorbeeld dat de gevel van andere panden aan het plein, zoals bij nummer 14, wel vrijgehouden wordt van terrassen. Verweerder heeft terecht gesteld dat deze vergelijking niet opgaat, omdat de breedte en positionering van de gevel immers bepalend zijn voor het doortrekken van de terraslijnen. Doordat de panden niet gelijk zijn en gelet op de vorm van het plein ontstaan er verschillen in de omvang en plaats van het terras.</para>
+        <para>Ter zitting is weliswaar gebleken dat de terraslijn voor het andere buurpand van eiser 1  (nummer 12/13) niet helemaal loodrecht doorgetrokken lijkt te zijn, maar de rechtmatigheid van die terrasvergunning staat in deze zaak niet ter discussie.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.6</nr>
+      <para>De rechtbank is gelet op voornoemde overwegingen van oordeel dat geen sprake is van één of meer weigeringsgronden zoals opgenomen in artikel 2:10, derde lid, van de APV en dat verweerder in redelijkheid de terrasvergunning heeft mogen verlenen.</para>
+      <para />
+      <parablock>
+        <para>Ter zitting heeft de vergunninghouder opgemerkt dat het hem bevreemd dat alleen tegen hem handhavend wordt opgetreden, omdat hij geen omgevingsvergunning heeft, en niet tegen de andere horecaondernemingen gelegen aan het [adres] . De rechtbank kan daarover in onderhavige procedure niet oordelen, nu dat handhavingsbesluit in deze procedure niet voorligt. Vergunninghouder kan daartegen desgewenst separaat bezwaar en beroep instellen.</para>
+      </parablock>
+      <para />
+      <para>7. De beroepen zijn ongegrond. </para>
+      <para />
+      <para>8. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart de beroepen ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.H. Smits, rechter, in aanwezigheid van mr. M.H. van Limpt, griffier. De beslissing is in het openbaar uitgesproken op 27 januari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen vier weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

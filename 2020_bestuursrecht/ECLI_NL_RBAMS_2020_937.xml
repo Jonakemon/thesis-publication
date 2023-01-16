@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:937</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-21T10:21:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 18/4603</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Belastingblad 2020/327</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:937">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:937</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-17T08:09:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:937 Rechtbank Amsterdam , 20-02-2020 / AMS 18/4603</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:937:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Leges omgevingsvergunning retributie of zuivere belasting?</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:937:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 18/4603 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 20 februari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [bedrijf] , te [plaats] , eiseres</bridgehead>
+    <para>(gemachtigde: E.J.M. Verhagen)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de heffingsambtenaar van de gemeente Amsterdam, verweerder</bridgehead>
+    <para>(gemachtigde: mr. M. Hop).</para>
+    <para />
+    <parablock>
+      <para>Partijen worden hierna [bedrijf] en de heffingsambtenaar genoemd.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In een besluit van 6 juli 2017 heeft de heffingsambtenaar aan [bedrijf] een voorlopige legesaanslag opgelegd ter hoogte van € 154.834,- (de voorlopige legesaanslag).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak op bezwaar van 7 juni 2018 (de bestreden uitspraak) heeft de heffingsambtenaar het bezwaar van [bedrijf] tegen de legesaanslag gegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [bedrijf] heeft daartegen beroep ingesteld. De heffingsambtenaar heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op de zitting van 9 januari 2020. [bedrijf] heeft zich laten vertegenwoordigen door haar gemachtigde. De heffingsambtenaar is verschenen in de persoon van mr. H. Oderkerk, bijgestaan door mr. M. Hop en mr. W.N.C. Verbruggen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Inleiding</title>
+    <para />
+    <para>1. [bedrijf] heeft op 22 februari 2017 een omgevingsvergunning aangevraagd voor het bouwen van een nieuwbouwcomplex met dertig woon- en/of werkruimtes en dertig inpandige parkeerplaatsen op het terrein [adressen] in Amsterdam. </para>
+    <para />
+    <para>2. Voor het in behandeling nemen van de aanvraag heeft de heffingsambtenaar een voorlopige legesaanslag opgelegd. De voorlopige legesaanslag is gebaseerd op de Verordening van de raad van Amsterdam regelende de heffing en invordering van leges 2017 (hierna: de Legesverordening) en de daarbij behorende legestabel. De heffingsambtenaar heeft de voorlopige legesaanslag van € 154.834,- als volgt opgebouwd:</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>Bouwen: € 156.110,-;</para>
+      </listitem>
+      <listitem>
+        <para>Legesvrijstelling voor energieopwekking: € 1.276,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para>De heffingsambtenaar is daarbij uitgegaan van de door [bedrijf] in de aanvraag opgegeven bouwsom van [bedrag 1] </para>
+    <para />
+    <para>3. De voorlopige legesaanslag is na bezwaar gewijzigd vastgesteld op € 153.057,97. Aan de wijziging ligt de legesvrijstelling voor het bouwen van zonnepanelen voor een bedrag van € 95.675,- ten grondslag. De bouwsom is hierdoor verlaagd tot [bedrag 2] </para>
+    <para />
+  </section>
+  <section>
+    <title>Het standpunt van [bedrijf]</title>
+    <para />
+    <parablock>
+      <para>4.	Na het arrest van de Hoge Raad van 10 mei 2019<footnote-ref linkend="_f3c043ff-1e20-4826-aa93-beb7080c6f04" /> voert [bedrijf] in beroep alleen nog aan dat de leges ten onrechte zijn vormgegeven als een zuivere belasting, hetgeen in strijd is met het karakter van de heffing als retributie. Volgens [bedrijf] staat het bedrag aan leges bij een groot bouwproject als hier aan de orde niet in verhouding tot de door de gemeente daadwerkelijk gemaakte kosten. Bij kleine bouwvergunningen hoeft de aanvrager slechts een fractie van de gemeentelijke kosten door middel van legesheffing te betalen. Ter onderbouwing van dit standpunt verwijst [bedrijf] naar het ‘Rapport Kostprijsonderzoek Omgevingsvergunning 2012’. De legesheffing voor omgevingsvergunningen heeft volgens [bedrijf] geen enkel verband meer met de kosten, de omvang of de aard van de dienstverlening. [bedrijf] vindt dan ook dat de gemeente gebruikmaakt van haar bevoegdheid om retributies te heffen op een wijze die in strijd is met het doel waarvoor deze bevoegdheid is verleend.  </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling door de rechtbank </title>
+    <para />
+    <para>5. De vraag die voorligt aan de rechtbank is of in dit geval sprake is van een retributie of een zuivere belasting. Belastingen zijn onvrijwillige bijdragen die de burger aan de overheid moet betalen zonder dat daar een individuele tegenprestatie tegenover staat. Retributies daarentegen zijn vergoedingen voor individuele tegenprestaties van de overheid.</para>
+    <para />
+    <para>6. In artikel 2, aanhef en onder a, van de Legesverordening is bepaald dat onder de naam ‘leges’ rechten worden geheven voor het genot van door of vanwege het gemeentebestuur verstrekte diensten. Voor het verkrijgen van een omgevingsvergunning zijn leges verschuldigd. Het belastbare feit is in de regel het in behandeling nemen van de aanvraag. Dat is de dienst waarvoor de leges verschuldigd zijn. De door de gemeente verrichte werkzaamheden kunnen worden aangemerkt als een dienst als die werkzaamheden rechtstreeks en in overheersende mate verband houden met dienstverlening ten behoeve van een individualiseerbaar belang.<footnote-ref linkend="_0fc576f3-d5bd-41ae-96c4-3022c13304fe" /></para>
+    <para />
+    <para>7. In dit geval zijn voorlopige leges<footnote-ref linkend="_656912ff-ebea-457b-8c4f-64b3011018f0" /> geheven in verband met het in behandeling nemen van een aanvraag van [bedrijf] om een omgevingsvergunning. Het belastbare feit heeft zich dus voorgedaan. De rechtbank stelt vast dat de behandeling en de beoordeling van deze aanvraag eerst en vooral het individuele belang van [bedrijf] dienen, die immers zonder de gevraagde vergunning het bouwwerk – waarop de aanvraag betrekking heeft – niet kan realiseren. De door de gemeente verrichte werkzaamheden kunnen dus worden aangemerkt als een dienst waarvoor een vergoeding (retributie) wordt geheven. De rechtbank vindt daarom dat van een onvrijwillige bijdrage (zuivere belasting) zonder individuele tegenprestatie geen sprake is. [bedrijf] krijgt dus geen gelijk. </para>
+    <para />
+    <para>8. Voor zover [bedrijf] nog aanvoert dat sprake is van een onredelijk en onwillekeurig tarief, omdat een hoge bouwsom als die van [bedrijf] leidt tot een aanslag die onevenredig veel hoger is dan de kosten die zijn gemoeid met de aanvraag, verwijst de rechtbank naar vaste rechtspraak van de Hoge Raad.<footnote-ref linkend="_7197c4b0-41ce-4cb0-8262-ba78a2f03ff9" /> Uit die rechtspraak volgt dat het gemeenten in beginsel vrijstaat die heffingsmaatstaven op te nemen die zich het beste verstaan met het gemeentelijke beleid en de praktijk van de belastingheffing. In een vergelijkbare zaak oordeelde het gerechtshof Amsterdam<footnote-ref linkend="_5ddb5525-6e64-4064-8b71-69aa906047a4" /> dat de gemeente niet gehouden is daarbij zodanige tariefstelling te hanteren dat slechts sprake is van het verhaal van de daadwerkelijke kosten. Het gerechtshof Amsterdam vond in die zaak dat de gemeente met een tariefstelling die neerkwam op ongeveer 3,2% van de bouwsom, de grenzen van de haar toekomende keuzevrijheid niet had overschreden. In dit geval is sprake van een zelfde tarief van ongeveer 3,2% van de bouwsom. De rechtbank sluit zich dan ook aan bij het oordeel van het gerechtshof Amsterdam en neemt deze over. Ook deze beroepsgrond van [bedrijf] slaagt niet.</para>
+    <para />
+  </section>
+  <section>
+    <title>Conclusie</title>
+    <para />
+    <parablock>
+      <para>9.	Het beroep is ongegrond. Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat bij deze uitkomst geen aanleiding.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.M. van der Linden-Kaajan, rechter, in aanwezigheid van mr. M. Gayir, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 20 februari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de het gerechtshof Amsterdam. </para>
+    <para />
+    <parablock>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van het gerechtshof Amsterdam worden verzocht om het treffen van een voorlopige voorziening. </para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_f3c043ff-1e20-4826-aa93-beb7080c6f04" label="1">
+    <para> ECLI:NL:HR:2019:689.</para>
+  </footnote>
+  <footnote id="_0fc576f3-d5bd-41ae-96c4-3022c13304fe" label="2">
+    <para> Zie bijvoorbeeld de conclusie A-G Van Ballegooijen van 4 mei 2011, ECLI:NL:PHR:2011:BQ4105, overweging 7.1 en verder.</para>
+  </footnote>
+  <footnote id="_656912ff-ebea-457b-8c4f-64b3011018f0" label="3">
+    <para> Op grond van artikel 14 van de Algemene wet inzake rijksbelastingen kan een voorlopige aanslag  worden opgelegd tot het bedrag waarop de aanslag vermoedelijk zal worden vastgesteld. </para>
+  </footnote>
+  <footnote id="_7197c4b0-41ce-4cb0-8262-ba78a2f03ff9" label="4">
+    <para>Zie bijvoorbeeld het arrest van de Hoge Raad van 30 juni 2017, ECLI:NL:HR:2017:1174.</para>
+  </footnote>
+  <footnote id="_5ddb5525-6e64-4064-8b71-69aa906047a4" label="5">
+    <para>Zie gerechtshof Amsterdam 5 juli 2018, ECLI:NL:GHAMS:2018:2602.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

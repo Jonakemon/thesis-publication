@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:3846</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-24T11:32:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 19_4970</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:3846">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:3846</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-20T15:49:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:3846 Rechtbank Zeeland-West-Brabant , 11-08-2020 / AWB- 19_4970</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:3846:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>BELEI</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:3846:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/4970 BELEI V</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 11 augustus 2020 van de enkelvoudige kamer op het verzet van</bridgehead>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Tilburg, </bridgehead>
+    <para>gemachtigde: mr. H.X. Botter, </para>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak in de beroepszaak tussen </bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] , te [plaatsnaam] , eiser, gemachtigde: mr. M.M. Breukers, </bridgehead>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Tilburg, </bridgehead>
+    <para>gemachtigde: mr. H.X. Botter. </para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para>
+      [naam eiser] heeft op 26 september 2019 beroep ingesteld tegen het niet tijdig beslissen door het college op zijn aanvraag van 18 maart 2019 om hem een tegemoetkoming toe te kennen op grond van de Regeling Tegemoetkoming chroom-6 (Regeling). </para>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 20 januari 2020 heeft de rechtbank het beroep kennelijk niet-ontvankelijk verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft tegen deze uitspraak verzet ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het verzet is ter zitting behandeld in Breda op 28 juli 2020. Namens het college was daarbij zijn gemachtigde en [naam vertegenwoordiger] aanwezig. Namens [naam eiser] was zijn gemachtigde aanwezig. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <para>1. De rechtbank heeft in de beroepszaak uitspraak gedaan zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) biedt die mogelijkheid als het eindoordeel buiten redelijke twijfel staat. De rechtbank heeft het beroep kennelijk niet-ontvankelijk verklaard, omdat het college volgens de rechtbank bij besluit van 30 oktober 2019 alsnog heeft beslist op de aanvraag. Gelet hierop is er geen procesbelang meer bij het beroep gericht tegen het niet tijdig nemen van een besluit. Aangezien de inhoudelijke standpunten van partijen ten aanzien van het primaire besluit nog onvoldoende tussen het college en [naam eiser] waren uitgesproken en besproken, heeft de rechtbank het beroep voorzover dit is gericht tegen dit inhoudelijke besluit op grond van artikel 6:20, vierde lid, van de Algemene wet bestuursrecht (Awb) verwezen naar het college om het als bezwaar te behandelen. <?linebreak?></para>
+    <bridgehead role="italic">Verzet </bridgehead>
+    <para />
+    <para>2. In deze verzetzaak dient uitsluitend te worden beoordeeld of de rechtbank in de uitspraak terecht heeft geoordeeld dat buiten redelijke twijfel is dat het beroep niet-ontvankelijk is. </para>
+    <para />
+    <para>3. Het college voert tegen de uitspraak van de rechtbank aan dat de brief van het college van 30 oktober 2019 geen besluit is als bedoeld in artikel 1:3, eerste lid, van de Awb. Volgens het college is geen sprake van een publiekrechtelijke rechtshandeling, maar is sprake van een privaatrechtelijke rechtshandeling. Het gaat om een beslissing om een privaatrechtelijke schikking aan te gaan. Het college verwijst daarbij ook naar artikel 8:3, tweede lid, van de Awb, waarin staat dat tegen een besluit ter voorbereiding van een privaatrechtelijke rechtshandeling geen beroep kan worden ingesteld. Daar heeft het college aan toegevoegd dat geen sprake is van een specifieke wettelijke grondslag. In dit geval ontbreekt een dergelijke grondslag om een schikking te treffen, omdat die grondslag wordt gevormd door een overeenkomst tussen de gemeente Tilburg, NedTrain B.V. en de Stichting Nederlands Spoorwegmuseum. Het college heeft ook verwezen naar de ‘Tipgeld’ uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (AbRS).<footnote-ref linkend="_73c62e50-9eb9-4c47-9f22-14c9f129e5b7" /> Het college leest in die uitspraak: op het moment dat geen specifieke wettelijke grondslag bestaat voor het uitkeren van een bedrag, leidt de beslissing van het bestuursorgaan daarover niet tot een appellabel besluit. Slechts in zeer bijzondere omstandigheden wordt daar van afgeweken. Dergelijke omstandigheden doen zich volgens het college niet voor. Het feit dat een rechtshandeling wel wordt verricht in het kader van de uitoefening van een publieke taak is (behoudens zeer bijzondere omstandigheden) onvoldoende om die handelingen aan te merken als een besluit.<footnote-ref linkend="_9e41a3b5-8c7c-4258-9057-8fe47f563df9" /> De omstandigheid dat het college de schikkingsvoorwaarden heeft goedgekeurd en dat deze op internet zijn geplaatst doet daar niets aan af.<footnote-ref linkend="_e7e18a23-86a0-498d-aed9-57b75d5432ff" /> Voor zover de verzetrechter zou menen dat wel sprake is van een specifieke bevoegdheid toekennende publiekrechtelijke grondslag, heeft te gelden dat in ieder geval geen grondslag bestaat om een overeenkomst met [naam eiser] te sluiten. Hij valt niet onder de definitie van tROM-deelnemer of tROM-medewerker. De schikkingsvoorwaarden uit de overeenkomst zien dus niet op hem. Gelet daarop zou [naam eiser] geen belanghebbende zijn in de zin van de Awb en was zijn verzoek geen aanvraag in de zin van artikel 1:3, derde lid, van de Awb.  <?linebreak?>4.	De verzetsgrond dat de rechtbank het beroep ten onrechte niet-ontvankelijk heeft verklaard, slaagt. Daartoe overweegt de verzetrechter als volgt. </para>
+    <para />
+    <parablock>
+      <para>De Regeling tegemoetkoming chroom-6 (hierna: Regeling) is opgesteld door de gemeente Tilburg, NedTrain en het Spoorwegmuseum. Op basis van een samenwerkingsovereenkomst tussen deze partijen hebben uitkeringsgerechtigden in het verleden treinen opgeknapt van het Spoorwegmuseum en heeft de gemeente Tilburg hen daarbij begeleid (project tROM). De kans bestaat dat de uitkeringsgerechtigden (tROM-deelnemers) en medewerkers van de gemeente Tilburg (tROM-medewerkers) tijdens die werkzaamheden zijn blootgesteld aan chroom-6. Op basis van de Regeling kunnen betrokkenen een tegemoetkoming (van € 7000) krijgen voor immateriële schade wegens bepaalde aan blootstelling van chroom-6 te relateren gezondheidsklachten.<footnote-ref linkend="_f5e5344b-5f85-4ce5-826f-cef642b0d0e7" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 18 maart 2019 heeft [naam eiser] verzocht om toekenning van een vergoeding, omdat hij in de periode van november 2002 tot en met zomer 2007 door de gemeente is ingehuurd als cameraman om project tROM vast te leggen. Bij brief van 30 oktober 2019 heeft het college aan [naam eiser] medegedeeld dat hij niet in aanmerking komt voor een vergoeding, omdat niet wordt voldaan aan de voorwaarden die daarvoor in de Regeling worden gesteld. [naam eiser] was geen tROM-deelnemer of tROM-begeleider.<footnote-ref linkend="_76db0060-e3d4-4a5f-a75f-8bf3a4e9e55a" /> Daar heeft het college in de brief aan toegevoegd dat [naam eiser] ook niet in aanmerking komt voor een vergoeding op grond van de hardheidsclausule.<footnote-ref linkend="_72836352-c16c-4790-ba2c-0e22b63112a5" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In verzet ligt de vraag aan de verzetrechter voor of de brief van 30 oktober 2019 kan worden aangemerkt als een besluit als bedoeld in artikel 1:3, eerste lid, van de Awb. In die bepaling staat dat onder besluit wordt verstaan: “een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.” </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar het oordeel van de verzetrechter heeft de rechtbank de brief van 30 oktober 2019 ten onrechte aangemerkt als een besluit als bedoeld in de Awb, omdat het geen publiekrechtelijke rechtshandeling inhoudt. In geen enkel wettelijk voorschrift is aan het college de bevoegdheid geattribueerd of gedelegeerd om een tegemoetkoming toe te kennen voor dan wel een schikking te treffen met medewerkers/begeleiders van het tROM-project. Een beslissing tot het toekennen dan wel afwijzen van een dergelijke tegemoetkoming is een privaatrechtelijke rechtshandeling. Daarbij heeft de verzetrechter in aanmerking genomen dat de tegemoetkoming is gebaseerd op een samenwerkingsovereenkomst tussen de gemeente Tilburg, NedTrain en het Spoorwegmuseum. Op basis van een aanbod en aanvaarding wordt aan tROM-medewerkers en tROM-deelnemers een tegemoetkoming toegekend. Dat kan worden gezien als een privaatrechtelijke schikking. De schikkingsvoorwaarden die daarvoor gelden zijn tussen voornoemde drie partijen civielrechtelijk overeengekomen en vastgelegd in de Regeling. Dat maakt de rechtsverhouding privaatrechtelijk. In de Regeling staat dat de toekenning of afwijzing van een verzoek van een tROM-medewerker geschiedt bij besluit als bedoeld in artikel 1:3, eerste lid, van de Awb. Ter zitting heeft het college verklaard dat dit gelet op het ambtenarenrecht (zoals dat voor ambtenaren van het college tot 1 januari 2020 gold) voor tROM-medewerkers expliciet op die wijze is verklaard. De tROM-medewerkers waren namelijk ambtenaren van de gemeente Tilburg. Een toekenning of afwijzing van een verzoek van een tROM-deelnemer geschiedt, zo blijkt uit de Regeling, niet bij besluit.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Uit jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State<footnote-ref linkend="_d6af2816-354d-401f-9e6a-e501f7188190" /> blijkt dat een beslissing van een bestuursorgaan die wordt genomen in het kader van een aan dat bestuursorgaan toegekende publieke taak die niet op een specifieke bevoegdheids-toekennende publiekrechtelijke grondslag berust, in zeer bijzondere gevallen toch als een besluit in de zin van de Awb worden aangemerkt. Naar het oordeel van de verzetrechter is van dergelijke bijzondere omstandigheden in dit concreet geval niet gebleken. Daar voegt de verzetrechter aan toe dat het college ter zitting heeft toegelicht dat [naam eiser] via de civielrechtelijke weg kan verzoeken om schadevergoeding. De gemeente Tilburg heeft daar een speciaal schadeloket voor geopend, waarbij het verzoek door een onafhankelijke partij wordt beoordeeld. </para>
+    </parablock>
+    <para />
+    <para>5. Uit het voorgaande volgt dat de rechtbank in de uitspraak van 20 januari 2020 ten onrechte heeft geoordeeld dat het beroep kennelijk niet-ontvankelijk was vanwege het ontbreken van procesbelang. De zaak is dus ten onrechte zonder zitting afgedaan. Het verzet is gegrond. Dit betekent dat de uitspraak van 20 januari 2020 vervalt.<footnote-ref linkend="_a1a39b70-69e4-4560-bedb-845134175294" /></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Beroep tegen het niet tijdig beslissen </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. De verzetrechter is van oordeel dat nader onderzoek niet kan bijdragen aan de beoordeling van de hoofdzaak. Nu ook de gemachtigde van [naam eiser] ter zitting in de gelegenheid is gesteld zijn standpunt toe te lichten, doet de verzetrechter op grond van artikel 8:55, tiende lid, van de Awb niet alleen uitspraak op het verzet maar ook op het beroep. </para>
+    <para />
+    <para>7. Tegen het niet tijdig nemen van een besluit op aanvraag kan beroep worden ingesteld (artikel 6:2, aanhef en onder b, in samenhang met artikel 7:1, eerste lid, aanhef en onder f, van de Awb). Het beroepschrift kan worden ingediend zodra het bestuursorgaan in gebreke is om op tijd een besluit te nemen en twee weken zijn verstreken nadat een schriftelijke ingebrekestelling door het bestuursorgaan is ontvangen (artikel 6:12, tweede lid, van de Awb).</para>
+    <para />
+    <parablock>
+      <para>De verzetrechter is van oordeel dat het verzoek van [naam eiser] niet aangemerkt kan worden als een aanvraag als bedoeld in artikel 1:3, derde lid, van de Awb. In die bepaling wordt onder een aanvraag verstaan: “een verzoek van een belanghebbende, een besluit te nemen”. In dit geval is sprake van een verzoek om een tegemoetkoming op grond van de Regeling. Zoals de verzetrechter onder 5 heeft overwogen, is de afwijzing van de tegemoetkoming op grond van de Regeling geen besluit. [naam eiser] was immers geen tROM-medewerker. Dat betekent dat het verzoek niet kan worden aangemerkt als een aanvraag als bedoeld in de Awb. Omdat geen sprake is van een aanvraag, zijn geen wettelijke termijnen gaan lopen. Van een met een besluit gelijk te stellen niet tijdig beslissen op een aanvraag als bedoeld in artikel 6:2, aanhef en onder b, van de Awb, waartegen beroep kan worden ingesteld, is geen sprake. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>8. Gelet op het voorgaande is het verzet gegrond en het beroep niet-ontvankelijk. </para>
+    <para />
+    <para>9. Voor een proceskostenveroordeling bestaat geen aanleiding, nu het college heeft verzocht om beiden partijen zijn eigen proceskosten te laten dragen. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het verzet gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep tegen het niet tijdig beslissen niet-ontvankelijk. </para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.E.M. Marsé, rechter, in aanwezigheid van mr. N. van Asten, griffier, op 11 augustus 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>
+      <?linebreak?>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen de uitspraak op het verzet staat geen rechtsmiddel open. Tegen de uitspraak op het beroep kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.  </para>
+  </section>
+  <footnote id="_73c62e50-9eb9-4c47-9f22-14c9f129e5b7" label="1">
+    <para> AbRS 23 augustus 2017, ECLI:NL:RVS:2017:2222. </para>
+  </footnote>
+  <footnote id="_9e41a3b5-8c7c-4258-9057-8fe47f563df9" label="2">
+    <para> AbRS 27 november 2019, ECLI:NL:RVS:2019:3998.  </para>
+  </footnote>
+  <footnote id="_e7e18a23-86a0-498d-aed9-57b75d5432ff" label="3">
+    <para> Ter onderbouwing van dat standpunt verwijst het college naar een uitspraak van de AbRS: AbRS 24 juli 2002, ECLI:NL:RVS:2002:AE5766. </para>
+  </footnote>
+  <footnote id="_f5e5344b-5f85-4ce5-826f-cef642b0d0e7" label="4">
+    <para> Artikel 4 van de Regeling. </para>
+  </footnote>
+  <footnote id="_76db0060-e3d4-4a5f-a75f-8bf3a4e9e55a" label="5">
+    <para> Artikel 4 jo. artikel 1, onder h en i van de Regeling. </para>
+  </footnote>
+  <footnote id="_72836352-c16c-4790-ba2c-0e22b63112a5" label="6">
+    <para> Artikel 12 van de Regeling. </para>
+  </footnote>
+  <footnote id="_d6af2816-354d-401f-9e6a-e501f7188190" label="7">
+    <para> AbRS 23 augustus 2017, ECLI:NL:RVS:2017:2222, r.o. 7.1 en AbRS 27 november 2019, ECLI:NL:RVS:2019:3998, r.o. 10.1. </para>
+  </footnote>
+  <footnote id="_a1a39b70-69e4-4560-bedb-845134175294" label="8">
+    <para> Artikel 8:55, negende lid, van de Awb. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

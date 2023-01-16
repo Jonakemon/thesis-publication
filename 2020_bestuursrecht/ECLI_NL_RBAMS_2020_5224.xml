@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:5224</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-30T14:28:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 5153 e.a.</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5224">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5224</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-30T14:28:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:5224 Rechtbank Amsterdam , 29-10-2020 / AWB - 20 _ 5153 e.a.</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:5224:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>8:81 Awb,  intrekken exploitatievergunning rondvaartboten, belangenafweging, belang van het college weegt zwaarder, onvoldoende  aangetoond dat de boten al vaarklaar zijn.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:5224:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 20/5153 - AMS 20/5435 - AMS 20/5436 - AMS 20/5437</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 29 oktober 2020 in de zaken tussen</bridgehead>
+    <para />
+    <parablock>
+      <para>de besloten vennootschappen:</para>
+    </parablock>
+    <para>
+      <emphasis role="bold">1. [eiser 1]</emphasis> te [vestigingsplaats] , </para>
+    <para>
+      <emphasis role="bold">2. [eiser 2]</emphasis> te [vestigingsplaats] ,</para>
+    <para>
+      <emphasis role="bold">3. [eiser 3] </emphasis>te [vestigingsplaats] ,</para>
+    <para>
+      <emphasis role="bold">4. [eiser 4] </emphasis>te [vestigingsplaats] ,</para>
+    <parablock>
+      <para>samen te noemen: verzoekers,</para>
+      <para>
+        <emphasis role="bold">(</emphasis>gemachtigde: [naam] ),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Amsterdam</emphasis>, verweerder</para>
+      <para>(gemachtigde: [naam] ).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met afzonderlijke besluiten van 21 februari 2020 (de bestreden besluiten) heeft verweerder de bezwaren van verzoekers tegen het intrekken van de exploitatievergunningen voor het vervoeren van personen of goederen over water ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben tegen de bestreden besluiten beroep ingesteld. Zij hebben daarnaast de voorzieningenrechter verzocht om een voorlopige voorziening te treffen die ertoe strekt dat de bestreden besluiten worden geschorst zodat verzoekers worden geacht in het bezit te zijn van exploitatievergunningen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft op 21 oktober 2020 een verweerschrift ingediend. Verzoekers hebben hierop gereageerd met een voor de zitting ingezonden pleitnota.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 22 oktober 2020 via een Skypeverbinding. Verzoekers hebben zich op de zitting laten vertegenwoordigen door hun gemachtigde. Verder waren namens verzoekers aanwezig [naam] en [naam] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en [naam] . </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in de beroepsprocedure niet.</para>
+    <para />
+    <para>2. Aan verzoekers zijn op 3 april 2014 exploitatievergunningen verleend voor het vervoeren van passagiers of goederen over water of het verzorgen van vaartochten. Zo is aan verzoekster 1 een vergunning verleend voor onbepaalde tijd, voor het bevaren van het binnenwater in vergunninggebied 2: Amsterdam exclusief de [zone] zone, met de boot “ [naam] ”. Aan de overige verzoekers zijn soortgelijke vergunningen verleend voor de boten “ [naam] ” en “ [naam] ” van verzoekster 2, de boot “ [naam] ” van verzoekster 4, de boten “ [naam] ” en de “ [naam] ” van verzoekster 3.</para>
+    <para />
+    <para>3. Na een voornemen van verweerder van 2 juli 2019 om de vergunningen in te trekken omdat daar gedurende een periode van ten minste 12 maanden geen gebruik van is gemaakt, hebben verzoekers hun zienswijze ingediend en informatie verstrekt. Verweerder heeft desalniettemin de vergunningen ingetrokken met de besluiten van 21 oktober 2019. De bezwaren daartegen heeft verweerder met de nu bestreden besluiten ongegrond verklaard. Verweerder wijst in dat verband op artikel 1.2.8, eerste lid, aanhef en onder b, van de Vob<footnote-ref linkend="_34f03fe2-45a3-4e64-80c9-068859e03903" /> en op artikel 1.4, derde lid, van de RPA<footnote-ref linkend="_642b616a-bf31-4874-abe3-57526345016b" />. Verweerder heeft uitgelegd dat het, gelet op het verdelen van schaarse vergunningen (550 stuks), niet de bedoeling is dat verleende vergunningen op de plank worden gehouden. Dat geldt ook voor de vergunningen van verzoekers die voor onbepaalde tijd zijn verleend. Volgens verweerder zijn vóór het nemen van het voornemen op 2 juli 2019 van de kant van verzoekers geen voorbereidingshandelingen verricht waaruit blijkt dat de vergunningen in gebruik gaan worden genomen. In de stukken die verzoekers hebben overgelegd, ziet verweerder geen aanleiding om daarin al een concrete bouwhandeling van een schip te zien.</para>
+    <para />
+    <para>4. Het is de voorzieningenrechter bekend dat de meervoudige kamer van deze rechtbank beroepszaken zal behandelen over het intrekken van verleende exploitatievergunningen waar geen gebruik van werd gemaakt, mogelijk in het eerste kwartaal van 2021.</para>
+    <para />
+    <para>5. De voorzieningenrechter stelt vast dat de rechtsvraag die bij die behandeling van de zaken bij de meervoudige kamer voorligt onder andere ook aan de orde is in de zaken van verzoekers. De voorzieningenrechter zal in deze uitspraak niet vooruitlopen op het oordeel van de meervoudige kamer door een voorlopig rechtmatigheidsoordeel te geven van de bestreden besluiten. Verder is de door verzoekers geschetste gang van zaken ten tijde van de hoorzitting voor de voorzieningenrechter geen aanleiding om reeds daarom een voorziening toe te wijzen. De voorzieningenrechter zal daarom op grond van een belangenafweging beslissen. </para>
+    <para />
+    <para>6. Verweerder heeft op de zitting nogmaals gewezen op de schaarse vergunningen die moeten worden verdeeld onder de aanvragers. Ook moeten de vergunningen die zijn verleend voor onbepaalde tijd worden omgezet in vergunningen voor bepaalde tijd. Verweerder wil bedrijven die al gebruik maken van de vaarvergunning zo lang mogelijk ontzien van omzetting van die vergunning dan wel van intrekking daarvan. Het niet gebruiken van een vergunning verdraagt zich daar niet mee en evenmin met een eerlijke verdeling van schaarse vergunningen waar verweerder voor staat. Hiertegenover staat het belang van verzoekers. Dat is er in gelegen zo spoedig mogelijk te kunnen varen met hun boten. Vijf van de zes boten zouden al klaar zijn en de zesde in maart 2022. Als de vergunningen van verzoekers niet herleven, kunnen zij hun boten niet voor een keuring aanbieden. Die keuring is nodig om de boten aan de vergunningen te koppelen, waarna verzoekers met de boten kunnen varen.</para>
+    <para>7. De voorzieningenrechter is niet gebleken dat vijf van de zes boten nu gereed zijn voor keuring en dan direct in de vaart (exploitatie) zullen worden genomen. Pas dan zou er reden zijn om de belangen van verzoekers doorslaggevend te achten. Verzoekers zijn hierin te vaag gebleven. In het dossier noch in wat op de zitting naar voren is gekomen, heeft de voorzieningenrechter aanknopingspunten kunnen vinden voor de stelling dat vijf boten gereed liggen. De enkele stelling daartoe - zonder nadere toelichting en zonder de boten waar het om gaat bij name te noemen - is naar het oordeel van de voorzieningenrechter onvoldoende. De door verzoekers overgelegde stukken<footnote-ref linkend="_4303e893-6150-4708-a2af-1e9e2240088f" /> maken dit oordeel niet anders. Uit deze stukken blijkt niet dat de boten op de werf gereed liggen om te varen. </para>
+    <para />
+    <para>8. Verder hebben verzoekers ook niet onderbouwd wat de financiële gevolgen zijn voor hun bedrijven. Er zijn daartoe geen stukken overgelegd. De voorzieningenrechter heeft uit de toelichting van [naam] op de zitting begrepen dat het vervelend is dat de vergunning is ingetrokken, maar niet dat zijn bedrijf daardoor nu op omvallen staat als het besluit tot intrekken van de vergunning niet wordt geschorst.</para>
+    <para />
+    <para>9. Al met al ziet de voorzieningenrechter geen aanleiding om het belang van verzoekers zwaarder te laten wegen dan het belang waar verweerder voor staat. Het verzoek om een voorlopige voorziening te treffen, wordt daarom afgewezen. </para>
+    <para />
+    <para>10. Voor een veroordeling in de proceskosten bestaat geen aanleiding en ook niet om verweerder op te dragen het door verzoekers betaalde griffierecht te vergoeden.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R. Hirzalla, voorzieningenrechter, in aanwezigheid van  R.E. Toonen, griffier. De beslissing is in het openbaar uitgesproken op 29 oktober 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>						voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+  <footnote id="_34f03fe2-45a3-4e64-80c9-068859e03903" label="1">
+    <para> Verordening op het binnenwater 2010.</para>
+  </footnote>
+  <footnote id="_642b616a-bf31-4874-abe3-57526345016b" label="2">
+    <para> Regeling Passagiersvaart Amsterdam 2013 (3B, 2016, 132).</para>
+  </footnote>
+  <footnote id="_4303e893-6150-4708-a2af-1e9e2240088f" label="3">
+    <para> Zoals een bankafschrift van betaling van [naam] , een bouwverklaring aan [eiser 2] van 23 maart 2020, een ongedateerde bouwovereenkomst met [eiser 2] en een overeenkomst financiering uitbreiding tussen [eiser 1] en [eiser 2] .</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

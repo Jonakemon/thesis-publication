@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:3219</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-14T10:21:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 1354</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3219">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3219</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-14T10:21:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:3219 Rechtbank Den Haag , 20-03-2020 / AWB - 19 _ 1354</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:3219:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wet BAG, last onder bestuursdwang. Adres van perceel komt niet voor in huisnummer-besluit. Handhaving onevenredig. Verw hanteert jarenlang verschillende niet bestaande adressen voor zelfde perceel en zelfs voor toekomstig bestemmingsplan. Beroep gegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:3219:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/1354 BESLU</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 20 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. L. Brouwers),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Nieuwkoop, verweerder</bridgehead>
+    <para>(gemachtigde: F. Zorn).</para>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 7 augustus 2018, verzonden op 8 augustus 2018, (het primaire besluit) heeft verweerder aan eiser een last onder bestuursdwang opgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 11 januari 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. Verweerder heeft daarbij het primaire besluit gehandhaafd met uitzondering van de begunstigingstermijn en deze gewijzigd in een week na de verzenddatum van het primaire besluit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 7 januari 2020.</para>
+      <para>Eiser is verschenen, bijgestaan door zijn gemachtigde.</para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en R. den Dekker.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <parablock>
+        <para> 	Bij brief van 8 februari 2010 heeft verweerder eiser meegedeeld dat hij, indien hij</para>
+        <para>zijn adres wil (laten) veranderen van [adres 1] te [plaats] in [adres 2] te [plaats] , daartoe een verzoek moet indienen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Bij brief van 8 april 2010 heeft verweerder, naar aanleiding van een daartoe strekkend verzoek van eiser, meegedeeld dat er in het gemeentearchief geen huisnummerbesluit of bekendmaking aanwezig is van het adres [adres 1] te [plaats] . In 2009 is de Wet basisregistratie adressen en gebouwen (Wet BAG) in werking getreden en de gemeente is bezig met een inventarisatie van alle huisnummerbesluiten. Voor de adressen zonder brondocument zal een gezamenlijk huisnummerbesluit worden genomen. Ook het adres van eiser wordt daarbij meegenomen. </para>
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <parablock>
+        <para>Bij besluit tot het vaststellen van nummeraanduidingen (huisnummerbesluit) van </para>
+        <para>17 september 2010, gewijzigd bij huisnummerbesluit van 25 oktober 2010, is op grond van artikel 6 van de Wet BAG in verbinding met artikel 3 van de Verordening naamgeving en nummering (adressen) Nieuwkoop 2010 (de Verordening), onder meer besloten tot vaststelling van de nummeraanduiding(en) aan de verblijfsobjecten zoals aangegeven in de bijlage. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <parablock>
+        <para>Bij brief van 4 oktober 2010 heeft verweerder eiser meegedeeld dat op </para>
+        <para>17 september 2010 een massa huisnummerbesluit is genomen voor alle adressen, waarbij ook het adres van eiser, [adres 1] in [plaats] , is meegenomen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij brief van 1 augustus 2011 heeft verweerder eiser meegedeeld dat, gelet op de Wet BAG en de Verordening, van het bestaande adres [adres 1] een nieuw brondocument moest worden gemaakt. Dit is het zogenaamde formaliseringsbesluit. Het gebruik van [adres 3] te [plaats] door eiser is niet rechtmatig en het zichtbaar aanbrengen van de door eiser gekozen nummering is zelfs strafbaar. Het adres [adres 1] te [plaats] wordt gehanteerd en dat moet bij alle overheidshandelen worden gebruikt. Eiser kan een verzoek tot wijziging van zijn huisnummer aanvragen. Verweerder geeft ten slotte aan niet meer te zullen reageren op brieven van eiser over dit onderwerp.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <parablock>
+        <para>Op 22 juni 2018 is door [A] een melding gedaan dat eiser oneigenlijk gebruik maakt van het postadres [adres 3] te [plaats] . Het perceel is deels verkocht en de nieuwe eigenaren hebben het adres en de brievenbus van het perceel [adres 1] te [plaats] overgenomen. Eiser, eigenaar van het overgebleven perceel, heeft op een brievenbus bij dat perceel nummer 106-8 vermeld. Dit leidt tot problemen bij postbezorging voor het adres [adres 2] te [plaats] , zo stelt Sassen.</para>
+        <para>Op 19 juli 2018 heeft verweerder Sassen meegedeeld dat de kadastrale percelen [kadastraal nummer] , [kadastraal nummer] en [kadastraal nummer] voorheen vielen onder het adres [adres 1] te [plaats] . Door de verkoop van de laatste twee percelen moet een nieuwe nummeraanduiding worden toegekend aan het eerste perceel. De eigenaar heeft eigenhandig een nummer aangebracht, zonder een officieel adres aan te vragen bij de gemeente. De eigenaar zal dan ook worden aangeschreven dat de nummeraanduiding 106-8 verwijderd moet worden en dat hij een nieuw adres moet aanvragen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Bij brief van 26 juli 2018 heeft verweerder eiser verzocht het voeren van het illegale adres [adres 3] te [plaats] per direct te beëindigen - in elk geval door dat nummer van zijn brievenbus ter plaatse te verwijderen - en voor zijn in eigendom gebleven gronden met opstallen (kadastraal [kadastraal nummer] ) aan de [adres 1] een (nieuw) officieel adres aan te vragen. Verweerder heeft het voornemen om, indien het illegale huisnummer niet vóór 1 augustus 2018 is verwijderd, een last onder bestuursdwang op te leggen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <parablock>
+        <para>Bij het primaire besluit heeft verweerder eiser een last onder bestuursdwang opgelegd, omdat uit controle op 1 augustus 2018 is gebleken dat eiser de overtreding niet ongedaan heeft gemaakt. Eiser dient het onrechtmatig gebruik van het adres [adres 3] te [plaats] binnen twee dagen na de verzenddatum van dit besluit te beëindigen en beëindigd te houden, in elk geval door dat nummer van zijn brievenbus ter plaatse te verwijderen en verwijderd te houden.</para>
+        <para>Eiser heeft bezwaar gemaakt tegen dit besluit.</para>
+        <para>Op 13 augustus 2018 hebben toezichthouders het betreffende huisnummer van de brievenbus verwijderd. </para>
+      </parablock>
+      <para>2. Bij het bestreden besluit heeft verweerder het bezwaar van eiser tegen het primaire</para>
+      <para>besluit ongegrond verklaard. Verweerder heeft het primaire besluit gehandhaafd met uitzondering van de begunstigingstermijn en deze gewijzigd in een week na verzenddatum van het primaire besluit. Omdat de bestuursdwang op 13 augustus 2018 reeds is uitgevoerd door de gemeente en de gemeente geen kosten heeft verhaald hiervoor, brengt dit overigens geen verandering met zich mee.</para>
+      <para />
+      <para>3. Eiser heeft - voor zover hier van belang - aangevoerd dat geen sprake is van een overtreding. Hij voert al sinds jaar en dag het adres [adres 3] te [plaats] en begrijpt niet waarom het aangemerkt wordt als illegaal. Hij verwijst naar correspondentie van verschillende officiële instanties gericht aan dit adres en het lijkt hem niet mogelijk dat dit gebeurt zonder dat sprake is van een officieel adres. Het is hem niet duidelijk waarom, als er sprake is van een overtreding, geen sprake kan zijn van legalisering. Er is geen enkel belang gediend met het weghalen van de nummering. Verweerder had met hem in overleg kunnen treden om tot een andere oplossing te komen. Eiser acht de handhaving onevenredig.</para>
+      <para />
+      <para>4. Een overzicht van de relevante wettelijke bepalingen is in de bijlage opgenomen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Volgens vaste rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling, zie de uitspraak van 16 oktober 2019, ECLI:NL:RVS:2019:3486) zal, gelet op het algemeen belang dat gediend is met handhaving, in geval van overtreding van een wettelijk voorschrift het bestuursorgaan dat bevoegd is om met een last onder bestuursdwang of dwangsom op te treden, in de regel van deze bevoegdheid gebruik moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd, dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisatie bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>In de bijlage bij het huisnummerbesluit van 17 september 2010, zoals gewijzigd bij besluit van 25 oktober 2010 (overweging 1.3.), zijn opgenomen de adressen [adres 2] (zonder toevoeging) en [adres 1] te [plaats] . </para>
+        <para>Nu het door eiser gehanteerde adres [adres 3] niet is opgenomen in deze bijlage, heeft verweerder terecht vastgesteld dat sprake is van illegaal gebruik van dit adres voor het kadastrale perceel [kadastraal nummer] en dat eiser met het aanbrengen van het nummer 106-8 op de brievenbus artikel 4, vierde lid, van de Verordening heeft overtreden. In zoverre is verweerder bevoegd en in beginsel gehouden om handhavend op te treden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Verweerder wil niet meewerken aan legalisering. Verweerder stelt zich op het standpunt dat voor het perceel dat eiser thans nog in eigendom heeft een nieuw adres moet worden aangevraagd en dat het, gelet op de adressering van aangrenzende percelen, niet wenselijk is om aan het perceel van eiser een adres aan de [adres 2] toe te kennen. Eiser heeft dit betwist. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Eiser heeft zijn standpunt dat zijn adres tot op heden door officiële instanties wordt gebruikt ook in bezwaar aangevoerd. Verweerder heeft in het bestreden besluit gesteld dat het gegeven dat het Kadaster gebruik maakt van het adres, niet afdoet aan het feit dat geen sprake is van een officieel adres in de zin van de Wet BAG. Het is verweerder voorts niet duidelijk welk belang eiser heeft bij het gebruik van het adres [adres 3] , te meer omdat eiser zelf niet meer woonachtig is op het perceel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <parablock>
+        <para>De rechtbank overweegt dat verweerder, door zich bij zijn beoordeling te beperken tot het gebruik van het adres door het Kadaster, het bestreden besluit niet met de daartoe vereiste zorgvuldigheid heeft voorbereid. Verweerder had de voorgeschiedenis van eiser in deze zaak en de eigen handelwijze daarbij moeten meewegen. Uit de gedingstukken blijkt het volgende. Eiser is door de gemeente tot en met 2010 aangeschreven over het adres [adres 3] (kadastraal nummer A6888) in het kader van de WOZ en de gemeentelijke heffingen. Na het huisnummerbesluit is eiser aangeschreven over hetzelfde kadastrale perceel, echter om onbekende reden met vermelding van het adres [adres 2] . Dit adres is evenmin in de bijlage bij het huisnummerbesluit opgenomen. </para>
+        <para>In februari 2013 heeft eiser met de gemeente Nieuwkoop een planschadevergoedings-overeenkomst gesloten in verband met een toekomstig bestemmingsplan. De overeenkomst ziet mede op het perceel dat is bekend als locatie [adres 2] acht. Over 2013 zijn waterschapsbelastingen geheven met de vermelding [adres 2] acht en in 2016 en 2017 met de vermelding A6888. In 2018 is door het Kadaster met de splitsing van percelen van eiser aan het resterende perceel het kadastrale nummer [kadastraal nummer] toegekend, met de vermelding van het adres [adres 3] . In de Vooraankondiging bestemmingsplan Transformatie [adres 2] natte kant (Gemeenteblad 12 september 2018, nr. 192382) is vermeld dat het plangebied globaal wordt begrensd door de [adres 2] westzijde even nummers vanaf [huisnummers] (A) [plaats] , gemeente Nieuwkoop. Op 4 oktober 2018 heeft de gemeente eiser in verband met de Transformatie een verbeterd kavelpaspoort voor de [adres 3] ( [kadastraal nummer] ) toegezonden. Ter zitting heeft eiser onbetwist uiteengezet dat de voorbereiding van het bestemmingsplan bij de gemeente nog altijd gaande is en dat hierbij door de gemeente voor eisers perceel het adres [adres 3] wordt gehanteerd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <parablock>
+        <para>De rechtbank deelt niet het standpunt van verweerder dat eiser geen belang meer heeft bij deze procedure, nu hij is verhuisd. Zoals verweerder eiser al vanaf 2011 heeft meegedeeld, dient eiser een aanvraag in te dienen in het kader van de Wet BAG. Eiser heeft dit niet gedaan. Dit betekent dat hij het adres [adres 3] niet mag voeren en dus het huisnummer niet op de brievenbus mag plakken. Anderzijds kan worden vastgesteld dat verweerder jarenlang niet consistent is geweest door telkens verschillende, niet bij het huisnummerbesluit vastgestelde adressen, waaronder [adres 3] , te hanteren voor hetzelfde perceel. Ná het handhavingsbesluit, dat in deze procedure onderwerp van geschil is, en tot op heden, hanteert de gemeente het adres [adres 3] in het toekomstige bestemmingsplan. Dat de gemachtigde van verweerder stelt hiermee niet bekend te zijn, kan hier niet aan afdoen. Aan de hand van de door eiser ingediende stukken had hierover intern navraag gedaan kunnen worden.</para>
+        <para>De rechtbank is, gelet op het vorenstaande, van oordeel dat in dit geval het handhavend optreden onevenredig is in verhouding tot de daarmee te dienen doelen. Hetgeen partijen overigens hebben aangevoerd kan niet tot een ander oordeel leiden. De rechtbank is ten slotte van oordeel dat beide partijen een aandeel hebben in het ontstaan en het voortbestaan van de huidige problematiek. Het is dan ook raadzaam dat partijen in overleg treden om tot een oplossing te komen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.7.</nr>
+      <para>Het voorgaande betekent dat het beroep gegrond moet worden verklaard en het bestreden besluit moet worden vernietigd. De rechtbank zal zelf in de zaak voorzien, in die zin dat het primaire besluit wordt herroepen.</para>
+      <para />
+      <para>6. Omdat de rechtbank het beroep gegrond verklaart, moet verweerder aan eiser het door hem betaalde griffierecht vergoeden.</para>
+      <para />
+      <para>7. De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen op de zitting, met een waarde per punt van € 525,- en een wegingsfactor 1). Voor vergoeding van kosten van rechtsbijstand in de bezwaarprocedure bestaat geen aanleiding, nu eiser tijdens de bezwaarprocedure niet heeft verzocht om vergoeding van proceskosten en niet is gebleken dat hem bedoelde rechtsbijstand werd verleend.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>herroept het primaire besluit;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1.050,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 20 maart 2020 door mr. A.E. Dutrieux, rechter, in aanwezigheid van A.J. van Rossum, griffier. Als gevolg van de maatregelen rondom het Corona virus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>						De rechter is verhinderd te tekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+  </section>
+  <section>
+    <title>Gemeentewet</title>
+    <para />
+    <parablock>
+      <para>Artikel 108, voor zover hier van belang:</para>
+      <para>1. De bevoegdheid tot regeling en bestuur inzake de huishouding van de gemeente wordt aan het gemeentebestuur overgelaten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wet basisregistraties adressen en gebouwen (Wet BAG)</title>
+    <para />
+    <parablock>
+      <para>Artikel 1, voor zover hier van belang:</para>
+      <para>In deze wet en de daarop berustende bepalingen wordt verstaan onder:</para>
+    </parablock>
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>adres: door het bevoegde gemeentelijke orgaan aan een verblijfsobject, een standplaats of een ligplaats toegekende benaming, bestaande uit een combinatie van de naam van een openbare ruimte, een nummeraanduiding en de naam van een woonplaats;</para>
+      </listitem>
+      <listitem>
+        <para>authentiek gegeven: in een basisregistratie opgenomen gegeven dat bij of krachtens de wet als authentiek is aangemerkt;</para>
+      </listitem>
+      <listitem>
+        <para>basisregistratie: basisregistratie adressen en gebouwen als bedoeld in artikel 2;</para>
+      </listitem>
+      <listitem>
+        <para>brondocument: document in welke vorm dan ook waarin rechtsfeiten en andere voor de registraties relevante feiten zijn neergelegd;</para>
+      </listitem>
+    </orderedlist>
+    <para>h.   nummeraanduiding: door het bevoegdelijk gemeentelijke orgaan als zodanig</para>
+    <para>      toegekende aanduiding van een verblijfsobject, een standplaats of een ligplaats;</para>
+    <para />
+    <parablock>
+      <para>Artikel 2, voor zover hier van belang:</para>
+    </parablock>
+    <para>1. Burgemeester en wethouders houden een geautomatiseerde basisregistratie adressen en gebouwen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 3</para>
+      <para>De basisregistratie wordt gehouden met als doel het aan eenieder beschikbaar stellen van de bij of krachtens deze wet in de basisregistratie opgenomen gegevens.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 6, voor zover hier van belang:</para>
+    </parablock>
+    <para>1. De gemeenteraad deelt het grondgebied van de gemeente in een of meer woonplaatsen in, stelt de openbare ruimten vast en kent nummeraanduidingen toe aan de op het grondgebied van de gemeente gelegen verblijfsobjecten, standplaatsen en ligplaatsen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 35, voor zover hier van belang:</para>
+    </parablock>
+    <para>1. Indien een bestuursorgaan bij het vervullen van zijn publiekrechtelijke taak een gegeven nodig heeft dat krachtens deze wet als authentiek gegeven in de basisregistratie beschikbaar is, gebruikt het dat authentieke gegeven.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">De Verordening naamgeving en nummering (adressen) Nieuwkoop 2010 (de Verordening) </emphasis>is op 29 april 2010 in werking getreden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1, voor zover en ten tijde hier van belang:</para>
+      <para>In deze verordening (en de daarop berustende bepalingen) wordt verstaan onder:</para>
+    </parablock>
+    <para>a. Adres: door het college aan een verblijfsobject, een standplaats of een ligplaats toegekende benaming, bestaande uit een combinatie van de naam van een openbare ruimte, een nummeraanduiding en de naam van een woonplaats;</para>
+    <para>c. College: het college van burgemeester en wethouders;</para>
+    <para>f. Nummeraanduiding: door het college als zodanig toegekende aanduiding van een verblijfsobject, een standplaats, een ligplaats en een afgebakend terrein dat bestaat uit een of meer Arabische cijfers, al dan niet met toevoeging van een letter- en/of cijfercombinatie;</para>
+    <para>h. Pand: kleinste bij de totstandkoming functioneel en bouwkundig-constructief zelfstandige eenheid die direct en duurzaam met de aarde is verbonden en betreedbaar en afsluitbaar is; </para>
+    <para>i. Rechthebbende: een ieder die krachtens eigendom of een beperkt zakelijk recht of een persoonlijk recht zodanig beschikking heeft over een onroerende zaak dat hij naar burgerlijk recht bevoegd is om in die zaak te handelen zoals in de verordening is voorgeschreven, alsmede de beheerder;</para>
+    <para>k. Uitvoeringsvoorschriften: nadere bepalingen inzake naamgeving en nummering (adressen);</para>
+    <para>l. Verblijfsobject: de kleinste binnen één of meerdere panden gelegen en voor woon-, bedrijfsmatige of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen afsluitbare toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte, die onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is;</para>
+    <para>o. De Wet: Wet basisregistraties adressen en gebouwen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2  </para>
+    </parablock>
+    <para>1. Het college stelt de grens en de naam van de woonplaats(en) vast en kan desgewenst de woonplaats(en), al dan niet op basis van bouwblokken, in wijken en buurten verdelen en aanduiden met namen, zo nodig met letters en nummers.</para>
+    <para>2. Het college kent per woonplaats namen toe aan delen van de openbare ruimte en zonodig aan gemeentelijke gebouwen en bouwwerken.</para>
+    <para>3. Onder vaststellen, verdelen, aanduiden en toekennen, zoals bedoeld in het eerste lid en tweede lid, wordt tevens begrepen het wijzigen en intrekken daarvan.</para>
+    <para />
+    <parablock>
+      <para>Artikel 3  </para>
+    </parablock>
+    <para>1. Het college stelt de ligplaatsen en standplaatsen vast.</para>
+    <para>2. Het college kent binnen het grondgebied van de gemeente nummers toe aan verblijfsobjecten, ligplaatsen en standplaatsen.</para>
+    <para>3. Het college bepaalt de afbakening van panden, verblijfsobjecten, standplaatsen en ligplaatsen.</para>
+    <para>4. De toekenning of afbakening, zoals bedoeld in het tweede en derde lid, kan ook op voor personen toegankelijke objecten, zijnde niet verblijfsobjecten of op afgebakende terreinen worden toegepast, indien dat naar oordeel van het college noodzakelijk is.</para>
+    <para>5. Onder vaststellen, toekennen en bepalen, zoals bedoeld in het eerste tot en met vierde lid, wordt tevens begrepen het wijzigen en intrekken daarvan.</para>
+    <para />
+    <parablock>
+      <para>Artikel 4  </para>
+    </parablock>
+    <para>1. De door het college toegekende namen, zoals vervat in artikel 2, worden door of in opdracht van de gemeente blijvend zichtbaar en in voldoende aantallen ter plaatse aangebracht.</para>
+    <para>2. Aan objecten, zoals aangegeven in artikel 3, waarvoor een nummer is vastgesteld moet dat nummer op een doeltreffende wijze zijn aangebracht.</para>
+    <para>3. Het is eenieder die daartoe niet is bevoegd is, verboden namen aan de openbare ruimte en woonplaatsen, wijken en buurten toe te kennen door deze op zichtbare wijze aan te brengen.</para>
+    <para>4. Het is een ieder die daartoe niet is bevoegd, verboden aan een pand of verblijfsobject, stand- of ligplaats of afgebakend terrein nummers toe te kennen door deze op zichtbare wijze aan te brengen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 8, voor zover hier van belang:</para>
+    </parablock>
+    <para>2. Met het toezicht op de naleving van het bepaalde bij of krachtens deze verordening is belast de team handhaving.</para>
+    <para />
+  </section>
+  <section>
+    <title>Algemene wet bestuursrecht (Awb)</title>
+    <para />
+    <parablock>
+      <para>Artikel 5:2, voor zover hier van belang:</para>
+    </parablock>
+    <para>1. In deze wet wordt verstaan onder:</para>
+    <para>b. herstelsanctie: een bestuurlijke sanctie die strekt tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een overtreding, tot het voorkomen van herhaling van een overtreding, dan wel tot het wegnemen of beperken van de gevolgen van een overtreding;</para>
+    <para />
+    <parablock>
+      <para>Artikel 5:21</para>
+      <para>Onder last onder bestuursdwang wordt verstaan: de herstelsanctie, inhoudende:</para>
+    </parablock>
+    <para>a. een last tot geheel of gedeeltelijk herstel van de overtreding, en</para>
+    <para>b. de bevoegdheid van het bestuursorgaan om de last door feitelijk handelen ten uitvoer te leggen, indien de last niet of niet tijdig wordt uitgevoerd.</para>
+    <para />
+    <parablock>
+      <para>Artikel 5:24</para>
+    </parablock>
+    <para>1. De last onder bestuursdwang omschrijft de te nemen herstelmaatregelen.</para>
+    <para>2. De last onder bestuursdwang vermeldt de termijn waarbinnen zij moet worden uitgevoerd.</para>
+    <para>3. De last onder bestuursdwang wordt bekendgemaakt aan de overtreder, aan de rechthebbenden op het gebruik van de zaak waarop de last betrekking heeft en aan de aanvrager.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

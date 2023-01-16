@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:758</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-10T13:13:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/2175</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:758">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:758</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-10T13:13:30</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:758 Rechtbank Amsterdam , 11-02-2020 / AMS 19/2175</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:758:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Urgentieverklaring, hardheidsclausule, psychische klachten, 8 EVRM.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:758:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/2175 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 11 februari 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [eiser], te Amsterdam, eiser </bridgehead>
+    <para>(gemachtigde: mr. S. Benayad),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Amsterdam, verweerder </bridgehead>
+    <para>(gemachtigde: mr. N. Hamdach).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Met het besluit van 23 januari 2019 (het primaire besluit) heeft verweerder de aanvraag van eiser voor een urgentieverklaring afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 9 april 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft nadere stukken ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 14 januari 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <para>1. De rechtbank gaat uit van de volgende feiten. Op 21 januari 2019 heeft eiser op medische en sociale gronden een urgentieverklaring aangevraagd. Eiser huurt een kamer in een woning in Amsterdam. Hij deelt de woning met twee andere mannen. Eiser kampt met psychische problemen en heeft vijf minderjarige kinderen. Ten tijde van het bestreden besluit hadden vier kinderen het hoofdverblijf bij hun moeder. De oudste zoon is onder toezicht gesteld en woonde met een machtiging uithuisplaatsing in een voorziening voor crisisopvang. </para>
+    <para />
+    <para>2. Eiser voert aan dat hij lijdt aan een depressieve stoornis en een waanstoornis. De psychische klachten worden mede veroorzaakt door zijn woon- en leefsituatie en verergeren hierdoor ook. Eiser voert vervolgens aan dat de woonsituatie van zijn oudste zoon een bedreiging voor de ontwikkeling van zijn zoon vormt en het verlenen van urgentie noodzakelijk is voor het creëren van rust en stabiliteit. Er is een definitieve oplossing nodig in plaats van herplaatsingen in crisisopvangen en pleeggezinnen. Tot slot voert eiser aan dat het bestreden besluit in strijd is met artikel 8 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (het EVRM). Door de afwijzing van de urgentieverklaring wordt eiser het recht op omgang met zijn kinderen ontnomen. Doordat eiser geen passende woning heeft, heeft hij geen rust en regelmaat in zijn leven waardoor hij niet in staat is om leuke dingen met zijn kinderen te ondernemen.  </para>
+    <para />
+    <para>3. Verweerder heeft de urgentieverklaring geweigerd. Er is sprake van een algemene weigeringsgrond, omdat eiser in de periode direct voorafgaand aan het indienen van de aanvraag niet twee jaar onafgebroken in Amsterdam woonde (artikel 2.6.5, eerste lid, onder i, van de Huisvestingsverordening Amsterdam 2016). Er zijn daarnaast geen feiten of omstandigheden gebleken, die het verlenen van een urgentieverklaring rechtvaardigen op grond van de hardheidsclausule van artikel 2.6.11 van de Huisvestingsverordening Amsterdam 2016. </para>
+    <para />
+    <para>4. Dat er sprake is van een algemene weigeringsgrond, is tussen partijen niet langer in geschil. Aangezien een algemene weigeringsgrond de beslissing van verweerder tot afwijzing van de urgentieverklaring zelfstandig kan dragen, is het verlenen van een urgentieverklaring alleen nog mogelijk als eiser een geslaagd beroep kan doen op de hardheidsclausule. </para>
+    <para />
+    <parablock>
+      <para>Artikel 2.6.11, eerste lid, van de Huisvestingsverordening Amsterdam 2016 luidt:</para>
+      <para>“Burgemeester en wethouders zijn, indien toepassing van deze verordening zou leiden tot weigering van een urgentieverklaring, bevoegd om toch een urgentieverklaring toe te kennen indien:</para>
+    </parablock>
+    <para>a.	weigering van een urgentieverklaring leidt tot een schrijnende situatie; en,</para>
+    <para>b.	sprake is van bijzondere, bij het vaststellen van de verordening onvoorziene, omstandigheden die gelet op het doel van de verordening redelijkerwijs toch een grond voor de verlening van een urgentieverklaring zouden kunnen zijn.”</para>
+    <para />
+    <para>5. De rechtbank stelt voorop dat verweerder bij het al dan niet toepassen van een hardheidsclausule beoordelingsvrijheid toekomt. Het gebruik van deze vrijheid moet door de rechtbank terughoudend worden getoetst. De rechtbank verwijst hiervoor naar een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 3 februari 2016 (ECLI:NL:RVS:2016:231).</para>
+    <para />
+    <para>6. Verweerder heeft ter zitting toegelicht dat psychische klachten in zijn algemeenheid slechts bij hele hoge uitzondering kunnen leiden tot een urgentieverklaring. Naar het oordeel van de rechtbank is uit de medische informatie in deze zaak onvoldoende aannemelijk geworden dat de woonsituatie de gezondheid van eiser dusdanig bedreigt dat er sprake is van een schrijnende situatie. Uit een verklaring van de behandelaren van eiser blijkt weliswaar dat zij een urgentieverklaring steunen, maar dit is vanuit het oogpunt van de ontwikkeling van de oudste zoon van eiser. De rechtbank acht voldoende gemotiveerd dat de psychische klachten van eiser niet leiden tot toepassing van de hardheidsclausule. </para>
+    <para>7. In het bestreden besluit stelt verweerder vrij kort en algemeen dat er geen bijzondere omstandigheden zijn geconstateerd. Ter zitting heeft verweerder nader toegelicht waarom ook de situatie van de zoon niet leidt tot verlening van een urgentieverklaring. Verweerder heeft bij de beoordeling meegewogen dat het op zichzelf geen unieke situatie is dat een zoon bij zijn vader wil wonen en dat de zoon nu niet dakloos is. De rechtbank begrijpt dat verblijf in een crisisopvang naar zijn aard tijdelijk is en dat de zoon een woonplek nodig heeft waar hij kan opgroeien. Anders dan door eiser aangevoerd, blijkt uit de gedingstukken echter niet dat alleen de woonsituatie van eiser maakt dat zijn zoon niet bij hem woont. De betrokken instelling heeft aangegeven dat de mogelijkheid van een uithuisplaatsing bij eiser eerst onderzocht zal moeten worden. Ter zitting heeft eiser medegedeeld, dat is gebleken dat zijn zoon niet voor langere tijd in zijn huidige woning kan verblijven. De rechtbank stelt vast dat er geen rapport of ander stuk bestaat, waaruit blijkt dat de zoon bij eiser kan wonen als hij wel een geschikte woning heeft. </para>
+    <para />
+    <para>8. Artikel 8 van het EVRM heeft als doel het individu te beschermen tegen willekeurige inbreuken door de overheid op het recht op eerbiediging van het privéleven en familie- en gezinsleven. Aan het effectief respecteren daarvan kunnen positieve verplichtingen voor de overheid zijn verbonden. In dat verband moet, in zaken als deze, worden beoordeeld of in het besluit om een urgentieverklaring te weigeren een juist evenwicht is bereikt tussen de belangen van het individu en het algemeen belang van een rechtvaardige woonruimteverdeling. De rechtbank beantwoordt de vraag of zich in dit geval feiten of omstandigheden voordoen waaruit een positieve verplichting tot toewijzing van een urgentieverklaring voortvloeit, ontkennend. Dat de kinderen volgens eiser niet in zijn woning langs kunnen komen, maakt nog niet dat eiser het recht op omgang met zijn kinderen is ontnomen. Eiser heeft niet aannemelijk gemaakt dat het niet mogelijk is op enige wijze een gezinsleven met zijn kinderen te hebben. Verweerder heeft daarom het algemeen belang van een rechtvaardige woonruimteverdeling zwaarder mogen laten wegen dan het belang van eiser om op de door hem gewenste wijze zijn gezinsleven vorm te geven. </para>
+    <para />
+    <para>9. De rechtbank beseft dat eiser in een lastige situatie verkeert. Zijn woonsituatie is verre van ideaal en dit draagt niet bij aan zijn psychische problemen en het contact met zijn kinderen. Hoewel de rechtbank begrip heeft voor zijn situatie, is eiser hierin helaas niet uniek. Verweerder moet moeilijke keuzes maken en de rechtbank concludeert dat verweerder in redelijkheid heeft kunnen afzien van toepassing van de hardheidsclausule. Dit betekent dat eiser geen urgentieverklaring krijgt.</para>
+    <para />
+    <para>10. Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. drs. C.M. Georgiades, rechter, in aanwezigheid van mr. E. Mulder, griffier<emphasis role="italic">. </emphasis>De uitspraak is in het openbaar gedaan op 11 februari 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

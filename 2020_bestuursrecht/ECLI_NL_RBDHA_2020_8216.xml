@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:8216</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T14:21:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3322 en AWB 20/769</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8216">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8216</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T14:21:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:8216 Rechtbank Den Haag , 18-08-2020 / AWB - 19 _ 3322 en AWB 20/769</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:8216:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>CBR, onderzoek rijvaardigheid en ongeldigverklaren rijbewijs</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:8216:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: SGR 19/3322 en 20/769	</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 18 augustus 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. A.A. van Harmelen),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de directie van het Centraal Bureau Rijvaardigheidsbewijzen, verweerder</bridgehead>
+    <para>(gemachtigde: mr. J. Launspach).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ten aanzien van zaaknummer 19/3322</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 maart 2019 (het primaire besluit 1) heeft verweerder eiser een onderzoek naar de rijvaardigheid opgelegd en de geldigheid van het rijbewijs geschorst.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 april 2019 (het bestreden besluit 1) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit 1 beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ten aanzien van zaaknummer 20/769</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 2 oktober 2019 (het primaire besluit 2) heeft verweerder het rijbewijs van eiser ongeldig verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 januari 2020 (het bestreden besluit 2) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit 2 beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ten aanzien van beide zaaknummers</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft via videoverbinding (Skype) plaatsgevonden op 7 juli 2020. </para>
+      <para>Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+      <para>
+        <emphasis role="bold">Overwegingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Voor een weergave van de toepasselijke regelgeving verwijst de rechtbank naar de bijlage bij deze uitspraak. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ten aanzien van zaaknummer 19/3322</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Op 20 januari 2019 heeft de korpschef van politie, eenheid Den Haag, aan verweerder een schriftelijke mededeling gedaan als bedoeld in artikel 130, eerste lid, van de Wegenverkeerswet 1994 (hierna: Wvw). In de mededeling staat dat het vermoeden bestaat dat eiser niet beschikt over de vereiste rijgeschiktheid omdat er duidelijke aanwijzingen zijn dat eiser geestelijk of lichamelijk niet goed functioneert, of dat er sprake is van ernstige psychiatrische problemen. Uit het mutatierapport dat aan de mededeling ten grondslag ligt blijkt dat eiser zich op 15 januari 2019 bij een controle door de politie naar aanleiding van zijn rijgedrag agressief heeft gedragen, dat uit overige registraties blijkt dat eiser vele malen op diverse politiebureaus verhaal komt halen vanwege een verkeersongeval in 2017 waarbij hij hersenletsel heeft opgelopen en dat eiser blijkens een van deze registraties zelf melding heeft gemaakt van een diagnose van een bipolaire stoornis en medicatie daarvoor. </para>
+    <para />
+    <parablock>
+      <para>Verweerder heeft, gelet op de inhoud van deze mededeling, een onderzoek naar de rijgeschiktheid opgelegd, gebaseerd op het vermoeden dat eiser niet langer beschikt</para>
+      <para>over de vereiste geestelijke geschiktheid voor het besturen van een motorrijtuig op grond van artikel 23, derde lid, aanhef en onder a, van de Regeling maatregelen rijvaardigheid en geschiktheid 2011 (hierna: de Regeling). Specifiek wijst verweerder op abnormale opwindingstoestanden als bedoeld in de bijlage bij de Regeling onderdeel B. Verweerder heeft hangende het onderzoek tevens het rijbewijs van eiser geschorst. Bij het bestreden besluit 1 heeft verweerder de maatregelen gehandhaafd. </para>
+    </parablock>
+    <para />
+    <para>3. Eiser betoogt dat het besluit niet in stand kan blijven omdat verweerder de beslistermijn van uiterlijk vier weken na ontvangst van de mededeling met twee weken heeft overschreden, hetgeen in strijd is met het beginsel van de rechtszekerheid. </para>
+    <para>	Eiser betoogt voorts dat de besluitvorming onzorgvuldig is geweest. Verweerder had niet mogen afgaan op het mutatierapport nu daarin sprake is van interpretaties en niet van feiten. Voor zover verweerder wel heeft mogen afgaan op het mutatierapport stelt eiser dat het daarin beschreven gedrag zowel op zichzelf als in de context bezien niet kan worden aangemerkt als abnormale opwindingstoestanden. Eiser betwist dat hij zich agressief heeft gedragen. Hij heeft zich juist coöperatief opgesteld door zijn rijbewijs te tonen en mee te werken aan de blaas- en speekseltest. Het gedrag was weliswaar fel en er was sprake van opwinding maar van abnormale opwinding was geen sprake. Bovendien heeft verweerder ten onrechte de context buiten beschouwing gelaten. Eiser is namelijk gefrustreerd geraakt vanwege de afhandeling van een verkeersongeval in 2017 en koestert sindsdien achterdocht jegens de politie. Hij is in die achterdocht versterkt doordat hij meerdere keren ten onrechte staande is gehouden. Bij het incident op 15 januari 2019 zijn de nog onervaren verbalisanten onprofessioneel tegen hem opgetreden hetgeen escalerend heeft gewerkt. Tenslotte heeft verweerder ten onrechte betekenis gehecht aan het feit dat eiser bij het verkeersongeval in 2017 hersenletsel heeft opgelopen, nu eiser hiervan ten tijde van belang volledig was hersteld. Er was dan ook geen duidelijke aanwijzing die schorsing van zijn rijbewijs rechtvaardigt. Daarvoor is meer nodig dan ‘abnormale opwindingstoestanden’, aldus eiser.</para>
+    <para />
+    <para>4. De rechtbank overweegt als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Eiser stelt terecht dat de beslistermijn is overschreden nu verweerder na ontvangst op 22 januari 2019 van de mededeling van de korpschef van politie uiterlijk op 19 februari 2019 had moeten beslissen, maar dat eerst op 6 maart 2019 heeft gedaan. Zoals verweerder, onder verwijzing naar een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) van 6 november 2013 (ECLI:NL:RVS:2013:1806) met juistheid heeft gesteld, betreft deze termijn een termijn van orde. Overschrijding van deze termijn houdt dan ook niet in dat verweerder niet langer bevoegd zou zijn om een besluit te nemen. Eiser heeft op 25 januari 2019 een voornemenbrief van verweerder ontvangen met de optie om binnen een periode van twee weken afstand van zijn rijbewijs te doen. Eiser wist dus dat hij een besluit kon verwachten en had het deels in eigen hand de besluitvorming te bespoedigen. Van strijd met de rechtszekerheid is geen sprake.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Volgens vaste jurisprudentie van de Afdeling (zie onder meer de uitspraak van 15 mei 2019, ECLI:NL:RVS:2019:1543) mag een bestuursorgaan, in dit geval verweerder, in beginsel uitgaan van de juistheid van een op ambtseed dan wel ambtsbelofte opgemaakt proces-verbaal. Dat geldt evenzeer voor de rechter, tenzij tegenbewijs noopt tot afwijking van dit uitgangspunt. Zoals de Afdeling voorts heeft overwogen (onder meer in de uitspraak van 12 december 2018, ECLI:NL:RVS:2018:4069) behoeft voor het opleggen van een onderzoek naar de geschiktheid slechts het vermoeden van ongeschiktheid te worden vastgesteld. Juist het opgelegde onderzoek dient ertoe tot een definitief oordeel te komen over de geschiktheid om een motorrijtuig te besturen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>In het mutatierapport staat onder meer het volgende vermeld: </para>
+        <para>‘Ter hoogte van de kruising met de [straat] stopte hij abrupt en stapte direct uit zijn voertuig. Hij was duidelijk bijzonder opgefokt. Dat bleek uit zijn lichaamshouding, hij bewoog nerveus en stond met gebalde vuisten en licht voorovergebogen alsof hij wilde vechten. Ook verbaal was hij heel opgefokt. Hij begon onmiddellijk met stemverheffing te praten en te schreeuwen. Hij pakte direct zijn rijbewijs en gaf dat aan ons. Voordat we zijn rijbewijs konden bekijken of zijn gegevens konden controleren begon hij te schreeuwen dat we allemaal viezerikken waren en corrupt. Hij begon een onsamenhangend betoog over een ongeluk van twee jaar geleden en dat de politie en het Openbaar Ministerie tegen hem samenspanden.’  (…) ‘Tijdens het contact met het bureau kwam de man zo dicht op ons staan met een agressieve houding dat wij er voor de zekerheid via de meldkamer een wagentje bij gevraagd hebben’. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In dit rapport zijn de feitelijke gedragingen van eiser ten tijde van het incident op 15 januari 2019 naar het oordeel van de rechtbank voldoende nauwkeurig en uitgebreid beschreven. In het rapport is niet volstaan met een interpretatie of een waardeoordeel. Niet valt in te zien dat verweerder niet op de bevindingen in dit rapport heeft mogen afgaan. Uit het rapport blijkt onder meer dat eiser zich dermate agressief heeft gedragen dat de politie om assistentie heeft gevraagd. De enkele betwisting dat sprake was van agressief gedrag heeft verweerder terecht onvoldoende geacht om aan de juistheid van de conclusie van de politiemedewerkers te twijfelen. Dat eiser zijn rijbewijs heeft getoond en heeft meegewerkt aan een blaas- en speekseltest maakt dat niet anders. Eiser heeft geen tegenbewijs overgelegd op grond waarvan om andere redenen geoordeeld zou moeten worden dat verweerder niet van de juistheid van het rapport had mogen uitgaan. Het enkele feit dat eiser melding maakt van het feit dat zijn vriendin, die in de auto zat, kan bevestigen dat hij zich niet agressief heeft gedragen maar dat slechts sprake was van normale opwinding en felheid, is onvoldoende om als tegenbewijs te kunnen dienen, nog afgezien van de vraag hoeveel waarde aan een dergelijke verklaring wegens gebrek aan objectiviteit zou moeten worden toegekend. Voor de stelling dat de verbalisanten onervaren waren en zich onprofessioneel hebben gedragen als gevolg waarvan een escalatie is opgetreden, bestaan geen aanwijzingen. Het betoog dat verweerder bij de beoordeling van eisers gedrag op 15 januari 2019 de context had moeten betrekken slaagt niet. Eiser doelt met de context op zijn frustratie over de afhandeling van een verkeersongeval in 2017 en over een aantal eerdere, in zijn opvatting onterechte, aanhoudingen door de politie. Ook al zou deze frustratie mogelijk als een verklaring kunnen dienen voor de gedragingen op de bewuste datum dan vormt dit, zoals verweerder terecht heeft gesteld, nog geen rechtvaardiging voor dit gedrag. Van belang is hoe de gedragingen van eiser moeten worden beoordeeld. Naar het oordeel van de rechtbank heeft verweerder de gedragingen van eiser kunnen typeren als abnormale opwindingstoestanden.</para>
+        <para>	Verweerder heeft aan het vermoeden dat eiser niet langer beschikte over de geestelijke geschiktheid die is vereist voor het besturen van een motorrijtuig tevens ten grondslag gelegd dat uit het politiesysteem is gebleken dat eiser 71 antecedenten heeft op het gebied van vermogen, geweld, verkeer, zeden en overige, dat eiser in 2017 betrokken is geweest bij een verkeersongeval en hierbij hersenletsel heeft opgelopen, dat eiser de politie sindsdien meerdere malen op een opgefokte en beledigende wijze heeft aangesproken, dat eiser bij een van deze gelegenheden heeft verklaard dat hij kampt met een bipolaire stoornis en daar medicatie voor gebruikt alsmede dat eiser meerdere keren is aangehouden voor het rijden onder invloed van alcohol en/of verdovende middelen. </para>
+        <para>Zoals de Afdeling eerder heeft overwogen (zie de uitspraak van 13 juni 2007, ECLI:NL:RVS:2007:BA7072) is voor de beoordeling van de geestelijke geschiktheid tevens de algemene psychische gesteldheid relevant. Verweerder heeft met de verwijzing naar de feiten en omstandigheden uit het mutatierapport voldoende onderbouwd dat met de gedragingen op 15 januari 2019, in het licht van de overige hiervoor genoemde omstandigheden, sprake was van abnormale opwindingstoestanden. Verweerder heeft zich terecht op het standpunt gesteld dat het vermoeden bestaat dat eiser niet langer beschikt over de geestelijke geschiktheid die vereist is voor het besturen van een of meer categorieën van motorrijtuigen waarvoor zijn rijbewijs is afgegeven. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Ten aanzien van de schorsing van de geldigheid van het rijbewijs hangende de uitkomst van het onderzoek overweegt de rechtbank dat voor het nemen van een dergelijke maatregel sprake moet zijn van een duidelijke aanwijzing dat eiser lijdt aan een aandoening waardoor hij geestelijk en/of lichamelijk niet goed functioneert (zie bijvoorbeeld de uitspraak van de Afdeling van 2 maart 2016, ECLI:NL:RVS:2016:520). Dit vereist, zoals eiser terecht betoogt, een zwaardere bewijslast dan bij het opleggen naar een onderzoek het geval is. Naar het oordeel van de rechtbank heeft verweerder kunnen aannemen dat er duidelijke aanwijzingen waren dat eiser geestelijk niet goed functioneerde. Het betoog dat verweerder alvorens een onderzoek naar de geschiktheid op te leggen en de geldigheid van het rijbewijs te schorsen had moeten nagaan of eiser voor het hersenletsel was behandeld en mogelijk zou zijn hersteld, slaagt niet nu het onderzoek er nu juist voor is bedoeld na te gaan of het vermoeden van ongeschiktheid al dan niet terecht is. Gelet hierop heeft verweerder de omstandigheid dat eiser in 2017 hersenletsel heeft opgelopen mede ten grondslag kunnen leggen aan het vermoeden van ongeschiktheid. </para>
+      <para />
+      <para>5. Het beroep is ongegrond.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ten aanzien van zaaknummer 20/769</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>6. Verweerder heeft aan de ongeldigverklaring van het rijbewijs van eiser het Verslag van bevindingen van psychiater [A] van Bureau Rijbewijskeuringen, naar aanleiding van het onderzoek van eiser van 29 juni 2019, ten grondslag gelegd. Hierin staat dat eiser een uitgebreide neurocognitieve stoornis heeft door fronto-temporale lobaire degeneratie waarbij hij gedragsstoornissen laat zien. Eiser is van 31 mei 2017 tot en met 6 juni 2017 opgenomen geweest met IBS in KCAP van Parnassia vanwege een frontaal syndroom. Voorts is eiser in 2018 opgenomen geweest in verband met suïcidale gedachten. Daarnaast is hij onder begeleiding geweest bij Recuper in Rotterdam (GGZ). De behandelaar beschrijft dat er sprake was van as 2 problematiek die al dan niet versterkt wordt door een mogelijk letsel. Antisociale en narcistische trekken zijn duidelijk aanwezig, tevens rand psychotische klachten. Agressie kanaliseert zich nu rondom verlies, krenking en het gevoel niet gehoord te worden. Voorts staat vermeld dat het onderzoek een 44 jarige man toont met beperkt ziekte-inzicht en ziekte-besef. Hij maakt een geïrriteerde indruk en het contact komt matig op gang. Hij geeft wijdlopig, ontwijkend antwoord op de vragen. De stemming is onderliggend dysfoor en het affect moduleert verhoogd. De impulscontrole en agressieregulatie zijn ten tijde van het onderzoek intact. Het ziektebesef en ziekte-inzicht zijn beperkt aanwezig. Beschouwend kan er naar de mening van de keurend arts worden gesteld dat er ten tijde van de laatste aanhouding sprake was van een gedragsstoornis op basis van niet aangeboren hersenletsel. Er is geen sprake van remissie, aldus het medisch rapport. Naar aanleiding van dit rapport heeft verweerder vastgesteld dat de paragrafen 7.7, 8.1 en 12 van de Regeling eisen geschiktheid 2000 op eiser van toepassing zijn en eiser ongeschikt is voor het besturen van motorrijtuigen.</para>
+      <para />
+      <para>7. Eiser betoogt dat verweerder ten onrechte het Verslag van bevindingen aan het bestreden besluit 2 ten grondslag heeft gelegd. Hij voert daartoe aan dat uit informatie van zijn behandelaars blijkt dat er sprake is van een beperkte neurocognitieve stoornis bij eiser, terwijl in het Verslag van bevindingen een uitgebreide neurocognitieve stoornis wordt vastgesteld. Dit is niet met elkaar te rijmen. Verweerder heeft niet gemotiveerd waarom dit onderzoeksrapport ondanks de discrepantie toch ten grondslag kan worden gelegd aan de besluitvorming. Het onderzoeksrapport is dan ook niet concludent en de wijze van totstandkoming vertoont gebreken.</para>
+      <para>	Voorts betoogt eiser dat dat het onderzoek volgens paragraaf 7.7 van de Regeling eisen geschiktheid had moeten worden uitgevoerd door een neuroloog of neuropsycholoog. Eiser is echter onderzocht door een psychiater. Verder wijst eiser erop dat de keuringsarts in het Verslag van bevindingen geen oordeel heeft gegeven over de rijgeschiktheid van eiser. Dit klemt te meer nu een neuro-cognitieve stoornis niet per definitie betekent dat iemand niet geschikt is om een motorrijtuig te besturen. Ook is niet voldaan aan de overige vereisten zoals bepaald in paragraaf 7.7, zoals bijvoorbeeld het afnemen van een rijtest. Verweerder komt daar niet op terug, terwijl er onlangs wel een brommerrijbewijs aan eiser is afgegeven. Kennelijk wordt eiser door verweerder wel rijgeschikt geacht. Ook wordt in het bestreden besluit 2 niet gemotiveerd waarom eiser volgens verweerder tot ‘groep 1’ behoort.</para>
+      <para />
+      <para>8. De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Het is vaste jurisprudentie dat verweerder zich ervan moet vergewissen dat het rapport zorgvuldig tot stand is gekomen en inhoudelijk niet tegenstrijdig of anderszins niet of niet voldoende concludent is. In verband met de mogelijke twijfel aan de onpartijdigheid van de medisch specialist moet de rechter de vraag beantwoorden of een vreemdeling voldoende ruimte heeft gehad tot betwisting van de medische bevindingen van de medisch specialist, bijvoorbeeld door zelf medische stukken over te leggen. Met een contra-expertise kan de vreemdeling de inhoudelijke juistheid van de rapportage betwisten. Met stukken van zijn behandelaars kan hij de zorgvuldigheid, inzichtelijkheid en concludentie van de rapportage aan de orde stellen dan wel in het kader van artikel 8:47 van de Awb concrete aanknopingspunten aanvoeren voor twijfel aan de inhoud daarvan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Bij het Verslag van bevindingen heeft de keuringsarts de voor het onderzoek overgelegde informatie betrokken. In de informatie van Recuper van 22 maart 2018 en 23 januari 2019 wordt een beperkte neurocognitieve stoornis als diagnose genoemd, terwijl in de informatie van 24 mei 2019 van [C] , de behandelend psychiater van eiser, en van 3 juli 2019 van [B] , de huisarts van eiser, een uitgebreide neurocognitieve stoornis wordt vermeld. De in het Verslag van bevindingen opgenomen diagnose van een uitgebreide neurocognitieve stoornis wordt dan ook door deze informatie gedragen. Naar het oordeel van de rechtbank is dan in zoverre ook niet gebleken dat het Verslag van bevindingen onvoldoende concludent is of in de wijze van totstandkoming gebreken vertoont. In dit kader is van belang dat, zoals volgt uit de uitspraak van de Afdeling van 3 augustus 2016, ECLI:NL:RVS:2016:2134, het niet aan verweerder of de bestuursrechter is te beoordelen of voor het psychiatrisch oordeel voldoende feitelijke grondslag bestaat. De omstandigheid dat het Verslag van bevindingen geen conclusie over de rijgeschiktheid bevat, maakt evenmin dat deze onvoldoende concludent zou zijn. De beoordeling van de rijgeschiktheid is immers op grond van artikel 134, eerste lid, van de Wvw aan verweerder en niet aan de keuringsarts (zie onder meer de uitspraak van de Afdeling van 5 juni 2013; ECLI:NL:RVS:2013:CA2093). Verweerder mocht dan ook van het Verslag van bevindingen uitgaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>Verweerder heeft zich terecht op het standpunt gesteld dat uit paragraaf 7.7 van de Regeling eisen geschiktheid volgt dat een specialistisch onderzoek door een neuroloog of neuropsycholoog alleen nodig is, als de aantekening van de keurend arts of de revalidatiearts onvoldoende informatie bevat om de geschiktheid te kunnen beoordelen. Dit was naar het oordeel van verweerder niet het geval. Voorts heeft verweerder zich op het standpunt gesteld dat er geen twijfel bestond over de rijgeschiktheid van eiser. Een rijtest is in dat geval niet nodig. Voorts heeft verweerder er op gewezen dat eiser een rijbewijscategorie B heeft en dat uit artikel 1 van de Regeling eisen geschiktheid volgt dat dit rijbewijs valt onder groep 1, als bedoeld in paragraaf 7.7 van de Regeling eisen geschiktheid. Nu dit rechtstreeks uit de wet- en regelgeving volgt, ziet de rechtbank geen aanleiding voor het oordeel dat verweerder dit nader had moeten motiveren. Gelet op voorgaande en het Verslag van bevindingen heeft verweerder in redelijkheid de genoemde paragrafen 7.7, 8.1 en 12 van de Regeling eisen geschiktheid van toepassing kunnen achten. Voorts heeft verweerder erop gewezen dat voor een brommerrijbewijs slechts eisen gelden met betrekking tot rijvaardigheid, maar niet met betrekking tot geschiktheid. De omstandigheid dat aan eiser een brommerrijbewijs is verstrekt maakt dan ook niet dat verweerder eiser geschikt acht een motorrijtuig te besturen.</para>
+      <para />
+      <para>9. Het beroep is ongegrond.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ten aanzien van beide zaaknummers.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>10. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart de beroepen in zaaknummers 19/3322 en 20/769 ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.M. Meijers, rechter, in aanwezigheid van mr. A. Nobel, griffier. Deze uitspraak is gedaan op 18 augustus 2020. Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+  </section>
+  <section>
+    <title>Wegenverkeerswet 1994</title>
+    <para />
+    <parablock>
+      <para>Artikel 130</para>
+    </parablock>
+    <para>1. Indien bij de bij algemene maatregel van bestuur aangewezen personen een vermoeden bestaat dat de houder van een rijbewijs niet langer beschikt over de rijvaardigheid dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van een of meer categorieën van motorrijtuigen waarvoor dat rijbewijs is afgegeven, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan het CBR onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. Bij ministeriële regeling worden de feiten en omstandigheden aangewezen die aan het vermoeden ten grondslag dienen te liggen en worden ter zake van de uitoefening van deze bevoegdheid nadere regels vastgesteld.</para>
+    <para>2. Op de eerste vordering van de in artikel 159, onderdeel a, bedoelde personen is de bestuurder van een motorrijtuig, ten aanzien van wie een vermoeden als bedoeld in het eerste lid bestaat, verplicht tot overgifte van het hem afgegeven rijbewijs.</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 131</para>
+    </parablock>
+    <para>1. Indien een schriftelijke mededeling als bedoeld in artikel 130, eerste lid, is gedaan, besluit het CBR in de bij ministeriële regeling aangewezen gevallen respectievelijk tot:</para>
+    <para>(…);</para>
+    <para>c. een onderzoek naar de rijvaardigheid of geschiktheid.</para>
+    <para>Het besluit wordt zo spoedig mogelijk, maar uiterlijk binnen vier weken na ontvangst van de mededeling, genomen.</para>
+    <para>2. Bij het besluit, bedoeld in het eerste lid, wordt:</para>
+    <para>a. in de gevallen, bedoeld in artikel 130, derde lid, de geldigheid van het rijbewijs van betrokkene voor één of meer categorieën van motorrijtuigen geschorst tot de dag waarop het in artikel 134, vierde of zevende lid, bedoelde besluit van kracht wordt;</para>
+    <para>(…).</para>
+    <para>3. Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het eerste lid.</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 134</para>
+    </parablock>
+    <para>1. Het CBR stelt zo spoedig mogelijk, doch uiterlijk binnen vier weken na ontvangst van de bevindingen van de deskundige of deskundigen, de uitslag van het onderzoek vast. Van deze uitslag doet het CBR mededeling aan betrokkene. Indien een of meer deskundigen bij hun bevindingen hebben aangetekend dat inzage daarvan naar hun oordeel kennelijk ernstig nadeel voor betrokkene zou opleveren, deelt het CBR de bevindingen schriftelijk mede aan de door betrokkene aangewezen vertrouwensarts. </para>
+    <para>2. Het CBR besluit tot ongeldigverklaring van het rijbewijs indien de uitslag van het onderzoek daartoe aanleiding geeft. Bij ministeriële regeling worden de gevallen aangewezen waarin daarvan sprake is.</para>
+    <para>(…).</para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Regeling maatregelen rijvaardigheid en geschiktheid 2011</title>
+    <para />
+    <parablock>
+      <para>Artikel 2</para>
+    </parablock>
+    <para>1. Een vermoeden als bedoeld in artikel 130, eerste lid, van de wet wordt gebaseerd op feiten of omstandigheden als genoemd in de bij deze regeling behorende bijlage 1.</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 3</para>
+    </parablock>
+    <para>1. Feiten of omstandigheden als bedoeld in artikel 2 kunnen blijken uit:</para>
+    <para>a. eigen waarneming en gegevens afkomstig van de politie;</para>
+    <para>b. gegevens afkomstig van de officier van justitie, of</para>
+    <para>c. door de politie nagetrokken gegevens uit andere bron.</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 5</para>
+      <para>Een vordering tot overgifte van het rijbewijs, bedoeld in artikel 130, tweede lid, van de wet geschiedt in de volgende gevallen:</para>
+      <para>(…);</para>
+    </parablock>
+    <para>c. er zijn duidelijke aanwijzingen dat betrokkene lijdt aan een aandoening waardoor hij geestelijk en/of lichamelijk niet goed functioneert, dan wel ernstige psychiatrische problemen ondervindt, hetgeen bij twijfel bevestigd wordt door een medisch deskundige; </para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 6</para>
+      <para>In de gevallen, bedoeld in artikel 5, schorst het CBR overeenkomstig artikel 131, tweede lid, onderdeel a, van de wet de geldigheid van het rijbewijs voor een of meer categorieën van motorrijtuigen, tenzij (…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 23</para>
+      <para>(…).</para>
+    </parablock>
+    <para>3. Het CBR besluit ten slotte dat betrokkene zich dient te onderwerpen aan een onderzoek naar de rijvaardigheid dan wel geschiktheid:</para>
+    <para>(…);</para>
+    <para>b. in geval van feiten of omstandigheden als genoemd in de bij deze regeling behorende bijlage onder B, onderdelen I en II, of</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 27</para>
+      <para>Het CBR besluit tot ongeldigverklaring van het rijbewijs, bedoeld in artikel 134, derde lid, van de wet, indien de uitslag van het onderzoek, respectievelijk de onderzoeken, inhoudt dat betrokkene:</para>
+    </parablock>
+    <para>a. niet de rijvaardigheid bezit voor de desbetreffende categorie of categorieën motorrijtuigen;</para>
+    <para>b. niet voldoet aan de bij ministeriële regeling vastgestelde eisen met betrekking tot de lichamelijk en geestelijke geschiktheid voor het besturen van een of meer categorieën motorrijtuigen.</para>
+    <para />
+    <parablock>
+      <para>Bijlage 1</para>
+      <para>Feiten dan wel omstandigheden, die een vermoeden rechtvaardigen dat betrokkene niet langer beschikt over de vereiste rijvaardigheid voor het besturen van een of meer categorieën van motorrijtuigen waarvoor een rijbewijs is afgegeven, dan wel, met uitzondering van de categorie AM, over de vereiste lichamelijke of geestelijke geschiktheid voor het besturen van motorrijtuigen waarvoor een rijbewijs is afgegeven:</para>
+      <para>(…)</para>
+      <para>B. Geschiktheid</para>
+      <para>(…)</para>
+    </parablock>
+    <paragroup>
+      <parablock>
+        <para>II. geestelijke geschiktheid</para>
+        <para>(…)</para>
+        <para>f. abnormale opwindingstoestanden;</para>
+        <para>(…).</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Regeling eisen geschiktheid 2000</title>
+    <para />
+    <parablock>
+      <para>Bijlage</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hoofdstuk 7 Neurologische aandoeningen</para>
+      <para>Paragraaf 7.1 Inleiding</para>
+      <para>In dit hoofdstuk worden de eisen aan de geschiktheid voor het onderwerp neurologie geformuleerd. Personen die lijden aan een ernstige neurologische aandoening zijn alleen geschikt voor rijbewijzen van zowel groep 1 als groep 2 op grond van een positief specialistisch rapport eventueel aangevuld met een rijtest met een deskundige op het gebied van de praktische geschiktheid van het CBR.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Paragraaf 7.7 Stationaire beelden</para>
+    </parablock>
+    <para>a. groep 1: Voor rijbewijzen van groep 1 is geen specialistisch onderzoek nodig, als de aantekening van de keurend arts of de revalidatiearts voldoende informatie bevat om de geschiktheid te kunnen beoordelen. Is dit niet het geval dan is een specialistisch rapport vereist, opgesteld door een neuroloog (en eventueel een neuropsycholoog).</para>
+    <parablock>
+      <para>Bij afwezigheid van met de geschiktheid tot het besturen van motorrijtuigen interfererende lichamelijke of geestelijke functiestoornissen, kunnen deze personen geschikt worden geacht voor rijbewijzen van groep 1 zonder termijnbeperking.</para>
+      <para>Bij een vermoeden van een met de geschiktheid tot het besturen van motorrijtuigen interfererende lichamelijke en geestelijke functiestoornis, is voor de beoordeling van de geschiktheid een rijtest vereist met een deskundige op het gebied van de praktische geschiktheid van het CBR. Het CBR heeft voor de rijtest een uitvoerig protocol. Bij een positieve rijtest zijn deze personen geschikt zonder termijnbeperking.</para>
+      <para>Bij twijfel over de geschiktheid in de toekomst kunnen zij geschikt worden geacht voor maximaal vijf jaar.</para>
+    </parablock>
+    <para>b. (…).</para>
+    <para />
+    <parablock>
+      <para>Hoofdstuk 8 Psychiatrische stoornissen</para>
+      <para>Paragraaf 8.1 Inleiding</para>
+      <para>In dit hoofdstuk worden de eisen aan de geschiktheid voor het onderwerp psychiatrie geformuleerd. Bij de beoordeling is het ziektebeloop van belang: de persoon zal bij voorkeur minstens een jaar vrij moeten zijn van recidieven, tenzij in specifieke gevallen anders omschreven. Daarnaast is van belang de voorspelbaarheid van uitingen van de aandoening, het ziekte-inzicht en de therapietrouw. Als de aandoening een reversibele organische stoornis tot grondslag had (heeft), kan de keurling na herstel in de regel goedgekeurd worden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hoofdstuk 12 Overige met de geschiktheid interfererende aandoeningen</para>
+      <para>Personen die lijden aan aandoeningen die niet in expliciet in voorgaande hoofdstukken vermeld worden, maar die wel kunnen interfereren met de geschiktheid voor het besturen van motorrijtuigen kunnen alleen op basis van een specialistisch rapport geschikt worden verklaard, eventueel aangevuld met een rijtest met een deskundige op het gebied van de praktische geschiktheid van het CBR.</para>
+      <para>Bij twijfel over de geschiktheid in de toekomst worden zij geschikt verklaard voor een beperkte termijn.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

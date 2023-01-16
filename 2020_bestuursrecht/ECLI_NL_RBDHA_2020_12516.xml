@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12516</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-09T15:42:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3768</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12516">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12516</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-09T15:42:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12516 Rechtbank Den Haag , 30-07-2020 / AWB - 19 _ 3768</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12516:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Geen procesbelang, door nieuwe verlening exploitatievergunning is eerdere vergunning vervallen. Beroep NO. Wel pkv: het kon eiser ttv instellen van het beroep niet duidelijk zijn dat vergunning van rechtswege was komen te vervallen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12516:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/3768 HOREC</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 30 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. M.A.J. West),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Den Haag, verweerder</bridgehead>
+    <para>(gemachtigden: R. den Ouden en mr. E.P. Alonso).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 30 augustus 2018 (het primaire besluit) heeft verweerder Vin Du Denneweg B.V. (VDD) een exploitatievergunning verleend voor de exploitatie van een de alcoholhoudende horeca-inrichting (wijnbar/wijnwinkel) aan de Denneweg 11 te Den Haag.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 7 mei 2019 (het bestreden besluit) is het bezwaar van eiser tegen het primaire besluit, na gevoegde behandeling van de bezwaren van eiser en VDD, ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>VDD heeft bij brief van 30 september 2019 meegedeeld niet als derde partij te willen deelnemen aan deze procedure.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting via Skype heeft plaatsgevonden op 2 juli 2020. Aan de zitting hebben deelgenomen: eiser, bijgestaan door zijn gemachtigde, en verweerder, vertegenwoordigd door zijn gemachtigden. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Bij besluit van 28 maart 2013 is aan VDD een drank- en horecavergunning (DHW-vergunning) verleend voor een slijterij aan de Denneweg 11 te Den Haag.</para>
+      <para />
+      <parablock>
+        <para>Bij besluit(en) van 3 april 2014 heeft verweerder VDD een gewijzigde DHW-vergunning alsmede een exploitatievergunning verleend voor de exploitatie van een de alcoholhoudende horeca-inrichting (wijnbar/wijnwinkel) aan de Denneweg 11 te Den Haag.</para>
+        <para>Bij besluit van 24 september 2014 is het bezwaar van eiser (omwonende) tegen het besluit van 3 april 2014 inzake de exploitatievergunning niet-ontvankelijk verklaard, omdat die vergunning inmiddels van rechtswege is vervallen. </para>
+        <para>Bij uitspraak van 26 juni 2017 heeft deze rechtbank het beroep van VDD tegen het besluit van 24 september 2014 ongegrond verklaard (ECLI:NL:RBDHA:2017:7171). Eiser heeft niet deelgenomen aan deze procedure. De rechtbank heeft overwogen dat met de wijziging van de ondernemer de exploitatie is beëindigd en dat de vergunning van rechtswege is komen te vervallen nu niet binnen de geldende termijn een nieuwe vergunning is aangevraagd. Het procesbelang van eiser bij het bezwaar tegen de verlening van de vergunning is dan ook komen te vervallen. Bij uitspraak van 17 oktober 2018 heeft de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) de uitspraak van </para>
+        <para>26 juni 2017 bevestigd (ECLI:NL:RVS:2018:3357).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <parablock>
+        <para>Bij beslissing op bezwaar van 6 januari 2017 is het besluit van 27 juni 2016 tot afwijzing van het verzoek van VDD om een omgevingsvergunning voor een verruiming van de exploitatie (openingtijden) van de wijnwinkel annex wijnbar aan de Denneweg 11 gehandhaafd. VDD heeft beroep ingesteld tegen dit besluit (SGR 17/804 WABOA).</para>
+        <para>Bij besluit van 14 september 2017 is het besluit van 6 januari 2017 gewijzigd, in die zin dat ten tijde van de terinzagelegging van het ontwerp bestemmingsplan Binnenhof e.o. sprake was van feitelijke exploitatie van een middelzware horeca-inrichting, dat dit mag worden voortgezet en dat geen (omgevings)vergunning nodig is. De toegestane openingstijden zijn beperkt vastgesteld. </para>
+        <para>Ter zitting van de rechtbank op 4 januari 2018 zijn VDD en verweerder ter beslechting van het geschil overeengekomen dat het besluit van 14 september 2017 wordt verduidelijkt, in die zin dat niet is vastgesteld dat de categorie-indeling van het toegestane gebruik van de wijnwinkel annex wijnbar ten tijde van de terinzagelegging van het ontwerp van het bestemmingsplan Binnenhof e.o. middelzware horeca betreft, dat in het besluit van </para>
+        <para>14 september 2017 het feitelijk gebruik van de exploitatie van een wijnwinkel annex horeca is toegestaan en dat de openingstijden moeten worden gelezen zoals ter zitting overeengekomen. VDD heeft het beroep ter zitting ingetrokken. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Eiser heeft nadien tegen het besluit van 14 september 2017 beroep ingesteld (SGR 19/5156 WABOA).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Bij het primaire besluit van 30 augustus 2018 is aan VDD een exploitatievergunning op grond van artikel 2:28 van de Algemene Plaatselijke Verordening voor de gemeente Den Haag (APV) verleend voor de exploitatie van de alcoholhoudende horeca-inrichting (wijnbar/wijnwinkel) behorende tot categorie 2, aan de Denneweg 11. Aan dit besluit zijn voorschriften verbonden. Zowel eiser als VDD hebben bezwaar gemaakt tegen dat besluit. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Bij besluit van 26 februari 2019 is VDD bij wijze van pilot voor een bepaalde periode een terrasvergunning verleend voor een zomer- en winterterras in een parkeervak op de locatie Denneweg 11. Dit besluit is bij besluit van 7 maart 2019 ingetrokken. VDD heeft bezwaar gemaakt tegen het besluit van 7 maart 2019. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij de hoorzitting van de Adviescommissie bezwaarschriften op 25 maart 2019 zijn de bezwaren van VDD en eiser tegen het primaire besluit gevoegd behandeld. </para>
+      <para />
+      <parablock>
+        <para>Bij het bestreden besluit van 7 mei 2019 (B.3.183561/001) is het bezwaar van eiser ongegrond verklaard en is het primaire besluit gehandhaafd. Dit besluit is in afschrift aan VDD gezonden.</para>
+        <para>Bij besluit van 7 mei 2019 (B.3.18.3561.002) is het bezwaar van VDD ongegrond verklaard en is het primaire besluit gehandhaafd. VDD heeft geen beroep ingesteld tegen dit besluit.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <parablock>
+        <para>Bij besluit van 14 mei 2019, dat in afschrift aan eiser is gezonden, is aan Meursault Perrieres B.V. een exploitatievergunning verleend voor de exploitatie van een de alcoholhoudende horeca-inrichting (wijnbar/wijnwinkel ‘Pierre’) aan de Denneweg 11 te Den Haag. Vermeld is dat voor het plaatsen van een terras tevens een terrasvergunning/ melding is vereist. Voorts is bij besluit van 14 mei 2019 een DHW-vergunning verleend.</para>
+        <para>Eiser heeft hiertegen bezwaar gemaakt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Eiser heeft bij brief van 18 juni 2019 beroep ingesteld tegen het bestreden besluit van 7 mei 2019. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <parablock>
+        <para>Het door VDD gemaakte bezwaar tegen het besluit van 7 maart 2019 is op </para>
+        <para>11 juli 2019 ingetrokken.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <parablock>
+        <para>Het verzoek om een voorlopige voorziening van eiser, hangende zijn bezwaar tegen het besluit van 14 mei 2019, is bij uitspraak van de voorzieningenrechter van </para>
+        <para>15 augustus 2019 afgewezen wegens het ontbreken van spoedeisend belang (ECLI:NL:RBDHA:2019:9613).  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10.</nr>
+      <para>VDD heeft de rechtbank bij brief van 30 september 2019 meegedeeld niet als derde partij te willen deelnemen aan de onderhavige beroepsprocedure van eiser, omdat de onderneming is verkocht en aan de nieuwe exploitant vergunningen zijn verleend. </para>
+      <para />
+      <para>2. Eiser heeft aangevoerd dat, hoewel aan de nieuwe exploitant een exploitatievergunning is verleend, niet is gebleken dat de exploitatievergunning van VDD niet langer van kracht zou zijn. </para>
+      <para />
+      <para>3. Verweerder heeft zich in zijn verweerschrift op het standpunt gesteld dat de exploitatievergunning van VDD op 28 mei 2019 is vervallen, dat dit eiser duidelijk had kunnen zijn, dat eiser geen procesbelang heeft en dat het beroep niet-ontvankelijk dient te worden verklaard. Er bestaat geen grond voor een proceskostenveroordeling en terugbetaling van het griffierecht.</para>
+      <para />
+      <para>4. Artikel 2:28F van de APV luidt als volgt:</para>
+      <para>1. Een vergunning ex artikel 2:28 vervalt, zodra het exploiteren van de horeca-inrichting is beëindigd en op een volledige aanvraag om een nieuwe vergunning voor het exploiteren van dezelfde horeca-inrichting is beslist, of, indien zodanige aanvraag niet is ingediend binnen 13 weken na het beëindigen van het exploiteren van de horeca-inrichting, bij het verstrijken van deze termijn. </para>
+      <para>2. Van beëindiging van het exploiteren van de horeca-inrichting is sprake, indien: </para>
+      <para>a. de horeca-inrichting blijkens de registers van de Kamer van Koophandel en Fabrieken niet meer voor rekening van de ondernemer, op wiens naam de vergunning is gesteld, wordt geëxploiteerd; </para>
+      <para>b. op grond van andere informatie blijkt, dat de horeca-inrichting niet meer voor rekening van de ondernemer, op wiens naam de vergunning is gesteld, wordt geëxploiteerd. </para>
+      <para>3. Van de beëindiging van het exploiteren van de horeca-inrichting doet de ondernemer op wiens naam de vergunning is gesteld onverwijld schriftelijk mededeling aan de burgemeester. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <parablock>
+        <para>De rechtbank ziet zich gesteld voor de vraag of eiser procesbelang heeft bij een beoordeling van zijn beroep. </para>
+        <para>Niet in geschil is dat aan de nieuwe exploitant een exploitatievergunning is verleend bij besluit van 14 mei 2019 en dat de exploitatie van de wijnbar/wijnwinkel door VDD feitelijk is beëindigd. Daarmee is de aan VDD verleende exploitatievergunning, gelet op het bepaalde in artikel 2:28F van de APV, komen te vervallen. Het procesbelang van eiser bij de beoordeling van het beroep tegen het bij het bestreden besluit gehandhaafde besluit tot verlening van de exploitatievergunning aan VDD is dan ook komen te vervallen.</para>
+        <para>Het beroep dient dan ook niet-ontvankelijk te worden verklaard.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>De rechtbank ziet wel aanleiding om verweerder te veroordelen in de proceskosten voor het indienen van het beroep en te bepalen dat het door eiser betaalde griffierecht moet worden vergoed, omdat het beroep terecht was ingesteld. Daartoe overweegt de rechtbank het volgende.</para>
+      <para />
+      <parablock>
+        <para>Eiser heeft bij brief van 18 juni 2019 beroep ingesteld tegen het bestreden besluit. Niet in geschil is dat verweerder hem voorafgaand aan het instellen van het beroep geen bericht heeft gestuurd dat de exploitatie door VDD was beëindigd. Eiser stelt dat hij was genoodzaakt om beroep in te stellen, omdat gerede twijfel bestond of VDD de exploitatie volledig had beëindigd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Eiser heeft allereerst gesteld dat het bestreden besluit niet ingaat op het bezwaar van VDD dat gevoegd met zijn bezwaar is behandeld. Met dat bezwaar beoogde VDD ruimere sluitingstijden vergund te krijgen. Er is dan ook ruimte voor interpretatie met betrekking tot het in stand blijven van de exploitatievergunning van VDD, omdat hij niet wist welk besluit is genomen op het bezwaar van VDD. De rechtbank stelt vast dat niet is gebleken dat eiser een afschrift is toegezonden van het besluit van 7 mei 2019 ten aanzien van VDD. Daarin is, anders dan in het ten aanzien van eiser genomen besluit, niet vermeld dat het besluit wordt toegezonden aan de andere bezwaarmaker. Voorts zijn in beide besluiten van 7 mei 2019 niet beide kenmerken genoemd, zodat eiser uit het bestreden besluit niet hoefde af te leiden dat dit tevens zag op het bezwaar van VDD. Hierdoor kon onduidelijkheid ontstaan over de besluitvorming ten aanzien van VDD. Vast staat dat na het bestreden besluit bij besluit van 14 mei 2019 de exploitatievergunning is verleend aan de nieuwe exploitant.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De vraag is dan vervolgens wanneer het eiser redelijkerwijs duidelijk kon zijn dat de exploitatie door VDD was beëindigd.</para>
+        <para>Verweerder heeft ter zitting meegedeeld dat het zelden voorkomt dat een exploitant een melding doet van beëindiging van de exploitatie. Verweerder heeft daar in dit geval niet naar gevraagd. Er is een nieuwe exploitatievergunning verleend en op grond van andere informatie is duidelijk geworden dat de exploitatie is beëindigd. Verweerder heeft bevestigd dat hij zich op dezelfde informatie heeft gebaseerd als waar eiser over beschikt, te weten de mededeling over de opening van de wijnbar/-winkel op 28 mei 2019 op de website van de nieuwe exploitant en voorts verwijst verweerder naar het mutatierapport van de politie van 20 augustus 2019. De rechtbank gaat voorbij aan dit mutatierapport, nu het ziet op data gelegen na het instellen van het beroep. De overige informatie waarop verweerder doelt is door eiser vermeld in zijn brieven van 21 juni 2019 en 27 juni 2019 inzake het verzoek om een voorlopige voorziening (zie ook 1.9.), derhalve na het instellen van dit beroep. Eiser vermeldt dat de exploitatie door de nieuwe exploitant is gestart op 28 mei 2019. </para>
+        <para>Ter zitting heeft eiser meegedeeld dat hij niet direct kennis heeft kunnen nemen van het nieuws over de opening op 28 mei 2019, omdat de website van de nieuwe exploitant niet gelijk in de lucht was. Verweerder heeft dit niet betwist. Het moet er derhalve voor worden gehouden dat niet duidelijk is wanneer de opening van de wijnbar is aangekondigd op de website en dat niet valt uit te sluiten dat eiser ten tijde van het instellen van zijn beroep er nog niet van op de hoogte was dat de exploitatie werd gedaan door de nieuwe exploitant. Eiser heeft in zijn brief van 21 juni 2019 gewezen op een door hem op 13 juni 2019 gemaakte foto van terrasactiviteiten en hij heeft dit verbonden aan de exploitatie door de nieuwe exploitant. Hieraan kan niet de door verweerder gewenste betekenis worden gehecht, nu hieruit niet zonder meer volgt dat VDD geen belang meer zou hebben bij de exploitatievergunning dan wel voortzetting van de exploitatie. Voor eiser was dit, mede gelet op het ontbreken van informatie over lopende procedures, niet duidelijk. Eiser heeft in het aanvullend beroepschrift van 31 juli 2019 aangegeven dat hij op 13 juli 2019 heeft geconstateerd dat met de exploitatie is aangevangen, maar dat hem niet duidelijk is of dit wordt gedaan door VDD, de nieuwe exploitant of gezamenlijk.</para>
+        <para>Eerst in het e-mailbericht van 24 oktober 2019 van een bestuursadviseur van de gemeente Den Haag met onderliggende berichten is eiser expliciet meegedeeld dat het bezwaar van VDD tegen het besluit van 7 maart 2019 op 11 juli 2019 is ingetrokken. De exploitatievergunning van VDD is van rechtswege vervallen, nu aan de nieuwe exploitant een exploitatievergunning is verleend en de nieuwe exploitant is begonnen met exploiteren.</para>
+        <para>Gelet op het vorenstaande kan niet worden gezegd dat het eiser ten tijde van het instellen van zijn beroep redelijkerwijs duidelijk kon zijn dat de exploitatievergunning van VDD van rechtswege was komen te vervallen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1).</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank </para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep niet-ontvankelijk;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1.050,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 30 juli 2020 door mr. R.H. Smits, rechter, in aanwezigheid van A.J. van Rossum, griffier. Als gevolg van de maatregelen rondom het Corona virus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

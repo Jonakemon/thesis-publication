@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:9468</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-26T12:00:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-23</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/4426</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:9468">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:9468</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-22T14:06:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:9468 Rechtbank Rotterdam , 23-10-2020 / ROT 20/4426</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:9468:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Toewijzing van een voorlopige voorziening in de zin van verlening van een voorschot om de kosten van de zorg te kunnen blijven betalen totdat er door verweerder is besloten op het bezwaar van verzoeker. De voorlopige voorziening is toegewezen omdat de voorlopige voorzieningenrechter van oordeel is dat  al dan niet via bemiddeling vanuit de behandelaars de kwestie in bezwaar opgehelderd kan worden ( R.O 4.2 en 4.3).</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:9468:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/4426</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 23 oktober 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoeker] , te [woonplaats verzoeker] , verzoeker,</bridgehead>
+    <para>gemachtigde: mr. D.H. van Tongerlo,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Zilveren Kruis Zorgkantoor N.V., verweerder,</bridgehead>
+    <para>gemachtigde: mr. S. Gezer.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 juli 2020 (het bestreden besluit) heeft verweerder aangegeven dat de zorgovereenkomst met zorgverlener de Ruigenhoek is beëindigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit heeft verzoeker bezwaar gemaakt. Ook heeft verzoeker de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 1 september 2020. Verzoeker heeft zich laten vertegenwoordigen door zijn gemachtigde en [naam 1] (mentor). Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Het onderzoek is ter zitting is aangehouden om partijen in de gelegenheid te stellen er onderling uit te komen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben over en weer stukken overgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens heeft er op 19 oktober 2020 een telefonische/ skype zitting plaatsgevonden. Verzoeker heeft zich door zijn gemachtigde laten vertegenwoordigen. Tevens waren aanwezig [naam 1] (mentor) en [naam 2] (Ruigenhoek). Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>De voorzieningenrechter begrijpt het bestreden besluit aldus, dat verweerder met toepassing van artikel 5.20, tweede lid, sub b van de Regeling langdurige zorg (Rlz) de pgb-verleningsbeslissing heeft ingetrokken, omdat verzoeker niet langer aan de voorwaarden voldoet. Hier gaat het dan om de voorwaarde dat zorg verleend wordt op basis van een zorgovereenkomst, die door het zorgkantoor is goedgekeurd (artikel 5.16 Rlz) en/of dat wijzigingen in die zorgovereenkomst niet onverwijld zijn aangepast (artikel 5.18 sub c Rlz). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <parablock>
+        <para>Waar het uiteindelijk nu om gaat, zo begrijpt de voorzieningenrechter uit de email die door gemachtigde van verweerder op 15 september 2020 aan de gemachtigde van verzoeker gestuurd is, is het volgende:</para>
+        <para>a. De nieuwe zorgovereenkomst, ondertekend 7 september 2020 vermeldt abusievelijk 147,85 uren verleende zorg <emphasis role="italic">per week</emphasis>, hetgeen moet zijn <emphasis role="italic">per maand</emphasis>;</para>
+        <para>b. De zorgovereenkomst voor onbepaalde tijd, ingaand 1 januari 2019, vermeldt als maandtarief € 4.320,- terwijl over 2019 maandelijks (gemiddeld) is uitgekeerd € 4.650,-. Als laatstgenoemd tarief juist is, ontbreekt tot op heden een goed ingevulde en ondertekende wijziging van die overeenkomst;</para>
+        <para>c. Het ingevulde splitsingsformulier (de voorzieningenrechter neemt aan: voor het jaar 2020) vermeldt als maandtarief voor het eerste halfjaar € 4.724,- en voor het tweede halfjaar € 4.776,-. Een bijpassende ondertekende zorgovereenkomst ontbreekt.</para>
+      </parablock>
+      <para />
+      <para>2. Indien voorafgaand aan een mogelijk beroep bij de rechtbank tegen een besluit bezwaar is gemaakt, kan de voorzieningenrechter van de rechtbank die bevoegd kan worden in de hoofdzaak op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb) op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist. Voor zover de daartoe uit te voeren toetsing meebrengt dat de rechtmatigheid van het bestreden besluit wordt beoordeeld, heeft het oordeel van de voorzieningenrechter een voorlopig karakter en is dat oordeel niet bindend voor de beslissing op bezwaar of in een eventuele beroepsprocedure.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Verweerder heeft aangevoerd dat geen sprake is van spoedeisend belang. Er zijn geen aanwijzingen dat de Ruigenhoek verzoeker hangende bezwaar zal dwingen zijn huidige woonplek te verlaten. Verweerder is ook bereid de behandeling van het bezwaarschrift met het oog hierop te bespoedigen. Voor verzoeker zijn op dit moment in een aantal instellingen voor begeleid wonen in de regio plaatsen beschikbaar. Verweerder is bereid naar die instellingen toe te bemiddelen. Er zijn geen medische verklaringen voorhanden waaruit blijkt dat een overplaatsing onaanvaardbare gevolgen heeft voor de geestelijke gezondheid van verzoeker. Verzoeker heeft dit niet betwist.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Namens verzoeker is aangevoerd dat op dit moment al enkele maanden geen zorgbudget wordt uitgekeerd en dat het moment waarop de Ruigenhoek zijn verblijf daar beëindigt nadert. Verzoeker verblijft er inmiddels zo’n vijf jaar, is destijds geplaatst vanuit een traumatisch verleden, waarbij specifiek gezocht is naar een kleinschalige woonvorm,  er is voor gekozen dat verzoeker dat verzoeker intensief begeleid zal worden bij het invullen van zijn dagbesteding, verzoeker is vertrouwd met zijn medebewoners en begeleiders. Ook al wordt dit niet door medische informatie onderbouwd, aannemelijk is dat hij als kwetsbaar persoon van overplaatsing een terugslag zal ondervinden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>De voorzieningenrechter neemt ondanks het voorgaande in dit geval wel spoedeisend belang aan. Naast de argumenten die verzoeker heeft aangedragen weegt mee dat een eventuele overplaatsing waarschijnlijk een definitief karakter heeft. De opengevallen plaats in de Ruigenhoek kan immers weer door een andere cliënt worden ingenomen. De voorzieningenrechter weegt verder mee dat overplaatsing van  verzoeker niet in verhouding staat tot de aanleiding daartoe, namelijk dat de in enkele documenten ingevulde uren zorg en het gehanteerde tarief niet volledig zouden kloppen en/of dat er kennelijk niet de handtekening van de juiste persoon onder staat. Tevens betrekt de voorzieningenrechter daarbij het volgende.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>Tijdens de zitting van 19 oktober 2020 is vast komen te staan dat er twee punten zijn die partijen verdeeld houden. Het eerste punt is dat stukken niet ondertekend zijn door de bewindvoerder. Dit gebrek zal zoals ook toegelicht door de gemachtigde van verzoeker ter zitting in bezwaar zeker hersteld kunnen worden, te meer omdat de bewindvoerder per email al heeft laten weten op voorhand geen bezwaar te hebben tegen afhandeling van de zaak door mevrouw [naam 1] en de Ruigenhoek. </para>
+        <para>Het geschil spitst zich vervolgens toe op de in de diverse zorgovereenkomsten ingevulde uren zorg en het daarbij gehanteerde tarief, mede in relatie tot de bedragen die feitelijk zijn uitgekeerd. Verzoeker betwist niet dat in wat tot nu toe is ingeleverd meerdere cijfermatige gegevens niet kloppen, althans vragen oproepen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Tijdens de zitting van 1 september 2020 spraken beide partijen de verwachting uit dat deze kwestie in onderling overleg binnen korte tijd zou kunnen worden opgehelderd en met het oog daarop is de zaak aangehouden en uitstel verleend tot – uiteindelijk – half/eind oktober. Dat die verwachting niet is uitgekomen komt volgens de voorzieningenechter niet omdat de materie uiteindelijk zo complex bleek te zijn dat deze zich niet laat oplossen, maar omdat tot nu toe (wellicht mede vanwege de corona-beperkingen) de direct betrokkenen - degene die de cijfers moet aanleveren en degene die ze moet controleren - dit niet rechtstreeks met elkaar hebben besproken. Het moet echter nog steeds mogelijk zijn, al dan niet via bemiddeling vanuit de behandelaars van het bezwaarschrift, deze kwestie in bezwaar op te helderen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Ter zitting is door verweerder niet betwist dat de Ruigenhoek daadwerkelijk zorg verleent aan verzoeker en dat het aantal uren dat daarmee is gemoeid de 140 a 150 uren volgens opgave zou kunnen benaderen. Ook is niet betwist dat de kosten die daarmee gemoeid zijn toch tenminste wel te waarderen zijn op een bedrag van € 4.000,- per maand. Om die reden zal de voorzieningenrechter bepalen dat tenminste dat bedrag <emphasis role="bold underline">als voorschot</emphasis> verstrekt zal worden, totdat zes weken nadat op het bezwaar van verzoeker is beslist. . Verdere verrekeningen die achteraf nodig blijken te zijn zullen dan achteraf moeten worden vastgesteld.</para>
+      <para />
+      <para>5. Omdat de voorzieningenrechter het verzoek toewijst, bepaalt de voorzieningenrechter dat verweerder aan verzoeker het door hem betaalde griffierecht vergoedt.</para>
+      <para />
+      <para>6. De voorzieningenrechter veroordeelt verweerder in de door verzoeker gemaakte proceskosten. Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.706,25(1 punt voor het indienen van het verzoekschrift, twee punten voor het bijwonen ter zitting en 0,25 punt voor het geven van een inhoudelijke reactie tijdens de schorsing met een waarde per punt van € 525. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para>- wijst het verzoek om voorlopige voorziening toe, schorst het bestreden besluit in die zin dat aan verzoeker per 20 augustus 2020 een voorschot van 4.000,- euro per maand <emphasis role="bold">als voorschot</emphasis> wordt verstrekt om de kosten aan de zorgverlener de Ruigenhoek te kunnen betalen. De voorziening zal lopen tot zes weken nadat op het bezwaar van verzoeker is beslist.</para>
+    <para>- bepaalt dat verweerder aan verzoeker het betaalde griffierecht van € 48,- vergoedt;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoeker tot een bedrag van </para>
+    <para>€ 1.706,25.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.P Hameete, voorzieningenrechter, in aanwezigheid van mr. H. de Vries, griffier. De uitspraak is in het openbaar gedaan op 23 oktober 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

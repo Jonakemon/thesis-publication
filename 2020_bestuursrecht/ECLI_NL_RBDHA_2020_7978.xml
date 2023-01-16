@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:7978</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-02T15:03:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 1247</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7978">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7978</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-02T15:03:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:7978 Rechtbank Den Haag , 30-06-2020 / AWB - 19 _ 1247</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:7978:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Einduitspraak. Pgb HH, Wmo. Verweerder maakt geen gebruik om gebrek te herstellen. Beroep gegrond + b.b. vernietigt. Geen toepassing 2e bestuurlijke lus en geen finale geschil beslechting</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:7978:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Team bestuursrecht 1</para>
+      <para>zaaknummer: SGR 19/1247</para>
+    </parablock>
+    <para />
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 30 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , wonende te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: [gemachtigde] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Leiden, verweerder</bridgehead>
+    <para>(gemachtigde: O.J. Massalova).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 september 2018 (het primaire besluit) heeft verweerder op grond van de Wet maatschappelijke ondersteuning 2015 (Wmo 2015) aan eiser meegedeeld dat de huishoudelijke ondersteuning (HO) in de vorm van een persoonsgebonden budget (pgb) in 2019 wordt voorgezet in de categorie huishoudelijke ondersteuning basis/instelling.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 januari 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser (deels) ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft hiertegen beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 21 januari 2020. Partijen zijn, met bericht daarvan aan de rechtbank, niet verschenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij tussenuitspraak van 10 maart 2020 (de tussenuitspraak) heeft de rechtbank verweerder in de gelegenheid gesteld om binnen vier weken na verzending van de tussenuitspraak, met inachtneming van wat in de tussenuitspraak is overwogen, de geconstateerde gebreken in het bestreden besluit te herstellen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft aangegeven geen gebruik te willen maken van de mogelijkheid de in de tussenuitspraak geconstateerde gebreken te herstellen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft bepaald dat een nadere zitting achterwege blijft en heeft het onderzoek op 26 juni 2020 gesloten. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Deze uitspraak bouwt voort op de tussenuitspraak. De rechtbank blijft bij al wat zij in de tussenuitspraak heeft overwogen en beslist, tenzij hierna uitdrukkelijk anders wordt overwogen. Het staat de rechtbank niet vrij om terug te komen van zonder voorbehoud gegeven oordelen in de tussenuitspraak. Dit is alleen anders in zeer uitzonderlijke gevallen. 2.	In haar tussenuitspraak heeft de rechtbank, kort gezegd, overwogen dat in het bestreden besluit de aanspraken van eiser op huishoudelijke ondersteuning onvoldoende zijn geconcretiseerd en dat verweerder zijn standpunt dat geen sprake is van verzwarende omstandigheden onder de gegeven omstandigheden evenmin deugdelijk heeft gemotiveerd. </para>
+    <para />
+    <para>3. Verweerder heeft de rechtbank bij brief van 27 maart 2020 medegedeeld dat hij geen gebruik maakt van de gelegenheid zoals bedoeld in artikel 8:51b, eerste lid, van de Algemene wet bestuursrecht (Awb). Dit betekent dat verweerder geen aanleiding heeft gezien om de gebreken te herstellen. Omdat verweerder deze beslissing niet nader heeft toegelicht en evenmin haar besluitvorming naar aanleiding van de tussenuitspraak van een nadere motivering heeft voorzien, is de rechtbank niet duidelijk of verweerder het oneens is met haar tussenuitspraak. De rechtbank kan evenwel, zoals al overwogen, behalve in zeer uitzonderlijke gevallen, niet terugkomen van een in de tussenuitspraak gegeven oordeel. Van zo een uitzonderlijk geval is hier geen sprake. </para>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Daarom verklaart de rechtbank het beroep gegrond. De rechtbank vernietigt het bestreden besluit wegens strijd met artikel 7:12, van de Awb. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>In navolging van overweging 5 in de tussenuitspraak heeft de rechtbank onderzocht of zij op grond van artikel 8:72, derde lid, aanhef en onder b, van de Awb zelf in de zaak kon voorzien. In navolging van de Centrale Raad van Beroep (CRvB, onder meer de uitspraak van 18 oktober 2017, ECLI:NL:CRVB:2017:3633) heeft de rechtbank daartoe in aanmerking genomen dat zij daarbij voor het vaststellen van de omvang van de huishoudelijke ondersteuning aansluiting zou hebben zoeken bij de normen van het CIZ Protocol Huishoudelijke Verzorging.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Ten aanzien van deze indicatie heeft evenwel te gelden, zoals in rechtsoverweging 2.4 van de tussenuitspraak overwogen, dat de rechtbank niet kan vaststellen of sprake is van verzwarende omstandigheden, waarmee de rechtmatige uitkomst naar de huidige stand van zaken nog te veel open ligt. Voor de volledigheid wijst de rechtbank er in dit verband op dat een dergelijk zelf voorzien feitelijk ook geen gevolgen zou hebben gehad voor de ondersteuning van eiser in het verleden, omdat het niet mogelijk is om ondersteuning met terugwerkende kracht in natura te verstrekken (zie ook de uitspraak van de CRvB van 6 november 2019, ECLI:NL:CRVB:2019:3463). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>De rechtbank ziet evenmin aanleiding om een tweede bestuurlijke lus toe te passen, omdat dat naar het zich laat aanzien geen doelmatige en efficiënte afdoeningswijze zou inhouden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Uit dit alles volgt dat de rechtbank het geschil niet finaal kan beslechten en verweerder een nieuw besluit zal moeten nemen met inachtneming van deze uitspraak en de tussenuitspraak. </para>
+      <para />
+      <parablock>
+        <para>5. 	Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt. De rechtbank stelt verder vast dat de gemachtigde van eiser weliswaar tijd in het onderhavige proces heeft gestoken, maar dat geen sprake is van door een derde beroepsmatig verleende rechtsbijstand als bedoeld in het Besluit proceskosten bestuursrecht. Dit betekent dat verweerder niet zal worden veroordeeld in proceskosten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak en de tussenuitspraak; </para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 47,- aan eiser te vergoeden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. O.M. Harms, rechter, in aanwezigheid van A. Jansen, griffier. De beslissing is in het openbaar uitgesproken op 30 juni 2020. Als gevolg van de maatregelen rondom het Corona virus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.<?linebreak?></para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							rechter</para>
+      <para>
+        <emphasis role="italic">de griffier is niet in de gelegenheid</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">deze uitspraak mede te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak en de tussenuitspraak kan binnen zes weken na de dag van verzending van deze uitspraak hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

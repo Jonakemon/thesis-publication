@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:6232</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-17T10:49:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 334</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:6232">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:6232</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-17T10:49:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:6232 Rechtbank Den Haag , 07-02-2020 / AWB - 19 _ 334</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:6232:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Intrekking Nederlanderschap - identiteitsfraude - Unierechtelijk evenredigheidsbeginsel - Rottman arrest - gegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:6232:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/334</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 7 februari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , eiser, V-nummer: [V-nummer 1]</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [eiseres]
+        </emphasis>, eiseres, V-nummer: [V-nummer 2]</para>
+      <para>tezamen eisers, </para>
+      <para>(gemachtigde: mr. C.F. Wassenaar),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. J.A.M. van der Klis).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 april 2018 (het primaire besluit 1) heeft verweerder het Nederlanderschap van eiser ingetrokken. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 april 2018 (het primaire besluit 2) heeft verweerder het Nederlanderschap van eiseres ingetrokken. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 december 2018 (het bestreden besluit) heeft verweerder het bezwaar van eisers ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben beroep ingesteld tegen het bestreden besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De behandeling van de beroepen heeft plaatsgevonden op 31 oktober 2019. Eisers zijn ter zitting verschenen, bijgestaan door hun gemachtigde. Als tolk is verschenen N. Adel. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Als toehoorders waren de twee dochters van eisers aanwezig. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten en besluitvorming</emphasis>
+      </para>
+    </parablock>
+    <para>1. Eisers stellen de Iraanse nationaliteit te hebben en te zijn geboren op respectievelijk [geboortedatum 1] 1957 en [geboortedatum 2] 1967. Op 18 december 2006 hebben eisers een verzoek om naturalisatie ingediend. Zij beschikten op dat moment over een asielvergunning voor onbepaalde tijd. De verzoeken om verlening van het Nederlanderschap zijn verleend bij Koninklijk Besluit van 3 mei 2007 (nummer 07001440). Vervolgens zijn eisers naar Duitsland verhuisd. </para>
+    <para>2. Verweerder heeft bij de primaire besluiten, gehandhaafd bij de bestreden besluiten, het Koninklijk Besluit van 3 mei 2007 – en dus het Nederlanderschap van eisers – ingetrokken wegens fraude in de zin van artikel 14, eerste lid, van de Rijkswet op het Nederlanderschap (RWN). Aan deze intrekking heeft verweerder ten grondslag gelegd dat de verlening van het Nederlanderschap berust op een door eisers gegeven valse verklaring of bedrog, dan wel het verzwijgen van relevante informatie. Zo is uit een brief van </para>
+    <para>22 januari 2016 van ‘Landkreis Leer’ gebleken dat eisers en hun kinderen in Nederland in het bezit zijn gesteld van een verblijfsvergunning asiel voor onbepaalde tijd op basis van onjuiste identiteitsgegevens en dat zij op basis van deze verkeerde identiteitsgegevens zijn genaturaliseerd tot Nederlander. In dit kader heeft eiser Iraanse identiteitsdocumenten bij de Duitse politie overgelegd waaruit hun werkelijke identiteit blijkt. Gebleken is dat eiser [eiser] (geboren op [geboortedatum 3] 1959, Teheran) is en eiseres [eiseres] (geboren op [geboortedatum 4] 1967, Teheran). </para>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het verstrekken van onjuiste gegevens over de identiteit waardoor mogelijkheden van onderzoek worden belemmerd, vormt een contra-indicatie voor statusverlening (paragraaf C4/2.5 van de Vreemdelingencirculaire (Vc) 2000). Dit is het geval wanneer ten tijde van de asielverlening bekend was geweest dat eisers bij toelating als vluchteling relevante feiten en omstandigheden betreffende hun identiteit hebben verzwegen, waarvan zij wisten, althans redelijkerwijs konden vermoeden dat die van groot belang waren voor de beoordeling van hun aanvraag, zodat zij hier niet toegelaten zouden zijn en aan hen geen verblijfsvergunning asiel voor onbepaalde tijd zou zijn verleend. Eisers hebben bij het naturalisatieverzoek eveneens niet naar waarheid omtrent hun identiteit verklaard. Hierdoor is het Nederlanderschap op basis van valse identiteitsgegevens aan eisers verleend. Als in de naturalisatieprocedure bekend was geweest dat eisers valse identiteitsgegevens hadden overgelegd dan zou aan hen het Nederlanderschap niet zijn verleend, aldus verweerder. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Verweerder heeft naar aanleiding van de in bezwaar aangevoerde gronden in het bestreden beluit het volgende overwogen. Ten aanzien van de toetsing aan het Unierechtelijk evenredigheidsbeginsel, zoals dat volgens het arrest van het Hof van Justitie van 2 maart 2010 in zake Rottmann (C-135/08, ECLI:EU:C:2010:104) van toepassing is, overweegt verweerder dat het verlies van eisers rechten als burgers van de EU gerechtvaardigd is, gezien de aard en ernst van het verzwijgen van de eerdergenoemde feiten. Het belang van de Nederlandse Staat, dat de Nederlandse nationaliteit slechts op juiste gronden wordt verkregen, prevaleert boven het belang van eisers om het Nederlanderschap - dat immers frauduleus is verkregen - te behouden. De mogelijke gevolgen van het verzwijgen van relevante gegevens, zoals een gesteld verlies van aanspraak op verblijf in Duitsland en aldus een eventuele verhuizing van Duitsland naar Nederland, vormen een directe consequentie van dat verzwijgen en deze gevolgen dienen daarom geheel en al voor rekening en risico van eisers te komen. Voor zover een beroep wordt gedaan op artikel 3 van het Europees Verdrag tot bescherming van de Rechten van de Mens en de fundamentele vrijheden (EVRM) en het gestelde gevaar van uitzetting naar Iran geldt dat ingevolge het arrest van de Hoge Raad van 25 mei 2012 (ECLI:NL:HR:2012:BV9435) aan geen enkele bepaling van dit verdrag een recht op verkrijging van een bepaalde nationaliteit kan worden ontleend. Voorts wordt gesteld dat die toetsing niet hoeft plaats te vinden omdat intrekking van de nationaliteit van eisers niet in de weg behoeft te staan aan een verblijf van eisers hier te lande. Eisers kunnen terugvallen op hun verblijfsvergunning asiel voor onbepaalde tijd. In een aparte procedure zal worden beoordeeld of deze asielvergunningen moeten worden ingetrokken. In die procedure zal het beroep op artikel 3 EVRM aan de orde komen. </para>
+        <para>De verjaringstermijn van 12 jaar als bedoeld in artikel 14, eerste lid, derde volzin, van de RWN was ten tijde van het intrekkingsbesluit nog niet verlopen. De termijn tussen het indienen van het verzoek om naturalisatie op 18 december 2006 en het moment van intrekking hiervan op 3 april 2018 bedraagt 11 jaren en drie en een halve maand en niet </para>
+      </parablock>
+      <para>11 jaren en zes maanden zoals eisers stellen. Dit leidt in ieder geval niet tot een ander oordeel gezien de aard en ernst van de door eisers verzwegen feiten. Het beroep op het gelijkheidsbeginsel, omdat de nationaliteit van de kinderen niet wordt ingetrokken, kan niet slagen. De wijzen waarop de Nederlandse nationaliteit kan worden verkregen zijn limitatief opgesomd in de RWN en daaronder is niet begrepen verkrijging door de werking van enig algemeen beginsel van behoorlijk bestuur. Dat volgt uit het arrest van de Hoge Raad van </para>
+      <para>16 september 1994 (ECLI:NL:HR:1994:ZC1450). Een beroep op het vertrouwensbeginsel stuit ook af op genoemd arrest. Bovendien bevatte de door eisers genoemde “klikbrief” onvoldoende informatie om te oordelen dat de IND ten tijde van de aanvraag om een verblijfsvergunning in 2004 op de hoogte was of kon zijn geweest van de onjuistheid van de opgegeven identiteit, dan wel daar nader onderzoek naar had behoren te doen. Er zijn verder geen bijzondere individuele omstandigheden gesteld op grond waarvan zou moeten worden afgezien van intrekking van het Nederlanderschap. De stelling dat eisers hun juiste personalia zouden hebben verzwegen om uit de greep van de Iraanse autoriteiten te blijven kan hen niet baten. </para>
+      <para />
+      <para>3. Eisers kunnen zich niet met het bestreden besluit verenigen en voeren hiertoe het volgende aan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <parablock>
+        <para>Eisers zijn van mening dat verweerder de aanspraak op artikel 3 van het EVRM ten onrechte niet in de afweging heeft betrokken. Ook de Unierechtelijke belangenafweging als bedoeld in het arrest Rottman heeft niet, althans onvoldoende plaatsgevonden en de onevenredige inbreuk op de rechten van eisers als burgers van de Europese Unie zijn daarmee miskend. De enkele stelling dat de nadelige omstandigheden in geheel voor rekening en risico van eisers komen omdat zij identiteitsfraude zouden hebben gepleegd, is hiertoe onvoldoende. Uit dat arrest volgt immers dat dient te worden nagegaan of het verlies van de rechten die elke burger van de Unie geniet, gerechtvaardigd is in het licht van de ernst van de gepleegde inbreuk. Bij deze beoordeling dient rekening gehouden te worden met de omstandigheden van eisers dat zij al voor een lange periode woonachtig zijn in Duitsland, daar een bestaan hebben opgebouwd, daar werken, een eigen huis bezitten, gebruik maken van het vrij verkeer van goederen en personen in de zin van artikel 21 van het VWEU en zij in Duitsland geen asielbeoordeling zullen kunnen krijgen vanwege de Dublinverordening. Dit zal betekenen dat zij hun woonplaats hoogstwaarschijnlijk zullen moeten verplaatsen naar Nederland om het gevaar af te wenden dat zij op grond van </para>
+        <para>artikel 3 van het EVRM stellen te lopen. Eisers menen dat dit onevenredig bezwarend is. Verder stellen eisers aanspraak te maken op artikel 8 van het EVRM omdat zij lange tijd als Nederlander zijn behandeld, Nederlands spreken en Nederlandse kinderen hebben. Ook deze factoren zijn niet meegenomen in de belangenafweging. Verweerder heeft ten onrechte de aanspraak op artikel 8 van het EVRM achterwege gelaten in het bestreden besluit. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Verder betwisten eisers de stelling van verweerder dat toetsing aan artikel 3 van het EVRM niet hoeft plaats te vinden omdat intrekking van de nationaliteit van eisers niet in de weg behoeft te staan aan een verblijf van eisers hier te lande. </para>
+        <para>Verweerder heeft immers in het bestreden besluit aangegeven dat de asielvergunning van eisers niet zou zijn verleend als duidelijk geweest zou zijn wat de ware identiteit van eisers was, dan wel als onmiddellijk duidelijk geworden zou zijn dat zij identiteitsfraude hadden gepleegd. Gelet op deze verblijfsgerelateerde grondslag van de intrekking van het Nederlanderschap kan verweerder niet voorbij gaan aan artikel 3 van het EVRM. Ook het arrest van de Hoge Raad van 25 mei 2012 (ECLI:NL:2012:BV9435) staat niet aan toetsing aan het EVRM in de weg. Dit arrest gaat erover dat aan het EVRM niet het recht kan worden ontleend op verkrijging van een nationaliteit. In casu gaat het echter om intrekking en dus behoud van de Nederlandse nationaliteit. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Verweerder heeft verder de aangevoerde feiten en omstandigheden met betrekking tot de verjaringstermijn, waaronder het tijdsverloop en het gegeven dat de strafrechtelijke verjaringstermijn voor oplichting reeds was verstreken, niet kenbaar meegenomen in de evenredigheidsbeoordeling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <parablock>
+        <para>Ten slotte heeft verweerder ten onrechte geen rekening gehouden met de beginselen van behoorlijk bestuur waarop een beroep is gedaan. De verwijzing door verweerder naar het arrest van de Hoge Raad van 16 september 1994 (ECLI:NL:HR:1994:ZC1450) is hiertoe onvoldoende. Het gaat hier immers niet om verkrijging maar om behoud van de Nederlandse nationaliteit waarbij allerlei factoren waaronder ook de beginselen van behoorlijk bestuur een rol spelen. </para>
+        <para>In dit kader verwijzen eisers naar het arrest van het Hof van Justitie in de zaak M.G. Tjebbes e.a. tegen Minister van Buitenlandse Zaken van 12 maart 2019, ECLI:EU:C:2019:189 (hierna: Tjebbes-arrest) en de uitspraak van 17 april 2019 van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) (ECLI:NL:RVS:2019:990) waaruit volgt, aldus eisers, dat bij de Unierechtelijke evenredigheidstoets, zoals voorgeschreven in het arrest Rottmann, ook de algemene beginselen van behoorlijk bestuur, zoals het gelijkheidsbeginsel, rechtszekerheidsbeginsel en het fair play beginsel moeten worden betrokken. Het bestreden besluit is in strijd met die beginselen.</para>
+      </parablock>
+      <para />
+      <para>4. In het verweerschrift heeft verweerder aanvullend opgemerkt dat eisers niet aannemelijk hebben gemaakt dat de gevolgen van het verlies van de hun rechten als burger van de Unie zodanig groot zijn dat dat de intrekking onevenredig is in verhouding tot de daarmee te dienen belangen. Het mogelijke verlies van de banen van eisers in Duitsland legt weliswaar gewicht in de schaal maar niet aannemelijk is dat eisers soortgelijke (ongeschoolde) werkzaamheden niet in Nederland zouden kunnen verrichten. Dat eisers gekozen hebben voor vestiging in Duitsland vanwege lagere huizenprijzen houdt eveneens verband met de rechten als Unieburger. Echter, het huis kan worden verkocht en het enkele bezit van een koopwoning in de grensstreek van Nederland duidt niet op een specifieke band met Duitsland die maakt dat niet van eisers zou kunnen worden verlangd dat zij hun hoofdverblijf weer naar Nederland verplaatsen. Zulks temeer nu eisers nog steeds zijn geïntegreerd in de Nederlandse samenleving. Gelet hierop, en het feit dat eisers geen andere rechten in het kader van het Unierecht naar voren hebben gebracht en hun kinderen in Nederland studeren en deels wonen, acht verweerder het verlies van deze rechten niet onevenredig ten opzichte van het algemeen belang dat wordt gediend met de intrekking van het Nederlanderschap. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Beoordeling</emphasis>
+        </para>
+      </parablock>
+      <para>5. De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Bij de beoordeling van deze zaak gaat de rechtbank uit van het wettelijk kader zoals is opgenomen in de bijlage bij deze uitspraak. </para>
+      <para />
+      <para>6. De rechtbank stelt vast dat niet in geschil is dat eisers onjuiste identiteitsgegevens hebben opgegeven bij hun asielverzoek in 2001 en bij hun verzoek tot naturalisatie. Eisers hebben hiervan niet tijdig melding gedaan bij de Nederlandse autoriteiten, terwijl zij redelijkerwijs konden weten of vermoeden dat deze informatie van belang kan zijn voor de beoordeling van de naturalisatieverzoeken. Evenmin is in geschil dat de termijn van 12 jaar, waarbinnen een besluit tot intrekking van het Nederlanderschap dient plaats te vinden (artikel 14, eerste lid, derde volzin van de RWN) niet is verstreken. </para>
+      <para />
+      <parablock>
+        <para>De rechtbank is, gelet op het voorgaande, van oordeel dat verweerder terecht heeft geoordeeld dat eisers relevante gegevens hebben verzwegen en dat verweerder hierdoor de bevoegdheid had om het Nederlanderschap van eisers in te trekken. Voor wat betreft de uitoefening van die bevoegdheid door verweerder wordt het volgende overwogen.</para>
+      </parablock>
+      <para />
+      <para>7. Zoals de Afdeling in de uitspraak van 16 maart 2016 (ECLI:NL:RVS:2016:735) onder verwijzing naar het Rottmann-arrest heeft overwogen, moet in het geval de intrekking van de nationaliteit tot gevolg heeft dat de betrokkene naast de nationaliteit van de betrokken lidstaat ook het burgerschap van de Unie verliest, nagegaan worden of het intrekkingsbesluit in overeenstemming is met het evenredigheidsbeginsel wat betreft de gevolgen ervan voor de situatie van de betrokkene uit het oogpunt van het Unierecht. Daarom moet de rechter, als de beroepsgronden daartoe aanleiding geven, bij de toetsing van een besluit tot intrekking van een nationaliteit rekening houden met de eventuele gevolgen ervan voor de situatie van de betrokkene en in voorkomend geval voor zijn gezinsleden wat betreft het verlies van de rechten die elke burger van de Unie geniet. Daarbij moet worden nagegaan of dit verlies gerechtvaardigd is in het licht van de ernst van de door betrokkene gepleegde inbreuk, het tijdsverloop tussen de naturalisatie en het intrekkingsbesluit en de mogelijkheid voor betrokkene om zijn vroegere nationaliteit terug te krijgen. In het Tjebbes-arrest heeft het Hof van Justitie aanvullend overwogen dat zowel het betrokken bestuursorgaan als de bevoegde rechterlijke instantie een volledige (evenredigheids)beoordeling dienen te verrichten, waarbij op basis van een onderzoek naar de individuele situatie van de betrokkene en de situatie van zijn gezin wordt beoordeeld of de intrekking van de nationaliteit gevolgen heeft die de normale ontwikkeling van het gezins- en beroepsleven al dan niet onevenredig aantasten.</para>
+      <para>In dit kader dient de bevoegde nationale autoriteit zich er van te vergewissen dat het nationaliteitsverlies verenigbaar is met de door het Handvest gewaarborgde grondrechten, waarbij in het bijzonder het recht op eerbiediging van het familie- en gezinsleven zoals dat is vastgelegd in artikel 7 van het Handvest van belang is. Ook dient rekening gehouden te worden met de individuele situatie van eisers en het feit dat eisers ten gevolge van het verlies van rechtswege van het Nederlanderschap en van het burgerschap van de Unie zouden worden geconfronteerd met beperkingen in de uitoefening van het recht van vrij verkeer en verblijf op het grondgebied van een lidstaat. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Niet in geschil is dat eisers als gevolg van de intrekking van hun Nederlanderschap ook het burgerschap van de Europese Unie verliezen. Verweerder was derhalve gehouden te onderzoeken en volledig te beoordelen of de intrekking van het Nederlanderschap in overeenstemming is met het Unierechtelijke evenredigheidsbeginsel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Daartoe is in casu temeer aanleiding, nu eisers gemotiveerd hebben gesteld dat zij door de intrekkingsbesluiten daadwerkelijk geraakt worden in de uitoefening van hun rechten en belangen als Unieburger. Eisers hebben er op gewezen dat zij al sinds 2009 in Duitsland wonen en werken, daar een eigen huis bezitten en een bestaan hebben opgebouwd en gebruik maken van het vrij verkeer van goederen en personen in de zin van artikel 21 van het VWEU. Zij stellen verder gemotiveerd dat zij als gevolg van de intrekking van het Nederlanderschap vanwege de Dublinverordening bij het vragen om internationale bescherming in Duitsland gedwongen zullen zijn om terug te keren naar Nederland. Zij wijzen er daarbij op dat aan hen door de Duitse autoriteiten een uitreisplicht opgelegd. Zij hebben weliswaar nog een voorlopige “Duldung”, maar onzeker is wanneer deze afloopt. Door verweerder is ook niet betwist dat eisers uiteindelijk gedwongen zullen zijn om naar Nederland te komen. Hoewel eisers kunnen terugvallen op die asielstatus en naar Nederland kunnen komen (en het gevaar als bedoeld in artikel 3 van het EVRM inderdaad, zoals verweerder terecht stelt, thans niet speelt), betekent dit wel dat zij hun bestaan in Duitsland, inclusief hun eigen woning en hun werk aldaar in dat geval zullen moeten opgeven. De rechtbank is van oordeel dat verweerder geen, althans onvoldoende onderzoek heeft gedaan naar de door eisers onderbouwd gestelde gevolgen die de intrekkingen van het Nederlanderschap voor hen zou hebben vanuit een oogpunt van Unieburgerschap. Verweerder heef deze gevolgen evenmin afdoende kenbaar in de evenredigheidsbeoordeling betrokken. Verweerder volstaat feitelijk met de overweging dat het belang van de Nederlandse Staat dient te prevaleren, omdat de mogelijke gevolgen van het verzwijgen van relevante gegevens – zoals een verlies van aanspraak op verblijf in het Duitsland en aldus een eventuele verhuizing van Duitsland naar Nederland – een directe consequentie is van dat verzwijgen en dat deze gevolgen daarom geheel en al voor rekening en risico van eisers komen. Ook ten aanzien van het feit dat ruim 11 jaar is verstreken tussen het naturalisatieverzoek en de intrekking van het Nederlanderschap heeft verweerder in feite volstaan met de overweging dat dat niet kan leiden tot een beslissing in het voordeel van betrokkene, gezien de aard en ernst van de door hen verzwegen feiten op grond waarvan op frauduleuze wijze het Nederlanderschap is verkregen. De rechtbank is van oordeel dat verweerder bij het onderzoek naar en de beoordeling van de evenredigheid te eenzijdig de nadruk heeft gelegd op laatstgenoemd aspect. Dat het opzettelijk niet opgeven van de juiste identiteit en het risico dat eisers daarmee hebben gelopen een rol mag spelen in de die beoordeling neemt niet weg dat andere, relevante, omstandigheden en belangen aan de zijde van eisers zorgvuldig dienen te worden onderzocht en afdoende kenbaar en gemotiveerd moeten worden meegewogen. De rechtbank rekent daartoe ook de – met verwijzing naar artikelen van zijn hand – onderbouwde stelling van eiser dat het opgeven van een andere identiteit was ingegeven door angst voor de Iraanse autoriteiten, omdat hij openlijk tegenstander was en is van het regime in Iran en zijn verzet heeft voortgezet na de komst in Nederland. De enkele stelling van verweerder dat dit eiseres niet kan baten omdat dit hun niet ontslaat van de verplichting om de juiste persoonsgegevens bekend te maken acht de rechtbank te mager.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>De rechtbank is op grond van het voorgaande van oordeel dat het bestreden besluit berust op ontoereikend onderzoek en een ondeugdelijke motivering op het punt van de Unierechtelijke evenredigheidsbeoordeling. Dat verweerder in het verweerschrift alsnog enkele aanvullende inhoudelijke opmerkingen wijdt aan de evenredigheidsbeoordeling kan niet leiden tot een ander oordeel. Nog daargelaten dat deze aanvullende opmerkingen pas een week voor de zitting zijn ontvangen, kunnen deze het bestreden besluit evenmin dragen. De daarin geponeerde stellingen, namelijk dat het hebben van een huis in de grensstreek niet duidt op een specifieke band met Duitsland en zij nog steeds geïntegreerd zijn in de Nederlandse samenleving, acht de rechtbank niet afdoende onderbouwd. Eisers hebben overigens aangegeven dat zij geen familie in Nederland meer hebben en alleen naar Nederland komen in verband met hun dochters die aldaar werkzaam zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <parablock>
+        <para>De rechtbank is verder van oordeel dat het standpunt van verweerder dat de algemene beginselen van behoorlijk bestuur toepassing missen onjuist is. Het door verweerder daartoe aangehaalde arrest van de Hoge Raad van 16 september 1994 (ECLI:NL:1994:ZC1450) en overigens ook het arrest van 19 december 2003 </para>
+        <para>(ECLI:NL:HR:2003:AL8544) zien op een situatie waar het verkrijgen of behoud van de Nederlandse nationaliteit op grond van de wet niet mogelijk is. In zo’n geval kan inderdaad aan de algemene beginselen van behoorlijk bestuur zodanig recht niet worden ontleend. Zodanig geval was ook aan de orde in de uitspraak van de Afdeling van </para>
+        <para>29 maart 2017 (ECLI:NL:RVS:2017:802). In casu gaat het echter om de uitoefening van een bestuurlijke bevoegdheid om het Nederlanderschap in te trekken. Daarbij dient het bestuursorgaan de algemene beginselen van behoorlijk bestuur, zoals het gelijkheidsbeginsel en het vertrouwensbeginsel waar in dit geval een beroep op wordt gedaan, wel in acht te nemen. In de uitspraak van 17 april 2019 (ECLI:NL:RVS:2019:990) heeft de Afdeling ook overwogen dat het door de Staatssecretaris ingenomen standpunt dat de rechter zich in geval van intrekking van het Nederlanderschap dient te beperken tot een toets aan het evenredigheidsbeginsel niet uit de jurisprudentie van het Hof van Justitie, en in het bijzonder het Rottman-arrest, volgt.</para>
+      </parablock>
+      <para />
+      <para>8. Gelet reeds op hetgeen hiervoor is overwogen, komt het bestreden besluit wegens strijd met de artikel 3:2 en 3:46 van de Algemene wet bestuursrecht voor vernietiging in aanmerking. Verweerder zal met inachtneming van hetgeen in deze uitspraak is overwogen een nieuw besluit op bezwaar moeten nemen. Verweerder zal daarbij in het licht van de aangevoerde gronden een nader onderzoek en volledige beoordeling moeten doen op het punt van de Unierechtelijk evenredigheidsbeginsel en daarover een draagkrachtig gemotiveerd besluit moeten nemen. Verweerder zal verder gemotiveerd moeten ingaan op de door eisers gedane beroepen op schendingen van de algemene beginselen van behoorlijk bestuur.</para>
+      <para />
+      <para>9. De rechtbank concludeert dat het beroep gegrond is en dat het bestreden besluit voor vernietiging in aanmerking komt. </para>
+      <para />
+      <para>10. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eisers het door hem betaalde griffierecht vergoedt.</para>
+      <para />
+      <para>11. De rechtbank veroordeelt verweerder verder in de door eisers gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op €1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van €525,- en wegingsfactor 1).</para>
+      <para>
+        <emphasis role="bold">Beslissing</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>De rechtbank:</para>
+      </parablock>
+      <parablock>
+        <para> verklaart het beroep gegrond;</para>
+        <para> vernietigt het bestreden besluit;</para>
+        <para> bepaalt dat verweerder met inachtneming van deze uitspraak een nieuw besluit op bezwaar neemt;</para>
+        <para> veroordeelt verweerder in de proceskosten van eisers in verband met de behandeling van het beroep tot een bedrag van €1.050,-;</para>
+        <para> bepaalt dat verweerder het door eisers betaalde griffierecht van €178,- vergoedt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Deze uitspraak is gedaan door mr. R.H. Smits, rechter, in aanwezigheid van </para>
+        <para>mr. B.P.C. Vonck, griffier. De beslissing is in het openbaar uitgesproken op 7 februari 2020.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>griffier						rechter</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Afschrift verzonden aan partijen op:</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 14 van de RWN</title>
+    <para>1. Onze Minister kan de verkrijging of verlening van het Nederlanderschap intrekken, indien zij berust op een door de betrokken persoon gegeven valse verklaring of bedrog, dan wel op het verzwijgen van enig voor de verkrijging of verlening relevant feit. De intrekking werkt terug tot het tijdstip van verkrijging of verlening van het Nederlanderschap. De intrekking is niet mogelijk indien sedert de verkrijging of verlening een periode van twaalf jaar is verstreken. De derde volzin is niet van toepassing indien de betrokken persoon is veroordeeld voor een van de misdrijven, omschreven in de artikelen 6, 7 en 8 van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120). </para>
+    <para>2. Onze Minister kan het Nederlanderschap intrekken van de persoon die onherroepelijk is veroordeeld wegens: </para>
+    <para>a. een misdrijf omschreven in de titels I tot en met IV van het Tweede Boek van het Nederlandse Wetboek van Strafrecht, waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaar of meer is gesteld; </para>
+    <para>b. een misdrijf als bedoeld in de artikelen 83 of 205 van het Nederlandse Wetboek van Strafrecht; </para>
+    <para>c. een misdrijf dat soortgelijk is aan de misdrijven bedoeld onder a waarop naar de wettelijke omschrijving in de strafwet van een van de landen van het Koninkrijk een gevangenisstraf van acht jaar of meer is gesteld, danwel een misdrijf dat naar de wettelijke omschrijving in de strafwet van een van de landen van het Koninkrijk soortgelijk is aan de misdrijven bedoeld onder b; </para>
+    <para>d. een misdrijf omschreven in de artikelen 6, 7 en 8 van het op 17 juli 1998 te Rome tot stand gekomen Statuut van Rome inzake het Internationale Strafhof (Trb. 2000, 120). </para>
+    <para>3. De persoon die de Nederlandse nationaliteit heeft verloren op grond van het tweede lid kan de Nederlandse nationaliteit niet herkrijgen. Wij kunnen, de Raad van State van het Koninkrijk gehoord, in bijzondere gevallen van de eerste zin afwijken, indien ten minste vijf jaren zijn verstreken sedert het verlies van de Nederlandse nationaliteit. </para>
+    <para>4. Het Nederlanderschap wordt door een minderjarige verloren door het vervallen van de familierechtelijke betrekking waaraan het wordt ontleend ingevolge artikel 3, 4, 5, 5a, 5b, 5c, of 6, eerste lid, aanhef en onder c, alsmede ingevolge artikel 4 zoals dit luidde tot de inwerkingtreding van de Rijkswet tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap van 21 december 2000, Stb. 618 en ingevolge artikel 5 zoals dat luidde tot de inwerkingtreding van de Rijkswet van 3 juli 2003 tot wijziging van de Rijkswet op het Nederlanderschap in verband met de totstandkoming van de Wet conflictenrecht adoptie (Stb. 284). Het verlies bedoeld in de eerste zin treedt niet in indien de andere ouder op het tijdstip van het vervallen van die betrekking Nederlander is of dat was ten tijde van zijn overlijden. Het verlies treedt evenmin in indien het Nederlanderschap ook kan worden ontleend aan artikel 3, derde lid, of aan artikel 2, onder a, van de Wet van 12 december 1892 op het Nederlanderschap en het ingezetenschap (Stb. 268). </para>
+    <para>5. Het Nederlanderschap wordt niet verloren dan krachtens een van de bepalingen van dit hoofdstuk. </para>
+    <para>6. Met uitzondering van het geval, bedoeld in het eerste lid, heeft geen verlies van het Nederlanderschap plaats indien staatloosheid daarvan het gevolg zou zijn. </para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Artikel 3 van het EVRM: Verbod van foltering</title>
+    <para>Niemand mag worden onderworpen aan folteringen of aan onmenselijke of vernederende behandelingen of bestraffingen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Artikel 8 van het EVRM: recht op eerbiediging van privé-, familie- en gezinsleven</emphasis>
+      </para>
+    </parablock>
+    <para>1. Een ieder heeft recht op respect voor zijn privé leven, zijn familie- en gezinsleven, zijn woning en zijn correspondentie.</para>
+    <para>2. Geen inmenging van enig openbaar gezag is toegestaan in de uitoefening van dit recht, dan voor zover bij de wet is voorzien en in een democratische samenleving noodzakelijk is in het belang van de nationale veiligheid, de openbare veiligheid of het economisch welzijn van het land, het voorkomen van wanordelijkheden en strafbare feiten, de bescherming van de gezondheid of de goede zeden of voor de bescherming van de rechten en vrijheden van anderen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Artikel 7 van het Handvest van de grondrechten van de Europese Unie: De eerbiediging van het privé-leven en van het familie- en gezinsleven</emphasis>
+      </para>
+      <para>Eenieder heeft recht op eerbiediging van zijn privé-leven, zijn familie- en gezinsleven, zijn woning en zijn communicatie. </para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

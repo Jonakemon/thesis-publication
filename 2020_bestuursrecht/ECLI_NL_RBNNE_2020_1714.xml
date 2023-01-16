@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:1714</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-14T16:38:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 20/861 en LEE 20/999</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:1714">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:1714</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-14T16:38:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:1714 Rechtbank Noord-Nederland , 17-04-2020 / LEE 20/861 en LEE 20/999</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:1714:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Hennepkwekerij aangetroffen in bedrijfspand. De voorzieningenrechter treft de voorziening dat uitsluitend het gedeelte van het pand waar de kwekerij is aangetroffen, dient te worden gesloten.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:1714:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: LEE 20/861 en LEE 20/999</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 17 april 2020 op de verzoeken om een voorlopige voorziening in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [verzoekster]
+        </emphasis>, te Haren, verzoekster (LEE 20/861)</para>
+      <para>(gemachtigde: mr. A. Kwint-Oceliková),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de burgemeester van de gemeente Groningen</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. S. Omar-van Woersem),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker] , te Groningen, verzoeker (LEE 20/999)</bridgehead>
+    <para>(gemachtigde: mr. W.R. van der Velde),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de burgemeester van de gemeente Groningen</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. S. Omar-van Woersem)</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 maart 2020 (het primaire besluit) heeft verweerder een last onder bestuursdwang opgelegd, inhoudende dat het bedrijfspand op het adres [adres 1] te Groningen (hierna: het pand) voor onbepaalde tijd wordt gesloten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben tegen het primaire besluit bezwaar gemaakt. Zij hebben de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Om redenen van volksgezondheid en bij wijze van uitzondering heeft de voorzieningenrechter met toepassing van artikel 8:83, vierde lid, van de Algemene wet bestuursrecht (Awb) besloten om uitspraak te doen zonder het houden van een zitting. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaken zijn niet gevoegd behandeld. In beide procedures zijn partijen in de gelegenheid gesteld per e-mail hun standpunten toe te lichten.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Op <emphasis role="underline">www.rechtspraak.nl</emphasis> heeft de Rechtspraak een overzicht gegeven van urgente zaken, die in afwijking van het besluit om de gerechten te sluiten in verband met de Corona-maatregelen, wel op zitting worden behandeld. Voor reguliere bestuursrechtzaken geldt dat alleen de voorlopige voorzieningen (alleen in geval van “superspoed”) doorgaan. Daarvoor geldt dat de behandeling zoveel mogelijk schriftelijk gebeurt. Alleen in uitzonderlijke gevallen is een fysieke zitting in de rechtbank mogelijk. </para>
+    <para />
+    <para>2. De voorzieningenrechter oordeelt dat niet is gebleken van een dergelijk uitzonderlijk geval. De gedingstukken bevatten een uitvoerige motivering van de besluitvorming, bezwaarschrift en verzoekschrift en partijen hebben op elkaars standpunten gereageerd. Door verzoeker [verzoeker] is een video van zijn bedrijfsruimte ingezonden, waar verweerder op heeft gereageerd. </para>
+    <para />
+    <para>3. Daarmee acht de voorzieningenrechter zich voldoende geïnformeerd en bepaalt dat het onderzoek ter zitting achterwege blijft. </para>
+    <para />
+    <para>4. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para>Gezien de aard van de zaken ziet de voorzieningenrechter, ondanks het feit dat de zaken niet gevoegd zijn behandeld, aanleiding in beide zaken één uitspraak te doen.</para>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>In 2015, in 2016 en in 2018 is in het pand een hennepkwekerij aangetroffen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>Blijkens een bestuurlijke rapportage van 30 januari 2020 heeft de politie Eenheid Noord-Nederland op 8 januari 2020 een melding ontvangen dat aan de achterzijde van het pand een rolluik open zou staan en dat er een wietgeur zou hangen. Er zouden meerdere personen aanwezig zijn en er was het vermoeden dat er hennep werd geoogst.</para>
+        <para>Na aankomst heeft de politie in het achterste gedeelte van het pand, in twee afgetimmerde ruimtes, een hennepkwekerij aangetroffen. Daarin bevonden zich 1451 lege potten, maar geen enkele plant en ook geen hennepafval.</para>
+        <para>Verder heeft de politie geconstateerd dat stroom illegaal is afgenomen en dat elektriciteitsinstallatie van de kwekerij niet aan de normen voldoet. Het betrof een professionele en zeer moderne kwekerij waarin gas (CO2) werd gebruikt om de groei van de planten te bevorderen.</para>
+        <para>Uit de manier waarop de kwekerij was achtergelaten, heeft de rapporterende agent afgeleid dat de planten gestolen zijn door derden (een zogenaamde ripdeal).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Het pand was eigendom van de heer [eigenaar] . De heer [eigenaar] is in november 2019 overleden. Verzoekster [verzoekster] (de dochter van de heer [eigenaar] ) is executeur testamentair. Verzoekster heeft aangegeven geen bemoeienis te hebben gehad van de zaken van haar vader. Zij is niet betrokken geweest bij het pand en was niet op de hoogte van de hennepkwekerij.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Aan een gedeelte van het gebouw waarin het pand is bevestigd, is het adres [adres 2] toegekend. Hierin is een garagebedrijf gevestigd. In het primaire besluit heeft verweerder het adres [adres 2] buiten de sluiting gehouden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Het pand bestaat uit het achterste gedeelte waarin de hennepkwekerij is aangetroffen en een overig gedeelte, als bedrijfsopslag in gebruik bij verzoeker [verzoeker] .</para>
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>Hennep is opgenomen in lijst II van de Opiumwet.</para>
+      <para />
+      <para>6. Artikel 13b, eerste lid, van de Opiumwet, luidt als volgt:</para>
+      <para>1. De burgemeester is bevoegd tot oplegging van een last onder bestuursdwang indien in een woning of lokaal of op een daarbij behorend erf:</para>
+      <para>a. een middel als bedoeld in lijst I of II dan wel aangewezen krachtens artikel 3a, vijfde lid, wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is;</para>
+      <para>b. een voorwerp of stof als bedoeld in artikel 10a, eerste lid, onder 3°, of artikel 11a voorhanden is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>De voorzieningenrechter overweegt dat verweerder bevoegd is door middel van een last tot bestuursdwang over te gaan tot een sluiting.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>Voorts overweegt de voorzieningenrechter dat een sluiting overeenkomstig het Handhavingsprotocol Drugs (bijlage bij verweerders integraal drugsbeleid 2016) is, dat in geval van het voor de derde keer aantreffen van een hennepkwekerij, met een hoeveelheid hennepplanten anders dan voor persoonlijk gebruik, sluiting voor onbepaalde tijd volgt. In dit geval is immers in een vrij korte periode vier keer een hennepkwekerij aangetroffen in het pand.</para>
+        <para>De voorzieningenrechter deelt niet de opvatting van verzoekster dat het beleid niet toegepast kan worden omdat het dateert van vóór de wijziging van artikel 13b, eerste lid, van de Opiumwet die het mogelijk heeft gemaakt (zie onder b) tot sluiting te beslissen zonder dat een middel als bedoeld in lijst I of II daadwerkelijk is aangetroffen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Verweerder heeft, met het oog op belangen van verzoekster [verzoekster] , in het bestreden besluit bepaald dat het adres [adres 2] buiten de sluiting blijft (zie 2.4) en heeft in de loop van deze procedures het gewijzigde besluit genomen dat de duur van de sluiting zes maanden zal zijn in plaats van voor onbepaalde tijd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Verzoekers hebben aangevoerd dat ook een sluiting gedurende zes maanden zal betekenen dat verzoeker [verzoeker] , gezien zijn bedrijfsvoering, betekent dat hij naar een ander pand zal moeten gaan, met alle praktische problemen en kosten van dien. Niet in geschil is dat de ruimte die door [verzoeker] wordt gehuurd, in gebruik is voor de opslag van materialen ten behoeve van kamerbewoning. Daarbij ligt het niet voor de hand ligt verzoeker na afloop van de periode van zes maanden terug zal verhuizen. Zij bepleiten daarom om in ieder geval het door verzoeker gehuurde deel van het pand buiten de sluiting te houden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <parablock>
+        <para>De voorzieningenrechter overweegt dat de bestuurlijke rapportage (zie 2.2) vermeldt dat de hennepkwekerij is aangetroffen in afgetimmerde ruimtes in het achterste gedeelte van het pand. Uit de stukken blijkt niet dat het overige deel van het pand op enigerlei wijze een rol heeft gespeeld bij het kweken van de hennep. Dat er via de zolder van het pand kennelijk voorzieningen waren getroffen om de teelt te faciliteren, is onvoldoende voor een andere conclusie. Het is niet gebleken dat de zolder (mede) behoort tot de bedrijfsruimte die verzoeker gebruikt.</para>
+        <para>Voorts maakt de voorzieningenrechter uit de beschikbare gegevens op dat het gedeelte waar de kwekerij zich bevond, op deugdelijke wijze is afgescheiden van de rest van het pand. De verschillende gedeeltes van het pand hebben eigen ingangen en er is niet gebleken van een binnendeur die het gedeelte waar de kwekerij was, verbindt met andere delen van het pand.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Gezien de nu kenbare omstandigheden, heeft verweerder onvoldoende onderzoek verricht en onvoldoende gemotiveerd waarom de sluiting mede betrekking heeft op de door verzoeker [verzoeker] gehuurde bedrijfsruimte. Aan de enkele omstandigheid dat aan een deel van het pand, anders dan aan het door [verzoeker] gebruikte deel, een eigen adres is toegekend, [adres 2] , komt naar het oordeel van de voorzieningenrechter geen doorslaggevende betekenis toe. Tijdens de heroverweging op bezwaar dient de feitelijke situatie in kaart te worden gebracht en op basis daarvan worden besloten. Hierbij dient ook aan de orde te komen of de doelstellingen van het beleid, te weten het wegnemen van de bekendheid als drugspand en het daadwerkelijk en structureel beëindigen van de handel, niet ook bereikt kunnen worden met deze gedeeltelijke sluiting.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>Op grond van het voorgaande treft de voorzieningenrechter de voorziening dat de sluiting beperkt dient te blijven tot dat gedeelte van het pand waarin de hennepkwekerij is aangetroffen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Gezien de aard van deze spoedprocedure ziet de voorzieningenrechter geen aanleiding zich uit te laten over de duur van de sluiting. Dit zal in de heroverweging op bezwaar aan de orde kunnen komen.</para>
+      <para />
+      <para>10. Omdat de voorzieningenrechter de verzoeken toewijst, bepaalt de voorzieningenrechter dat verweerder aan verzoekers het door hen betaalde griffierecht vergoedt.</para>
+      <para />
+      <para>11. De voorzieningenrechter veroordeelt verweerder in de door elk van verzoekers gemaakte proceskosten. Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050 (1 punt voor het indienen van het verzoekschrift, 1 punt voor het indienen van meerdere schriftelijke zienswijzen, met een waarde per punt van € 525 en een wegingsfactor 1). </para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter: </para>
+    </parablock>
+    <para>- bepaalt dat de sluiting beperkt blijft tot het gedeelte van het pand waarin de hennepkwekerij is aangetroffen; </para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 178 aan verzoekster te vergoeden;</para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 178 aan verzoeker te vergoeden;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoekster tot een bedrag van € 525;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoeker tot een bedrag van € 525.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.J. Bastin, voorzieningenrechter, in aanwezigheid van mr. H.A. Hulst, griffier.</para>
+      <para>Deze uitspraak is gedaan op 17 april 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier											voorzieningenrechter 		</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

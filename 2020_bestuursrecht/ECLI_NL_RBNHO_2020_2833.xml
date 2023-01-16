@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:2833</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-17T15:00:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 2248</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Alkmaar</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0007335&amp;g=2003-07-01">Besluit bijstandverlening zelfstandigen</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2833">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2833</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-17T11:45:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:2833 Rechtbank Noord-Holland , 20-03-2020 / AWB - 19 _ 2248</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:2833:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Afwijzing BBZ-aanvraag. Geen levensvatbaar bedrijf.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:2833:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Alkmaar</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/2248</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 20 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. M. Heimensem),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het dagelijks bestuur van WerkSaam Westfriesland, verweerder</bridgehead>
+    <para>(gemachtigde: [naam 1] ).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 februari 2019 (het primaire besluit) heeft verweerder eisers aanvraag voor een uitkering voor levensonderhoud op grond van het Besluit bijstandverlening zelfstandigen (Bbz 2004) afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 15 april 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 7 februari 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, bijgestaan door [naam 2] en [naam 3] .</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser heeft op 5 april 2018 bij verweerder een Bbz-aanvraag ingediend en verzocht om financiële hulp in verband met het starten van een [bedrijf] , gespecialiseerd op het gebied van [specialisme] . Naar aanleiding hiervan heeft verweerder onderzoek verricht en is van [# 1] ( [# 1] ) verzocht om advies te geven. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>
+        [# 1] heeft in de rapportage van 2 mei 2018 - samengevat -  onder meer het volgende geconcludeerd en geadviseerd. Er zou sprake kunnen zijn van een levensvatbaar bedrijf. Er is sprake van een grote schuldenlast. Een ingrijpende sanering is vereist om te kunnen komen tot een levensvatbare bedrijfssituatie. Adequaat financieel beleid is daarbij een belangrijke voorwaarde. Geadviseerd is om een Bbz-krediet te verstrekken onder de opschortende voorwaarde dat de ondernemer erin slaagt om een afkoop te realiseren van alle schulden. Verder is er gedurende zes maanden inkomensondersteuning noodzakelijk. Eiser dient aan te tonen dat er kwalitatief goede ondersteuning wordt ingeschakeld voor het bedrijfseconomisch en financieel beleid. Hierbij kan worden gedacht aan extra begeleiding door een administratiekantoor en daarnaast budgetbeheer door een specialist (bijvoorbeeld een bewindvoerder). Indien eiser er niet in slaagt om binnen dit kader een schuldensanering te bewerkstelligen, kan er geen sprake zijn van een levensvatbaar bedrijf.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Verweerder heeft vervolgens bij besluit van 4 juni 2018 aan eiser op grond van het Bbz een uitkering toegekend voor de algemeen noodzakelijke kosten van bestaan voor de periode van 1 juni 2018 tot en met 30 november 2018. In de motivering is vermeld dat eisers bedrijf levensvatbaar kan zijn indien een schuldsanering tegen finale kwijting kan worden gerealiseerd. Uiterlijk 1 april 2019 dient er een akkoord te zijn met alle schuldeisers. Het onder 1.2. genoemde advies van [# 1] is bij het besluit gevoegd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Eiser heeft op 4 juli 2018 een voorziening in de kosten van bedrijfskapitaal op grond van het Bbz aangevraagd. Bij besluit van 26 juli 2018 heeft verweerder aan eiser een bedrijfskapitaal verstrekt van € 7.500,- voor een vervoermiddel, voorfinanciering materialen en btw. In de hierbij gegeven motivering staat dat eisers bedrijf levensvatbaar kan zijn als zijn schuldenlast kan worden gesaneerd. Hiervoor is een saneringskrediet in het vooruitzicht gesteld. Vermeld is dat het bedrijf alleen levensvatbaar kan zijn als de sanering slaagt. <?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Op 26 september 2018 heeft eiser wederom bedrijfskapitaal op grond van het Bbz  aangevraagd. Verweerder heeft eiser bij besluit van 27 september 2018 een bedrijfskapitaal verstrekt van € 13.200,-, bestemd voor aanschaf materiaal, werkkapitaal, autokosten, voorfinanciering voor kosten administratie, schuldsanering en budgetbeheer. Gemotiveerd is dat door onvoorziene omstandigheden behoefte is ontstaan aan extra krediet. Zonder dit krediet kan het bedrijf niet voortbestaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Verweerder heeft [# 2] ingeschakeld om de schuldenproblematiek van eiser op te lossen. Tevens is eiser begeleid door ‘ [# 3] ’. Nadat die begeleiding medio november 2018 is gestaakt, is eiser is per 7 januari 2019 door de rechtbank onder bewind gesteld. Vervolgens is op verzoek van de bewindvoerder per 25 januari 2019 de onderbewindstelling beëindigd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Eiser heeft op 20 november 2018 (opnieuw) een aanvraag voor levensonderhoud op grond van het Bbz ingediend. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>Uit het adviesrapport van verweerder 18 januari 2019 naar aanleiding van de aanvraag van 20 november 2018 volgt - samengevat - onder meer het volgende. Aan eiser is aangegeven dat onder zeer stringente voorwaarden voortzetting van het bedrijf misschien nog mogelijk zou zijn, namelijk:<?linebreak?>- algeheel akkoord door [# 2] met de oude schuldeisers;<?linebreak?>- oplossing nieuwe schulden;<?linebreak?>- betalingsregeling CJIB;<?linebreak?>- continuering bewindvoering (zakelijk en privé);<?linebreak?>- voldoende opdrachtgevers.<?linebreak?>Verder is vermeld dat duidelijk is gebleken dat eiser niet in staat is om zijn eigen financiën goed te beheren. Eiser werd financieel begeleid door ‘ [# 3] ’. De samenwerking met eiser is beëindigd omdat het niet mogelijk was om goede afspraken met hem te maken. <?linebreak?>De per 7 januari 2019 door de rechtbank toegekende bewindvoerder heeft om ontslag gevraagd omdat eiser zich voortdurend niet houdt aan de voorwaarden van het bewind. Eiser zal dan weer zelf verantwoordelijk worden voor het financieel beheer. Hiertoe is eiser niet voldoende in staat. De lijst met nieuwe schulden loopt op. Er is geen mogelijkheid deze op te lossen. Het schuldsaneringstraject bij [# 2] zal dan ook mislukken. De onderneming is volgens de rapporteur niet levensvatbaar omdat sprake is van een zeer grote schuldensituatie en financieel onvoldoende beheer. De financiële positie van het bedrijf is sinds de start ernstig verslechterd. Aan de voorwaarden voor uitbetaling van het saneringskrediet is niet voldaan. Verlenging van de uitkering is niet mogelijk omdat geen sprake is van een levensvatbaar bedrijf. De conclusie luidt dat verdere ondersteuning vanuit het Bbz dan ook onverantwoord is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <para>Verweerder heeft eisers aanvraag voor een Bbz-uitkering, gelet op het onder 1.8. genoemde advies, bij het primaire besluit afgewezen. Hiertegen heeft eiser bezwaar gemaakt. <?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>
+        [# 2] heeft de hulp aan eiser voor sanering van de schulden op 28 februari 2019 definitief gestopt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Verweerder heeft het primaire besluit bij het bestreden besluit gehandhaafd. Daartoe is als volgt overwogen. Uit advies van [# 1] , gegeven bij de toekenning van de Bbz-uitkering, volgde dat er mogelijk sprake was van een levensvatbaar bedrijf mits de schulden van eiser gesaneerd konden worden en er een bewindvoerder werd aangesteld. [# 2] heeft de hulpverlening gestaakt. De budgetbeheerder is gestopt omdat er geen afspraken met eiser te maken waren. De nadien toegewezen bewindvoerder heeft vanwege haar ervaringen met eiser binnen een maand haar ontslag ingediend bij de rechtbank. De als noodzakelijk voor de levensvatbaarheid geziene sanering van de schulden werd niet bewerkstelligd.<?linebreak?>De vakbekwaamheid van eiser alleen is onvoldoende om te stellen dat er sprake is van een levensvatbaar bedrijf. Naast vakmanschap is dit ook gebaseerd op de mogelijkheid een gezonde financiële huishouding te voeren. Eiser geeft toe dit zelf niet te kunnen. Hij verhindert anderen deze huishouding op te zetten. Het bedrijf is dan ook niet levensvatbaar omdat eiser zich niet aan afspraken kan houden, aldus verweerder. </para>
+      <para />
+      <para>3. Eiser heeft zich in beroep op het standpunt gesteld dat sprake is van een levensvatbaar bedrijf. Zijn onderneming zat in de lift en zijn klantenportefeuille nam toe. Er is dan ook geen reden om de onderneming te staken en de verlenging van de Bbz-uitkering af te wijzen. Nergens blijkt uit welke voorwaarden van [# 2] eiser zou hebben geschonden. Ook uit het advies blijkt dat sprake is van een levensvatbaar bedrijf, mits sprake is van sanering van de schulden. Er is begeleiding voor het administratieve gedeelte geweest. Maar deze werkzaamheden zijn door de begeleiders gestaakt. Ter zitting is door eiser toegelicht dat dit hem niet valt te verwijten. Het was het idee van verweerder om een eigen bedrijf te starten; niet van eiser zelf. In oktober 2018 heeft eiser een burn-out gehad. Omdat verweerder er geen heil meer in zag heeft zijn bewindvoerder ook haar ontslag ingediend.  Eiser wil niet anders dan ondersteuning door een bewindvoerder gelet op zijn ervaringen uit het verleden, zo stelt hij. Op dit moment heeft eiser weer een bewindvoerder, eiser is weer aan het werk, zij het niet meer als zelfstandige. Hij heeft op dit moment wel nog steeds opdrachten vanuit het bedrijf open staan, die hij graag wil en kan afmaken.    </para>
+      <para />
+      <para>4. Verweerder heeft zijn standpunt gehandhaafd. Eisers onderneming voldoet niet aan de voorwaarden van een levensvatbaar bedrijf. Ter zitting heeft verweerder zich op het standpunt gesteld dat eiser geen belang meer heeft bij deze procedure. Eiser heeft zijn onderneming gestaakt en mag op dit moment van zijn bewindvoerder ook geen onderneming meer starten. Daarom is volgens verweerder onduidelijk wat eiser nog kan bereiken met dit beroep. <?linebreak?></para>
+      <para>5. Anders dan verweerder is de rechtbank van oordeel dat eiser procesbelang heeft gehouden bij de vraag of hem destijds al dan niet terecht een uitkering op grond van de Bbz is geweigerd. Dat de omstandigheden van eiser thans anders zijn, waardoor voortzetting van zijn onderneming op dit moment niet tot de mogelijkheden behoort, leidt er niet toe dat dit belang is komen te vervallen. Daarbij neemt de rechtbank in aanmerking dat eiser ter zitting heeft benadrukt dat hij eerder aangenomen opdrachten nog wil voltooien. </para>
+      <para />
+      <para>6. De rechtbank zal dan ook beoordelen of verweerder eisers aanvraag voor een uitkering op grond van het Bbz terecht heeft afgewezen. Daarbij spitst het geschil zich toe op de vraag of eisers bedrijf levensvatbaar is of niet. Bepalend is de situatie van eisers bedrijf ten tijde van het besluit op de aanvraag, in dit geval 6 februari 2019. Met eventuele ontwikkelingen na die datum wordt geen rekening gehouden.<?linebreak?></para>
+      <para>7. Als uitgangspunt geldt dat ingevolge artikel 2, eerste lid, aanhef en onder b, en tweede lid van het Bbz 2004, voor zover hier van belang, algemene bijstand in de vorm van bedrijfskapitaal kan worden verleend aan de persoon of de echtgenoot van de persoon die uit hoofde van werkloosheid een uitkering ontvangt en die een bedrijf of zelfstandig beroep begint dat levensvatbaar is. Een levensvatbaar bedrijf of zelfstandig beroep is volgens artikel 1, aanhef en onder c, van het Bbz 2004 het bedrijf of zelfstandig beroep waaruit de zelfstandige naar verwachting na bijstandsverlening een inkomen zal verwerven dat, samen met het overige inkomen, toereikend is voor de voortzetting van het bedrijf of zelfstandig beroep en voor de voorziening in het bestaan. Dit betekent dat het inkomen toereikend dient te zijn om alle aflossingsverplichtingen te voldoen, dat voldoende middelen beschikbaar zijn om het bedrijf op peil te houden en dat voorts wordt voorzien in de kosten van het bestaan. <?linebreak?></para>
+      <para>8. Een bijstandverlenend orgaan is in zaken als hier aan de orde gerechtigd om zich bij zijn besluitvorming te baseren op concrete adviezen van deskundige instanties als [# 1] Uit het advies van [# 1] , zoals dat is afgegeven ten tijde van de eerste aanvraag van eiser, volgt dat het bedrijf van eiser levensvatbaar is, mits de schulden worden opgelost en ondersteuning wordt ingeschakeld voor het bedrijfseconomisch en financieel beleid. Adequaat financieel beleid is een belangrijke voorwaarde. De rechtbank ziet geen aanleiding aan deze conclusies te twijfelen. </para>
+      <para />
+      <para>9. Uit het dossier volgt dat eisers schuldenproblematiek op 6 februari 2019 niet is opgelost, in tegendeel, deze is alleen maar toegenomen. Ter zitting heeft eiser desgevraagd bevestigd dat de begeleiding door [# 2] is beëindigd zonder afbetaling van de schulden. Hoewel op 6 februari 2019 het schuldsaneringstraject van [# 2] nog niet definitief was beëindigd, kan verweerder worden gevolgd in zijn standpunt dat er op dat moment geen concreet zicht (meer) was op een geslaagde schuldsanering. Verder volgt uit het dossier dat eiser zelf niet in staat is een adequaat bedrijfseconomisch en financieel beleid te voeren en dat hij hiervoor op het moment van het primaire besluit geen ondersteuning (meer) had. De rechtbank volgt eiser niet in zijn stelling dat er geen adequate hulp beschikbaar was en dat hem dat niet te verwijten valt. Uit de informatie van ‘ [# 3] ’ en van de opvolgende bewindvoerder volgt genoegzaam dat de ondersteuning vanwege eisers opstelling en handelswijze is beëindigd. Dat leidt tot het oordeel dat verweerder het bedrijf van eiser op 6 februari 2019 dan ook terecht niet levensvatbaar heeft geacht in de zin van artikel 1, aanhef en onder c, van het Bbz 2004. Eisers aanvraag is op goede gronden afgewezen. </para>
+      <para />
+      <para>10. Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.R. ten Berge, rechter, in aanwezigheid van F. Voskamp, griffier. Deze uitspraak is gedaan op 20 maart 2020. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:1261</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-25T13:16:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-28</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS - 19 _ 5395 en AMS 19_5442</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:1261">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:1261</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-25T13:15:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:1261 Rechtbank Amsterdam , 28-02-2020 / AMS - 19 _ 5395 en AMS 19_5442</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:1261:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bezwaar tegen boete. Termijnoverschrijding bezwaar door eiser verschoonbaar, besluit niet op de juiste wijze bekend gemaakt, maar inhoudelijk ongegrond. Termijnoverschrijding eiseres niet verschoonbaar.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:1261:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 19/5395 en AMS 19/5224</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 28 februari 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres, en</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [eiser]
+        </emphasis>, te [plaats] , Groot-Brittannië, eiser, </para>
+      <para>samen: eisers</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Amsterdam, verweerder</bridgehead>
+    <para>(gemachtigde: mr. N. Hamdach).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met separate besluiten van 23 januari 2019 (de primaire besluiten I en II) heeft verweerder aan eisers ieder een boete opgelegd van € 6.000 wegens het omzetten van de woning aan het [adres] in Amsterdam van zelfstandige in onzelfstandige woonruimte. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met afzonderlijke besluiten van 6 september 2019 (de bestreden besluiten I en II) heeft verweerder de bezwaren van eisers niet-ontvankelijk verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen de bestreden besluiten beroep ingesteld. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 12 februari 2020. Eisers zijn verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eisers zijn samen met hun [familielid] ieder voor een derde eigenaar van de woning op het [adres] in Amsterdam. Eisers hebben de woning vanaf 14 maart 2017 verhuurd aan studentes. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Naar aanleiding van een Zoeklichtmelding hebben toezichthouders van verweerder op 29 november 2018 een onaangekondigd bezoek gebracht aan de woning. Uit het onderzoek is gebleken dat de woning gebruikt wordt voor kamerbewoning door drie studentes. Daarmee is de woning omgezet van zelfstandige in onzelfstandige woonruimten, omdat de woning aan meerdere huishoudens in gebruik is gegeven, die de aanwezige wezenlijke voorzieningen met elkaar delen. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Verweerder heeft de drie eigenaren allen een voornemen tot boeteoplegging gestuurd, omdat zij niet beschikten over een vergunning voor de omzetting. Verweerder heeft de drie eigenaren met de primaire besluiten van 23 januari 2019 conform het voornemen een boete opgelegd van € 6.000,-. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Eiser heeft op 17 juli 2019 en eiseres heeft op 22 juli 2019 bezwaar gemaakt tegen de primaire besluiten I en II. </para>
+      <para>
+        <?linebreak?>
+      </para>
+      <para>2. Met de bestreden besluiten I en II heeft verweerder de bezwaren van eiser en eiseres niet-ontvankelijk verklaard, omdat de bezwaarschriften na de termijn van zes weken<footnote-ref linkend="_17719de9-69ce-4641-bdd9-92d08e9287f9" /> ontvangen zijn. Verweerder vindt de termijnoverschrijding niet verschoonbaar. </para>
+      <para>
+        <?linebreak?>
+      </para>
+      <para>3. Eisers betwisten niet dat zij hun bezwaarschriften buiten de bezwaartermijn hebben ingediend. Eisers stellen dat niet duidelijk was dat er drie verschillende boetes waren opgelegd, aan iedere eigenaar één. Zij dachten dat zij allen hoofdelijk aansprakelijk waren voor één boete van € 6.000,-. [familielid] regelt alle zaken rond de verhuur en eisers zijn daarbij niet betrokken. Zij kunnen daarom niet als overtreder worden aangemerkt. [familielid] heeft een zienswijze ingediend, de boete betaald en de verhuursituatie is gelegaliseerd. Eisers dachten dat daarmee de zaak geregeld was. Nadat eiseres een aanmaning had ontvangen, hebben zij bezwaar gemaakt.</para>
+      <para />
+      <para>4. Eiser heeft nooit enige correspondentie van verweerder ontvangen. Hij is via [familielid] op de hoogte geraakt van het boetebesluit. Eiser stelt dat hij in het Register Niet Ingezetenen geregistreerd staat op zijn adres in [plaats] en dat de Belastingdienst ook bekend is met dat adres. Volgens eiser heeft verweerder het verkeerde of een verouderd register geraadpleegd. </para>
+      <para>
+        <?linebreak?>
+        <emphasis role="italic">Is de termijnoverschrijding van eiser verschoonbaar?  </emphasis>
+      </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Verweerder heeft het primaire besluit I per aangetekende post verzonden naar een adres in Frankrijk. In de Basisregistratie Personen (Brp) staat dat hij daarheen op 23 april 2003 is vertrokken. Met dit adres staat eiser ook in het kadaster als eigenaar geregistreerd. Verweerder heeft op 5 februari 2019 een afschrift van de levering van het poststuk ontvangen met de melding dat de geadresseerde onbekend is. Volgens verweerder is het besluit toch op de juiste wijze bekend gemaakt, omdat dat adres in het officiële landelijke systeem staat geregistreerd. Eiser had zelf zijn adres in de Brp moeten wijzigen of ervoor moeten zorgen dat eventuele verstuurde poststukken vanuit dit adres naar het juiste postadres doorgezonden worden. <?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>De rechtbank oordeelt als volgt. Op grond van rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) wordt een ambtshalve genomen besluit op de juiste wijze bekend gemaakt als het naar het woonadres wordt gestuurd, zoals dat in de Brp is opgenomen.<footnote-ref linkend="_50d02f9e-294f-4e7d-bacc-4ec305bf849e" /> Dat in de Brp is geregistreerd dat eiser in 2003 uit Nederland is vertrokken naar een adres in Frankrijk, betekent niet dat eiser op dat adres in de Brp is ingeschreven. Nadat het primaire besluit I als onbestelbaar terug was gekomen uit Frankrijk, had het op de weg van verweerder gelegen om meer onderzoek te doen naar eisers adres. Verweerder had bijvoorbeeld bij [familielid] van eiser kunnen informeren, met wie toch al contact was vanwege het legaliseren van de verhuursituatie. Verweerder heeft het primaire besluit I dus niet op de juiste wijze bekend gemaakt. De termijnoverschrijding is verschoonbaar. Dat betekent dat het beroep van eiser gegrond is en het bestreden besluit I moet worden vernietigd. </para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">Is de termijnoverschrijding van eiseres verschoonbaar?  </emphasis>
+          <?linebreak?>
+        </para>
+        <para>6. </para>
+        <para />
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Niet in geschil is dat verweerder het primaire besluit II op de juiste wijze bekend heeft gemaakt aan eiseres. Eiseres betwist niet dat zij het besluit heeft ontvangen, maar zij had niet begrepen dat het om drie afzonderlijke boetes ging. Dat werd pas duidelijk toen zij een aanmaning kreeg. Daarna heeft zij bezwaar gemaakt. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>De rechtbank oordeelt als volgt. In het primaire besluit II staat: “Wij merken u, [eiseres] , geboren op [geboortedatum] 1968, wonende aan de [straat] , [woonplaats] , aan als overtreder van het bepaalde in artikel 21 sub c van de wet. In verband met de geconstateerde overtreding hebben wij besloten om u op grond van artikel 4.2.2 lid 1 van de verordening een bestuurlijke boete op te leggen.” De rechtbank oordeelt dat hieruit duidelijk volgt dat eiseres zelf als overtreder is aangemerkt en dat aan haar een boete is opgelegd. Het primaire besluit II is niet voor een andere interpretatie vatbaar. Dat eiseres dat niet logisch vindt of dat zij het onevenredig vindt dat de eigenaren alle drie een boete kregen, maakt dat niet anders. De termijnoverschrijding van eiseres is niet verschoonbaar. Dat betekent dat het beroep van eiseres ongegrond is.  <?linebreak?><emphasis role="italic">Was verweerder bevoegd om aan eiser een boete op te leggen?  </emphasis></para>
+        <para>
+          <?linebreak?>
+        </para>
+        <para>7. </para>
+        <para />
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>  In het kader van de finale geschillenbeslechting zal de rechtbank zelf in de zaak voorzien en het bezwaar van eiser inhoudelijk beoordelen. Niet in geschil is dat de woning is omgezet van zelfstandige naar onzelfstandige woonruimte en dat daarmee artikel 21, aanhef en onder c, van de Huisvestingswet is overtreden.</para>
+      <para> <?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Eiser stelt dat hij niet als overtreder kan worden aangemerkt, omdat hij geen enkele betrokkenheid heeft gehad bij de verhuur van de woning. Zijn [familielid] is verantwoordelijk voor de verhuur en het beheer van de woning. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>De rechtbank volgt eiser hierin niet. Volgens vaste rechtspraak van de Afdeling<footnote-ref linkend="_ebfbeade-e3c3-4c8d-9b43-73e101ecac62" /> is de overtreder degene die het desbetreffende wettelijke voorschrift daadwerkelijk heeft geschonden. Dat is in de eerste plaats degene die de verboden handeling fysiek heeft verricht. Daarnaast kan in bepaalde gevallen degene die de overtreding niet zelf feitelijk heeft begaan, doch aan wie de handeling is toe te rekenen, voor de overtreding verantwoordelijk worden gehouden en derhalve als overtreder worden aangemerkt. Daarbij is in dit geval van belang dat van de eigenaar van een pand die dat verhuurt, mag worden gevergd dat hij zich tot op zekere hoogte op de hoogte stelt van het gebruik dat van het verhuurde pand wordt gemaakt. Om niet verantwoordelijk te kunnen worden gehouden voor onrechtmatig gebruik van het door hem verhuurde pand dient de eigenaar aannemelijk te maken dat hij niet wist en niet kon weten dat het pand aldus werd gebruikt. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>7.4.</nr>
+      <parablock>
+        <para>Dat eiser zich er niet mee bemoeide wordt hem dus juist verweten: als eigenaar moest hij zich met zijn woning bemoeien om ervoor te zorgen dat er geen regels zouden worden overtreden. Uit de hierboven aangehaalde uitspraak volgt ook dat verweerder bevoegd is om aan elke overtreder van artikel 21 van de Huisvestingswet afzonderlijk per overtreding een boete op te leggen. </para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">Is er reden om de boete te matigen?  </emphasis>
+          <?linebreak?>
+        </para>
+        <para>8. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Verweerder heeft op grond van het forfaitair stelsel in Bijlage 3 van de Huisvestingsverordening 2016 een boete opgelegd van € 6.000,-. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Uit vaste rechtspraak van de Afdeling<footnote-ref linkend="_b5067900-bf63-45e2-bf38-484f965d5f98" /> volgt dat een verminderde verwijtbaarheid, een beperkte ernst van een overtreding en een geringe financiële draagkracht worden aangemerkt als bijzondere omstandigheden,<footnote-ref linkend="_fafbe0c3-1138-42d7-be84-b509d90afc50" /> die aanleiding geven een boete te matigen. </para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Eiser heeft de woning vanaf 14 maart 2017 verhuurd. Er is naar het oordeel van de rechtbank geen sprake van een beperkte periode van verhuur of beperkte huurinkomsten. Dat de situatie inmiddels is gelegaliseerd, maakt de overtreding niet ongedaan en is daarom ook geen reden om de boete te matigen. </para>
+      <para>
+        <?linebreak?>
+      </para>
+      <para>9. De rechtbank verklaart gelet op het voorgaande het bezwaar van eiser tegen het primaire besluit I ongegrond. </para>
+      <para>
+        <?linebreak?>
+        <emphasis role="italic">Conclusie </emphasis>
+        <?linebreak?>
+      </para>
+      <para>10. Het beroep van eiser in de zaak AMS 19/5224 is gegrond en de rechtbank vernietigt het bestreden besluit. De rechtbank ziet aanleiding zelf in de zaak te voorzien, in die zin dat het bezwaar van eiser tegen het primaire besluit I ongegrond wordt verklaard. </para>
+      <para>
+        <?linebreak?>
+      </para>
+      <para>11. Omdat de rechtbank het beroep van eiser gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht van € 178,- vergoedt. De rechtbank veroordeelt verweerder verder in de door eiser gemaakte reiskosten van € 300,- [vliegtuig] ). </para>
+      <para>
+        <?linebreak?>
+      </para>
+      <para>12. Het beroep van eiseres in de zaak AMS 19/5395 is ongegrond. Voor vergoeding van het griffierecht of een veroordeling in de proceskosten is geen aanleiding. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>in de zaak AMS 19/5395: </para>
+      <para>verklaart het beroep ongegrond;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>in de zaak AMS 19/5442: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het bezwaar ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat deze uitspraak in de plaats treedt van het vernietigde bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de reiskosten van eiser tot een bedrag van € 300,-. </para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. F.L. Bolkestein, rechter, in aanwezigheid van mr. E.H. Kalse-Spoon, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 28 februari 2020. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <parablock>
+      <para>Tegen deze uitspraak kunt u binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als uw zaak spoedeisend is, kunt u de voorzieningenrechter van de hogerberoepsrechter vragen om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_17719de9-69ce-4641-bdd9-92d08e9287f9" label="1">
+    <para> Artikel 6.9 van de Algemene wet bestuursrecht. </para>
+  </footnote>
+  <footnote id="_50d02f9e-294f-4e7d-bacc-4ec305bf849e" label="2">
+    <para> Zie de uitspraak van 16 augustus 2017 (ECLI:NL:RVS:2017:2196). </para>
+  </footnote>
+  <footnote id="_ebfbeade-e3c3-4c8d-9b43-73e101ecac62" label="3">
+    <para> Bijv. de uitspraak van 13 februari 2019 (ECLI:NL:RVS:2019:396). </para>
+  </footnote>
+  <footnote id="_b5067900-bf63-45e2-bf38-484f965d5f98" label="4">
+    <para> Bijv. de uitspraak van 20 juni 2018 (ECLI:NL:RVS:2018:2051). </para>
+  </footnote>
+  <footnote id="_fafbe0c3-1138-42d7-be84-b509d90afc50" label="5">
+    <para> Als bedoeld in artikel 5:46, derde lid, van de Algemene wet bestuursrecht. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

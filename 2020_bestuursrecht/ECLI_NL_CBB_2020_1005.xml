@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:1005</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-22T13:27:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/70</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0039205&amp;g=2020-01-01">Regeling fosfaatreductieplan 2017</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:1005">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:1005</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-21T07:33:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:1005 College van Beroep voor het bedrijfsleven , 22-12-2020 / 19/70</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:1005:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Fosfaatreductieplan 2017. Bedrijfsovername. Appellant houdt procesbelang. Vermeend gebrek in primair besluit is in heroverweging hersteld. Appellant had aan de hand van zijn eigen administratie kunnen berekenen hoeveel hij moest reduceren om aan de Regeling te voldoen. Verweerder heeft terecht geen aanleiding gezien voor toepassing van de hardheidsclausule, zoals neergelegd in artikel 13, derde lid, van de Landbouwwet.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:1005:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 19/70</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 22 december 2020 in de zaak tussen</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [naam 1] h.o.d.n. Melkveebedrijf [naam 2] , </emphasis>gemeente [gemeente] (appellant),</para>
+      <para>(gemachtigden: mr. T. van der Weijde en L. de Voogd),</para>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder,</bridgehead>
+    <para>(gemachtigde: mr. K.R. van Welsum-Boschma).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij onderscheiden besluiten van 21 oktober 2017, 31 maart 2018, 7 april 2018 en 14 april 2018 (de primaire besluiten) heeft verweerder op grond van de Regeling fosfaatreductieplan 2017 (de Regeling) aan appellant hoge geldsommen opgelegd van € 4.910,- voor periode 1, van € 2.880,- voor periode 2, van € 1.219,- voor periode 3 en van € 2.611,- voor periode 4.</para>
+      <para>Bij besluit van 26 november 2018 (het bestreden besluit) heeft verweerder de bezwaren van appellant tegen de primaire besluiten ongegrond verklaard en deze besluiten in stand gelaten. </para>
+      <para>Appellant heeft beroep ingesteld tegen het bestreden besluit.</para>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+      <para>Appellant heeft een nader stuk ingediend.</para>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 24 november 2020. Appellant en verweerder hebben via een videoverbinding deelgenomen aan de zitting. Appellant werd bijgestaan door zijn gemachtigden. Verweerder werd vertegenwoordigd door zijn gemachtigde.<?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer vrouwelijke runderen houdt dan het referentieaantal op <?linebreak?>2 juli 2015 (de peildatum) en kent een bonusgeldsom toe indien een melkveehouder minder vrouwelijke runderen houdt dan het referentieaantal op de peildatum.</para>
+      </listitem>
+      <listitem>
+        <para>Appellant exploiteert vanaf 1 januari 2017 een melkveebedrijf in de vorm van een eenmanszaak. Daarvoor waren appellant en zijn ouders de vennoten van de vennootschap onder firma Melkveebedrijf [naam 2] V.O.F. Appellant heeft op 21 maart 2017 bij verweerder een melding overdracht agrarisch bedrijf ingediend, waaruit blijkt dat Melkveebedrijf [naam 2] V.O.F. per 1 januari 2017 wordt voortgezet in de vorm van een eenmanszaak.<?linebreak?><emphasis role="italic">Procesbelang en omvang geding</emphasis></para>
+      </listitem>
+      <listitem>
+        <para>Anders dan verweerder ter zitting heeft gesteld heeft appellant procesbelang bij de beroepsgrond over het vermeende gebrek in het primaire besluit van 21 oktober 2017. Volgens vaste rechtspraak, waaronder de uitspraak van 18 december 2018 (ECLI:NL:CBB:2018:690), heeft een belanghebbende voldoende procesbelang als het resultaat dat met het beroep wordt nagestreefd ook daadwerkelijk bereikt kan worden en het realiseren van dat resultaat voor de belanghebbende feitelijk betekenis kan hebben. Indien een procesbelang ontbreekt, is het beroep niet-ontvankelijk.<?linebreak?>	De beroepsgrond van appellant richt zich tegen het bestreden besluit, voor zover daarbij het primaire besluit van 21 oktober 2017 in stand is gelaten en ziet op vermeende gebreken in deze besluitvorming. In zoverre behoudt appellant procesbelang. <?linebreak?>	In het beroepschrift geeft appellant aan dat het beroep zich alleen richt tegen het bestreden besluit voor zover daarbij de opgelegde hoge geldsom over periode 1 in stand is gelaten. Het College stelt dan ook vast dat de omvang van het geding zich daartoe beperkt. <?linebreak?><emphasis role="italic">Het besluit van 21 oktober 2017</emphasis></para>
+      </listitem>
+      <listitem>
+        <para>Appellant voert aan dat het primaire besluit van 21 oktober 2017 is voorzien van een onjuiste tenaamstelling omdat het besluit is gericht aan de V.O.F. waar appellant geen deel meer van uitmaakt. <?linebreak?>	Appellant wijst er verder op dat hij een eerder besluit van 27 mei 2017 niet heeft ontvangen. Dit besluit was inhoudelijk onjuist, omdat tot 21 oktober 2017 onjuiste gegevens van appellant stonden geregistreerd. Appellant stelt dat verweerder aan hem ten onrechte een heffing voor periode 1 heeft opgelegd. Daarbij wijst appellant erop dat hij de bedrijfsgegevens niet kon inzien door de bedrijfsovername. Daardoor was voor appellant niet tijdig duidelijk wat de gevolgen van de Regeling zouden zijn voor zijn bedrijfsvoering. Appellant was proactief en heeft diverse pogingen gedaan om zijn reductieopgave op andere wijze te achterhalen. De informatie die hij wel tijdig heeft kunnen raadplegen, van ZuivelNL, blijkt bij nader inzien onjuist te zijn. Appellant wijst erop dat hij pas door het besluit van 21 oktober 2017 in staat is gesteld kennis te nemen van de juiste reductiegegevens, terwijl de boete toen al met het melkgeld was verrekend. Verweerder had hierin aanleiding moeten zien de hardheidsclausule, zoals neergelegd in artikel 13, derde lid, van de Landbouwwet, toe te passen, aldus appellant. </para>
+      </listitem>
+    </orderedlist>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Voor zover sprake is van een gebrek in het primaire besluit van <?linebreak?>21 oktober 2017 door een onjuiste tenaamstelling, heeft verweerder dat gebrek in het bestreden besluit hersteld, omdat dat besluit is gericht aan appellant. Verweerder heeft er verder terecht op gewezen dat de adressering van het besluit van 21 oktober 2017 wel juist is en dat appellant tegen dit besluit tijdig bezwaar heeft gemaakt. Daarnaast heeft verweerder er terecht op gewezen dat appellant pas op 21 maart 2017 de bedrijfsoverdracht van 1 januari 2017 heeft gemeld, terwijl artikel 31 van het Uitvoeringsbesluit Meststoffenwet in samenhang bezien met artikel 37 van de Uitvoeringsregeling Meststoffenwet voorschrijven dat een dergelijke melding gedaan moet worden binnen 30 dagen. <?linebreak?>	Ter zitting is bovendien vastgesteld dat verweerder op 27 mei 2017 geen onjuist besluit heeft genomen maar dat de brief van 27 mei 2017, waar appellant op doelt, een informatiebrief is van verweerder die naar verschillende melkveehouders is verstuurd.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Verweerder heeft zich terecht op het standpunt gesteld dat appellant aan de hand van de artikelen van de Regeling en zijn eigen administratie van de veestapel had kunnen berekenen hoeveel hij moest reduceren om aan de Regeling te voldoen. Daarbij wijst verweerder er terecht op dat de Regeling kenbaar was door publicatie in de Staatscourant (Stcrt. 2017, 9915) en dat verweerder en de zuivelfabrieken daarover veelvuldig en breed hebben gecommuniceerd in de melkveehouderijsector. Met wat appellant heeft aangevoerd, heeft hij niet aannemelijk gemaakt dat hij door de bedrijfsoverdracht de gegevens in zijn eigen administratie niet kon raadplegen. Daarbij is van belang dat appellant het bedrijf een op een heeft overgenomen.<?linebreak?>	Verweerder heeft zich verder terecht op het standpunt gesteld dat in de informatie van ZuivelNL hetzelfde doelstellingsaantal staat opgenomen als in het primaire besluit van 21 oktober 2017. Dat het primaire besluit pas op <?linebreak?>21 oktober 2017 is verstuurd, betekent dan ook niet dat appellant daarvoor niet op de hoogte kon zijn van de gevolgen van de Regeling voor zijn bedrijfsvoering.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Gelet op het bovenstaande heeft verweerder zich terecht op het standpunt gesteld dat zich geen bijzondere omstandigheden voordoen waarin verweerder aanleiding had moeten zien voor het toepassen van de hardheidsclausule, zoals neergelegd in artikel 13, derde lid, van de Landbouwwet.<?linebreak?><emphasis role="underline">Slotsom</emphasis></para>
+      <para>5. Het beroep is ongegrond. </para>
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding. <?linebreak?><emphasis role="bold">Beslissing</emphasis></para>
+      <para />
+      <parablock>
+        <para>Het College</para>
+      </parablock>
+      <para />
+      <para>
+        <emphasis role="italic">- </emphasis>verklaart het beroep ongegrond.</para>
+      <para>Deze uitspraak is gedaan door mr. C.H.M. van Altena, in aanwezigheid van mr. P.M.M. van Zanten, griffier. <?linebreak?>De beslissing is in het openbaar uitgesproken op 22 december 2020.</para>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>De voorzitter is verhinderd				De griffier is verhinderd <?linebreak?>de uitspraak te ondertekenen				de uitspraak te ondertekenen</para>
+      </parablock>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

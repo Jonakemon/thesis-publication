@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:9147</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-16T07:51:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20_5152</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#procesverbaal">Proces-verbaal</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:9147">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:9147</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-16T07:50:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:9147 Rechtbank Noord-Holland , 29-10-2020 / 20_5152</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:9147:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Vovo. proces-verbaal mondelinge uitspraak. Afwijzing urgentie. Afwijzing verzoek.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:9147:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 20/5152</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>proces-verbaal van de mondelinge uitspraak van de voorzieningenrechter van<?linebreak?>29 oktober 2020 op het verzoek om voorlopige voorziening in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [verzoeker] , te [woonplaats] , verzoeker(gemachtigde: mr. H. Temel),</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Haarlem,  verweerder(gemachtigde: mr. S. Eljarroudi). </bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop <?linebreak?>Bij besluit van 10 september 2020 (het bestreden besluit) heeft verweerder het verzoek om urgentie afgewezen.</title>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het bestreden besluit bezwaar gemaakt. Hij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 29 oktober 2020 met gebruikmaking van tweezijdige elektronische communicatiemiddelen (Skype en telefoonverbinding).  Verzoeker is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Na afloop van de behandeling van de zaak ter zitting heeft de voorzieningenrechter onmiddellijk ter zitting uitspraak gedaan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.<?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De voorzieningenrechter geeft hiervoor de volgende motivering.</para>
+    <para />
+    <para>2. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <para>3. Verzoeker heeft de voorzieningenrechter gevraagd hem bij wijze van voorlopige voorziening urgentie te verlenen. Omdat niet op voorhand vaststaat dat het verkrijgen van een woning met urgentie zo lang in beslag zal nemen dat het voeren van deze procedure zinsledig zou zijn, kan verzoeker een spoedeisend belang bij de gevraagde voorlopige voorziening niet worden ontzegd.</para>
+    <para />
+    <para>4. Verzoeker heeft onvoldoende aannemelijk gemaakt dat is voldaan aan het bepaalde in artikel 9, vierde lid, van de Huisvestingsverordening Zuid-Kennemerland/IJmond: Haarlem 2017, versie 1 mei 2019 (HVV). De door verzoeker overgelegde stukken schetsen weliswaar een medisch en psychisch minder rooskleurig beeld, maar de noodzaak voor verzoeker om per direct een woning te betrekken blijkt daaruit niet nu verzoekers behandelaars – zijn  (huis)artsen, psycholoog en sociaal werker – in hun verklaringen enkel hebben aangeven dat het voor verzoeker wenselijk zou zijn om via urgentie een woning te verkrijgen. Daarbij is ook van belang dat de arts van [naam] die was betrokken bij het advies van de urgentiecommissie op basis van de stukken heeft geconcludeerd dat niet is gebleken dat de lichamelijke en/of sociaal psychische gezondheid van verzoeker zeer ernstig wordt bedreigd. Bij zijn oordeel betrekt de voorzieningenrechter verder dat niet is gebleken dat er geen enkel alternatief is voor de (woon)situatie waarin verzoeker op dit moment verkeert. Niet valt in te zien waarom, zoals verweerder ook heeft aangegeven, kamerbewoning bijvoorbeeld niet mogelijk zou zijn. Dat kamerbewoning voor verzoeker – met name gelet op coronavirus – niet eenvoudig zal zijn omdat daarbij veelal sprake is van gemeenschappelijke ruimtes en verzoeker mogelijk veel op zijn kamer zal moeten verblijven, doet daaraan niet af.</para>
+    <para />
+    <para>5. Verweerder heeft naar het voorlopig oordeel van de voorzieningenrechter verder geen aanleiding hoeven zien verzoeker onder toepassing van de hardheidsclausule alsnog urgentie te verlenen. De omstandigheden die blijken uit de stukken hiervoor besproken en de wens van verzoeker om invulling te geven aan het co-ouderschap nopen daar niet toe wegens onvoldoende hardheid van de situatie. Daarbij moet ook worden bedacht dat een betrokkene met urgentie voorrang krijgt op vele anderen die op een woning wachten. </para>
+    <para />
+    <para>6. Gelet op hetgeen hiervoor is overwogen ziet de voorzieningenrechter geen aanleiding voor het treffen van een voorlopige voorziening. </para>
+    <para />
+    <para>7. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is uitgesproken in het openbaar op 29 oktober 2020 door mr. M.P. de Valk, voorzieningenrechter, in aanwezigheid van mr. P.C. van der Vlugt, griffier.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>voorzieningenrechter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van dit proces-verbaal is verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel<?linebreak?>Tegen deze uitspraak staat geen rechtsmiddel open.</title>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

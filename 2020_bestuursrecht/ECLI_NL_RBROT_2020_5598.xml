@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:5598</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-26T11:42:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/3020</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5598">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5598</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-26T11:41:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:5598 Rechtbank Rotterdam , 24-06-2020 / ROT 20/3020</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:5598:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>woningsluiting – hennepkwekerij 106 planten – evenredigheid – beschikbare opvang</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:5598:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/3020</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 24 juni 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker] , te [woonplaats verzoeker] , verzoeker,</bridgehead>
+    <para>gemachtigde: mr. S. Kegreisz,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Vlaardingen, verweerder,</bridgehead>
+    <para>gemachtigde: A. Uca,</para>
+    <para />
+    <parablock>
+      <para>Als derde-partij is aangemerkt:</para>
+      <para>
+        <emphasis role="bold">Waterweg Wonen</emphasis>, te Vlaardingen,</para>
+      <para>gemachtigden: mr. M. Martinot en [naam gemachtigde] .</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft bezwaar gemaakt tegen het besluit van 4 juni 2020 (het bestreden besluit) van verweerder. Dit besluit gaat over de sluiting van de door hem gehuurde woning vanwege een overtreding van de Opiumwet. Verzoeker heeft de voorzieningenrechter gevraagd de woningsluiting te schorsen, in afwachting van de afhandeling van zijn bezwaarschrift. Dit wordt een ‘voorlopige voorziening’ genoemd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vanwege de omstandigheden rond het coronavirus is er geen fysieke zitting gehouden bij de rechtbank. Verzoeker en de gemachtigden van verzoeker, verweerder en derde-partij zijn op 18 juni 2020 telefonisch gehoord door de voorzieningenrechter. Verzoeker is daarbij bijgestaan door M.A. Budak, een tolk in de Turkse taal.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Verzoeker woont op het adres [adres] in [plaats] . Waterweg Wonen is de eigenaar van de woning.  Op 23 april 2020 is bij een doorzoeking van de woning een in werking zijnde hennepkwekerij aangetroffen met 106 hennepplanten. Dit blijkt uit een bestuurlijke rapportage van de politie. Verweerder heeft, naar aanleiding van die rapportage, in het bestreden besluit verzoeker dan wel de eigenaar opgedragen om de woning te sluiten en afgesloten te houden voor een periode van drie maanden. Verzoeker wil met het verzoek om voorlopige voorziening bereiken dat zijn huurwoning niet wordt gesloten, totdat er op zijn bezwaarschrift is beslist.</para>
+    <para />
+    <para>2. De voorzieningenrechter kijkt of het bezwaarschrift van verzoeker kans van slagen heeft. Hij geeft daarbij een voorlopig oordeel over de zaak. Als deze zaak in beroep wordt voorgelegd aan de rechtbank, hoeft de rechtbank het oordeel van de voorzieningenrechter niet per se te volgen.</para>
+    <para />
+    <para>3. Verzoeker betwist niet dat er een handelshoeveelheid softdrugs in zijn woning is gevonden en dat verweerder om die reden bevoegd was om tot woningsluiting over te gaan. Wel stelt verzoeker dat er geen noodzaak is voor de sluiting, omdat de woning niet bekend staat als drugspand en er geen sprake is van overlast.</para>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>De voorzieningenrechter vindt dat verweerder de noodzaak van de sluiting toereikend heeft gemotiveerd. Uit het dossier komt naar voren dat er aanwijzingen zijn voor eerdere oogsten. Zo zijn er resten van planten aangetroffen, was de gebruikte apparatuur flink vervuild door het gebruik, lag er een grote hoeveelheid stof op de aanwezige apparatuur, zijn er kalkresten op diverse materialen aangetroffen en er zijn aantekeningen gevonden van een kweekschema. Bovendien zijn er droognetten aangetroffen met daarin henneprestanten en scharen met hennepresten. Verzoeker heeft aangevoerd dat hij de spullen voor de hennepkwekerij tweedehands heeft gekocht en dat er maar één oogst is geweest. Stedin heeft echter op basis van het (hoge) energieverbruik berekend dat er sprake is geweest van zes eerdere oogsten. Verweerder mocht dan ook aannemelijk achten dat er meerdere oogsten zijn geweest. Dit maakt dat de aanwezigheid van hennep in verzoekers woning bekend kan zijn in het criminele circuit, wat het risico met zich meebrengt dat de woning wordt overvallen. Door de woning te sluiten wordt de aantrekkingskracht op het criminele circuit tegengegaan en wordt het signaal afgegeven dat er wordt opgetreden tegen drugscriminaliteit.</para>
+      <para />
+      <parablock>
+        <para>4.	Volgens verzoeker is sluiting van de woning niet evenredig. Hij komt door de woningsluiting op straat te staan. Hij heeft geen mogelijkheden om tijdelijk ergens anders te verblijven. Daarbij komt dat hij diabetes patiënt is en dat hij in het kader van het coronavirus tot een risicogroep behoort. Verzoeker vindt dat verweerder hier onvoldoende rekening mee heeft gehouden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het gevolg van de woningsluiting is dat verzoeker de woning moet verlaten. Dit is op zichzelf dan ook geen bijzondere omstandigheid om van woningsluiting af te zien<footnote-ref linkend="_c78eb9a7-7cd7-4e18-a731-897f2d51c5bf" />. Dat kan anders zijn als verzoeker een specifieke binding met de woning zelf heeft, bijvoorbeeld vanwege een medische situatie. Uit de door verzoeker overgelegde medische stukken blijkt niet dat hij een specifieke binding heeft met zijn eigen woning. Verder heeft verzoeker niet met medische gegevens onderbouwd dat hij alleen al vanwege het hebben van diabetes tot de risicogroep behoort met betrekking tot het coronavirus. In zoverre is deze zaak al anders dan de zaak van de rechtbank Gelderland<footnote-ref linkend="_9ec92daf-205f-462e-834e-0edccde0f9ff" /> waar verzoeker een beroep op heeft gedaan. In die zaak lag er namelijk een verklaring van de huisarts waarin stond dat de belanghebbende in een slechte conditie verkeerde en kwetsbaar was voor infecties, waaronder het coronavirus. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>De zaak van verzoeker is ook anders dan de door hem genoemde zaak van de rechtbank Limburg<footnote-ref linkend="_2f077f5d-81f5-4cfb-a4ae-0628c64b3545" />, omdat het in die zaak ging om belanghebbenden die vanwege hun leeftijd tot de risicogroep behoorden en dit een feit van algemene bekendheid is. De voorzieningenrechter van de rechtbank Limburg heeft daarbij meegewogen dat belanghebbenden mogelijk geen verwijt kon worden gemaakt van de overtreding van de Opiumwet. Ook op dit punt is er een verschil met de zaak van verzoeker.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>In de omstandigheid dat Nederland op dit moment gebukt gaat onder de coronacrisis en met name mensen die tot een risicogroep behoren, geacht worden zoveel mogelijk binnen te blijven en contacten met anderen te beperken, heeft verweerder geen aanleiding hoeven zien om van sluiting van de woning af te zien. Hiertoe acht de voorzieningenrechter van belang dat verweerder gewezen heeft op de mogelijkheid voor verzoeker om contact op te nemen met de dak- en thuislozenopvang De Elementen te Vlaardingen. Ook heeft verweerder vanwege het coronavirus extra bedden vrijgemaakt voor personen die onderdak behoeven, waarbij de maatregelen die door het kabinet zijn afgekondigd in acht zijn genomen. Verzoeker heeft niet met stukken onderbouwd dat er voor hem geen opvangmogelijkheid zou zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Voor zover verzoeker nog een beroep heeft gedaan op een uitspraak van de rechtbank Rotterdam<footnote-ref linkend="_24ec6477-0889-4df3-b573-d48fb5e7afa3" />, wordt overwogen dat de voorzieningenrechter in die zaak in het kader van de belangenafweging veel gewicht heeft toegekend aan het belang van een minderjarig kind. Daarvan is bij verzoeker geen sprake. De voorzieningenrechter ziet daarom geen aanleiding om voor de uitkomst van verzoekers zaak aan te sluiten bij die eerdere uitspraak.</para>
+      <para />
+      <para>5. Dit alles brengt de voorzieningenrechter tot het oordeel dat verweerder in redelijkheid gebruik kon maken van zijn bevoegdheid om de woning te sluiten. De verwachting is dan ook dat in bezwaar het bestreden besluit in stand kan blijven, zodat er geen aanleiding is voor het treffen van een voorlopige voorziening.</para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 24 juni 2020 door mr. A.P. Hameete, voorzieningenrechter, in aanwezigheid van E.C. Petrusma, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier en de voorzieningenrechter zijn verhinderd de uitspraak te ondertekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+  <footnote id="_c78eb9a7-7cd7-4e18-a731-897f2d51c5bf" label="1">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 28 augustus 2019, ECLI:NL:RVS:2019:2912. </para>
+  </footnote>
+  <footnote id="_9ec92daf-205f-462e-834e-0edccde0f9ff" label="2">
+    <para> De uitspraak van 27 maart 2020, ECLI:NL:RBGEL:2020:2015.</para>
+  </footnote>
+  <footnote id="_2f077f5d-81f5-4cfb-a4ae-0628c64b3545" label="3">
+    <para> De uitspraak van 18 mei 2020, ECLI:NL:RBLIM:2020:3660.</para>
+  </footnote>
+  <footnote id="_24ec6477-0889-4df3-b573-d48fb5e7afa3" label="4">
+    <para> De uitspraak van 1 augustus 2019, ECLI:NL:RBROT:2019:6162.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

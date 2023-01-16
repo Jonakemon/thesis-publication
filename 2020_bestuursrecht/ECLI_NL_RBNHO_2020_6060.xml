@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:6060</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-10T15:00:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3587</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6060">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6060</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-10T08:59:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:6060 Rechtbank Noord-Holland , 04-08-2020 / AWB - 19 _ 3587</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:6060:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bewonersparkeervergunning.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:6060:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/3587 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 4 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser], te [woonplaats], eiser</bridgehead>
+    <para>(gemachtigden: mr. J.P. Groen en mr. K. van der Hoeven)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Enkhuizen, </emphasis>verweerder</para>
+      <para>(gemachtigden: mr. H. Doornhof en B. Kocken)</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 februari 2019 heeft verweerder eiser een bewonersparkeervergunning verleend voor het parkeren op een strook grond dat grenst aan de watergang aan de voorzijde van eisers woning aan de [locatie] in [woonplaats] (het primaire besluit).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 juli 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser tegen het primaire besluit ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In verband met de uitbraak van het coronavirus heeft het onderzoek ter zitting op 15 juni 2020 plaatsgevonden met gebruikmaking van elektronische communicatiemiddelen. Eiser heeft deelgenomen aan de zitting en heeft zich laten vertegenwoordigen door zijn gemachtigden. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser is de eigenaar van twee percelen in [woonplaats]. Het eerste perceel [# 1] betreft het perceel waarop zijn woning is gebouwd aan de [locatie]. Het tweede perceel [# 2] betreft een strook grond dat grenst aan de watergang aan de voorzijde van eisers woning (hierna te noemen: de walkant). Beide percelen worden gescheiden door een strook grond die eiser niet in eigendom heeft en in gebruik is als openbare weg. De strook grond aan de walkant is bestraat en wordt door eiser gebruikt als parkeerplek. Achter de verharding is aan de sloot een aanlegsteiger gelegen. Eiser heeft een bord met ‘niet parkeren, eigen weg’ geplaatst ter hoogte van de parkeerplaats. </para>
+    <para />
+    <para>2. Partijen zijn verdeeld over de vraag of de walkant, die eiser in eigendom heeft en in gebruik is als parkeerplek dient te worden gerekend tot de openbare weg, waar het ingevolge de Parkeerverordening [woonplaats] 2012 (de parkeerverordening) van de gemeente [woonplaats] slechts is toegestaan om te parkeren wanneer men in het bezit is van een parkeervergunning. </para>
+    <para />
+    <para>3. Bij het bestreden besluit, waarbij het primaire besluit is gehandhaafd, heeft verweerder zich op het standpunt gesteld dat er een vergunningsplicht geldt voor het parkeren op de verharding tegenover de woning van eiser. Verweerder bestrijdt daarbij de stelling van eiser, dat de parkeervergunning had moeten worden geweigerd. Aan het besluit heeft verweerder ten grondslag gelegd dat de strook grond met verharding (bestrating) langs de openbare weg aan de Burgwal, die dienst doet als parkeerplek onderdeel is van de openbare weg in de zin van de Wegenwet en een functie heeft ten behoeve van de afwikkeling van het verkeer. Verweerder voert aan dat het parkeren niet plaats vindt op de walkant, zoals eiser stelt, maar daarvóór, op de verharde strook grond tussen de openbare weg en de walkant. Daarom geldt er volgens verweerder voor het parkeervlak een vergunningplicht op grond van de parkeerverordening.</para>
+    <para />
+    <para>4. Het wettelijk kader is opgenomen in de bijlage en maakt onderdeel uit van deze uitspraak. </para>
+    <para />
+    <para>5. Eiser heeft in zijn pleitnotitie van 15 juni 2020, die vlak voor de zitting aan de rechtbank en de wederpartij is toegezonden, aangevoerd dat de parkeerverordening niet van toepassing is. Verweerder heeft ter zitting betoogd dat deze beroepsgrond zodanig laat naar voren is gebracht dat er sprake is van strijd met de goede procesorde. Verweerder is namelijk niet meer in de gelegenheid een schriftelijke reactie te overleggen en acht zich niet in staat om op dit punt op de zitting adequaat op te reageren. De rechtbank volgt verweerder hierin en is met verweerder van oordeel dat deze beroepsgrond te laat is ingebracht en zal deze beroepsgrond daarom wegens strijd met de goede procesorde buiten beschouwing laten. </para>
+    <para />
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Eiser stelt - kort samengevat - dat de parkeervergunning niet had mogen worden verleend, omdat eiser beschikt over een parkeerplaats op eigen terrein en er geen sprake is van een openbare weg in de zin van de Wegenverkeerswet 1994 (Wvw 1994). Eiser betoogt dat de walkant geen verkeersbaan is die een functie vervult ten behoeve van het afwikkelen van het openbare verkeer en verwijst naar een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 16 december 2015, ECLI:NL:RVS:2015:3836. Zijn situatie is volgens hem gelijk aan de situatie die geleid heeft tot deze uitspraak. Voorts stelt eiser dat aan de inrichting van de walkant is te zien dat deze niet tot de openbare weg behoort. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Verweerder heeft zich - kort samengevat - op het standpunt gesteld dat de parkeerplek die is gesitueerd op eisers walkant behoort tot de openbare weg in de zin van de Wvw 1994, zodat eiser op grond van de Parkeerverordening een parkeervergunning nodig heeft om daar te mogen parkeren. Verweerder benadrukt dat deze zaak een principiële kwestie betreft, omdat verweerder zich niet kan verenigen met de voornoemde uitspraak van 16 december 2015, ECLI:NL:RVS:2015:3836, die ook [woonplaats] betrof. Verweerder stelt zich op het standpunt dat de situatie van eiser niet gelijk is aan de situatie die heeft geleid tot deze uitspraak. Voorts is de uitspraak, gelet op vaste jurisprudentie van de Afdeling, een witte raaf en heeft de uitspraak geen navolging gekregen. Verweerder verwijst daarbij naar de uitspraken van de Afdeling van 29 mei 2013, ECLI:NL:RVS:2013:CA1331, 24 april 2002, ECLI:NL:RVS:2002:AE1806 en 11 juli 2018, ECLI:NL:RVS:2018:2283. Verweerder noemt ook het arrest van het Hof Arnhem van 19 juni 2012, ECLI:NL:GHARN:2012:BX4092 over langsparkeren. Verder stelt verweerder zich op het standpunt dat de openbare functie van de parkeerplaats volgt uit het ‘Bestemmingsplan Binnenstad en Havens’ (het bestemmingsplan). De parkeerplaats heeft de bestemming Groen-2. Deze gronden zijn bestemd voor parkeervoorzieningen en hebben daarmee een openbare functie. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Zoals de Afdeling eerder heeft overwogen in de uitspraak van 16 december 2015, ECLI:NL:RVS:2015:3836, is het doel van de Wegenwet het treffen van een regeling ten behoeve van het openbaar verkeer. Blijkens de totstandkomingsgeschiedenis van de Wegenwet werd een afzonderlijke bepaling, waarin tot uitdrukking komt wat tot de wegen geacht wordt te behoren, niet nodig en niet gewenst geacht omdat voornamelijk door de praktijk zelf wordt aangegeven wat tot weg gerekend moet worden te behoren. De Wegenwet heeft, zo heeft de Afdeling eerder geoordeeld, betrekking op verkeersbanen die een functie vervullen ten behoeve van het afwikkelen van het openbare verkeer en die daarom naar hun aard of functie ene grote, onbepaalde publieksgroep dienen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <para>De rechtbank is van oordeel dat de situatie qua inrichting van de walkant vergelijkbaar is met de situatie die door Afdeling is beschreven in de uitspraak van 16 december 2015, ECLI:NL:RVS:2015:3836. In beide gevallen is er sprake van een perceel in eigendom van eiser, gescheiden door een openbare weg in eigendom van verweerder en is de walkant ingericht als parkeerplaats met een steiger en een strook gras. Dat de sfeer anders is, zoals ter zitting door verweerder is gesteld, in die zin dat in de zaak waarover de Afdeling al heeft geoordeeld sprake was van een huiselijke tuin met een parkeerplek en dat in het onderhavige geval sprake is van een parkeerplek met nog een stukje groen, volgt de rechtbank niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5.</nr>
+      <para>De rechtbank volgt verweerder ook niet in zijn standpunt dat de uitspraak van de Afdeling, gelet op andere jurisprudentie, een witte raaf is. De rechtbank neemt hierbij in aanmerking dat de andere uitspraken van de Afdeling waarnaar verweerder heeft verwezen niet over langsparkeren gaan en het geen parkeren in de walkant betreft. In de uitspraak van het Hof Arnhem van 19 juni 2012 (waar het wel langsparkeren betrof) was tussen partijen niet in geschil dat sprake was van een openbare weg, waardoor dat feit, zonder oordeel daarover, als uitgangspunt is genomen door het Hof. Bovendien heeft de Afdeling in de uitspraak van 16 december 2015 (waar het ook [woonplaats] betrof) heel specifiek overwogen dat, gelet op de inrichting van de walkant, er geen sprake is van een verkeersbaan die een functie vervult ten behoeve van het afwikkelen van het openbare verkeer. De Afdeling had hier anders over kunnen oordelen, maar heeft hier kennelijk geen aanleiding toe gezien. </para>
+      <para />
+      <para>7. Nu de walkant als zodanig geen weg is in de zin van de Wegenwet komt de rechtbank aan de vraag of sprake is van een <emphasis role="italic">openbare weg</emphasis> niet toe.</para>
+      <para />
+      <para>8. Nu de walkant en de daarop aanwezige parkeerplaats geen openbare weg is, kan ter plaatse geen vergunningplicht gelden. Verweerder had de aanvraag van eiser om een parkeervergunning met toepassing van artikel 4, vierde lid, van de Parkeerverordening moeten afwijzen. Eiser beschikt immers over een parkeerplaats op eigen terrein.  </para>
+      <para />
+      <para>9. Het beroep is gegrond en de rechtbank vernietigt het bestreden besluit. De rechtbank ziet voorts aanleiding om zelf in de zaak te voorzien, nu uit het voorgaande volgt dat er geen andere uitkomst mogelijk is dan dat het besluit tot verlening van de parkeervergunning wordt vernietigd en dat de aanvraag van eiser van 20 december 2018 tot verlening van de parkeervergunning wordt afgewezen. </para>
+      <para />
+      <para>10. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt. </para>
+      <para />
+      <para>11. De rechtbank veroordeelt verweerder verder in de door eiser gemaakte proceskosten in bezwaar en beroep. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 2.100,- (1 punt voor het indienen van het bezwaarschrift, 1 punt voor het verschijnen bij de hoorzitting, 1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en een wegingsfactor 1). </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- vernietigt het besluit van 19 februari 2019 tot verlening van de parkeervergunning;</para>
+    <para>- wijst de aanvraag van eiser om verlening van de parkeervergunning af;</para>
+    <para>- bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;</para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 2.100,-.</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.H. Affourtit-Kramer, rechter, in aanwezigheid van mr.  L. van Broekhoven, griffier. Deze uitspraak is gedaan op 4 augustus 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier			rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.  </para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wegenwet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 1 </emphasis>
+      </para>
+    </parablock>
+    <para>1. Deze wet is uitsluitend van toepassing op openbare wegen.</para>
+    <para>2 Onder wegen worden in deze wet mede verstaan: </para>
+    <parablock>
+      <para>I. voetpaden, rijwielpaden, jaagpaden, dreven, molenwegen, kerkwegen en andere verkeersbanen voor beperkt gebruik;</para>
+      <para>II. bruggen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 4 </emphasis>
+      </para>
+    </parablock>
+    <para>1. Een weg is openbaar: </para>
+    <parablock>
+      <para>I. wanneer hij, na het tijdstip van dertig jaren vóór het in werking treden van deze wet, gedurende dertig achtereenvolgende jaren voor een ieder toegankelijk is geweest;</para>
+      <para>II. wanneer hij, na het tijdstip van tien jaren vóór het in werking treden van deze wet, gedurende tien achtereenvolgende jaren voor een ieder toegankelijk is geweest en tevens gedurende dien tijd is onderhouden door het Rijk, eene provincie, eene gemeente of een waterschap;</para>
+      <para>III. wanneer de rechthebbende daaraan de bestemming van openbaren weg heeft gegeven.</para>
+    </parablock>
+    <para>2 Het onder I en II bepaalde lijdt uitzondering wanneer, loopende den termijn van dertig of van tien jaren, gedurende een tijdvak van ten minste een jaar duidelijk ter plaatse is kenbaar gemaakt, dat de weg slechts ter bede voor een ieder toegankelijk is.</para>
+    <para>3 Dit kenbaar maken kan geschieden door het stellen van opschriften als: eigen weg, particuliere weg, private weg en soortgelijke, of door andere kenteekenen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 7 </emphasis>
+      </para>
+      <para>Een weg heeft opgehouden openbaar te zijn: </para>
+      <para>I. wanneer hij gedurende dertig achtereenvolgende jaren niet voor een ieder toegankelijk is geweest;</para>
+      <para>II. wanneer hij door het bevoegd gezag aan het openbaar verkeer is onttrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wegenverkeerswet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 1 </emphasis>
+      </para>
+    </parablock>
+    <para>1. In deze wet en de daarop berustende bepalingen wordt verstaan onder: </para>
+    <para>b. wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten; </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Parkeerverordening Enkhuizen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 1 Definities</emphasis>
+      </para>
+      <para>Voor de toepassing van deze verordening wordt verstaan onder:</para>
+    </parablock>
+    <para>a. belanghebbendenparkeerplaats: een parkeerplaats die</para>
+    <para>1. is aangeduid met bord E9 (of bord 99a) uit bijlage 1 van het RVV 1990, of</para>
+    <para>2. gelegen is binnen een zone aangeduid met bord E9 uit bijlage 1 van het RVV 1990 met het opschrift zone, voor zover deze plaats niet is uitgezonderd;</para>
+    <para>3. door de gemeente is gemarkeerd voor het parkeren door vergunningenhouders.</para>
+    <para />
+    <para>f. parkeerplaats op eigen terrein, voor zover deze niet tot de openbare weg (zoals bedoeld in de APV) behoort en anders dan een met de woning verbonden ruimte die de bestemming garage heeft en anders dan een losse garagebox:</para>
+    <para>I. een parkeerplaats waarover de aanvrager kan beschikken op grond van eigendom, erfpacht, huur, ingebruikgeving of anderszins (zoals aangewezen parkeerplaatsen op kenteken voor artsen, gehandicapten, auto-date) of;</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 2 Parkeervergunningen, plaatsen, tijdstippen en maximum aantal</emphasis>
+      </para>
+    </parablock>
+    <para>1. Het college kan, bij openbaar te maken besluit, weggedeelten aanwijzen die bestemd zijn voor het parkeren door vergunninghouders met onderscheid naar de categorieën als bedoeld in artikel 3.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 3 Type parkeervergunningen</emphasis>
+      </para>
+    </parablock>
+    <para>1. Het college kan één van de volgende parkeervergunningen verlenen voor het parkeren op belanghebbendenparkeerplaatsen als bedoeld in artikel 2.</para>
+    <para>a. Bewonersparkeervergunning: een parkeervergunning voor bewoners van de binnenstad.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 4 De bewonersparkeervergunning</emphasis>
+      </para>
+    </parablock>
+    <para>1. Indien en zolang het maximale aantal parkeervergunningen in een parkeerzone niet is overschreden kan het college op aanvraag aan: </para>
+    <para>a. de eigenaar of houder van een motorvoertuig die als bewoner in de gemeentelijke basisadministratie persoonsgegevens op een adres staat ingeschreven dat een zelfstandige woning betreft in de binnenstad, een eerste bewonersparkeervergunning voor een eerste auto of een tweede bewonersparkeervergunning verlenen voor een tweede auto. Indien de aanvrager houder is van het voertuig middels een lease-overeenkomst, middels de werkgever dan wel anderszins, wordt bij de aanvraag een schriftelijke verklaring van de eigenaar overlegd, waarin het gebruiksrecht wordt aangetoond.</para>
+    <para>b. de eigenaar of houder van een voertuig die niet in de binnenstad woont maar wel eigenaar of huurder is van een woning in de binnenstad, een eerste en/of tweede bewonersparkeervergunning voor een eerste en/of tweede auto verlenen.</para>
+    <para>4. Indien de aanvrager beschikt over parkeergelegenheid op eigen terrein, als bedoeld in artikel 1f, vervalt het recht op een eerste bewonersparkeervergunning.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 10 Geldigheid van vergunningen</emphasis>
+      </para>
+    </parablock>
+    <para>1. Het college stelt de regels vast op grond waarvan zij parkeervergunningen, genoemd in artikel 3 van deze verordening, verlenen.</para>
+    <para>2. De bewonersparkeervergunningen en bedrijfsparkeervergunningen zijn geldig voor een periode van maximaal één jaar, met ingang van de dag na verlening tot uiterlijk één februari van het volgende jaar.</para>
+    <para>3. Elke parkeervergunning geldt voor het parkeren met één motorvoertuig op één parkeerplaats.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bestemmingsplan Binnenstad en Havens</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 13 Groen - 2</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>13.1</nr>
+      <para>Bestemmingsomschrijving</para>
+      <para />
+      <parablock>
+        <para>De voor 'Groen - 2' aangewezen gronden zijn bestemd voor: </para>
+      </parablock>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>groenvoorzieningen;</para>
+        </listitem>
+        <listitem>
+          <para>walkanten en taluds;</para>
+        </listitem>
+        <listitem>
+          <para>parkeervoorzieningen,</para>
+        </listitem>
+      </itemizedlist>
+      <para />
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

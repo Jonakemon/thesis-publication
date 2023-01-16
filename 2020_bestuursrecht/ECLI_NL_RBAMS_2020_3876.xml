@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:3876</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-09T15:48:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-16</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 2205</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3876">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3876</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-09T15:48:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:3876 Rechtbank Amsterdam , 16-06-2020 / AWB - 20 _ 2205</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:3876:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Voorlopige voorziening. Verzoek tot stopzetting bouwwerkzaamheden in [plaatsnaam] afgewezen ivm ontbreken spoedeisend belang.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:3876:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <parablock>
+      <para>Bestuursrecht</para>
+      <para>zaaknummer: AMS 20/2205 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 16 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker] , te [woonplaats] , verzoeker</bridgehead>
+    <para>(gemachtigde: [naam] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Amsterdam, verweerder</bridgehead>
+    <para>(gemachtigde: [naam] ).</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [naam]
+        </emphasis> te [vestigingsplaats] heeft als derde-belanghebbende (vergunninghoudster) aan het geding deelgenomen,</para>
+      <para>(gemachtigde: [naam] ).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen worden hierna aangeduid als [verzoeker] , het college en [naam] . </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 januari 2020 (het bestreden besluit) heeft het college aan [naam] een vergunning verleend voor het omzetten van één zelfstandige woonruimte naar zes onzelfstandige woonruimtes op het adres [adres 1] te [woonplaats] . </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [verzoeker] heeft tegen het bestreden besluit bezwaar ingesteld en de voorzieningenrechter verzocht een voorlopige voorziening te treffen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 2 juni 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Het college heeft zich laten vertegenwoordigen door zijn gemachtigde. [naam] is vertegenwoordigd door haar gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. [verzoeker] woont op het adres [adres 2] te [woonplaats] . Op zondag </para>
+    <parablock>
+      <para>2 februari 2020 zijn werkzaamheden gestart op het adres [adres 1] . [naam] heeft meerdere (zowel onttrekkings- als omgevings-)vergunningen aangevraagd voor dit adres, waarvan enkele zijn verleend. [verzoeker] heeft bezwaar gemaakt tegen meerdere afgegeven vergunningen. Hij heeft enkel een verzoek om een voorlopige voorziening ingediend tegen onderhavige omzettingsvergunning (van één zelfstandige naar zes onzelfstandige woonruimtes). Op 18 mei 2020 zijn de werkzaamheden voltooid. </para>
+      <para>
+        <emphasis role="underline">Spoedeisend belang</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Voordat een verzoek om een voorlopige voorziening kan worden beoordeeld, moet sprake zijn van een spoedeisend belang bij [verzoeker] . Omdat [verzoeker] alleen ten aanzien van onderhavige omzettingsvergunning een verzoek heeft ingediend om een voorlopige voorziening te treffen, kunnen de andere vergunningen niet bij deze procedure betrokken worden. </para>
+    <para />
+    <para>3. Op 14 april 2020 heeft [verzoeker] een voorlopige voorziening ingediend inhoudende stopzetting van de bouwwerkzaamheden van [adres 1] . Hij wil voorkomen dat [naam] doorgaat met verbouwen en dat de situatie dan niet meer is terug te draaien. [verzoeker] benoemt in het verzoekschrift de vele verschillende (conflicterende) vergunningaanvragen en hekelt daarbij de onduidelijkheid van de plannen van [naam] en de onbereikbaarheid van het college. Op de zitting heeft [verzoeker] nader toegelicht dat hij nu met name wil weten wat [naam] precies met het pand van plan is.</para>
+    <para />
+    <para>4. [naam] heeft op de zitting nader toegelicht dat zij nog niet weet hoe het pand precies ingericht zal worden en voor welke vorm van bewoning gekozen zal worden. Onderhavige vergunning ziet op ‘co-living [aantal] ’; dat wil zeggen bewoning door [aantal] personen. [naam] heeft ook een aanvraag ingediend voor bewoning door [aantal] personen. Die vergunning is (nog) niet verleend. Op dit moment wil [naam] nog alle opties openhouden. Op de zitting heeft [naam] verder verklaard dat zij op z’n vroegst over zes tot acht weken een besluit zal nemen over de vorm van bewoning van het pand en van welke vergunning zij dan gebruik zal maken. Vanaf dat moment kan zij dan ook meer duidelijkheid verschaffen aan [verzoeker] en de andere omwonenden. [naam] heeft toegezegd hierover met [verzoeker] en andere bewoners in gesprek te gaan. </para>
+    <para />
+    <para>5. De voorzieningenrechter oordeelt dat [verzoeker] geen spoedeisend belang heeft. De bouwwerkzaamheden zijn inmiddels gestopt, dus aan zijn verzoek om stopzetting is inmiddels tegemoet gekomen. Daarnaast zal [naam] pas over zes tot acht weken besluiten van welke vergunning zij gebruik gaat maken. Ook daar ziet de voorzieningenrechter op dit moment geen spoedeisend belang. [verzoeker] verzoek om duidelijkheid over de plannen kan ten slotte niet (op korte termijn) worden vervuld. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Omdat een spoedeisend belang ontbreekt, zal de voorlopige voorziening worden afgewezen. Er is geen aanleiding voor vergoeding van de proceskosten of het griffierecht. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.K. Mireku, voorzieningenrechter, in aanwezigheid van mr. T. Rijs, griffier. De beslissing is in het openbaar uitgesproken op 16 juni 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>					voorzieningenrechter</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

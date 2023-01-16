@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:4239</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-04T16:01:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 19/1093 en 20/3762</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:4239">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:4239</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-04T16:01:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:4239 Rechtbank Amsterdam , 17-08-2020 / AWB 19/1093 en 20/3762</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:4239:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Directe publiciteitskosten m.b.t. subsidieverlening 2017 zijn door het college niet vergoed. In zoverre gegrond. Het college heeft de aanvragen om subsidie over 2018 en eind 2019 op goede gronden geweigerd. Motiveringsgebrek gepasseerd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:4239:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 19/1093 en AMS 20/3762</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [plaatsnaam] , eiseres (hierna: de Stichting)</bridgehead>
+    <para>(gemachtigde: [naam] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Amsterdam, </emphasis>verweerder (hierna: het college)</para>
+      <para>(gemachtigden: [naam] en [naam] ).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">AMS 19/1093</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 26 maart 2018 (het primaire besluit 1) heeft het college de aan de Stichting verleende subsidie voor 2017 definitief vastgesteld op € 6.464,- en een bedrag van € 1.236,- aan te veel ontvangen voorschot teruggevorderd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 18 juni 2018 (het primaire besluit 2) heeft het college de aanvraag van de Stichting voor een eenmalige subsidie over de periode van 1 september 2018 tot en met 29 december 2018 geweigerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Stichting heeft tegen beide primaire besluiten bezwaar gemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 8 januari 2019 (het bestreden besluit 1) heeft het college het bezwaar van de Stichting ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Stichting heeft tegen het bestreden besluit beroep ingesteld. Het college heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">AMS 20/3762</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 26 juni 2019 (het bestreden besluit 2) heeft het college de aanvraag van de Stichting voor een eenmalige subsidie over de periode van 7 september 2019 tot en met 28 december 2019 afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Stichting heeft hiertegen bezwaar gemaakt en aan het college verzocht om in te stemmen met rechtstreeks beroep, als bedoeld in artikel 7:1a, eerste lid, van de Algemene wet bestuursrecht (Awb). Het college heeft daarmee ingestemd en het pro forma bezwaarschrift aan de rechtbank doorgestuurd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In verband met de maatregelen die zijn getroffen vanwege de uitbraak van het coronavirus zijn partijen in de gelegenheid gesteld om een via Skype-verbinding gehouden zitting bij te wonen, waarbij de zaken gevoegd zijn behandeld. Deze zitting heeft plaatsgevonden op 2 juli 2020. Daarbij hebben de Stichting en het college zich laten vertegenwoordigen door hun gemachtigden via een audio- en videoverbinding. Ook was [naam] daarbij aanwezig.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wat aan deze procedures voorafging</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>De Stichting heeft volgens haar statuten tot doel het verrichten van kunst en cultuur gerelateerde activiteiten en het verrichten van al hetgeen met het vorenstaande verband houdt of daartoe bevorderlijk kan zijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Met een besluit van 3 juli 2017 is aan de Stichting € 7.700,- subsidie verleend voor de uitvoering van drie tentoonstellingen in [naam] in de periode van 1 juli 2017 tot en met 31 december 2017.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Met het primaire besluit 1, gehandhaafd in bezwaar, is de aan de Stichting verleende subsidie voor de uitvoering van drie tentoonstellingen in [naam] in de periode van 1 juli 2017 tot en met 31 december 2017 aan de hand van de door de Stichting ingediende financiële verantwoording definitief vastgesteld op € 6.464,-. Daarnaast is met dit besluit een bedrag van € 1.236,- aan te veel ontvangen voorschot van de Stichting teruggevorderd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Op 31 maart 2018 heeft de Stichting drie aanvragen ingediend voor de openstelling van tentoonstellingsruimte van de Stichting ten behoeve van drie tentoonstellingen in de periode van 1 september 2018 tot en met 29 december 2018. Het college heeft de drie aanvragen beoordeeld als één aanvraag.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>In het primaire besluit 2, eveneens gehandhaafd in bezwaar, is de aanvraag van de Stichting geweigerd. Volgens het dagelijks bestuur van stadsdeel [stadsdeel] (hierna: het dagelijks bestuur) voldoet de Stichting gelet op artikel 9, tweede lid, onder a, van de Algemene Subsidieverordening Amsterdam 2013 (ASA) niet aan de regels die zijn gesteld om voor subsidie in aanmerking te komen. Volgens het dagelijks bestuur heeft de aanvraag op basis van de beoordelingscriteria zoals genoemd in artikel 7, derde lid, van de Subsidieregeling gebiedsgebonden kunst- en cultuuractiviteiten (de Subsidieregeling), in totaal minder dan 16 punten behaald, namelijk 14 punten. Op grond van artikel 11, tweede lid, aanhef en onder a, van de Subsidieregeling dient de aanvraag volgens het dagelijks bestuur daarom te worden geweigerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Op 29 maart 2019 heeft de Stichting een aanvraag ingediend voor twee tentoonstellingen met randprogrammering in de periode van 7 september 2019 tot en met 28 december 2019. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>In het bestreden besluit 2 is de aanvraag van de Stichting geweigerd, omdat de Stichting op grond van artikel 9, tweede lid, onder a van de ASA niet voldoet aan de regels die zijn gesteld om voor subsidie in aanmerking te komen. Volgens het dagelijks bestuur heeft ook deze aanvraag minder dan 16 punten behaald, namelijk 14 punten. Daarnaast is de aanvraag gerangschikt op de prioriteitenlijst op plaats zeven, wordt door verstrekking van de subsidie het subsidieplafond overschreden en dient de aanvraag op grond van artikel 4:25, tweede lid, van de Awb te worden geweigerd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Toetsingskader</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>De algemene regels voor subsidieverlening binnen de gemeente [plaatsnaam] zijn te vinden in de ASA. Per 1 oktober 2016 zijn de geldende subsidieregelingen voor kunst en cultuur van de stadsdelen – voor zover van belang voor deze zaken – vervangen door de Subsidieregeling en het bijbehorende Uitwerkingsbesluit Kunst en Cultuur, Stadsdeel [stadsdeel] (het Uitwerkingsbesluit). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Geen van de partijen beschikt over het Uitwerkingsbesluit 2018. Zoals met partijen besproken op de zitting, kan het er voor worden gehouden dat de inhoud van het Uitwerkingsbesluit 2018 op de voor deze zaak relevante onderdelen niet verschilt van het Uitwerkingsbesluit 2017.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>In het Uitwerkingsbesluit is vastgelegd dat aanvragen kwalitatief worden beoordeeld door toepassing van de verdeelsleutel, genoemd in artikel 7 van de Subsidieregeling. Dit is het zogenoemde ‘tendersysteem’. Hierbij wordt het beschikbare budget verdeeld op basis van een onderlinge vergelijking van de verschillende aanvragen. Alleen de best beoordeelde aanvragen komen voor subsidie in aanmerking. Bij het tendersysteem is het van belang dat er van tevoren duidelijk is aan welke criteria wordt getoetst. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Op grond van artikel 7, derde lid, van de Subsidieregeling beoordeelt het algemeen bestuur de aanvragen op de volgende criteria:</para>
+      <orderedlist numeration="loweralpha">
+        <listitem>
+          <para>de mate waarin de activiteit bijdraagt aan het bevorderen van de kwaliteit van de leefomgeving in buurten en gebieden in het stadsdeel;</para>
+        </listitem>
+        <listitem>
+          <para>de mate waarin de activiteit gericht is op het in stand houden, verbreden en vernieuwen van aanbod van gebiedsgebonden kunst- en cultuuractiviteiten waaraan door bewoners actief en/of passief kan worden deelgenomen;</para>
+        </listitem>
+        <listitem>
+          <para>de mate waarin de activiteit zich onderscheidt door artistiek-inhoudelijke kwaliteit;</para>
+        </listitem>
+        <listitem>
+          <para>e mate waarin de activiteit past binnen het Uitwerkingsbesluit kunst en cultuur van het stadsdeel;</para>
+        </listitem>
+        <listitem>
+          <para>de mate waarin de activiteit een positieve bijdrage levert aan het kunstklimaat in een of meer gebieden;</para>
+        </listitem>
+        <listitem>
+          <para>de zakelijke kwaliteit van de aanvrager. </para>
+        </listitem>
+      </orderedlist>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>De overige voor deze zaak relevante bepalingen zijn in de bijlage bij deze uitspraak opgenomen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Beoordeling door de rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3. 	Volgens vaste jurisprudentie<footnote-ref linkend="_11476762-d8ad-4c3b-bea3-ef958588dbae" /> heeft een bestuursorgaan bij het verlenen, verminderen of beëindigen van subsidie een grote mate van beleidsvrijheid. Dit betekent dat de rechter zich bij de beoordeling van een dergelijk besluit terughoudend dient op te stellen. De rechtbank beoordeelt of een weigering van subsidie in strijd is met een of meer door betrokkene ingeroepen algemene beginselen van behoorlijk bestuur. Zo zal een dergelijk besluit zorgvuldig moeten zijn voorbereid en van een inzichtelijke motivering moeten worden voorzien, waarbij de relevante beoordelingscriteria zijn betrokken. Beoordeeld moet worden of het bestuursorgaan, met inachtneming van de hierboven genoemde beginselen, in redelijkheid, bij afweging van de betrokken belangen tot dat besluit heeft kunnen komen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">periode 1 juli 2017 tot en met 31 december 2017</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Publiciteitskosten</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De Stichting voert aan dat de publiciteitskosten vergoed hadden moeten worden. Volgens de Stichting is in geen van de op deze zaak van belang zijnde regelingen opgenomen welke kosten wel of niet vergoed worden. Volgens de Stichting is dit in strijd met het legaliteitsbeginsel. Ook is in het besluit niet gemotiveerd waarom de publiciteitskosten niet subsidiabel zijn. Daarnaast is het college van de onjuiste financiële verantwoording uitgegaan en hadden zij van de in de bezwaarfase gecorrigeerde verantwoording moeten uitgaan. Ook zijn de publiciteitskosten volgens de Stichting <?linebreak?>tweemaal in mindering gebracht op de verleende subsidie. Bij de subsidieverlening zijn de publiciteitskosten buiten beschouwing gelaten en bij de subsidievaststelling zijn ze in mindering gebracht. Het terug te vorderen bedrag van € 1.236,- is volgens de Stichting dan ook niet te verklaren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Ter zitting is namens het college toegelicht dat voor de definitieve vaststelling van de subsidie wordt uitgegaan van de gerealiseerde baten minus de lasten. Ingevolge artikel 4:46, tweede lid, onder a van de Awb kan het college de subsidie lager vaststellen indien de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden. Hierbij worden alleen de directe kosten vergoed, ofwel de kosten die direct te relateren zijn aan de aangevraagde activiteit. Dit geldt volgens het college ook voor de publiciteitskosten. Websites vallen over het algemeen niet onder subsidieerbare kosten. Drukkosten van bijvoorbeeld flyers en posters voor de activiteit waarvoor subsidie wordt aangevraagd daarentegen wel. Deze richtlijn wordt bij elke subsidieaanvraag gehanteerd, aldus het college. Van de publiciteitskosten van de Stichting is volgens het college in het geheel niets vergoed, omdat de Stichting deze kosten niet had uitgesplitst, maar als één kostenpost had aangeleverd. Volgens het college viel daarom niet te beoordelen welke van de publiciteitskosten onder directe kosten en welke onder de indirecte kosten vielen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De rechtbank stelt vast dat in de aan het besluit ten grondslag gelegde regelgeving en in het primaire en het bestreden besluit niet is uitgelegd welke publiciteitskosten wel en niet  worden vergoed. Pas op de zitting is hierover duidelijkheid gegeven. Dit had naar het oordeel van de rechtbank in het kader van het motiveringsbeginsel al in het bestreden besluit  gemoeten. De rechtbank vindt het standpunt van de Stichting dat haar niet precies duidelijk was welke kosten wel en welke kosten niet onder directe publiciteitskosten zouden kunnen vallen en dus welke kosten voor vergoeding in aanmerking kwamen, dan ook navolgbaar. Het college heeft zich op de zitting bereid verklaard alsnog het door de Stichting in haar financiële verslag opgevoerde bedrag van € 391,-, te vergoeden, voor zover de Stichting alsnog kan aantonen dat dit bedrag aan directe publiciteitskosten is uitgegeven. Het beroep is in zoverre gegrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>De overige kosten heeft het college op goede gronden aangemerkt als indirecte kosten en dit is verder ook niet door de Stichting betwist. Deze kosten zijn dan ook terecht niet meegenomen in de definitieve subsidievaststelling. Het is de rechtbank niet gebleken dat de publiciteitskosten tweemaal in mindering zijn gebracht op het vastgestelde subsidiebedrag. Ten aanzien van de gecorrigeerde, in bezwaar overgelegde financiële verantwoording volgt de rechtbank het college in de werkwijze dat wordt uitgegaan van het bij de aanvraag overgelegde financiële verslag, omdat dit het uitgangspunt van de beoordeling vormt, zo volgt uit artikel 4:45, tweede lid, van de Awb. Met het college is de rechtbank van oordeel dat zij niet gehouden was de in bezwaar gegeven toelichting en de daarbij – ten gunste van de Stichting – gecorrigeerde verantwoording als uitgangspunt te nemen voor de definitieve vaststelling van de subsidie. Deze beroepsgronden slagen niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">periode 1 september 2018 tot en met 29 december 2018 en </emphasis>
+          <?linebreak?>
+          <emphasis role="underline italic">periode 7 september 2019 tot en met 28 december 2019</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5. 	Ter zitting is door de gemachtigde van de Stichting te kennen gegeven dat de beroepsgronden aangevoerd tegen het bestreden besluit 1, voor zover deze zien op het primaire besluit 2, ook als aangevoerd tegen het bestreden besluit 2 kunnen worden beschouwd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Artikel 4:51 van de Awb</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>De stichting voert aan dat de weigering van de subsidieaanvraag in strijd is met artikel 4:51 van de Awb, omdat geen redelijke termijn in acht is genomen voordat de subsidie werd beëindigd. De Stichting ontving namelijk al meerdere malen subsidie, voor exposities eind 2015, eind 2016, eind 2017 en begin 2018. Door meer dan drie achtereenvolgende jaren subsidie te verstrekken voor de exposities, kan volgens de Stichting op grond van artikel 4:51 van de Awb weigering voor dezelfde of in hoofdzaak dezelfde voortdurende activiteit voor een daarop aansluitend tijdvak, slechts op grond van veranderende omstandigheden of gewijzigde inzichten geschieden, bovendien met inachtneming van een redelijke termijn. Door nu ineens de subsidieverstrekking te beëindigen, is de Stichting in financiële problemen terecht gekomen. Met de weigering van de aanvraag van 31 maart 2018 werd dan ook te abrupt een einde gemaakt aan de subsidieverlening.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Volgens het college is er geen sprake van subsidieverlening voor drie opeenvolgende jaren, nu de Stichting als nieuwe aanvrager in 2017 voor het eerst is gesubsidieerd. Bovendien gaat het volgens het college in dit geval niet om dezelfde voortdurende activiteit, maar steeds om een eenmalige subsidie voor een bepaalde periode.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>De rechtbank laat daar of aan de Stichting al voor 2017 subsidie is verleend. De genoemde tentoonstellingen en activiteiten waarvoor eerder subsidie is verleend kunnen namelijk niet worden aangemerkt als eenzelfde voortdurende activiteit als artikel 4:51 van de Awb als voorwaarde stelt. Bij de Stichting heeft op basis van de voor deze separate activiteiten verleende subsidie, geen gerechtvaardigd vertrouwen kunnen ontstaan op voortzetting van de subsidiëring. Bij subsidiëring van activiteiten die naar hun aard tijdelijk zijn – zoals in deze zaken het geval is – is toepassing van artikel 4:51 van de Awb niet aan de orde. Aan een beoordeling van de in artikel 4:51 van de Awb genoemde redelijke termijn komt de rechtbank dan ook niet toe. Deze beroepsgrond slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beginselen</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>De Stichting voert aan dat objectieve criteria ontbreken voor het toebedelen van het aantal punten. Dit is in strijd met het rechtszekerheidsbeginsel. Volgens de Stichting zou verwacht mogen worden dat deze criteria uitgewerkt zouden zijn in het Uitwerkingsbesluit, maar in dat besluit wordt hierover niets vermeld. De toebedeling van het aantal punten is daarom willekeurig. Zo is het volgens de Stichting onbegrijpelijk dat een ‘goed’ wordt gescoord met drie punten in plaats van vijf. Bovendien blijkt uit de motivering dat enkel de negatieve aspecten zijn toegelicht, terwijl er niet wordt ingegaan op welke punten wel gescoord is. Uit de negatieve wijze van beoordeling en het ontbreken van objectieve criteria voor het toebedelen van punten, blijkt volgens de Stichting ook dat sprake is van willekeur. Bovendien is het besluit volgens de Stichting op dit punt onvoldoende gemotiveerd. Verder wordt de Stichting stelselmatig tegenwerkt. Dit blijkt onder meer uit te laat genomen beschikkingen en de weigering van de subsidieaanvraag voor 2019. Uit deze stelselmatige tegenwerking en andere (onterechte) beschuldigingen blijkt dat de ambtenaren van het stadsdeel [stadsdeel] vooringenomen zijn en op geen enkele wijze medewerking willen geven aan de activiteiten van de Stichting. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Volgens het college is er bij de beoordeling geen gebruik gemaakt van de in artikel 7, tweede lid, van de Subsidieregeling genoemde mogelijkheid zich bij de beoordeling te laten adviseren door een door hem in het Uitwerkingsbesluit in te stellen (externe) adviescommissie. In plaats daarvan worden aanvragen getoetst door de behandelend ambtenaar op beleid en op de criteria als genoemd in artikel 7, derde lid van de Subsidieregeling. Om belangenverstrengeling en willekeur te voorkomen en omdat het risico op integer handelen op voorhand moet worden uitgesloten, is besloten een werkgroep (“informeel ambtelijke commissie”) te vormen die bestaat uit twee adviseurs kunst en cultuur, de adviseur evenementen en maatschappelijk initiatief en de teamleider van de gebiedspool. Daarnaast wordt de aanvraag voorgelegd aan de gebiedsmakelaar om de aansluiting bij de gebiedsagenda’s te waarborgen. Dit advies van de gebiedsmakelaar is volgens het college leidend voor de toekenning van de subsidie. Alle aanvragen worden tegelijkertijd en op dezelfde wijze beoordeeld. Verder wordt volgens het college de score ‘drie’ bij elke beoordeling met ‘goed’ aangehouden. Indien de activiteit zich wel onderscheidt op het betreffende criterium, dan wordt de score in negatieve of positieve zin aangepast. Verder stelt het college zich op het standpunt dat het feit dat zij de activiteiten van de Stichting niet (langer) subsidiabel acht, niet betekent dat het college vooringenomen handelt. Volgens het college is subsidie een tegemoetkoming in de kosten en zijn de middelen van de gemeente schaars en zijn er steeds minder middelen beschikbaar. Het feit dat de Stichting voorheen wel subsidie heeft ontvangen, betekent volgens het college niet dat het college subsidie in de toekomst dient te blijven verlenen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>Ter zitting heeft het college desgevraagd nader toegelicht dat de werkgroep de puntenverdeling gezamenlijk vaststelt, het advies van de gebiedsmakelaar leidend is voor wat betreft de score voor de aan hem voorgelegde criteria en het college elke aanvraag opnieuw beoordeelt. Daarnaast kan het voor dat jaar in aanmerking komen voor subsidie afhankelijk zijn van gewijzigde inzichten en van de hoeveelheid aanvragen die er voor dat jaar worden ontvangen. Deze werkwijze van het college acht de rechtbank in beginsel consistent en navolgbaar. Naar het oordeel van de rechtbank bestond er voor de Stichting geen gerechtvaardigd vertrouwen dat de subsidie ook dit jaar weer zou worden verleend, immers er is steeds sprake van een op zichzelf staande beoordeling naar de dan geldende inzichten en omstandigheden. Bovendien is toekenning ook afhankelijk van de waardering van de andere aanvragen en alleen daarom al onvoorspelbaar. Van strijd met het rechtszekerheidsbeginsel, het verbod op willekeur en/of het verbod op vooringenomenheid is de rechtbank niet gebleken.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Gebiedsgebondenheid en samenwerking</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Volgens de Stichting gaat de commissie voorbij aan het feit dat zij zich wel degelijk richt op activiteiten voor de buurt en altijd meerdere dagen per week openbaar toegankelijk is. Het feit dat de Stichting ook mensen van buitenaf aantrekt, sluit volgens de Stichting niet uit dat zij voldoet aan de doelstellingen van het Uitwerkingsbesluit. Uit het Uitwerkingsbesluit volgt niet dat het aantrekken van personen van buitenaf niet is toegestaan. Bovendien is volgens de Stichting in het Uitwerkingsbesluit vastgelegd hoe de Subsidieregeling wordt toegepast in relatie tot de gebiedsplannen. In het Gebiedsplan [stadsdeel] - [stadsdeel] 2018 wordt naast het feit dat algemeen vermeld staat dat initiatieven op het gebied van de bevordering van kunst en cultuur ondersteund worden, [naam] specifiek vermeld. Een beoordeling met twee punten voor dit criterium is dan ook ongepast, aldus de Stichting. Verder voert de Stichting aan dat ‘onvoldoende samenwerking’ niet kan worden meegewogen in de puntentelling. Zo blijkt volgens de Stichting uit het Uitwerkingsbesluit dat samenwerking bij eenmalige initiatieven wordt aangemoedigd, maar dat het contraproductief is om dit als harde eis te stellen. Bij periodieke initiatieven wordt in het Uitwerkingsbesluit bij de activiteit ‘samenwerking vereist met een of meer partners bij uitvoering van activiteiten’ vermeld dat dit niet van toepassing is. Volgens de Stichting heeft de gemeente bovendien tot op heden onvoldoende gefaciliteerd om samenwerkingen succesvol tot stand te laten komen en een brug te kunnen slaan tussen de Stichting en de buurt. Ook komt de gemeente volgens de Stichting haar afspraken niet na. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Het college stelt zich op het standpunt dat het doel van de Subsidieregeling is het bevorderen van de kwaliteit van de leefomgeving in buurten en gebieden door het ondersteunen van openbaar toegankelijke gebiedsgebonden kunst- en cultuuractiviteiten. Op grond van het Uitwerkingsbesluit kunnen kunst- en cultuuractiviteiten weliswaar een breder publiek trekken, maar de gebiedsgebonden activiteiten dienen primair georganiseerd te worden voor de bewoners van het betreffende gebied en daarna eventueel voor die van aangrenzende gebieden. Binnen de gemeente [plaatsnaam] is het zo geregeld dat activiteiten die zich richten op een breder gebied dan de gebieden binnen het stadsdeel niet gesubsidieerd worden op grond van de Subsidieregeling gebiedsgebonden kunst- en cultuuractiviteiten, maar bijvoorbeeld worden gesubsidieerd via de subsidieregelingen van het [naam] ( [naam] ), aldus het college. Op de zitting heeft het college desgevraagd toegelicht dat de gebiedsgebondenheid een belangrijk aspect is bij de beoordeling en met name terugkeert in de criteria a en b van artikel 7, derde lid, van de Subsidieregeling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Volgens het college is ‘samenwerking’ geen harde eis, maar wordt dit wel aangemoedigd en betrokken bij de puntenverdeling. Het belang van verbinding tussen de diverse culturele organisaties/kunstenaars komt ook naar voren in het Uitwerkingsbesluit. De leefbaarheid in de wijken is het belangrijkste speerpunt van het gebiedsgericht werken binnen de gemeente Amsterdam en weegt volgens het college daarom zwaar mee bij de beoordeling. De gebiedsmakelaar heeft in het advies over de aanvraag van de Stichting aangegeven dat de samenwerking in de wijk onvoldoende is om de gewenste bijdrage aan de leefbaarheid, het versterken van elkaar, te realiseren en eerder gericht is op promotie van eigen activiteiten. Bovendien betreft de puntentelling volgens het college niet alleen de samenwerking, maar is deze gebaseerd op het algehele beeld, de positie van/verankering van de organisatie binnen het netwerk in de buurt en de mate waarin deze bijdraagt aan de leefbaarheid in de wijk. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4.</nr>
+      <parablock>
+        <para>De rechtbank stelt vast dat voor de bijdrage aan de kwaliteit van de leefomgeving (criterium a), drie punten zijn gegeven. In de puntenverdeling is meegewogen dat de activiteiten van de Stichting zich zowel op heel [plaatsnaam] , als op specifiek het stadsdeel [stadsdeel] richten. Dat de activiteiten zich niet uitsluitend op stadsdeel [stadsdeel] richten wordt door de Stichting overigens ook niet betwist. De Stichting heeft er terecht op gewezen dat voldoende samenwerking tussen organisaties onderling geen harde eis is om voor subsidie in aanmerking te kunnen komen. Dit sluit echter niet uit dat het college de mate van samenwerking bij de beoordeling van de bijdrage aan de kwaliteit van de leefomgeving wel kan laten meewegen. Het college heeft uiteindelijk de ‘bijdrage aan de kwaliteit van de leefomgeving’, waaronder dus ook de gebiedsgebondenheid en de samenwerking worden beoordeeld, met drie punten en derhalve als ‘goed’ gewaardeerd. De rechtbank acht dat niet kennelijk onredelijk. Gelet op de beoordelingsvrijheid die het college in deze heeft en gelet op hetgeen de Stichting naar voren heeft gebracht, kan niet worden geoordeeld dat het college voor dit onderdeel redelijkerwijs meer punten of een hogere waardering had moeten geven. De rechtbank stelt vast dat voor de mate waarin de activiteit past binnen het Uitwerkingsbesluit (criterium d), twee punten zijn gegeven. De afweging van het college dat de activiteiten niet primair georganiseerd worden voor de bewoners van stadsdeel [stadsdeel] en daarom in mindere mate binnen het Uitwerkingsbesluit passen, kan de rechtbank volgen. Uit de toelichting ter zitting maakt de rechtbank op dat dit aspect van de beoordeling inhoudt dat de activiteit in beginsel niet ook op een willekeurige andere plek zou kunnen plaatsvinden, maar dat de activiteit op zichzelf nu juist ziet op interactie met de omgeving waar de activiteiten plaatsvinden. </para>
+        <para>Ook voor wat betreft het criterium ‘Passend binnen Uitwerkingsbesluit’ ziet de rechtbank in hetgeen de Stichting heeft aangevoerd daarom geen aanleiding te oordelen dat voor dit criterium een hogere waardering had moeten worden gegeven. Deze beroepsgronden slagen niet.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Vernieuwend</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>De Stichting voert verder aan dat uit artikel 7, derde lid, van de Subsidieregeling niet volgt dat de activiteit vernieuwend moet zijn, maar dat het moet gaan om het in stand houden, verbreden en vernieuwen van het aanbod van gebiedsgebonden kunst- en cultuuractiviteiten (criterium b). De Stichting heeft nu eenmaal een expositieruimte, dus in zoverre verandert de activiteit niet, maar conform de subsidieregeling wordt er wel voor gezorgd dat het aanbod in stand wordt gehouden en wordt verbreed en vernieuwd. Hiermee wordt volgens de Stichting voldaan aan het gestelde criterium. Een beoordeling met twee punten voor de mate waarin de activiteit past binnen het Uitwerkingsbesluit is volgens de Stichting dan ook ongepast. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>De rechtbank stelt vast dat wat betreft het verbreden en vernieuwen van het aanbod (criterium b), twee punten zijn gegeven. Uit het advies van de gebiedsmakelaar blijkt dat de gebiedsmakelaar dit zelfde criterium heeft gescoord met drie punten. Nu het college enerzijds verklaart dat het advies van de gebiedsmakelaar leidend is, maar anderzijds de door de gebiedsmakelaar toegekende score - ogenschijnlijk abusievelijk - niet overneemt in de besluitvorming, levert dit naar het oordeel van de rechtbank een zorgvuldigheids- en motiveringsgebrek op in het bestreden besluit. Gelet hierop, en met het oog op een finale afdoening van het geschil, zal de rechtbank bij de beoordeling uitgaan van een toegekende score van drie punten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3.</nr>
+      <para>Naar het oordeel van de rechtbank kan drie punten niet als een onjuiste score worden gezien. Gelet op de beoordelingsvrijheid die het college in deze heeft en gelet op hetgeen de Stichting naar voren heeft gebracht, kan redelijkerwijs niet worden geoordeeld dat het aanbod vernieuwender is dan reeds is aangenomen en het college een hogere score had moeten toekennen op dit aspect.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Artistieke kwaliteit</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>De Stichting voert verder aan dat de commissie de artistieke kwaliteit vanwege de hoogwaardige kwaliteit van de tentoonstellingen beoordeelt als ‘goed’. Volgens de Stichting zijn drie punten te weinig voor een goede beoordeling op dit aspect en zou de artistieke kwaliteit beoordeeld moeten worden met vijf punten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>Het college stelt zich op het standpunt dat bij het beoordelen van de artistieke kwaliteit wordt gekeken naar de mate waarin de activiteit zich onderscheidt door artistiek-inhoudelijke kwaliteit. De artistiek-inhoudelijke kwaliteit van de te organiseren tentoonstellingen van de Stichting is goed, maar onderscheidt zich hierin niet van de andere kunst- en cultuuractiviteiten waarvoor subsidie is aangevraagd. Voor het naar boven toe bijstellen bestond bij de onderhavige aanvraag dan ook geen aanleiding, aldus het college.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3.</nr>
+      <parablock>
+        <para>De rechtbank stelt vast dat voor de artistiek-inhoudelijke kwaliteit (criterium c) drie punten zijn toegekend en dus als ‘goed’ is beoordeeld. Zoals in rechtsoverweging 7.2. vermeld, wordt - indien de activiteit zich wel onderscheidt op het betreffende criterium - de score in negatieve of positieve zin aangepast. Gelet op hetgeen de Stichting naar voren heeft gebracht, kan redelijkerwijs niet worden geoordeeld dat het college voor dit onderdeel meer punten of een hogere waardering had moeten geven. Ook de ter zitting door de Stichting aangehaalde passage van [naam] , die is geplaatst op de website van de Stichting, maakt het vorenstaande niet anders. Niet is gesteld of gebleken wat daarvan de consequentie voor de onderhavige beoordeling zou moeten zijn.   <?linebreak?></para>
+        <para>
+          <emphasis role="underline">Zakelijke kwaliteit</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.1.</nr>
+      <para>Tot slot voert de Stichting aan dat de zakelijke kwaliteit enkel is beoordeeld op de wijze waarop de Stichting getracht heeft via fondsenwerving extra inkomsten te verwerven. De Stichting heeft meer gedaan om extra inkomsten te verwerven. De Stichting wordt dubbel benadeeld als geen subsidie wordt verleend met als reden dat het niet gelukt is om zelf inkomsten te generen via inkomstenwerving. Bovendien moeten volgens de Stichting bij de beoordeling van de zakelijke kwaliteit ook de plannen betrokken worden waar de Stichting mee bezig is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2.</nr>
+      <para>Volgens het college is al bij gesprekken gevoerd in 2016 nadrukkelijk aangegeven dat de (mede)financiering van de activiteiten door andere organisaties meetelt bij de beoordeling van de aanvragen. De subsidiëring van de tentoonstellingsruimte is bedoeld als stimulans en is eindig. De organisatie moet toewerken naar financiële onafhankelijkheid, waarbij de subsidie niet meer noodzakelijk is. Het college kan op grond van artikel 9, tweede lid, onder d, van de ASA weigeren subsidie te verlenen als de aanvrager ook zonder subsidie over voldoende gelden, hetzij uit eigen middelen het zij uit middelen van derden, kan beschikken om de activiteit te realiseren. Het door de Stichting gevraagde bedrag aan subsidie blijft hetzelfde en de begroting is zeer beperkt en geeft geen inzicht in mogelijke inkomsten, aldus het college.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.3.</nr>
+      <para>De rechtbank stelt vast dat voor de zakelijke kwaliteit (criterium f) twee punten zijn toegekend. Het college heeft ter zitting nader toegelicht dat toewerken naar financiële onafhankelijkheid een belangrijk onderdeel bij de beoordeling van de zakelijke kwaliteit is. Dit acht de rechtbank, gelet op de aan het college toe te komen beleidsvrijheid, niet kennelijk onredelijk. Ook uit de door de Stichting vrij algemene genoemde zakelijke aspecten kan niet worden afgeleid dat redelijkerwijs een hogere score had moeten worden toegekend voor dit criterium.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.1.</nr>
+      <para>Het beroep gericht tegen het bestreden besluit 1, voor zover daarbij de directe publiciteitskosten met betrekking tot de periode van 1 juli 2017 tot en met 31 december 2017 niet aan de Stichting zijn vergoed, is gegrond. Het bestreden besluit 1 zal in zoverre worden vernietigd. De rechtbank ziet geen aanleiding zelf in de zaak te voorzien, omdat partijen over het concrete bedrag nog nader in overleg zullen moeten treden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2.</nr>
+      <para>Het college heeft de aanvragen om subsidie voor de periode van 1 september 2018 tot en met 29 december 2018 en de periode van 7 september 2019 tot en met 28 december 2019 op goede gronden geweigerd. Het beroep gericht tegen het bestreden besluit 1, voor zover dat ziet op het primaire besluit 2 en het beroep gericht tegen het bestreden besluit 2 zijn daarom ongegrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.3.</nr>
+      <para>De in rechtsoverweging 9.2. geoordeelde gebrekkige motivering van het bestreden besluit 1, voor zover dat ziet op het primaire besluit 2, en de gebrekkige motivering van het bestreden besluit 2, zullen worden gepasseerd op grond van artikel 6:22 van de Awb. Het gebrek is hersteld en het is niet aannemelijk dat de Stichting door het gebrek is benadeeld, omdat de Stichting met 15 punten nog steeds minder dan 16 punten heeft gehaald en de uitkomst van de besluiten dus hetzelfde blijft.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.4.</nr>
+      <para>De rechtbank veroordeelt het college in de proceskosten van de Stichting. Deze begroot de rechtbank op € 1.050,- (een punt voor het beroep en een punt voor de zitting, met een wegingsfactor 1 en een waarde per punt van € 525,-). Een verderstrekkende proceskostenvergoeding is, gelet op de samenhang van de zaken, naar het oordeel van de rechtbank niet aan de orde. Wel zal de rechtbank bepalen dat het college het door de Stichting betaalde griffierecht van € 345,- aan haar vergoedt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gericht tegen het bestreden besluit 1, voor zover daarbij de directe publiciteitskosten met betrekking tot de periode van 1 juli 2017 tot en met 31 december 2017 niet aan de Stichting zijn vergoed, gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt in zoverre het bestreden besluit 1;</para>
+      </listitem>
+    </itemizedlist>
+    <para>- draagt het college op om binnen zes weken na de dag waarop deze uitspraak is verzonden een nieuw besluit te nemen met inachtneming van deze uitspraak;</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gericht tegen het bestreden besluit 1 voor het overige ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep gericht tegen het bestreden besluit 2 ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>draagt het college op het betaalde griffierecht van € 345,- aan de Stichting te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt het college in de proceskosten van de Stichting tot een bedrag van € 1.050,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. T.L. Fernig - Rocour, voorzitter, en mr. S.E. Reichert en mr. F.P. Lauwaars, leden, in aanwezigheid van mr. I.N. van Soest, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>voorzitter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Bijlage bij de uitspraak in de zaken AMS 19/1093 en AMS 20/3762 inzake [eiseres]</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Relevante bepalingen uit de Algemene wet bestuursrecht (Awb)</title>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 4:25</title>
+    <parablock>
+      <para>(…)</para>
+      <para>2. Een subsidie wordt geweigerd voor zover door verstrekking van de subsidie het subsidieplafond zou worden overschreden.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 4:45</title>
+    <para>1. Bij de aanvraag tot subsidievaststelling toont de aanvrager aan dat de activiteiten hebben plaatsgevonden overeenkomstig de aan de subsidie verbonden verplichtingen, tenzij de subsidie voor de aanvang van de activiteiten wordt vastgesteld. </para>
+    <para>2. Bij de aanvraag tot subsidievaststelling legt de aanvrager rekening en verantwoording af omtrent de aan de activiteiten verbonden uitgaven en inkomsten, voor zover deze voor de vaststelling van de subsidie van belang zijn. </para>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 4:46</title>
+    <para>1. Indien een beschikking tot subsidieverlening is gegeven, stelt het bestuursorgaan de subsidie overeenkomstig de subsidieverlening vast.</para>
+    <para>2. De subsidie kan lager worden vastgesteld indien:</para>
+    <para>a. de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden;</para>
+    <para>(…)</para>
+    <para>3. Voor zover het bedrag van de subsidie afhankelijk is van de werkelijke kosten van de activiteiten waarvoor subsidie is verleend, worden kosten die in redelijkheid niet als noodzakelijk kunnen worden beschouwd bij de vaststelling van de subsidie niet in aanmerking genomen.</para>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 4:51</title>
+    <para>1. Indien aan een subsidie-ontvanger voor drie of meer achtereenvolgende jaren subsidie is verstrekt voor dezelfde of in hoofdzaak dezelfde voortdurende activiteiten, geschiedt gehele of gedeeltelijke weigering van de subsidie voor een daarop aansluitend tijdvak op de grond, dat veranderde omstandigheden of gewijzigde inzichten zich tegen voortzetting of ongewijzigde voortzetting van de subsidie verzetten, slechts met inachtneming van een redelijke termijn. </para>
+    <para>2. Voor zover aan het einde van het tijdvak waarvoor subsidie is verleend sedert de bekendmaking van het voornemen tot weigering voor een daarop aansluitend tijdvak nog geen redelijke termijn is verstreken, wordt de subsidie voor het resterende deel van die termijn verleend, zo nodig in afwijking van artikel 4:25, tweede lid.</para>
+    <para />
+  </section>
+  <section>
+    <title>Relevante bepalingen uit de Algemene Subsidieverordening Amsterdam 2013 (ASA)</title>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 9 Weigeringsgronden</title>
+    <para>1. Het college weigert een subsidie te verlenen als:</para>
+    <para>a. de subsidieaanvraag niet uiterlijk op het daartoe vastgestelde tijdstip is ingediend;</para>
+    <para>b. voor de activiteit waarvoor subsidie wordt aangevraagd geen gelden op de begroting zijn gereserveerd;</para>
+    <para>2. Het college kan geheel of gedeeltelijk weigeren een subsidie te verlenen als:</para>
+    <para>a. de aanvrager niet voldoet aan de regels die zijn gesteld om voor subsidie in aanmerking te komen;</para>
+    <para>(…)</para>
+    <para>d. de aanvrager ook zonder subsidie over voldoende gelden, hetzij uit eigen middelen hetzij uit middelen van derden, kan beschikken om de activiteit te realiseren;</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold italic">Relevante bepalingen uit de Subsidieregeling gebiedsgebonden kunst- en cultuuractiviteiten (de Subsidieregeling)</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 1 Begripsomschrijvingen</title>
+    <parablock>
+      <para>In deze subsidieregeling wordt verstaan onder: </para>
+      <para>(…)</para>
+      <para>c. gebiedsgebonden activiteit: activiteit georganiseerd voor de bewoners van een of meer gebieden in een stadsdeel of een deel van een gebied (buurt);</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 7 Verdeelsleutel en adviescommissie</title>
+    <para>1. Het algemeen bestuur bepaalt in het Uitwerkingsbesluit kunst en cultuur of en voor welke soort subsidies hij de wijze van verdelen zoals opgenomen in dit artikel hanteert. </para>
+    <para>2. Het algemeen bestuur kan zich bij de beoordeling van de subsidieaanvragen aan de hand van de verdeelsleutel laten adviseren door een door hem in het Uitwerkingsbesluit kunst en cultuur in te stellen adviescommissie. </para>
+    <para>3. Het algemeen bestuur beoordeelt de aanvragen op de volgende criteria:</para>
+    <para>a. de mate waarin de activiteit bijdraagt aan het bevorderen van de kwaliteit van de leefomgeving in buurten en gebieden in het stadsdeel;</para>
+    <para>b. de mate waarin de activiteit gericht is op het in stand houden, verbreden en vernieuwen van aanbod van gebiedsgebonden kunst- en cultuuractiviteiten waaraan door bewoners actief en/of passief kan worden deelgenomen;</para>
+    <para>c. de mate waarin de activiteit zich onderscheidt door de artistiek-inhoudelijke kwaliteit;</para>
+    <para>d. de mate waarin de activiteit past binnen het Uitwerkingsbesluit kunst en cultuur van het stadsdeel; </para>
+    <para>e. de mate waarin de activiteit een positieve bijdrage levert aan het kunstklimaat in een of meer gebieden.</para>
+    <para>f. de zakelijke kwaliteit van de aanvrager.</para>
+    <para>4. Per criterium kan nul tot maximaal vijf punten worden gehaald.</para>
+    <para>5. Het algemeen bestuur rangschikt de aanvragen op een prioriteitenlijst aan de hand van de behaalde punten op basis van de criteria zoals genoemd in het derde lid van dit artikel. </para>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 11 Weigeringsgrond</title>
+    <para>(…)</para>
+    <para>2. Als het algemeen bestuur toepassing geeft aan de wijze van verdelen als bedoeld in artikel 7 van deze subsidieregeling, weigert hij, in aanvulling op artikel 9, eerste lid van de ASA, een subsidie als:</para>
+    <para>a. de aanvraag op basis van de beoordeling genoemd in artikel 7 derde lid in totaal minder dan 16 punten heeft behaald;</para>
+    <para>b. de aanvraag op een van de beoordelingscriteria zoals genoemd in artikel 7, derde lid van deze subsidieregeling minder scoort dan 3 punten, terwijl het algemeen bestuur in het Uitwerkingsbesluit kunst en cultuur heeft bepaald dat op dit criterium ten minste 3 punten behaald moeten worden om voor subsidieverlening in aanmerking te komen. </para>
+    <para>3. Als het algemeen bestuur geen toepassing heeft gegeven aan de wijze van verdelen als bedoeld in artikel 7 van deze subsidieregeling, kan hij in aanvulling op artikel 9, tweede lid van de ASA 2013 de subsidie geheel of gedeeltelijk weigeren als de activiteit waarvoor de subsidie is aangevraagd niet in overwegende mate gericht is op bewoners(groepen) van een of meer gebieden of buurten van het stadsdeel.</para>
+    <para>4. Het algemeen bestuur kan een subsidie weigeren als de aanvrager voor de uitvoering van dezelfde gebiedsgebonden activiteiten voor hetzelfde tijdvak in aanmerking komt voor een subsidie of financiële bijdrage van een ander bestuursorgaan of fonds. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold italic">Relevante bepalingen uit het Uitvoeringsbesluit Gebiedsgebonden Kunst en Cultuuractiviteiten Stadsdeel [stadsdeel] 2017 (het Uitwerkingsbesluit)</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Onderdeel IV, onder A. Eenmalige (tijdelijke) initiatieven stadsdeel [stadsdeel]</title>
+    <parablock>
+      <para>(…)</para>
+      <para>5. samenwerking vereist met een of meer partners bij uitvoering activiteiten</para>
+      <para> 	X     n.v.t. Samenwerking wordt weliswaar aangemoedigd, maar het is contraproductief dit als harde eis te stellen. Interessante projecten zonder extra partner(s) zouden dan altijd afgewezen worden en dat is ongewenst.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_11476762-d8ad-4c3b-bea3-ef958588dbae" label="1">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 14 mei 2014 (ECLI:NL:RVS:2014:1731).</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

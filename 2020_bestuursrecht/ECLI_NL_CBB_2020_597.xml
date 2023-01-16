@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:597</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-20T11:43:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/920</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2020/2107</rdf:li>
+          <rdf:li>TT 2020/49 met annotatie van Kelder, M.G.</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:597">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:597</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-31T10:44:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:597 College van Beroep voor het bedrijfsleven , 01-09-2020 / 19/920</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:597:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Hoger beroep tegen door de accountantskamer opgelegde berisping. Opstellen rapport in civiele procedure. Hoger beroep gegrond, het College legt maatregel van waarschuwing op i.p.v. berisping.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:597:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 19/920 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de meervoudige kamer van 1 september 2020 op het hoger beroep van:</emphasis>
+        <?linebreak?>
+      </para>
+    </parablock>
+    <bridgehead role="bold">
+      [naam 1] RE RA, te [plaats 1] , appellant ( [naam 1] )</bridgehead>
+    <parablock>
+      <para>(gemachtigde: mr. M.R. Lauxtermann),</para>
+      <para>
+        <?linebreak?>tegen de uitspraak van de accountantskamer van 10 mei 2019, gegeven op een klacht, door [naam 2] B.V. ( [naam 2] ) (gemachtigde: mr. T.I.P. Jeltema) ingediend tegen appellant.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>
+        [naam 1] heeft hoger beroep ingesteld tegen de uitspraak van de accountantskamer van 10 mei 2019, met nummer 17/1230 Wtra AK (www.tuchtrecht.nl, ECLI:NL:TACAKN:2019:31).<?linebreak?></para>
+      <para>
+        [naam 2] heeft een schriftelijke reactie op het hogerberoepschrift gegeven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 3 juni 2020. [naam 1] is verschenen, bijgestaan door zijn gemachtigde. Namens [naam 2] zijn verschenen [naam 3] en haar gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Voor een uitgebreide weergave van het verloop van de procedure en de in dit geding van belang zijnde feiten en omstandigheden, voor zover niet bestreden, wordt verwezen naar de inhoud van de bestreden uitspraak van de accountantskamer, die als hier ingelast wordt beschouwd. Het College volstaat met het volgende.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>
+        [naam 1] was ten tijde van belang als schade-expert verbonden aan [naam 4] te [plaats 2] .</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>
+        [naam 2] houdt zich bezig met de bouw en exploitatie van bedrijfsonroerendgoed. Het college van burgemeester en wethouders van de gemeente [gemeente] (hierna: de gemeente) heeft op een bouwaanvraag van [naam 2] op 22 april 2008 beslist een bouwvergunning te verlenen. Tegen dit besluit is bezwaar en beroep ingesteld. Daarop zijn meerdere bestuursrechtelijke procedures gevolgd en is uiteindelijk de aan [naam 2] verleende bouwvergunning omstreeks 3 november 2014 onherroepelijk geworden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>In een civiele procedure jegens de gemeente heeft [naam 2] vergoeding van door haar geleden (vertragings)schade gevorderd, omdat het besluit van 22 april 2008 jegens haar onrechtmatig was, nu aan de (daarbij verleende) bouwvergunning een gebrek bleek te kleven. De rechtbank Oost-Brabant heeft bij tussenvonnis van 22 juli 2015 onder meer overwogen: </para>
+      <para />
+      <parablock>
+        <para>“4.3        Nu vaststaat dat sprake is van een onrechtmatig besluit dat aan het college kan worden toegerekend, is de gemeente als publiekrechtelijke rechtspersoon aansprakelijk voor de schade die [naam 2] lijdt als gevolg van onrechtmatig handelen van één van haar organen. De vraag is welke door [naam 2] gestelde schade in causaal verband staat met het onrechtmatige besluit en of deze schade (deels) mede een gevolg is van omstandigheden die aan [naam 2] kunnen worden toegerekend. </para>
+        <para>(…) </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <parablock>
+        <para>Hetgeen hiervoor onder 4.5 en 4.6 is overwogen leidt tot de conclusie dat er causaal verband bestaat tussen het onrechtmatige besluit van 22 april 2008 en de schade van [naam 2] voor zover zij die heeft geleden doordat zij niet op 19 oktober 2011, maar pas op 3 november 2014 over een onherroepelijke bouwvergunning beschikte. Voor die schade is de gemeente aansprakelijk. </para>
+        <para>(...)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.13</nr>
+      <para>Op dit moment kan de rechtbank de schade dan ook niet begroten. De rechtbank zal de zaak aanhouden en naar de rol verwijzen. Partijen kunnen zich dan uitlaten over de vraag hoe de procedure verder dient te verlopen, bijvoorbeeld met benoeming van een deskundige door de rechtbank of met (een poging tot) onderlinge overeenstemming, op basis van de in dit vonnis gegeven uitgangspunten. Indien partijen geen onderlinge overeenstemming kunnen bereiken, dient [naam 2] zich in ieder geval uit te laten over welke schade zij lijdt doordat zij niet op 19 oktober 2011, maar pas op 3 november 2014 over een onherroepelijke bouwvergunning beschikte. [naam 2] wordt verzocht daarbij inzichtelijk te maken welke methode van schadeberekening zij daarbij tot uitgangspunt neemt en de door haar beweerdelijk geleden schade te specificeren. De gemeente mag daarop reageren.” </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>
+        [naam 2] heeft naar aanleiding van dit tussenvonnis een nieuwe schadeberekening laten maken door Dicop Bouwadvies en het in dat verband opgemaakte rapport van 24 september 2015 (hierna: Dicoprapport) bij akte na tussenvonnis van 30 september 2015 aan de rechtbank overgelegd. In het Dicoprapport is de schade van [naam 2] becijferd op € 1.719.104. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <para>Bij brief van 14 september 2015 heeft [naam 5] RA van accountantskantoor [naam 6] (hierna: [naam 5] ) een door [naam 2] verstrekte opdracht om overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie van [naam 2] uit te voeren bevestigd. In die brief staat dat de opdracht zal worden uitgevoerd in overeenstemming met Nederlands recht waaronder de Nederlandse Standaard NVCOS 4400. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7</nr>
+      <para>In een rapport van feitelijke bevindingen gedateerd 25 september 2015 heeft [naam 5] geconcludeerd dat de berekening van de (vertragings)schade zoals vermeld in het Dicoprapport juist is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8</nr>
+      <para>De gemeente heeft in reactie op het Dicoprapport bij antwoordakte een rapport van [naam 4] , gedateerd 17 november 2015, aan de rechtbank overgelegd. Dit rapport (hierna: het rapport) is door [naam 1] opgesteld in opdracht van de advocaat van de verzekeraar van de gemeente, Achmea Claims organisatie (hierna: de verzekeraar). </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de accountantskamer</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>In de klacht, zoals weergegeven in de uitspraak van de accountantskamer, welke weergave door partijen niet wordt bestreden, wordt [naam 1] het volgende verweten:</para>
+      <para />
+      <para>a.     [naam 1] heeft niet vermeld volgens welke vaktechnische regels hij het expertiserapport dat een assurancerapport betreft, heeft opgesteld, welke informatie hij heeft gebruikt, welke werkzaamheden hij heeft verricht en of en hoe hij hoor en wederhoor heeft toegepast; </para>
+      <para>b.    [naam 1] heeft zonder deugdelijke grondslag assurance verstrekt en vernietigende kritiek geleverd op het Dicoprapport;</para>
+      <para>c.    [naam 1] heeft de onderzoekswerkzaamheden van [naam 5] ongefundeerd bekritiseerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Bij de bestreden uitspraak heeft de accountantskamer klachtonderdeel a gegrond verklaard, klachtonderdeel b deels gegrond verklaard en klachtonderdeel c gegrond verklaard. De accountantskamer heeft aan [naam 1] de maatregel van berisping opgelegd.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>3. [naam 1] heeft in totaal vijf grieven naar voren gebracht. De eerste grief van [naam 1] richt zich tegen de gegrondverklaring van klachtonderdeel a. De tweede en vierde grief richten zich tegen de gegrondverklaring van klachtonderdeel b. De derde grief richt zich tegen de gegrondverklaring van klachtonderdeel c. De vijfde grief ziet op de zwaarte van de aan hem opgelegde maatregel. Het College zal hieronder de grieven een, twee en vier gezamenlijk beoordelen. Vervolgens zal het College de grieven drie en vijf afzonderlijk beoordelen.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>In de grieven een, twee en vier voert [naam 1] het volgende aan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Gelet op de Handreikingen 1111 en 1127 betreft de opdracht een ‘Overige opdracht’. Uit paragraaf 4 van de Handreiking 1111 blijkt dat niet specifiek hoeft te worden vermeld dat de opdracht niet is uitgevoerd in het kader van een assurance- of een aan assurance-verwante opdracht. Voldoende is dat duidelijk is waaruit de opdracht bestaat en dat niet de indruk wordt gewekt dat het wel om een assurance- of een aan assurance-verwante opdracht gaat.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Volgens [naam 1] is onjuist dat de opdracht was om geleden financieel nadeel vast te stellen. Zijn opdracht was om de na het tussenvonnis van 12 juli 2015 door [naam 2] gevorderde schade te beoordelen. Hij heeft geen zelfstandig onderzoek gedaan naar de geleden schade. Het rapport had slechts een reactief karakter. Voor zover de accountantskamer oordeelt dat [naam 1] geen blijk heeft gegeven van een onafhankelijke opstelling, miskent de accountantskamer dat hij was ingeschakeld als partijdeskundige. Daarover bestond bij niemand onduidelijkheid en anders dan de accountantskamer oordeelt blijkt ook niet uit het rapport dat [naam 1] een onafhankelijk rapport zou opstellen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>De accountantskamer is ten onrechte van oordeel dat het rapport een deugdelijke grondslag mist omdat [naam 1] geen hoor en wederhoor heeft toegepast. Uit de rapporten uit 2014 en de overgelegde correspondentie blijkt dat hij intensief overleg met [naam 2] heeft gevoerd en herhaaldelijk om aanvullende informatie heeft verzocht. Gelet op de stand van de procedure en het gegeven dat [naam 1] optrad als partijdeskundige was het niet nodig om hoor en wederhoor toe te passen. In die situatie kon hij ermee volstaan om aan partijen en de rechtbank duidelijk te maken dat op basis van aanvullende informatie wellicht aanleiding zou kunnen bestaan om het nadeel anders te benaderen. Dat heeft [naam 1] gedaan met de slotwoorden van zijn rapport onder het kopje ‘Voortgang’. Hoor en wederhoor was niet nodig, aangezien [naam 1] i) zich uitsluitend heeft gebaseerd op feitelijke informatie van [naam 2] , ii) deze informatie heeft besproken met [naam 2] en duidelijk heeft gemaakt tot welke schadebedragen die informatie in zijn optiek zou leiden, iii) duidelijk heeft gemaakt welke aanvullende informatie hij nodig had om door [naam 2] opgevoerde, maar door hem niet gevolgde schadecomponenten eventueel anders te beoordelen , iv) herhaaldelijk om aanvullende informatie heeft gevraagd, maar [naam 2] heeft uitdrukkelijk geweigerd die te verschaffen, v) zijn rapport uit 2015 heeft gebaseerd op exact dezelfde feitelijke informatie als zijn rapporten uit 2014, vi) zonder meer mocht veronderstellen dat [naam 2] niet anders zou verwachten dan dat hij in 2015 grosso modo tot dezelfde benadering van het vermeende nadeel als in 2014 zou komen, en vii) bij gebreke aan andersluidende berichten geen aanleiding had om te veronderstellen dat [naam 2] alsnog de eerder herhaaldelijk door [naam 1] opgevraagde aanvullende informatie ter beschikking zou willen stellen. Op verschillende momenten hebben collega’s van [naam 1] bovendien ook grondig naar het onderliggende dossier gekeken. Een en ander geeft blijk van een goed ontwikkelde professioneel-kritische instelling bij [naam 1] en van geschikte maatregelen om bedreigingen te ondervangen.<?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <parablock>
+        <para>Voor zover de accountantskamer heeft geoordeeld dat het rapport niet is voorzien van een deugdelijke grondslag, voert [naam 1] allereerst aan dat de accountantskamer buiten de grenzen van de klacht is getreden. Uit de klacht blijkt dat [naam 2] er bewust voor heeft gekozen om alleen te klagen over de posten rentekosten, juridische kosten en begeleidingskosten. De accountantskamer heeft in haar beoordeling veel meer kostenposten betrokken.</para>
+        <para>Over de post rentekosten heeft [naam 1] aangevoerd dat wel degelijk is onderbouwd waarom de voor de renteberekening opgevoerde begeleidingskosten niet tot de projectinvestering gerekend kunnen worden. Omdat [naam 7] , op wiens werkzaamheden deze kosten betrekking hebben, al langer betrokken was bij de vennootschappen van onder meer [naam 2] kunnen deze vaste kosten niet tot de projectinvestering worden gerekend. Dit is af te leiden uit de investeringsbegroting appartementsvilla ‘ [naam 8] ’ en de beëindigingsbrief aan [naam 7] . Verder brengt [naam 1] naar voren dat enkele van de voor de renteberekening opgevoerde kostencomponenten zijn gemaakt na 19 oktober 2011. Deze kosten dienen daarom niet te worden meegenomen in de vertragingsrente.</para>
+        <para>Over de begeleidingskosten voert [naam 1] aan dat hij zijn bevindingen wel degelijk goed heeft onderbouwd, en heeft uitgelegd waarom het door [naam 2] ingeschatte bedrag niet kon worden geverifieerd. Ook op dit punt is de accountantskamer buiten de klacht getreden. [naam 2] heeft niet geklaagd over de inschatting door [naam 1] van de begeleidingskosten. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5.	[naam 2] heeft in reactie op de grieven een, twee en vier het volgende naar voren gebracht. Over de aard van de opdracht merkt [naam 2] op dat volgens haar vaststaat dat [naam 1] te onduidelijk is geweest over de aan hem verstrekte opdracht. Zij kan zich dan ook vinden in het oordeel van de accountantskamer. Voorts voert zij aan dat de klacht, anders dan [naam 1] stelt, ook ziet op het gebrek aan onafhankelijkheid. In het eerste gesprek tussen [naam 2] en [naam 1] in de zomer van 2013 heeft [naam 2] indringend doorgevraagd over zijn objectiviteit en onafhankelijkheid. [naam 1] heeft in dat gesprek onomwonden meegedeeld dat [naam 2] zich daar absoluut geen zorgen om hoefde te maken. Dat schrijft [naam 1] ook in zijn rapport, waar in staat: “Ons bureau is onafhankelijk en onderhoudt geen financiële banden met diens opdrachtgevers.”. Dat klip en klaar was dat [naam 1] als partijdeskundige optrad betwist [naam 2] dan ook. [naam 1] heeft zich van begin af aan geprofileerd als onafhankelijk en objectief. [naam 1] heeft na het tussenvonnis van de rechtbank van 22 juli 2015 geen enkel contact meer gehad met [naam 2] . Dat [naam 2] niet bereid zou zijn om nadere informatie te verstrekken is onjuist, het is simpelweg niet gevraagd. Over de begeleidingskosten voert [naam 2] aan dat de accountantskamer terecht heeft overwogen dat niet is gemotiveerd waarom begeleidingskosten als vaste kosten niet tot de projectinvestering gerekend kunnen worden. Verder heeft [naam 1] betreffende de juridische kosten ten onrechte nagelaten om [naam 2] een nadere specificatie te vragen.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het College is, evenals de accountantskamer, van oordeel dat [naam 1] in zijn rapport ten onrechte niet heeft vermeld wat zijn opdracht precies inhield en welke vaktechnische regels daarop van toepassing waren. Onder het kopje “Introductie [naam 4] ” gaan de eerste drie alinea’s op bladzijde 3 in het algemeen over het bureau [naam 4] . Daarin is onder meer vermeld dat de rapporten van het bureau uitgaan van feiten en objectief de gevolgen voor de benadeelden weergeven en dat het bureau onafhankelijk is. Deze “introductie” kon de suggestie wekken dat [naam 1] de opdracht had om een rapport als onafhankelijk deskundige op te stellen. Deze introductie had hij niet, althans niet op deze manier, in zijn rapport moeten opnemen. Verder heeft hij in zijn rapport geen helderheid verschaft over de aard van de verrichte werkzaamheden, door niet te benoemen of sprake is van een assurance-, een aan assurance verwante of een overige opdracht. Ook heeft hij niet vermeld welke standaarden en/of handreikingen van toepassing waren. In zoverre faalt de eerste grief.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Het vorenstaande neemt niet weg dat uit de Samenvatting op bladzijde 2 van het rapport wel kan worden afgeleid dat [naam 1] optrad als partijdeskundige, te weten als deskundige aan de zijde van de gemeente in het kader van de procedure tussen [naam 2] en de gemeente en reagerend op het Dicoprapport. Dit moet redelijkerwijs ook voor [naam 2] duidelijk zijn geweest. Het College ziet onvoldoende aanknopingspunten voor de stelling van [naam 2] dat zij, gelet op het gesprek tussen [naam 2] en [naam 1] in de zomer van 2013, mocht menen dat [naam 1] als onafhankelijke deskundige optrad. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Zoals het College in de uitspraak van 12 juni 2018 (ECLI:NL:2018:241) heeft overwogen ten aanzien van een in een civielrechtelijke procedure ingebracht rapport opgesteld door een accountant die als deskundige een partij bijstaat, strekt een tuchtrechtelijke procedure er niet toe om de inhoud of de wijze van totstandkoming van dat rapport opnieuw en integraal te onderzoeken. Beoordeeld moet worden of de accountant bij het opstellen van het partijdeskundigenbericht in strijd heeft gehandeld met de voor hem geldende beroeps- en gedragsregels, in dit geval die voor de categorie ‘overige opdrachten’ zoals bedoeld in de NBA-handreiking 1111 inzake ‘Overige opdrachten’ en de NBA-handreiking 1127 inzake ‘Opdrachten uitgevoerd ter ondersteuning bij (potentiële) geschillen’. Daarbij geldt, zoals het College heeft overwogen in de uitspraak van 2 februari 2017 (ECLI:NL:CBB:2017:26), dat een accountant behalve het belang van zijn opdrachtgever ook het algemeen belang heeft te dienen. Gelet op de toegevoegde waarde die in het maatschappelijke verkeer aan een accountantsrapport in een gerechtelijke procedure wordt toegekend en het algemene belang dat rechtspraak op objectieve waarheidsvinding berust, betekent dit dat de accountant ervoor dient te zorgen dat zijn rapport deze waarheidsvinding niet belemmert, doordat dit te eenzijdig is toegespitst op het standpunt/belang van de opdrachtgever. Waar het op aankomt is dat er geen misverstand over mag bestaan of in de door de accountant gepresenteerde gegevens feitelijke aannames van de opdrachtgever zijn opgenomen, dan wel of sprake is van door de accountant op basis van eigen onderzoek gefundeerd getrokken conclusies.<?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <parablock>
+        <para>In dit geval heeft [naam 1] namens zijn opdrachtgever, de aansprakelijkheidsverzekeraar van de gemeente, een reactie gegeven op het Dicoprapport, dat door [naam 2] was ingediend bij de rechtbank om te voldoen aan de door de rechtbank gegeven opdracht om de ingestelde vordering nader te specificeren. Anders dan de accountantskamer kennelijk heeft aangenomen ging [naam 1] uit van gegevens die van de zijde van [naam 2] waren aangeleverd en niet van informatie van zijn opdrachtgever. Daarbij is niet van belang dat hij deze stukken ontving door tussenkomst van de advocaat van de gemeente. </para>
+        <para>Verder overweegt het College dat het, gegeven de opdracht van de rechtbank aan [naam 2] tot nadere specificatie van haar vordering, niet op de weg van [naam 1] als adviseur van de gemeente lag om die vordering van een nadere onderbouwing te voorzien. Voor zover de accountantskamer [naam 1] heeft verweten dat hij zelf geen nader onderzoek heeft gedaan naar de vordering berust dat verwijt op een onjuiste beoordeling van de opdracht van [naam 1] . Een en ander laat onverlet dat [naam 1] geen conclusies mocht trekken waarvoor binnen de kaders van zijn opdracht geen deugdelijke grondslag bestond. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <para>Het betoog van [naam 1] dat de accountantskamer buiten de grenzen van de klacht is getreden, door ook een oordeel te geven over andere kostenposten dan de drie die expliciet in de klacht genoemd zijn, slaagt. In de klacht staat op pagina 6 dat [naam 2] alleen ingaat op de door de rechtbank toegewezen posten: rentekosten, juridische kosten en begeleidingskosten. Uit de formulering in die passage van de klacht blijkt dat [naam 2] er bewust voor heeft gekozen om alleen over deze kostenposten te klagen. Op pagina 7 van de klacht heeft [naam 2] weliswaar nog een aantal andere kostenposten genoemd, maar die punten zijn niet onderbouwd, zodat er geen aanleiding was om te beoordelen of er voor de bevindingen van [naam 1] over die kostenposten een voldoende deugdelijke grondslag aanwezig was. De accountantskamer had zijn beoordeling moeten beperken tot de drie voornoemde posten. In zoverre slaagt deze grief.</para>
+    </paragroup>
+    <paragroup>
+      <nr>6.6</nr>
+      <para>Het College stelt ten aanzien van de post rentekosten vast dat [naam 1] in zijn rapport op pagina 8 tot uitgangspunt neemt dat vaste kosten zijns inziens niet tot de projectinvestering gerekend dienen te worden. Dat uitgangspunt heeft hij echter niet toegelicht, terwijl daardoor een niet gering deel van de bij deze post opgevoerde kosten buiten beschouwing wordt gelaten. Het rapport ontbeert op dit punt een deugdelijke grondslag. In zoverre slaagt het betoog van [naam 1] niet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.7</nr>
+      <para>Het College volgt de accountantskamer niet in haar overwegingen over de post juridische kosten. Met de door [naam 1] geplaatste opmerkingen op pagina 10 en 16 van het rapport heeft hij geen meningen geventileerd of niet-onderbouwde conclusies geformuleerd. Ten aanzien van de kosten van de aanhangige procedure laat [naam 1] de beoordeling aan de rechtbank. Ten aanzien van de overige juridische kosten (“extra kosten”) wordt in het rapport opgemerkt dat het zeer wel mogelijk is dat [naam 2] extra kosten heeft gemaakt, maar dat deze nadere specificatie behoeven naar aard van de gevoerde procedures. Het College ziet geen aanleiding voor het oordeel dat [naam 1] ten aanzien van deze kostenpost geen deugdelijke grondslag had voor zijn opmerkingen. Er was geen aanleiding om hoor en wederhoor toe te passen, temeer nu het, anders dan de accountantskamer lijkt te hebben aangenomen, niet op de weg van [naam 1] lag om als partij-deskundige van de gemeente bewijs te verzamelen ten behoeve van de wederpartij. In zoverre slaagt het betoog van [naam 1] .</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.8</nr>
+      <para>Over de begeleidingskosten oordeelt het College dat [naam 2] op pagina 6 van de klacht wel expliciet heeft geklaagd over deze post. De accountantskamer is met haar beoordeling op dit punt niet buiten de klacht getreden. Het College volgt de accountantskamer in het oordeel dat een deugdelijke grondslag ontbreekt voor de getrokken conclusies. Enerzijds schrijft [naam 1] in het rapport dat de geclaimde kosten niet in verhouding staan tot de te verwachten werkzaamheden die gemoeid gaan met het begroten van de schade en anderzijds stelt [naam 1] de schade op nihil. Voor de conclusie dat de schade op nihil moet worden gesteld onderbreekt een onderbouwing.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.9</nr>
+      <para>Op grond van het voorgaande is het College van oordeel dat de grieven een, twee en vier deels slagen. De accountantskamer had klachtonderdeel a slechts gedeeltelijk gegrond dienen te verklaren, namelijk voor zover hiervoor onder 6.1 beoordeeld. De accountantskamer is bij klachtonderdeel b deels buiten de klacht getreden en ten onrechte tot de slotsom gekomen dat klachtonderdeel b slaagt voor zover het ziet op de post juridische kosten. Voor de posten rentekosten en begeleidingskosten is de accountantskamer terecht tot de slotsom gekomen dat [naam 1] zonder deugdelijke grondslag conclusies heeft getrokken. Voor zover de klachtonderdelen gegrond zijn, heeft [naam 1] gehandeld in strijd met het fundamentele beginsel van vakbekwaamheid en zorgvuldigheid.</para>
+      <para />
+      <para>7. De derde grief van [naam 1] richt zich tegen de gegrondverklaring van klachtonderdeel c.</para>
+      <para>
+        [naam 1] voert aan dat de accountantskamer ten onrechte niet is ingegaan op de omstandigheid dat [naam 5] zijn rapport op 30 november 2016 heeft ingetrokken. [naam 1] is hier ruim na de mondelinge behandeling van de klacht bij de accountantskamer achter gekomen en heeft de schriftelijke bevestiging van 21 december 2017 hiervan direct na ontvangst aan de accountantskamer toegezonden. Dit bericht is met een beroep op artikel 23 van het Procesreglement 2015 ten onrechte buiten beschouwing gelaten door de accountantskamer. Verder voert [naam 1] aan dat er onvoldoende redenen waren om het klachtonderdeel op inhoudelijke gronden gegrond te verklaren. [naam 1] heeft met goede redenen een opmerking gemaakt over de korte tijdsspanne tussen het rapport van Dicop en het rapport van [naam 5] . Dat de opdracht aan [naam 5] al op 14 september 2015 was verstrekt brengt hierin geen verandering. Voor de argeloze lezer van het rapport wordt met die expliciete aanduiding ‘d.d. 24 september 2015’ de indruk gewekt dat [naam 5] eerst de definitieve rapportage van Dicop heeft afgewacht en zijn beoordeling heeft beperkt tot die definitieve rapportage. Verder stelt [naam 1] dat hij terecht heeft opgemerkt dat het rapport geen ‘beperkingen’ bevat, omdat deze voorwaarde letterlijk voortvloeit uit de Standaard 4400. Voor zover de accountantskamer oordeelt dat [naam 1] ten onrechte geen contact heeft opgenomen met [naam 5] , merkt [naam 1] op dat [naam 5] andersom ook geen contact heeft opgenomen met [naam 1] . Diens kwalificatie van het Dicoprapport als juist, is immers een diskwalificatie van het werk van [naam 1] , zoals dat blijkt uit zijn rapporten van 2014. [naam 1] meent dat hij er dan ook vanuit mocht gaan dat partijen de vaststelling van de schade aan de rechtbank wilden overlaten, op basis van de rapporten van de wederzijdse partijdeskundigen. </para>
+      <para />
+      <para>8. [naam 2] heeft naar voren gebracht dat [naam 1] simpelweg heeft aangenomen dat er maar een dag zat tussen het uitbrengen van het Dicoprapprt en het rapport van [naam 5] , zonder daarover enige navraag te doen. Ook heeft hij vraagtekens gezet bij het onderzoek van [naam 5] , maar wederom zonder daarover navraag te doen. [naam 2] schaart zich daarom achter het oordeel van de accountantskamer.</para>
+      <para />
+      <para>9. Het College heeft geconstateerd dat het rapport van [naam 5] inderdaad was ingetrokken op het moment dat de klacht bij de accountantskamer werd ingediend. Het had stellig op de weg van [naam 2] gelegen om hiervan in de procedure bij de accountantskamer melding te maken. Dat gegeven doet echter niet af aan de klacht, die zich richt op de werkzaamheden van [naam 1] . Evenals de accountantskamer acht het College het niet passend dat [naam 1] in het rapport nadruk legt op het gegeven dat het rapport van [naam 5] is gedateerd één dag na het Dicoprapport en op grond van die aanname op suggestieve wijze vraagtekens stelt bij de werkzaamheden die in deze korte tijdsspanne hebben plaatsgevonden. Daarmee gaat [naam 1] eraan voorbij dat in het rapport van [naam 5] is vermeld dat de opdracht reeds op 14 september 2015 aan hem was verstrekt. Als [naam 1] vragen had over de verrichtte werkzaamheden, had hij contact op kunnen nemen met [naam 5] . Door de wijze waarop [naam 1] zijn vraagtekens heeft verwoord wekt [naam 1] de suggestie dat [naam 5] zijn opdracht haastig, namelijk in slechts één dag, zou hebben verricht, terwijl die conclusie niet gerechtvaardigd is op grond van de enkele constatering dat de data van de rapporten maar één dag verschillen. Het College sluit niet uit dat er inhoudelijk opmerkingen te plaatsen waren bij het rapport van [naam 5] , onder meer over de wijze waarop de Standaard 4400 is toegepast. De intrekking ervan en de terugbetaling van de kosten wijzen in die richting. [naam 1] heeft echter niet juist gehandeld door zijn bevindingen in het rapport op te nemen, en daarmee kritiek te uiten op het werk van een beroepsgenoot, zonder de bevindingen en kritiek eerst aan [naam 5] voor te leggen. Op dit punt had [naam 1] dus wederhoor moeten toepassen. De omstandigheid dat [naam 5] , voordat hij zijn rapport uitbracht, geen contact had opgenomen met [naam 1] maakt dit niet anders. Ook als [naam 5] dit ten onrechte zou hebben nagelaten, is dat geen rechtvaardiging voor het handelen van [naam 1] . </para>
+      <para>De derde grief slaagt dan ook niet. Het College is van oordeel dat [naam 1] wat betreft klachtonderdeel c heeft gehandeld in strijd met de fundamentele beginselen van objectiviteit en vakbekwaamheid en zorgvuldigheid. </para>
+      <para />
+      <para>10. Als vijfde grief voert [naam 1] aan dat ten onrechte de maatregel van berisping is opgelegd. Ondanks dat het altijd beter kan, heeft hij het rapport naar eer en geweten opgesteld. Hij stelt zich te hebben beperkt tot de feitelijke informatie waarover hij beschikte en duidelijk te hebben gemaakt dat zijn conclusies eventueel nog aangepast dienden te worden na ontvangst van nadere informatie. Hij stelt zich te hebben gedragen in overeenstemming met de geldende normen en van een evidente schending van de Handreiking 1111 dan wel de VGBA is geen sprake. Als enige maatregel al op zijn plek is, dan doet de maatregel van berisping geen recht aan het gegeven dat hij zijn werkzaamheden in onderhavige zaak met de beste intenties heeft uitgevoerd.</para>
+      <para />
+      <para>11. Volgens [naam 2] is de maatregel van berisping terecht opgelegd.</para>
+      <para />
+      <para>12. Het College acht, zoals hiervoor overwogen, de klachtonderdelen a en b deels gegrond en klachtonderdeel c gegrond, maar onderschrijft niet alle overwegingen van de accountantskamer. Het College acht, alle omstandigheden in aanmerking nemend, de maatregel van berisping te zwaar en legt daarom de maatregel van waarschuwing op.</para>
+      <para />
+      <para>13. De slotsom is dat het hoger beroep gegrond is<emphasis role="italic">. </emphasis></para>
+      <para />
+      <para>14. De beslissing op dit hoger beroep berust mede op hoofdstuk V van de Wet tuchtrechtspraak accountants.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College:</para>
+    </parablock>
+    <para>- verklaart het hoger beroep gegrond;</para>
+    <para>- vernietigt de bestreden tuchtuitspraak;</para>
+    <para>- verklaart de klachtonderdelen a en b deels gegrond en klachtonderdeel c gegrond;</para>
+    <para>- legt appellant de maatregel van waarschuwing op.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.A.J. van Lierop, mr. J.L. Verbeek en mr. F. van der Wel, in aanwezigheid van mr. L.N. Foppen, griffier. De beslissing is in het openbaar uitgesproken op 1 september 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>W.A.J. van Lierop						L.N. Foppen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de voorzitter is verhinderd om 	de griffier is verhinderd om de</para>
+      <para>de uitspraak te ondertekenen		uitspraak te ondertekenen</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

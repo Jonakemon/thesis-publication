@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:784</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-03T13:52:13</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/458</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#schadevergoedingsuitspraak">Schadevergoedingsuitspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0004054&amp;g=2020-02-20">Meststoffenwet</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:784">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:784</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-03T09:57:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:784 College van Beroep voor het bedrijfsleven , 03-11-2020 / 19/458</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:784:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>artikel 1, eerste lid, onder ll, onder 1°, van de Meststoffenwet</para>
+        <para>artikel 1, eerste lid, onder m, van de Meststoffenwet</para>
+        <para>artikel 21b, van de Meststoffenwet</para>
+        <para>artikel 23, derde lid, van de Meststoffenwet</para>
+        <para>artikel 33Ab, van de Meststoffenwet</para>
+        <para>artikel 72b, van het Uitvoeringsbesluit Meststoffenwet</para>
+        <para>artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden </para>
+        <para>artikel 7:15, tweede lid, van de Algemene wet bestuursrecht</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Fosfaatrechten. Niet grondgebonden, terecht de generieke korting toegepast. Bij de vaststelling van het fosfaatrecht en de vraag of iemand als grondgebonden moet worden aangemerkt wordt alleen rekening gehouden met de landbouwgrond die in Nederland is gelegen. De percelen van appellante die in Duitsland liggen, tellen daarvoor dus niet mee. Van een willekeurige voorwaarde, of strijd met het gelijkheidsbeginsel, is geen sprake. Fosfaatrechtenvaststelling niet in strijd met artikel 1 van het EP. Geen individuele en buitensporige last. Generieke korting geldt voor alle melkveehouders, zodoende geen individuele last voor appellante. Het College is in het geval van appellante ook niet gebleken van omstandigheden op grond waarvan zij de korting niet zelf zou moeten kunnen dragen, zoals dat ook van andere bedrijven die generiek worden gekort wordt verwacht. Voor zover appellante ervan uit is gegaan dat zij als grondgebonden zou worden aangemerkt, heeft zij dat op eigen risico gedaan. Uit het feit dat in het kader van de mestverwerking in de Msw een uitzondering is gemaakt voor grensboeren, heeft zij niet af mogen leiden dat dit ook zou gebeuren bij de bepaling van de grondgebondenheid in het kader van het fosfaatrechtenstelsel. </para>
+        <para>In bezwaar heeft appellante aangetoond dat verweerder wat betreft de melkproductie is uitgegaan van onjuiste gegevens. Daarmee is naar het oordeel van het College aan de vereisten van artikel 7:15, tweede lid, van de Awb voldaan. </para>
+        <para>Het verzoek van appellante om schadevergoeding wegens overschrijding van de redelijke termijn wordt gehonoreerd. Berekening aan de hand van de methode die is uiteengezet in het arrest van de Hoge Raad van 19 februari 2016 (ECLI:NL:HR:2016:252).</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:784:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 19/458 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 3 november 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">V.O.F. [naam 1] , te [plaats] , appellante</bridgehead>
+    <para>(gemachtigde: mr. ing. W.B.M. Engels),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. A. Stockmann)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staat der Nederlanden (de minister van Justitie en Veiligheid), de Staat.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 januari 2018 (het primaire besluit) heeft verweerder op grond van artikel 23, derde lid, van de Meststoffenwet (Msw) het fosfaatrecht van appellante vastgesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 januari 2019 (het bestreden besluit) heeft verweerder het bezwaar van appellante gedeeltelijk gegrond verklaard, het primaire besluit herroepen en het fosfaatrecht van appellante hoger vastgesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft beroep ingesteld tegen het bestreden besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 21 september 2020. Namens appellante is verschenen haar vennoot [naam 2] , bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het College heeft de Staat als partij aangemerkt in verband met een mogelijke overschrijding van de redelijke termijn.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Relevante bepalingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Ingevolge artikel 1, eerste lid, aanhef en onder ll, onder 1°, van de Msw wordt onder fosfaatruimte verstaan de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar ingevolge artikel 8, onderdeel c, mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Ingevolge artikel 1, eerste lid, aanhef en onder m, van de Msw wordt tot het bedrijf behorende oppervlakte landbouwgrond gerekend in Nederland gelegen oppervlakte landbouwgrond, die in het kader van een normale bedrijfsvoering bij het bedrijf in gebruik is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Ingevolge artikel 21b van de Msw is het een landbouwer verboden op zijn bedrijf in een kalenderjaar meer dierlijke meststoffen met melkvee, uitgedrukt in kilogrammen fosfaat, te produceren dan het op het bedrijf rustende fosfaatrecht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Ingevolge artikel 23, derde lid, van de Msw stelt de minister het op een bedrijf rustende fosfaatrecht per 1 januari 2018 vast in overeenstemming met de forfaitaire productie van dierlijke meststoffen in een kalenderjaar door melkvee dat op 2 juli 2015 op het bedrijf is gehouden en geregistreerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>Ingevolge artikel 33Ab, van de Msw, zoals dit luidde ten tijde van belang, kan bij algemene maatregel van bestuur een percentage worden vastgesteld waarmee het fosfaatrecht op een in die maatregel vastgesteld tijdstip wordt verminderd indien dit noodzakelijk is voor de naleving van een verplichting op grond van een voor Nederland verbindend verdrag of besluit van een volkenrechtelijke organisatie.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <para>Artikel 72b van het Uitvoeringsbesluit Msw (het Uitvoeringsbesluit) bepaalt het volgende:</para>
+      <para>1. Het fosfaatrecht, bedoeld in artikel 23, derde en zesde lid, en de verhoging van het fosfaatrecht, bedoeld in artikel 23, vierde en negende lid, van de wet, wordt verminderd met 8,3 procent.</para>
+      <para>2. Het eerste lid is niet van toepassing op een bedrijf waarvan de productie van dierlijke meststoffen door melkvee in kilogrammen fosfaat in het kalenderjaar 2015, verminderd met de fosfaatruimte in dat kalenderjaar, negatief of nul is.</para>
+      <para>3. Bij de toepassing van het percentage, bedoeld in het eerste lid, wordt, het fosfaatrecht slechts verminderd voor zover een gehele uitoefening van het fosfaatrecht de fosfaatruimte in het kalenderjaar 2015 van dat bedrijf te boven gaat.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7</nr>
+      <para>Het recht op eigendom is neergelegd in artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP). Het verzekert het recht op het ongestoord genot van eigendom, maar tast op geen enkele wijze het recht aan dat een Staat heeft om die wetten toe te passen die hij noodzakelijk oordeelt om het gebruik van eigendom te reguleren in overeenstemming met het algemeen belang. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Feiten</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Appellante exploiteert een akkerbouwbedrijf en melkveehouderij in [plaats] , aan de grens met Duitsland. Zij heeft 51,28 ha grasland en 84,65 ha landbouwgrond in Nederland in gebruik en 18,58 ha landbouwgrond in Duitsland in gebruik.	</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Op de peildatum 2 juli 2015 hield appellante op haar bedrijf 139 melk- en kalfkoeien, 92 stuks jongvee jonger dan 1 jaar en 115 stuks jongvee ouder dan 1 jaar.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Besluiten van verweerder </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3.	Verweerder heeft bij het primaire besluit het fosfaatrecht van appellante vastgesteld op 8.463 kg. Hij is daarbij uitgegaan van de dieraantallen die op 2 juli 2015 op het bedrijf aanwezig waren. Verweerder heeft een korting toegepast van 680,10 kg. Bij het bestreden besluit is verweerder uitgegaan van een hogere melkproductie in 2015 en heeft verweerder het fosfaatrecht van appellante verhoogd naar 8.563 kg. Verweerder heeft de generieke korting van 8,3% toegepast (774 kg).  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beroepsgronden</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Appellante voert aan dat het aantal fosfaatrechten voor haar bedrijf te laag is vastgesteld, aangezien verweerder ten onrechte appellante heeft aangemerkt als niet-grondgebonden en zodoende haar fosfaatrechten heeft gekort met de generieke korting van 8,3%. Appellante stelt in dit verband dat verweerder ten onrechte haar 18,58 ha in Duitsland gelegen landbouwgrond niet heeft betrokken bij de berekening van de fosfaatruimte. Volgens appellante is de totale fosfaatruimte inclusief de in Duitsland gelegen landbouwgrond hoger dan de fosfaatrechten (zonder korting). De generieke korting dient daarom achterwege te blijven. Volgens appellante staat vast, blijkens de Sammelantrag 2015, dat de in Duitsland gelegen percelen landbouwgrond zijn volgens de definitie uit artikel 1, eerste lid, onder h, van de Msw, dat op deze grond landbouw wordt uitgeoefend (artikel 1, eerste lid, onder g, Msw) en dat het een bedrijf betreft (artikel 1, eerste lid, onder i, Msw). Appellante wijst erop dat in het kader van de mestverwerkingsplicht de grond die gelegen is in Duitsland wel wordt meegenomen. De verwerkingsplicht en het stelsel van fosfaatrechten zijn beide gebaseerd op de Meststoffenwet, maar inconsequent toegepast. In de huidige wetgeving in het kader van de verwerkingsplicht is namelijk in tegenstelling tot het fosfaatrechtenstelsel wel een voorziening, de Grensboerregeling, opgenomen om bedrijven (zoals appellante) te compenseren. Ingevolge de Meststoffenwet wordt dus wel degelijk rekening gehouden met plaatsingsruimte op de gronden die in gebruik zijn in Duitsland.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Appellante voert aan dat het fosfaatrechtenstelsel in strijd is met het gelijkheidsbeginsel en het discriminatieverbod op grond van artikel 14 van het EP en artikelen 2 en 5 van het Internationaal Verdrag inzake Burgerrechten en Politieke Rechten (IVBPR). De (volledig) in Nederland gelegen grondgebonden bedrijven krijgen geen korting, maar appellante wel. Hierdoor wordt appellante gediscrimineerd en ongelijk behandeld vergeleken met andere melkveehouders in gelijke (grondgebonden) situaties. Het is voor appellante onmogelijk om grond in Nederland te verwerven. De Meststoffenwet rekent abusievelijk met de mestproductie van het gehele bedrijf ook al ligt een deel van het bedrijf in Duitsland. Voor zover er al een beperking mogelijk zou zijn mogen rechten uitsluitend worden beperkt voor het doel waarvoor ze zijn omschreven. Die beperking dient relevant te zijn in verband met het te bereiken doel. In casu dient de beperking uit artikel 1, eerste lid, onder m, van de Msw volgens appellante niet het doel van het voorkomen van overschrijding van het Nederlandse fosfaatplafond. Dit klemt te meer nu appellante hierdoor ernstig in haar rechten wordt beperkt. Voor zover er dierlijke meststoffen worden geproduceerd kunnen deze vanwege de grondgebondenheid van appellante in beide landen worden geplaatst op landbouwgronden in eigen gebruik binnen de in die landen geldende normen. Er is geen sprake van een bedrijfsoverschot en het Nederlandse fosfaatproductieplafond wordt zodoende niet overschreden. Appellante wijst erop dat zij individueel geen belang heeft bij het behoud van derogatie, maar hiervan wel de lasten draagt. Hiervoor is geen rechtvaardigingsgrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Appellante voert voorts aan dat zij onevenredig wordt getroffen door het fosfaatrechtenstelsel, vanwege het ontbreken van een voorziening wegens de bijzondere omstandigheid dat haar bedrijf nabij de Nederlandse grens ligt en er voor haar geen of bijna geen mogelijkheid is om extra (Nederlandse) gronden in de nabijheid van het bedrijf te verwerven. Appellante stelt zich op het standpunt dat zij gelet daarop recht heeft op (financiële) compensatie, vrijstelling of ontheffing.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Appellante voert aan dat het fosfaatrechtenstelsel het ongestoord genot van haar eigendom aantast. Het stelsel kan de ‘fair balance’ toets niet doorstaan, omdat dit blijkens de wetsgeschiedenis in ieder geval tot 26 februari 2018 niet voorzienbaar was en omdat er ondanks de bijzondere omstandigheden geen ontheffing of anderszins compensatie wordt toegekend aan appellante voor de ontneming van haar eigendom. Appellante voert aan dat de knelgevallenregeling te beperkt is nu daarin niet wordt voorzien in een regeling voor  grensboeren die vanwege grond in het buitenland als niet-grondgebonden worden aangemerkt. Daarmee is de regeling in strijd met het gelijkheidsbeginsel, alsook met het vertrouwensbeginsel, verbod van willekeur en het evenredigheidsbeginsel. Ten aanzien van de specifieke situatie van appellante dient voor haar alsnog te worden voorzien in de uitbreiding van de knelgevallenregeling in het fosfaatrechtenstelsel. Verder is er in haar geval sprake van een individuele en buitensporige last, aangezien appellante door de invoering van het fosfaatrechtenstelsel zonder een voor haar toepasselijke knelgevallenregeling sterk onevenredig wordt benadeeld. Appellante is onomkeerbare financiële verplichtingen aangegaan en ondervindt hiervan een zware financiële last. De continuïteit van het bedrijf is in gevaar. Aan de regels zoals die golden tot 2 juli 2015 kon appellante voldoen. De uitvoering van haar toekomstvisie vormde in haar ogen dan ook geen ondernemersrisico. Ook lagere overheden en banken dachten er gezien de respectievelijk verleende vergunningen en financieringen zo over. De besluitvorming in het bestreden besluit is volgens appellante onzorgvuldig en niet deugdelijk gemotiveerd, nu verweerder haar individuele omstandigheden onvoldoende heeft betrokken in deze besluitvorming.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Appellante betoogt verder dat verweerder haar verzoek om vergoeding van de kosten in bezwaar ten onrechte heeft afgewezen. Verweerder heeft het bezwaar van appellante immers deels gegrond verklaard en daarbij het primaire besluit herroepen. Reeds op 8 september 2016 en 17 mei 2017 – derhalve vóór het primaire besluit – heeft appellante verweerder voorzien van gegevens over de melkproductie. Dat verweerder vóór het nemen van het primaire besluit, zoals verweerder stelt, niet de beschikking had over deze gegevens is dan ook onjuist.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <para>Appellante verzoekt tot slot om schadevergoeding vanwege overschrijding van de redelijke termijn op grond van artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM).</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Standpunt van verweerder </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Verweerder stelt zich op het standpunt dat appellante terecht als niet-grondgebonden is aangemerkt. Op basis van artikel 1, eerste lid, aanhef en onderdeel ll, van de Msw en artikel 1, eerste lid, aanhef en onderdeel m, van de Msw dient, volgens verweerder, voor de berekening van de fosfaatruimte, alleen rekening gehouden te worden met landbouwgrond die of natuurterrein dat in Nederland is gelegen. Voor zover appellante een beroep doet op de Grensboerregeling (artikel 87, eerste lid, Uitvoeringsregeling), merkt verweerder op dat deze niet van toepassing is verklaard op het fosfaatrechtenstelsel. In zoverre appellante verwijst naar de mestverwerkingsplicht op grond van artikel 33a, tweede lid, onderdeel b, sub 3, van de Msw, merkt verweerder onder verwijzing naar de uitspraken die het College hierover eerder heeft gedaan op dat er sprake is van een ander doel en andere regelgeving. Dat appellante dus voldoet aan de mestverwerkingsplicht maakt nog niet dat de grond in Duitsland moet worden meegeteld voor de fosfaatruimte. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Verweerder acht het fosfaatrechtenstelsel voorts niet in strijd met het in artikel 1 van het EP neergelegde recht op eigendom. Hij heeft de achtergrond van het fosfaatrechtenstelsel uiteengezet en gewezen op de uitspraken van het College die hierover al zijn gedaan. Voorts betwist verweerder dat op appellante een individuele en buitensporige last rust. Er is immers geen sprake van een bijzondere individuele omstandigheid die buiten de invloedssfeer van de ondernemer zelf lag. Verweerder merkt op dat appellante geen inzage heeft gegeven in haar vermogenspositie en de mate waarin appellante wordt geraakt door het fosfaatrechtenstelsel. Er zijn geen financiële stukken overgelegd en appellante heeft zodoende haar gestelde individuele en buitensporige last niet onderbouwd. Er is volgens verweerder in deze situatie geen sprake van een individuele en buitensporige last omdat er geen individuele factoren zijn die maken dat de belangen van appellante zwaarder dienen te wegen dan de belangen die zijn gemoeid met het stelsel van fosfaatrechten. Verweerder is verder niet gebleken van omstandigheden op grond waarvan appellante de korting, anders dan andere melkveehouders op wie de (generieke) korting is toegepast, niet zelf zou moeten kunnen dragen. Dat appellante gebruik maakt van gronden in Duitsland voor haar mestafzet is daarvoor niet genoeg. Daarmee is er volgens verweerder geen aanleiding voor compensatie al dan niet in de vorm van een ontheffing. Verweerder is verder van mening dat – gezien de reikwijdte – toetsing aan het IVBPR niet tot een andere conclusie kan leiden dan toetsing aan artikel 1 van het EP. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Verweerder is verder van mening dat geen sprake is van een zorgvuldigheids- of motiveringsgebrek in het bestreden besluit. Daarnaast is er geen sprake van een schending van het recht. Daarmee is er geen aanleiding voor compensatie, al dan niet in de vorm van een ontheffing. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Volgens verweerder heeft appellante geen recht op een vergoeding van de kosten in bezwaar, nu de beslissing van 31 januari 2018 geen onrechtmatigheid bevat die aan verweerder moet worden toegerekend. De reden van de herroeping van het primaire besluit is weliswaar gelegen in de gehanteerde onjuiste melkproductie, maar ten tijde van de besluitvorming beschikte verweerder niet over de juiste gegevens. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beoordeling </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Grondgebondenheid</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het College oordeelt dat appellante niet als grondgebonden moet worden aangemerkt voor de vaststelling van de aan haar toekomende fosfaatrechten. Een bedrijf is grondgebonden als de productie van dierlijke meststoffen door melkvee in kg fosfaat in het kalenderjaar 2015 kleiner is dan de fosfaatruimte in dat kalenderjaar. Er wordt dan geen generieke korting toegepast op het fosfaatrecht. Bij de vaststelling van het fosfaatrecht en de vraag of iemand als grondgebonden moet worden aangemerkt wordt alleen rekening gehouden met de landbouwgrond die in Nederland is gelegen. De percelen van appellante die in Duitsland liggen, tellen daarvoor dus niet mee. Dit volgt uit artikel 33Ab van de Msw in samenhang met artikel 72b van het Uitvoeringsbesluit en artikel 1, eerste lid, aanhef en onder ll en onder m, van de Msw. In artikel 1, eerste lid, aanhef en onder m, van de Msw staat de definitie van het begrip “tot het bedrijf behorende oppervlakte landbouwgrond”. Die definitie sluit buiten Nederland gelegen oppervlakte landbouwgrond uit bij onder meer het bepalen van de grondgebondenheid. Het College verwijst met oog hierop naar zijn eerdere uitspraken van onder meer 17 maart 2020, ECLI:NL:CBB:2020:163 en 17 december 2019 ECLI:NL:CBB:2019:677. Voor het meenemen van tot het bedrijf van appellante behorende landbouwgrond in Duitsland bestaat geen wettelijke grondslag. Dat appellante deelneemt aan de zogenoemde Grensboerregeling en het mestoverschot van haar bedrijf mag uitrijden op haar grond in Duitsland verandert hieraan niets. De Grensboerregeling ziet namelijk alleen op de mestverwerking en niet op de vaststelling van het fosfaatrecht. De regeling omvat slechts een uitzondering op de verplichting tot weging en bemonstering van dierlijke meststoffen als die worden afgevoerd naar grenspercelen die tot 20 kilometer in Duitsland liggen en die in het kader van normale bedrijfsvoering bij hetzelfde bedrijf in gebruik zijn (artikel 87 van de Uitvoeringsregeling). Verweerder heeft terecht de generieke korting toegepast. Van een willekeurige voorwaarde, of strijd met het gelijkheidsbeginsel, is geen sprake. Deze beroepsgrond slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Artikel 1 van het EP</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Voor zover appellante heeft beoogd te betogen dat het fosfaatrechtenstelsel op het niveau van de regeling strijd oplevert met artikel 1 van het EP faalt dit betoog. Het College verwijst hiervoor naar zijn heropeningsbeslissing van 17 oktober 2018 (ECLI:NL:CBB:2018:522) en uitspraken van 9 januari 2019 (ECLI:NL:CBB:2019:1-7). Daarin heeft hij al geoordeeld dat het fosfaatrechtenstelsel op regelingsniveau verenigbaar is met artikel 1 van het EP. In de uitspraak van 23 juli 2019 (ECLI:NL:CBB:2019:291) heeft het College dit oordeel verder gemotiveerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Appellante heeft niet aannemelijk gemaakt dat het fosfaatrechtenstelsel een individuele en buitensporige last op haar legt. Het College overweegt hiertoe als volgt.</para>
+      <para />
+      <paragroup>
+        <nr>6.4.1</nr>
+        <para>Bij de beoordeling of de last voor de betrokken melkveehouder buitensporig is, weegt het College alle betrokken belangen van het individuele geval. In dat verband is vooral relevant de mate waarin het fosfaatrechtenstelsel de individuele melkveehouder raakt. Niet ieder vermogensverlies als gevolg van het fosfaatrechtenstelsel en het toegekende fosfaatrecht vormt een buitensporige last. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.4.2</nr>
+        <para>Zoals het College heeft overwogen in zijn uitspraak van 25 februari 2020 (ECLI:NL:CBB:2020:114, onder 6.7) ontstaat de last op 1 januari 2018, het moment waarop het fosfaatrechtenstelsel van kracht werd, en bestaat de last van de individuele melkveehouder in beginsel uit het aantal fosfaatrechten dat hij als gevolg van het fosfaatrechtenstel tekortkomt om zijn bestaande, c.q. aantoonbaar voorgenomen, bedrijfsvoering (inclusief de uitbreidingsplannen) te kunnen voeren. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.4.3</nr>
+        <para>In het geval van appellante bestaat de last uit de bij de vaststelling van het fosfaatrecht gehanteerde generieke korting van 774 kg omdat zij niet als grondgebonden bedrijf is aangemerkt. Het College wil wel aannemen dat appellante door het fosfaatrechtenstelsel financieel wordt geraakt, maar dat alleen is onvoldoende om aan te nemen dat sprake is van een individuele en buitensporige last. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.4.4</nr>
+        <para>Ten aanzien van de toepassing van de generieke korting bij niet-grondgebonden bedrijven heeft het College in de eerder genoemde uitspraak van 25 februari 2020 overwogen dat – met uitzondering van grondgebonden bedrijven – voor alle melkveehouders geldt dat hun fosfaatrecht op grond van artikel 72b van het Uitvoeringsbesluit wordt verminderd. Dat deel van de last draagt iedere (niet-grondgebonden) melkveehouder (vergelijk de uitspraak van het College van 26 november 2019, ECLI:NL:CBB:2019:624, onder 6.4.1). In zoverre is de last (ook) voor de melkveehouder niet individueel, levert de last geen ongelijk geval op en bestaat – ongeacht de bedrijfseconomische gevolgen – in beginsel geen grond om een individuele en buitensporige last aan te nemen. Het betoog van appellante dat in haar geval –  als grensboer met voldoende landbouwgrond tot haar beschikking – wel sprake is van een individuele en buitensporige last, volgt het College niet. Het College is in het geval van appellante ook niet gebleken van omstandigheden op grond waarvan zij de korting niet zelf zou moeten kunnen dragen, zoals dat ook van andere bedrijven die generiek worden gekort wordt verwacht. Dat appellante gebruik maakt van gronden in Duitsland voor haar mestafzet en dat zij stelt een aanzienlijk bedrag kwijt te zijn aan aanvulling van het tekort aan fosfaatrechten is daarvoor niet genoeg. Voor zover appellante ervan uit is gegaan dat zij als grondgebonden zou worden aangemerkt, heeft zij dat op eigen risico gedaan. Uit het feit dat in het kader van de mestverwerking in de Msw een uitzondering is gemaakt voor grensboeren, heeft zij niet af mogen leiden dat dit ook zou gebeuren bij de bepaling van de grondgebondenheid in het kader van het fosfaatrechtenstelsel. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.4.5</nr>
+        <para>De bescherming van het milieu en de volksgezondheid en het voldoen aan de verplichtingen die voortvloeien uit de Nitraatrichtlijn wegen in dit geval zwaarder dan de belangen van appellante. Het bestreden besluit is niet in strijd met artikel 1 van het EP of het gelijkheidsbeginsel. Voor het verlenen van een ontheffing op grond van artikel 38 van de Msw of financiële compensatie is daarom geen plaats. Deze beroepsgrond slaagt niet.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Kosten in bezwaar</emphasis>
+          </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <para>Het College is van oordeel dat appellante terecht heeft aangevoerd dat verweerder in het bestreden besluit ten onrechte geen kostenvergoeding voor de bezwaarprocedure heeft toegekend. Al op 8 september 2016 en 17 mei 2017 heeft appellante verweerder voorzien van gegevens over de melkproductie. Verweerder had gelet daarop kunnen en moeten constateren dat de gegevens op grond waarvan hij het fosfaatrecht van appellante vaststelde niet eenduidig waren. Hij had zich ervan moeten vergewissen dat hij van de juiste gegevens uitging. Het primaire besluit is in de beslissing op bezwaar herroepen. Verweerder is in het bestreden besluit van een hogere melkproductie over 2015 uitgegaan en heeft het fosfaatrecht hoger vastgesteld. Deze herroeping is aan een onrechtmatigheid van verweerder te wijten. Aan de voorwaarden voor een kostenvergoeding als bedoeld in artikel 7:15, tweede lid, van de Algemene wet bestuursrecht (Awb) is voldaan. Deze beroepsgrond slaagt.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Verzoek om schadevergoeding vanwege overschrijding van de redelijke termijn</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Het College stelt vervolgens vast dat de redelijke termijn als bedoeld in artikel 6 van het EVRM is verstreken. Het gaat hier om een niet-punitieve procedure die volgt op een primair besluit dat is bekend gemaakt na 1 februari 2014. In dat geval geldt als uitgangspunt dat de bezwaar- en beroepsfase tezamen niet langer mogen duren dan twee jaar. Daarbij mag de behandeling van het bezwaar ten hoogste een half jaar en de behandeling van het beroep ten hoogste anderhalf jaar duren. Dit behoudens factoren die onder omstandigheden aanleiding kunnen geven overschrijding van deze behandelingsduren gerechtvaardigd te achten. Verweerder heeft het bezwaarschrift op 12 maart 2018 ontvangen. Op het moment van het doen van deze uitspraak is de tweejaartermijn met ruim 7 maanden overschreden. Van factoren die onder omstandigheden aanleiding kunnen geven overschrijding van de behandelingsduur gerechtvaardigd te achten is geen sprake. Appellante heeft daarom recht op € 1.000,- schadevergoeding. Het College stelt vast dat de behandeling van het bezwaar meer dan een half jaar – te weten 10 maanden en 3 weken – in beslag heeft genomen en tevens de behandeling van het beroep meer dan anderhalf jaar – te weten 1 jaar, 7 maanden en 3 weken – heeft geduurd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>In zaken waarin de bestuurlijke en de rechterlijke fase tezamen zo lang hebben geduurd dat de redelijke termijn is overschreden, dient de rechter met het oog op toekenning van een vergoeding voor immateriële schade vanwege dat tijdsverloop te beoordelen op welke wijze de termijnoverschrijding moet worden toegerekend aan de bestuurlijke en aan de rechterlijke fase. De veroordeling tot vergoeding van die schade moet naar evenredigheid daarmee worden uitgesproken ten laste van het bestuursorgaan respectievelijk de Staat. Voor de berekening van het bedrag aan schadevergoeding dat voor rekening komt van verweerder onderscheidenlijk van de Staat wordt de methode gevolgd die is uiteengezet in het arrest van de Hoge Raad van 19 februari 2016 (ECLI:NL:HR:2016:252). Van de overschrijding is na afronden een periode van 5 maanden toe te rekenen aan de bezwaarfase. Dit betekent dat een deel van de overschrijding van de redelijke termijn – 2 maanden – voor rekening van de Staat komt en het resterende deel – 5 maanden – voor rekening van verweerder. Het College zal daarom op de voet van artikel 8:88 van de Awb verweerder veroordelen tot betaling van een bedrag van € 714,30 (5/7 x € 1.000,-) aan appellante en de Staat veroordelen tot betaling van een bedrag van € 285,70 (2/7 x € 1.000,-) aan appellante. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Slotsom </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Uit wat onder 6.5 is overwogen volgt dat het beroep gegrond is. Het bestreden besluit moet, voor zover daarbij geen kostenvergoeding in bezwaar is toegekend, worden vernietigd wegens strijd met artikel 7:15, tweede lid, van de Awb. Het College ziet aanleiding zelf in de zaak te voorzien, in die zin dat verweerder de kosten van appellante in bezwaar moet vergoeden. Die kosten worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld € 1.050,- (1 punt voor het indienen van het bezwaarschrift, 1 punt voor de hoorzitting in bezwaar, met een waarde per punt van € 525,- en een wegingsfactor 1). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Omdat het bestreden besluit pas in beroep is voorzien van een toereikende motivering is dit in strijd met artikel 7:12 van de Awb niet deugdelijk gemotiveerd. Het College ziet aanleiding om dit gebrek te passeren met toepassing van artikel 6:22 van de Awb, aangezien aannemelijk is dat appellante door dit gebrek niet is benadeeld. Met een deugdelijke motivering zou een besluit met gelijke uitkomst zijn genomen. </para>
+      <para />
+      <parablock>
+        <para>9.	Omdat het beroep gegrond is, veroordeelt het College verweerder in de door appellante gemaakte proceskosten in beroep. Deze kosten worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op</para>
+        <para>€ 1.050,- ( 1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1). Tevens ziet het College aanleiding om verweerder en de Staat – nu de overschrijding van de redelijke termijn zowel aan verweerder als aan het College is toe te rekenen – te veroordelen in de kosten die appellante in verband met haar verzoek om schadevergoeding wegens overschrijding van de redelijke termijn redelijkerwijs heeft moeten maken. Deze proceskosten worden vastgesteld op € 262,50 (1 punt voor het indienen van het verzoekschrift en een wegingsfactor 0,5). Om redenen van eenvoud en uitvoerbaarheid dient te worden uitgegaan van een verdeling waarbij verweerder en de Staat ieder de helft betalen van het toe te kennen bedrag.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit, voor zover daarbij geen kostenvergoeding voor de bezwaarprocedure is toegekend;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat verweerder aan appellante de kosten in bezwaar vergoedt ter hoogte van € 1.050,-</para>
+      </listitem>
+    </itemizedlist>
+    <para>- bepaalt dat deze uitspraak in de plaats treedt van het bestreden besluit voor zover dat is vernietigd;</para>
+    <para>- veroordeelt de Staat tot betaling aan appellante van een schadevergoeding van € 285,70;</para>
+    <para>- veroordeelt verweerder tot betaling aan appellante van een schadevergoeding van € 714,30;</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 345,- aan appellante te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van appellante in beroep tot een bedrag van in totaal € 1.181,25;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt de Staat in de proceskosten tot een bedrag van € 131,25.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.C. Stoové, in aanwezigheid van mr. N.C.H. Vrijsen, griffier. De beslissing is in het openbaar uitgesproken op 3 november 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De raadsheer is verhinderd te tekenen	De griffier is verhinderd te tekenen</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

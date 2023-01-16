@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:5160</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-19T13:35:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 1828</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5160">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5160</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-19T13:34:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:5160 Rechtbank Amsterdam , 14-10-2020 / AWB - 20 _ 1828</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:5160:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bijzonder bijstand kosten rechtsbijstand - draagkracht - schuld bij de Belastingdienst - beleid van de gemeente onduidelijk - motiveringsgebrek - gegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:5160:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <section>
+    <title>RECHTBANK AMSTERDAM</title>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 20/1828 </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>uitspraak van de enkelvoudige kamer in de zaak tussen</title>
+    <para />
+  </section>
+  <section>
+    <title>
+      [eiseres] , te Amsterdam, eiseres</title>
+    <para>(gemachtigde: mr. F.R.G. Keijzer),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van de gemeente Amsterdam, verweerder</para>
+      <para>(hierna: de gemeente)</para>
+      <para>(gemachtigde: I. van Kesteren)</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Conclusie</title>
+    <para />
+    <parablock>
+      <para>1.	De rechtbank stelt [eiseres] (eiseres)<emphasis role="bold"> in het gelijk</emphasis>. De gemeente motiveerde onvoldoende waarom eiseres over het jaar 2019 voldoende draagkracht had om de bijzondere bijstand voor de kosten van rechtsbijstand zelf te kunnen betalen. De rechtbank legt hieronder uit hoe zij tot dit oordeel is gekomen. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wat is de aanleiding voor deze rechtszaak?</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Eiseres deed op 17 september 2019 bij de gemeente een aanvraag om bijzondere bijstand voor de kosten van rechtsbijstand op grond van de Participatiewet. Ze vroeg om een bedrag van € 145,- voor de eigen bijdrage die ze moest betalen voor haar advocaat. Daarnaast vroeg ze om een bedrag van € 47,- voor het griffierecht dat ze moest betalen voor de procedure bij de rechtbank. In totaal wilde ze bijzondere bijstand voor een bedrag van € 192,-. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De gemeente wees de aanvraag van eiseres af in het besluit op bezwaar van 6 maart 2020.<footnote-ref linkend="_dd19c0b0-38b7-403a-9cb7-97674e70a7e5" /> De gemeente geeft op grond van de regels alleen bijzondere bijstand als iemand de kosten zelf niet kan betalen. Volgens de gemeente heeft eiseres voldoende draagkracht om de kosten voor rechtsbijstand zelf te kunnen betalen. Eiseres is het hier niet mee eens en startte daarom deze procedure bij de rechtbank. De rechtbank hield een Skypezitting in deze zaak op 28 september 2020, waar de gemachtigden van de gemeente en van eiseres aanwezig waren. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Wat is het standpunt van eiseres?</title>
+    <para />
+    <parablock>
+      <para>3.	Op de zitting bleek dat eiseres nog één beroepsgrond aanvoert tegen de besluitvorming van de gemeente. Anders dan de gemeente concludeert, heeft eiseres onvoldoende draagkracht om de kosten voor rechtsbijstand zelf te betalen. De gemeente heeft een onjuiste draagkrachtberekening gemaakt, omdat zij geen rekening hield met de schuld die eiseres maandelijks aan de Belastingdienst moet terugbetalen. Het gaat om  </para>
+      <para>een bedrag van € 829,- per maand.  </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wat is het standpunt van de gemeente?</title>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De gemeente voert aan dat de rechtbank in de uitspraak van 21 januari 2020 al een oordeel gaf over deze kwestie.<footnote-ref linkend="_d48e3849-afa8-4cca-abda-a71c29fe0540" /> De beroepsgrond van eiseres is al beoordeeld door de rechtbank en de gemeente werd in het gelijk gesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>In de eerdere zaak bij de rechtbank ging het om een eerdere aanvraag van eiseres in het jaar 2019 om bijzondere bijstand voor de kosten van rechtsbijstand. De gemeente wees deze aanvraag ook af, omdat eiseres voldoende draagkracht had. De rechtbank stelde de gemeente in het gelijk en oordeelde - samengevat weergegeven - dat de gemeente voor de draagkrachtberekening geen rekening hoeft te houden met de schuld van eiseres bij de Belastingdienst, ook al deed de gemeente dit in een ander besluit met betrekking tot eiseres wel. De schuld van de Belastingdienst ziet op teveel ontvangen huurtoeslag. Op grond van de regels wordt geen rekening gehouden met schulden die betrekking hebben op toeslagen die terugbetaald moeten worden. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="bold">Waarom oordeelt de rechtbank dat de gemeente haar besluitvorming onvoldoende motiveerde?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De rechtbank komt tot een ander oordeel</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>De rechtbank komt wat betreft het vraagstuk over de schuld bij de Belastingdienst nu tot een ander oordeel dan in de eerdere uitspraak op 21 januari 2020. Tegen de eerdere uitspraak is hoger beroep ingesteld, zodat deze nog geen gezag van gewijsde heeft. Dit betekent dat de uitspraak niet in rechte vaststaat, omdat de hoger beroepsrechter er nog een oordeel over moet geven. De rechtbank - nu in de persoon van een andere rechter dan bij de eerdere zaak - kan daarom tot een ander oordeel komen dan zij eerder deed. De rechtbank legt hieronder uit waarom zij tot een ander oordeel komt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het beoordelingskader</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>Eén van de vereisten om in aanmerking te komen voor bijzondere bijstand, is dat iemand onvoldoende draagkracht moet hebben om de kosten zelf te kunnen betalen. De gemeente moet bij een aanvraag om bijzondere bijstand dus komen met een draagkrachtberekening.<footnote-ref linkend="_1b18e983-b1cc-4b8c-accd-530d4004c82a" /> De hoger beroepsrechter oordeelde in 2006 dat de gemeente bij de berekening van de draagkracht rekening moet houden met executoriaal beslag. Bij een executoriaal beslag is er een uitspraak  van een rechtscollege, waarmee een schuldeiser direct beslag kan leggen op het inkomen van de schuldenaar zodat hij het geld van de schuld terugkrijgt. De gemeente moet rekening houden met beslag op het inkomen, omdat er over het deel van het inkomen waar beslag op ligt niet daadwerkelijk kan wordt beschikt: het kan niet worden uitgegeven.<footnote-ref linkend="_104b54f2-f7a0-4f83-943b-2d3b1f1dd240" /></para>
+        <para>
+          <emphasis role="italic">Motiveringsgebrek</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De rechtbank stelt vast dat de gemeente in haar beleid <emphasis role="italic">(dat hieronder is opgenomen in de bijlage)</emphasis> wel rekening houdt met beslag op  inkomen, als dit beslag daadwerkelijk wordt ingehouden. De gemeente hoeft volgens haar beleid echter geen rekening te houden met verrekeningen van toeslagen door de Belastingdienst, omdat het dan niet gaat om beslaglegging. De rechtbank oordeelt dat deze beleidskeuze van de gemeente zonder nadere toelichting onbegrijpelijk is. Zowel bij beslaglegging met een executoriale titel als bij het maandelijks terugbetalen van een schuld aan de Belastingdienst, kan iemand namelijk niet beschikken over dat deel van het inkomen. De Belastingdienst heeft namelijk een bijzonere positie. Als iemand zijn schuld aan de Belastingdienst niet terugbetaalt, kan de Belastingdienst direct beslagleggen op het inkomen zonder tussenkomst van de rechter. De rechtbank begrijpt daarom niet het onderscheid dat de gemeente maakt in haar beleid. Anders dan de rechtbank oordeelde in de uitspraak van 21 januari 2020, kan de gemeente dus niet zonder nadere motivering uitgaan van haar beleid. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De gevolgen van het oordeel van de rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>5.4.1.</nr>
+        <para>De gemeente motiveerde dus onvoldoende waarom zij bij de draagkrachtberekening geen rekening hield met de schuld die eiseres heeft bij de Belastingdienst. Het beroep is daarom gegrond en de rechtbank vernietigt het bestreden besluit. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>5.4.2.</nr>
+        <para>De rechtbank kan niet zelf in de zaak voorzien, omdat de gemeente een nieuwe draagkrachtberekening moet maken en deze beter moet motiveren. De gemeente zal daarom een nieuw besluit moeten nemen met inachtneming van deze uitspraak. De rechtbank stelt hiervoor een termijn van zes weken. Als de gemeente in hoger beroep gaat tegen deze uitspraak, moet eerst het oordeel van de hoger beroepsrechter worden afgewacht. Deze uitspraak treedt dan namelijk pas in werking als op het hoger beroep is beslist of de termijn voor het instellen van hoger beroep is verstreken. </para>
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section>
+    <title>Krijgt eiseres de kosten van deze procedure vergoed?</title>
+    <para />
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Omdat de rechtbank eiseres in het gelijk stelt, bepaalt zij dat de gemeente aan eiseres het door haar betaalde griffierecht voor deze procedure van € 48,- vergoedt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Eiseres schakelde voor deze procedure een advocaat in. De rechtbank veroordeelt de gemeente in de proceskosten die eiseres daarvoor maakte.<footnote-ref linkend="_a1dc386d-a945-4601-b39c-d114c953cabe" /> Deze kosten stelt de rechtbank vast op € 1050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen op de Skypezitting, met een waarde per punt van € 525,- en een wegingsfactor 1).</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <para>- verklaart het beroep gegrond; </para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- draagt de gemeente op binnen zes weken na het krijgen van gezag van gewijsde van deze uitspraak een nieuw besluit te nemen op het bezwaar, met inachtneming van deze uitspraak;</para>
+    <para>- draagt de gemeente op het betaalde griffierecht van € 48,- aan eiseres te vergoeden;</para>
+    <para>- veroordeelt de gemeente in de proceskosten van eiseres tot een bedrag van € 1050,-.</para>
+    <para />
+    <parablock>
+      <para>Dit is de uitspraak van mr. H.J. Doets, rechter, tot stand gekomen in samenwerking met </para>
+      <para>mr. A. Teggelaar, gerechtsjurist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Rechter </para>
+      <para>						Gerechtsjst</para>
+      <para>(griffier op zitting)</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Bent u het niet eens met deze beslissing?</title>
+    <para />
+    <parablock>
+      <para>Partijen kunnen tegen deze uitspraak binnen zes weken na verzending van de uitspraak hoger beroep instellen bij de Centrale Raad van Beroep, Postbus 16002, 3500 DA Utrecht. Burgers kunnen ook digitaal hoger beroep instellen (www.rechtspraak.nl). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als hoger beroep is ingesteld, kunnen partijen bij de voorzieningenrechter van de hogerberoepsrechter verzoeken om het treffen van een voorlopige voorziening.<footnote-ref linkend="_dcb27240-96fb-48b2-93cd-7e7388888ff7" /> Aan het instellen van hoger beroep en het indienen van een voorlopige voorziening zijn kosten verbonden. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>BIJLAGE <?linebreak?>Beoordelingskader</title>
+    <para />
+  </section>
+  <section>
+    <title>Participatiewet</title>
+    <para />
+    <parablock>
+      <para>Artikel 35</para>
+      <para>1. Iemand heeft recht op bijzondere bijstand als diegene niet beschikt over de middelen om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en deze kosten naar het oordeel van het college niet kunnen worden voldaan uit de bijstandsnorm, de individuele inkomenstoeslag, de individuele studietoeslag, het vermogen en het inkomen voor zover dit meer bedraagt dan de bijstandsnorm, waarbij artikel 31, tweede lid, en artikel 34, tweede lid, niet van toepassing zijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij de toepassing van artikel 35, eerste lid, van de Pw moet volgens vaste rechtspraak van de Centrale Raad van Beroep (de Raad) eerst worden beoordeeld of de kosten waarvoor bijzondere bijstand wordt gevraagd zich voordoen, vervolgens of die kosten in het individuele geval van de betrokkene noodzakelijk zijn en daarna of die kosten voortvloeien uit bijzondere omstandigheden. Ten slotte moet de vraag worden beantwoord of de kosten kunnen worden voldaan uit de bijstandsnorm, de langdurigheidstoeslag, het vermogen en het inkomen voor zover dit meer bedraagt dan de bijstandsnorm. Dit betekent dat verweerder moet kijken of een persoon voldoende draagkracht heeft. Op dit punt heeft verweerder op grond van deze bepaling een zekere beoordelingsvrijheid.<footnote-ref linkend="_95d3a6ea-3d42-4ce9-a37b-ff9a79e89fc5" /></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Beleidsregels Participatiewet</title>
+    <para />
+    <parablock>
+      <para>Artikel 3.2</para>
+      <para>8. Inkomen dat in het kader van een minnelijke schuldregeling wordt aangewend voor de aflossing van een schuldsaneringskrediet bij de Gemeentelijke Kredietbank of voor de aflossing van een wettelijke schuldregeling in het kader van de Wet Schuldsanering Natuurlijke Personen, wordt niet tot de draagkracht gerekend.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Beleidsvoorschriften Werk, Participatie en Inkomen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">9.3.2.4 Draagkracht uit inkomen</emphasis>
+      </para>
+      <para>Draagkracht leid je af van het inkomen boven de maximaal van toepassing zijnde bijstandsnorm. Dat is 100% van het Wettelijk Minimumloon (WML) voor echtparen en/of samenwonenden, en 70% daarvan (WML) voor alleenstaanden (met kinderen). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Uitzondering 2</emphasis>
+        <?linebreak?>Op grond van een rechterlijke uitspraak dient inkomen waarop beslag ligt buiten een draagkrachtberekening te blijven. Dit alleen als er daadwerkelijk wordt ingehouden. Zie ook bij: “Let op”.</para>
+      <para>Beslaglegging is geen reden om (extra) bijstand te verstrekken. Beslaglegging is net als schuldaflossing, niet van invloed op de reserveringsmogelijkheid die in elk inkomen geacht moet worden aanwezig te zijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Let op</emphasis>
+        <?linebreak?>Bestuursrechtelijke premieheffing Zorgverzekeringswet (Bronheffing) lijkt op beslag maar is anders van aard. De Bronheffing bestaat voor een deel uit vervangende premie voor de basisverzekering en voor een deel uit een boete. De Bronheffing is bedoeld als drukmiddel om tot een schuldregeling te komen bij de zorgverzekeraar voor een (oude) premieachterstand. Zo’n regeling kan elk moment ingaan. Zodra er een regeling is getroffen en er een stabilisatieovereenkomst is afgesloten, meldt de Zorgverzekeraar de betrokkene af voor de Bronheffing.</para>
+      <para>Als er naast Bronheffing beslag ligt heeft dat invloed op de hoogte van het beslag. Het kan voorkomen dat het beslag (nog) niet, of maar deels, kan worden geëffectueerd. Alleen geëffectueerd beslag verlaagt de draagkracht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Vrijlating van inkomsten</emphasis>
+      </para>
+      <para>Inkomsten die genoemd staan in artikel 31 lid 2 Participatiewet, zoals kindertoeslag, kinderbijslag, toeslag kinderopvang, huurtoeslag en zorgtoeslag, worden niet tot de middelen gerekend waarmee rekening gehouden wordt en dus niet gekort op de uitkering. Dit geldt ook als iemand in een instelling verblijft. Deze inkomsten kunnen niet buiten beschouwing blijven bij een aanvraag bijzondere bijstand voor hetzelfde doel. Zo neem je bijvoorbeeld de ontvangen toeslag voor kinderopvang wel mee bij een aanvraag om bijzondere bijstand voor de kosten van kinderopvang. Deze vergoedingen worden dan in mindering gebracht op de te maken kosten.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_dd19c0b0-38b7-403a-9cb7-97674e70a7e5" label="1">
+    <para> In eerste instantie wees de gemeente de aanvraag in af in het primaire besluit van 28 november 2019. De gemeente verklaarde het bezwaar van eiseres hiertegen ongegrond in het besluit op bezwaar van 6 maart 2020. Eiseres ging hiertegen in beroep bij de rechtbank op 26 april 2020. </para>
+  </footnote>
+  <footnote id="_d48e3849-afa8-4cca-abda-a71c29fe0540" label="2">
+    <para> Rechtbank Amsterdam, 21 januari 2020 (AMS 19/4801).</para>
+  </footnote>
+  <footnote id="_1b18e983-b1cc-4b8c-accd-530d4004c82a" label="3">
+    <para> Zie voor een uitgebreid beoordelingskader met de relevante regels de bijlage bij deze uitspraak. </para>
+  </footnote>
+  <footnote id="_104b54f2-f7a0-4f83-943b-2d3b1f1dd240" label="4">
+    <para> Centrale Raad van Beroep, 28 maart 2006 (ECLI:NL:CRVB:2006:AV8374). Onder verwijzing naar de uitspraak van de rechtbank Gelderland van 16 september 2020 (ECLI:NL:RBGEL:2020:4499) gaat de rechtbank ervan uit dat de Centrale Raad van Beroep deze lijn niet heeft verlaten met haar uitspraak van 14 februari 2017 (ECLI:NL:CRVB:2017:501), omdat deze uitspraak uit 2017 ziet op een ander vraagstuk.</para>
+  </footnote>
+  <footnote id="_a1dc386d-a945-4601-b39c-d114c953cabe" label="5">
+    <para>De hoogte van deze kosten volgen uit het Besluit proceskosten bestuursrecht. </para>
+  </footnote>
+  <footnote id="_dcb27240-96fb-48b2-93cd-7e7388888ff7" label="6">
+    <para> Dit betekent dat de hoger beroepsrechter een voorlopige uitspraak kan doen, als partijen de uitkomst van de procedure in hoger beroep niet kunt afwachten vanwege een spoedeisend belang. </para>
+  </footnote>
+  <footnote id="_95d3a6ea-3d42-4ce9-a37b-ff9a79e89fc5" label="7">
+    <para> Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep van 14 februari 2017, ECLI:NL:CRVB:2017:501.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

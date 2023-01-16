@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:299</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-13T15:24:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/1759</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:299">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:299</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-13T15:24:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:299 Rechtbank Amsterdam , 22-01-2020 / AMS 19/1759</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:299:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WIA-uitkering vastgesteld in klasse 65-80%. Besluit berust op deugdelijke medische en arbeidskundige grondslag. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:299:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/1759 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 22 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser 1] , te Amsterdam, eiser,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (Uwv),</bridgehead>
+    <para>(gemachtigde: R. Hopster).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Op 29 augustus 2018 (het primaire besluit I) heeft het Uwv [eiser 1] een loongerelateerde WGA<footnote-ref linkend="_44bc5712-b08a-4961-b9c5-5a643dcd3f27" />-uitkering toegekend. <?linebreak?></para>
+      <para>Op 4 september 2018 (het primaire besluit II) heeft het Uwv [eiser 1] meegedeeld dat zijn uitkering per 30 september 2018 wordt omgezet in een WGA-vervolguitkering. </para>
+      <para>Op 11 februari 2019 (het bestreden besluit) heeft het Uwv de bezwaren van [eiser 1] gegrond verklaard.</para>
+      <para>
+        [eiser 1] heeft beroep ingesteld. Het Uwv heeft een verweerschrift ingediend. </para>
+      <para>De zaak is behandeld op de zitting van 11 december 2019. [eiser 1] was aanwezig. Het Uwv heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. [eiser 1] werkte in het verleden als [functie] voor ongeveer 36 uur per week. Op 27 juli 2016 is hij uitgevallen voor dat werk met knieklachten door artrose en concentratieproblemen.</para>
+    <para />
+    <para>2. Op 14 juni 2018 heeft [eiser 1] een WIA-uitkering<footnote-ref linkend="_287998af-bbb0-41e0-b840-de01c1f423e9" /> aangevraagd. Naar aanleiding daarvan heeft het Uwv medisch en arbeidskundig onderzoek laten uitvoeren. De conclusie van dat onderzoek is dat [eiser 1] per 25 juni 2018 recht heeft op een loongerelateerde WGA-uitkering en per 30 september 2018 in een WGA-vervolguitkering. </para>
+    <para />
+    <para>3. [eiser 1] heeft bezwaar gemaakt. Naar aanleiding daarvan heeft het Uwv opnieuw medisch en arbeidskundig onderzoek laten uitvoeren. De conclusie van dat onderzoek is dat [eiser 1] per 25 juni 2018 voor 70,22% en per 30 september 2018 voor 70,25% arbeidsongeschikt is. </para>
+    <para />
+    <para>4. In het bestreden besluit heeft het Uwv deze bevinden overgenomen en beslist dat [eiser 1] nog steeds per 25 juni 2018 recht heeft op een loongerelateerde WGA-uitkering en per 30 september 2018 op een WGA-vervolguitkering. </para>
+    <para />
+    <bridgehead role="italic">Het standpunt van [eiser 1]</bridgehead>
+    <para />
+    <para>5. In beroep voert [eiser 1] aan dat zijn lichamelijke en psychische klachten de afgelopen tien jaar zijn verergerd. Hij heeft last van vermoeidheidsklachten, slaapapneu, constante gewrichtspijnen, piekeren, depressie, artrose, humaan immunodeficiëntievirus (HIV) en bijwerkingen als gevolg van medicatie. Volgens [eiser 1] hadden meer beperkingen en in ieder geval een verdergaande urenbeperking moeten worden aangenomen. Ter onderbouwing van dit standpunt verwijst hij naar de brief van zijn revalidatiearts van 31 oktober 2019. Als gevolg van deze klachten en beperkingen acht hij zichzelf in het geheel niet in staat om te werken en had hij volledig arbeidsongeschikt moeten worden verklaard.</para>
+    <para> </para>
+    <bridgehead role="italic">Beoordeling door de rechtbank</bridgehead>
+    <para />
+    <para>6. De rechtbank moet in deze zaak beoordelen of een zorgvuldig medisch en arbeidskundig onderzoek heeft plaatsgevonden op basis waarvan het Uwv heeft kunnen concluderen dat [eiser 1] op 25 juni 2018 voor 70,22% en op 30 september 2018 voor 70,25% arbeidsongeschikt is.</para>
+    <para />
+    <bridgehead role="underline">De medische beoordeling</bridgehead>
+    <para>7. De rechtbank overweegt dat als uitgangspunt geldt dat het Uwv in beginsel mag afgaan op de juistheid van de bevindingen van een verzekeringsarts. Dit is anders wanneer het onderzoek van de verzekeringsarts niet zorgvuldig of niet volledig is geweest, inconsistenties bevat of andere gebreken vertoont.</para>
+    <para />
+    <para>8. De rechtbank is van oordeel dat het onderzoek van de verzekeringsarts bezwaar en beroep voldoet aan de gestelde eisen. Daarbij is voor de rechtbank van belang dat de verzekeringsarts bezwaar en beroep kennis heeft genomen van het rapport van de eerste verzekeringsarts, het medisch dossier van [eiser 1] heeft bestudeerd en de beschikbare medische informatie uit de behandelend sector bij zijn beoordeling heeft betrokken. Daarnaast heeft hij kennisgenomen van het verslag van de hoorzitting van 18 januari 2019. In de medische rapportage van de verzekeringsarts bezwaar en beroep worden de bevindingen naar aanleiding van dit onderzoek helder omschreven. Ook wordt uitgelegd waarom er naast de reeds gestelde beperkingen nog extra beperkingen worden aangenomen voor samenwerken, leidinggeven een veelvuldig patiëntencontact. Verder wordt uitgelegd dat [eiser 1] beperkt is in zijn fysieke en psychische mogelijkheden, maar dat dit niet zodanig is dat sprake is van een situatie van geen benutbare mogelijkheden.<footnote-ref linkend="_e4107073-1548-479f-a9b5-aae373400419" /> Bij [eiser 1] is geen sprake van bijvoorbeeld een ziekenhuisopname, chronische bedlegerigheid, afhankelijkheid of een onvermogen tot basaal persoonlijk functioneren. Volledige arbeidsongeschiktheid is dan ook niet op zijn plaats.<footnote-ref linkend="_c84c48d7-54ff-45d4-b800-5cffa6ff68e1" /></para>
+    <para />
+    <para>9. De rechtbank volgt [eiser 1] niet in zijn standpunt dat ook beperkingen hadden moeten worden aangenomen voor zijn hoog sensitieve persoonlijkheid (HSP) en de bijwerkingen van de medicatie die hij gebruikt. Uit het aanvullende rapport van de verzekeringsarts bezwaar en beroep van 5 december 2019 volgt dat HSP geen erkende diagnose is en de medicatie juist wordt voorgeschreven om klachten te verminderen en het functioneren te verbeteren. Bij ernstige bijwerkingen zal altijd naar andere medicatie worden omgezien. Voor deze klachten kunnen daarom geen beperkingen worden aangenomen. De ingebrachte (medische) stukken bevatten bovendien geen medisch oordeel over deze klachten, maar vermelden slechts dat [eiser 1] aangeeft er last van te hebben of last van deze klachten zou kunnen krijgen. Uit de informatie van de revalidatiearts van 31 oktober 2019 blijkt verder dat sprake is van HIV, slaapapneu, depressieve klachten en klachten als gevolg van polyartrose. Uit het dossier leidt de rechtbank af dat deze informatie al bekend was bij de verzekeringsarts bezwaar en beroep en bij de beoordeling is betrokken. </para>
+    <para />
+    <para>10. De rechtbank volgt [eiser 1] evenmin in zijn standpunt dat verdergaande beperkingen hadden moeten worden aangenomen voor zijn vermoeidheidsklachten. De verzekeringsarts bezwaar en beroep heeft voor deze klachten al de beperkingen aangenomen dat [eiser 1] ’s nachts niet kan werken, geen wisseldiensten kan draaien en gemiddeld vier uren per dag en 20 uren per week kan werken. Dat verdergaande beperkingen hadden moeten worden aangenomen voor het aantal te werken uren per dag en/of week, volgt niet uit de overgelegde medische stukken. Naar het oordeel van de rechtbank is dan ook voldoende rekening gehouden met de beperkingen van [eiser 1] .</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De arbeidskundige beoordeling</emphasis>
+      </para>
+      <para />
+    </parablock>
+    <para>11. De arbeidsdeskundige bezwaar en beroep heeft de theoretische verdiencapaciteit van [eiser 1] gebaseerd op de volgende functies:<?linebreak?>- productiemedewerker industrie (SBC-code 111180);<?linebreak?>- huishoudelijk medewerker gebouwen (SBC-code 111334);<?linebreak?>- winkelhulpkracht (SBC-code 111210);<?linebreak?>- medewerker tuinbouw (SBC-code 111010);<?linebreak?>- barbediende, buffetbediende, kantinebediende (SBC-code 111080).</para>
+    <para />
+    <para>12. [eiser 1] meent dat de geduide functies zijn belastbaarheid overschrijden op de items 4.19 (lopen tijdens het werk) en 5.4 (staan tijdens het werk). De verzekeringsarts bezwaar en beroep heeft immers de beperkingen aangenomen dat hij niet meer dan vier uren per dag kan lopen en staan. Binnen alle geduide functies is sprake van lopen en staan. Daarnaast stelt [eiser 1] dat de functies winkelhulpkracht, barbediende, buffetbediende en kantinebediende ongeschikt zijn omdat hij het geluid niet kan verdragen. </para>
+    <para> </para>
+    <para>13. Uitgaande van de belastbaarheid van [eiser 1] zoals deze is vastgelegd in de functionele mogelijkhedenlijst (FML) van 29 januari 2019 kunnen de door hem tegen de geselecteerde functies aangevoerde gronden niet slagen. De door [eiser 1] in beroep gestelde overschrijdingen in de geselecteerde functies betreffen aspecten waarop hij in de FML niet beperkt is geacht en belastende factoren waarvan in de functies geen sprake is.</para>
+    <para />
+    <para>14. De rechtbank heeft in het dossier geen aanknopingspunten gevonden om aan te nemen dat de geselecteerde functies in medisch opzicht niet geschikt zijn voor [eiser 1] . Daar waar sprake is van signaleringen en mogelijke overschrijdingen heeft de arbeidsdeskundige bezwaar en beroep toegelicht waarom de geselecteerde functies geschikt zijn. Uit de resultaat functiebeoordeling bij het rapport van de arbeidsdeskundige bezwaar en beroep van 7 februari 2019 volgt niet dat binnen de functies sprake is van langer dan vier uren achtereen lopen en staan. De arbeidsdeskundige bezwaar en beroep heeft bovendien aangegeven dat het lopen en staan elkaar afwisselen en de aangegeven duur en frequentie verdeeld zijn over de gehele werkdag. Ook het betoog van [eiser 1] dat de functies winkelhulpkracht, barbediende, buffetbediende en kantinebediende niet geschikt zijn omdat hij het geluid niet kan verdagen, slaagt niet. Op dit aspect is immers geen beperking aangenomen in de FML. Dit leidt tot de conclusie dat het bestreden besluit ook op een deugdelijke arbeidskundige grondslag berust.</para>
+    <para />
+    <bridgehead role="underline">Conclusie</bridgehead>
+    <para />
+    <para>15. Uit het voorgaande volgt dat [eiser 1] geen gelijk krijgt. Het beroep is ongegrond.</para>
+    <para />
+    <para>16. Voor een vergoeding van het door eiser betaalde griffierecht bestaat bij deze uitkomst geen aanleiding. </para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. K. Oldekamp-Bakker, rechter, in aanwezigheid van mr. M. Gayir, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 22 januari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_44bc5712-b08a-4961-b9c5-5a643dcd3f27" label="1">
+    <para> WGA: Werkhervatting Gedeeltelijk Arbeidsgeschikten.</para>
+  </footnote>
+  <footnote id="_287998af-bbb0-41e0-b840-de01c1f423e9" label="2">
+    <para> WIA-uitkering: uitkering op grond van de Wet werk en inkomen uit arbeidsvermogen. </para>
+  </footnote>
+  <footnote id="_e4107073-1548-479f-a9b5-aae373400419" label="3">
+    <para> Zie ook het rapport van de eerste verzekeringsarts van 22 augustus 2018, pagina 6. </para>
+  </footnote>
+  <footnote id="_c84c48d7-54ff-45d4-b800-5cffa6ff68e1" label="4">
+    <para> Artikel 2, vijfde lid, van het Schattingsbesluit.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

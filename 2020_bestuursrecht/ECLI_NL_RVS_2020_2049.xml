@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:2049</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-28T09:48:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-26</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201907497/1/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2019:6795" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">Eerste aanleg: ECLI:NL:RBROT:2019:6795, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2049">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2049</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-26T10:16:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:2049 Raad van State , 26-08-2020 / 201907497/1/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:2049:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 5 april 2019 heeft de burgemeester van Schiedam [appellante] onder aanzegging van bestuursdwang gelast [coffeeshop], gevestigd in het pand aan de [locatie] te Schiedam, met ingang van 10 april 2019 voor de duur van drie maanden te sluiten. Op 6 maart 2019 heeft de moeder van een minderjarige bij het team Toezicht en Handhaving gemeld dat er in de coffeeshop meerdere keren softdrugs zijn verkocht aan haar minderjarige kind. Naar aanleiding hiervan hebben toezichthouders inzage verzocht in de camerabeelden van de coffeeshop. Uit de ter beschikking gestelde camerabeelden is gebleken dat op 3 maart 2019 en op 5 maart 2019 toegang is verschaft tot de coffeeshop aan een minderjarige en dat aan deze persoon ook softdrugs zijn verkocht, zonder dat de identiteit van deze persoon is gecontroleerd.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:2049:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201907497/1/A3.</para>
+    <para>Datum uitspraak: 26 augustus 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>de burgemeester van Schiedam,</para>
+    <para>appellant,</para>
+    <para>tegen de uitspraak van de voorzieningenrechter van de rechtbank Rotterdam (hierna: de rechtbank) van 26 augustus 2019 in zaken nrs. 19/3641 en 19/3640 in het geding tussen:</para>
+    <para>[appellante]</para>
+    <para>en</para>
+    <para>de burgemeester.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 5 april 2019 heeft de burgemeester [appellante] onder aanzegging van bestuursdwang gelast [coffeeshop], gevestigd in het pand aan de [locatie] te Schiedam, met ingang van 10 april 2019 voor de duur van drie maanden te sluiten.</para>
+    <para>Bij besluit van 16 juli 2019 heeft de burgemeester het door [appellante] daartegen gemaakte bezwaar ongegrond verklaard, het besluit van 5 april 2019 in stand gelaten en bepaald dat het tijdvak van de sluiting begint op 28 augustus 2019.</para>
+    <para>Bij uitspraak van 26 augustus 2019 heeft de rechtbank het door [appellante] daartegen ingestelde beroep gegrond verklaard, het besluit van 16 juli 2019 vernietigd, aan [appellante] een bestuurlijke waarschuwing gegeven en bepaald dat haar uitspraak in de plaats treedt van het vernietigde besluit. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft de burgemeester hoger beroep ingesteld.</para>
+    <para>[appellante] heeft een schriftelijke uiteenzetting gegeven en nadere stukken ingediend.</para>
+    <para>De burgemeester heeft een nader stuk ingediend.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 22 juni 2020, waar de burgemeester, vertegenwoordigd door P. Meuldijk, en [appellante], vertegenwoordigd door [gemachtigde], bijgestaan door mr. I.A. Kamans, advocaat te Rotterdam, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>1.    De voor deze zaak relevante bepalingen zijn opgenomen in de bijlage die deel uitmaakt van deze uitspraak.</para>
+    <para>Inleiding</para>
+    <para>2.    Op 6 maart 2019 heeft de moeder van een minderjarige bij het team Toezicht en Handhaving gemeld dat er in de coffeeshop meerdere keren softdrugs zijn verkocht aan haar minderjarige kind. Naar aanleiding hiervan hebben toezichthouders inzage verzocht in de camerabeelden van de coffeeshop. Uit de ter beschikking gestelde camerabeelden is gebleken dat op 3 maart 2019 en op 5 maart 2019 toegang is verschaft tot de coffeeshop aan een minderjarige en dat aan deze persoon ook softdrugs zijn verkocht, zonder dat de identiteit van deze persoon is gecontroleerd.</para>
+    <para>2.1.    In het besluit van 5 april 2019 heeft de burgemeester zich op het standpunt gesteld dat daarmee is gehandeld in strijd met het in paragraaf 2.1. van het Coffeeshopbeleid Schiedam 2014-2018 (hierna: het Coffeeshopbeleid) neergelegde voorschrift dat coffeeshops geen bezoekers onder de 18 jaar mogen toelaten noch cannabis aan hen mogen verkopen. Om deze reden heeft de burgemeester krachtens artikel 13b van de Opiumwet gelast dat de coffeeshop voor de duur van drie maanden wordt gesloten. Bij het bepalen van deze termijn is de burgemeester afgeweken van de termijn van zes maanden die is opgenomen in de handhavingstabel die hoort bij het Coffeeshopbeleid (hierna: de handhavingstabel). De reden voor deze afwijking is dat [appellante] direct na het constateren van de overtredingen maatregelen heeft getroffen om herhaling te voorkomen.</para>
+    <para>2.2.    In het besluit van 16 juli 2019 heeft de burgemeester het besluit van 5 april 2019 gehandhaafd. De burgemeester heeft zich daarbij op het standpunt gesteld dat de door [appellante] aangevoerde feiten en omstandigheden, te weten dat zij na de overtredingen direct maatregelen heeft genomen en dat zich nooit eerder incidenten hebben voorgedaan, geen reden vormen om krachtens artikel 4:84 van de Algemene wet bestuursrecht (hierna: Awb) van de sluiting af te zien of de duur daarvan te verkorten. Volgens de burgemeester is door de verkorting van de sluitingsduur tot drie maanden al voldoende rekening gehouden met die feiten en omstandigheden.</para>
+    <para>Oordeel rechtbank</para>
+    <para>3.    De rechtbank heeft overwogen dat het Coffeeshopbeleid op het moment van de besluiten van 5 april 2019 en 16 juli 2019, anders dan [appellante] heeft aangevoerd, van toepassing was. Daarnaast heeft zij overwogen dat dit beleid niet onredelijk is, en dat de burgemeester zich terecht op het standpunt heeft gesteld dat voormeld in paragraaf 2.1. neergelegd voorschrift uit het Coffeeshopbeleid is overtreden door in een tijdsbestek van drie dagen twee keer aan dezelfde minderjarige toegang tot de coffeeshop te verlenen en aan hem softdrugs te verkopen. Gelet hierop beschikte de burgemeester in dit geval over de bevoegdheid om de coffeeshop te sluiten. Volgens de rechtbank had de burgemeester echter aanleiding moeten zien om op grond van artikel 4:84 van de Awb verdergaand af te wijken van het Coffeeshopbeleid. Hij had moeten volstaan met het opleggen van een waarschuwing. Hieraan heeft de rechtbank ten eerste ten grondslag gelegd dat de burgemeester ter zitting bij de rechtbank heeft toegelicht dat de sluiting van de coffeeshop, anders dan hij in het besluit van 5 april 2019 nog stelde, niet langer tot doel heeft om de loop eruit te halen. Hierdoor lijkt volgens de rechtbank overwegend sprake te zijn van een punitieve sanctie, terwijl de sluiting een herstelsanctie is die bedoeld is om de openbare orde te herstellen. Daarnaast heeft de rechtbank aan haar oordeel ten grondslag gelegd dat het algemeen belang dat volgens de toelichting van de burgemeester met de sluiting wordt gediend in redelijkheid niet kan opwegen tegen de belangen van [appellante] en haar medewerkers. Voor dit oordeel heeft de rechtbank van belang geacht dat de coffeeshop al 17 jaar bestaat en dat voor de incidenten van 3 en 5 maart 2019 nooit andere incidenten hebben plaatsgevonden. Verder heeft zij daaraan ten grondslag gelegd dat [appellante] direct, en nog voordat door de burgemeester een bestuurlijke maatregel was aangekondigd, maatregelen heeft getroffen waardoor de kans dat een soortgelijk incident zich weer zal voordoen is geminimaliseerd. Daardoor, en door het tijdverloop sinds de overtredingen, was er op 16 juli 2019 een verminderde noodzaak om tot sluiting over te gaan. De rechtbank heeft daarbij in aanmerking genomen dat de sluiting grote (financiële) gevolgen heeft voor de medewerkers van de coffeeshop en hun gezinnen.</para>
+    <para>Hoger beroep</para>
+    <para>4.    De burgemeester betoogt dat de rechtbank ten onrechte heeft overwogen dat hij had moeten volstaan met het opleggen van een waarschuwing. Hij voert aan dat de rechtbank voor haar oordeel ten onrechte van belang heeft geacht dat de sluiting in overwegende mate punitief lijkt. In de handhavingstabel, die tot stand is gekomen in samenspraak met het OM, staat dat een coffeeshop bij een eerste overtreding voor zes maanden wordt gesloten. In dit geval heeft hij deze periode al verkort tot drie maanden. De rechtbank heeft volgens de burgemeester niet onderkend dat er geen feiten en omstandigheden zijn op grond waarvan hij tot een verdergaande verkorting had moeten overgaan.</para>
+    <para>4.1.    Zoals de Afdeling eerder heeft overwogen, zie bijvoorbeeld de uitspraak van 29 november 2010, ECLI:NL:RVS:2017:3251, strekt een op artikel 13b van de Opiumwet gebaseerd sluitingsbevel tot uitoefening van bestuursdwang in de zin van artikel 5:21 van de Awb. De toepassing van bestuursdwang strekt er in het algemeen toe een overtreding te beëindigen en herhaling daarvan te voorkomen. De sluiting van een pand kan op zichzelf als herstelsanctie worden aangemerkt als deze sluiting noodzakelijk is om de geconstateerde overtreding te beëindigen en herhaling daarvan te voorkomen. Zoals de Afdeling verder heeft overwogen in de uitspraak van 3 juni 2020, ECLI:NL:RVS:2020:1333, moet de burgemeester bij het beoordelen of sprake is van bijzondere omstandigheden in de zin van artikel 4:84 van de Awb die maken dat het handelen overeenkomstig het beleid gevolgen heeft die onevenredig zijn in verhouding tot de met het beleid te dienen doelen, alle omstandigheden van het geval betrekken. Bij de beoordeling of er bijzondere omstandigheden zijn is in de eerste plaats van belang in hoeverre voor het sluiten van een pand een noodzaak bestaat. Dit wordt beoordeeld aan de hand van de ernst en de omvang van de overtreding. Daarnaast moet worden beoordeeld of de sluiting evenredig is. Bij deze beoordeling spelen de mate van verwijtbaarheid en de gevolgen van de sluiting een rol.</para>
+    <para>4.2.    Dat de burgemeester ter zitting bij de rechtbank heeft gesteld dat de sluiting niet tot doel heeft om de loop eruit te halen, betekent niet dat de sluiting alleen al daarom geen herstelsanctie meer is. Met de sluiting beoogt de burgemeester immers nog steeds herhaling van de geconstateerde overtredingen te voorkomen. De burgemeester heeft zich op het standpunt mogen stellen dat sluiting van de coffeeshop hiertoe noodzakelijk was. De  verkoop aan minderjarigen is namelijk een ernstige overtreding. Bovendien is deze overtreding in korte tijd twee keer begaan en waren hierbij twee verschillende verkoopmedewerkers en een portier betrokken. Het tijdverloop tussen de overtredingen en het besluit van 5 april 2019 was relatief gering en maakt dit niet anders. Dat [appellante] na de overtredingen alsnog is overgegaan tot het controleren van de ID-bewijzen van iedere bezoeker, dat hierbij een ID-scanner wordt gebruikt en dat er aanplakbiljetten zijn geplaatst, heeft de burgemeester bij zijn beoordeling betrokken. Hij heeft zich terecht op het standpunt gesteld dat deze maatregelen niet maken dat er geen noodzaak meer bestond om tot sluiting over te gaan (vergelijk de uitspraak van de Afdeling van 12 juni 2013, ECLI:NL:RVS:2013:CA2875). Deze maatregelen maken ook niet dat sprake is van verminderde verwijtbaarheid op grond waarvan de burgemeester verdergaand van het Coffeeshopbeleid had moeten afwijken. Van [appellante] had mogen worden verwacht dat zij deze maatregelen al voor de overtredingen zou hebben genomen zodat deze overtredingen zich niet zouden hebben voorgedaan. Tussen partijen is verder niet in geschil dat [appellante] de coffeeshop ruim vijf jaren exploiteerde toen de overtredingen werden begaan. Dat in deze periode geen andere incidenten hebben plaatsgevonden, heeft de burgemeester meegewogen bij zijn beoordeling. Hij heeft in deze omstandigheden aanleiding gezien om de sluitingstermijn van zes maanden die is opgenomen in de handhavingstabel te verkorten tot drie maanden. Naar het oordeel van de Afdeling heeft de burgemeester zich niet ten onrechte op het standpunt gesteld dat deze omstandigheden niet van dien aard zijn dat een verdergaande verkorting geboden was. Hierbij betrekt de Afdeling dat de overtreding van het coffeeshopbeleid ernstig is, herhaald is  begaan en dat hierbij verschillende medewerkers betrokken zijn geweest. Het betoog slaagt.</para>
+    <para>5.    Het hoger beroep is gegrond. De aangevallen uitspraak moet worden vernietigd. Doende hetgeen de rechtbank zou behoren te doen, zal de Afdeling het beroep van [appellante] tegen het besluit van 16 juli 2019 alsnog ongegrond verklaren.</para>
+    <para>6.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.    verklaart het hoger beroep gegrond;</para>
+    <para>II.    vernietigt de uitspraak van de voorzieningenrechter van de rechtbank Rotterdam van 26 augustus 2019 in zaak nr. 19/3640;</para>
+    <para>III.    verklaart het bij de rechtbank ingestelde beroep ongegrond.</para>
+    <para>Aldus vastgesteld door mr. J.J. van Eck, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. E.R. Fernandez, griffier.</para>
+    <para>Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.</para>
+    <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    <para>Uitgesproken in het openbaar op 26 augustus 2020</para>
+    <para>753.</para>
+    <para> </para>
+    <para>BIJLAGE</para>
+    <para> </para>
+    <para>Opiumwet</para>
+    <para>Artikel 13b</para>
+    <para>1. De burgemeester is bevoegd tot oplegging van een last onder bestuursdwang indien in een woning of lokaal of op een daarbij behorend erf:</para>
+    <para>a. een middel als bedoeld in lijst I of II dan wel aangewezen krachtens artikel 3a, vijfde lid, wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is;</para>
+    <para>b. een voorwerp of stof als bedoeld in artikel 10a, eerste lid, onder 3°, of artikel 11a voorhanden is.</para>
+    <para>[…]</para>
+    <para>Coffeeshopbeleid Schiedam 2014-2018</para>
+    <para>Paragraaf 2.1.</para>
+    <para>[…]</para>
+    <para>7.    De verkoop van cannabis wordt alleen gedoogd in inrichtingen die zich houden aan de gedoogcriteria uit de Aanwijzing Opiumwet, eventueel aangevuld met gemeentelijke criteria. Deze inrichtingen worden coffeeshops genoemd en zijn in hoofdzaak gericht op de verkoop van cannabisproducten. Eventuele verkoop van etenswaren, drinkwaren en rookwaren is ondergeschikt aan deze hoofdfunctie.</para>
+    <para>Coffeeshops moeten voldoen aan de zogeheten AHOJGI+-criteria die staan voor de volgende gedoogvoorwaarden:</para>
+    <para>[…]</para>
+    <para>geen toegang en geen verkoop aan jeugdigen (J): coffeeshops mogen geen bezoekers onder de 18 jaar toelaten noch cannabis aan hen verkopen;</para>
+    <para>[…]</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

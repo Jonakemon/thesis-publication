@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:332</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-20T10:07:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/2822</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2020/1264</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:332">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:332</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-29T11:15:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:332 College van Beroep voor het bedrijfsleven , 06-05-2020 / 18/2822</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:332:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>GLB. Uitbetaling 2017. De methode waarmee de door verweerder de geconstateerde oppervlakte is vastgesteld, is niet onjuist te achten. Geen verplichting om een fysieke veldmeting uit te voeren van de percelen van appellant. Administratieve sanctie. Toepassing van de zogenoemde “gele kaart” (artikel 19bis van Verordening 640/2014).</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:332:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak  </para>
+    <para />
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/2822</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 6 mei 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam] , te [plaats] , appellant</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder </bridgehead>
+    <para>(gemachtigde: mr. M. van der Voort).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 mei 2018 (het primaire besluit) heeft verweerder beslist op de aanvraag van appellant om uitbetaling van de betalingsrechten (de basisbetaling) en de vergroeningsbetaling voor het jaar 2017 op grond van de Uitvoeringsregeling rechtstreekse betalingen GLB (Uitvoeringsregeling).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 oktober 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellant gedeeltelijk gegrond verklaard. Verweerder heeft daarbij het primaire besluit herroepen en het bedrag aan basis- en vergroeningsbetaling gewijzigd vastgesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellant heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brieven van 30 januari 2020 en 31 januari 2020 heeft appellant nadere gronden en nadere stukken ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 januari 2020 (het herziene bestreden besluit) heeft verweerder opnieuw het bezwaar van appellant gedeeltelijk gegrond verklaard, het primaire besluit herroepen en het bedrag aan basis- en vergroeningsbetaling gehandhaafd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 11 februari 2020. Appellant is verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ter zitting, na sluiting van het onderzoek, heeft appellant een verzoek gedaan tot wraking van de behandelend rechter. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij beslissing van 27 februari 2020 (ECLI:NL:CBB:2020:137) heeft de wrakingskamer van het College het wrakingsverzoek afgewezen en bevolen dat het proces in de hoofdzaak wordt voortgezet in de stand waarin het zich bevond ten tijde van het indienen van het verzoek.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 27 februari 2020 heeft het College appellant medegedeeld dat het College, nu het onderzoek in het beroep ter zitting van 11 februari 2020 is gesloten, uitspraak zal doen. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>1.	Het College gaat uit van de volgende feiten en omstandigheden. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Bij besluit (op bezwaar) van 28 november 2017 heeft verweerder het bedrag aan basis- en vergroeningsbetaling van appellant voor het jaar 2016 vastgesteld. Verweerder heeft hierbij een administratieve sanctie in de vorm van een korting opgelegd, omdat appellant een te grote oppervlakte van zijn percelen had opgegeven. Nu het verschil tussen de aangevraagde en geconstateerde oppervlakte kleiner was dan 10% en verweerder niet eerder een oppervlakteverschil (van 3% of twee ha) bij appellant had geconstateerd, kwam appellant in aanmerking voor toepassing van de zogenoemde “gele kaart” en is de korting op de basisbetaling met 50% (€ 299,41) verminderd (artikel 19bis, tweede lid, van Gedelegeerde Verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden (Verordening 640/2014)). Het College heeft bij uitspraak van 13 augustus 2019 (ECLI:NL:CBB:2019:347) het beroep tegen het besluit van 28 november 2017 ongegrond verklaard. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Appellant heeft met het doen van zijn Gecombineerde opgave 2017 uitbetaling van de basis- en vergroeningsbetaling aangevraagd. Appellant heeft hiertoe 19 percelen opgegeven met een totale oppervlakte van 37,46 ha. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Bij het primaire besluit heeft verweerder de uitbetaling van de basis- en vergroeningsbetaling van appellant voor het jaar 2017 vastgesteld op € 13.880,65, waarbij verweerder 36,14 ha van de voor uitbetaling opgegeven oppervlakte in aanmerking heeft genomen. Verweerder heeft een administratieve sanctie in de vorm van een korting opgelegd, omdat het verschil tussen de door appellant voor uitbetaling opgegeven oppervlakte en de geconstateerde (en voor uitbetaling in aanmerking genomen) oppervlakte – net als in het aanvraagjaar 2016 – meer dan 3% bedraagt, te weten 1,32 ha. Dit heeft voor appellant geresulteerd in een korting van € 572,01. Het primaire besluit houdt tevens in dat de in 2016 aan appellant gegeven “gele kaart” vervalt en dat daarom de vermindering van 50% van het sanctiebedrag over de basisbetaling over het jaar 2016 alsnog in rekening wordt gebracht.  </para>
+      <para />
+      <para>2. In het bestreden besluit heeft verweerder het bezwaar van appellant gedeeltelijk gegrond verklaard, het primaire besluit herroepen en bepaald dat appellant als basis- en vergroeningsbetaling voor het jaar 2017 een bedrag van € 13.914,- ontvangt. Verweerder heeft daarbij een oppervlakte van 36,18 ha in aanmerking genomen. Dit heeft voor appellant geresulteerd in een administratieve sanctie van € 554,68. Verweerder heeft hierbij de administratieve sanctie over het jaar 2016 (€ 299,41) gehandhaafd.</para>
+      <para />
+      <para>3. Bij het herziene bestreden besluit heeft verweerder het bestreden besluit vervallen verklaard, het bezwaar van appellant gedeeltelijk gegrond verklaard en het primaire besluit herroepen. Verweerder heeft het bedrag aan basis- en vergroeningsbetaling voor het jaar 2017 gehandhaafd op € 13.914,-, waarbij de eerder opgelegde administratieve sanctie eveneens is gehandhaafd. Verweerder heeft in dit besluit uiteengezet dat hij ten aanzien van de percelen 10, 28 en 31 de 2%-marge van artikel 5, derde lid, van Verordening 640/2014, niet meer toepast en heeft de subsidiabele oppervlakte van deze percelen alsnog inhoudelijk beoordeeld. Ook heeft verweerder ten aanzien van een aantal nader in het besluit genoemde percelen de motivering waarom (delen van) de oppervlakte van deze percelen niet subsidiabel zijn, aangevuld.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beroepsgronden</emphasis>
+        </para>
+      </parablock>
+      <para>4. Appellant kan zich niet verenigen met de vaststelling van de uitbetaling van zijn betalingsrechten voor het jaar 2017 en voert – kort weergegeven – het volgende aan. Appellant kan zich niet vinden in de manier waarop verweerder in het (herziene) bestreden besluit de subsidiabele oppervlakte van zijn percelen heeft vastgesteld. Appellant voert hiertoe aan dat in het jaar 2016 sprake is geweest van een steekproef fysieke controle randvoorwaarden, waarbij geen fysieke veldmeting heeft plaatsgevonden, terwijl uit Uitvoeringsverordening (EU) nr. 809/2014 van de Commissie van 17 juli 2014 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1306/2013 wat betreft het geïntegreerd beheers- en controlesysteem, plattelandsontwikkelingsmaatregelen en de randvoorwaarden (Verordening 809/2014) en het arrest van het Hof van Justitie van de Europese Unie (Hof van Justitie) van 10 april 2014, inzake Maatschap T. van Oosterom en A. van Oosterom-Boelhouwer, C-485/12 (ECLI:EU:C:2014:250) juist voortvloeit dat verweerder de oppervlakte van percelen alleen door middel van teledetectie mag vaststellen zolang kan worden vastgesteld dat de door de landbouwer opgegeven oppervlakte juist is. Nu appellant geen rapport van bevindingen van percelen heeft ontvangen, moet daarom ervan worden uitgegaan dat de door hem voor uitbetaling opgegeven oppervlakte in 2016 juist was, dat de administratieve sanctie in 2016 onterecht is opgelegd en dat hij bij het invullen van de Gecombineerde opgave 2017 van dezelfde (subsidiabele) oppervlakte mocht uitgaan, nu de percelen in 2017 ten opzichte van 2016 niet zijn gewijzigd. Dit betekent volgens appellant dat verweerder daarom (ook) voor 2017 ten onrechte een sanctie heeft opgelegd en daarbij ten onrechte heeft geconstateerd dat het verschil tussen de opgegeven en geconstateerde oppervlakte voor het tweede opeenvolgende jaar meer dan 3% bedraagt. Appellant stelt voorts dat verweerder de meettolerantie en de 2%-marge niet juist heeft toegepast. In de aan het College gerichte brief van 30 januari 2020, zoals nader toegelicht ter zitting, stelt appellant zich op het standpunt dat de AAN-laag, die verweerder gebruikt om te controleren of de door een landbouwer opgegeven percelen de maximaal subsidiabele oppervlakte overschrijden, niet voldoet aan artikel 5, vijfde lid, van Verordening 640/2014. Bij de vaststelling van de perceelsoppervlakte maakt verweerder namelijk gebruik van het Rijksdriehoeksstelsel, een plat vlak dat iets hellend naar het westen en noorden is gelegd. Dit past niet op de kromming van de aarde. Voor een goede bepaling (van de perceelsoppervlakte) dient daarom ook de hoogte van het perceel te worden meegenomen. Uit informatie die appellant door middel van een verzoek op grond van de Wet openbaarheid van bestuur heeft verkregen blijkt volgens hem dat de coördinaten van het Rijksdriehoekstelsel slechts tweedimensionaal worden weergegeven. Appellant stelt dat verweerder in 2015 is overgestapt op (een afgeleide van) WGS 1984 (World Geodetic System 1984), waarbij gebruik wordt gemaakt van twee coördinatenassen in graden (noorderbreedte en oosterlengte). Appellant heeft – naar hij stelt – bij het invullen van (onder andere) de Gecombineerde opgave 2017 gebruik moeten maken van dit gradenstelsel. Appellant concludeert dat de minister ten onrechte verschillende coördinatensystemen gebruikt voor het opgeven van de perceelsoppervlakte en de toetsing daarvan. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Juridisch kader</emphasis>
+        </para>
+      </parablock>
+      <para>5. De relevante regelgeving is opgenomen in de bijlage bij deze uitspraak. Deze bijlage maakt deel uit van de uitspraak.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het herziene bestreden besluit</emphasis>
+        </para>
+      </parablock>
+      <para>6. Het College stelt vast dat verweerder hangende beroep het herziene bestreden besluit heeft genomen. Bij dit besluit is verweerder niet volledig tegemoetgekomen aan het beroep van appellant. Gelet op artikel 6:19, eerste lid, van de Algemene wet bestuursrecht heeft het beroep van appellant mede betrekking op het herziene bestreden besluit. Nu verweerder bij dit besluit het bestreden besluit vervallen heeft verklaard en niet gebleken is dat appellant enig belang heeft bij een inhoudelijke beoordeling van het bestreden besluit, is het beroep van appellant tegen het bestreden besluit niet-ontvankelijk wegens het ontbreken van procesbelang.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beoordeling</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Zoals het College eerder heeft overwogen (bijvoorbeeld in de hiervoor genoemde uitspraak van 13 augustus 2019 (ECLI:NL:CBB:2019:347)), is in Nederland het systeem voor identificatie van landbouwpercelen gebaseerd op topografische percelen, die dienst doen als referentiepercelen. Samen vormen zij de AAN-laag (Agrarisch Areaal Nederland). Daarbij wordt gebruik gemaakt van een landsdekkende luchtfoto met een schaal van 1:2.500. Voorts heeft het College reeds geoordeeld dat de functie van het systeem van referentiepercelen is om informatie te leveren wat betreft de maximale subsidiabele oppervlakte, en dat verweerder de AAN-laag mag gebruiken om te controleren of, en zo ja, in hoeverre de door de landbouwer opgegeven landbouwpercelen de maximale subsidiabele oppervlakte overschrijden. Een GPS-meting kan eventueel leiden tot een aanpassing van het referentieperceel, maar is niet zonder meer bepalend voor de vaststelling van de omtrek c.q. grenzen van het referentieperceel (zie de uitspraak van 23 april 2019 (ECLI:NL:CBB:2019:161)). Appellant heeft geen concrete feiten gesteld die erop duiden dat in zijn geval het vaststellen van de subsidiabele oppervlakte op basis van luchtfoto’s tot onjuiste resultaten heeft geleid. Appellant heeft evenmin concreet, met feiten onderbouwd, gesteld voor welke percelen verweerder, daarbij gebruikmakend van de coördinaten van het Rijksdriehoekstelsel, de subsidiabele oppervlakte daadwerkelijk onjuist heeft vastgesteld en in hoeverre dit gevolgen heeft voor de hoogte van het bedrag aan uitbetaling van de basis- en vergroeningsbetaling. Appellant heeft daarmee dus (ook) niet concreet onderbouwd waarom bij de beoordeling van zijn percelen de door verweerder gehanteerde methode in strijd komt met artikel 5, vijfde lid, van Verordening 640/2014. Gelet op het voorgaande is het College van oordeel dat de methode waarmee door verweerder de geconstateerde oppervlakte is vastgesteld, niet onjuist te achten is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Voor zover appellant betoogt dat verweerder ten aanzien van zijn percelen op basis van de AAN-laag ten onrechte andere dan de opgegeven oppervlaktes heeft vastgesteld, omdat daaraan geen fysieke veldmeting ten grondslag ligt en dat dit in strijd is met (het College begrijpt: de artikelen 37, eerste en tweede lid, 38, tweede en derde lid, en 40 van) Verordening 809/2014, moet worden geoordeeld dat dit betoog faalt. Het Hof van Justitie heeft in zijn arrest van 10 april 2014 inzake Maatschap T. van Oosterom en A. van Oosterom-Boelhouwer, C-485/12 (ECLI:EU:C:2014:250), punten 59 en volgende, overwogen dat artikel 24, tweede lid, van Verordening 796/2004 (thans artikel 29, tweede lid, van Uitvoeringsverordening 809/2014) bepaalt dat de constatering van onjuistheden in de aangifte van de landbouwer aanleiding geeft tot een vervolgactie in de vorm van enige passende administratieve procedure en zo nodig een controle ter plaatse. Dit geldt - ingevolge de doelstelling van artikel 23, eerste lid, van Verordening 796/2004 - ook als die onregelmatigheden aan het licht zijn gekomen door een vergelijking tussen in de steunaanvraag opgegeven percelen landbouwgrond en recente luchtbeelden die worden gebruikt voor actualisering van het systeem voor identificatie van de landbouwpercelen. Wordt een onregelmatigheid geconstateerd dan is het aan de bevoegde autoriteit om te beoordelen welke maatregelen dienen te worden genomen. Uit het voorgaande volgt dat de bevoegde autoriteit die geen enkele twijfel koestert over de meetgegevens die zij heeft ontleend aan de luchtbeelden waarover zij beschikt, in elk geval niet verplicht is om de betrokken percelen ter plaatse op te meten. In het tegenovergestelde geval zou de beoordelingsmarge waarover de bevoegde autoriteit aldus beschikt immers betekenisloos zijn. De voor de lidstaten om evidente kostenredenen geopende mogelijkheid om slechts een gering aantal controles ter plaatse uit te voeren, zou in gevaar worden gebracht indien de bevoegde autoriteiten een veldinspectie zouden moeten uitvoeren zodra een onregelmatigheid wordt geconstateerd, aldus het Hof van Justitie. Het College is van oordeel dat uit de hiervoor weergegeven overwegingen van het Hof van Justitie voortvloeit dat verweerder niet verplicht was een fysieke veldmeting uit te voeren van de percelen van appellant, nu niet is gebleken dat de meetgegevens die verweerder heeft ontleend aan de luchtbeelden van de percelen van appellant enige twijfel bij verweerder hebben opgeroepen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>Het betoog van appellant dat hij bij het invullen van de Gecombineerde opgave 2017 van dezelfde (subsidiabele) oppervlakte mocht uitgaan als in 2016 nu de oppervlakte van zijn percelen in 2017 ten opzichte van 2016 niet is gewijzigd, slaagt niet. De aanvraag om uitbetaling van de basis- en vergroeningsbetaling wordt immers per jaar beoordeeld en is niet in alle gevallen vergelijkbaar. Het resultaat van de aanvraag voor een bepaald jaar kan dan ook anders zijn dan bij voorgaande of latere jaren (vergelijk de uitspraak van het College van 29 september 2014 (ECLI:NL:CBB:2014:398)).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Ten aanzien van de beroepsgrond van appellant dat verweerder de 2%-marge niet goed heeft toegepast, merkt het College op dat verweerder ten aanzien van de percelen 10, 28 en 31 de 2%-marge in het herziene bestreden besluit niet meer heeft toegepast en dat verweerder de oppervlakte van deze percelen alsnog inhoudelijk heeft beoordeeld. Gelet hierop behoeft hetgeen appellant over de 2%-marge bij een toegestane meettolerantie van 1,25 meter heeft aangevoerd geen bespreking. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Administratieve sanctie</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.5</nr>
+      <para>Het College stelt vast dat, nu appellant niet concreet, met feiten onderbouwd, heeft gesteld voor welke percelen verweerder in het herziene bestreden besluit de subsidiabele oppervlakte daadwerkelijk onjuist heeft vastgesteld, moet worden uitgegaan van de in dat besluit door verweerder vastgestelde subsidiabele oppervlakte van 36,18 ha. Het verschil tussen de opgegeven en de geconstateerde oppervlakte is daarmee meer dan 3%, te weten 1,28 ha (37,46 – 36,18). Verweerder heeft appellant daarom op grond van artikel 19bis, tweede lid, van Verordening 640/2014 terecht een administratieve sanctie opgelegd. Dit betekent dat verweerder appellant voor het tweede opeenvolgende jaar een administratieve sanctie heeft opgelegd, waardoor de onder 1.1 genoemde “gele kaart”, gelet op het bepaalde in artikel 19bis, derde lid, van Verordening 640/2014 komt te vervallen. Verweerder heeft dan ook terecht bepaald dat appellant alsnog de gehele administratieve sanctie over 2016 moet betalen. Het herziene bestreden besluit is in zoverre juist. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Slotsom</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>8. Uit bovenstaande volgt dat de beroepsgronden van appellant niet slagen. </para>
+      <para />
+      <para>9. Gelet op het door verweerder na het instellen van het beroep genomen herziene bestreden besluit, ziet het College aanleiding te bepalen dat verweerder aan appellant het door hem betaalde griffierecht vergoedt. Er zijn geen voor vergoeding in aanmerking komende proceskosten.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep voor zover gericht tegen het bestreden besluit niet-ontvankelijk;</para>
+    <para>- verklaart het beroep voor zover gericht tegen het herziene bestreden besluit ongegrond; </para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 170,- aan appellant te vergoeden.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.L. van der Beek, in aanwezigheid van mr. K.K.E. Blom, griffier. De beslissing is in het openbaar uitgesproken op 6 mei 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>BIJLAGE</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wettelijk kader</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Algemene wet bestuursrecht</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 6:19 </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. Het bezwaar of beroep heeft van rechtswege mede betrekking op een besluit tot intrekking, wijziging of vervanging van het bestreden besluit, tenzij partijen daarbij onvoldoende belang hebben.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Verordening 640/2014</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 5</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Identificatie van de landbouwpercelen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <para>5. Het GIS werkt op basis van een nationaal systeem voor verwijzing door middel van coördinaten als omschreven in Richtlijn 2007/2/EG van het Europees Parlement en de Raad, dat een gestandaardiseerde meting en een unieke identificatie van de percelen landbouwgrond in de gehele betrokken lidstaat mogelijk maakt. Wanneer uiteenlopende coördinatensystemen worden gebruikt, sluiten deze elkaar uit en is binnen elk systeem de consistentie gewaarborgd tussen informatie-elementen die naar dezelfde locatie verwijzen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 19 bis</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Administratieve sancties voor te hoge areaalaangiften in het kader van de basisbetalingsregeling, de regeling inzake een enkele areaalbetaling, de herverdelingsbetaling, de regeling voor jonge landbouwers, de betaling voor gebieden met natuurlijke beperkingen, de regeling voor kleine landbouwers, betalingen in het kader van de Natura 2000-richtlijn en de kaderrichtlijn water, en betalingen voor gebieden met natuurlijke of andere specifieke beperkingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Indien het areaal van een in artikel 17, lid 1, van de onderhavige verordening bedoelde gewasgroep dat wordt aangegeven voor de toepassing van een in titel III, hoofdstukken 1, 2, 4 en 5, of in titel V van Verordening (EU) nr. 1307/2013 bedoelde steunregeling of een in de artikelen 30 en 31 van Verordening (EU) nr. 1305/2013 bedoelde bijstandsmaatregel, groter is dan het areaal dat overeenkomstig artikel 18 van de onderhavige verordening wordt geconstateerd, wordt de steun of de bijstand berekend op basis van het geconstateerde areaal, verminderd met 1,5 keer het vastgestelde verschil indien dat verschil meer dan 3 % van het geconstateerde areaal of meer dan twee hectare bedraagt.</para>
+    <para>De administratieve sanctie bedraagt niet meer dan 100 % van de op het aangegeven areaal gebaseerde bedragen.</para>
+    <para />
+    <para>2. Als in het kader van lid 1 nog geen administratieve sanctie wegens een te hoge areaalaangifte voor de betrokken steunregeling of bijstandsmaatregel is opgelegd aan de begunstigde, wordt de in dat lid bedoelde administratieve sanctie met 50 % verminderd indien het verschil tussen het aangegeven areaal en het geconstateerde areaal niet groter is dan 10 % van het geconstateerde areaal.</para>
+    <para />
+    <para>3. Begunstigden wier administratieve sanctie overeenkomstig lid 2 is verminderd en aan wie voor de betrokken steunregeling of bijstandsmaatregel een andere, in het onderhavige artikel of in artikel 21 bedoelde administratieve sanctie moet worden opgelegd voor het volgende aanvraagjaar, betalen de volledige administratieve sanctie voor dat volgende aanvraagjaar en betalen het bedrag waarmee de overeenkomstig lid 1 berekende administratieve sanctie is verlaagd overeenkomstig lid 2.</para>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Verordening 809/2014</title>
+    <para />
+    <parablock>
+      <para>Artikel 29</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Kruiscontroles</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">(…)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Uit de kruiscontroles voortvloeiende indicaties omtrent niet-naleving geven aanleiding tot een vervolgactie in de vorm van een andere passende administratieve procedure en, zo nodig, een controle ter plaatse.</para>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 37</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Onderdelen van de controles ter plaatse</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Controles ter plaatse betreffen alle landbouwpercelen waarvoor steun wordt aangevraagd in het kader van in bijlage I bij Verordening (EU) nr. 1307/2013 genoemde regelingen en/of waarvoor bijstand wordt aangevraagd in het kader van onder het geïntegreerd systeem vallende plattelandsontwikkelingsmaatregelen.</para>
+    <para />
+    <parablock>
+      <para>Met betrekking tot de controle van de in artikel 21, lid 1, onder a), en de artikelen 30 en 34 van Verordening (EU) nr. 1305/2013 bedoelde plattelandsontwikkelingsmaatregelen betreffen de controles ter plaatse ook alle niet-landbouwgrond waarvoor bijstand wordt aangevraagd.</para>
+      <para>Op basis van de controleresultaten beoordeelt de bevoegde autoriteit of een bijwerking van de corresponderende referentiepercelen nodig is, gelet op artikel 5, lid 3, van Gedelegeerde Verordening (EU) nr. 640/2014.</para>
+    </parablock>
+    <para />
+    <para>2. De controles ter plaatse omvatten een oppervlaktemeting en een verificatie van de naleving van de subsidiabiliteitscriteria, de verbintenissen en andere verplichtingen die betrekking hebben op het door de begunstigden in het kader van de in lid 1 bedoelde steunregelingen en/of bijstandsmaatregelen aangegeven areaal.</para>
+    <para>
+      <?linebreak?>(…)</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 38</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Oppervlaktemeting</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. De oppervlakte van de landbouwpercelen wordt gemeten met behulp van een middel dat, naar is aangetoond, een meting waarborgt van een kwaliteit die ten minste gelijkwaardig is aan die welke is voorgeschreven in geldende technische normen die zijn opgesteld op het niveau van de Unie.</para>
+    <para />
+    <para>3. De bevoegde autoriteit mag gebruikmaken van teledetectie overeenkomstig artikel 40 en, indien mogelijk, van GNSS-technieken (Global Navigation Satellite System – wereldwijd satellietnavigatiesysteem).</para>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 40</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Controles door middel van teledetectie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wanneer een lidstaat controles ter plaatse door middel van teledetectie verricht, doet de bevoegde autoriteit het volgende:</para>
+    </parablock>
+    <para>a. a) zij verricht een foto-interpretatie van orthobeelden (satelliet- of luchtfotografie) van alle landbouwpercelen per steunaanvraag en/of betalingsaanvraag die moeten worden gecontroleerd met het doel de soorten grondbedekking, en in voorkomend geval de soort gewas, te herkennen en de oppervlakte te meten;</para>
+    <para>b) zij verricht een fysieke veldinspectie van alle landbouwpercelen waarvoor op basis van de foto-interpretatie niet ten genoegen van de bevoegde autoriteit kan worden geconcludeerd dat de aangifte juist is;</para>
+    <para>c) zij verricht alle controles die nodig zijn om de naleving van de subsidiabiliteitscriteria, de verbintenissen en andere verplichtingen te verifiëren die verband houden met de landbouwpercelen;</para>
+    <para>d) zij neemt alternatieve maatregelen voor de oppervlaktemeting overeenkomstig artikel 38, lid 1, van percelen waarvoor geen beeldmateriaal beschikbaar is.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

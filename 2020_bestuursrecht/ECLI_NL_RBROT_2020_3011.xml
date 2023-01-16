@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:3011</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-23T10:09:30</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/1521</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Belastingblad 2020/281 met annotatie van Redactie</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:3011">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:3011</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-07T10:19:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:3011 Rechtbank Rotterdam , 02-04-2020 / ROT 19/1521</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:3011:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>OZB. Is het verpleeghuis een woning in de zin van artikel 220a, tweede lid, van de Gemeentewet?</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:3011:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ROTTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/1521</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 2 april 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Stichting Het Spectrum, eiseres,</bridgehead>
+    <para>gemachtigde: mr. G. van der Linden,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de heffingsambtenaar van de gemeenschappelijke regeling Drechtsteden</emphasis>, verweerder,</para>
+      <para>gemachtigde: [naam gemachtigde] .</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij beschikking op grond van de Wet waardering onroerende zaken (Wet WOZ) van 28 februari 2018, heeft verweerder de waarde van de onroerende zaak [onroerende zaak] (hierna: de onroerende zaak) voor het belastingjaar 2018 vastgesteld op € 1.240.000,-. Verweerder heeft eiseres tevens een aanslag onroerende-zaakbelastingen (OZB) eigenaar naar het tarief van niet-woning en een aanslag OZB gebruiker opgelegd (de aanslagen).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak op bezwaar van 1 maart 2019 (het bestreden besluit), heeft verweerder het bezwaar van eiseres hiertegen ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft beroep ingesteld tegen het bestreden besluit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 18 december 2019.</para>
+      <para>Eiseres is verschenen bij gemachtigde. Verweerder is vertegenwoordigd door zijn gemachtigde en [naam] , taxateur.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. In geschil is of de onroerende zaak moet worden aangemerkt als een onroerende zaak die in hoofdzaak tot woning dient als bedoeld in artikel 220, aanhef en onderdeel a en</para>
+    <para>artikel 220a, tweede lid van de Gemeentewet. De hoogte van de WOZ-waarde is niet in geschil. Volgens eiseres moet de onroerende zaak worden aangemerkt als woning, verweerder is van mening van niet. </para>
+    <para />
+    <para>2. De onroerende zaak is een verpleeghuis, waarin op de begane grond palliatieve zorg wordt verleend aan mensen met een beperkte levensverwachting. Op de eerste en tweede verdieping bevindt zich een gesloten woongroep voor dementerenden. De totale oppervlakte is ongeveer 878 m². </para>
+    <para />
+    <para>3. Artikel 220 van de Gemeentewet luidt als volgt:</para>
+    <para>Ter zake van binnen de gemeente gelegen onroerende zaken kunnen onder de naam onroerende-zaakbelastingen worden geheven: </para>
+    <para>a. een belasting van degenen die bij het begin van het kalenderjaar onroerende zaken die niet in hoofdzaak tot woning dienen, al dan niet krachtens eigendom, bezit, beperkt recht of persoonlijk recht, gebruiken;</para>
+    <para>b. een belasting van degenen die bij het begin van het kalenderjaar van onroerende zaken het genot hebben krachtens eigendom, bezit of beperkt recht. </para>
+    <para />
+    <parablock>
+      <para>Artikel 220a, tweede lid, van de Gemeentewet luidt als volgt:</para>
+      <para>Een onroerende zaak dient in hoofdzaak tot woning indien de waarde die op grond van hoofdstuk IV van de Wet waardering onroerende zaken is vastgesteld voor die onroerende zaak in hoofdzaak kan worden toegerekend aan delen van de onroerende zaak die dienen tot woning dan wel volledig dienstbaar zijn aan woondoeleinden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 220f, eerste lid, van de Gemeentewet luidt als volgt:</para>
+      <para>De belasting bedraagt een percentage van de heffingsmaatstaf. Het percentage wordt gelijkelijk vastgesteld voor onderscheidenlijk:</para>
+    </parablock>
+    <para>a. de belasting, bedoeld in artikel 220, onderdeel a;</para>
+    <para>b. de belasting, bedoeld in artikel 220, onderdeel b, voor zover het onroerende zaken betreft die in hoofdzaak tot woning dienen.</para>
+    <para />
+    <para>4. Niet in geschil is – en de rechtbank sluit zich hierbij aan – dat Algoring 2 één onroerende zaak is in de zin van artikel 16 van de Wet WOZ. </para>
+    <para />
+    <para>5. De onroerende zaak bestaat op alle verdiepingen uit de appartementen van de bewoners (met een badkamer), gemeenschappelijke woonkamers met keuken en overige ruimten (gangen, wc’s en bergruimten). Verder bevindt zich bij de woonkamers op de eerste en tweede verdieping een terras. Niet in geschil is dat de overige ruimten niet aangemerkt kunnen worden als woning en niet volledig dienstbaar zijn aan woondoeleinden. Ook is niet is in geschil dat de appartementen (met badkamer) van de bewoners wel als woning in de zin van artikel 220a van de Gemeentewet kunnen worden aangemerkt.</para>
+    <para />
+    <para>6. Het geschil spitst zich toe op de vraag of de gezamenlijke woonkamers en de daarbij horende keukens en terrassen dienen tot woning dan wel volledig dienstbaar zijn aan woondoeleinde. </para>
+    <para>Als de conclusie is dat dit het geval is, verschillen partijen niet van mening dat de waarde van de onroerende zaak in hoofdzaak, dat wil zeggen 70 % of meer, kan worden toegerekend aan woondelen, zodat de onroerende zaak dan als woning moet worden aangemerkt. </para>
+    <para />
+    <para>7. Bij de beoordeling gaat de rechtbank uit van de volgende feiten en omstandigheden die uit het dossier of ter zitting zijn gebleken.</para>
+    <parablock>
+      <para>Op de eerste en tweede verdieping wonen dementerende ouderen die verblijven op gesloten afdelingen. Zij wonen hier duurzaam en beschikken niet elders over een woonruimte voor duurzaam verblijf. In de ochtend worden de bewoners in hun eigen appartement gewassen en aangekleed. Daarna worden de bewoners, als zij dit willen, naar de gezamenlijke woonkamer gebracht. Daar eten zij, spelen zij spelletjes en kijken zij televisie. Indien mogelijk vindt daar ook verzorging plaats, zoals het toedienen van medicijnen. Bezoek kan zowel in de woonkamers als op de eigen kamer worden ontvangen.</para>
+      <para>Op de begane grond is sprake van een soortgelijke situatie, ook daar verblijven de mensen in de gezamenlijke woonkamer voor zover mogelijk. De zorg is op de begane grond intensiever, maar het is geen hospice waarin mensen op een eigen kamer verblijven. </para>
+    </parablock>
+    <para />
+    <para>8. Ter zitting hebben partijen verklaard – en de rechtbank sluit zich daarbij aan – dat de hier voorliggende feiten op hoofdlijnen gelijk zijn aan de feiten in de zaak waarover het gerechtshof Den Haag op 26 februari 2019, ECLI:NL:GHDHA:2019:38, uitspraak heeft gedaan. Het hof heeft geoordeeld dat in een dergelijke situatie de gezamenlijke woonkamers moeten worden aangemerkt als woondelen van de onroerende zaak.</para>
+    <para>Anders dan verweerder ter zitting heeft betoogd, ziet de rechtbank geen aanleiding van deze uitspraak af te wijken. De rechtbank vindt de overwegingen van het hof Den Haag overtuigend. In de loop der tijd zijn ideeën over zorg veranderd. De laatste jaren wordt in instellingen geprobeerd het leven in een gezinssituatie zoveel mogelijk te benaderen. In de onroerende zaak is dat ook het geval. De omstandigheden in de onroerende zaak waarover het hier gaat verschillen daarom niet wezenlijk van die van een groot gezin, met dien verstande dat hier personeel aanwezig is om de woonbehoefte van de bewoners te ondersteunen. De gezamenlijke woonkamers (en de daarbij horende keukens en terrassen) van de onroerende zaak vallen daarom onder het eerste criterium van artikel 220a van de Gemeentewet (“delen van de onroerende zaak die dienen tot woning”). Omdat al aan dat criterium is voldaan, is niet meer van belang of een ruimte al dan niet volledig dienstbaar is aan woondoeleinden (zie rechtsoverweging 5.6 uit de uitspraak van hof Den Haag). </para>
+    <para />
+    <para>9. Omdat partijen het erover eens zijn dat in het geval de gezamenlijke woonkamers als woondelen zijn aan te wijzen, tenminste 70 % van de waarde van de onroerende zaak kan worden toegerekend aan woondelen, is het gelijk aan eiseres. </para>
+    <para>Dit heeft tot gevolg dat de aanslag OZB gebruiker dient te worden vernietigd en de aanslag OZB eigenaar dient te worden verminderd tot een aanslag, berekend naar het woningentarief.</para>
+    <para />
+    <para>10. Het beroep is gegrond. Verweerder dient het door eiseres betaalde griffierecht te vergoeden.</para>
+    <para />
+    <para>11. De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.572,-. (voor de bezwaarfase: 1 punt voor het indienen van het bezwaarschrift en 1 punt voor het verschijnen op de hoorzitting met een waarde per punt van € 261,- en wegingsfactor 1 en voor de beroepsfase: 1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen op de zitting met een waarde per punt van € 525,- en wegingsfactor 1). Van andere kosten die voor vergoeding in aanmerking komen is niet gebleken.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit voor zover deze ziet op de aanslag ozb gebruikersbelasting en de aanslag ozb eigenarenbelasting;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt de aanslag gebruikersbelasting;</para>
+      </listitem>
+      <listitem>
+        <para>vermindert de aanslag ozb eigenarenbelasting tot een aanslag berekend naar het tarief    voor woningen als bedoeld in artikel 220f, aanhef en onderdeel b, van de Gemeentewet;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat verweerder aan eiseres het betaalde griffierecht van € 345,- vergoedt;</para>
+      </listitem>
+    </itemizedlist>
+    <para>- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.572,-.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M. Munsterman, voorzitter, mrs. A.P Hameete en I. Bouter, leden, in aanwezigheid van mr. M. Noordegraaf, griffier. De uitspraak is gedaan op 2 april 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>de griffier is verhinderd				de voorzitter is verhinderd</para>
+      <para>deze uitspraak te ondertekenen			deze uitspraak te ondertekenen </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kunnen partijen binnen zes weken na de verzenddatum hoger beroep instellen bij het gerechtshof Den Haag (belastingkamer).</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

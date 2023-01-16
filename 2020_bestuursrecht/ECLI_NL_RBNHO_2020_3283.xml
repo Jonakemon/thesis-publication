@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:3283</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-12T14:26:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 4036</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0020031&amp;g=2014-07-16">Wet maatschappelijke ondersteuning</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:3283">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:3283</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-04T09:40:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:3283 Rechtbank Noord-Holland , 30-04-2020 / AWB - 19 _ 4036</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:3283:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WMO hulphond afgewezen. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:3283:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/4036</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 30 april 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres</bridgehead>
+    <para>(gemachtigde: mr. R. Imkamp),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Heemskerk, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 maart 2019 (het primaire besluit) heeft verweerder de aanvraag van eiseres voor een voorziening in de vorm van een Persoonsgebonden budget (pgb) voor opleidingskosten van een hulphond op grond van de Wet maatschappelijke ondersteuning 2015 (Wmo) afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 juli 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 13 maart 2020. Eiseres is samen met haar moeder verschenen, bijgestaan door haar gemachtigde. Verweerder is, met bericht van verhindering, niet verschenen<emphasis role="italic">.</emphasis></para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Bij eiseres is sprake van autisme, OCD en depressie. De ouders van eiseres hebben zich op 30 oktober 2018 bij verweerder gemeld en daarbij onder meer aangegeven dat eiseres naar huis wordt gehaald nadat zij opgenomen is geweest in een jeugdkliniek. Thuis willen haar ouders haar verdere behandeling en ondersteuning gaan bieden met Lucertis en eventuele thuishulp. In overleg met instanties is een pup (genaamd: [#] ) als hulphond bij autisme aangeschaft die eind november thuis komt en een opleiding moet krijgen. Er is een formulier van Bultersmekke assistancedogs overgelegd. De training tot hulphond kan door de ouders van eiseres niet worden bekostigd.</para>
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Er heeft naar aanleiding van deze melding op 6 november 2018 een huisbezoek plaatsgevonden door de Wmo consulent waarbij met eiseres en haar ouders is gesproken. Onder meer is aan de orde gekomen dat er nog te weinig medisch wetenschappelijk onderzoek is gedaan naar de werking en de effectiviteit van een hulphond bij mensen met autisme, PTSS en psychische klachten. Daardoor is nog onvoldoende duidelijk of de hond echt een bijdrage kan leveren in het wegnemen van beperkingen in de zelfredzaamheid en participatie. Daarnaast is besproken dat behandeling geen onderdeel is van de Wmo. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Eiseres heeft vervolgens een aanvraag ingediend voor begeleiding thuis en financiering van de kosten voor de training van de hulphond.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para> De centrumgemeente Haarlem heeft (daartoe gemandateerd door verweerder) onderzoek verricht naar de hulpvraag van eiseres. In dat kader is op 4 december 2018 telefonisch met de hulpverlener van het Lucertis gesproken en is er een onderzoeksrapportage opgesteld. Aan eiseres is naar aanleiding van de onderzoeksresultaten per 2 april 2019 een voorziening beschermd wonen toegekend in de vorm van een Pgb ter hoogte van € 2.049,04 per maand. Er is middelzwaar toezicht toegekend voor veiligheid, beperkte ondersteuning voor financiën, middelzware ondersteuning voor sociale relaties, trede 1 voor zingeving, intensieve ondersteuning voor persoonlijk functioneren en lichte ondersteuning voor lichamelijke gezondheid. Tegen dit besluit is door eiseres geen bezwaar gemaakt.   </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Omdat de specifieke vraag voor de opleidingskosten voor een hulphond door de gemeente Haarlem niet is meegenomen hebben de ouders van eiseres verweerder verzocht ten aanzien hiervan een besluit te nemen. Verweerder heeft vervolgens het onderzoeksverslag van de gemeente Haarlem bestudeerd en informatie van orthopedagogen en van Bultersmekke bij het onderzoek betrokken. Geconcludeerd is dat de aanvraag van eiseres op de volgende gronden kan worden afgewezen:<?linebreak?>- Het is onvoldoende duidelijk dat de hulphond echt een bijdrage levert aan de zelfstandigheid en maatschappelijke participatie in de specifieke situatie van eiseres;<?linebreak?>- De hulphond heeft een louter therapeutische waarde. Het verstrekken van een voorziening met alleen een therapeutisch doel valt niet onder de reikwijdte van de Wmo;<?linebreak?>- Een indicatie voor Beschermd Wonen acht verweerder het meest passend en hij voldoet daarmee aan zijn ondersteuningsplicht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Verweerder heeft vervolgens bij het primaire besluit onder verwijzing naar voornoemde conclusies de aanvraag van eiseres voor de opleidingskosten tot hulphond afgewezen op grond van de artikelen 1.2.1 en 2.3.1, van de Wmo 2015 en artikel 10 van de Verordening maatschappelijke ondersteuning Gemeente Heemskerk 2018 (de Verordening). Hiertegen heeft eiseres bezwaar gemaakt. </para>
+      <para />
+      <parablock>
+        <para>2. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>De commissie bezwaarschriften heeft overwogen dat een aanvrager op grond van artikel 1.2.1 van de Wmo en artikel 10, van de Verordening in aanmerking komt voor de goedkoopst adequate voorziening. De vraag is dus wat de meest passende voorziening is om de gestelde doelen te bereiken. Van belang is dat eiseres uiteindelijk zelfstandig(er) kan gaan wonen. Er is uitgebreid onderzoek gedaan naar de behoefte van eiseres. Of een hulphond daaraan gaat bijdragen is onderwerp van discussie. Ook de orthopedagoog is daar niet zeker van en wetenschappelijke onderzoeken bieden geen uitsluitsel. Nu de resultaten van de opleiding onzeker zijn en aan eiseres ook een Pgb is toegekend voor beschermd wonen is het aannemelijker dat het laatste gaat leiden tot het vergroten van de zelfredzaamheid. Daarom is dat de meest passende voorziening, waarmee eiseres bovendien voldoende gecompenseerd wordt. Verweerder is daarom niet gehouden om een tweede voorziening toe te kennen voor hetzelfde doel waarvan de effectiviteit onzeker is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Verweerder heeft het primaire besluit onder verwijzing naar dit advies bij het bestreden besluit gehandhaafd. Hiertegen richt zich het beroep van eiseres. </para>
+      <para />
+      <para>3. Eiseres heeft zich in beroep op het standpunt gesteld dat het onderzoek van verweerder niet zorgvuldig is geweest. Verweerder heeft nagelaten te onderzoeken welke ondersteuning eiseres in zijn totaliteit nodig heeft, welk deel daarvan kan worden opgelost door beschermd wonen en in hoeverre er problematiek resteert waarvoor een assistentiehond nodig is. Niet draagkrachtig is gemotiveerd dat beschermd wonen in het geval van eiseres voldoende is. Gelet op de aard van haar problematiek en de intensiteit van de benodigde hulp is zij met de indicatie voor beschermd wonen volgens haar onvoldoende gecompenseerd. Verweerder heeft voorts onvoldoende onderbouwd dat de gevraagde voorziening niet de goedkoopst adequate voorziening is. Dat de kosten € 18.000,- bedragen is daartoe niet toereikend en kan ook niet worden gevolgd. Daarbij is van belang dat de voorziening bedoeld is voor 7-10 jaar en dat mogelijk ook de zorg ten aanzien van beschermd wonen vanwege inzet van de hulphond omlaag kan. Ter zitting is toegelicht dat eiseres met de hulphond in staat wordt gesteld deel te nemen aan het maatschappelijk verkeer. Naast begeleiding door personen op geplande momenten, kan de hulphond haar 24 uur zorg bieden. Deze kan haar fysiek afschermen en ‘bufferen’. Daarnaast kan de hulphond ‘spiegelen’. Een hulphond kan veel eerder dan een persoon aanvoelen wanneer eiseres psychische problemen ondervindt en haar dan uit deze situatie halen. Dit biedt de door de gemeente Haarlem verstrekte voorziening niet. <?linebreak?></para>
+      <para>4. De rechtbank ziet zich geplaatst voor de vraag of verweerder de aanvraag van eiseres voor een maatwerkvoorziening in de vorm van vergoeding van de opleidingskosten voor haar hond tot hulphond terecht heeft afgewezen. </para>
+      <para />
+      <para>5. De rechtbank overweegt allereerst dat verweerder de aanvraag van eiseres niet heeft kunnen afwijzen op de grond dat vergoeding van de kosten voor een opleiding tot hulphond niet onder de reikwijdte van de Wmo valt. Zoals door deze rechtbank reeds is overwogen in de uitspraak van 18 april 2019, ECLI:NL:RBNHO:2019:3174, sluit de omstandigheid dat de opleiding van de assistentiehond ook therapeutische doelen zou dienen niet uit dat dit een maatwerkvoorziening op grond van de Wmo kan zijn. De opleiding van de hond zou immers toegevoegde waarde kunnen hebben in het wegnemen van beperkingen in de zelfredzaamheid en participatie. De rechtbank vindt steun voor deze opvatting in de uitspraak van 12 september 2018 van de Centrale Raad van Beroep, ECLI:NL:CRVB:2018:2785. </para>
+      <para />
+      <para>6. Ten aanzien van de overige afwijzingsgrond(en) overweegt de rechtbank als volgt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Artikel 1.1.1 van de Wmo 2015 definieert maatschappelijke ondersteuning (voor zover hier van belang) als het ondersteunen van de zelfredzaamheid en de participatie van personen met een beperking of met chronische psychische of psychosociale problemen zoveel mogelijk in de eigen leefomgeving.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Volgens artikel 1.2.1, onder a, van de Wmo 2015 komt een ingezetene van Nederland in aanmerking voor een maatwerkvoorziening, bestaande uit door het college te verstrekken ondersteuning van zijn zelfredzaamheid en participatie, voor zover hij in verband met een beperking, chronische psychische of psychosociale problemen niet op eigen kracht, met gebruikelijke hulp, met mantelzorg of met hulp van andere personen uit zijn sociale netwerk voldoende zelfredzaam is of in staat is tot participatie.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>Uit artikel 3:2 van de Algemene wet bestuursrecht (Awb) in samenhang met de artikelen 2.3.2 en 2.3.5 van de Wmo 2015 vloeit voort dat het college voldoende kennis moet vergaren over de voor het nemen van een besluit over maatschappelijke ondersteuning van belang zijnde feiten en omstandigheden en af te wegen belangen. Dit brengt met zich dat wanneer bij het college melding wordt gedaan van een behoefte aan maatschappelijke ondersteuning het college allereerst moet vaststellen wat de hulpvraag is. Vervolgens zal het college moeten vaststellen welke problemen worden ondervonden bij de zelfredzaamheid en maatschappelijke participatie, dan wel het zich kunnen handhaven in de samenleving. Eerst wanneer die problemen voldoende concreet in kaart zijn gebracht, kan worden bepaald welke ondersteuning naar aard en omvang nodig is om een passende bijdrage te leveren aan de zelfredzaamheid of participatie van de ondersteuningsvrager, onderscheidenlijk het zich kunnen handhaven in de samenleving. Uit artikel 2.3.2, vierde lid, aanhef en onder b, c en f, van de Wmo 2015 in samenhang met het derde en vierde lid van artikel 2.3.5 van de Wmo 2015 vloeit voort dat het onderzoek er vervolgens op gericht moet zijn of en in hoeverre de eigen mogelijkheden, gebruikelijke hulp, mantelzorg, ondersteuning door andere personen uit het sociale netwerk en voorliggende (algemene) voorzieningen de nodige hulp en ondersteuning kunnen bieden. Slechts voor zover die mogelijkheden ontoereikend zijn dient het college een maatwerkvoorziening te verlenen. Voor zover het onderzoek naar de nodige ondersteuning specifieke deskundigheid vereist zal een specifiek deskundig oordeel en advies niet kunnen ontbreken (zie hiervoor de uitspraken van de CRvB van 1 mei 2017, ECLI:NL:CRVB:2017:1477 en van 21 maart 2018, ECLI:NL:CRVB:2018:819). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <para>Tussen partijen is niet in geschil dat verweerder de hulpvraag correct heeft vastgesteld en dat de problemen die eiseres ondervindt bij de zelfredzaamheid en maatschappelijke participatie dan wel het zich kunnen handhaven in de samenleving voldoende concreet in kaart zijn gebracht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5.</nr>
+      <para>Partijen zijn evenwel verdeeld over de vraag of verweerder voldoende onderzocht heeft welke ondersteuning eiseres naar aard en omvang in zijn totaliteit nodig heeft om een passende bijdrage te leveren aan haar zelfredzaamheid, participatie en het zich kunnen handhaven in de samenleving, en in het verlengde daarvan of eiseres met de indicatie beschermd wonen reeds voldoende gecompenseerd is.   </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.6.</nr>
+      <para>Anders dan eiseres is de rechtbank van oordeel dat het onderzoek van verweerder (ook) op dit punt toereikend is geweest. Verweerder heeft het onderzoeksrapport van de gemeente Haarlem bij zijn onderzoek betrokken. Uit dit onderzoeksrapport volgt dat de aandachtsgebieden wonen, veiligheid, financiën, dagbesteding, sociale relaties, zingeving, persoonlijk functioneren en lichamelijke gezondheid aan de orde zijn gekomen, waarbij de behoeftes en benodigde hulp van eiseres op deze gebieden in kaart zijn gebracht en doelen zijn beschreven. Geconcludeerd is dat eiseres behoefte heeft aan een veilige en afgeschermde woon- en leefomgeving omdat zij niet zelfstandig kan wonen. Het is belangrijk dat er vaak een begeleider in het gebouw aanwezig is. Als eiseres een hulpvraag heeft, kan zij meestal niet wachten tot zij weer een afspraak heeft met haar begeleider. Het streven is de stabiliteit te behouden en als dat kan doorstromen naar beschut wonen of zelfstandig wonen met begeleiding met als doel uiteindelijk zelfstandig te wonen. Met een begeleider zal eiseres hieraan werken. Beschermd wonen is als oplossing geboden waarbij zij behoefte heeft aan ondersteuning op de leefgebieden, veiligheid, financiën, sociale relaties, zingeving, persoonlijk functioneren en lichamelijke gezondheid. Hiermee is de totaal benodigde zorg van eiseres in kaart gebracht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.7.</nr>
+      <para>Verweerder heeft vervolgens aan de hand van onder meer de informatie van de orthopedagogen van eiseres onderzocht welke bijdrage een hulphond in het geval van eiseres mogelijk kan leveren en geconcludeerd dat [#] met name op psychisch vlak kan bijdragen en structuur kan bieden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.8.</nr>
+      <para>  De rechtbank is met verweerder van oordeel dat eiseres middels de indicatie voor beschermd wonen een passende en toereikende voorziening als bedoeld in de Wmo is geboden. Eiseres heeft onvoldoende geconcretiseerd welke ondersteuningsbehoefte door verweerder is gemist, die niet zou zijn ondervangen met de indicatie beschermd wonen. Dat eiseres ook op niet geplande momenten hulp nodig heeft is onder ogen gezien en bij het beschermd wonen betrokken. Dat voor het bieden van structuur en een positief effect op de depressie van eiseres een opleiding van [#] tot hulphond niet noodzakelijk is kan de rechtbank volgen. Dit kan ook bereikt worden door interactie met [#] , het uitlaten, spelen en verzorgen. Voor zover [#] na zijn opleiding sociaal emotionele steun en gedragsregulatie biedt en het zelfvertrouwen van eiseres vergroot, betreffen dit therapeutische doelen, die zoals verweerder terecht stelt, gelet op vaste jurisprudentie van de CRvB niet onder de reikwijdte van de Wmo vallen. Hoe begrijpelijk ook de wens van eiseres is om [#] op te (laten) leiden tot hulphond, is de toegevoegde waarde van een hulphond voor zover die zou zijn gelegen in het wegnemen van beperkingen in de zelfredzaamheid en participatie in het individuele geval van eiseres onvoldoende gebleken. Dat het in haar geval nodig is om mensen op noodzakelijke afstand te houden, waarbij een hulphond uitkomst kan bieden, volgt uit de informatie van de orthopedagogen niet. </para>
+      <para />
+      <para>7. Verweerder kan dan ook worden gevolgd in zijn standpunt dat eiseres middels de indicatie voor beschermd wonen voldoende gecompenseerd is ten aanzien van haar beperkingen op het gebied van zelfredzaamheid en participatie als gevolg waarvan er geen aanleiding is de gevraagde voorziening toe te kennen.<?linebreak?></para>
+      <para>8. Het beroep is gelet op het voorgaande ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.B. Klaus, rechter, in aanwezigheid van F. Voskamp, griffier. De beslissing is uitgesproken op 30 april 2020. Als gevolg van maatregelen rondom het Corona virus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, worden al deze uitspraken, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

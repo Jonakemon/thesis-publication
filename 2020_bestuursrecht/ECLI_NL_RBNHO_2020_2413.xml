@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:2413</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-03T15:00:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-31</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 1143</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Alkmaar</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2413">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2413</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-03T13:01:47</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:2413 Rechtbank Noord-Holland , 31-03-2020 / AWB - 20 _ 1143</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:2413:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verzoekster heeft geen feiten en omstandigheden gesteld die maken dat achteraf bezien de uitschrijving onrechtmatig is dan wel dat thans moet worden geoordeeld dat verweerder gehouden is verzoekster weer op voornoemd adres in te schrijven.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:2413:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para>Zittingsplaats Alkmaar</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ALK 20/1143</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 31 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [verzoekster] , te [woonplaats] , verzoekster</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van gemeente Medemblik, verweerder.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij aan verzoekster gericht besluit van 23 januari 2020 heeft verweerder ‘besloten over te gaan tot uw ambtshalve verhuizing naar het adres [locatie 1] per 20-12-2019’. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen dit besluit bezwaar gemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 21 februari 2020 (HAA 20/450) heeft de voorzieningenrechter een verzoek om een voorlopige voorziening afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 9 maart 2020 heeft verzoekster een tweede verzoek om een voorlopige voorziening ingediend. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <para>2. Op grond van artikel 8:83, derde lid, van de Algemene wet bestuursrecht (Awb) kan de voorzieningenrechter uitspraak doen zonder partijen uit te nodigen om op een zitting te verschijnen indien de voorzieningenrechter kennelijk onbevoegd is of het verzoek kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond. </para>
+    <para />
+    <para>3. Voor de inhoudelijke beoordeling van het geschil zijn de wettelijke bepalingen van belang zoals genoemd in de uitspraak van de voorzieningenrechter van 21 februari 2020. </para>
+    <para />
+    <para>4. Het geschil betreft het verzoek om een voorlopige voorziening hangende bezwaar gericht tegen het besluit van verweerder van 23 januari 2020. Op basis van dit besluit heeft verweerder ambtshalve verzoekster in de basisregistratie personen (hierna: brp) uitgeschreven van het adres [locatie 2] en haar aansluitend ingeschreven op het adres [locatie 1] .</para>
+    <para />
+    <para>5. In de hiervoor reeds aangehaalde uitspraak van 21 februari 2020 is overwogen dat verweerder naar het voorlopig oordeel van de voorzieningenrechter op goede gronden ambtshalve is overgegaan tot wijziging van het woonadres van verzoekster in de brp van [locatie 2] in [locatie 1] , omdat [locatie 2] niet meer kan worden aangemerkt als het woonadres van verzoekster als bedoeld in artikel 1 aanhef en onder o, sub 1 van de Wet brp. Verzoekster woont er immers niet meer. Verder is daarin overwogen dat verzoekster kennelijk verwacht dat zij in de nabije toekomst wellicht weer zal kunnen gaan wonen op het adres [locatie 2] , maar dat dit niet kan afdoen aan de conclusie dat het besluit van 23 januari 2020 naar het voorlopig oordeel van de voorzieningenrechter rechtmatig is genomen. </para>
+    <para />
+    <para>6. Gelet op het voorliggende verzoek wil verzoekster eind maart verhuizen naar [locatie 2] . Zij heeft de voorzieningenrechter gevraagd om met spoed bij voorkeur schriftelijk uitspraak te doen. Gelet op de corona-crisis, het verzoek van verzoekster om met spoed uitspraak te doen en het evidente karakter van het voorliggende geschil, ziet de voorzieningenrechter af van het houden van een zitting. De voorzieningenrechter kan niet anders dan vaststellen dat er geen nieuwe feiten en omstandigheden zijn gesteld op basis waarvan zou moeten worden geoordeeld dat het besluit van 23 januari 2020 onrechtmatig is genomen. Het incident met de twee bouwvakkers dat 20 maart jl. heeft plaatsgevonden op de [locatie 2] , is geen relevant nieuw feit in voornoemde zin. Ook is niet gebleken dat verzoekster ondertussen de woning aan [locatie 2] weer als woonadres heeft. Anders gezegd; verzoekster heeft geen feiten en omstandigheden gesteld die maken dat achteraf bezien de uitschrijving van het adres [locatie 2] per 20 december 2019 onrechtmatig is dan wel dat thans moet worden geoordeeld dat verweerder gehouden is verzoekster weer op voornoemd adres in te schrijven. Hetgeen voor het overige door verzoekster is aangevoerd, kan aan het vorenstaande niet afdoen. </para>
+    <para />
+    <para>7. Het verzoek wordt afgewezen als kennelijk ongegrond. Voor een proceskosten-veroordeling bestaat geen aanleiding.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.B. Klaus, voorzieningenrechter, in aanwezigheid van mr. J. Poggemeier, griffier<emphasis role="italic">. </emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 31 maart 2020. Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier						                        voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

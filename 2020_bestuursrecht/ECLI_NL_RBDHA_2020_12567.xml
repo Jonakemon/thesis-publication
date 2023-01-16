@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12567</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-10T16:05:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL 20.13057</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12567">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12567</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-10T16:04:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12567 Rechtbank Den Haag , 08-12-2020 / NL 20.13057</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12567:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Beroep tegen inwilligende asielbeschikking / rechterlijke dwangsom / onbevoegd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12567:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL20.13057</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [V-nummer]</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , eiser</bridgehead>
+    <para>(gemachtigde: [naam] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: [naam] ).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop <?linebreak?>Op 21 december 2019 heeft eiser beroep ingesteld tegen het niet tijdig beslissen op zijn aanvraag om een verblijfsvergunning asiel voor bepaalde tijd. Bij uitspraak van <?linebreak?>3 februari 2020<footnote-ref linkend="_652743b8-85a3-46ba-bb57-002180e4695b" /> heeft deze rechtbank, zittingsplaats Roermond, het beroep gegrond verklaard. </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 11 juni 2020 heeft verweerder de aanvraag van eiser ingewilligd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft hiertegen beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft daarop gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zitting was gepland op 28 oktober 2020. De rechtbank heeft aan partijen gevraagd om de zaak zonder zitting af te doen. Partijen hebben hiermee ingestemd. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Waarover gaat deze uitspraak?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. In deze uitspraak beoordeelt de rechtbank of zij bevoegd is kennis te nemen van het beroep van eiser tegen de vaststelling van de hoogte van de door verweerder verschuldigde rechterlijke dwangsom. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Hoe is de aanvraag van eiser behandeld?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Op 20 mei 2019 heeft eiser een aanvraag ingediend voor een verblijfsvergunning asiel voor bepaalde tijd. Op 21 december 2019 heeft eiser beroep ingesteld tegen het niet tijdig beslissen op zijn aanvraag. Bij uitspraak van 3 februari 2020 heeft deze rechtbank, zittingsplaats Roermond verweerder opgedragen om binnen vier weken na de dag van bekendmaking van de uitspraak een besluit te nemen op de asielaanvraag van eiser. Daarbij heeft de rechtbank bepaald dat verweerder aan eiser een dwangsom van € 100,- verbeurt voor elke dag waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van € 15.000,-.</para>
+    <para />
+    <para>3. De aanvraag van eiser is bij besluit van 11 juni 2020 ingewilligd. Verweerder heeft in de begeleidende brief bij dit besluit een rechterlijke dwangsom toegekend van in totaal € 1.500,-. Hoewel de beslistermijn van 4 weken volgens verweerder verliep op 4 maart 2020, wordt over de periode van 16 maart 2020 tot 9 juni 2020 geen dwangsom berekend vanwege de overmachtssituatie waar verweerder zich in bevond gelet op de gevolgen van de coronamaatregelen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Is de rechtbank bevoegd om de vaststelling van de hoogte van de verbeurde dwangsom te beoordelen?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. Eiser is het niet eens met de vaststelling van de hoogte van de verbeurde rechterlijke dwangsom die de rechtbank met toepassing van artikel 8:55d, tweede lid, van de Algemene wet bestuursrecht (Awb) aan de uitspraak van 3 februari 2020 heeft verbonden. </para>
+    <para />
+    <para>5. Verweerder voert aan dat de rechtbank onbevoegd is om de verschuldigdheid en hoogte van een op grond van een eerdere uitspraak verbeurde dwangsom vast te stellen. Eiser moet zich tot de burgerlijke rechter wenden. Verweerder verwijst hierbij naar vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State.<footnote-ref linkend="_5570c7c5-bcc0-4679-94d2-3bedc01ed81f" /></para>
+    <para />
+    <para>6. Eiser betwist het standpunt van verweerder en doet een beroep op een uitspraak van deze rechtbank, zittingsplaats Den Haag van 8 september 2020 waarin de rechtbank wel de hoogte van de rechterlijke dwangsom heeft vastgesteld.<footnote-ref linkend="_9719b8ce-a1af-4788-ad60-00326e744a3d" /></para>
+    <para />
+    <para>7. De rechtbank is van oordeel dat het niet bevoegd is om de verschuldigdheid en hoogte vast te stellen van een door een rechtbank aan haar uitspraak verbonden nadere dwangsom en overweegt daartoe als volgt. De bestuursrechter verbindt een nadere dwangsom aan zijn uitspraak op een beroep tegen het niet tijdig nemen van een besluit voor iedere dag dat het bestuursorgaan in gebreke blijft de uitspraak na te leven. Dat volgt uit artikel 8:55d, tweede lid, van de Awb. Volgens vaste rechtspraak kan een dergelijke dwangsom ten uitvoer worden gelegd volgens de regels van het Wetboek van Burgerlijke Rechtsvordering.<footnote-ref linkend="_fa6a55b9-e2b4-41be-bd53-da453db4457c" /> De bevoegdheid tot het nemen van die beslissing is niet aan het publiekrecht ontleend, zodat die beslissing geen besluit in de zin van artikel 1:3, eerste lid, van de Awb oplevert. Tegen die beslissing kan daarom ook geen beroep worden ingesteld bij de bestuursrechter. Dat verweerder in de begeleidende brief bij het besluit van </para>
+    <parablock>
+      <para>11 juni 2020 heeft aangegeven wat volgens hem de hoogte is van de uit te keren rechterlijke dwangsom, is bestuursrechtelijk gezien een mededeling en maakt dat dus niet anders. Het beroep van eiser op de uitspraak van deze rechtbank, zittingsplaats Den Haag van </para>
+      <para>8 september 2020 maakt het voorgaande evenmin anders. Daarbij is van belang dat uit deze uitspraak niet blijkt op basis van welke rechtsgrondslag de rechtbank is overgegaan tot vaststelling van de hoogte van de rechterlijke dwangsom. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wat is de conclusie van de rechtbank?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>8. De rechtbank is daarom onbevoegd om kennis te nemen van het beroep. Daarvoor moet eiser zich wenden tot de burgerlijke rechter. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>
+      <?linebreak?>De rechtbank verklaart zich onbevoegd.</para>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. Y. Moussaoui, rechter, in aanwezigheid van</para>
+      <para>E.P.W. Kwakman, griffier.</para>
+      <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen vier weken na de dag van bekendmaking. </para>
+    </parablock>
+  </section>
+  <footnote id="_652743b8-85a3-46ba-bb57-002180e4695b" label="1">
+    <para> NL19.31310.</para>
+  </footnote>
+  <footnote id="_5570c7c5-bcc0-4679-94d2-3bedc01ed81f" label="2">
+    <para> Uitspraken van 22 oktober 2014, ECLI:NL:RVS:2014:3777 en 29 april 2020, ECLI:NL:RVS:2020:1152.</para>
+  </footnote>
+  <footnote id="_9719b8ce-a1af-4788-ad60-00326e744a3d" label="3">
+    <para> ECLI:NL:RBDHA:2020:8762.</para>
+  </footnote>
+  <footnote id="_fa6a55b9-e2b4-41be-bd53-da453db4457c" label="4">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van </para>
+    <para>29 april 2020, ECLI:NL:RVS:2020:1152.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

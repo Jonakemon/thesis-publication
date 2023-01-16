@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:3961</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-27T11:16:48</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-16</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 20/3041, LEE 20/3098 en LEE 20/3099</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3961">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3961</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-27T11:15:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:3961 Rechtbank Noord-Nederland , 16-11-2020 / LEE 20/3041, LEE 20/3098 en LEE 20/3099</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:3961:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Noodverordening. Veiligheidsregio Drenthe. Horeca bij bioscoop</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:3961:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: LEE 20/3041, LEE 20/3098 en LEE 20/3099</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 16 november 2020 op de verzoeken om  voorlopige voorzieningen in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vue Hoogeveen B.V. te Amsterdam, verzoekster 1</para>
+      <para>Vue Cinemas B.V., te Amsterdam, verzoekster 2</para>
+      <para>
+        <emphasis role="bold">de Nederlandse Vereniging van Bioscopen en Filmtheaters</emphasis>, te Amsterdam, verzoekster 3</para>
+      <para>(gezamenlijk te noemen: verzoekers)</para>
+      <para>(gemachtigde: mr. I.L. Haverkate),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de voorzitter van de Veiligheidsregio Drenthe, verweerder</para>
+      <para>(gemachtigde: P. Doldersum). </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 oktober 2020 (het primaire besluit) heeft verweerder onder oplegging van een dwangsom gelast om direct na de uitreiking van het besluit de overtreding van de regel(s) van de Noodverordening te beëindigen en beëindigd te houden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben tegen het primaire besluit bezwaar gemaakt. Zij hebben de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. Het verzoek van Vue Hoogeveen B.V. is bij de rechtbank geregistreerd onder het nummer LEE 20/3041. Het verzoek van Vue Cinemas B.V. is bij de rechtbank geregistreerd onder het nummer LEE 20/3098. Het beroep van de Nederlandse Vereniging van Bioscopen en Filmtheaters (de NVBF) is bij de rechtbank geregistreerd onder het nummer LEE 20/3099. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 9 november 2020. Verzoekers zijn vertegenwoordigd door hun gemachtigde, bijgestaan door [betrokkene 1] , [betrokkene 2] en </para>
+      <para>
+        [betrokkene 3] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <parablock>
+      <para>
+        <emphasis role="italic">LEE 20/3098 en LEE 20/3099</emphasis>
+      </para>
+      <para>1.		Artikel 1:2, eerste lid, van de Algemene wet bestuursrecht (de Awb) bepaald dat onder belanghebbende wordt verstaan degene wiens belang rechtstreeks bij een besluit is betrokken. Het tweede lid bepaald dat ten aanzien van bestuursorganen de hun toevertrouwde belangen als hun belangen worden beschouwd. Ten aanzien van rechtspersonen bepaald het derde lid dat als hun belangen mede worden beschouwd de algemene en collectieve belangen die zij krachtens hun doelstellingen en blijkens hun feitelijke werkzaamheden in het bijzonder behartigen. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Uit vaste rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State, waaronder de uitspraak van 26 juni 2019, ECLI:NL:RVS:2019:1984, volgt dat de wetgever de in artikel 1:2, eerste lid, van de Awb vermelde eis van het zijn van belanghebbende heeft gesteld teneinde te voorkomen dat een ieder, in welke hoedanigheid dan ook, of een persoon met slechts een verwijderd of indirect belang als belanghebbende moet worden beschouwd en een rechtsmiddel kan aanwenden. Om als belanghebbende in de zin van de Awb te kunnen worden aangemerkt, dient sprake te zijn van een voldoende objectief en actueel, eigen, persoonlijk belang, dat de betrokkene in voldoende mate onderscheidt van anderen. Dat belang moet rechtstreeks bij het desbetreffende besluit zijn betrokken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Naar het oordeel van de voorzieningenrechter is zowel Vue <emphasis role="bold">Cinemas B.V. als </emphasis>de NVBF geen belanghebbende in de zin van artikel 1:2 van de Awb bij het primaire besluit. Hiertoe stelt de voorzieningenrechter allereerst vast dat de last onder dwangsom uitsluitend is opgelegd aan Vue Hoogeveen B.V. en dat de last zich niet (mede) richt tot Vue Cinemas B.V. en / of de NVBF. Uitsluitend Vue Hoogeveen B.V. is in staat aan de last te voldoen. Voorts is naar het voorlopig oordeel van de voorzieningenrechter geen sprake van een financieel belang, nu ter zitting is gebleken dat noch Vue Cinemas B.V. noch de NVBF de opgelegde bedrag van de last zal voldoen. Gelet hierop hebben Vue Cinemas B.V. en de NVBF, naar het voorlopig oordeel van de voorzieningenrechter, geen rechtstreeks belang bij de opgelegde last onder dwangsom. De voorzieningenrechter zal daarom de verzoeken van Vue Cinemas B.V. en de NVBF niet inhoudelijk in behandeling nemen. Zij verklaart deze verzoeken niet-ontvankelijk. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">LEE 20/3041</emphasis>
+        </para>
+        <para>2.		De voorzieningenrechter stelt vervolgens vast dat Vue Hoogeveen B.V. wel belanghebbende bij het primaire besluit is nu de opgelegde last onder dwangsom zich tegen haar richt en uitsluitend zij daaraan kan voldoen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Vervolgens overweegt de voorzieningenrechter dat op grond van artikel 8:81, eerste lid, van de Awb de voorzieningenrechter van de bestuursrechter die bevoegd kan worden in de hoofdzaak op verzoek een voorlopige voorziening kan treffen, indien tegen een besluit, voorafgaand aan een mogelijk beroep bij de bestuursrechter, bezwaar is gemaakt, indien onverwijlde spoed dat, gelet op de betrokken belangen, vereist. Indien van enig spoedeisend belang bij een voorlopige voorziening voorafgaand aan de beslissing in de hoofdzaak geen sprake is, kan daarin een grond gelegen zijn om het verzoek om voorlopige voorziening af te wijzen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Naar het oordeel van de voorzieningenrechter heeft Vue Hoogeveen B.V. niet aannemelijk gemaakt dat in het onderhavig geval sprake is van een spoedeisend belang. Hiertoe overweegt de voorzieningenrechter als volgt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Verweerder heeft de bij het primaire besluit opgelegde last onder dwangsom gebaseerd op de Noodverordening COVID-19 Veiligheidsregio Drenthe welke in werking is getreden op 14 oktober 2020. Op 4 en 7 november 2020 zijn er nieuwe Noodverordeningen in werking getreden. In deze Noodverordeningen is steeds bepaald dat de Noodverordeningen die daarvoor geldend waren, worden ingetrokken. De op dit moment geldende Noodverordening is derhalve de Noodverordening van 7 november 2020. Artikel 2.0, eerste lid, van deze Noodverordening bepaald dat het verboden is om voor het publiek openstaande gebouwen en bijbehorende erven, eet- en drinkgelegenheden en bijbehorende terrassen alsmede voor publiek openstaande vaartuigen of voertuig voor publiek geopend te hebben. In de toelichting is hierbij aangegeven dat dit onder andere voor bioscopen geldt. In de Noodverordening van 7 november 2020 is geen vervaldatum opgenomen. In de toelichting bij artikel 5.1 van deze Noodverordening is hierover opgenomen dat er geen vervaldatum is opgenomen in verband met de mogelijke verlenging van de maatregelen en dat de verordening zo spoedig als mogelijk zal worden ingetrokken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Met het indienen van de voorlopige voorziening beoogt Vue Hoogeveen B.V. dat het primaire besluit wordt geschorst en dat duidelijkheid ontstaat over de interpretatie van artikel 2.3, eerste lid, van de Noodverordening van 14 oktober 2020. Zoals hiervoor in rechtsoverweging 2.3 echter is opgenomen, is de Noodverordening van 14 oktober 2020 ingetrokken en vervangen door de thans geldende Noodverordening (van 7 november 2020) waarin geen vervaldatum is opgenomen. Thans is voorts niet vast te stellen gedurende welke tijd de Noodverordening van 7 november 2020 nog zal gelden. Evenmin is thans vast te stellen  -als de Noodverordening van 7 november 2020 wel zal worden ingetrokken en vervangen zal worden door een nieuwe Noodverordening-  welke maatregelen alsdan zullen gelden. Er staat niet vast dat dat exact dezelfde maatregelen zullen zijn als die van 14 oktober 2020. Onder genoemde omstandigheden ziet de voorzieningenrechter op dit moment aan de zijde van Vue Hoogeveen B.V. geen spoedeisend belang en wordt het evenmin opportuun geacht om voor de toekomst een oordeel te geven over artikel 2.3 van de Noodverordening van 14 oktober 2020.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Gelet op het voorgaande wijst de voorzieningenrechter het verzoek om een voorlopige voorziening van Vue Hoogeveen B.V. af. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <para>- verklaart de verzoeken om voorlopige voorzieningen met de zaaknummers </para>
+    <para>	LEE 20/3098 en LEE 20/3099 niet-ontvankelijk;</para>
+    <para>- wijst het verzoek om een voorlopige voorziening met het zaaknummer LEE 20/3041 af.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. E.M. Visser, voorzieningenrechter, in aanwezigheid van mr. S.I. Havinga, griffier, op 16 november 2020. De uitspraak wordt openbaar gemaakt op de eerstvolgende maandag na deze datum.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier											voorzieningenrechter 		</para>
+      <para>(de griffier is buiten staat de</para>
+      <para>uitspraak mede te ondertekenen)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

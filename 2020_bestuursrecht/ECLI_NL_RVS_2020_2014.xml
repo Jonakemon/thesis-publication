@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:2014</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-26T10:32:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202004069/2/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#mondelingeUitspraak">Mondelinge uitspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2014">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2014</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-24T10:24:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:2014 Raad van State , 21-08-2020 / 202004069/2/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:2014:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>[verzoeker] heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank van 8 juli 2020. Ook heeft hij de voorzieningenrechter verzocht een voorlopige voorziening te treffen. Het geding gaat over de weigering van het college van burgemeester en wethouders van Amsterdam om [verzoeker] een vergunning te verlenen voor het aanbieden van alternatief personenvervoer met een fietstaxi.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:2014:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202004069/2/A3.</para>
+    <para>Datum uitspraak: 21 augustus 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>PROCES-VERBAAL van de mondelinge uitspraak van de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State op het verzoek om het treffen van een voorlopige voorziening (artikel 8:81 van de Algemene wet bestuursrecht) hangende het hoger beroep van:</para>
+    <para>[verzoeker], wonend te Amsterdam,</para>
+    <para>tegen de uitspraak van de voorzieningenrechter van de rechtbank Amsterdam (hierna: de rechtbank) van 8 juli 2020 in zaak nrs. 20/3402 en 20/3403 in het geding tussen:</para>
+    <para>[verzoeker]</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Amsterdam.</para>
+    <para>Openbare zitting gehouden op 21 augustus 2020 om 10.00 uur.</para>
+    <para>Tegenwoordig:</para>
+    <para>Staatsraad mr. C.J. Borman, voorzieningenrechter</para>
+    <para>griffier: mr. H. Herweijer</para>
+    <para>Verschenen:</para>
+    <para>[verzoeker], bijgestaan door mr. R.N. van der Ham, advocaat te Utrecht;</para>
+    <para>het college, vertegenwoordigd door A. Buis, bijgestaan door mr. J. Bootsma en mr. B.S. Jaasma, beiden advocaat te Den Haag.</para>
+    <para>Inleiding</para>
+    <para>[verzoeker] heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank van 8 juli 2020. Ook heeft hij de voorzieningenrechter verzocht een voorlopige voorziening te treffen. Het geding gaat over de weigering van het college om [verzoeker] een vergunning te verlenen voor het aanbieden van alternatief personenvervoer met een fietstaxi.</para>
+    <para>Beslissing</para>
+    <para>De voorzieningenrechter wijst het verzoek af.</para>
+    <para>Gronden</para>
+    <para>    Het college heeft gemotiveerd waarom het verbod om op of aan de weg met een voertuig tegen betaling personenvervoer aan te bieden is gegeven.</para>
+    <para>    De voorzieningenrechter ziet geen aanleiding om ervan uit te gaan dat de aldus gegeven motivering tekortschiet of op te weinig onderzoek zou berusten.</para>
+    <para>    De voorzieningenrechter ziet in het door [verzoeker] gestelde geen aanleiding om op voorhand aan te nemen dat bij het verbod te weinig rekening zou zijn gehouden met de belangen van ondernemers zoals [verzoeker] in verhouding tot het door de gemeenteraad met het verbod nagestreefde doel.</para>
+    <para>    De voorzieningenrechter acht mede van belang dat het verbod exploitatie van de onderneming van [verzoeker] niet geheel onmogelijk maakt.</para>
+    <para>    Evenmin ziet de voorzieningenrechter aanleiding om op voorhand aan te nemen dat het verbod, anders dan de Afdeling in 2018 heeft geoordeeld, niet verenigbaar is met de Dienstenrichtlijn.</para>
+    <para>    Reeds daarom ziet de voorzieningenrechter geen aanleiding om een voorlopige voorziening te treffen.</para>
+    <para>    De vraag of het besluit waarover de rechtbank oordeelde een voor beroep vatbaar oordeel bevat, kan in het kader van deze voorlopige voorzieningsprocedure buiten beschouwing blijven.</para>
+    <para>w.g. Borman    w.g. Herweijer</para>
+    <para>voorzieningenrechter    griffier   </para>
+    <para>640.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

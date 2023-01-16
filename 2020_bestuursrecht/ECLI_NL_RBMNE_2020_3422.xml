@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:3422</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-14T08:42:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">UTR - 19 _ 4668</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:3422">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:3422</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-14T08:41:47</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:3422 Rechtbank Midden-Nederland , 24-08-2020 / UTR - 19 _ 4668</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:3422:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>verkeersbesluit plaatsing laadpaal voor elektrische voertuigen - beroep door buurtbewoner - beroep vanwege locatiekeuze, het volgens eiser weinige gebruik van de laadpaal en de persoonlijke gevolgen van eiser door de laadpaal - beroep ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:3422:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Utrecht</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 19/4668</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 24 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [plaatsnaam] , eiser,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Almere, verweerder</bridgehead>
+    <para>(gemachtigden: F. Wezenberg en mr. M. van der Werf).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 maart 2019 (het primaire besluit) heeft verweerder twee parkeerplaatsen aan de [straatnaam 1] te [plaatsnaam] ter hoogte van nummer [nummeraanduiding] aangewezen als oplaadplaats voor elektrische voertuigen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 7 oktober 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 13 juli 2020. Eiser is verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Verweerder heeft een aanvraag ontvangen voor het aanwijzen van een oplaadplaats voor het opladen van een elektrisch voertuig. Naar aanleiding hiervan heeft verweerder het verkeersbesluit genomen om het verkeersbord E04 met het onderbord ‘uitsluitend opladen van elektrische voertuigen’ te plaatsen bij twee parkeerplaatsen aan de [straatnaam 1] . Het gaat hierbij om parkeerplaats 4 en 5 van de parkeerstrook, gezien vanaf de rechterkant. De parkeerstrook ligt naast de woning en in het bijzonder de achtertuin van eiser. Eiser is het niet eens met het verkeersbesluit. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het verkeersbesluit </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Verweerder heeft het verkeersbesluit genomen met als doelstellingen het bevorderen van doelmatig of zuinig energiegebruik, het verbeteren van de luchtkwaliteit, het verzekeren van de veiligheid op de weg en het beschermen van weggebruikers en passagiers.<footnote-ref linkend="_e613d9fd-4b9f-4382-8961-cb9ec69dd713" /> Het verkeersbesluit vermeldt verder de volgende redenen voor het kiezen van deze specifieke locatie voor de parkeerplaatsen:</para>
+    <parablock>
+      <para> De locatie is binnen 25 meter van het hoofdelektriciteitsnet;</para>
+      <para> De locatie is op acceptabele loopafstand (binnen 250 meter) van de aanvrager; </para>
+      <para> Het betreft een zichtbare locatie, bij voorkeur op de hoek van twee straten;</para>
+      <para> Er zijn voldoende parkeervakken in de straat;</para>
+      <para> Op de betreffende locatie zullen regelmatig elektrische auto’s staan;</para>
+      <para> De locatie past goed in het op te bouwen netwerk van oplaadpunten;</para>
+      <para> Auto’s kunnen hier voor langere tijd staan;</para>
+      <para> Aanvrager heeft geen parkeergelegenheid op eigen terrein. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beoordeling door de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. De rechtbank stelt voorop dat verweerder bij het nemen van een verkeersbesluit beoordelingsruimte toekomt bij de uitleg van de doelen die hij met het verkeersbesluit wil realiseren. Nadat verweerder heeft vastgesteld welke verkeersbelangen naar zijn oordeel bij het besluit dienen te worden betrokken, dient hij die belangen tegen elkaar af te wegen. Daarbij komt verweerder beleidsruimte toe. De bestuursrechter toetst of de voor een of meer belanghebbenden nadelige gevolgen van het verkeersbesluit niet onevenredig zijn in verhouding tot de met dat besluit te dienen doelen.<footnote-ref linkend="_0cb8f933-929a-49e9-a10b-ff675f69362d" /> Verweerder hoeft niet de absolute noodzaak van een verkeersbesluit aan te tonen. Voldoende is dat met het verkeersbesluit de eraan ten grondslag gelegde belangen worden gediend en dat inzichtelijk is gemaakt op welke wijze deze belangen tegen elkaar zijn afgewogen.<footnote-ref linkend="_0157b240-932b-4028-a500-1ba48db8aebc" /></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Te dienen verkeersdoelen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. Eiser voert aan dat de verkeersdoelen van verweerder niet gediend kunnen worden omdat de laadpaal maar weinig gebruikt wordt. De aanvrager heeft zijn aanvraag immers ingetrokken. Bovendien ziet eiser dat de laadpaal nauwelijks gebruikt wordt en de parkeerplaatsen vaak leeg staan. </para>
+    <para />
+    <para>5. De rechtbank is van oordeel dat verweerder voldoende heeft toegelicht dat de verkeersdoelen die in het verkeersbesluit zijn genoemd, worden gediend door het aanwijzen van de parkeerplaatsen. Er is immers een aanvraag gedaan voor de elektrische laadpaal, en daarnaast heeft verweerder er op gewezen dat sprake is van een toename van elektrisch rijden waardoor een netwerk van oplaadpunten nodig is. Het is niet komen vast te staan dat de aanvraag is ingetrokken. Eiser heeft dat niet aannemelijk gemaakt. Uit het verslag van de hoorzitting is af te leiden dat de aanvraag op dat moment in ieder geval niet was ingetrokken. Volgens eiser volgt uit het verslag wel dat de aanvrager van plan was dit te doen. De rechtbank kan dit echter niet ondubbelzinnig uit het verslag halen. Bovendien zou ook als de aanvraag wel was ingetrokken, dit niet hoeven betekenen dat de verkeersdoelen van het verkeersbesluit niet meer gediend konden worden. Er is namelijk een maatschappelijke ontwikkeling gaande waarin steeds meer elektrisch wordt gereden. Hierdoor kan plaatsing van een laadpaal, als dit op strategische wijze gebeurt, met het oog op de toekomst ook zonder een aanvraag het verkeersdoel dienen. De vraag naar elektrische laadpalen in de buurt blijkt ook uit het feit dat er na de aanvraag voor een elektrische laadpaal nog meer aanvragen zijn binnengekomen uit de buurt, zoals in het verweerschrift is uiteengezet. De rechtbank ziet geen reden om aan die verklaring te twijfelen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Specifieke locatie </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Eiser betoogt voorts dat verweerder niet goed uit heeft kunnen leggen waarom juist deze parkeerplaatsen zijn gekozen voor de laadpaal. Eiser heeft aan verweerder een alternatief voorgesteld op de [straatnaam 2] waar veel minder buurtbewoners last van zullen hebben van een laadpaal. Bovendien zijn er al onvoldoende parkeerplaatsen bij hem in de buurt. </para>
+    <para />
+    <para>7. De rechtbank is van oordeel dat verweerder in het verkeersbesluit en in het bestreden besluit goed heeft uitgelegd waarom de [straatnaam 1] ter hoogte van nummer [nummeraanduiding] een geschikte locatie is voor de oplaadpaal. De criteria waar verweerder aan heeft getoetst, zoals uiteengezet onder 2, zijn duidelijk, objectief en niet onredelijk. De omstandigheid dat er mogelijk ook andere geschikte plaatsen zijn, is voor de beoordeling niet van belang. Dit hoeft immers niet tot de conclusie te leiden dat de gekozen locatie ongeschikt is en dat verweerder daarom niet tot het verkeersbesluit heeft kunnen komen. Dat de elektrische laadpaal op de huidige locatie niet zichtbaar is, zoals eiser in zijn beroepschrift aangeeft, is niet aannemelijk geworden.  </para>
+    <para />
+    <para>8. De rechtbank stelt vast dat eiser er al mee geholpen zou zijn als de parkeerplaatsen voor het opladen een paar meter opschuiven. Dit is echter onvoldoende om op basis daarvan aan te nemen dat het verkeersbesluit tot aanwijzing van deze parkeerplaatsen onredelijk is. Hierbij betrekt de rechtbank dat verweerder beoordelingsruimte toekomt bij het nemen van een verkeersbesluit en dat de rechtbank dit besluit slechts terughoudend mag toetsen. </para>
+    <para />
+    <para>9. Eiser heeft in bezwaar al naar voren gebracht dat er een tekort is aan parkeerplaatsen bij hem in de buurt. Verweerder is hier in het bestreden besluit niet op ingegaan. De rechtbank is daarom van oordeel dat er sprake is van een motiveringsgebrek in het bestreden besluit. Het is echter aannemelijk dat eiser door dit gebrek niet is benadeeld, waardoor de rechtbank aanleiding ziet om met toepassing van artikel 6:22 van de Algemene wet bestuursrecht (Awb) het bestreden besluit in stand te laten. Verweerder is in het verweerschrift immers wel ingegaan op de vermeende parkeerdruk. Verweerder heeft toegelicht dat er bij de gemeente Almere geen klachten bekend zijn over een tekort aan parkeerplaatsen in deze buurt en dat er daarom geen parkeermeting is uitgevoerd. Eiser heeft niet aannemelijk gemaakt dat deze parkeerdruk er wel is. De rechtbank is van oordeel dat verweerder met het verweerschrift voldoende heeft gemotiveerd dat er geen tekort aan parkeerplaatsen in de buurt van de laadpaal is. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Persoonlijke gevolgen voor eiser</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>10. Eiser voert verder aan dat hij onevenredig zware persoonlijke gevolgen ondervindt van de aanwijzing van de parkeerplaatsen. De parkeerplaatsen bevinden zich precies naast de poort van zijn achtertuin, waardoor hij in zijn woongenot wordt aangetast. Eiser is ondernemer in de bouw en parkeerde zijn busje altijd tegenover zijn poort. Op deze manier kon hij makkelijk onderdelen naar zijn busje brengen. Door het verkeersbesluit moet hij zijn auto verder weg parkeren, en dus verder lopen. Dit zou lichamelijk veel van hem vragen, terwijl hij al op leeftijd is en problemen met zijn knieën heeft. Bovendien ondervindt eiser al veel overlast van de kliko’s rond het klikoverzamelpunt, dat ook in de buurt van zijn achtertuin ligt. Er is dus veel overlast rondom zijn woning. </para>
+    <para>Op de zitting heeft eiser nog verklaard dat hij rook- en geluidsoverlast ervaart van de laadplekken omdat automobilisten tijdens het laden roken en bellen.</para>
+    <para />
+    <para>11. De rechtbank overweegt dat de belangen die eiser naar voren brengt privébelangen zijn. Bij een verkeersbesluit gaat het om algemene verkeersbelangen die een rol spelen. Verweerder heeft in het bestreden besluit kunnen overwegen dat eiser geen aanspraak kan maken op het min of meer exclusieve gebruik van de aangewezen openbare parkeerplaatsen voor laden en lossen. Verweerder heeft verder de gestelde aantasting van het woongenot en de al bestaande overlast als gevolg van het klikoverzamelpunt minder zwaar kunnen laten wegen dan het algemene belang dat met het verkeersbesluit is gediend. De rechtbank is dan ook van oordeel dat de gestelde nadelige gevolgen niet zo zwaarwegend zijn dat verweerder in redelijkheid het verkeersbesluit niet had kunnen nemen. </para>
+    <para>Op zitting heeft verweerder de ernst van de ervaren rook- en geluidsoverlast betwist omdat hij zich niet kan voorstellen dat automobilisten bij de auto blijven gedurende de soms lange laadtijd. De rechtbank laat de ernst van de ervaren overlast op dit punt in het midden en is van oordeel dat dit mogelijk nadelige gevolg van het verkeersbesluit niet onevenredig is in verhouding tot de met dat besluit te dienen doelen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bezwaarschriftencommissie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>12. Eiser klaagt tot slot over het feit dat het advies van de bezwaarschriftencommissie door drie commissieleden zou zijn uitgebracht, maar dat bij de hoorzitting alleen de voorzitter aanwezig was. </para>
+    <para />
+    <para>13. De rechtbank overweegt dat artikel 7:13, derde lid van de Awb bepaalt dat het horen in het kader van het bezwaar gebeurt door de commissie, maar dat de commissie het horen ook kan opdragen aan de voorzitter of een ander lid. Het feit dat alleen de voorzitter op de hoorzitting aanwezig was, betekent dus niet dat niet de gehele commissie over het bezwaarschrift mocht adviseren. De beroepsgrond treft geen doel.  </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>14. De rechtbank concludeert dat het beroep ongegrond is. Verweerder heeft het verkeersbesluit kunnen nemen en mocht deze twee plaatsen aanwijzen als parkeerplaatsen voor het opladen van elektrische voertuigen. Vanwege het geconstateerde motiveringsgebrek beslist de rechtbank dat verweerder aan eiser het betaalde griffierecht van € 174,- vergoedt. Ook wijst de rechtbank het verzoek om toewijzing van de proceskosten, in de vorm van reiskosten naar de rechtbank, toe. </para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank </para>
+    </parablock>
+    <parablock>
+      <para> verklaart het beroep ongegrond;</para>
+      <para> veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 30,-; </para>
+      <para> draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.J. Catsburg, rechter, in aanwezigheid van mr. L. Ruizendaal-van der Veen, griffier, op 24 augustus 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+  </section>
+  <footnote id="_e613d9fd-4b9f-4382-8961-cb9ec69dd713" label="1">
+    <para> Op grond van artikel 21 van het Besluit administratieve bepalingen inzake het wegverkeer (BABW) moet het verkeersbesluit vermelden welke doelstelling(en) van artikel 2 van de Wegenverkeerswet 1994 (Wvw 1994) worden beoogd. </para>
+  </footnote>
+  <footnote id="_0cb8f933-929a-49e9-a10b-ff675f69362d" label="2">
+    <para> Afdeling Bestuursrechtspraak van de Raad van State (ABRvS) 14 februari 2018 (ECLI:NL:RVS:2018:489). </para>
+  </footnote>
+  <footnote id="_0157b240-932b-4028-a500-1ba48db8aebc" label="3">
+    <para> ABRvS 12 december 2012 (ECLI:NL:RVS:2012:BY5894). </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

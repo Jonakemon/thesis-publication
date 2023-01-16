@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12001</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-10T09:13:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.14879</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Middelburg</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12001">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12001</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-04T11:26:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12001 Rechtbank Den Haag , 24-11-2020 / NL20.14879</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12001:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Dublin Italië, overdrachtstermijn, onderduiken, Jawo, meldplicht</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12001:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL20.14879</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [naam 1] , eiser</bridgehead>
+    <parablock>
+      <para>v-nummer: [nummer]</para>
+      <para>(gemachtigde: mr. J.C.A. Koen),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 30 juli 2020 (het bestreden besluit) heeft verweerder de opvolgende asielaanvraag van eiser niet in behandeling genomen op grond dat Italië verantwoordelijk is voor de behandeling van de aanvraag. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. Voorts heeft eiser de voorzieningenrechter verzocht een voorlopige voorziening te treffen (NL20.14880).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft partijen bericht dat een zitting achterwege zal worden gehouden, tenzij een van de partijen aangeeft dat zij op zitting wenst te worden gehoord. Eiser heeft niet binnen de gestelde termijn verklaard dat hij dat wenst. Verweerder heeft meegedeeld geen behoefte te hebben aan een zitting. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft verweerder in de gelegenheid gesteld zich uit te laten over de vraag wanneer en op welke wijze eiser is geïnformeerd over zijn verplichtingen om de bevoegde nationale autoriteiten op de hoogte te stellen van zijn verblijfplaats.</para>
+      <para>Bij brief van 9 oktober 2020 heeft verweerder een nadere reactie verstuurd.</para>
+      <para>Hierop heeft eiser bij brief van 23 oktober 2020 gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens heeft de rechtbank een zitting achterwege gelaten en het onderzoek gesloten met toepassing van artikel 8:57 van de Algemene wet bestuursrecht (Awb).</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser stelt de Nigeriaanse nationaliteit te hebben en te zijn geboren op [geboortedag] 1998. </para>
+    <para>Eiser heeft voor het eerst op 6 mei 2019 een asielaanvraag ingediend. Bij besluit van 27 augustus 2019 heeft verweerder deze aanvraag niet in behandeling genomen omdat Italië op grond van de Dublinverordening<footnote-ref linkend="_9e77963b-89c0-4423-ae88-45b179b3e626" /> verantwoordelijk is voor de aanvraag (artikel 30, eerste lid, van de Vw<footnote-ref linkend="_140159aa-3f4c-4823-a708-bfe635fd75dd" />). Bij uitspraak van deze rechtbank, zittingsplaats Rotterdam, van 19 september 2019 (NL19.20178) is het door eiser tegen dit besluit ingestelde beroep ongegrond verklaard. Tegen deze uitspraak is geen rechtsmiddel ingesteld. </para>
+    <para />
+    <para>2. De overdracht van eiser op 21 oktober 2019 naar Italië kon geen doorgang vinden, omdat eiser niet verscheen op de afspraak. Op 28 oktober 2019 heeft verweerder aan de Italiaanse autoriteiten medegedeeld dat hij de termijn als bedoeld in artikel 29, tweede lid, van de Dublinverordening met 18 maanden verlengt omdat onbekend is waar eiser verblijft. </para>
+    <para />
+    <para>3. Op 29 juni 2020 heeft eiser een opvolgende asielaanvraag ingediend. Verweerder heeft ook het nu bestreden besluit gebaseerd op artikel 30, eerste lid, van de Vw. Eiser heeft geen gronden aangevoerd of stukken overgelegd waaruit blijkt dat Italië zich niet langer aan zijn internationale verplichtingen zou houden. Er is derhalve geen sprake van elementen of bevindingen die aanleiding geven om terug te komen op het oordeel in de eerdere procedure. De overdrachtstermijn is op 28 oktober 2019 verlengd omdat eiser met onbekende bestemming is vertrokken, aldus verweerder.</para>
+    <para />
+    <para>4. Eiser voert in beroep aan dat de overdrachtstermijn op 25 december 2019 is verstreken, waardoor Nederland verantwoordelijk is geworden voor de behandeling van zijn asielaanvraag. Voorts betoogt hij dat als gevolg van de coronacrisis de opvangvoorzieningen voor asielzoekers in Italië tekortschieten.</para>
+    <para />
+    <parablock>
+      <para>De rechtbank oordeelt als volgt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Is Italië nog verantwoordelijk?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Tussen partijen is niet in geschil dat Italië verantwoordelijk was voor de behandeling van eisers asielaanvraag, maar wel of die verantwoordelijkheid door het verstrijken van de overdrachtstermijn op Nederland is overgegaan. Verweerder stelt zich op het standpunt dat de overdrachtstermijn met de mededeling op 28 oktober 2019 aan Italië is verlengd. Eiser betoogt dat de termijn niet kon worden verlengd omdat er geen sprake was van onderduiken in de zin van artikel 29, tweede lid, van de Dublinverordening. </para>
+    <para />
+    <para>6. In artikel 29, tweede lid, van Dublinverordening staat het volgende:</para>
+    <bridgehead role="italic">“Indien de overdracht niet plaatsvindt binnen (…) zes maanden, (…) gaat de verantwoordelijkheid over op de verzoekende lidstaat. Indien de overdracht wegens gevangenzetting van de betrokkene niet kon worden uitgevoerd, kan deze termijn tot maximaal één jaar worden verlengd of tot maximaal 18 maanden indien de betrokkene onderduikt.”</bridgehead>
+    <para />
+    <para>7. Het Hof van Justitie van de Europese Unie heeft over die bepaling in het arrest Jawo op 19 maart 2019<footnote-ref linkend="_c79a14f8-95fe-4cb3-a352-a4868ca0fb78" /> geoordeeld in punt 70:</para>
+    <parablock>
+      <para>
+        <emphasis role="italic">“(…) dat een verzoeker „onderduikt" in de zin van die bepaling wanneer deze persoon</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">doelbewust ervoor zorgt dat hij buiten het bereik blijft van de nationale autoriteiten die verantwoordelijk zijn voor de uitvoering van de overdracht, teneinde deze overdracht te voorkomen. Aangenomen mag worden dat zulks het geval is wanneer die overdracht niet kan worden uitgevoerd omdat de verzoeker de hem toegekende woonplaats heeft verlaten zonder de bevoegde nationale autoriteiten van zijn afwezigheid op de hoogte te brengen, op voorwaarde dat hij werd geïnformeerd over zijn desbetreffende verplichtingen, hetgeen de verwijzende rechter dient na te gaan. De betrokken verzoeker behoudt de mogelijkheid om aan te tonen dat er geldige redenen waren om de autoriteiten niet in te lichten over zijn afwezigheid en dat hij niet de bedoeling had om zich te onttrekken aan die autoriteiten.”</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>8. De overdracht van eiser was gepland op 21 oktober 2019. Op die datum was eiser niet aanwezig. Eiser heeft geen reden gegeven, waarom hij op het afgesproken moment niet aanwezig was. Hij heeft ook niet uitgelegd waarom hij de autoriteiten niet heeft ingelicht over zijn afwezigheid. Uit de beroepsgronden komt naar voren dat eiser het COA<footnote-ref linkend="_0bc901d0-c627-4fe1-9057-8ad1ff0f6528" /> heeft verlaten om naar Amsterdam te gaan. Gesteld noch gebleken is dat eiser de bevoegde nationale autoriteiten op de hoogte heeft gesteld van zijn vertrek en dat hij daarna voor hen wel bereikbaar was. Uit de brief van 28 oktober 2019 van verweerder aan de Italiaanse autoriteiten komt naar voren dat verweerder niet op de hoogte was van eisers feitelijke verblijfplaats. </para>
+    <para />
+    <para>9. Eiser stelt dat hij de bevoegde autoriteiten niet op de hoogte hoefde te stellen van zijn feitelijke verblijfplaats omdat op hem geen meldplicht rustte, maar hij onderbouwt zijn stelling niet. Uit het door verweerder in beroep nagezonden verslag (vertrek)gesprek van DT&amp;V<footnote-ref linkend="_59a768d9-a808-46c6-86ce-389aa0de38fd" /> van 4 oktober 2019 blijkt dat eiser, hangende de op handen zijnde overdracht aan Italië, erop is gewezen dat hij tot aan de datum van die overdracht een meldplicht heeft. Zo is onder het kopje ‘Algemeen’ op pagina 3 onder meer opgenomen dat de regievoerder eiser verzoekt om in beeld te blijven van het COA en van DT&amp;V en zich aan de meldplicht te houden tot aan de datum van de overdracht. De regievoerder legt vervolgens de eventuele consequenties van het niet meewerken aan de gemaakte afspraken over de overdracht uit.</para>
+    <parablock>
+      <para>De stelling van eiser dat op hem geen meldplicht rustte, komt bovendien niet overeen met wat is opgenomen in artikel 54, eerste lid, aanhef en onder f, van de Vw<footnote-ref linkend="_bb113d00-608c-4c27-bb35-6aed8570325f" />, gelezen in samenhang met artikel 4.51, tweede lid, van het Vreemdelingenbesluit 2000.<footnote-ref linkend="_9e2cf59e-b1a5-4365-ae20-a06f04dafdbf" /> Daaruit is af te leiden dat voor asielzoekers een wekelijkse meldplicht van toepassing is. De rechtbank gaat er daarom van uit dat dit ook voor eiser gold.</para>
+      <para>Verder blijkt uit de hiervoor weergegeven passages uit het verslag (vertrek)gesprek dat de autoriteiten eiser hebben geïnformeerd over zijn wettelijke verplichtingen. Eiser heeft zich vervolgens niet gehouden aan deze verplichtingen door geen adresgegevens van zijn feitelijke verblijfplaats door te geven aan het COA. Eiser heeft zich op deze manier onbereikbaar gehouden voor de bevoegde autoriteiten met als doel om de geplande overdracht te vermijden. De conclusie is dan ook dat eiser is ondergedoken en dat de verlenging van de overdrachtstermijn met 18 maanden rechtsgeldig is. Italië is dus nog steeds verantwoordelijk voor de behandeling van de asielaanvraag van eiser. De beroepsgrond slaagt niet. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Zijn er (andere) beletselen voor overdracht aan Italië?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>10. Eiser voert verder aan dat de coronacrisis problemen veroorzaakt in de opvangvoorzieningen in Italië. Dit moet - aldus eiser - eerst nader door verweerder worden uitgezocht alvorens er een overdracht kan plaatsvinden. </para>
+    <para />
+    <para>11. Uit vaste rechtspraak  van de Afdeling bestuursrechtspraak van de Raad van State, waaronder de uitspraak van 8 april 2020 (ECLI:NL:RVS:2020:986), volgt dat ten aanzien van Italië uitgegaan kan worden van het interstatelijk vertrouwensbeginsel. Het is aan eiser om aannemelijk te maken dat in Italië sprake is van aan het systeem gerelateerde tekortkomingen van de asielprocedure of de opvangvoorzieningen die ernstige, op feiten berustende gronden vormen, om aan te nemen dat eiser daar een reëel risico zal lopen op onmenselijke of vernederende behandelingen in de zin van artikel 3 van het EVRM<footnote-ref linkend="_5ef8b5e8-96fe-4ed8-95d8-7d8b4bddccfc" /> of artikel 4 van het Handvest<footnote-ref linkend="_f6fc8a65-f999-41da-a28b-e567577d85e1" />. Eiser is hier niet in geslaagd, nu het door hem aangehaalde krantenartikel niet ziet op de situatie van Dublinterugkeerders in Italië. Ook deze beroepsgrond treft geen doel.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Slotsom.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>12. Het beroep is ongegrond.</para>
+    <para />
+    <para>13. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. B.F.Th. de Roos, rechter, in aanwezigheid van </para>
+      <para>mr. A.E. Paulus, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling Bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking.</para>
+    </parablock>
+  </section>
+  <footnote id="_9e77963b-89c0-4423-ae88-45b179b3e626" label="1">
+    <para> Verordening (EU) nr. 604/213.</para>
+  </footnote>
+  <footnote id="_140159aa-3f4c-4823-a708-bfe635fd75dd" label="2">
+    <para> Vreemdelingenwet 2000.</para>
+  </footnote>
+  <footnote id="_c79a14f8-95fe-4cb3-a352-a4868ca0fb78" label="3">
+    <para> zaak nr. C-163/17, ECLI:EU:C:2019:218.</para>
+  </footnote>
+  <footnote id="_0bc901d0-c627-4fe1-9057-8ad1ff0f6528" label="4">
+    <para> Centraal Orgaan Opvang Asielzoekers.</para>
+  </footnote>
+  <footnote id="_59a768d9-a808-46c6-86ce-389aa0de38fd" label="5">
+    <para> Dienst Terugkeer en Vertrek.</para>
+  </footnote>
+  <footnote id="_bb113d00-608c-4c27-bb35-6aed8570325f" label="6">
+    <para> Ingevolge artikel 54, eerste lid, aanhef en onder f, van de Vw kan bij of krachtens algemene</para>
+    <para>maatregel van bestuur ten aanzien van vreemdelingen worden voorzien in een verplichting tot</para>
+    <para>periodieke aanmelding.</para>
+  </footnote>
+  <footnote id="_9e2cf59e-b1a5-4365-ae20-a06f04dafdbf" label="7">
+    <para> Ingevolge artikel 4.51, tweede lid, van het Vreemdelingenbesluit 2000 meldt de vreemdeling,</para>
+    <para>bedoeld in het eerste lid, zich wekelijks, tenzij Onze Minister een andere termijn stelt, dan wel</para>
+    <para>ontheffing verleent.</para>
+  </footnote>
+  <footnote id="_5ef8b5e8-96fe-4ed8-95d8-7d8b4bddccfc" label="8">
+    <para> Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.</para>
+  </footnote>
+  <footnote id="_f6fc8a65-f999-41da-a28b-e567577d85e1" label="9">
+    <para> Handvest van de grondrechten van de Europese Unie.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

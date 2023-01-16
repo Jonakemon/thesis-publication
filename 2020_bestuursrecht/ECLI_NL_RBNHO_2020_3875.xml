@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:3875</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-04T15:00:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">HAA 19/5552</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#verzet">Verzet</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Alkmaar</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:3875">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:3875</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-03T14:56:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:3875 Rechtbank Noord-Holland , 30-04-2020 / HAA 19/5552</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:3875:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>(-) stelt dat de rechtbank een verkeerde methode tot beoordelen van de tijdigheid van haar beroep heeft toegepast, zonder dat zij aangeeft welke methode in haar optiek wel juist was geweest. Niet voldoende om een verschoonbare termijnoverschrijding aan te nemen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:3875:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Alkmaar</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/5552 V</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 30 april 2019 op het verzet van</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam] (hierna: [naam] ), wonende te [woonplaats] , </bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>
+        [naam] heeft tegen de beslissing op bezwaar van de Raad van bestuur van de Sociale Verzekeringsbank (SVB) van 31 oktober 2019 beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 11 februari 2020 heeft de rechtbank het beroep niet-ontvankelijk verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [naam] heeft tegen deze uitspraak verzet ingesteld. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De rechtbank heeft in de beroepszaak uitspraak gedaan zonder zitting. Artikel 8:54 van de Algemene wet bestuursrecht (Awb) biedt die mogelijkheid als het eindoordeel buiten redelijke twijfel staat. De rechtbank heeft het beroep kennelijk niet-ontvankelijk geacht. De reden hiervoor is dat de rechtbank tot de conclusie is gekomen dat [naam] niet tijdig beroep heeft ingesteld tegen de beslissing van 31 oktober 2019. </para>
+    <para />
+    <para>2. In deze verzetzaak beoordeelt de rechtbank uitsluitend of zij in de buiten-zittinguitspraak terecht heeft geoordeeld dat buiten redelijke twijfel is dat het beroep niet-ontvankelijk is. Aan de inhoud van de beroepsgronden komt de rechtbank in deze zaak pas toe als het verzet gegrond is. </para>
+    <para />
+    <para>3. [naam]  kan zich niet verenigen met de uitspraak van de rechtbank omdat zij van mening is dat de rechtbank heeft nagelaten goed in haar dossier te kijken want zij was wel op tijd. De rechtbank heeft een verkeerde methode tot beoordelen, dit heeft [naam] al met eerdere zaken meegemaakt. [naam] heeft haast niet te eten en haar huur moet ook nog betaald worden.</para>
+    <para />
+    <para>4. Bij brief van 3 maart 2020 heeft de rechtbank [naam] in de gelegenheid haar gronden van verzet binnen twee weken na dagtekening van die brief nader aan te vullen. [naam] is gevraagd aan te geven waarom zij van mening is dat zij wel tijdig beroep heeft ingediend. [naam] heeft niet gereageerd. Nader onderzoek bij PostNL heeft uitgewezen dat deze brief op 16 maart 2020 is afgehaald van een PostNL-locatie.</para>
+    <para />
+    <para>4. De verzetsrechter is gelet op het voorgaande van oordeel dat er geen aanleiding bestaat anders te oordelen dan in de uitspraak van 11 februari 2020. Voor het indienen van een beroepschrift geldt op grond van artikel 6:7 van de Awb een termijn van zes weken. Vaststaat dat de SVB het bestreden besluit bekend heeft gemaakt door verzending per post, zodat de termijn voor het indienen van een beroepschrift eindigde op 12 december 2019. [naam] heeft het beroepschrift op 13 december 2019  om 23 uur 43 minuten digitaal bij de rechtbank ingediend. Het beroepschrift is na de termijn ingediend. De rechtbank oordeelt dat indien [naam] enkel en alleen stelt dat de rechtbank de verkeerde methode tot beoordelen heeft toegepast, zonder dat zij aangeeft welke methode in haar optiek wel juist was geweest is onvoldoende om een verschoonbare termijnoverschrijding aan te nemen.  Mede in het belang van de rechtsgelijkheid maakt dat niet dat strikte regels betreffende beroepstermijn moet voldoen, opzij gezet kunnen worden. </para>
+    <para />
+    <para>5. In wat [naam] heeft aangevoerd, ziet de rechtbank dan ook geen aanleiding anders te oordelen dan in de uitspraak van 11 februari 2020. Het verzet is ongegrond. Dat betekent dat de buiten-zittinguitspraak in stand blijft.</para>
+    <para />
+    <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het verzet ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. drs. J.H.A.C. Everaerts, verzetrechter, in aanwezigheid van                                      N. Joacim, griffier. Deze uitspraak is gedaan op 30 april 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

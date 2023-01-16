@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:3473</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-29T13:37:29</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-16</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 20/ 3549 en 20/3449</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3473">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3473</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-29T13:29:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:3473 Rechtbank Amsterdam , 16-07-2020 / AMS 20/ 3549 en 20/3449</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:3473:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>8:86 Awb, PW bijzondere bijstand voor woonkosten, hardheidsclausule.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:3473:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 20/3549 (verzoekschrift) en AMS 20/3449 (beroepschrift) </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 16 juli 2020 op het beroep en het verzoek om een voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam 1] , te Amstelveen, verzoeker</bridgehead>
+    <para>(gemachtigde: mr. I. Heijselaar),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Amstelveen, </emphasis>verweerder</para>
+      <para>(gemachtigde: [naam 2] ).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 5 juni 2020 (het bestreden besluit) heeft verweerder verzoekers bezwaar tegen het besluit van 6 maart 2020, inhoudende de toekenning van een woonkostentoeslag tot 25 mei 2020, ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Hij heeft verder de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 8 juli 2020. Verschenen zijn, verzoeker bijgestaan door zijn gemachtigde en de gemachtigde van verweerder. De vader van verzoeker is eveneens verschenen. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>1.	Na afloop van de zitting is de voorzieningenrechter tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De aanleiding voor het besluit en de feiten </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Verzoeker is rolstoel gebonden en zorgbehoevend als gevolg van een dwarslaesie. Hij ontvangt een Wajong-uitkering<footnote-ref linkend="_1e5e20b3-bc32-4573-908c-9d235e4c02f0" />. Hij woont sinds medio 2018 in een rolstoeltoegankelijke huurwoning op het adres [adres 1] te Amstelveen. De huur van deze vrije sector woning bedraagt € 1.658,- per maand. Verzoeker staat onder bewind en heeft huurachterstand. Bij vonnis van de kantonrechter van 29 maart 2019 is verzoeker veroordeeld tot betaling van de huurachterstand en tot ontruiming van de woning, tenzij verzoeker vanaf 1 april 2019 de huur tijdig en volledig voldoet en verzoeker per 1 juli 2019 een betalingsregeling met de verhuurder treft (het ontruimingsvonnis). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Bij vonnis van de rechtbank Amsterdam, Afdeling privaatrecht, van 17 december 2019, is het ontruimingsvonnis opgeschort en is de verhuurder verboden om tot ontruiming van de door verzoeker gehuurde woning over te gaan tot 1 maart 2020, ondanks dat het moratorium in principe niet toewijsbaar is omdat verzoeker, bij gebrek aan financiële middelen, steeds nieuwe schulden laat ontstaan. Met name vanwege de persoonlijke omstandigheden (rolstoel gebondenheid en zorgbehoevendheid) achtte de rechtbank het zeer onwenselijk dat verzoeker op dat moment uit de woning zou worden ontruimd. Dit moratorium stelt verzoeker in staat om - voor zover hier van belang - goedkopere vervangende woonruimte te zoeken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Bij vonnis van de rechtbank Amsterdam van 3 maart 2020 is het moratorium verlengd tot 25 mei 2020 omdat de kansen van verzoeker op vervangende woonruimte - voor verzoeker geschikt en met een maandhuur die verzoeker kan opbrengen - binnen de resterende termijn van het moratorium aanzienlijk zijn toegenomen vanwege de verleende indicatie voor een zorgwoning. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Vanaf 1 april 2019 ontvangt verzoeker van verweerder een woonkostentoeslag van laatstelijk € 1.289,-  per maand<footnote-ref linkend="_be1dff4b-be9f-47da-9733-334487365b55" />. Verweerder heeft deze woonkostentoeslag een aantal keren - onder voorwaarden - toegekend en, wat de duur betreft, aangesloten bij de looptijd van het moratorium. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Verzoeker heeft naar betaalbare geschikte woonruimte gezocht. Op 11 mei 2020 heeft verzoeker drie woningen bezocht aan [adres 2] in Amstelveen. [adres 2] is een serviceflat voor ouderen. Bij deze bezichtigingen was een indicatieadviseur Wmo<footnote-ref linkend="_eff9a553-7d7c-45e1-bbea-99b1dea789f5" /> aanwezig. Hij heeft de drie woningen onderzocht en geconcludeerd dat de woningen geschikt zijn of geschikt te maken zijn voor verzoeker. Twee van deze woningen zijn direct beschikbaar. Voor de derde woning bestaat een wachtlijst. Verzoeker heeft geen van de woningen geaccepteerd.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De besluitvorming van verweerder</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Verweerder heeft verzoeker met het primaire besluit van 6 maart 2020 woonkostentoeslag toegekend voor de periode 1 maart 2020 tot en met 25 mei 2020. Dat is langer dan op grond van het beleid van verweerder is toegestaan. In artikel 12, derde lid, van de Beleidsregels bijzondere bijstand<footnote-ref linkend="_e2ba8904-cc23-4e8a-9dd5-b8a3df0a4cd1" /> staat namelijk dat woonkostentoeslag voor een periode van zes maanden wordt verleend en met maximaal zes maanden kan worden verlengd. Vanwege de verlenging van het moratorium heeft verweerder de hardheidsclausule toegepast en verzoeker voor een langere tijd woonkostentoeslag toegekend. Hierbij heeft verweerder verzoeker onder andere verplicht binnen afzienbare tijd te verhuizen naar een financieel passende woonruimte. Verzoeker moet hier aantoonbaar alle moeite voor doen. Dit betekent dat hij alle kansen benut, ook buiten de gemeente Amstelveen, en dat hij financieel passende woonruimte niet mag weigeren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Verweerder heeft inmiddels bij het bestreden besluit het bezwaar ongegrond verklaard. Kort gezegd ziet verweerder geen aanleiding meer om nog langer bijzondere omstandigheden aan te nemen om bijzondere bijstand voor de woonkosten te verstrekken. Verweerder wijst in dit verband op de mogelijkheden die er voor verzoeker zijn geweest om vervangende woonruimte te krijgen, maar hij deze niet heeft geaccepteerd. Verder is niet onderbouwd dat een verhuizing naar een woning aan [adres 2] leidt tot een verhoogde kans op besmetting met het Covid-19 virus. Verweerder merkt voorts op dat ingeval van ontruiming verzoeker niet op straat komt te staan. Het zorgkantoor heeft toegezegd voor verzoeker een crisisplek te zullen verzorgen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Standpunt verzoeker</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>4.	Verzoeker stelt zich op het standpunt dat de situatie in [adres 2] waar de drie aangeboden woningen zijn gelegen voor hem niet veilig is. Hij behoort tot de risicogroep die, volgens hem, zeer vatbaar is voor Covid-19. Verzoeker zegt daar zelf over “een bacil Corona en ik ben dood”. Volgens verzoeker is de entree zo krap bemeten dat daar de anderhalve meter afstand niet in acht genomen kan worden. Bovendien is er maar één lift. Daar komt bij dat zijn medebewoners, net zo als hij, behoren tot de risicogroep voor Covid-19. Onlangs zijn twee bewoners nog overleden aan Covid-19. Daarom heeft hij die woningen niet geaccepteerd. Verweerder heeft volgens verzoeker de Covid-19 situatie in [adres 2] in het licht van zijn vatbaarheid onzorgvuldig beoordeeld. Verweerder is niet ingegaan op wat verzoeker hierover aanvoert. Hij verwijst ook naar een drietal, in bezwaar overgelegde, medische verklaringen Hij wijst voorts op zijn persoonlijke omstandigheden. Hij beroept zich daarbij op de hardheidsclausule in het beleid<footnote-ref linkend="_d6edc548-81c6-48a9-a0a6-216864ba723a" />. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Overwegingen voorzieningenrechter</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <parablock>
+        <para>De voorzieningenrechter overweegt dat hier niet aan de orde is de ontruiming uit de woning. Het gaat er om of verweerder gehouden is om na 25 mei 2020, een bijdrage te leveren in de kosten van huur van verzoeker. Niet is in geschil dat verzoeker op grond van het beleid daar niet meer voor in aanmerking komt. Aan de orde is dus de vraag of verweerder ten aanzien van verzoeker de hardheidsclausule had moeten toepassen. Daarbij gaat de voorzieningenrechter er van uit dat verzoeker tot de risicogroep behoort voor Covid-19 wat inhoudt dat verzoeker een verhoogd risico heeft op een ernstiger verloop van</para>
+        <para>Covid-19.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Op 26 mei 2020<footnote-ref linkend="_b21200f9-bb20-4981-b256-cdd9c80d14fc" /> heeft de voorzieningenrechter van deze rechtbank uitspraak gedaan op het verzoek om voorlopige voorziening dat verzoeker had ingediend hangende de bezwaarfase In deze uitspraak is de voorzieningenrechter uitgebreid ingegaan op de stelling van verzoeker dat de woningen in [adres 2] voor hem geen optie zijn vanwege Covid-19. Verzoeker heeft in de hier aan de orde zijnde procedure zijn standpunt herhaald en dezelfde stukken ter onderbouwing van zijn standpunt overgelegd. Het aangevoerde geeft de voorzieningenrechter geen aanleiding om tot een ander oordeel te komen dan het oordeel neergelegd in de uitspraak van 26 mei 2020. Ter zitting heeft verweerder aangegeven dat niet is onderzocht of [adres 2] “coronaproof” is. Daar bestaat volgens verweerder geen aanleiding toe omdat [adres 2] een gewone serviceflat is. Verweerder heeft geen aanwijzing dat men zich daar niet aan de coronaregels zou kunnen houden. De voorzieningenrechter volgt verweerder in dit standpunt. Verzoeker heeft zijn stelling op geen enkele wijze onderbouwd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het beroep is ongegrond.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <parablock>
+        <para>Omdat het beroep ongegrond is, is geen aanleiding om een voorlopige voorziening te</para>
+        <para>treffen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter: </para>
+    </parablock>
+    <para />
+    <para>
+      <emphasis role="italic">-	in de zaak AMS 20/3449 </emphasis>
+      <?linebreak?>verklaart het beroep ongegrond;</para>
+    <para />
+    <para />
+    <para>
+      <emphasis role="italic">-	in de zaak AMS 20/3549 </emphasis>
+      <?linebreak?>wijst het verzoek om voorlopige voorziening af.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.H. Waller, voorzieningenrechter, in aanwezigheid van  R.E. Toonen, griffier. De beslissing is in het openbaar uitgesproken op 16 juli 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para />
+      <para>						voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan voor zover daarbij is beslist op het beroep binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    </parablock>
+  </section>
+  <footnote id="_1e5e20b3-bc32-4573-908c-9d235e4c02f0" label="1">
+    <para> Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.</para>
+  </footnote>
+  <footnote id="_be1dff4b-be9f-47da-9733-334487365b55" label="2">
+    <para> Zie het besluit van 21 januari 2020.</para>
+  </footnote>
+  <footnote id="_eff9a553-7d7c-45e1-bbea-99b1dea789f5" label="3">
+    <para> Wet maatschappelijke ondersteuning 2015</para>
+  </footnote>
+  <footnote id="_e2ba8904-cc23-4e8a-9dd5-b8a3df0a4cd1" label="4">
+    <para>Gemeenteblad 2017, 180922. https://zoek.officielebekendmakingen.nl/gmb-2017-180922.html.</para>
+  </footnote>
+  <footnote id="_d6edc548-81c6-48a9-a0a6-216864ba723a" label="5">
+    <para> Artikel 29. Hardheidsclausule. Het college kan in bijzondere gevallen ten gunste van de belanghebbende afwijken van de bepalingen in de beleidsregels, indien strikte toepassing ervan tot onbillijkheden van overwegende aard zou leiden.</para>
+  </footnote>
+  <footnote id="_b21200f9-bb20-4981-b256-cdd9c80d14fc" label="6">
+    <para> AMS 20/2346.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

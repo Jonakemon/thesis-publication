@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:3159</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-16T14:29:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 2533 en 20_2938</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JBP 2020/87</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:3159">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:3159</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-07T08:44:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:3159 Rechtbank Gelderland , 29-06-2020 / AWB - 20 _ 2533 en 20_2938</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:3159:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Voorlopige voorziening. Boetebesluit wegens overtreding artikel 12, tweede en vijfde lid, van de AVG. Openbaarmaking van het boetebesluit op grond van artikel 8 van de Wet openbaarheid bestuur. Verzoeken afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:3159:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para>Zittingsplaats Arnhem</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: AWB 20/2533 en 20/2938</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 29 juni 2020</bridgehead>
+    <para />
+    <parablock>
+      <para>op het verzoek om voorlopige voorziening in de zaak tussen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoekster] , te [woonplaats] , verzoekster</bridgehead>
+    <para>(gemachtigde: mr. H.H. de Vries)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Autoriteit Persoonsgegevens, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 30 juli 2019 heeft verweerder aan verzoekster een bestuurlijke boete opgelegd (boete). Bij besluit van 17 september 2019 heeft verweerder besloten tot openbaarmaking van het besluit van 30 juli 2019 (openbaarmaking).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluiten van 8 april 2020 (betreffende de boete respectievelijk de openbaarmaking) heeft verweerder de bezwaren van verzoekster ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen deze besluiten beroep ingesteld. Verzoekster heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft – achter gesloten deuren – plaatsgevonden op een online zitting op 8 juni 2020. Namens verzoekster zijn verschenen [verzoekster] en [verzoekster] , bijgestaan door de gemachtigde, mr. E.E. Troll en mr. S.A.M. Meijer. Verweerder heeft zich laten vertegenwoordigen mr. W. van Steenbergen en mr. O.S. Nijveld.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <para>2. Verweerder heeft een boete opgelegd van € 830.000. Daaraan ligt ten grondslag dat verzoekster volgens verweerder artikel 12, vijfde lid, van de Algemene verordening gegevensbescherming (AVG) vanaf 25 mei 2018 tot en met 28 april 2019 heeft overtreden, omdat verzoekster niet kosteloos op elektronische wijze inzage in persoonsgegevens heeft gegeven aan betrokkenen in het kader van het recht van inzage. Daarnaast heeft verzoekster volgens verweerder tussen 25 mei 2018 tot en met 12 maart 2019 artikel 12, tweede lid, van de AVG overtreden, omdat verzoekster het recht van inzage ingevolge artikel 15 van de AVG niet heeft gefaciliteerd.</para>
+    <parablock>
+      <para>Verder heeft verweerder besloten tot openbaarmaking van het boetebesluit.</para>
+      <para>In een voorlopige voorziening hangende bezwaar heeft de voorzieningenrechter in de uitspraak van 5 december 2019 het openbaarmakingsbesluit geschorst tot tien dagen na verzending van de beslissing op het bezwaar tegen het boetebesluit. </para>
+    </parablock>
+    <para />
+    <para>3. De voorzieningenrechter stelt vast dat, anders dan bij de voorlopige voorziening hangende bezwaar, nu zowel om een voorlopige voorziening is verzocht ten aanzien van het boetebesluit (zaaknummer 20/2938) als ten aanzien van het openbaarmakingsbesluit (zaaknummer 20/2533). </para>
+    <para />
+    <para>4. De voorzieningenrechter heeft het verzoek om de zaak ter zitting achter gesloten deuren te behandelen toegewezen, omdat door een openbare behandeling ter zitting bekend kan worden dat verzoekster een boete opgelegd heeft gekregen door verweerder, terwijl de vraag of verweerder tot bekendmaking van de boete mag overgaan juist de vraag is die in deze procedure moet worden beantwoord.</para>
+    <para />
+    <para>5. In de uitspraak van 10 november 2010 heeft de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) het volgende overwogen:</para>
+    <para />
+    <parablock>
+      <para>“Het boetebesluit is een bevoegd genomen besluit in het kader van een aan het college door de wetgever toegekende taak om toezicht te houden op de naleving van regelgeving en de daarmee samenhangende bevoegdheid om handhavend op te treden tegen overtreding van die regelgeving. In het kader van deze toezichthoudende taak past dat boetebesluiten worden gepubliceerd, zodat bekendheid wordt gegeven aan de wijze van uitvoering van deze taak. Met de rechtbank is de Afdeling van oordeel dat artikel 8 en artikel 10 van de Wob in het algemeen de basis bieden om sanctiebesluiten volledig, met inbegrip van de namen van de betrokkenen, te publiceren. Zoals de rechtbank terecht met een verwijzing naar de uitspraak van de Afdeling van 31 mei 2006 (in zaak nr. 200505388/1) heeft overwogen, is ook in geval van een voorgenomen spontane openbaarmaking ingevolge artikel 8, eerste lid, van de Wob een nadere afweging van belangen geboden. Deze nadere afweging houdt in dit geval in dat het algemene belang dat door onverkorte openbaarmaking wordt gediend, wordt afgewogen tegen het belang van ECS geen onevenredig nadeel te lijden als gevolg van de publicatie, waarbij aan het algemeen belang een groot gewicht moet worden toegekend.</para>
+      <para>Van een onevenredige benadeling zal in gevallen als de onderhavige naar het oordeel van de Afdeling sprake kunnen zijn als het boetebesluit uiteindelijk in rechte geen stand houdt en de betrokken rechtspersoon ten onrechte als overtreder kenbaar is gemaakt. Of sprake is van onevenredige benadeling hangt dan af van een oordeel over de rechtmatigheid van het boetebesluit.”<footnote-ref linkend="_05a8cfce-e7f7-4e2f-9150-7969487dccb1" /></para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>De voorzieningenrechter acht een spoedeisend belang aanwezig, omdat publicatie van het boetebesluit onomkeerbare gevolgen heeft. Voor wat betreft het verzoek om voorlopige voorziening ten aanzien van het boetebesluit is een spoedeisend belang aanwezig omdat, gelet op de voornoemde uitspraak van de Afdeling, een voorlopig oordeel over de openbaarmaking ook een voorlopig oordeel over het boetebesluit vergt.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Is openbaarmaking een punitieve sanctie?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	Verzoekster heeft aangevoerd dat de openbaarmaking van het boetebesluit een punitieve sanctie is en dat artikel 8 van de Wob geen grondslag biedt voor het besluit tot openbaarmaking.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Verweerder heeft zich op het standpunt gesteld dat in de uitspraak van de Afdeling van 2 augustus 2017 is beslist dat openbaarmaking van een boetebesluit geen punitieve sanctie is, en voorts dat de openbaarmaking niet is gericht op leedtoevoeging, zodat van een punitieve sanctie geen sprake is.<footnote-ref linkend="_523da5d9-b7fc-4bdd-b398-433a5b1ceeec" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>De voorzieningenrechter is van oordeel dat uit de uitspraak van de Afdeling van 2 augustus 2017 niet volgt dat openbaarmaking geen punitieve sanctie is. Uit de uitspraak begrijpt de voorzieningenrechter dat in die zaak was aangevoerd dat met de openbaarmaking van inspectiegegevens sprake was van strijd met het beginsel van ne bis in idem. Volgens dit beginsel mag een betrokkene die strafrechtelijk veroordeeld is voor een overtreding, later niet nogmaals voor dezelfde overtreding vervolgd en gestraft worden. In de zaak die ten grondslag lag aan de uitspraak van 2 augustus 2017 was kennelijk sprake van een boetebesluit en een besluit tot openbaarmaking die deel uitmaakten van een samenstel van maatregelen dat in die zaak naar aanleiding van de geconstateerde overtreding kon worden getroffen. Het ging in die zaak dus om twee (min of meer) gelijktijdige sancties, en niet om opvolgende sancties. Daarom oordeelde de Afdeling dat “reeds daarom” geen sprake was van een verboden dubbele bestraffing. Dat betekent naar het oordeel van de voorzieningenrechter dat de Afdeling in die uitspraak in het midden heeft gelaten of openbaarmaking een punitieve sanctie is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>In het besluit op bezwaar over de openbaarmaking heeft verweerder, onder verwijzing naar artikel 2.1 van de Beleidsregels openbaarmaking door de AP, gesteld dat de openbaarmaking niet is gericht op leedtoevoeging en dat met openbaarmaking de in artikel 2.1 genoemde doelen worden nagestreefd. Artikel 2.1 van deze beleidsregels luidt als volgt:</para>
+      <para />
+      <parablock>
+        <para>“2.1 De Autoriteit Persoonsgegevens verschaft uit eigen beweging informatie over het beleid, daaronder begrepen de voorbereiding en uitvoering daarvan met het oog op (i) het tijdig en afdoende informeren van het publiek over overtredingen die hen persoonlijk (kunnen) treffen en de naleving van de geconstateerde overtredingen (ii) transparantie over zijn beleid en de uitvoering daarvan, (iii) het afleggen van verantwoording over de wijze waarop de Autoriteit Persoonsgegevens van zijn bevoegdheden gebruik maakt, (iv) het effectueren van het beleid van de Autoriteit Persoonsgegevens.”<footnote-ref linkend="_f1251d0d-c846-4781-9da1-972e9ff69352" /></para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <parablock>
+        <para>De voorzieningenrechter is van oordeel dat de openbaarmaking aldus niet is gericht op leedtoevoeging. </para>
+        <para>Verzoekster heeft aangevoerd dat het informeren van het publiek over overtredingen die hen persoonlijk (kunnen) treffen niet meer nodig is, omdat de door verweerder gestelde overtredingen inmiddels zijn beëindigd. De voorzieningenrechter is van oordeel dat dit niet betekent dat de openbaarmaking op leedtoevoeging gericht zou zijn, omdat met openbaarmaking ook de andere genoemde doelen worden nagestreefd.</para>
+        <para>Verzoekster heeft aangevoerd dat verweerder met de openbaarmaking preventie nastreeft en dat hieruit volgt dat openbaarmaking is gericht op leedtoevoeging, namelijk ‘naming and shaming’. De voorzieningenrechter volgt dit standpunt niet. Openbaarmaking van een boetebesluit heeft tot gevolg dat anderen die mogelijk de AVG overtreden kunnen zien dat verweerder daadwerkelijk tegen overtredingen optreedt. Het doel van de openbaarmaking is dan de algemene preventieve werking en niet leedtoevoeging.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5.</nr>
+      <para>Anders dan verzoekster stelt, kan naar het oordeel van de voorzieningenrechter uit de omstandigheid dat verweerder bij de totstandkoming van de Uitvoeringswet Algemene verordening gegevensbescherming (UAVG) voorstander was van het opnemen van een openbaarmakingsverplichting niet worden afgeleid dat openbaarmaking een punitieve sanctie is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.6.</nr>
+      <para>De voorzieningenrechter volgt niet het standpunt van verzoekster dat verweerder zich in een advies over wijziging van belastingwetgeving op het standpunt heeft gesteld dat openbaarmaking van een boetebesluit een punitieve sanctie is, noch daargelaten dat een standpunt van verweerder niet bepalend is voor die vraag. Verweerder heeft er bovendien op gewezen dat in dat advies werd gesproken over de gevolgen van de openbaarmaking van een boetebesluit voor natuurlijke personen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.7.</nr>
+      <para>Naar voorlopig oordeel van de voorzieningenrechter is de openbaarmaking van het boetebesluit geen punitieve sanctie. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boetebesluit staat nog niet in rechte vast</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>7.	Verzoekster heeft aangevoerd dat, zolang het boetebesluit niet onherroepelijk is, de belangen van verzoekster in het kader van de belangenafweging op grond van artikel 10, tweede lid, aanhef en onder g van de Wob zwaarder dienen te wegen dan de belangen die verweerder met openbaarmaking nastreeft. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>De voorzieningenrechter volgt dit standpunt niet. Anders dan verzoekster stelt volgt zulks niet uit de jurisprudentie. Uit de hiervoor genoemde uitspraak van de Afdeling van 10 november 2010 leidt de voorzieningenrechter integendeel af dat, omdat de mogelijkheid bestaat om in het kader van een voorlopige voorziening een voorlopige oordeel te krijgen over de rechtmatigheid van het boetebesluit, dat oordeel moet worden betrokken in de rechterlijke procedure over de openbaarmaking van het boetebesluit.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overtreding van artikel 12, vijfde lid, van de AVG?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>8. Artikel 12, vijfde lid, van de AVG luidt als volgt:</para>
+      <parablock>
+        <para>“Het verstrekken van de in de artikelen 13 en 14 bedoelde informatie, en het verstrekken van de communicatie en het treffen van de maatregelen bedoeld in de artikelen 15 tot en met 22 en artikel 34 geschieden kosteloos. Wanneer verzoeken van een betrokkene kennelijk ongegrond of buitensporig zijn, met name vanwege hun repetitieve karakter, mag de verwerkingsverantwoordelijke ofwel: </para>
+        <para>a) een redelijke vergoeding aanrekenen in het licht van de administratieve kosten waarmee het verstrekken van de gevraagde informatie of communicatie en het treffen van de gevraagde maatregelen gepaard gaan; ofwel</para>
+        <para>b) weigeren gevolg te geven aan het verzoek. </para>
+        <para>Het is aan de verwerkingsverantwoordelijke om de kennelijk ongegronde of buitensporige aard van het verzoek aan te tonen.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 15, derde lid, van de AVG luidt als volgt:</para>
+        <para>“De verwerkingsverantwoordelijke verstrekt de betrokkene een kopie van de persoonsgegevens die worden verwerkt. Indien de betrokkene om bijkomende kopieën verzoekt, kan de verwerkingsverantwoordelijke op basis van de administratieve kosten een redelijke vergoeding aanrekenen. Wanneer de betrokkene zijn verzoek elektronisch indient, en niet om een andere regeling verzoekt, wordt de informatie in een gangbare elektronische vorm verstrekt.“</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Verweerder stelt zich op het standpunt dat verzoekster weliswaar elektronische inzage mogelijk heeft gemaakt, maar dat die inzage in strijd met artikel 12, vijfde lid, van de AVG niet kosteloos was.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Verzoekster is van mening dat met de kosteloze schriftelijke inzagemogelijkheid was voldaan aan de AVG, en dat de AVG geen verplichting bevat om de elektronische inzagemogelijkheid kosteloos aan te bieden. Verder stelt verzoekster, onder verwijzing naar artikel 12, vijfde lid, tweede volzin, en artikel 15, derde lid, tweede volzin, dat de AVG hierover niet duidelijk is, dat zij daarom niet kon weten wat er van haar verwacht werd, en dat de opgelegde boete daarom in strijd is met het lex certa-beginsel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Artikel 12, vijfde lid, eerste volzin, bepaalt dat de aldaar genoemde informatie kosteloos wordt verstrekt. Die verplichting is niet beperkt tot een bepaalde vorm (bijvoorbeeld op papier, of elektronisch) waarin de informatie wordt verstrekt. Naar het oordeel van de voorzieningenrechter is op grond van de eerste volzin duidelijk dat elektronische informatieverstrekking kosteloos moet geschieden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4.</nr>
+      <para>De tweede volzin van artikel 12, vijfde lid, houdt in dat er een uitzondering is op het uitgangspunt van kosteloze informatieverstrekking in geval van een kennelijk ongegrond of buitensporig verzoek. De voorzieningenrechter volgt verzoekster niet in haar standpunt dat de tweede volzin van artikel 12, vijfde lid, niet duidelijk is. De woorden ‘kennelijk ongegrond’ en ‘buitensporig’ zijn voldoende duidelijk om te beoordelen of een concreet verzoek om inzage daaraan voldoet. Dat geldt ook voor de woorden ‘met name vanwege hun repetitieve karakter’, waarmee aangegeven wordt dat met name bij herhaalde verzoeken sprake kan zijn van buitensporigheid.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.5.</nr>
+      <parablock>
+        <para>Verzoekster stelt zich op het standpunt dat met ‘bijkomende kopieën’ in artikel 15, derde lid, wordt gedoeld op bijkomende, eventueel nieuwe overzichten van persoonsgegevens – dus overzichten die later zijn gevraagd – en dat hierdoor onduidelijkheid ontstaat, omdat in de tweede volzin van artikel 12, vijfde lid, ook bepalingen zijn opgenomen over herhaalde aanvragen.</para>
+        <para>De voorzieningenrechter volgt dit standpunt niet.</para>
+        <para>Naar het oordeel van de voorzieningenrechter houdt de tweede volzin in dat, als door een betrokkene wordt verzocht om meer dan één kopie van zijn persoonsgegevens, voor die extra kopieën kosten in rekening gebracht mogen worden. Deze bepaling is niet onduidelijk. Voor de uitleg van verzoekster dat met ‘bijkomende kopieën’ wordt gedoeld op extra kopieën die worden opgevraagd nadat de eerste kopie is verstrekt – dus op herhaalde verzoeken – ziet de voorzieningenrechter geen aanknopingspunten, niet in de tekst van deze bepaling en ook niet anderszins. Het feit dat in artikel 12, vijfde lid, al een regeling is opgenomen voor herhaalde verzoeken is, anders dan verzoekster meent, juist een bijkomend argument waarom de uitleg van verzoekster niet voor de hand ligt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.6.</nr>
+      <para>Er is geen aanleiding om te oordelen dat artikel 12, vijfde lid, of artikel 15, derde lid, onvoldoende duidelijk is. Daarom kan het verschil van inzicht tussen partijen over de vraag hoe deze bepalingen zich verhouden tot de eerdere richtlijn en de Wet bescherming persoonsgegevens, buiten beschouwing blijven.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.7.</nr>
+      <para>Naar voorlopig oordeel van de voorzieningenrechter heeft verzoekster artikel 12, vijfde lid, overtreden doordat de elektronische inzage niet kosteloos was.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overtreding van artikel 12, tweede lid, van de AVG?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>9.	Artikel 12, tweede lid, van de AVG luidt als volgt:</para>
+        <para>“De verwerkingsverantwoordelijke faciliteert de uitoefening van de rechten van de betrokkene uit hoofde van de artikelen 15 tot en met 22. In de in artikel 11, lid 2, bedoelde gevallen mag de verwerkingsverantwoordelijke niet weigeren gevolg te geven aan het verzoek van de betrokkene om diens rechten uit hoofde van de artikelen 15 tot en met 22 uit te oefenen, tenzij de verwerkingsverantwoordelijke aantoont dat hij niet in staat is de betrokkene te identificeren.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <parablock>
+        <para>In de privacyverklaring van verzoekster was het volgende opgenomen:</para>
+        <para>“Iedereen heeft het recht om één keer per jaar kosteloos alle persoons- en kredietgegevens die in het CKI zijn geregistreerd in te zien. De inzage wordt op papier verstrekt op het opgegeven huisadres. [...]</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Indien u inzage wilt hebben in uw gegevens in het PEP-registratiesysteem, kunt u hetzelfde formulier gebruiken als voor inzage in uw persoonsgegevens in het Centraal Krediet Informatiesysteem (CKI) Ook deze inzage wordt één keer per jaar kosteloos gegeven . […]</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Indien u inzage wilt hebben in uw gegevens in het VIS-registratiesysteem, kunt u hetzelfde formulier gebruiken als voor inzage in uw persoonsgegevens in het Centraal Krediet Informatiesysteem (CKI). Ook deze inzage wordt één keer per jaar kosteloos gegeven.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op de website van verzoekster was het volgende vermeld:</para>
+        <para>“U kunt een keer per jaar kosteloos inzage doen in uw gegevens. Wilt u snel inzicht of heeft u het overzicht nodig voor kredietaanvragen? Kies dan voor BKR Basis, Plus of Premium. De AVG inzage wordt binnen 28 dagen op papier aangeleverd.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Verweerder stelt zich op het standpunt dat verzoekster artikel 12, tweede lid, van de AVG heeft overtreden, doordat verzoekster met haar actief uitgedragen beleid, waarin werd gesteld dat één keer per jaar per post een verzoek tot inzage gedaan kon worden, het recht van inzage ingevolge artikel 15 van de AVG niet heeft gefaciliteerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3.</nr>
+      <para>Verzoekster is van mening dat met de kosteloze schriftelijke inzagemogelijkheid van één keer per jaar was voldaan aan de AVG, en dat zij dus voldaan heeft aan de verplichting om het recht van inzage te faciliteren. Verder stelt verzoekster dat de uitleg die verweerder aan het begrip ‘faciliteren’ geeft niet uit de AVG volgt, dat zij daarom niet kon weten wat er van haar verwacht werd, en dat de opgelegde boete daarom in strijd is met het lex certa-beginsel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.4.</nr>
+      <parablock>
+        <para>Naar voorlopig oordeel van de voorzieningenrechter heeft verzoekster met de door haar geboden mogelijkheid om één keer per jaar schriftelijk kosteloos inzage te krijgen in de persoonsgegevens niet voldaan aan het recht van inzage van artikel 15 van de AVG, in samenhang met artikel 12, vijfde lid, van de AVG. </para>
+        <para>Zoals hiervoor onder 8.3 en verder reeds geoordeeld dient iedere inzage op basis van artikel 15 van de AVG kosteloos te zijn, en heeft verzoekster de kosteloze inzagemogelijkheid dus ten onrechte beperkt tot de schriftelijke inzage.</para>
+        <para>Bovendien is de schriftelijke inzagemogelijkheid ten onrechte beperkt tot één keer per jaar. Ingevolge artikel 12, vijfde lid, van de AVG mag verzoekster herhaalde aanvragen afwijzen indien deze ‘buitensporig’ zijn. Op voorhand kan niet worden gesteld dat een tweede schriftelijk verzoek binnen een jaar buitensporig is. Dat volgens verzoekster de frequentie van één maal per jaar is gebaseerd op onderzoek, waaruit bleek dat betrokkenen gemiddeld één keer per jaar om inzage verzoeken, maakt dat niet anders. Dat gemiddeld één keer per jaar om inzage wordt verzocht, betekent niet dat een tweede verzoek binnen een jaar buitensporig is.</para>
+        <para>De verwijzingen door verzoekster naar overweging 63 in de considerans van de AVG, waarin sprake is van ‘met redelijke tussenpozen’, naar de wetsgeschiedenis van de UAVG (‘met redelijke tussenpozen’) en naar de wetsgeschiedenis van de voormalige Wet bescherming persoonsgegevens (‘meer dan gemiddeld’), maken het voorgaande evenmin anders. Het woord ‘buitensporig’ in artikel 12, vijfde lid, van de AVG is voldoende duidelijk en behoeft dus geen nadere uitleg aan de hand van de considerans of de andere door verzoekster genoemde documenten. Bovendien kan niet op voorhand worden gesteld dat een tweede verzoek binnen een jaar niet voldoet aan ‘met redelijke tussenpozen’, en – zoals hiervoor reeds overwogen – ook niet dat zo’n verzoek op voorhand als ‘buitensporig’ kan worden aangemerkt, zodat ook in de bewoordingen waarnaar verzoekster heeft verwezen geen grond kan worden gevonden om te oordelen dat het beleid van verzoekster om de inzage tot één keer per jaar te beperken in overeenstemming met de AVG is.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.5.</nr>
+      <para>Het voorgaande betekent dat het door verzoekster gehanteerde en uitgedragen beleid in strijd is met het recht van inzage in artikel 15 van de AVG. Vervolgens is de vraag aan de orde of verzoekster door dit beleid en het uitdragen daarvan heeft gehandeld in strijd met de verplichting van artikel 12, tweede lid, van de AVG om het inzagerecht van artikel 15 te faciliteren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.6.</nr>
+      <para>Verweerder heeft zich op het standpunt gesteld dat het beleid van verzoekster en het actief uitdragen daarvan het inzagerecht heeft belemmerd, dat verzoekster een drempel heeft opgeworpen om van het inzagerecht gebruik te maken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.7.</nr>
+      <para>Naar voorlopig oordeel van de voorzieningenrechter heeft verzoekster niet voldaan aan de verplichting van artikel 12, tweede lid, om het inzagerecht van artikel 15 te faciliteren. Hiervoor is reeds overwogen dat het beleid van verzoekster op verschillende punten in strijd is met het recht van inzage. Door onjuiste informatie over het recht van inzage te verschaffen, onder andere op de website van verzoekster, heeft zij betrokkenen daarover op het verkeerde been gezet, waardoor betrokkenen mogelijk geen gebruik hebben gemaakt van het recht van inzage zoals zij dat ingevolge de AVG hebben. Aldus heeft verzoekster het recht van inzage belemmerd. Verweerder heeft het beleid en het actief uitdragen daarvan daarom terecht aangemerkt als overtreding van de verplichting om het recht van inzage te faciliteren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.8.</nr>
+      <para>Volgens verzoekster betekent ‘faciliteren’ ‘mogelijk maken’. Verweerder stelt dat ‘faciliteren’ ruimer moet worden opgevat en ook ‘makkelijker maken’ omvat. Deze discussie is naar het oordeel van de voorzieningenrechter voor de onderhavige zaak niet relevant omdat verzoekster de uitoefening van het recht van inzage heeft belemmerd, en die belemmering in elk geval niet kan worden aangemerkt als het faciliteren van dat recht. De term ‘faciliteren’ is in zoverre ook niet onduidelijk; verzoekster kon weten dat van haar verwacht werd dat zij het recht van inzage niet zou belemmeren. Van strijd met het lex certa-beginsel is daarom geen sprake.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Onevenredige benadeling?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>10.	Artikel 8 en artikel 10 van de Wob bieden in het algemeen de basis om sanctiebesluiten volledig, met inbegrip van de namen van de betrokkenen, te publiceren. In geval van een voorgenomen spontane openbaarmaking ingevolge artikel 8, eerste lid, van de Wob is een nadere afweging van belangen geboden. Deze nadere afweging houdt in dit geval in dat het algemene belang dat door onverkorte openbaarmaking wordt gediend, wordt afgewogen tegen het belang van verzoekster geen onevenredig nadeel te lijden als gevolg van de publicatie, waarbij aan het algemeen belang een groot gewicht moet worden toegekend.<footnote-ref linkend="_66909364-3547-4b19-a3f4-c4ac07ed93c2" /></para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Hiervoor is geoordeeld dat verzoekster artikel 12, vijfde lid, en artikel 12, tweede lid, van de AVG heeft overtreden. Dat betekent dat verzoekster niet ten onrechte als overtreder kenbaar zal worden gemaakt, en dat openbaarmaking van het boetebesluit in zoverre niet tot onevenredige benadeling van verzoekster zal leiden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>Vervolgens is de vraag aan de orde of openbaarmaking om andere redenen tot onevenredige benadeling van verzoekster zal leiden. Verzoekster heeft in dat verband het volgende aangevoerd:</para>
+      <para>- Ten onrechte zijn twee boetes opgelegd. De gedragingen die volgens verweerder in strijd met de AVG zijn, kunnen hooguit worden opgevat als één overtreding.</para>
+      <para>- De hoogte van de boete geeft een vertekend beeld van de omvang van de overtredingen. </para>
+      <para>- Verzoekster vreest voor (onherstelbare) imagoschade.</para>
+      <para>- Verzoekster vreest voor extra administratieve kosten.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Twee boetes</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>10.3.</nr>
+      <parablock>
+        <para>Naar het oordeel van de voorzieningenrechter is sprake van twee verschillende overtredingen. </para>
+        <para>De overtreding van artikel 12, tweede lid, bestaat erin dat verzoekster actief het beleid uitdroeg dat een betrokkene één maal per jaar zonder kosten schriftelijk inzage kon krijgen in de persoonsgegevens. </para>
+        <para>Bij de overtreding van artikel 12, vijfde lid, is de verweten gedraging dat, indien een betrokkene elektronisch om inzage verzocht, die inzage niet kosteloos gegeven werd. Of deze handelwijze – geen kosteloze elektronisch inzage – ook actief is uitgedragen, is voor de overtreding van artikel 12, vijfde lid, niet van belang, terwijl het actief uitgedragen beleid – één maal per jaar kosteloze schriftelijke inzage – juist de essentie is van overtreding van artikel 12, tweede lid, omdat daardoor het uitoefenen van het recht van inzage wordt bemoeilijkt. </para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Hoogte van de boete</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>10.4.</nr>
+      <parablock>
+        <para>Op grond van artikel 38 van de UAVG is de werking van het boetebesluit opgeschort tot de rechtbank op het beroep tegen het boetebesluit heeft beslist. Dat betekent dat verzoekster de boete voorlopig niet hoeft te betalen en dat daarom geen aanleiding bestaat voor de voorzieningenrechter om in het kader van het verzoek om voorlopige voorziening een voorlopig rechtmatigheidsoordeel over de hoogte van de boete te geven.</para>
+        <para>Met betrekking tot de vraag of openbaarmaking van (de hoogte van) de boete tot een onevenredige benadeling voor verzoekster zal leiden overweegt de voorzieningenrechter het volgende.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.5.</nr>
+      <parablock>
+        <para>Verweerder heeft het volgende aangevoerd. </para>
+        <para>Verzoekster verwerkt de (krediet)gegevens van ongeveer 12 miljoen personen. Deze verwerking kan grote gevolgen hebben voor de betrokkenen. Zo kunnen betrokkenen er onverwachts mee geconfronteerd worden dat zij vanwege een registratie bij verzoekster geen hypotheek of lening kunnen afsluiten. De inzagemogelijkheid is van groot belang voor betrokkenen om te kunnen controleren of een registratie bij verzoekster juist is of geëindigd is.</para>
+        <para>De overtreding van artikel 12, vijfde lid, heeft vanaf 25 mei 2018 ruim elf maanden geduurd, de overtreding van artikel 12, tweede lid, ruim negen maanden. Daarbij is sprake geweest van een groot aantal getroffenen. De ruim 10.000 betrokkenen die in de periode van 25 mei 2018 tot 14 september 2018 een inzageverzoek per post hebben gedaan, zijn door het uitgedragen beleid ontmoedigd om een tweede inzageverzoek te doen. In dezelfde periode hebben ruim 30.000 betrokkenen een betaald abonnement gekocht, terwijl verzoekster hiervoor geen kosten in rekening mocht brengen waar het een eerste verzoek betrof.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.6.</nr>
+      <para>Verder heeft verweerder erop gewezen dat de hoogte van de boete is bepaald op basis van de Boetebeleidsregels Autoriteit Persoonsgegevens 2019, en dat de andere boetes die tot nu toe openbaar zijn gemaakt door verweerder ook op die beleidsregels zijn gebaseerd.<footnote-ref linkend="_5cde98b8-f14d-4f88-bc26-abab7cab9e7f" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.7.</nr>
+      <parablock>
+        <para>Gelet op hetgeen door verweerder is aangevoerd, is de voorzieningenrechter van oordeel dat geen aanleiding bestaat om aan te nemen dat de hoogte van de boete een vertekend beeld geeft van de omvang van de overtredingen, en dat de openbaarmaking om die reden tot een onevenredige benadeling van verzoekster zal leiden.</para>
+        <para>Dat verzoekster de geldigheid en de juiste toepassing van de beleidsregels betwist maakt dat niet anders. Hetzelfde geldt voor de verwijzing door verzoekster naar een boete van € 1.900 die in Hongarije voor overtreding van de AVG is opgelegd. Verweerder heeft voldoende toegelicht dat die situatie niet vergelijkbaar is met de onderhavige zaak.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Imagoschade en extra administratiekosten</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>10.8.</nr>
+      <parablock>
+        <para>Verzoekster heeft aangevoerd dat de negatieve media-aandacht zeer groot zal zijn, indien het boetebesluit openbaar wordt gemaakt. Die imagoschade zal ook schade toebrengen aan het maatschappelijk doel dat met de kredietregistraties wordt nagestreefd, namelijk het voorkomen van overkreditering bij consumenten. De verwachte imagoschade wringt temeer omdat de overtredingen al geruime tijd zijn gestaakt.</para>
+        <para>Verder heeft verzoekster aangevoerd dat ten gevolge van de openbaarmaking de kans bestaat dat betrokkenen die in de periode van 25 mei 2018 tot 29 april 2019 een betaald abonnement voor elektronisch inzage hadden, het betaalde abonnementsgeld terugvragen en dat dit tot extra administratieve kosten zal leiden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.9.</nr>
+      <parablock>
+        <para>Verweerder heeft zich op het standpunt gesteld dat enige benadeling als gevolg van de openbaarmaking op voorhand niet kan worden uitgesloten, maar dat aannemelijk is dat het effect hiervan op de marktpositie van verzoekster verwaarloosbaar zal zijn, omdat verzoekster het enige kredietregistratiebureau in Nederland is. Bovendien is eventuele imagoschade veeleer het gevolg van de overtredingen door verzoekster, en niet van de openbaarmaking van het boetebesluit.</para>
+        <para>Volgens verweerder is voorts niet aannemelijk dat openbaarmaking zal leiden tot extra administratieve kosten, omdat het terugvragen van abonnementsgeld al eerder had kunnen plaatsvinden. Bovendien is terugvordering een civiele kwestie waar verweerder niet in treedt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.10.</nr>
+      <parablock>
+        <para>De voorzieningenrechter acht aannemelijk dat openbaarmaking van het boetebesluit tot ruime media-aandacht en tot een bepaalde mate van imagoschade zal leiden. </para>
+        <para>Ook acht de voorzieningenrechter aannemelijk dat openbaarmaking van het boetebesluit tot verzoeken om teruggave van abonnementsgeld zal leiden, en dus tot extra administratieve kosten.</para>
+        <para>Maar het is niet aannemelijk geworden dat die imagoschade en de administratieve kosten zodanig zullen zijn dat sprake is van een onevenredige benadeling van verzoekster, die zwaarder dient te wegen dan het algemeen belang dat met openbaarmaking is gediend. </para>
+        <para>Daarbij heeft de voorzieningenrechter ook meegewogen dat verweerder er terecht op heeft gewezen dat de imagoschade en de extra administratieve kosten veeleer een gevolg zijn van de overtredingen, dan van de openbaarmaking.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.11.</nr>
+      <parablock>
+        <para>Verweerder heeft gesteld dat het effect van de openbaarmaking op de marktpositie van verzoekster verwaarloosbaar zal zijn, omdat verzoekster het enige kredietregistratiebureau in Nederland is.</para>
+        <para>Verzoekster heeft erop gewezen dat sinds enige tijd concurrerende handelsinformatiebureaus actief zijn in Nederland. </para>
+        <para>De voorzieningenrechter begrijpt hieruit dat verzoekster ook vreest voor commerciële schade doordat klanten wellicht zullen overstappen naar anderen. Verzoekster beschikt over de kredietgegevens van 12 miljoen personen. Niet aannemelijk is geworden dat eventuele andere marktpartijen een zodanige (informatie)positie hebben dat openbaarmaking van het boetebesluit daadwerkelijk tot het verlies van klanten zal leiden. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>11.	De voorzieningenrechter ziet geen aanleiding voor het treffen van een voorlopige voorziening. De verzoeken zullen worden afgewezen. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst de verzoeken om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="3">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <tbody>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Deze uitspraak is gedaan op 29 juni 2020 door mr. D.J. Post, voorzieningenrechter, in tegenwoordigheid van mr. M.I. Tuk, griffier. </para>
+              <para />
+              <para />
+              <para />
+              <para>
+                <emphasis role="italic">De voorzieningenrechter en de griffier zijn in verband met de maatregelen rondom het coronavirus verhinderd deze uitspraak te ondertekenen.</emphasis>
+              </para>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para>voorzieningenrechter</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Afschrift verzonden aan partijen op:</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>
+                <emphasis role="bold">Rechtsmiddel</emphasis>
+              </para>
+              <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+  </section>
+  <footnote id="_05a8cfce-e7f7-4e2f-9150-7969487dccb1" label="1">
+    <para> ABRvS 10 november 2010, ECLI:NL:RVS:2010:BO3468.</para>
+  </footnote>
+  <footnote id="_523da5d9-b7fc-4bdd-b398-433a5b1ceeec" label="2">
+    <para> ABRvS 2 augustus 2017, ECLI:NL:RVS:2017:2086.</para>
+  </footnote>
+  <footnote id="_f1251d0d-c846-4781-9da1-972e9ff69352" label="3">
+    <para> Beleidsregels openbaarmaking door de Autoriteit Persoonsgegevens, <emphasis role="italic">Stcrt. </emphasis>2016, 1380.</para>
+  </footnote>
+  <footnote id="_66909364-3547-4b19-a3f4-c4ac07ed93c2" label="4">
+    <para> ABRvS 10 november 2010, ECLI:NL:RVS:2010:BO3468.</para>
+  </footnote>
+  <footnote id="_5cde98b8-f14d-4f88-bc26-abab7cab9e7f" label="5">
+    <para> Beleidsregels van de Autoriteit Persoonsgegevens van 19 februari 2019 met betrekking tot het bepalen van de hoogte van bestuurlijke boetes, <emphasis role="italic">Stcrt. </emphasis>2019, 14586.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

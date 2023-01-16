@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2714</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-10T13:32:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">UTR 20/2317</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2714">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2714</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-10T13:28:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2714 Rechtbank Midden-Nederland , 07-07-2020 / UTR 20/2317</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2714:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Vovo bezwaar afgewezen, geen spoedeisend belang. Dwangsom boven het hoofd is onvoldoende.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2714:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Utrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 20/2317</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de voorzieningenrechter van 7 juli 2020 in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [verzoeker] , te [woonplaats] , verzoeker</bridgehead>
+    <bridgehead role="bold">(gemachtigde: mr. T.S. van der Horst),</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Utrecht, verweerder.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop <?linebreak?></title>
+    <para>Bij besluit van 10 april 2020 (het primaire besluit) heeft verweerder aan verzoeker een last onder dwangsom opgelegd om binnen de gemeente Utrecht geen inbrekerswerktuigen te (laten) vervoeren dan wel bij zich te (laten) hebben.</para>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het primaire besluit bezwaar gemaakt. Hij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Op grond van artikel 8:83, derde lid, van de Algemene wet bestuursrecht (Awb) kan de voorzieningenrechter uitspraak doen zonder partijen uit te nodigen om op een zitting te verschijnen indien de voorzieningenrechter kennelijk onbevoegd is of het verzoek kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond.<?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>De voorzieningenrechter treft op grond van artikel 8:81, eerste lid, van de Awb alleen een voorlopige voorziening als “onverwijlde spoed” dat vereist gelet op de betrokken belangen. <?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>Verzoeker heeft hierover opgemerkt dat na inwerkingtreding van het besluit voor hem sprake is van een doorlopende verplichting en onomkeerbare gevolgen in het leven kunnen worden geroepen. Verzoeker moet vanaf dat moment rekening houden met de mogelijkheid dat aan hem een dwangsom zal worden opgelegd van € 2.500,- met een maximumbedrag van € 10.000,-. Dit terwijl overduidelijk is dat aan het besluit van 10 april 2020 een bevoegdheidsgebrek kleeft en het dus niet in stand kan blijven. <?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>De voorzieningenrechter overweegt hierover dat in de enkele omstandigheid dat verzoeker een dwangsom boven het hoofd hangt onvoldoende spoedeisend belang is gelegen om een voorlopige voorziening te treffen. Gesteld noch gebleken is dat het voor verzoeker van (spoedeisend) belang is om binnen de gemeente Utrecht inbrekerswerktuigen te (laten) vervoeren of bij zich te hebben. De conclusie is dan ook dat er geen enkel spoedeisend belang is. <?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>Omdat de voorzieningenrechter van oordeel is dat verzoeker geen spoedeisend belang heeft, kan de door hem gevraagde voorziening alleen nog worden getroffen als nu al duidelijk is dat het bestreden besluit onrechtmatig is. Daarmee wordt bedoeld dat zonder diepgaand onderzoek naar de relevante feiten en/of het recht zeer ernstig moet worden betwijfeld of het door verweerder ingenomen standpunt juist is en of het primaire besluit in stand zal blijven.<?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>Daarvan is naar het oordeel van de voorzieningenrechter geen sprake. Verzoeker heeft bezwaren naar voren gebracht en verweerder zal hierop moeten reageren in een beslissing op bezwaar. Het kan zijn dat verzoeker gelijk krijgt in bezwaar, maar dat is dus niet evident. Ook ziet de voorzieningenrechter aan de kant van verzoeker geen belangen die zo zwaar wegen dat de gevraagde voorziening om die reden moet worden toegewezen. Verzoeker zal de behandeling van het bezwaar door verweerder moeten afwachten.<?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>Het verzoek wordt afgewezen. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. L.A. Banga, voorzieningenrechter, in aanwezigheid van mr. M.L. Bressers, griffier. De uitspraak is uitgesproken in het openbaar op 7 juli 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>De griffier is verhinderd deze</para>
+              <para>uitspraak te ondertekenen.</para>
+            </entry>
+            <entry>
+              <para>voorzieningenrechter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <bridgehead>Rechtsmiddel<?linebreak?>Tegen deze uitspraak staat geen rechtsmiddel open.</bridgehead>
+</uitspraak>
+</open-rechtspraak>

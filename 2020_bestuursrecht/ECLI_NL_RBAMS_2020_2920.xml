@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:2920</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-12T15:52:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 20/2234 (voorlopige voorziening) en AMS 20/2235 (beroep)</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2920">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2920</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-11T16:03:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:2920 Rechtbank Amsterdam , 11-06-2020 / AMS 20/2234 (voorlopige voorziening) en AMS 20/2235 (beroep)</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:2920:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De gemeente heeft exploitatievergunningen voor twee horecabedrijven in Amsterdam-Centrum mogen weigeren omdat de voorgenomen bedrijfsvoering niet in orde is.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:2920:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 20/2234 (voorlopige voorziening) en AMS 20/2235 (beroep)</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 11 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [verzoekster] h.o.d.n. [bedrijf] , te [plaats] , verzoekster</bridgehead>
+    <para>(gemachtigden: mr. D.J. Perquin),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de burgemeester van de gemeente Amsterdam, verweerder</para>
+      <para>(gemachtigden: mr. A.H.M. Buijs en E. Koomen) </para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 12 september 2019 (het primaire besluit) heeft verweerder twee aanvragen van verzoekster om exploitatievergunningen voor twee horecabedrijven aan de [adres 1] en de [adres 2] afgewezen en meegedeeld dat verzoekster binnen twee weken na dit besluit de exploitatie dient te beëindigen en beëindigd te houden onder aanzegging van de oplegging van een last onder bestuursdwang wanneer de exploitatie niet gestaakt wordt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen het primaire besluit bezwaar gemaakt. Zij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van de voorzieningenrechter van 3 december 2019 is bepaald dat de (last tot) beëindiging van de exploitatie van [adres 1] wordt geschorst tot zes weken na bekendmaking van de beslissing op bezwaar. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 februari 2020 (het bestreden besluit) heeft verweerder het bezwaar ongegrond verklaard. Verzoekster heeft hiertegen beroep ingesteld en heeft de voorzieningenrechter tevens verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 28 mei 2020. Verzoekster is ter zitting vertegenwoordigd door exploitante, [exploitante] (hierna: [exploitante] ) en bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Na afloop van de zitting is de voorzieningenrechter tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    <para />
+    <para>2. Het wettelijk kader dat van toepassing is in deze zaak is weergegeven in de bijlage bij deze uitspraak.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wat vooraf ging </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. [exploitante] heeft in het verleden drie horecabedrijven geëxploiteerd. Verweerder heeft de exploitatievergunningen hiervoor bij besluit van 23 december 2016 geweigerd dan wel ingetrokken op grond van de Wet Bibob en omdat sprake was van een slechte bedrijfsvoering in de zin van de Algemene Plaatselijke Verordening (APV). In dit besluit is uitvoerig gemotiveerd op welke feiten en omstandigheden dit is gebaseerd. Kort samengevat is daarin overwogen dat er een ernstig gevaar bestaat dat de vergunningen mede gebruikt zullen worden om strafbare feiten te plegen en dat sprake is van een patroon waarbij overtredingen worden geconstateerd door de Belastingdienst, de Douane, de Inspectie Sociale Zaken en Werkgelegenheid, de Voedsel- en Warenautoriteit en de gemeente. In een kwetsbare branche als de horeca bestaat een groot algemeen belang bedrijven te weren die mede worden gebruikt om strafbare feiten te plegen en waarvan de bedrijfsvoering niet op orde is. </para>
+    <para />
+    <para>4. De voorzieningenrechter van deze rechtbank heeft bij uitspraak van 3 februari 2017 het verzoek om het besluit van 23 december 2016 te schorsen afgewezen. </para>
+    <para />
+    <para>5. [exploitante] heeft vervolgens, naar eigen zeggen, een pannenkoekenrestaurant in Dubai geëxploiteerd. Dit bedrijf is beëindigd en [exploitante] en haar echtgenoot zijn in Nederland teruggekeerd.</para>
+    <para />
+    <para>6. Namens [exploitante] is in november 2018 zowel door haar administrateur als haar advocaat contact opgenomen met verweerder met het verzoek haar een tweede kans te geven om een horecabedrijf te exploiteren. Zij benadrukt daarin dat en hoe zij haar zaken anders zal aanpakken dan voorheen, door onder meer niet meer met familie samen te werken en slechts één horecabedrijf te gaan exploiteren. Zowel per e-mail van 19 november 2018 als bij brief van 3 december 2018 heeft verweerder gereageerd met de mededeling dat in de regel een termijn van minimaal vijf jaar wordt gehanteerd tussen overtreding/misdrijf en aanvraagdatum en dat het raadzaam is om pas na het verstrijken van die termijn na </para>
+    <para>23 december 2016 weer contact op te nemen. Ook is meegedeeld dat het haar uiteraard vrij staat om eerder een aanvraag in te dienen, maar dat niet kan worden voorzien hoe op die aanvraag gereageerd zal worden en dat eerdere beslissingen meewegen in een eventuele volgende beslissing. </para>
+    <para />
+    <para>7. Op 18 april 2019 heeft [exploitante] twee aanvragen ingediend om pannenkoekenrestaurants te exploiteren aan de [adres 1] en de [adres 2] . Het pannenkoekenhuis aan de [adres 1] was al geopend en wordt geëxploiteerd op grond van artikel 3.7, tweede lid, van de Algemene Plaatselijke Verordening (APV).</para>
+    <para />
+    <para>8. Verweerder heeft beide exploitatievergunningen geweigerd op grond van artikel 3.11, tweede en derde lid, onder d. van de APV, omdat de (voorgenomen) bedrijfsvoering ten opzichte van het verleden niet zodanig is veranderd dat niet meer gevreesd hoeft te worden voor aantasting van het woon- en leefklimaat. Verweerder heeft hierbij onder meer van belang geacht dat de tijd tussen het vorige intrekkingsbesluit en deze aanvraag relatief kort is, dat uit de aanvraag en een gesprek met [exploitante] is gebleken dat zij toch één van haar broers opvoert als leidinggevende en dat zij niet één maar toch twee bedrijven wil gaan leiden. Ook blijken meerdere onderdelen van de overgelegde ondernemingsplannen niet te kloppen. Verweerder geeft aan dat al deze omstandigheden hem niet het vertrouwen geven dat overtredingen zoals door [exploitante] begaan in het verleden, nu niet meer zullen voorkomen. Verweerder heeft ook aangekondigd dat, als de exploitatie van het reeds geopende pannenkoekenrestaurant aan de [adres 1] niet binnen twee weken wordt beëindigd, hij over zal gaan tot het opleggen van een last onder bestuursdwang.</para>
+    <para />
+    <para>9. De voorzieningenrechter heeft het besluit van 12 september 2019 geschorst op </para>
+    <para>3 december 2019 voor wat betreft het bedrijf [bedrijf] aan de [adres 1] . De voorzieningenrechter acht het – kort gezegd – niet uitgesloten dat het besluit is genomen in strijd met de Dienstenrichtlijn.</para>
+    <para />
+    <para>10. In het bestreden besluit is onder verwijzing naar het Advies van de bezwaarschriftencommissie het bezwaar ongegrond verklaard. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Standpunten van partijen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>11.1</nr>
+      <para>
+        [exploitante] heeft aangevoerd dat het besluit in strijd is met de Dienstenrichtlijn<footnote-ref linkend="_63b40e3b-c2fc-4924-b214-3358c5986900" />. Er is niet voldaan aan artikel 7 van de Dienstenrichtlijn omdat zij voorafgaand aan de aanvragen, navraag heeft gedaan bij verweerder over de toepassing en beoordeling van de vergunningscriteria maar daarop geen sluitend antwoord heeft gekregen. Daarnaast is sprake van strijd met de artikel 10 van de Dienstenrichtlijn. Het criterium ‘levensgedrag’ en ‘wijze van bedrijfsvoering’ is onvoldoende duidelijk en transparant. [exploitante] verwijst hierbij naar een aantal divergerende, uitspraken van deze rechtbank<footnote-ref linkend="_64873e24-8170-4424-b0a7-91b2fd117303" />. Artikel 3.11 van de APV is wat betreft deze criteria daarom onverbindend dan wel moet hier buiten toepassing worden gelaten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2</nr>
+      <para>
+        [exploitante] heeft daarnaast de in het besluit van 23 december 2016 opgenomen verwijten betwist en stelt dat verweerder niet aan zijn bewijslast heeft voldaan omdat in het bestreden besluit onvoldoende duidelijk is aangegeven wat haar ten aanzien van de bedrijfsvoering in het verleden wordt verweten. Ook stelt zij dat het onderzoek naar haar aanvragen onzorgvuldig is gebeurd. Zo is onvoldoende aandacht gegeven aan informatie van de belastingdienst, een afgegeven VOG, een screening door de verhuurder van [adres 2] en het feit dat de huidige exploitatie van haar zaak aan de [adres 1] zonder problemen verloopt. Ten onrechte wordt ook de inhoud van de door haar ingediende ondernemingsplannen bij de beoordeling betrokken, nu deze niet verplicht zijn bij de aanvraag. Ten slotte blijkt ook uit een onplezierig gesprek tussen verweerder en [exploitante] vooringenomenheid, hetgeen wordt bevestigd door een door verweerder gegrond verklaarde klacht van [exploitante] hierover.</para>
+      <para />
+      <para>12. Verweerder heeft het standpunt van [exploitante] in het bestreden besluit en in het verweer ter zitting gemotiveerd weerlegd. </para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Beoordeling door de voorzieningenrechter</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. De voorzieningenrechter is van oordeel dat de behandeling van de aanvragen van [exploitante] niet in strijd is gekomen met artikel 7 van de Dienstenrichtlijn. Hierin is – voor zover van belang – bepaald dat informatie moet worden verstrekt over de wijze waarop de eisen inzake procedures en formaliteiten doorgaans worden uitgelegd en toegepast. </para>
+      <para />
+      <para>14. Zoals ook onder rechtsoverweging 6 is omschreven heeft verweerder op de verzoeken namens [exploitante] om informatie over mogelijke aanvragen gereageerd. Daarin is haar meegedeeld dat een aanvraag voorlopig geen zin heeft, omdat in beginsel een termijn van vijf jaar na 23 december 2016 wordt gehanteerd. Uit de zinsnede dat het haar natuurlijk vrij staat om een aanvraag in te dienen bij de beoordeling waarvan haar voorgeschiedenis zal worden meegewogen, volgt niet de conclusie dat de informatie dus onduidelijk is en dat er daarom sprake is van strijd met artikel 7 van de Dienstenrichtlijn. De voorzieningenrechter wijst in dit verband ook op de tekst van artikel 7, zesde lid, van de Dienstenrichtlijn (zie bijlage).</para>
+      <para />
+      <para>15. In lijn met de uitspraak van de Afdeling Bestuursrechtspraak van de Raad van State van 18 december 2019 (ECLI:NL:RVS:2019:4258) acht de voorzieningenrechter met verweerder het hier gehanteerde criterium ‘wijze van bedrijfsvoering’ van artikel 3.11 van de APV in beginsel voldoende duidelijk en objectief. Dat sprake moet zijn van een goede bedrijfsvoering als toekenningsvoorwaarde voor een exploitatievergunning is op zichzelf al duidelijk en ondubbelzinnig, want voor iedereen begrijpelijk. Daarnaast is in de toelichting bij artikel 3.11 van de APV omschreven dat een vergunning geweigerd moet kunnen worden aan een exploitant van wie gebleken dat hij eerder of elders een slechte staat van dienst heeft. Het was dus ook voldoende voorzienbaar dat dit vereiste zou kunnen worden tegengeworpen. Daarbij heeft verweerder in dit geval ook voldoende onderbouwd dat in dit geval niet aan dit vereiste is voldaan.  </para>
+      <para />
+      <para>16. Dat [exploitante] niet voldoet aan het vereiste is allereerst onderbouwd met het eerdere besluit van 23 december 2016. Met verweerder is de voorzieningenrechter van oordeel dat [exploitante] bij de betwisting van de aan haar gemaakte verwijten, niet kan volstaan met de opmerking dat verweerder niet aan de bewijslast heeft voldaan omdat er geen onderbouwende stukken bij het bestreden besluit zijn bijgevoegd. Al bij het voornemen van 2 augustus 2019 is het besluit van 2016 bijgevoegd en overigens kende [exploitante] dit besluit wel degelijk. Zij heeft immers nog bezwaar hiertegen gemaakt en een verzoek voorlopige voorziening ingediend in 2017. Daarbij laat het uitvoerig gemotiveerde besluit aan duidelijkheid over de haar gemaakte verwijten niets te wensen over. Hetgeen zij daar, toen en nu, tegenover stelt is onvoldoende om anders te oordelen. Daarbij verwijst de voorzieningenrechter ook naar de eerdere uitspraak van de voorzieningenrechter van 3 februari 2017 (rechtsoverweging 7.3), waarbij het verzoek om schorsing van het besluit van 23 december 2016 is afgewezen. Gesteld noch gebleken is verder dat [exploitante] de in dit besluit genoemde overtredingen met succes heeft aangevochten.</para>
+      <para />
+      <para>17. Terecht heeft verweerder daarom nogmaals benadrukt dat het bij [exploitante] niet alleen ging om een gebrek aan transparante bedrijfsvoering, maar ook om diverse (andere) overtredingen die in de loop der jaren zijn geconstateerd door de belastingdienst (vergrijpboete), de Nederlandse Voedsel en Warenautoriteit (rookverboden), de Arbeidsinspectie (Wav-boete), de Douane (50 kg onveraccijnste tabak) en diverse waarschuwingen en maatregelen van gemeente (bouwtechnische zaken, strijd met het bestemmingsplan) en van verweerder zelf (geen leidinggevende aanwezig, terras).</para>
+      <para />
+      <para>18. De voorzieningenrechter ziet gelet op het voorgaande geen grond voor het oordeel dat artikel 3.11, derde lid onder d. van de APV in strijd is met artikel 10 van de Dienstenrichtlijn.</para>
+      <para>Gelet hierop is die bepaling evenmin in strijd met het verbod op willekeur of het rechtszekerheidsbeginsel.</para>
+      <para />
+      <para>19. Verweerder heeft bij de beoordeling van de aanvragen van [exploitante] grote waarde mogen hechten aan een goede bedrijfsvoering en transparante horeca. De exploitant is verantwoordelijk en verweerder moet erop kunnen vertrouwen dat deze exploitant aan wie de vergunning is verstrekt ook degene is die hij kan aanspreken als dat nodig is. Hierin is [exploitante] destijds tekort geschoten. En de gang van zaken rond de nieuwe aanvragen hebben verweerder niet het vertrouwen gegeven, dat het nu anders zal gaan. Dat [exploitante] nu erkent inderdaad zelf verantwoordelijk te zijn geweest voor de, naar eigen zeggen, niet door haar begane overtredingen en haar stelling dat zij het nu allemaal echt anders gaat doen, wordt weer teniet gedaan door haar aanvragen, het gesprek dat daarover met haar gevoerd en de inhoud van de ondernemingsplannen. Daaruit blijkt dat zij zaken bagatelliseert en dat zij toch twee, in plaats van één, ondernemingen wil gaan leiden. Ook blijkt daaruit dat zij weer een broer als leidinggevende heeft aangewezen, terwijl zij niet meer met familie zou werken. De voorzieningenrechter kan gelet op dit alles verweerder volgen in de conclusie dat de positieve screenings en de huidige bedrijfsvoering van de [adres 1] niet opwegen tegen al hetgeen wijst op de slechte bedrijfsvoering in het verleden, mede gelet op het korte tijdsverloop. Dat de klacht van [exploitante] over de bejegening tijdens het gesprek met verweerder gegrond is verklaard en dat er excuses zijn aangeboden door de behandelend ambtenaar, maakt niet dat de feiten die in dat gesprek naar boven zijn gekomen niet gebruikt konden worden bij de beoordeling van de aanvraag. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>20. Verweerder heeft daarom in redelijkheid de aanvragen van [exploitante] kunnen weigeren op grond van artikel 3.11, tweede en derde lid onder d van de APV. Het beroep is ongegrond. Omdat het beroep ongegrond is, is er geen aanleiding om een voorlopige voorziening te treffen. Het verzoek daartoe wordt afgewezen.</para>
+      <para />
+      <para>21. Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>wijst het verzoek om voorlopige voorziening af.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.C. Loman, (voorzieningen)rechter, in aanwezigheid van mr. B.E. Giesen, griffier. De beslissing is in het openbaar uitgesproken op 11 juni 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							(voorzieningen)rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan voor zover daarbij is beslist op het beroep binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage – Wettelijk kader</title>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 3.8, eerste lid, van de Algemene Plaatselijke Verordening 2008 (APV) is het verboden zonder vergunning van de burgemeester een horecabedrijf te exploiteren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3.11 APV (bijzondere weigeringsgronden) luidt – voor zover van belang – als volgt:</para>
+      <para>Lid 1. (…)</para>
+      <para>Lid 2. De burgemeester kan de vergunning geheel of gedeeltelijk weigeren als naar zijn oordeel het woon- en leefklimaat in de omgeving van het horecabedrijf, de openbare orde of de veiligheid nadelig wordt beïnvloed door de aanwezigheid van het horecabedrijf.</para>
+      <para>Lid 3. Bij de toepassing van de in het vorige lid genoemde weigeringsgronden houdt de burgemeester rekening met:</para>
+      <para>(…)</para>
+    </parablock>
+    <para>d. de wijze van bedrijfsvoering door de exploitant of de leidinggevende en</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>In de Toelichting bij artikel 3.11 van de APV wordt – voor zover van belang – het volgende beschreven:</para>
+      <para>(…)</para>
+      <para>Een vergunning moet geweigerd kunnen worden aan een exploitant van wie is gebleken dat hij eerder of elders op dit punt een slechte staat van dienst heeft.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7 van de Dienstenrichtlijn, luidt – voor zover van belang – als volgt:</para>
+      <para>Lid 1: De lidstaten zien erop toe dat de volgende informatie voor dienstverrichters en afnemers gemakkelijk via het één-loket toegankelijk is:</para>
+    </parablock>
+    <para>a. de eisen die voor de op hun grondgebied gevestigde dienstverrichters, in het bijzonder de eisen inzake procedures en formaliteiten die afgewikkeld moeten worden om toegang te krijgen tot dienstenactiviteiten en deze uit te oefenen; (…)</para>
+    <parablock>
+      <para>Lid 2: De lidstaten zien erop toe dat dienstverrichters en afnemers op hun verzoek van de bevoegde instanties bijstand kunnen krijgen, die erin bestaat dat informatie wordt verstrekt over de wijze waarop de in lid 1, onder a), bedoelde eisen doorgaans worden uitgelegd en toegepast. Waar passend omvat deze bijstand een handleiding met eenvoudige, stapgewijze informatie. De informatie wordt verstrekt in gewone en begrijpelijke taal. (…)</para>
+      <para>Lid 6: De verplichting voor de bevoegde instanties om dienstverrichters en afnemers bij te staan, impliceert niet dat deze instanties in individuele gevallen juridisch advies moeten verstrekken, maar heeft alleen betrekking op algemene informatie over de manier waarop de eisen gewoonlijk worden geïnterpreteerd of toegepast.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 10 van de Dienstenrichtlijn – voor zover van belang – luidt : </para>
+      <para>Lid 1: Vergunningenstelsels zijn gebaseerd op criteria die beletten dat de bevoegde instanties hun beoordelingsbevoegdheid op willekeurige wijze uitoefenen.</para>
+      <para>Lid 2: De in lid 1 bedoelde criteria zijn:</para>
+    </parablock>
+    <para>a. a) niet discriminatoir;</para>
+    <para>b) gerechtvaardigd om een dwingende reden van algemeen belang;</para>
+    <para>c) evenredig met die reden van algemeen belang;</para>
+    <para>d) duidelijk en ondubbelzinnig;</para>
+    <para>e) objectief;</para>
+    <para>f) vooraf openbaar bekendgemaakt;</para>
+    <para>g) transparant en toegankelijk. </para>
+    <para />
+  </section>
+  <footnote id="_63b40e3b-c2fc-4924-b214-3358c5986900" label="1">
+    <para> Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt, beter bekend als de Dienstenrichtlijn, verplicht EU-lidstaten tot het vrijgeven van hun dienstenmarkt, ten gunste van aanbieders in andere lidstaten. </para>
+  </footnote>
+  <footnote id="_64873e24-8170-4424-b0a7-91b2fd117303" label="2">
+    <para> ECLI:NL:RBAMS:2019:4070 en ECLI:NL:RBAMS:2019:5451</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

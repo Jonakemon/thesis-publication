@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:11836</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-20T15:42:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-12</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.18379 (beroep) en NL20.18380 (voorlopige voorziening)</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:11836">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:11836</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-20T10:03:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:11836 Rechtbank Den Haag , 12-11-2020 / NL20.18379 (beroep) en NL20.18380 (voorlopige voorziening)</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:11836:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De IND heeft onvoldoende gemotiveerd waarom zij de asielaanvraag van een Liberiaanse man heeft afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:11836:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: NL20.18379 (beroep) en NL20.18380 (voorlopige voorziening)</para>
+      <para>
+        <?linebreak?>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer en de voorzieningenrechter in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <bridgehead role="bold">
+      [eiser] , eiser/verzoeker (hierna: eiser)</bridgehead>
+    <parablock>
+      <para>V-nummer: [nummer]</para>
+      <para>(gemachtigde: mr. M.H.R. de Boer),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. C. Verbaas).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <?linebreak?>Procesverloop <?linebreak?>Bij besluit van 14 oktober 2020 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in de algemene procedure afgewezen als kennelijk ongegrond. Daarnaast ziet verweerder geen aanleiding eiser ambtshalve een verblijfsvergunning regulier op grond van artikel 8 van het EVRM<footnote-ref linkend="_700790d2-579e-41fc-abd7-0ee45fe7d526" /> te verlenen. Ten slotte geldt voor eiser nog het op 8 juli 2013 opgelegde inreisverbod voor de duur van tien jaar en de aanzegging om Nederland onmiddellijk te verlaten. </title>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. Verder heeft hij een verzoek om een voorlopige voorziening ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting van de enkelvoudige kamer en de voorzieningenrechter (hierna: de rechtbank) heeft plaatsgevonden op 29 oktober 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Ook was aanwezig de partner van eiser, [partner] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Relevante feiten en eisers asielrelaas</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser is geboren op [geboortedag] 1992 in [geboorteplaats] , Liberia. Eiser is in 1998 naar Nederland gekomen en is op 31 maart 1998 in het bezit gesteld van een verblijfsvergunning asiel voor onbepaalde tijd. Nadat hij voor meerdere misdrijven is veroordeeld, heeft verweerder de verblijfsvergunning met het besluit van 8 juli 2013 ingetrokken met terugwerkende kracht tot 12 september 2011. Ook heeft verweerder eiser met dat besluit een inreisverbod voor de duur van tien jaar opgelegd en bepaald dat eiser Nederland onmiddellijk moet verlaten. Sinds een jaar heeft eiser een relatie met [partner] . Hij heeft twee kinderen uit eerdere relaties. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Op 3 februari 2020 heeft eiser deze asielaanvraag ingediend. Hieraan heeft eiser ten grondslag gelegd dat hij biseksueel is. Volgens verweerder bevat het asielrelaas van eiser  twee relevante elementen:</para>
+      <para>- eisers identiteit, nationaliteit en herkomst;</para>
+      <para>- eisers biseksuele gerichtheid. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Bestreden besluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>2. Verweerder acht eisers asielrelaas geloofwaardig. Hierdoor kan eiser volgens verweerder worden aangemerkt als een vluchteling in de zin van het Vluchtelingenverdrag<footnote-ref linkend="_7970330b-c0a0-41ba-a6d9-031f9d81cc52" />. Ook heeft hij aannemelijk gemaakt dat hij bij uitzetting naar Liberia een reëel risico loopt op ernstige schade, omdat eisers biseksuele gerichtheid hem een levenslange gevangenisstraf in Liberia kan opleveren. Maar volgens verweerder kan dit niet leiden tot verlening van een verblijfsvergunning asiel omdat eiser een actueel gevaar vormt voor de openbare orde. Verweerder wijst op de justitiële documentatie van eiser, waaruit volgt dat eiser op 31 augustus 2012 onherroepelijk is veroordeeld tot een gevangenisstraf van 36 maanden voor onder meer een poging tot doodslag en drugshandel. In de zin van de Vreemdelingencirculaire 2000 worden dit als bijzonder ernstige misdrijven gekwalificeerd. Omdat beide misdrijven nog niet verjaard zijn, is het gevaar dat eiser voor de openbare orde vormt nog altijd actueel. Verder wijst verweerder op een nog niet onherroepelijke veroordeling van 7 maart 2017 tot drie maanden gevangenisstraf voor twee mishandelingen van zijn ex-vriendin en wederspannigheid bij het aantreffen van eiser bij de woning van zijn ex-vriendin. Hierdoor is volgens verweerder sprake van een terugkerend patroon van met name geweldsdelicten. Volgens verweerder weegt hierdoor het belang van de openbare orde zwaarder dan het belang van eiser om in Nederland te blijven. Daarom heeft verweerder de asielaanvraag van eiser afgewezen als kennelijk ongegrond<footnote-ref linkend="_f1402da4-ac1c-4a64-9544-657e03be894e" />, aldus verweerder. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Vormt eiser een actueel gevaar voor de samenleving?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Vaststaat dat eiser wordt aangemerkt als vluchteling. Verweerder weigert eiser een verblijfsvergunning te verlenen omdat eiser een gevaar voor de openbare orde is. Eiser voert onder andere aan dat hij geen actueel gevaar vormt voor de samenleving. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Verder staat vast dat hij op 7 maart 2017 is veroordeeld voor het tweemaal op dezelfde dag mishandelen van zijn ex-vriendin en voor wederspannigheid bij het aantreffen van eiser bij de woning van zijn ex-vriendin. Hoewel deze veroordeling nog niet onherroepelijk is, heeft verweerder dit op dit moment wel mogen tegenwerpen als een terugkerend patroon van criminaliteit. Maar dit moet afgezet worden tegen het reëel risico dat eiser – ook volgens verweerder – waarschijnlijk loopt in Liberia op ernstige schade als – samengevat – dood, foltering of onmenselijke behandeling of bestraffing. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>De rechtbank is van oordeel dat verweerder de belangenafweging van enerzijds het actueel gevaar voor de samenleving en anderzijds het reëel risico op ernstige schade bij terugkeer naar Liberia niet goed heeft gemotiveerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Terugsturen naar Liberia zou namelijk een schending van artikel 3 van het EVRM<footnote-ref linkend="_ee6baabd-0049-4dd1-97a9-e0f9c0055597" /> opleveren. Artikel 3 van het EVRM is een absoluut grondrecht. Met verweerder stelt de rechtbank vast dat eiser een fors crimineel verleden in Nederland heeft met zowel lichtere als zware misdrijven. Maar naar het oordeel van de rechtbank heeft verweerder niet afdoende gemotiveerd waarom dit opweegt tegen het absolute grondrecht dat artikel 3 van het EVRM is. Eiser heeft namelijk de laatste gevangenisstraf uitgezeten en sindsdien zijn zeven jaar verstreken. Dat was de gevangenisstraf voor de zwaarste delicten die hij heeft gepleegd, namelijk een poging tot doodslag en drugshandel. De overige onherroepelijke veroordelingen zijn van daarvoor en bestaan uit lichtere delicten, namelijk winkeldiefstal en tasjesroof. Die heeft hij in zijn jeugd gepleegd en zijn volgens het jeugdstrafrecht berecht. De veroordeling sindsdien – voor de mishandeling van zijn ex-vriendin in 2016 en de wederspannigheid in 2017 – zijn weliswaar ook geweldsdelicten, maar zijn anders van zwaarte en aard dan de poging tot doodslag waarvoor hij in 2012 onherroepelijk is veroordeeld. Ze komen voort uit wat zich in relationele sfeer heeft afgespeeld, er staat een lager strafmaximum op en de veroordeling is nog niet onherroepelijk. Daarmee staat niet zonder nadere toelichting vast dat eiser nog steeds zo gewelddadig is dat hij een dusdanig actueel gevaar vormt voor de samenleving, dat een inbreuk op artikel 3 van het EVRM te rechtvaardigen is. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Gelet op het voorgaande kon verweerder eisers asielaanvraag niet afwijzen als kennelijk ongegrond. Het beroep is gegrond en de rechtbank zal het bestreden besluit vernietigen. Omdat de afweging van belangen behoort tot de beoordelingsruimte die verweerder heeft, zal verweerder een nieuw besluit moeten nemen op eisers aanvraag met inachtneming van deze uitspraak. De rechtbank stelt voor het nemen van dit nieuwe besluit een termijn van acht weken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Omdat op het beroep is beslist, heeft eiser geen belang meer bij zijn verzoek om een voorlopige voorziening. Dat wordt daarom afgewezen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De rechtbank ziet aanleiding om verweerder te veroordelen in de door eiser gemaakte proceskosten. Deze worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 1.575,-, bestaande uit een punt voor het indienen van het beroepschrift, een punt voor het indienen van het verzoekschrift en een punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en wegingsfactor 1. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>
+      <?linebreak?>De rechtbank:</para>
+    <para>- verklaart het beroep gegrond;<?linebreak?>- vernietigt het bestreden besluit;</para>
+    <para>- draagt verweerder op binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen met inachtneming van deze uitspraak;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1.575,-; </para>
+    <para>- wijst het verzoek om een voorlopige voorziening af.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. E.J. Otten, (voorzieningen)rechter, in aanwezigheid van mr. R.S.H.M. Hussien, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan, voor zover gericht tegen het beroep, hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen een week na de dag van bekendmaking.</para>
+      <para>Tegen de uitspraak op het verzoek om een voorlopige voorziening staat geen rechtsmiddel open. </para>
+    </parablock>
+  </section>
+  <footnote id="_700790d2-579e-41fc-abd7-0ee45fe7d526" label="1">
+    <para> Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. </para>
+  </footnote>
+  <footnote id="_7970330b-c0a0-41ba-a6d9-031f9d81cc52" label="2">
+    <para> Verdrag van Genève betreffende de status van vluchtelingen van 1951 (Trb. 1954, 88), zoals gewijzigd bij Protocol van New York van 1967 (Trb. 1967, 76). </para>
+  </footnote>
+  <footnote id="_f1402da4-ac1c-4a64-9544-657e03be894e" label="3">
+    <para> Artikel 31, eerste lid, in samenhang met artikel 30b, eerste lid, aanhef en onder j, van de Vreemdelingenwet 2000.</para>
+  </footnote>
+  <footnote id="_ee6baabd-0049-4dd1-97a9-e0f9c0055597" label="4">
+    <para>Artikel 3 van het EVRM luidt: Niemand mag worden onderworpen aan folteringen of aan onmenselijke of vernederende behandelingen of bestraffingen.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

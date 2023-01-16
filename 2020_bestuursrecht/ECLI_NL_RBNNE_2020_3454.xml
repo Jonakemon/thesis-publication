@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:3454</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-19T11:17:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 19/ 2509</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3454">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3454</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-19T11:16:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:3454 Rechtbank Noord-Nederland , 07-10-2020 / LEE 19/ 2509</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:3454:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Boete arbeidstijdenwet</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:3454:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: LEE 19/2509</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 7 oktober 2020 in de zaak tussen</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Verenigde Eigen Vervoerders B.V. h.o.d.n. Brinkman Trans Holland</emphasis>, te Emmen, eiseres</para>
+      <para>(gemachtigde: mr. M.S. Kikkert),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de minister van Infrastructuur en Waterstaat, Inspectie Leefomgeving en Transport</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. A. van Geel).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 juni 2018 (het primaire besluit) heeft verweerder aan eiseres een boete opgelegd van € 61.500,-- wegens overtredingen van artikel 4:3, eerste lid, van de Arbeidstijdenwet (Atw) en artikel 2.5:1, tweede lid, van het Arbeidstijdenbesluit vervoer (Atbv) juncto artikel 8, tweede lid, van Verordening (EG) nr. 561/2006 (de Verordening). Tegen dit besluit heeft eiseres bezwaar gemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 juni 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 18 november 2019 heeft de rechtbank aan partijen laten weten dat de behandeling van het beroep op de zitting van 21 november 2019 tot een nader te bepalen datum is uitgesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 27 november 2019 heeft de rechtbank partijen medegedeeld dat het beroep op de zitting van 31 maart 2020 zal worden behandeld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 18 maart 2020 heeft de rechtbank aan partijen laten weten dat de behandeling van het beroep op de zitting van 31 maart 2020 geen doorgang kan vinden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is op de zitting van 24 juni 2020 gelijktijdig behandeld met de zaak die bij de rechtbank is geregistreerd onder het nummer LEE 19/2358. Eiseres is vertegenwoordigd door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten</emphasis>
+      </para>
+      <para>1.		Op 17 december 2016 heeft er een (onaangekondigde) controle bij eiseres in het kader van het toezicht op de naleving van - onder andere - de Atw plaatsgevonden. Tijdens de bedrijfscontrole is door inspecteur [inspecteur 1] geconstateerd dat er in de controleperiode ten behoeve van eiseres vervoerswerkzaamheden zijn verricht met een aantal voertuigen en door verschillende chauffeurs, terwijl de digitale data van de betreffende voertuigen die betrekking hebben op deze werkzaamheden ontbraken. Daarnaast is door de inspecteur geconstateerd dat een bestuurder op verschillende momenten in de controleperiode de dagelijkse rusttijd heeft overschreden. Gelet hierop heeft voormelde inspecteur op 15 mei 2017 een boeterapport opgesteld. Dit boeterapport heeft de inspecteur op 1 juni 2018 aangevuld. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>Uit het boeterapport van 15 mei 2017 blijkt - onder meer - dat de inspecteur op </para>
+        <para>17 december 2016 een onaangekondigde arbeidscontrole heeft ingesteld bij eiseres. Op </para>
+        <para>19 december 2016 heeft de inspecteur vervolgens een vordering gedaan om vast te kunnen stellen welke chauffeurs en welke motorvoertuigen in welke onderneming zijn ingezet. Na onderzoek en analyse van de verkregen digitale data heeft de inspecteur geconstateerd dat in een zevental gevallen de M-bestanden van die betreffende vervoerswerkzaamheden ontbraken. Dit blijkt, aldus de inspecteur, uit de C-bestanden van een aantal bestuurders. </para>
+        <para>Daarnaast heeft de inspecteur vastgesteld dat in één geval het C-bestand van de betreffende vervoerswerkzaamheden ontbrak en dat één bestuurder op verschillende momenten de voorgeschreven dagelijkse rusttijd heeft overschreden. Dit is gebleken uit een M-bestand.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>In het aanvullende boeterapport van 1 juni 2018 heeft inspecteur [inspecteur 2] aangegeven dat op de usb-stick van 4 januari 2017 M-bestanden staan zoals in bijlage 1 staat vermeld en dat op 27 december 2016 ook bestanden zijn ontvangen, zoals in bijlage 2 zijn vermeld. </para>
+      <para />
+      <para>2. Naar aanleiding van het door de inspecteur opgestelde boeterapport heeft verweerder bij brief van 3 augustus 2017 aan eiseres medegedeeld voornemens te zijn om een boete van in totaal € 331.200,-- aan haar op te leggen wegens een achttal boetefeiten waarbij artikel 4:3, eerste lid, van de Atw is overtreden en een tweetal boetefeiten waarbij artikel 2.5:1, tweede lid, van de Arbeidstijdenbesluit vervoer (de Atbv) juncto artikel 8, tweede lid, van de Verordening is overtreden. Hierbij heeft verweerder aangegeven dat gelet op artikel 5 van de Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (de Beleidsregel) de boete wordt gemaximeerd naar € 61.500,--. </para>
+      <para />
+      <para>3. Bij het primaire besluit heeft verweerder aan eiseres een boete opgelegd ten bedrage van € 61.500,--. Hiertoe heeft verweerder de volgende overtredingen vastgesteld:</para>
+      <para>- chauffeur [chauffeur 1] heeft op 17 tot en met 20 juni 2016 met het voertuig met kenteken [kenteken 1] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 2] heeft op 6 tot en met 9 en 12 tot en met 18 juni 2016 met het voertuig met kenteken [kenteken 2] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 3] heeft op 6, 7, 10 tot en met 14 en 16 tot en met 21 juni 2016 met het voertuig met kenteken [kenteken 3] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 4] heeft op 14 en 15 juni 2016 met het voertuig met kenteken [kenteken 4] en op 17 juni 2016 met het voertuig met kenteken [kenteken 5] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 5] heeft op 6 tot en met 10, 13 tot en met 16, 20 tot en met 22 en 27 juni 2016 met het voertuig met kenteken [kenteken 5] en van 28 tot en met 30 juni 2016 met het voertuig met kenteken [kenteken 1] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 6] heeft op 22 juni 2016 met het voertuig met kenteken [kenteken 6] , op 15 juni 2016 met het voertuig met kenteken [kenteken 4] , op 13 juni 2016 en 1 juli 2016 met het voertuig met kenteken [kenteken 1] , op 13, 16 en 28 juni 2016 met het voertuig met kenteken [kenteken 5] , op 8 tot en met 11 en 14 tot en met 17 juni 2016 met het voertuig met kenteken [kenteken 7] en op 28 juni 2016 met het voertuig met kenteken [kenteken 2] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 7] heeft op 28 juni 2016 met het voertuig met kenteken [kenteken 4] , op 15 tot en met 17 juni 2016 met het voertuig met kenteken [kenteken 1] en op 20 tot en met 23 en 27 juni 2017 met het voertuig met kenteken [kenteken 2] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 8] heeft op 10 tot en met 16 juni 2016 met het voertuig met kenteken [kenteken 8] vervoerswerkzaamheden verricht zonder het voeren van een deugdelijke registratie;</para>
+      <para>- chauffeur [chauffeur 9] heeft op 7 juni 2016 met het voertuig met kenteken [kenteken 9] dagelijks minder dan 7 uur rust genomen;</para>
+      <para>- chauffeur [chauffeur 9] heeft op 16 juni 2016 met het voertuig met kenteken [kenteken 9] dagelijks minder dan 7 uur rust genomen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Wettelijk kader</emphasis>
+        </para>
+      </parablock>
+      <para>4. Ingevolge artikel 4.3, eerste lid, van de Atw voert een werkgever en een persoon als bedoeld in artikel 2:7, eerste lid, een deugdelijke registratie terzake van de arbeids- en rusttijden welke het toezicht op de naleving van deze wet en de daarop berustende bepalingen mogelijk maakt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Ingevolge artikel 10.1, eerste lid, van de Atw wordt - voor zover hier van toepassing - als overtreding aangemerkt het niet naleven van artikel 4:3, eerste lid van de Atw.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Ingevolge artikel 10.5, derde lid, van de Atw gelden de ter zake van deze wet en de daarop berustende bepalingen gestelde overtredingen ten opzichte van elke persoon, met of ten aanzien van wie de overtreding is begaan, en met betrekking tot elke dag in de loop waarvan deze overtreding is begaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Ingevolge artikel 10.7, eerste lid, van de Atw bedraagt de bestuurlijke boete die voor een overtreding kan worden opgelegd ten hoogste het bedrag van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht. Ingevolge het zesde lid stelt onze Minister beleidsregels vast waarin de boetebedragen voor de overtredingen worden vastgesteld. Voor overtredingen begaan door personen, bedoeld in artikel 5:12, tweede lid, stellen Onze Minister van Infrastructuur en Milieu en Onze Minister tezamen beleidsregels vast waarin de boetebedragen voor die overtredingen worden vastgesteld. Artikel 5:53 van de Algemene wet bestuursrecht is van toepassing indien een artikel gesteld bij of krachtens de wet op grond waarvan een bestuurlijke boete kan worden opgelegd, niet is nageleefd. 	</para>
+      <para />
+      <para>5. Ingevolge artikel 2.4.1, vierde lid, van het Atbv handelen de werkgever en de persoon, bedoeld in artikel 2:7, eerste lid, van de wet, in overeenstemming met artikel 10, vijfde lid, van verordening (EG) nr. 561/2006. </para>
+      <para />
+      <para>6. Artikel 10, vijfde lid, onder a, van de Verordening bepaalt dat een vervoersonderneming die gebruikmaakt van voertuigen die zijn uitgerust met een controleapparaat dat in overeenstemming is met bijlage I B van Verordening (EEG) nr. 3821/85 en die onder het toepassingsgebied en de bepalingen van deze verordening vallen: </para>
+      <para>i. i)			ervoor zorgt dat alle relevante gegevens zo vaak als is voorgeschreven door de lidstaat, van de voertuigunit en de bestuurderskaart worden overgebracht. Tevens brengt de vervoersonderneming de relevante gegevens frequenter over om ervoor te zorgen dat alle door of voor die onderneming verrichte activiteiten worden overgebracht; </para>
+      <para>ii)			ervoor zorgt dat alle gegevens die van de voertuigunit en de bestuurderskaart worden overgebracht gedurende ten minste twaalf maanden vanaf de registratie ervan worden bewaard en op verzoek van de met controle belaste ambtenaar in de vestigingen van de onderneming rechtstreeks of op afstand toegankelijk zijn.</para>
+      <para />
+      <para>7. Volgens artikel 1, tweede lid, van de Beleidsregels, gelezen in verbinding met de 'Tarieflijst boetenormbedragen bestuurlijke boete wegvervoer' die als bijlage 1 bij deze beleidsregels is gevoegd, wordt bij de berekening van een boete voor het overtreden van artikel 4:3, eerste lid, van de Atw als uitgangspunt gehanteerd een bedrag van € 4.400,--. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Ingevolge artikel 2 van de Beleidsregel bestaat, onverminderd de artikelen 3, 5 en 6, de bij een boetebeschikking op te leggen bestuurlijke boete, in geval er sprake is van meerdere overtredingen, uit de som van de per overtreding berekende boetebedragen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Ingevolge artikel 5, eerste lid, van de Beleidsregel bedraagt de boete die maximaal per boetebeschikking kan worden opgelegd bij een eerste bedrijfsinspectie voor een bedrijf met 100 of meer werknemers, ten hoogste het bedrag van de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht. Ingevolge het tweede lid worden, voor de werkgever die een van het eerste lid afwijkend aantal werknemers in dienst heeft, de volgende uitgangspunten gehanteerd voor de maximaal op te leggen boete bij een eerste bedrijfsinspectie:</para>
+      <para>a. 0,25 maal het bedrag genoemd in het eerste lid bij minder dan 25 werknemers;</para>
+      <para>b. 0,50 maal het bedrag genoemd in het eerste lid bij 25 of meer, maar minder dan 50 werknemers;</para>
+      <para>c. 0,75 maal het bedrag genoemd in het eerste lid bij 50 of meer maar minder dan 100 werknemers.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Beoordeling van het geschil</emphasis>
+        </para>
+      </parablock>
+      <para>8. Allereerst stelt de rechtbank vast dat de twee boetefeiten waarbij overtredingen van artikel 2.5:1, tweede lid, van de Atbv juncto artikel 8, tweede lid, van de Verordening aan de orde zijn in de onderhavige zaak tussen partijen geen onderwerp van geschil (meer) zijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>De rechtbank stelt vervolgens vast dat eiseres ter zitting haar beroepsgrond dat verweerder ten onrechte de uitzendkrachten heeft meegenomen bij het vaststellen van het aantal werknemers en de beroepsgrond dat het evenwichtiger zou zijn als verweerder de grootte van het bedrijf zou wegen aan de duurzame omvang van het aantal FTE's in plaats van aan het aantal werknemers heeft ingetrokken. </para>
+      <para />
+      <para>9. Tussen partijen is derhalve in geschil of verweerder terecht een boete van </para>
+      <para>€ 61.500,-- aan eiseres heeft opgelegd wegens overtredingen van artikel 4:3, eerste lid, van de Atw. Dienaangaande overweegt de rechtbank als volgt.</para>
+      <para>10. Eiseres betoogt dat de boeteoplegging in strijd is met het nemo tenetur beginsel dat voortvloeit uit artikel 6 van het Europese Verdrag voor de Rechten van de Mens (EVRM), nu de artikelen 19 van de Wet op de economische delicten (de Wed) en artikel 5.17 van de Algemene wet bestuursrecht (Awb) de inspecteur niet de bevoegdheid geven om eiseres te dwingen de gevraagde gegevens, per e-mail in .ddd extensie, op te sturen dan wel anderszins aan te leveren. De vordering van de inspecteur op 21 december 2016 komt, aldus eiseres, neer op het afdwingen van een (schriftelijke) verklaring. Het afleggen van zo'n verklaring wordt, aldus eiseres, beschermd door hetgeen is overwogen in het Saunders arrest en daarom kan deze verklaring niet ten grondslag worden gelegd aan de boeteoplegging. Daarnaast betoogt eiseres dat het nemo tenetur beginsel is geschonden nu er klaarblijkelijk bij drie verschillende objectieve overheidsinstanties signalen waren die zo sterk waren dat direct een onderzoek is gestart. Gelet hierop bestond er, aldus eiseres, reeds bij aanvang van de (gestelde) controle al een criminal charge. Hierbij heeft eiseres aangegeven dat de aanleiding van het onderzoek is gelegen in geconstateerde feiten en omstandigheden die onder andere betrekking hebben op de rij- en rusttijden en overbelading en dat dit het oordeel sterkt dat bij aanvang van de controle reeds een criminal charge bestond. Ten slotte betoogt eiseres dat het nemo tenetur beginsel ook is geschonden indien de toezichtfase nog wel van kracht was, nu er enkel gegevens zijn gevorderd omdat er voldoende signalen waren dat er bij haar iets niet in orde was. Gelet hierop kon eiseres vanaf dat moment op zijn minst redelijkerwijs niet uitsluiten dat haar medewerking tot een boete zou leiden en derhalve is voldaan aan het criterium uit het Chambaz-arrest, waardoor er niet langer een plicht bestond tot medewerken. Echter is er, aldus eiseres, in strijd met artikel 6 van het EVRM toch actieve medewerking gevorderd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Artikel 5:17 van de Awb geeft de toezichthouder, aldus verweerder, de bevoegdheid om zakelijke gegevens en bescheiden te vorderen. Verweerder heeft aangegeven dat aanleiding voor het onderzoek geconstateerde feiten en omstandigheden betrof, die verkregen zijn uit de registratiesystemen van de Nationale Politie, de Inspectie Sociale Zaken en Werkgelegenheid en de Inspectie Leefomgeving en Transport. Nu de inspectie was gericht op controle van de naleving van diverse wet- en regelgeving kan niet worden gesteld dat eiseres reeds voor aanvang van deze controle de verwachting mocht ontlenen dat aan haar een bestuurlijke boete zou worden opgelegd. Verweerder geeft aan dat de verplichting tot het voeren van een deugdelijke registratie bestaat onafhankelijk van de bij eiseres uitgevoerde inspectie. Voor wat betreft de verwijzing van eiseres naar het Chambaz-arrest heeft verweerder verwezen naar de conclusie van de staatsraad advocaat-generaal Keus. Deze concludeert dat wilsonafhankelijk materiaal, zijnde materiaal waarvoor een wettelijke bewaarplicht bestaat en dat rechtmatig van een betrokkene kan worden verkregen, niet door de wijze van verschaffen daarvan van karakter verandert. Verweerder betoogt derhalve dat de enkele grond dat de medewerking van de verdachte nodig is om documenten te verkrijgen niet betekent dat dit bewijsmateriaal als wilsafhankelijk moet worden aangemerkt. Ten slotte betoogt verweerder dat indien de uitleg van eiseres wordt gevolgd toezicht en handhaving op de naleving van de Atw en de daarop berustende wet- en regelgeving niet meer mogelijk zou zijn. Het verzoek tot gegevensverstrekking is, aldus verweerder, gedaan in het kader van toezicht op de naleving van de bepalingen uit de Atw en niet met het oog op een aan eiseres op te leggen bestraffende sanctie. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2</nr>
+      <para>De rechtbank overweegt dat het uit het in artikel 6 van het EVRM neergelegde recht op een eerlijk proces voortvloeiende nemo tenetur beginsel inhoudt - kort gezegd - dat niemand gedwongen mag worden mee te werken aan zijn eigen veroordeling. Het nemo tenetur beginsel krijgt zijn gelding op het moment dat er sprake is van een 'criminal charge' jegens de justiabele. Van een 'criminal charge' is sprake vanaf het moment waarop van overheidswege jegens een persoon een handeling is verricht waaruit deze persoon in redelijkheid moet vrezen voor vervolging, dan wel, in bestuursrechtelijke zin, redelijkerwijs uit die handeling heeft kunnen afleiden dat aan hem een punitieve sanctie zal worden opgelegd. </para>
+      <para />
+      <paragroup>
+        <nr>10.2.1</nr>
+        <para>De rechtbank is van oordeel dat de gevorderde bedrijfsadministratie - zoals ook blijkt uit het boeterapport - niet is opgevraagd om te staven dat er een strafbaar feit heeft plaatsgevonden, maar om te controleren of er sprake is van een deugdelijke administratie. Op grond van artikel 4:3, eerste lid, van de Atw is eiseres verplicht een deugdelijke administratie te houden. Verweerder is, op grond van artikel 8:1 eerste lid, van de Atw, bevoegd om op de naleving hiervan toe te zien. Derhalve dient eiseres - ook los van eventuele weginspecties en klachten - te beschikken over een deugdelijke administratie en kan verweerder altijd controleren of eiseres hieraan voldoet. Gelet hierop dient het overleggen van de gevorderde administratie, naar het oordeel van de rechtbank, in dit geval te worden aangemerkt als het verstrekken van inlichtingen in het kader van toezicht over feitelijke gegevens als bedoeld in artikel 5:16 van de Awb en het verstrekken van zakelijke gegevens en bescheiden als bedoeld in artikel 5:17 van de Awb, waartoe eiseres op grond van artikel 5:20 van de Awb verplicht is haar medewerking te verlenen. Naar het oordeel van de rechtbank is in het onderhavige geval sprake van bewijsmateriaal dat bestaat onafhankelijk van de wil van eiseres en strekt het zwijgrecht zich hier niet toe uit. Bij deze beoordeling betrekt de rechtbank eveneens dat voor het uitvoeren van de controle niet vereist is dat er sprake is van een redelijk vermoeden van schuld. Van een 'criminal charge' is derhalve, naar het oordeel van de rechtbank, geen sprake. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>10.2.2</nr>
+        <para>Voor zover eiseres erop heeft gewezen dat voldaan was aan het criterium van het Chambaz-arrest, waardoor er niet langer een plicht bestond tot medewerken volgt de rechtbank eiseres niet. Hiertoe verwijst de rechtbank naar de conclusie van de staatsraad advocaat-generaal Keus van 12 april 2017. Uit deze conclusie blijkt dat het Chambaz-arrest op meerdere manieren kan worden uitgelegd. Keus concludeert  dat wilsonafhankelijk materiaal, zoals in casus materiaal waarvoor een wettelijke bewaarplicht bestaat en dat rechtmatig van een betrokkene kan worden verkregen, niet door de wijze van verschaffen daarvan van karakter verandert. De rechtbank onderschrijft dit standpunt zodat deze beroepsgrond van eiseres niet kan slagen.   </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>10.2.3</nr>
+        <para>Gelet op het bovenstaande ziet de rechtbank geen aanleiding om te oordelen dat sprake is van schending van artikel 6 van het EVRM en het hierin besloten nemo tenetur beginsel, zodat evenmin aanleiding bestaat om te oordelen dat de door eiseres in het kader van de bedrijfsinspectie verstrekte gegevens van het bewijs moeten worden uitgesloten. </para>
+        <para />
+        <parablock>
+          <para>11.		Eiseres betoogt vervolgens dat de inspecteur zich in de vordering van 21 december 2016 beroept op artikel 19 van de Wed en artikel 5.17 van de Awb. Geen van deze beide artikelen geeft, aldus eiseres, de bevoegdheid om de betrokkene te dwingen de gevraagde gegevens zelf per e-mail of anderszins in .ddd extentie op te sturen / aan te leveren. De controlediensten mogen de gegevens komen inzien en ter plekke kopieën maken, maar het enkele feit dat er bestanden per e-mail verzonden kunnen worden betekent, aldus eiseres, niet dat er voor haar een wettelijke plicht bestaat om dat ook te doen. Gelet hierop is de vordering in strijd met de Awb en de Wed en daarmee ondeugdelijk. </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>11.1</nr>
+      <para>Bij het bestreden besluit heeft verweerder overwogen dat uit de Memorie van Toelichting bij artikel 5:17 van de Awb blijkt dat zakelijke gegevens en bescheiden onder andere elektronische bestanden en gegevens omvatten die langs de elektronische weg zijn vastgelegd. Hieronder vallen, aldus verweerder, de gevorderde C- en M-bestanden in .ddd extensie. De inspecteur heeft in de vordering van 21 december 2016 eiseres niet gedwongen om de gevraagde documenten per e-mail op te sturen, de inspecteur heeft slechts gevorderd om de bestanden aan te leveren. In het verweerschrift heeft verweerder nog aangegeven dat reeds bij aanvang van de bedrijfsinspectie op 17 december 2016 de C- en M-bestanden van de controleperiode in de administratie aanwezig hadden moeten zijn. Nu eiseres de gegevens op dat moment niet toegankelijk had, was zij op dat moment reeds in overtreding. Uit coulance is eiseres de mogelijkheid geboden om binnen een bepaalde termijn de ontbrekende bestanden alsnog te overleggen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2</nr>
+      <para>Verweerder heeft de bestuurlijke boete aan eiseres opgelegd omdat eiseres geen deugdelijke registratie van de arbeids- en rusttijden heeft gevoerd waardoor het toezicht op de naleving van de Atw en de daarop berustende bepalingen onmogelijk was. Ingevolge artikel 5:17, eerste lid, van de Awb is een toezichthouder bevoegd inzage te vorderen van zakelijke gegevens en bescheiden. Ingevolge artikel 5:20, eerste lid, van de Awb is een ieder verplicht aan een toezichthouder binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden. Gelet hierop en nu eiseres zowel ten tijde van de bedrijfsinspectie op 17 december 2016 als nadien - op welke wijze dan ook - niet alle C- of M-bestanden heeft overgelegd ziet de rechtbank geen aanleiding om eiseres te volgen in het standpunt dat sprake is van een ondeugdelijke vordering door de inspecteur.</para>
+      <para />
+      <parablock>
+        <para>12.		Vervolgens betoogt eiseres dat voor zover er een plicht tot het per e-mail aanleveren van de bestanden bestond en daartoe een deugdelijke vordering is gedaan zij aan haar verplichting heeft voldaan nu vanaf het begin door haar is aangegeven dat de bestanden beschikbaar zijn en wel degelijk zijn ingezonden. Nu de inspecteur heeft verklaard wat er wel en niet op de ingezonden usb-stick zou staan en aan deze verklaring veel waarde wordt gehecht heeft eiseres verzocht om een contra expertise te mogen doen aan de usb-stick, de gebruikte laptop en het gebruikte software programma DIANTA. Nu de betreffende laptop niet langer in het bezit is van verweerder en verweerder de software niet ter beschikking wil stellen kan eiseres de 'keten van het bewijs' niet nader onderzoeken en kan zij niet controleren of de software compatible is met de usb-stick en goed draait op de laptop. Dat eiseres is uitgenodigd op het kantoor van verweerder is niet afdoende onderzoek. Gelet hierop is artikel 6 van het EVRM geschonden en kan 'as a whole' niet geoordeeld worden dat eiseres een eerlijk proces heeft gehad. De bevindingen van de inspecteur dat de bestanden op de door de inspecteur gebruikte computer met de door de inspecteur gebruikte software niet zichtbaar en/of aanwezig waren wordt niet bestreden, echter wil eiseres de onderliggende feiten en omstandigheden aan de kaak stellen. Eiseres wil controleren waarom de bestanden op de door de inspecteur gebruikte computer met de door de inspecteur gebruikte software niet zichtbaar waren en hiermee wil zij aantonen dat eiseres wel degelijk aan haar verplichting heeft voldaan om de bestanden tijdig in te zenden. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.1</nr>
+      <para>Bij het bestreden besluit heeft verweerder overwogen dat eiseres niet verweten wordt dat zij de bestanden niet tijdig heeft gedownload, maar dat eiseres geen deugdelijke registratie heeft gevoerd op basis waarvan een controle kon worden uitgevoerd. Vervolgens geeft verweerder aan dat op 17 december 2016 een onderzoek is ingesteld op het adres van de onderneming en dat eiseres reeds op dat moment alle chauffeurs- en voertuigbestanden toegankelijk had moeten maken. Op 19 december 2016 zijn er C- en M-bestanden overhandigd, echter bleken deze niet compleet. Gelet hierop is, uit coulance, bij vordering van 21 december 2016 aan eiseres de mogelijkheid geboden om de ontbrekende bestanden alsnog aan te leveren. Uit het op ambtseed opgemaakte aanvullend boeterapport blijkt dat de C- en M-bestanden niet op de aangeleverde usb-stick stonden. Van een op ambtseed opgemaakt en ondertekend boeterapport mag in beginsel worden uitgegaan. Eiseres wil een technisch onderzoek verrichten naar de usb-stick. Aan eiseres is de mogelijkheid geboden om ten kantore van verweerder onderzoek te komen doen naar de usb-stick en het programma DIANTA. Vervolgens heeft eiseres aangegeven dat zij afziet van deze mogelijkheid omdat de computer waarop de usb-stick is afgelezen niet meer beschikbaar is en het programma DIANTA niet aan eiseres ter beschikking wordt gesteld. Verweerder overweegt dat zij de conclusies van eiseres omtrent het programma DIANTA niet volgt. Hierbij heeft verweerder verwezen naar de auditrapporten en een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de AbRS) van 20 augustus 2014 waarin is overwogen dat DIANTA gebruikt mag worden voor het vaststellen van overtredingen. Nu eiseres in de gelegenheid is gesteld om onderzoek te komen doen naar de usb-stick en het programma DIANTA is er, aldus verweerder, geen sprake van schending van artikel 6 van het EVRM. Hierbij heeft verweerder aangegeven dat het programma DIANTA niet aan eiseres hoeft te worden verstrekt nu software en andere elektronische gegevens voor gegevensopslag,- bewerking,- of verwerking of beheer in beginsel niet aan te merken zijn als op de zaak betrekking hebbende stukken zoals bedoeld in artikel 8:42 van de Awb. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2</nr>
+      <para>Naar het oordeel van de rechtbank kan het betoog van eiseres niet slagen. Hiertoe overweegt de rechtbank als volgt. </para>
+      <para />
+      <paragroup>
+        <nr>12.2.1</nr>
+        <para>Zoals volgt uit vaste rechtspraak van de AbRS, waaronder de uitspraak van 19 februari 2020 (ECLI:NL:RVS:2020:486), moet de werkgever indien een bestuurder op een vrachtauto rijdt voorzien van een digitale tachograaf, hetgeen hier het geval is, alle gegevens van de voertuigunit en de bestuurderskaart ten minste twaalf maanden vanaf de registratie ervan bewaren. Die gegevens moeten op verzoek van de met controle belaste ambtenaar in de vestigingen van de onderneming rechtstreeks of op afstand toegankelijk zijn. De digitale data van de vrachtwagen bestaan uit zogeheten ‘M-bestanden’. De digitale data van de bestuurderskaart bestaan uit de zogeheten ‘C-bestanden’. Door beide bestanden met elkaar te vergelijken kan verweerder de deugdelijkheid en de volledigheid van de registraties vaststellen. Indien één van die bestanden niet kan worden overgelegd, is controle op een deugdelijke en volledige registratie van arbeids- en rusttijden niet mogelijk.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>12.2.2</nr>
+        <parablock>
+          <para>In dit geval heeft de inspecteur geconstateerd dat over de periode van 6 juni 2016 tot en met 3 juli 2016 zowel bij de controle op 17 december 2016 als op de door eiseres op </para>
+          <para>4 januari 2017 ingediende USB-stick, in 8 gevallen C- of M-bestanden ontbraken. Zowel het  daarvan opgemaakte boeterapport en het aanvullend boeterapport van 1 juni 2018 zijn op ambtsbelofte opgemaakt. Een bestuursorgaan mag, onverminderd de eigen verantwoordelijkheid ten aanzien van het bewijs, in beginsel afgaan op de juistheid van de bevindingen in een op ambtseed of ambtsbelofte opgemaakt en ondertekend boeterapport, voor zover deze eigen waarnemingen van de opsteller van het boeterapport weergeven. Indien die bevindingen worden betwist, zal moeten worden onderzocht of er, gelet op de aard en inhoud van die betwisting, grond bestaat voor zodanige twijfel aan die bevindingen dat deze niet of niet volledig aan de vaststelling van de overtreding ten grondslag kunnen worden gelegd. In dit geval is naar het oordeel van de rechtbank niet gebleken dat de  inspectierapporten ten aanzien van het ontbreken van C- of M-bestanden onjuist is.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>12.2.3</nr>
+        <para>Gelet op het bovenstaande en nu het aan eiseres is om ervoor zorg te dragen dat de registratie van de vervoersunits en de bestuurderskaarten toegankelijk zijn heeft verweerder, naar het oordeel van de rechtbank, zich terecht op het standpunt gesteld dat eiseres de Atw heeft overtreden. Hierbij betrekt de rechtbank dat doordat niet alle C- of M-bestanden zijn overgelegd de registratie van de arbeids- en rusttijden niet deugdelijk was zodat verweerder geen controle op de naleving van de Atw kon uitvoeren. Van schending van artikel 6 van het EVRM is naar het oordeel van de rechtbank dan ook geen sprake. </para>
+        <para />
+        <parablock>
+          <para>13.		Ten slotte betoogt eiseres dat de voorgenomen boete niet in verhouding staat tot de ernst en verwijtbaarheid van de overtreding. Hiertoe heeft eiseres betoogt dat verweerder nog altijd niet per individueel geval beboet en dat alle bedrijven nog altijd over één kam worden geschoren. Notoire overtreders krijgen dezelfde gematigde boete als bonafide bedrijven die een aantal schoonheidsfoutjes hebben gemaakt en dit maakt het beleid, aldus eiseres, onevenredig. Het beleid van verweerder maakt, aldus eiseres, tegen alle signalen van de AbRS in, geen onderscheid tussen de verschillende (soorten) overtreders. Hierbij heeft eiseres betoogt dat het boetebeleid te grote, onevenredige stappen kent tussen de verschillende categorieën. Ten slotte heeft eiseres betoogd dat het verwijt in deze zaak ligt in het niet tijdig overleggen van de bestanden en niet in het niet registreren. Dit is een minder te verwijten gedraging dan in het geheel niet registreren en het aan de laars lappen van alle regels. Hierbij heeft eiseres nog overwogen dat niet is gebleken dat zij aan de lopende band haar registratieverplichting niet nakomt. </para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>13.1</nr>
+      <para>Bij het bestreden besluit heeft verweerder overwogen dat de hoogte van de boetes is neergelegd in een vastgesteld tariefstelsel, waarbij rekening is gehouden met de proportionaliteit tot de ermee te dienen doelen. De hoogte van de boete moet worden afgestemd op de ernst van de overtreding, de mate waarin de overtreder kan worden verweten en de omstandigheden waaronder de overtreding is begaan. De werkgever dient een deugdelijke administratie te voeren ter zake van de arbeids- en rusttijden. Een deugdelijke administratie bestaat uit de bestanden afkomstig van de bestuurderskaarten (C-bestanden) en de bestanden afkomstig van de digitale tachograaf van de voertuigunit van de vrachtwagen (M-bestanden). Nu eiseres heeft nagelaten om te controleren of alle C- en M-bestanden compleet aanwezig waren in de administratie en op geen enkele manier aannemelijk is gemaakt dat zij de maximale zorg heeft betracht ter voorkoming van de overtredingen zijn de overtredingen, aldus verweerder, volledig aan eiseres te wijten. Voor zover eiseres heeft betoogt dat sprake is van verminderde verwijtbaarheid omdat sprake is van het 'niet tijdig overleggen' en niet van het 'niet registreren' overweegt verweerder dat eiseres een deugdelijke administratie diende te overleggen en dat zij ruimschoots in de gelegenheid is gesteld om dit te overleggen. Verweerder heeft de opgelegde boete vastgesteld conform de Atw en de Beleidsregel. Ten slotte overweegt verweerder dat uit het onderliggende boeterapport en de beschikking van 19 juni 2018 blijkt dat er in de controleperiode, naast de overtredingen waarvoor eiseres is beboet, nog veel meer overtredingen hebben plaatsgevonden. In het verweerschrift heeft verweerder nog aangegeven dat in de Beleidsregels onderscheid wordt gemaakt tussen overtredingen waarvoor eerst een waarschuwing wordt gegeven en overtredingen waarvoor direct een bestuurlijke boete wordt opgelegd en dat voor de vaststelling van de hoogte van de boete in de Beleidsregels een aantal bijstellingsmogelijkheden zijn opgenomen afhankelijk van onder meer de omvang van het bedrijf en de vraag of sprake is van zelfstandigheid of van recidive. Gelet hierop bevat de Beleidsregel aldus verweerder in beginsel voldoende mogelijkheden tot differentiatie bij het opleggen van een boete die in het desbetreffende geval als evenredig is aan te merken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.2</nr>
+      <para>Ingevolge vaste jurisprudentie van de AbRS, waaronder de uitspraak van 5 juni 2019 (ECLI:NL:RVS:2019:1814), gaat het bij het opleggen van een boete wegens overtreding van artikel 4:3, eerste lid, van de Atw om de aanwending van een discretionaire bevoegdheid. Het bestuursorgaan moet bij de aanwending van deze bevoegdheid, ingevolge artikel 5:46, tweede lid, van de Awb, de hoogte van de boete afstemmen op de ernst van de overtreding en de mate waarin deze aan de overtreder kan worden verweten. Daarbij moet rekening worden gehouden met de omstandigheden waaronder de overtreding is gepleegd. Verweerder kan omwille van de rechtseenheid en rechtszekerheid beleid vaststellen en toepassen over het al dan niet opleggen van een boete en het bepalen van de hoogte daarvan. Ook indien het beleid als zodanig door de rechter niet onredelijk is bevonden dient verweerder bij de toepassing daarvan in elk voorkomend geval te beoordelen, of die toepassing strookt met de hiervoor bedoelde eisen die aan de aanwending van de bevoegdheid tot het opleggen van een boete moeten worden gesteld. Indien dat niet het geval is dient de boete, in aanvulling op of in afwijking van het beleid, zodanig te worden vastgesteld dat deze evenredig is. De rechter toetst zonder terughoudendheid of het besluit van het bestuur met betrekking tot de boete voldoet aan deze eisen en dus leidt tot een evenredige sanctie.</para>
+      <para />
+      <paragroup>
+        <nr>13.2.1</nr>
+        <para>De bepalingen van de Atw en het Arbeidstijdenbesluit vervoer beogen de veiligheid en gezondheid van de bestuurder te beschermen en de verkeersveiligheid en eerlijke concurrentie te bevorderen. Met de ter uitvoering van deze bepalingen opgestelde Beleidsregel beoogt verweerder bedrijven en bestuurders te dwingen altijd een juiste registratie van de arbeids- en rusttijden te voeren. Gelet hierop is de in de bij de Beleidsregel  behorende Tarieflijst vastgestelde boete van € 4.400,00 voor overtreding van artikel 4:3, eerste lid, van de Atw, naar het oordeel van de rechtbank, in het algemeen niet onredelijk. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>13.2.2</nr>
+        <para>De rechtbank stelt vervolgens vast dat de door verweerder opgelegde boete is opgelegd conform de Beleidsregels. Naar het oordeel van de rechtbank heeft eiseres geen concrete en onderbouwde aanknopingspunten aangevoerd waarin verweerder aanleiding had moeten zien om over te gaan tot matiging van de boete. Verweerder heeft naar het oordeel van de rechtbank in het bestreden besluit voldoende gemotiveerd hoe de ernst van de overtreding en de verwijtbaarheid van eiseres zijn meegewogen in de berekening van de hoogte van de bestuurlijke boete. Deze beroepsgrond van eiseres kan dan ook niet slagen. </para>
+        <para />
+        <parablock>
+          <para>14.		Gelet op al het bovenstaande kan het bestreden besluit in stand blijven. Het beroep van eiseres is ongegrond. Voor een proceskostenveroordeling ziet de rechtbank geen aanleiding.</para>
+        </parablock>
+        <para />
+        <para />
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. T.F. Bruinenberg, voorzitter, en mr. E.M. Visser en </para>
+      <para>mr. V. van Dorst, leden, in aanwezigheid van mr. S.I. Havinga, griffier, op 7 oktober 2020. De uitspraak wordt openbaar gemaakt op de eerstvolgende maandag na deze datum.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier											voorzitter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

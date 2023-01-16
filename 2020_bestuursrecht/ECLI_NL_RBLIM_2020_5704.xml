@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBLIM:2020:5704</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-14T11:48:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Limburg" scheme="overheid.RechterlijkeMacht">Rechtbank Limburg</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROE 19/2546</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Roermond</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:5704">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:5704</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-11T13:50:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBLIM:2020:5704 Rechtbank Limburg , 03-08-2020 / ROE 19/2546</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBLIM:2020:5704:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Eiser heeft de gemeente verzocht om handhavend op te treden tegen een poort die volgens eiser wordt gebruikt om de weg af te sluiten. Dat zou volgens de Algemene plaatselijke verordening alleen mogen als daarvoor een vergunning is verleend, wat in dit geval niet zo is. De gemeente heeft het verzoek afgewezen omdat geen sprake zou zijn van een overtreding. De rechtbank oordeelt dat de gemeente onvoldoende onderzoek heeft gedaan naar de feitelijke situatie ter plaatse. De rechtbank gaat daarbij ook in op de vraag wat een weg is in de zin van de Algemene plaatselijke verordening en op welk de vraag welk onderzoek de gemeente moet uitvoeren.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBLIM:2020:5704:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">RECHTBANK limburg</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Roermond</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROE 19/2546</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 3 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">R. Dahmen, wonend te [woonplaats 1] , eiser</bridgehead>
+    <para>(gemachtigde: mr. J.T.F. van Berkel),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Venlo, verweerder</bridgehead>
+    <para>(gemachtigde: mr. J. Vincken).</para>
+    <para />
+    <parablock>
+      <para>Als derde-partijen hebben aan het geding deelgenomen: </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [belanghebbende 1] , wonend te [woonplaats 2]</bridgehead>
+    <para>(gemachtigde: mr. R.T. Kirpestein),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [belanghebbende 2] , wonend te [woonplaats 1] .</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 juli 2018 (hierna: de afwijzing) heeft verweerder het verzoek om handhaving van eiser van 5 juli 2018 afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 november 2018 (hierna: de eerste beslissing op bezwaar) heeft verweerder het bezwaar van eiser tegen de afwijzing ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 26 juni 2019 is het beroep van eiser tegen de eerste beslissing op bezwaar gegrond verklaard. De rechtbank heeft de eerste beslissing op bezwaar vernietigd en heeft verweerder opgedragen een nieuw besluit te nemen met inachtneming van de uitspraak.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 augustus 2019 (hierna: het bestreden besluit) heeft verweerder de afwijzing in stand gelaten. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de op de zaak betrekking hebbende stukken ingezonden en een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 29 juni 2020. Eiser heeft zich laten vertegenwoordigen door zijn gemachtigde en zijn vader. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. [belanghebbende 1] heeft zich laten vertegenwoordigen door zijn gemachtigde. [belanghebbende 2] is niet verschenen. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Opmerking vooraf</emphasis>
+      </para>
+    </parablock>
+    <para>1. De wetsartikelen die in de uitspraak worden genoemd, staan in de bijlage.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Waar gaat deze uitspraak over?</emphasis>
+      </para>
+    </parablock>
+    <para>2. [belanghebbende 1] en [belanghebbende 2] hebben een poort geplaatst aan het pad achter de [adres] in [woonplaats 1] . Deze poort bestaat uit twee helften en wordt volgens eiser gebruikt om het pad af te sluiten als paarden oversteken. Volgens eiser is de poort vaak half dicht. Eiser heeft verweerder verzocht om handhavend op te treden, omdat met de poort de openbare weg wordt afgesloten en omdat eiser hinder ondervindt van de gesloten poort. Het afsluiten van de openbare weg mag volgens eiser alleen maar als hier een vergunning voor is verleend, wat in dit geval niet zo is.</para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>De rechtbank heeft in de uitspraak van 26 juni 2019 op het eerdere beroep van eiser geoordeeld dat het pad een openbare weg is en voor iedereen toegankelijk moet zijn. Verweerder heeft volgens de rechtbank geen inzicht gegeven in de uitgevoerde controles en de daaruit blijkende concrete frequentie en duur van de afsluitingen. Wegens het ontbreken van een vergunning en de beginselplicht tot handhaving, had verweerder het handhavingsverzoek niet zonder meer mogen afwijzen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>In het bestreden besluit dat is genomen na de uitspraak van 26 juni 2019, heeft verweerder besloten om de afwijzing in stand te laten.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wat is de reden voor het bestreden besluit?</emphasis>
+        </para>
+      </parablock>
+      <para>3. Verweerder heeft [belanghebbende 1] en [belanghebbende 2] naar aanleiding van de uitspraak van 26 juni 2019 aangeschreven om de poort voorlopig geopend te houden en om een vergunning aan te vragen dan wel om de poort te verwijderen. [belanghebbende 1] en [belanghebbende 2] hebben volgens verweerder naar aanleiding van de aanschrijving meegedeeld dat de poort niet meer gesloten wordt. Het poortdeel dat zich boven de openbare weg bevond, wordt verplaatst of ingekort. Daarmee is volgens verweerder geen sprake meer van een overtreding en kan verweerder niet meer handhavend optreden. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Waarom is eiser het niet eens met het bestreden besluit?</emphasis>
+        </para>
+      </parablock>
+      <para>4. Eiser betoogt in beroep dat verweerder wederom geen onderzoek heeft verricht naar de gestelde overtredingen. Volgens eiser is niet duidelijk wat de openbare weg is en welke breedte deze heeft. Evenmin heeft verweerder volgens eiser nader onderzoek gedaan naar de locatie van de poorten en naar de frequentie en duur van de sluiting van de poorten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Hoewel een deel van de poort is ingekort, is volgens eiser nog steeds sprake van een overtreding. Deze komt volgens eiser namelijk nog steeds boven de weg uit. Hetzelfde geldt voor de andere helft van de poort. Deze is weliswaar nu altijd geopend, maar ook in geopende stand komt de poort nog steeds boven de weg. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Kan de rechtbank toekomen aan een inhoudelijke behandeling van het beroep?</emphasis>
+        </para>
+        <para>5. Voordat de rechtbank een beroep inhoudelijk kan behandelen, moet zij onder andere onderzoeken of sprake is van voldoende procesbelang. Als voldoende procesbelang ontbreekt, is het beroep niet-ontvankelijk, wat betekent dat het beroep niet inhoudelijk kan worden behandeld. Verweerder heeft zich op het standpunt gesteld dat eiser geen hinder (meer) ondervindt door de poortdelen. Daardoor zou eiser geen gerechtvaardigd belang hebben bij voortzetting van de beroepsprocedure.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Voldoende procesbelang is volgens vaste rechtspraak alleen dan aanwezig als het doel dat de indiener voor ogen staat met het ingestelde rechtsmiddel moet kunnen worden bereikt en voor hem feitelijk van betekenis is.<footnote-ref linkend="_6f52e43b-48da-4b00-b22b-a850975f5ccf" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>In deze beroepsprocedure ligt de vraag voor of de openbare weg geheel of gedeeltelijk wordt afgesloten door de poortdelen van [belanghebbende 1] en [belanghebbende 2] . Een (gedeeltelijke) afsluiting van de openbare weg, die eiser onder meer gebruikt met zijn tractor, kan hinderlijk zijn voor eiser. Of dat zo is, kan alleen met een inhoudelijke behandeling worden vastgesteld. Met het ingestelde beroep kan eiser ook voorkomen dat hij uiteindelijk hinder ondervindt. De rechtbank oordeelt daarom dat eiser voldoende (proces)belang heeft en dat de zaak inhoudelijk kan worden behandeld.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Welke vragen gaat de rechtbank beantwoorden?</emphasis>
+        </para>
+        <para>6. Bij de voorbereiding van een besluit vergaart het bestuursorgaan de nodige kennis omtrent de relevante feiten en de af te wegen belangen.<footnote-ref linkend="_7c30a07e-956e-4fb0-b0c2-6809c56d38f9" /></para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Handhavend optreden is gericht op het voorkomen, ongedaan maken of bestraffen van een overtreding. Een overtreding wordt in de wet omschreven als een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift.<footnote-ref linkend="_3748f228-ebaa-42a7-89c5-e06c1514ae01" /> In dit geval ligt ter beoordeling voor of [belanghebbende 1] en [belanghebbende 2] de Algemene plaatselijke verordening van de gemeente Venlo (hierna: de Apv) hebben overtreden. Daarin is namelijk bepaald dat het verboden is om zonder vergunning de weg of een weggedeelte anders te gebruiken dan overeenkomstig de publieke functie daarvan.<footnote-ref linkend="_43156f97-3110-41c1-9cb4-4717832bd47d" /> Zoals ook in de uitspraak van 26 juni 2019 is geoordeeld, betekent dit dat het afsluiten van de weg door middel van een poort vergunningplichtig is. De rechtbank neemt dit ook als uitgangspunt in de onderhavige procedure.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>De Apv verwijst voor de definitie van een ‘weg’ naar de Wegenverkeerswet 1994.<footnote-ref linkend="_e905b921-3191-4b9e-bf5f-6de9c181667e" /> Daarin is bepaald dat wegen “alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de […] tot die wegen behorende paden en bermen of zijkanten” zijn.<footnote-ref linkend="_d779a26d-537b-4bcd-96c4-88ddc95b95c6" />Uit vaste rechtspraak volgt echter –kort gezegd– dat een bestuursorgaan niet handhavend kan optreden tegen rechthebbenden op een gedeelte van de weg als zij over dat weggedeelte geen verkeer hoeven te dulden.<footnote-ref linkend="_7f8d545e-1d11-4c9a-9428-f14f10b64f61" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>Gelet op de inhoud van het beroepschrift en het verhandelde ter zitting zal de rechtbank de volgende vragen beantwoorden:</para>
+      <para>- Heeft verweerder de nodige kennis vergaard omtrent de relevante feiten?</para>
+      <para>- Als dat niet zo is, wat moet dan na de uitspraak gebeuren?</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Heeft verweerder de nodige kennis vergaard omtrent de relevante feiten?</emphasis>
+        </para>
+      </parablock>
+      <para>7. Verweerder moet voldoende feiten vaststellen om het handhavingsverzoek van eiser te kunnen beoordelen. In dit geval betekent dat, dat verweerder allereerst vaststelt wat de precieze ligging is van de weg. Enkel met die kennis kan immers worden beoordeeld of de poort boven de weg komt. Als daaruit blijkt dat de poort boven de weg komt, moet verweerder vaststellen of [belanghebbende 1] en [belanghebbende 2] rechthebbenden zijn op het deel van de weg waarover de poort komt en zo ja, of zij verkeer over dat weggedeelte hebben te dulden. Als [belanghebbende 1] en [belanghebbende 2] immers rechthebbende zijn op het weggedeelte waarover de poort komt en als zij over dat deel <emphasis role="italic">geen </emphasis>verkeer hoeven te dulden, dan kan verweerder niet handhavend optreden. De rechtbank is van oordeel dat verweerder onvoldoende kennis heeft vergaard omtrent deze feiten. Daartoe overweegt de rechtbank het volgende.</para>
+      <para />
+      <para>8. Uit de foto’s die zich in het dossier bevinden, volgt dat de situatie ter plaatse bestaat uit een kiezelpad met daarnaast aan één kant een groenstrook. Aan de andere kant van het kiezelpad bevindt zich een smalle strook aarde/grond. Naast de groenstrook en strook grond zijn houten hekken geplaatst, kennelijk ter afrastering van de aangrenzende percelen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Gelet hierop en op hetgeen bij punt 6.2. is overwegen, is de rechtbank van oordeel dat in dit geval niet slechts het kiezelpad tot de weg behoort, maar ook de groenstrook en de strook grond die zich aan weerszijden van het kiezelpad bevinden. De groenstrook is immers als berm aan te merken en de strook grond als zijkant van de weg. Gelet hierop is alles tussen de hekken die zich aan weerszijden van het pad bevinden, aan te merken als weg. </para>
+      <para />
+      <parablock>
+        <para>9. In beginsel mogen [belanghebbende 1] en [belanghebbende 2] geen belemmeringen plaatsen tussen de hekken aan weerszijden van de weg. Dit kan echter anders zijn als zij rechthebbenden zijn op een deel van de weg.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>Uit het verhandelde ter zitting en de uitdraai uit het Geodata systeem blijkt dat verweerder de breedte van de weg heeft opgemeten aan de hand van een luchtfoto uit Geodata in combinatie met de daarop aangegeven kadastrale grenzen. Volgens verweerder volgt hieruit dat de afstand tussen de aan de weg grenzende kadastrale percelen 2,40 meter is. Als dat juist is, dan zijn de eigenaren van de aangrenzende kadastrale percelen rechthebbende op de berm en de zijkant.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Ter zitting is gebleken dat op de uitdraai uit Geodata de kadastrale grenzen ten opzichte van de luchtfoto zijn verschoven en dat deze dus niet op de juiste plaats zijn weergegeven in Geodata. Daardoor is onvoldoende duidelijk wat de zijdelingse grenzen van de weg zijn. Voorts heeft eiser een kadastrale veldmeting overgelegd. Deze veldmeting bevat een meting van de breedte van de weg, waaruit volgt dat de weg op de plek van de meting 5,51 meter breed is. De plek van de meting is weliswaar een andere plek dan die waar de poort zich bevindt, maar de rechtbank is toch van oordeel dat de veldmeting voldoende twijfel zaait over de juistheid van de feitenvaststelling door verweerder. Daartoe acht de rechtbank van belang dat de gegevens uit Geodata afwijken van de daadwerkelijke situatie, zoals hiervoor is vastgesteld. Bovendien ondersteunt de omstandigheid dat de hekken van de aangrenzende percelen niet naast het kiezelpad staan maar naast de berm en de strook aarde/grond, het betoog van eiser dat de kadastrale gegevens die verweerder heeft gebruikt onjuist zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3.</nr>
+      <para>Nu onduidelijk is of [belanghebbende 1] en [belanghebbende 2] rechthebbende zijn op een deel van de weg, is het niet mogelijk om vast te stellen of verweerder handhavend dient op te treden tegen de aanwezigheid van de poort. De rechtbank is dan ook van oordeel dat verweerder onvoldoende onderzoek heeft gedaan naar de feitelijke situatie ter plaatse. Het bestreden besluit is onzorgvuldig tot stand gekomen en zal worden vernietigd.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wat moet na de uitspraak gebeuren?</emphasis>
+        </para>
+        <para>10. Verweerder dient vast te stellen of [belanghebbende 1] en [belanghebbende 2] rechthebbende zijn op een deel van de weg. Het is aan verweerder om te beslissen op welke wijze hij dit vaststelt. De rechtbank geeft echter in overweging om bij het kadaster navraag te doen welke mogelijkheden er zijn om uitsluitsel te krijgen over de exacte grenzen van de percelen die aan de weg grenzen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Als uit onderzoek blijkt dat [belanghebbende 1] en [belanghebbende 2] geen rechthebbende op een deel van de weg zijn, dan mogen zij hoe dan ook geen poort aanwezig hebben, tenzij zij een vergunning hebben die dit toestaat. De poort komt dan immers, ook in ingekorte en/of geopende toestand, boven de weg of de berm en/of zijkant daarvan. In dat geval zal verweerder moeten beoordelen of hij [belanghebbende 1] en [belanghebbende 2] nogmaals in de gelegenheid stelt om een vergunning aan te vragen voor het aanwezig hebben van de poort alsmede voor het sluiten daarvan. In dat kader zal verweerder ook moeten nagaan hoe vaak en hoe lang de poort wordt gesloten, een en ander zoals overwogen in de uitspraak van 26 juni 2019, en of en in welke mate dit hinderlijk is voor de gebruikers van de weg. Een enkele verklaring van de eigenaar van de poort dat de poort niet (meer) zal worden gesloten, volstaat in dat kader niet. Verweerder dient immers zelf de nodige feiten vast te stellen, waaronder de frequentie en de duur van de sluiting van de poort. Daar komt bij dat de gemachtigde van [belanghebbende 1] ter zitting heeft verklaard niet te kunnen uitsluiten dat de poort (in de toekomst) zal worden gesloten. Verweerder kan derhalve niet zonder meer uitgaan van de eerdere verklaring van [belanghebbende 1] dat de poort niet meer zal worden gesloten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>Als [belanghebbende 1] en [belanghebbende 2] wel rechthebbende zijn op een deel van de weg, dan dient verweerder na te gaan of zij verkeer moeten dulden over dat deel van de weg. Hierbij wijst de rechtbank erop dat ingevolge de Wegenwet verkeer over bermen moet worden geduld uitsluitend “voor zover het door omstandigheden wordt gebillijkt”.<footnote-ref linkend="_316c5709-c575-4ad3-bc26-429dccbc70ba" /> Of dat zo is, is afhankelijk van alle omstandigheden van het geval, met inbegrip van het feitelijke gebruik ter plaatse. De rechtbank kan dan ook niet reeds nu een uitputtende lijst van feiten en omstandigheden geven die in dat kader moeten worden beoordeeld. Als [belanghebbende 1] en [belanghebbende 2] rechthebbende zijn op een deel van de weg en als zij geen verkeer moeten dulden over dat deel van de weg, dan is verweerder niet bevoegd om handhavend op te treden.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie en proceskosten</emphasis>
+        </para>
+      </parablock>
+      <para>11. Het bestreden besluit is onvoldoende onzorgvuldig tot stand gekomen. Het beroep wordt daarom gegrond verklaard en het bestreden besluit zal worden vernietigd. De rechtbank zal verweerder opdragen een nieuw besluit te nemen op het bezwaar van eiser met inachtneming van deze uitspraak.</para>
+      <para />
+      <para>12. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt.</para>
+      <para />
+      <para>13. De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,00 (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,00 en een wegingsfactor 1).</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op om een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 174,00 aan eiser te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1.050,00.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Aldus vastgesteld door mr. T. Dohmen, rechter, in aanwezigheid van J.J.P. Bruin, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op: 3 augustus 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>de griffier is verhinderd te ondertekenen			rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het COVID-19 virus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken, tenzij openbaarmaking voor die tijd op een andere manier heeft plaatsgevonden.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: 3 augustus 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para />
+    <parablock>
+      <para>Tegen deze uitspraak kunnen een belanghebbende en het bestuursorgaan hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State (postbus 20019, 2500 EA Den Haag). De termijn voor het instellen van het hoger beroep bedraagt zes weken na de dag van verzending van de uitspraak.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De Algemene wet bestuursrecht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 3:2</emphasis>
+      </para>
+      <para>Bij de voorbereiding van een besluit vergaart het bestuursorgaan de nodige kennis omtrent de relevante feiten en de af te wegen belangen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 5:1</emphasis>
+      </para>
+    </parablock>
+    <para>1. In deze wet wordt verstaan onder overtreding: een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift.</para>
+    <para>[…]</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De Wegenverkeerswet 1994</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 1</emphasis>
+      </para>
+    </parablock>
+    <para>1. In deze wet en de daarop berustende bepalingen wordt verstaan onder: </para>
+    <para>[…]</para>
+    <para>b. 	wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten; </para>
+    <para>[…]</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De Wegenwet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 14</emphasis>
+      </para>
+      <para>[…]</para>
+    </parablock>
+    <para>2. De rechthebbende op en de onderhoudplichtige van een tot den weg behoorenden berm hebben alle verkeer over den berm te dulden, voor zoover het door omstandigheden wordt gebillijkt.</para>
+    <para>[…]</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De Algemene plaatselijke verordening van de gemeente Venlo</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 1:1 Begripsomschrijvingen</emphasis>
+      </para>
+      <para>In deze verordening wordt verstaan onder:</para>
+      <para>[…]</para>
+    </parablock>
+    <para>b. 	weg: weg, als bedoeld in artikel 1, eerste lid, onder b, van de Wegenverkeerswet 1994;</para>
+    <para>[…]</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 2:10 Voorwerpen of stoffen op, aan of boven de weg</emphasis>
+      </para>
+    </parablock>
+    <para>1. Het is verboden zonder voorafgaande vergunning van het college de weg of een weggedeelte anders te gebruiken dan overeenkomstig de publieke functie daarvan.</para>
+    <para>[…]</para>
+    <para />
+    <para />
+  </section>
+  <footnote id="_6f52e43b-48da-4b00-b22b-a850975f5ccf" label="1">
+    <para> Bij wijze van voorbeeld van die vaste rechtspraak noemt de rechtbank de uitspraak van de Afdeling Bestuursrechtspraak van de Raad van State (hierna: de Afdeling) van 28 januari 2015, ECLI:NL:RVS:2015:210.</para>
+  </footnote>
+  <footnote id="_7c30a07e-956e-4fb0-b0c2-6809c56d38f9" label="2">
+    <para> Artikel 3:2 van de Algemene wet bestuursrecht (hierna: de Awb).</para>
+  </footnote>
+  <footnote id="_3748f228-ebaa-42a7-89c5-e06c1514ae01" label="3">
+    <para> Artikel 5:1, eerste lid, van de Awb.</para>
+  </footnote>
+  <footnote id="_43156f97-3110-41c1-9cb4-4717832bd47d" label="4">
+    <para> Artikel 2.10, eerste lid, van de Apv.</para>
+  </footnote>
+  <footnote id="_e905b921-3191-4b9e-bf5f-6de9c181667e" label="5">
+    <para> Artikel 1:1, aanhef en onder b, van de Apv. </para>
+  </footnote>
+  <footnote id="_d779a26d-537b-4bcd-96c4-88ddc95b95c6" label="6">
+    <para> Artikel 1, eerste lid, aanhef en onder b, van de Wegenverkeerswet 1994.</para>
+  </footnote>
+  <footnote id="_7f8d545e-1d11-4c9a-9428-f14f10b64f61" label="7">
+    <para> Bij wijze van voorbeeld noemt de rechtbank de uitspraak van de Afdeling van 9 november 2016, ECLI:NL:RVS:2016:2990.</para>
+  </footnote>
+  <footnote id="_316c5709-c575-4ad3-bc26-429dccbc70ba" label="8">
+    <para> Artikel 14, tweede lid, van de Wegenwet.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

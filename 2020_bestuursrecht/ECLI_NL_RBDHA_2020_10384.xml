@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:10384</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-16T15:28:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 20-607 einduitspraak</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10384">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10384</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-16T15:28:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:10384 Rechtbank Den Haag , 22-09-2020 / AWB 20-607 einduitspraak</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:10384:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Begin van bewijs, verblijfsrecht op grond van artikel 21 VWEU en de Verblijfsrichtlijn, eiser heeft zich niet gehouden aan de gestelde termijnen, eiser heeft niet gereageerd op de herstelverzuimbrief van verweerder en heeft geen nadere toelichting of aanvullende informatie gegeven over de punten waarover bij verweerder nog onduidelijkheid bestond, onvoldoende gebleken dat aan eiser een verblijfsrecht op grond van artikel 21 van het VWEU toekomt.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:10384:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers:	AWB 20/607 (beroep)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [V-nummer]</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer voor vreemdelingenzaken in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] ,</bridgehead>
+    <parablock>
+      <para>geboren op [geboortedatum] , van Senegalese nationaliteit, eiser</para>
+      <para>(gemachtigde: [naam] ),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de staatssecretaris van Justitie en Veiligheid, verweerder</para>
+      <para>(gemachtigde: [naam] ). </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 september 2019 (het primaire besluit) heeft verweerder vastgesteld dat het verblijfsrecht van eiser als gemeenschapsonderdaan is geëindigd. Het daartegen gemaakte bezwaar is bij besluit van 16 januari 2020 (het bestreden besluit) ongegrond verklaard.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 27 januari 2020 heeft de rechtbank het beroepschrift van eiser ontvangen. Daarnaast heeft hij verzocht een voorlopige voorziening te treffen die ertoe strekt de uitzetting te verbieden totdat op het beroep is beslist. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 4 juni 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder is vertegenwoordigd door zijn voornoemde gemachtigde. Het onderzoek op de zitting is toen gesloten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij tussenuitspraak van 8 juli 2020 heeft de rechtbank het onderzoek heropent en verweerder de gelegenheid gegeven om de daags voor zitting overgelegde stukken van eiser met een nadere toelichting van eiser binnen vier weken te beoordelen. Na ontvangst had eiser twee weken om te reageren op het nadere standpunt van verweerder. Verder is de voorlopige voorziening toegewezen in die zin dat het verweerder werd verboden eiser uit te zetten tot vier weken na verzending van de einduitspraak op het beroep.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 4 augustus 2020 heeft verweerder gereageerd. Eiser heeft gereageerd bij brief van 28 augustus 2020. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft het onderzoek op 31 augustus 2020 gesloten. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Deze uitspraak bouwt voort op de tussenuitspraak. De rechtbank blijft bij al wat zij in de tussenuitspraak heeft overwogen en beslist, tenzij hierna uitdrukkelijk anders wordt overwogen. Het staat de rechtbank niet vrij om terug te komen van zonder voorbehoud gegeven oordelen in de tussenuitspraak. Dit is alleen anders in zeer uitzonderlijke gevallen, maar zo’n uitzonderlijk geval doet zich hier niet voor. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Tussenuitspraak 8 juli 2020 </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. In de tussenuitspraak heeft de rechtbank kort gezegd overwogen dat eiser met de overgelegde stukken een begin van bewijs heeft geleverd dat hem een verblijfsrecht op grond artikel 21 van het VWEU<footnote-ref linkend="_11128160-d014-46e1-bcd6-cc746b39a61b" /> toekomt. Vanuit het oogpunt van finaliteit heeft de rechtbank het onderzoek heropend om eiser in de gelegenheid te stellen zich nader uit te laten over de door hem ingebrachte aanvullende stukken en om zich nader uit te laten over de door verweerder geconstateerde onduidelijkheden. De rechtbank heeft verweerder daarbij een termijn van vier weken gegeven om de aanvullende stukken en de eventueel op verzoek van verweerder door eiser te geven nadere toelichting te beoordelen in een hetzij aanvullende motivering, hetzij, voor zover nodig, een nieuwe beslissing op bezwaar, na of tegelijkertijd met intrekking van het nu bestreden besluit. De rechtbank heeft eiser vervolgens een termijn van twee weken gegeven na ontvangst daarvan om op verweerders standpunt te reageren. De rechtbank heeft in de tussenuitspraak niet geoordeeld op de beroepsgronden die zien op artikel 8 van het EVRM<footnote-ref linkend="_5247552d-2f0c-4def-97a5-de9326c5bb25" /> en artikel 4:84 van de Awb<footnote-ref linkend="_837e2270-dd56-432c-9e69-df1245deb78b" />, omdat deze omstandigheden met de nieuwe overgelegde informatie eventueel anders konden komen te liggen. De beroepsgrond die zag op het arrest Chavez-Vilchez,<footnote-ref linkend="_048cf016-5b3a-4802-b57f-ae779858b394" /> heeft de rechtbank in de tussenuitspraak verworpen. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Nadere standpunten partijen  </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. De rechtbank constateert dat verweerder bij brief van 4 augustus 2020 de rechtbank heeft geïnformeerd. Daarin staat dat verweerder naar aanleiding van de tussenuitspraak bij brief van 13 juli 2020 een herstelverzuim brief aan eiser heeft gestuurd met het verzoek om aanvullende informatie en toelichting over de verklaring van inschrijving van de kinderen, de overeenkomst van opdracht van [naam] en/of [naam] , de toestemmingsverklaring van de moeder en de verklaring van de school [naam] . Verweerder heeft eiser een termijn gegeven van twee weken om de nadere toelichting en de gevraagde bewijsstukken te overleggen. Eiser heeft niet gereageerd op de herstelverzuimbrief van verweerder en heeft evenmin de rechtbank binnen de daarvoor gestelde termijn bericht. Eiser heeft in de tussentijd op 10 en 17 juli 2020 nieuwe aanvragen ingediend. </para>
+    <para />
+    <para>4. De rechtbank stelt vast dat eiser niet heeft gereageerd binnen de daarvoor gestelde termijn. Op maandag 24 augustus 2020 heeft de griffier van de rechtbank telefonisch contact gezocht met de gemachtigde van eiser, maar zij was niet bereikbaar. Op dinsdag </para>
+    <parablock>
+      <para>25 augustus 2020 heeft de gemachtigde van eiser telefonisch contact opgenomen met de griffier van de rechtbank. Door de griffier is medegedeeld dat eiser niet binnen de gestelde termijnen heeft gereageerd. Aan eiser is de mogelijkheid gegeven om tot vrijdag </para>
+      <para>28 augustus 2020 kenbaar te maken waarom niet binnen de gestelde termijnen is gereageerd. Op vrijdag 28 augustus heeft de gemachtigde vervolgens een fax gestuurd in twee delen van in totaal 300 bladzijden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Oordeel rechtbank </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De bij fax van 28 augustus 2020 overgelegde stukken</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank stelt allereerst dat in dit faxbericht geen reden stond vermeld, waarom niet aan de gestelde termijnen is voldaan. Na de reactie van verweerder van 4 augustus 2020 had eiser immers twee weken, tot en met 18 augustus 2020, om te reageren op het standpunt van verweerder. Eiser heeft geen verschoonbare reden gegeven voor de te late indiening van de nadere reactie en stukken. De enkele door de gemachtigde van eiser aan de telefoon toegelichte omstandigheid dat de desbetreffende afdeling is vergeten de termijnen in de agenda’s te zetten, acht de rechtbank niet afdoende. Dat betekent dat de rechtbank dit faxbericht en de daarbij behorende stukken niet zal betrekken bij het oordeel. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Verblijfsrecht op grond van artikel 21 VWEU en de Verblijfsrichtlijn</emphasis>
+        <footnote-ref linkend="_f9c8c829-1921-40cb-b4aa-e536ffaada08" />
+      </para>
+    </parablock>
+    <para />
+    <para>6. De rechtbank overweegt dat eiser niet heeft gereageerd op de herstelverzuimbrief van verweerder met het verzoek om een nadere toelichting en aanvullende informatie ten aanzien van de punten waarover bij verweerder nog onduidelijk bestond. Zoals overwogen in de tussenuitspraak had eiser weliswaar een begin van bewijs geleverd dat hem een verblijfsrecht op grond artikel 21 van het VWEU toekwam, maar lag het op zijn weg om opheldering te geven over de door verweerder geconstateerde onduidelijkheden. Dat is nu niet gebeurd. Zo is onder meer nog steeds geen duidelijkheid over de overeenkomsten van opdracht van eiser bij [naam] en/of [naam] en de looptijd daarvan. Ook zijn geen duidelijk leesbare kopieën van de bankafschriften overgelegd. Daarmee is onduidelijk gebleven in hoeverre eiser als zelfstandige voorziet in zijn eigen onderhoud en dat van zijn kinderen. Ook ontbreekt nog steeds een toestemmingsverklaring van de moeder. Weliswaar is een verklaring van de moeder overgelegd, maar niet is duidelijk geworden of door moeder toestemming is verleend om het hoofdverblijf van de kinderen in weerwil van de overgelegde omgangsregeling te verplaatsen naar Nederland. Daarnaast bevat de verklaring geen identificerend document van de moeder. Tot slot had eiser een verklaring van [naam] overgelegd, maar deze is niet gedateerd en de gegevens van de school ontbreken. Verweerder had verzocht om een nadere toelichting alsmede aanvullende documenten, zoals een eindrapport van de kinderen. Dit is door eiser nagelaten. Gelet hierop heeft eiser naar het oordeel van de rechtbank onvoldoende onderbouwd dat aan hem een verblijfsrecht toekomt op grond van artikel 21 VWEU en de Verblijfsrichtlijn. Eiser heeft kennelijk een nieuwe aanvraag ingediend, maar dat kan hem niet baten. Het had op zijn weg gelegen om de gevraagde stukken en nadere toelichting in deze procedure te overleggen binnen de gestelde termijnen. De beroepsgrond slaagt niet.  </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 8 van het EVRM</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>7. Eiser heeft verder aangevoerd dat het bestreden besluit in strijd is met artikel 8 van het EVRM. Dat betoog slaagt niet. Ten tijde van het bestreden besluit bevonden de kinderen zich in Frankrijk en woonden zij bij hun moeder. Verweerder heeft zich om die reden op het standpunt kunnen stellen dat niet is gebleken dat de kinderen hun hoofdverblijf in Nederland hebben en dat om die reden alleen al een beroep op artikel 8 van het EVRM niet kan leiden tot een verblijfsrecht in Nederland of tot de conclusie dat ten onrechte een verwijderingsbesluit is opgelegd. Indien eiser stelt dat sprake is van een uitzettingsbeletsel door het familieleven wat hij toen met zijn in Frankrijk woonachtige kinderen uitoefent, dient hij zich te wenden tot de Franse autoriteiten. Dat de kinderen zich inmiddels in Nederland bevinden en bij hem wonen, kan eiser niet baten gelet op de ex-tunc toetsing. Het staat eiser vrij een nieuwe aanvraag in te dienen op grond van artikel 8 van het EVRM. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bijzondere omstandigheden </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>8. Het betoog dat sprake is van bijzondere omstandigheden zodat verweerder op grond van artikel 4:84 van de Awb aanleiding had moeten zien om af te wijken van het beleid, slaagt evenmin. Eiser heeft niet onderbouwd waar deze bijzondere omstandigheden uit bestaan en evenmin onderbouwd van welk beleid verweerder zou moeten afwijken. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>9. De rechtbank verklaart het beroep ongegrond. Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.K. Mireku, rechter, in aanwezigheid van <?linebreak?>mr. T. Pourjalili, griffier. De beslissing is in het openbaar uitgesproken op </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>						            rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak en de tussenuitspraak kan binnen vier weken na de dag van verzending van deze uitspraak hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.  </para>
+    <para />
+  </section>
+  <footnote id="_11128160-d014-46e1-bcd6-cc746b39a61b" label="1">
+    <para> Het verdrag betreffende de werking van de Europese Unie. </para>
+  </footnote>
+  <footnote id="_5247552d-2f0c-4def-97a5-de9326c5bb25" label="2">
+    <para> Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. </para>
+  </footnote>
+  <footnote id="_837e2270-dd56-432c-9e69-df1245deb78b" label="3">
+    <para> Algemene wet bestuursrecht </para>
+  </footnote>
+  <footnote id="_048cf016-5b3a-4802-b57f-ae779858b394" label="4">
+    <para> Arrest van het Hof van Justitie van de Europese Unie van 10 mei 2017 in de zaak Chavez-Vilchez, ECLI:EU:C:2017:354.</para>
+  </footnote>
+  <footnote id="_f9c8c829-1921-40cb-b4aa-e536ffaada08" label="5">
+    <para> Richtlijn 2004/38/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende het recht van vrij verkeer en verblijf op het grondgebied van de lidstaten voor de burgers van de Unie en hun familieleden.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

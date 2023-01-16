@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:2339</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-20T14:00:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/1009</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2339">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2339</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-19T11:24:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:2339 Rechtbank Rotterdam , 20-03-2020 / ROT 20/1009</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:2339:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Warenwetbesluit machines. Derde partij. Enkelvoudige lastoplegging door de staatssecretaris van SZW aan een importeur van slijpmachines. De voorzieningenrechter heeft ernstige twijfels bij de vraag of de normadressaat is aangeschreven, omdat verzoekster niet de fabrikant is. Voorts zijn beide lastonderdelen in strijd met de rechtszekerheid omdat zij te onbepaald zijn. Ten slotte is het onderzoek door de Inspectie SZW onzorgvuldig geweest. De staatssecretaris wordt in de proceskosten van verzoekster en in die van de fabrikant veroordeeld.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:2339:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/1009</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 20 maart 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Milati Grass Machines B.V., te Papendrecht, verzoekster,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staatssecretaris van Sociale Zaken en Werkgelegenheid, verweerder,</bridgehead>
+    <para />
+    <parablock>
+      <para>waarbij als derde partij heeft deelgenomen:</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Foley Company LLC (Foley), te River Falls (Verenigde Staten).</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">Procesverloop</bridgehead>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 januari 2020 (het bestreden besluit) heeft verweerder een zogenoemde beschikking Non-conformiteit Productveiligheid Warenwet afgegeven, waarbij verzoekster is gelast (1) om alle noodzakelijke maatregelen te treffen opdat de slijpmachine Neary type 181 SRI in overeenstemming wordt gebracht met de essentiële eisen van bijlage I van richtlijn 2006/42/EG en (2) alle bezitters van reeds geleverde slijpmachines van dit type op de hoogte te brengen van het gevaar dat van de machines uitgaat en deze machines terug te roepen. Daarbij is vermeld dat de Inspectie SZW na verloop van een termijn van drie maanden de naleving van de opheffing van de non-conformiteitsovertredingen controleert en ingeval van niet naleving overgaat tot het opmaken van een boeterapport of van een proces-verbaal, zoals bedoeld in artikel 32a van de Warenwet.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit heeft verzoekster bezwaar gemaakt. Ook heeft verzoekster de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Foley heeft verzocht als partij te mogen deelnemen aan deze procedure.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 12 maart 2020. Verzoekster heeft zich laten vertegenwoordigen door haar gemachtigde mr. J.M. Smits. Voorts zijn namens haar verschenen [Naam] en ir. P. Hartgers (Hartgers). Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde mr. S. Smit. Foley heeft zich laten vertegenwoordigen door mr. E.R. Mooring en mr. E. Smits.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <bridgehead role="bold">Overwegingen</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wettelijk kader</emphasis>
+      </para>
+    </parablock>
+    <para>1. Indien voorafgaand aan een mogelijk beroep bij de rechtbank tegen een besluit bezwaar is gemaakt, kan de voorzieningenrechter van de rechtbank die bevoegd kan worden in de hoofdzaak op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb) op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist. Voor zover de daartoe uit te voeren toetsing meebrengt dat de rechtmatigheid van het bestreden besluit wordt beoordeeld, heeft het oordeel van de voorzieningenrechter een voorlopig karakter en is dat oordeel niet bindend voor de beslissing op bezwaar of in een eventuele beroepsprocedure.</para>
+    <para />
+    <para>2. In de bijlage is het Unierecht en de nationale materiële wet- en regelgeving opgenomen voor zover dit van toepassing is. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Derde partij </emphasis>
+      </para>
+    </parablock>
+    <para>3. De Neary type 181 SRI (de slijpmachine) is een machine voor het slijpen van de messen van zogenoemde kooigrasmaaiers. De slijpmachine, bedoeld voor professioneel gebruik door bijvoorbeeld golfbanen en gemeentelijke groendiensten, wordt gemaakt door Foley en geïmporteerd in Nederland door verzoekster. Het bestreden besluit is gericht aan verzoekster, zodat bij de toepassing van artikel 8:26 van de Awb de vraag voorligt of Foley een eigen rechtstreeks belang in de zin van artikel 1:2, eerste lid, van de Awb heeft. Foley heeft in dit verband aangevoerd dat het bestreden besluit tot gevolg heeft dat zij de slijpmachine niet meer kan afzetten in Nederland. De voorzieningenrechter is met Foley van oordeel dat dit een eigen – zakelijk – belang oplevert als bedoeld in vuistregel 1 van de conclusie van raadsheer advocaat-generaal mr. R.J.G.M. Widdershoven van 7 november 2018 (ECLI:NL:CRVB:2018:3474). Foley wordt daarom als derde partij tot deze procedure toegelaten.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Voorgeschiedenis en besluitvorming</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Op 10 september 2019 heeft een inspecteur van de Inspectie SZW een inspectie uitgevoerd op de locatie van Golfcentrum Best, gelegen Golflaan 1 te Best. Tijdens de inspectie is de toezichthouder de slijpmachine getoond. Op basis van de inspectiebevindingen is verweerder van mening dat de slijpmachine niet in overeenstemming is met het Warenwetbesluit machines waarmee Richtlijn 2006/42/EG is geïmplementeerd. Het gaat volgens de kennisgeving Non-conformiteit Productveiligheid Warenwet van 6 november 2019 (de kennisgeving) om diverse tekortkomingen, bestaande uit administratieve non-conformiteit, procedurele non-conformiteit en technische non-conformiteit. Gelet op de overtredingen en de aard van het gevaar verbonden aan non-conformiteit van het product en de kans op blootstelling aan gevaar, moet het risico volgens verweerder als hoog wordt beschouwd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Ten aanzien van de technische non-conformiteit is in het bestreden besluit het volgende overwogen:</para>
+      <para />
+      <parablock>
+        <para>“Technische non-conformiteit, waardoor het product niet voldoet aan de essentiële veiligheidseisen zoals bepaald in de Machinerichtlijn 2006/42EG:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De betreffende slijpmachine Neary type 181 SRI is onvoldoende voorzien van doelmatige afscherming. De gevaarlijke onderdelen zijn toegankelijk voor personen. Men kan bekneld raken tussen de onbeschermde (draaiende onderdelen in de machine).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Bij het ontwerp van de machine is geen rekening gehouden met redelijkerwijs voorzienbaar verkeerd gebruik. Machines die bestemd zijn om in de Unie in de handel te worden gebracht, moeten allereerst dusdanig zijn ontworpen en gebouwd dat deze kunnen werken zonder dat personen aan een risico worden blootgesteld, wanneer deze handelingen onder de vastgestelde omstandigheden worden verricht. Hierbij moet een fabrikant van een machine rekening houden Inspectie SZW met normaal gebruik en met redelijkerwijs voorzienbaar verkeerd gebruik. Bij het kiezen van oplossingen moet een fabrikant de volgende volgorde hanteren: </para>
+        <para>1. risico’s uitsluiten of verminderen - ontwerp en bouw; </para>
+        <para>2. beveiligingsmaatregelen treffen en daarna pas; </para>
+        <para>3. gebruikers informeren over restrisico’s via de handleiding. Een en ander is</para>
+        <para>uitgebreid terug te vinden in punt 1.1.2. van Bijlage I bij de</para>
+        <para>Machinerichtlijn.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het in de handel brengen van een product, dat niet voldoet aan de essentiële gezondheids- en velligheidseisen van de Machinerichtlijn 2006/42/EG, Bijlage I; en zonder dat de fabrikant/importeur de op hem rustende wettelijke verplichtingen uit het Warenwetbesluit Machines is nagekomen, is een overtreding van artikel 2, eerste en vierde lid, juncto artikel 3a, eerste lid onder a, b, c, d en e van het Warenwetbesluit Machines.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Hiermee bevestigt de Inspectie SZW dan ook de vaststelling van de hierboven</para>
+        <para>vermelde overtreding.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beoordeling</emphasis>
+        </para>
+      </parablock>
+      <para>5. De voorzieningenrechter acht de stelling van verzoekster dat de last, die mede een zogenoemde “recall” inhoudt, tot gevolg zal hebben dat zij klanten kwijtraakt en of eventuele nieuwe klanten misloopt aannemelijk. Deze schade kan wellicht niet (volledig) worden vastgesteld, zodat niet zeker is of schade (geheel) kan worden gecompenseerd indien achteraf zou komen vast te staan dat het bestreden besluit geen stand kan houden (vgl. ECLI:NL:CBB:2011:BQ7882 en ECLI:NL:RBROT:2017:3571). Voorts kan enigerlei mate van spoedeisendheid bij het verzoek niet aan verzoekster worden ontzegd om de door haar aangevoerde reden dat verweerder heeft aangekondigd een boeterapport op te zullen maken als zij de last niet tijdig opvolgt (vgl. ECLI:NL:RBROT:2018:2908). Gelet hierop zal de voorzieningenrechter de vraag beantwoorden of een redelijke mate van waarschijnlijkheid bestaat dat het bestreden besluit in de hoofdzaak geen stand zal kunnen houden, dit aan de hand van wat verzoekster in deze procedure heeft aangevoerd. </para>
+      <para />
+      <para>6. De algemene verwijzing in het verzoekschrift naar de gronden die in de schriftelijke zienswijze tegen de kennisgeving zijn ingebracht, levert geen gronden op waarop de voorzieningenrechter dient in te gaan. Verweerder heeft immers in het bestreden besluit gemotiveerd de zienswijze van verzoekster verworpen, zodat uit de enkele verwijzing naar de zienswijze niet kan worden opgemaakt waarom het bestreden besluit volgens verzoekster ontoereikend is gemotiveerd.</para>
+      <para />
+      <para />
+      <para>7. Met verzoekster en Foley is de voorzieningenrechter er niet van overtuigd dat verzoekster normadressaat is in de zin van het Warenwetbesluit machines. Gelet op de definities van ‘fabrikant’ en ‘in de handel brengen’ in artikel 1 van het Warenwetbesluit machines ziet de voorzieningenrechter geen reden waarom Foley, die de slijpmachines produceert en onder eigen naam ter distributie aanbiedt aan verzoekster, niet heeft te gelden als fabrikant. Daarmee kan verzoekster niet als fabrikant in de zin van het Warenwetbesluit machines worden aangemerkt. Hoewel de artikelen 21 en 27 van de Warenwet – die verweerder bevoegdheden geven tot het opleggen van een of meer lasten – degene tot wie die lasten zich richten normadressaat maken, brengt een redelijke uitleg van deze bevoegdheidsbepalingen met zich dat een dergelijke last alleen kan worden gericht tot degenen die volgens het Warenwetbesluit machines normadressaat is. Gelet hierop is verweerder naar voorlopig oordeel van de voorzieningenrechter niet bevoegd tot het opleggen van de lastonderdelen 1 en 2 aan verzoekster. Gelet op het voorgaande hoeft het beroep dat verzoekster heeft gedaan op de definitiebepalingen van verordening (EG) 765/2008 en besluit 768/2008/EG geen bespreking. </para>
+      <para />
+      <para>8. Mede gelet op het verhandelde ter zitting en de verdere stellingen van partijen overweegt de voorzieningenrechter nog het volgende. </para>
+      <para />
+      <para>9. Ter zitting is van de zijde van verweerder gesteld dat onderdeel 1 van de last ziet op alle mogelijke tekortkomingen inzake bijlage I van Richtlijn 2006/42/EG en dus niet is beperkt tot de genoemde onderdelen daarvan in de bijlage bij het bestreden besluit. <?linebreak?>Deze ruime uitleg van het bestreden besluit sluit aan op de overweging in het bestreden besluit dat verzoekster artikel 2 in verbinding met artikel 3a, eerste lid, aanhef en onder a, b, c, d en e, van het Warenwetbesluit machines heeft overtreden. Deze zeer ruime reikwijdte maakt het bestreden besluit naar het oordeel van de voorzieningenrechter te onbepaald, omdat niet duidelijk wordt gemaakt wat precies van verzoekster wordt verlangd om uitvoering te geven aan lastonderdeel 1 (vgl. ECLI:NL:CBB:2018:306). Verder is lastonderdeel 2 te onbepaald, omdat verzoekster over de wijze waarop zij dit lastonderdeel moet uitvoeren in overleg moet treden met de behandelend inspecteur. Voorts kan, met verweerder ter zitting, worden betwijfeld of de combinatie van beide lastonderdelen evenredig is, zeker nu duidelijk is dat verzoekster de slijpmachine niet zelf produceert.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Verzoekster en Foley hebben voorts beargumenteerd dat geen sprake is van een overtreding van onderdeel 1.1.2 van bijlage I van richtlijn 2006/42/EG, wat toch de kern is van het verwijt dat verweerder verzoekster heeft gemaakt. Verzoekster heeft in dit verband een deskundigenrapport van Hartgers ingediend. Hartgers beargumenteert daarin dat het aanbrengen van een afscherming tussen degene die de machine bedient en de bewegende delen van de machine geen oplossing biedt, omdat de snijvlakken van grasmaaimachines dan niet nauwkeurig genoeg kunnen worden geslepen. Daarom kan de machine alleen worden bediend door een goed geïnstrueerde gebruiker. Deze deskundige heeft ook kritiek op het onderzoek door de inspectie SZW. Volgens hem heeft ten onrechte een beperkte toets plaatsgevonden. Bij een complete risicobeoordeling zou blijken dat afscherming geen optie is. Foley heeft in dit verband aangevoerd dat het aan de fabrikant zelf is om een gemotiveerde keuze te maken tussen de stappen 1, 2 en 3 in onderdeel 1.1.2. van bijlage I van richtlijn 2006/42/EG. Voorts heeft zij – onder overlegging van diverse stukken – het volgende aangevoerd: </para>
+      <para />
+      <parablock>
+        <para>“Foley meent dat er geen sprake is van technische non-conformiteit. De machine is door Foley onderworpen aan een uitgebreide conformiteitsbeoordeling en risicobeoordeling en op grond daarvan is – na het uitvoeren van bepaalde beschermende maatregelen om risico’s weg te nemen – geoordeeld dat de machine voldoet aan de essentiële veiligheids- en gezondheidseisen zoals gesteld in de Machinerichtlijn. Naar aanleiding van de conformiteitsbeoordeling die is uitgevoerd in 2012 zijn aanvullende beveiligingsmaatregelen getroffen bestaande uit het aanbrengen van uitgebreide afscherming aan de voorzijde van de machine. Tevens is er een beschermende zone aan de achterzijde van de machine aangewezen waarbij de eindgebruiker uitvoerig wordt geïnformeerd over de noodzaak om een geschikte bescherming aan te brengen aan de achterkant (d.w.z. een vergendelde omheining) en een extra E-stop. Voor deze laatste maatregel is gekozen om eindgebruikers enige flexibiliteit te gunnen in de kosten en opstelling van de machine. Dit mede gelet op het feit dat het aanbrengen van een afscherming aan de achterkant van de machine het gebruik beperkt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Foley heeft ook nog enkele interne tests uitgevoerd waaruit naar voren is gekomen dat de haspel zelf slechts een beperkt gevaar kent, omdat de motor die de haspel aandrijft niet veel vermogen heeft en bij enige obstructie door verkeerde objecten zal uitvallen. Ook de tijd tussen de draaiende messen is zeer kort, waardoor het moeilijk is om je vingers ertussen te krijgen. De messen van de machine duwen je vingers eigenlijk uit de weg. Tot slot is het zo dat de voorrand van het mes meestal de botte kant is, nu je de tegenovergestelde richting van de snijkant moet draaien. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De Neary 181 SRI is een machine voor professioneel gebruik en wordt bediend door gespecialiseerde technisch geschoolde mensen die tijdens het in bedrijf stellen van de machine tot in detail worden getraind de machine veilig te gebruiken. De machine wordt dan ook geleverd met een uitgebreide handleiding opgesteld in de Nederlandse taal die de gebruikers uitgebreid informeert over het gebruik van de machine, de veiligheidswaarschuwingen en de te nemen voorzorgsmaatregelen. De restrisico’s heeft Foley op deze manier geprobeerd zoveel mogelijk weg te nemen.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>Verzoekster en Foley hebben met hun bezwaar respectievelijk zienswijze gemotiveerd uiteengezet dat Foley alle stappen heeft doorlopen van onderdeel 1.1.2. van bijlage I van Richtlijn 2006/42/EG. Voorts heeft zij gemotiveerd uiteengezet dat de gevaren beperkter zijn dan door verweerder wordt aangenomen op basis van de beperkte inspectie die heeft plaatsgevonden. Door het bestreden besluit te nemen op basis van uitsluitend de eigen waarneming van de inspecteur en zonder kennis te nemen van verdere documentatie van verzoekster of Foley, waaruit volgt op welke wijze Foley invulling heeft gegeven aan onderdeel 1.1.2. van bijlage I van Richtlijn 2006/42/EG, heeft verweerder onzorgvuldig gehandeld. Daar komt bij dat verweerder dit verzuim niet op enigerlei wijze in de aanloop naar of tijdens de zitting van 12 maart 2020 heeft hersteld door alsnog kennis te nemen van de uitgebreide documentatie van Foley, waarover verweerder in ieder geval een week voor de zitting de beschikking had, en daarover een standpunt in te nemen. Verweerder heeft uitsluitend vastgehouden aan de constateringen die zijn gedaan door de inspecteur van de Inspectie SZW. Gelet hierop is het bestreden besluit ook inhoudelijk onvoldragen.</para>
+      <para />
+      <para>11. Gelet op het voorgaande ziet de voorzieningenrechter aanleiding om het verzoek toe te wijzen en het bestreden besluit te schorsen tot zes weken na het bekendmaken van het besluit op bezwaar.	</para>
+      <para>12. Omdat de voorzieningenrechter het verzoek toewijst, bepaalt de voorzieningenrechter dat verweerder aan verzoekster het door haar betaalde griffierecht vergoedt.</para>
+      <para />
+      <para>13. De voorzieningenrechter veroordeelt verweerder in de door verzoekster en Foley gemaakte proceskosten. Deze kosten van verzoekster stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1050,-  voor verzoekster (1 punt voor het indienen van het verzoekschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en wegingsfactor 1) en € 787,50 voor Foley (0,5 punt voor het indienen van een zienswijze, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en wegingsfactor 1). </para>
+      <para />
+      <para />
+    </paragroup>
+    <bridgehead role="bold">Beslissing</bridgehead>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para>- wijst het verzoek om voorlopige voorziening toe en schorst het bestreden besluit tot zes weken na het bekendmaken van het besluit op bezwaar;</para>
+    <para>- bepaalt dat verweerder aan verzoekster het betaalde griffierecht van € 354 vergoedt;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoekster tot een bedrag van </para>
+    <para>€ 1050,-;</para>
+    <para>- veroordeelt verweerder in de proceskosten van Foley tot een bedrag van € 787,50.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.C. Rop, voorzieningenrechter, in aanwezigheid van </para>
+      <para>mr. R. Stijnen, griffier. De uitspraak is gedaan op 20 maart 2020 en opbaar gemaakt door middel van publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier en de voorzieningenrechter zijn verhinderd de uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <bridgehead role="bold">Rechtsmiddel</bridgehead>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <bridgehead role="bold">Bijlage</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Richtlijn 2006/42/EG van het Europees Parlement en de Raad van 17 mei 2006 betreffende machines en tot wijziging van Richtlijn 95/16/EG </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1</para>
+      <para>
+        <emphasis role="bold">Toepassingsgebied</emphasis>
+      </para>
+    </parablock>
+    <para>1. Deze richtlijn is van toepassing op de volgende producten:</para>
+    <para>a. a) machines;</para>
+    <para>b) verwisselbare uitrustingsstukken;</para>
+    <para>c) veiligheidscomponenten;</para>
+    <para>d) hijs- en hefgereedschappen;</para>
+    <para>e) kettingen, kabels en banden;</para>
+    <para>f) verwijderbare mechanische overbrengingssystemen;</para>
+    <para>g) niet voltooide machines.</para>
+    <para>2. Deze richtlijn is niet van toepassing op:</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 2</para>
+      <para>
+        <emphasis role="bold">Definities</emphasis>
+      </para>
+      <para>(…)</para>
+      <para>De volgende definities zijn van toepassing:</para>
+      <para>(…)</para>
+    </parablock>
+    <para>h) “in de handel brengen”: het voor het eerst tegen vergoeding of gratis in de Gemeenschap ter beschikking stellen van een machine of niet voltooide machine met het oog op de distributie of het gebruik ervan;</para>
+    <para>i. i) “fabrikant”: elke natuurlijke persoon of rechtspersoon die een onder deze richtlijn vallende machine of niet voltooide machine ontwerpt en/of produceert, en die verantwoordelijk is voor de overeenstemming van deze machine of niet voltooide machine met deze richtlijn teneinde haar onder zijn eigen naam of merk of voor eigen gebruik in de handel te brengen of voor eigen gebruik. Bij gebreke van een fabrikant die aan deze definitie voldoet, wordt elke natuurlijke of rechtspersoon die een onder deze richtlijn vallende machine of niet voltooide machine in de handel brengt of in bedrijf stelt, als fabrikant beschouwd;</para>
+    <para>j) “gemachtigde”: elke in de Gemeenschap gevestigde natuurlijke persoon of rechtspersoon die schriftelijk door de fabrikant is gemachtigd om namens hem alle of een deel van de in deze richtlijn bedoelde verplichtingen en formaliteiten te vervullen;</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 4</para>
+      <para>
+        <emphasis role="bold">Markttoezicht</emphasis>
+      </para>
+    </parablock>
+    <para>1. De lidstaten treffen alle dienstige maatregelen om te waarborgen dat machines uitsluitend in de handel gebracht en/of in bedrijf gesteld kunnen worden indien zij voldoen aan de erop van toepassing zijnde bepalingen van de richtlijn en geen gevaar opleveren voor de veiligheid en de gezondheid van personen en, in voorkomend geval, huisdieren of goederen, wanneer zij op passende wijze worden geïnstalleerd en onderhouden en overeenkomstig hun bestemming of in redelijkerwijze voorzienbare omstandigheden worden gebruikt.</para>
+    <para>2. De lidstaten treffen alle dienstige maatregelen om ervoor te zorgen dat niet voltooide machines uitsluitend in de handel kunnen worden gebracht indien zij voldoen aan de erop van toepassing zijnde bepalingen van deze richtlijn.</para>
+    <para>3. Door de lidstaten worden autoriteiten gecreëerd of aangewezen die bevoegd zijn om te controleren of machines en niet voltooide machines met de leden 1 en 2 in overeenstemming zijn.</para>
+    <para>4. De lidstaten stellen de taken, organisatie en bevoegdheden van de in lid 3 bedoelde bevoegde autoriteiten vast en stellen de Commissie en de andere lidstaten hiervan en van eventuele latere wijzigingen in kennis.</para>
+    <para />
+    <parablock>
+      <para>Artikel 5</para>
+      <para>
+        <emphasis role="bold">In de handel brengen en in bedrijf stellen</emphasis>
+      </para>
+    </parablock>
+    <para>1. De fabrikant of diens gemachtigde moet, alvorens een machine in de handel te brengen en/of in bedrijf te stellen:</para>
+    <para>a. a) zich ervan vergewissen dat deze machine in overeenstemming is met de toepasselijke, in bijlage I vermelde essentiële gezondheids- en veiligheidseisen;</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 7</para>
+      <para>
+        <emphasis role="bold">Vermoeden van overeenstemming en geharmoniseerde normen</emphasis>
+      </para>
+    </parablock>
+    <para>1. Machines die van de CE-markering zijn voorzien en vergezeld gaan van de EG-verklaring van overeenstemming, als beschreven in bijlage II, deel 1, onder A, worden door de lidstaten beschouwd aan deze richtlijn te voldoen.</para>
+    <para>2. Machines gebouwd overeenkomstig een geharmoniseerde norm waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de essentiële gezondheids- en veiligheidseisen waarop deze geharmoniseerde norm betrekking heeft.</para>
+    <para>3. De Commissie maakt de referenties van de geharmoniseerde normen in het Publicatieblad van de Europese Unie bekend.</para>
+    <para>4. De lidstaten nemen passende maatregelen om de sociale partners in staat te stellen op nationaal niveau invloed op de opstelling en de bijwerking van en het toezicht op de geharmoniseerde normen uit te oefenen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 11</para>
+      <para>
+        <emphasis role="bold">Vrijwaringsclausule</emphasis>
+      </para>
+    </parablock>
+    <para>1. Wanneer een lidstaat vaststelt dat een onder deze richtlijn vallende machine die de CE-markering draagt, vergezeld gaat van de EG-verklaring van overeenstemming en overeenkomstig het gebruiksdoel of in redelijkerwijze voorzienbare omstandigheden wordt gebruikt, de gezondheid en veiligheid van personen en, in voorkomend geval, huisdieren of goederen, in gevaar dreigt te brengen, neemt hij alle noodzakelijke maatregelen om deze machine uit de handel te nemen, te verbieden dat zij in de handel wordt gebracht en/of in bedrijf wordt gesteld, dan wel het vrije verkeer van deze machine te beperken.</para>
+    <para>2. De lidstaat stelt de Commissie en de andere lidstaten onmiddellijk van een dergelijke maatregel in kennis met vermelding van de redenen ervoor, in het bijzonder als de niet-overeenstemming het gevolg is van:</para>
+    <para>a. a) het niet naleven van de in artikel 5, lid 1, onder a), bedoelde essentiële eisen;</para>
+    <para>b) de onjuiste toepassing van de in artikel 7, lid 2, bedoelde geharmoniseerde normen;</para>
+    <para>c) een tekortkoming in de in artikel 7, lid 2, bedoelde geharmoniseerde normen zelf.</para>
+    <para>3. De Commissie treedt zo spoedig mogelijk met de betrokken partijen in overleg.</para>
+    <para>Na dit overleg onderzoekt de Commissie of de door de lidstaat genomen maatregelen al dan niet gerechtvaardigd zijn, en stelt zij de lidstaat die het initiatief heeft genomen, de overige lidstaten alsmede de fabrikant of diens gemachtigde hiervan in kennis.</para>
+    <para>4. Wanneer de in lid 1 bedoelde maatregelen zijn ingegeven door een tekortkoming in de geharmoniseerde normen en indien de lidstaat die de maatregelen heeft genomen, deze wil handhaven leidt de Commissie of de lidstaat de in artikel 10 beschreven procedure in.</para>
+    <para>5. Wanneer een machine niet met de richtlijn in overeenstemming is en toch van de CE-markering is voorzien, neemt de bevoegde lidstaat passende maatregelen jegens degene die de markering heeft aangebracht en stelt hij de Commissie hiervan in kennis. De Commissie stelt de andere lidstaten in kennis.</para>
+    <para>6. De Commissie ziet erop toe dat de lidstaten van het verloop en de resultaten van de procedure op de hoogte worden gehouden.</para>
+    <para />
+    <parablock>
+      <para>BIJLAGE I</para>
+      <para>
+        <emphasis role="bold">Essentiële veiligheids- en gezondheidseisen betreffende het ontwerp en de bouw van machines</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">1.1.2.   Beginselen van geïntegreerde veiligheid</emphasis>
+      </para>
+    </parablock>
+    <para>a. a) De machine moet zodanig ontworpen en gebouwd zijn dat zij bediend, afgesteld en onderhouden kan worden zonder dat personen aan een risico worden blootgesteld, wanneer deze handelingen onder de vastgestelde omstandigheden worden verricht, tevens rekening houdend met redelijkerwijs voorzienbaar verkeerd gebruik.</para>
+    <para>De genomen maatregelen moeten erop gericht zijn elk risico gedurende de te verwachten levensduur van de machine, met inbegrip van de fasen van het vervoer, het monteren, het demonteren, de buitenbedrijfstelling en de sloop, uit te sluiten.</para>
+    <para>b) Bij het kiezen van de meest geschikte oplossingen moet de fabrikant of diens gemachtigde de volgende beginselen toepassen, in de aangeduide volgorde:</para>
+    <parablock>
+      <para> de risico’s uitsluiten of zoveel mogelijk verminderen (veiligheid in het ontwerp en de bouw van de machine integreren),</para>
+      <para> de noodzakelijke beveiligingsmaatregelen treffen voor risico’s die niet kunnen worden uitgesloten,</para>
+      <para> de gebruikers informeren over de restrisico’s ten gevolge van een tekortkoming van de getroffen beveiligingsmaatregelen, aangeven of een bijzondere opleiding vereist is en vermelden dat persoonlijke beschermingsmiddelen vereist zijn.</para>
+    </parablock>
+    <para>c) Bij ontwerp en bouw van de machine en bij het opstellen van de gebruiksaanwijzing moet de fabrikant of diens gemachtigde niet alleen het beoogde gebruik van de machine maar ook elk redelijkerwijs voorzienbare verkeerd gebruik voor ogen houden.</para>
+    <para>De machine moet zo zijn ontworpen en gebouwd om abnormaal gebruik, indien dat een risico zou inhouden, te voorkomen. In voorkomend geval moet de gebruiksaanwijzing de aandacht van de gebruiker vestigen op te ontraden gebruik dat, zoals de ervaring heeft uitgewezen, van de machine kan worden gemaakt.</para>
+    <para>d) Bij ontwerp en bouw van de machine moet rekening worden gehouden met de belemmeringen die de bediener ondervindt door een noodzakelijk of te voorzien gebruik van persoonlijke beschermingsmiddelen.</para>
+    <para>e) De machine moet worden geleverd met alle speciale uitrusting en accessoires die essentieel zijn om deze veilig te kunnen afstellen, onderhouden en gebruiken.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">1.3.7.   Risico's in verband met de bewegende delen</emphasis>
+      </para>
+      <para>De bewegende delen van de machine moeten zodanig zijn ontworpen en gebouwd dat wat betreft risico voor aanraking waardoor zich ongelukken zouden kunnen voordoen, wordt voorkomen, of, wanneer risico’s blijven bestaan, voorzien zijn van afschermingen of beveiligingsinrichtingen.</para>
+      <para>Alle nodige maatregelen moeten worden genomen om het onverwacht blokkeren van bewegende delen die bij het werk zijn betrokken, te verhinderen. Wanneer ondanks deze voorzorgsmaatregelen het waarschijnlijk is dat een blokkering kan optreden, moet waar nodig worden gezorgd dat deze blokkering met de nodige specifieke beschermingsmiddelen en gereedschappen zonder gevaar kan worden verholpen.</para>
+      <para>Deze specifieke beschermingsmiddelen moeten in de gebruiksaanwijzing en, indien mogelijk, op de machine zelf worden vermeld, met een beschrijving van het gebruik ervan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">1.3.8.   Keuze van de beveiliging tegen risico's in verband met bewegende delen</emphasis>
+      </para>
+      <para>Afschermingen of beveiligingsinrichtingen ontworpen om te beschermen tegen risico's veroorzaakt door bewegende delen, moeten worden gekozen op grond van de aard van het risico. De volgende richtsnoeren moeten als hulp worden gehanteerd om de keuze te maken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>4.2.2.   Beweegbare afschermingen met blokkeervoorziening</title>
+    <para>Beweegbare afschermingen met blokkeervoorziening moeten:</para>
+    <parablock>
+      <para>– wanneer geopend, zoveel mogelijk met de machine verbonden blijven,</para>
+      <para>– zodanig worden ontworpen en gebouwd dat ze enkel met een opzettelijke handeling kunnen worden afgesteld.</para>
+    </parablock>
+    <para>Beweegbare afschermingen met blokkeervoorziening moeten gecombineerd zijn met een vergrendelinrichting die:</para>
+    <parablock>
+      <para>– voorkomt dat gevaarlijke machinefuncties in werking treden totdat de afscherming gesloten is, en</para>
+      <para>– een opdracht tot stopzetting geeft wanneer de afscherming niet meer gesloten is.</para>
+    </parablock>
+    <para>Wanneer het mogelijk is dat een bediener de gevarenzone bereikt voordat het risico dat voortvloeit uit de gevaarlijke machinefuncties is geweken, moeten de beweegbare afschermingen met blokkeervoorziening niet alleen met een vergrendelinrichting, maar ook met een voorziening voor het vergrendelen van de afscherming worden gecombineerd die:</para>
+    <parablock>
+      <para>– voorkomt dat gevaarlijke machinefuncties in werking treden voordat de afscherming gesloten en vergrendeld is, en</para>
+      <para>– de afscherming gesloten en vergrendeld houdt totdat het risico van verwonding door de gevaarlijke machinefuncties is geweken.</para>
+    </parablock>
+    <para>Beweegbare afschermingen met blokkeervoorziening moeten zodanig worden ontworpen dat het ontbreken van of een defect aan een van de onderdelen het op gang brengen van gevaarlijke machinefuncties verhindert of gevaarlijke machinefuncties tot stilstand brengt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Warenwet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 21 </para>
+    </parablock>
+    <para>1. Indien waren naar het oordeel van Onze Minister gevaar opleveren voor de veiligheid of de gezondheid van de mens, of indien het technische voortbrengselen betreft, tevens gevaar opleveren voor de veiligheid van zaken, kan hij met het oog op de bescherming van die belangen degene die de waar of het voortbrengsel verhandelt of heeft verhandeld, gelasten om de houders dan wel de vermoedelijke houders van die waar onverwijld en op doeltreffende wijze op de hoogte te stellen van het gevaar. Degene tot wie de last is gericht, geeft daaraan onverwijld gevolg.</para>
+    <para>2. Indien waren, niet zijnde eet- of drinkwaren, naar het oordeel van Onze Minister gevaar opleveren voor de veiligheid of de gezondheid van de mens, of gevaar opleveren voor de veiligheid van zaken, kan hij met het oog op de bescherming van die belangen degene die de waar verhandelt of heeft verhandeld, gelasten de verhandeling daarvan te staken dan wel al de noodzakelijke maatregelen te treffen om die waar terug te nemen. Degene tot wie de last is gericht, geeft daaraan onverwijld gevolg.</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 27 </para>
+    </parablock>
+    <para>1. De in artikel 25 bedoelde ambtenaren zijn bevoegd technische voortbrengselen te beproeven, te onderzoeken, te doen beproeven of te doen onderzoeken. Onze Minister kan schriftelijk herstelling of behandeling binnen een daarbij vast te stellen termijn van het technische voortbrengsel gelasten of besluiten dat een voor een technisch voortbrengsel afgegeven certificaat van goedkeuring of overeenstemming of een op een technisch voortbrengsel aangebracht merk van goedkeuring of overeenstemming zijn geldigheid verliest indien bij een beproeving of onderzoek blijkt dat het voortbrengsel niet aan de krachtens deze wet gestelde regels voldoet. De in artikel 25 bedoelde ambtenaar brengt ten bewijze van de afkeuring een merk van afkeuring aan op het technische voortbrengsel. Een krachtens de tweede zin gestelde eis moet worden nageleefd door degene aan wie hij is gesteld.</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Warenwetbesluit machines</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1 </para>
+      <para>In dit besluit en de daarop berustende bepalingen wordt verstaan onder:</para>
+      <para>(…)</para>
+      <para>– fabrikant: natuurlijke persoon of rechtspersoon die een machine of niet voltooide machine, ontwerpt of produceert, voor eigen gebruik of ten einde haar onder zijn eigen naam of merk in de handel te brengen of, bij gebreke aan een dergelijke persoon, de natuurlijke of rechtspersoon die een machine of niet voltooide machine in de handel brengt of in bedrijf stelt;</para>
+      <para>– gemachtigde: in de Europese Economische Ruimte gevestigde natuurlijke persoon of rechtspersoon die schriftelijk door de fabrikant is gemachtigd om namens hem alle of een deel van de in dit besluit bedoelde verplichtingen te vervullen;</para>
+    </parablock>
+    <para>- in de handel brengen: voor het eerst tegen vergoeding of gratis in de Europese Economische Ruinte ter beschikking stellen van een machine of een niet voltooide machine met het oog op de distributie of het gebruik ervan;</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 2 </para>
+    </parablock>
+    <para>1. Het is verboden machines en niet voltooide machines die niet voldoen aan de vervaardigingsvoorschriften bij of krachtens dit besluit gesteld in de handel te brengen of in bedrijf te stellen.</para>
+    <para>(…)</para>
+    <para>4. Het is verboden machines en niet voltooide machines in de handel te brengen of in bedrijf te stellen, indien de bij of krachtens dit besluit voorgeschreven overeenstemmings-, beoordelings- of keuringsprocedures niet in acht zijn genomen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 3 </para>
+    </parablock>
+    <para>1. De fabrikant of diens gemachtigde draagt er zorg voor dat machines zodanig zijn ontworpen, samengesteld en vervaardigd, zodanige eigenschappen hebben en van zodanige vermeldingen zijn voorzien, dat zij geen gevaar opleveren voor de veiligheid of gezondheid van de mens en, in voorkomend geval, huisdieren of de veiligheid van zaken, wanneer zij op passende wijze zijn geïnstalleerd en onderhouden en overeenkomstig hun bestemming of in redelijkerwijs voorzienbare omstandigheden worden gebruikt.</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 3a </para>
+    </parablock>
+    <para>1. De fabrikant of diens gemachtigde:</para>
+    <para>a. zorgt dat de machine voldoet aan de essentiële veiligheids- en gezondheidseisen;</para>
+    <para>b. zorgt dat het technisch dossier beschikbaar is en voldoet aan bijlage VII, onder A, bij de richtlijn;</para>
+    <para>c. verstrekt de noodzakelijke informatie, waaronder in ieder geval de gebruiksaanwijzing;</para>
+    <para>d. stelt de EG-verklaring van overeenstemming op die voldoet aan bijlage II, deel 1, onder A, bij de richtlijn en zorgt dat deze de machine vergezelt;</para>
+    <para>e. brengt de CE-markering, bedoeld in artikel 6, op de machine aan, alvorens een machine in de handel te brengen of in bedrijf te stellen.</para>
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

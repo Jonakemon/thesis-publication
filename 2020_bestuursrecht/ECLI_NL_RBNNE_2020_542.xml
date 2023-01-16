@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:542</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-11T15:59:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/830</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:542">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:542</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-11T15:58:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:542 Rechtbank Noord-Nederland , 07-02-2020 / 19/830</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:542:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Coulanceregeling Chroom-6. Auto-immuunziekte vitiligo niet opgenomen in Bijlage 2. De staatssecretaris kon afgaan op deskundigheid RIVM. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:542:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: 19/830</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 7 februari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam] , wonende te Drouwen, eiser,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de staatssecretaris van Defensie, verweerder</para>
+      <para>(gemachtigde: H.A.L. Knoben).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 oktober 2018 (hierna: het primaire besluit) heeft verweerder eisers aanvraag om in aanmerking te komen voor een tegemoetkoming op grond van de Tijdelijke regeling tegemoetkoming en ondersteuning slachtoffers blootstelling chroom-6 houdende stoffen defensie (hierna: de Coulanceregeling) afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hiertegen heeft eiser bij brief van 4 december 2018 bezwaar gemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 januari 2019 (hierna: het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft bij brief van 19 februari 2019 tegen het bestreden besluit beroep ingesteld, voorzien van gronden en bijlagen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft bij brief van 16 april 2019 een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brieven van 7 mei 2019 en 9 mei 2019 heeft eiser nadere gronden van beroep ingediend, voorzien van bijlagen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 15 oktober 2019 heeft verweerder nader verweer gevoerd, voorzien van bijlagen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 17 oktober 2019 heeft eiser nadere gronden van beroep ingediend, voorzien van bijlagen. Daarin reageert eiser onder meer op het verweerschrift van 15 oktober 2019.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 31 oktober 2019. Eiser is verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. De rechtbank heeft het onderzoek ter zitting gesloten.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>1. Eiser is van december 1984 tot november 1995 werkzaam geweest als opslagmedewerker/waarnemend supply clerk en supply technician bij Defensie op de POMS-sites (Prepositioned Organizational Material Set) in Ter Apel. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser heeft op 14 april 2015 bij verweerder een aanvraag ingediend om een tegemoetkoming vanwege zijn gezondheidsklachten op grond van de toenmalige Coulanceregeling Chroom VI. Na een bezwaarprocedure heeft verweerder hem bij - een herzien - besluit op bezwaar van 12 juli 2018 een tegemoetkoming toegekend van                € 3.000,--.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Per 4 juni 2018 is de (nieuwe) Coulanceregeling in werking getreden. Bij brief van    9 oktober 2018 heeft verweerder eiser meegedeeld dat zijn oude aanvraag opnieuw zou kunnen worden beoordeeld in het licht van de Coulanceregeling. Bij e-mailbericht van      29 oktober 2018 heeft eiser hierop gereageerd.</para>
+      <para />
+      <para>2. Bij het primaire besluit heeft verweerder meegedeeld dat eisers aanvraag opnieuw is beoordeeld en dat hij niet in aanmerking komt voor een uitkering conform de Coulanceregeling. Verweerder heeft aan dit besluit ten grondslag gelegd dat de ziekte waaraan eiser lijdt - vitiligo - niet een aandoening is die in bijlage 2 van de Coulanceregeling wordt genoemd als aandoening op grond waarvan recht op uitkering bestaat. Verweerder heeft erop gewezen dat de lijst met aandoeningen is opgesteld door het Rijksinstituut voor Volksgezondheid en Milieu (hierna: het RIVM) en dat gebleken is dat er geen wetenschappelijk bewijs is dat immunologische aandoeningen, waartoe vitiligo kan worden gerekend, kunnen worden veroorzaakt door blootstelling aan chroom-6.</para>
+      <para />
+      <para>3. Verweerder heeft bij het bestreden besluit het primaire besluit gehandhaafd. Daarin heeft verweerder opgemerkt dat - onder meer en voor zover hier van belang - het RIVM een onafhankelijke instelling is, dat uitdrukkelijk is onderzocht of auto-immuunziekten in verband kunnen worden gebracht met blootstelling aan chroom-6, dat hiervan niet gebleken is, maar dat indien dit in de toekomst toch mocht blijken, bijlage 2 van de Coulanceregeling zou kunnen worden aangepast.</para>
+      <para />
+      <para>4. Eiser voert in beroep aan - onder meer en voor zover hier van belang - dat het tegenstrijdig is dat verweerder heeft erkend dat hij meer dan een jaar is blootgesteld aan chroom-6, maar dat niet wordt overgegaan tot het toekennen van een tegemoetkoming. Verder stelt eiser dat auto-immuunziekten ten onrechte niet in bijlage 2 van de Coulanceregeling zijn opgenomen. Hij wijst op een artikel van J.W. Cohen Tervaert, waaruit kan worden geconcludeerd dat auto-immuunziekten zouden moeten worden opgenomen in bijlage 2. Daarnaast doet eiser een beroep op het gelijkheidsbeginsel, onder verwijzing naar de gemeente Tilburg die ten aanzien van medewerkers van de Nederlandse Spoorwegen (hierna: de NS) in vergelijkbare gevallen wel tot een tegemoetkoming is overgegaan. Hij wijst ook op de Rijksoverheid die voor Q-koortspatiënten tot een tegemoetkoming is gekomen. Hij stelt in dat verband tevens dat de KLM in de toekomst mogelijk ook tot schadevergoeding overgaat. Verder is eiser van mening dat verweerder er ten onrechte geen rekening mee heeft gehouden dat hij onder behandeling staat van een reumatoloog die hem zware medicijnen heeft voorgeschreven. Ten slotte verwijst eiser naar een aantal publicaties, waarmee hij zijn stellingen wenst te onderbouwen.</para>
+      <para />
+      <para>5. Verweerder heeft in reactie op het beroep naar voren gebracht - onder meer en voor zover hier van belang - dat het feit dat aan eiser in het verleden een tegemoetkoming is toegekend, omdat is onderkend dat hij meer dan een jaar is blootgesteld aan chroom-6, niet betekent dat hij nu ook in aanmerking komt voor een uitkering op grond van de Coulanceregeling. Verder stelt verweerder dat het beroep op het gelijkheidsbeginsel niet kan slagen, nu de werksituatie bij de gemeente Tilburg/de NS niet is te vergelijken met die van eiser bij Defensie. De omstandigheden wat betreft de Q-koorts kunnen evenmin als vergelijkbaar worden aangemerkt. Ten slotte brengt verweerder naar voren dat er geen wetenschappelijk bewijs is voor de mening van J.W. Cohen Tervaert en dat de opsomming van aandoeningen in bijlage 2 volledig is.</para>
+      <para />
+      <para>6. De rechtbank overweegt als volgt.</para>
+      <para />
+      <para>7. De Coulanceregeling is op 4 juni 2018 in werking getreden. In deze regeling is geregeld - kort gezegd - dat personen die bij verweerder in dienst zijn (geweest), en die tijdens hun werk zijn blootgesteld aan het giftige chroom-6, bij wijze van schadevergoeding een uitkering krijgen toegekend.</para>
+      <para />
+      <parablock>
+        <para>In artikel 3 van de Coulanceregeling is opgenomen dat een werknemer in aanmerking komt voor een uitkering als aannemelijk is dat hij gedurende ten minste een jaar een functie als omschreven in bijlage 1 uitoefent of heeft uitgeoefend én lijdt aan één of meer aandoeningen die door een arts zijn vastgesteld die, gelet op bijlage 2, in de uitoefening van zijn functie mogelijk zijn veroorzaakt door blootstelling aan chroom-6.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In voornoemde bijlage 2 is een aantal ziekten en aandoeningen opgesomd.</para>
+      </parablock>
+      <para />
+      <para>8. Niet in geschil is dat eiser ten minste een jaar bij verweerder een functie heeft uitgeoefend als omschreven in bijlage 1. Evenmin is in geschil dat de aandoening van eiser - vitiligo - niet is opgenomen in bijlage 2. Het geschil spitst zich dan ook toe op de vraag of verweerder hem desondanks in aanmerking had moeten brengen voor een uitkering als bedoeld in de Coulanceregeling.</para>
+      <para />
+      <para>9. De rechtbank stelt vast dat verweerder met de Coulanceregeling beleid heeft opgesteld om slachtoffers van blootstelling aan chroom-6 tegemoet te komen. Dit beleid kan de bestuursrechter slechts terughoudend toetsen. Daarbij wijst de rechtbank erop dat het primair aan het bestuursorgaan is om het beleid bij te sturen en dat het verweerder vrij staat om - desgewenst - een ruimhartiger regeling te treffen.</para>
+      <para />
+      <para>10. Voor zover eiser aanvoert dat verweerder auto-immuunziekten, waaronder vitiligo, ten onrechte niet heeft opgenomen in bijlage 2, overweegt de rechtbank als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Verweerder heeft bijlage 2 gebaseerd op bevindingen van het RIVM. Naar het oordeel van de rechtbank is het RIVM aan te merken als een deskundige. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>Eiser heeft ter onderbouwing van zijn stelling verwezen naar een groot aantal publicaties, waarmee hij wil aantonen dat verweerder de bevindingen van het RIVM in redelijkheid niet mocht volgen. Terughoudend toetsend is de rechtbank niet gebleken dat verweerder in redelijkheid niet heeft kunnen afgaan op de bevindingen van het RIVM. In wat eiser in de gedingstukken en ter zitting naar voren heeft gebracht ziet de rechtbank dan ook geen aanleiding voor het oordeel dat bijlage 2 van de Coulanceregeling onredelijk is. Dat de door eiser aangehaalde deskundigen een andere mening hebben, hoefde voor verweerder op zichzelf geen reden te zijn om het RIVM niet te volgen. Voor zover eiser betoogt dat het RIVM geen onafhankelijke deskundige is, volgt de rechtbank hem niet, reeds omdat hij dit betoog niet met stukken heeft onderbouwd. Ook overigens heeft de rechtbank geen aanwijzingen dat het RIVM niet als onafhankelijke deskundige is aan te merken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3.</nr>
+      <para>Dat eiser onder behandeling staat van een reumatoloog die hem zware medicijnen heeft voorgeschreven, maakt het voorgaande niet anders. </para>
+      <para />
+      <para>11. Ten aanzien van eisers verwijzing naar de regelingen die de gemeente Tilburg voor medewerkers van de NS en die de Rijksoverheid voor Q-koortspatiënten hebben getroffen, overweegt de rechtbank dat het daarbij niet ging om medewerkers bij Defensie. Reeds om die reden is geen sprake van gelijke gevallen, zodat het beroep op het gelijkheidsbeginsel niet kan slagen. Dit geldt ook voor de verwijzing naar een mogelijke toekomstige regeling voor werknemers bij de KLM.</para>
+      <para />
+      <para>12. Voor zover eiser in beroep heeft aangevoerd dat hij klachten heeft aan zijn trommelvliezen, die mogelijk het gevolg zijn van het werken met chroom-6, overweegt de rechtbank dat eiser dit aspect niet aan zijn verzoek om schadevergoeding ten grondslag heeft gelegd. Dit onderdeel ligt dan ook niet ter beoordeling voor. Het staat eiser overigens vrij om in verband hiermee een nieuwe aanvraag bij verweerder in te dienen.</para>
+      <para />
+      <para>13. Het voorgaande leidt de rechtbank naar de conclusie dat het beroep ongegrond is. </para>
+      <para />
+      <para>14. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.H. de Groot, voorzitter, en mr. F. Sijens en                mr. P.G. Wijtsma, leden, in aanwezigheid van mr. E.H. Pot griffier. De beslissing is in het openbaar uitgesproken op 7 februari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier											voorzitter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

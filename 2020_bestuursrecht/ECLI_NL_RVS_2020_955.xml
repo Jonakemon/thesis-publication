@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:955</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-03T16:34:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201904854/1/R2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBZWB:2019:2544" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">Eerste aanleg: ECLI:NL:RBZWB:2019:2544, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:955">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:955</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-01T10:17:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:955 Raad van State , 01-04-2020 / 201904854/1/R2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:955:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 21 december 2017 heeft het college van burgemeester en wethouders van Loon op Zand Camping Duinlust B.V. gelast om uiterlijk 1 februari 2018 een einde te maken aan de diverse overtredingen in verband met brandveiligheid op de camping op het perceel aan de Duinlaan 1 in Kaatsheuvel. Op het perceel was tot 1 september 2018 een camping in gebruik. Op 7 november 2017 hebben toezichthouders van de gemeente Loon op Zand een controle op de camping verricht. Tijdens die controle is geconstateerd dat de camping niet voldeed aan een aantal brandveiligheidseisen.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:955:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201904854/1/R2.</para>
+    <para>Datum uitspraak: 1 april 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>Camping Duinlust B.V., gevestigd te Kaatsheuvel, gemeente Loon op Zand,</para>
+    <para>appellante,</para>
+    <para>tegen de uitspraak van de rechtbank Zeeland-West-Brabant van 3 juni 2019 in zaak nr. 18/4324 in het geding tussen:</para>
+    <para>Camping Duinlust B.V.</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Loon op Zand.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 21 december 2017 heeft het college Camping Duinlust B.V. gelast om uiterlijk 1 februari 2018 een einde te maken aan de diverse overtredingen in verband met brandveiligheid op de camping op het perceel aan de Duinlaan 1 in Kaatsheuvel.</para>
+    <para>Bij besluit van 15 mei 2018 heeft het college het door Camping Duinlust B.V. daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 3 juni 2019 heeft de rechtbank het door Camping Duinlust B.V. daartegen ingestelde beroep gedeeltelijk gegrond verklaard, het besluit van 15 mei 2018 vernietigd voor wat betreft de opgelegde last onder dwangsom ten aanzien van een drietal overtredingen, het besluit van 21 december 2017 voor wat betreft die overtredingen herroepen en het beroep voor het overige ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft Camping Duinlust B.V. hoger beroep ingesteld.</para>
+    <para>Het college heeft een schriftelijke uiteenzetting gegeven en nadere stukken ingediend.</para>
+    <para>Camping Duinlust B.V. heeft nadere stukken ingediend.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 5 februari 2020, waar Camping Duinlust B.V., vertegenwoordigd door [gemachtigden], bijgestaan door mr. R.T. Kirpestein, rechtsbijstandsverlener te Roermond, en het college, vertegenwoordigd door C.L.J. Kanters en M. Hultermans, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.    Op het perceel aan de Duinlaan 1 in Kaatsheuvel was tot 1 september 2018 een camping in gebruik. Op 7 november 2017 hebben toezichthouders van de gemeente Loon op Zand een controle op de camping verricht. Tijdens die controle is geconstateerd dat de camping niet voldeed aan een aantal brandveiligheidseisen. Bij het besluit van 21 december 2017 heeft het college Camping Duinlust B.V. gelast om uiterlijk 1 februari 2018 een einde te maken aan de diverse overtredingen van onder meer het Bouwbesluit 2012 op het gebied van brandveiligheid op de camping. Deze overtredingen hadden betrekking op onder meer de bereikbaarheid van de camping, de brandcompartimentering en de beschikbaarheid van bluswater op de camping. Het college heeft de last als volgt geconcretiseerd:</para>
+    <para>A. Camping Duinlust B.V. dient de camping op te delen in brandcompartimenten van 1000 m2 met een onderlinge afstand van 5 m.</para>
+    <para>B. De afstand tussen de verschillende kampeermiddelen dient daarbij tenminste 3 m te bedragen.</para>
+    <para>C. Tussen de verschillende kampeermiddelen dient de ruimte vrij gehouden te worden van bebouwing, begroeiing, opslag et cetera.</para>
+    <para>D. Er dienen verbindingswegen op de camping aangelegd te worden welke voldoen aan de volgende voorwaarden:</para>
+    <para>- een breedte van ten minste 4,5 m;</para>
+    <para>- een verharding van tenminste 3,25 m, die geschikt is voor motorvoertuigen met een massa van tenminste 14.600 kg;</para>
+    <para>- een vrije hoogte boven de kruin van de weg van ten minste 4,2 m;</para>
+    <para>- een doeltreffende afwatering.</para>
+    <para>E. Op het terrein dienen voldoende brandblusmiddelen aanwezig te zijn voor gebruik van gasten;</para>
+    <para>F. Op het terrein dienen bluswatervoorzieningen gerealiseerd te worden. Elke stacaravan dient maximaal op 40 m van een bluswatervoorziening gelegen te zijn.</para>
+    <para>Het college heeft Camping Duinlust B.V. meegedeeld dat elke stacaravan voorzien dient te zijn van een werkende brandmeldinstallatie, zoals een rookmelder. Indien Camping Duinlust B.V. nalaat om voor 1 februari 2018 de overtreding te beëindigen en beëindigd te houden, verbeurt zij een dwangsom van:</para>
+    <para>- € 2.500,00 per week, met een maximum van € 25.000,00, dat het college constateert dat de overtredingen onder A, B en C niet zijn beëindigd;</para>
+    <para>- € 1.000,00 per week, met een maximum van € 10.000,00, dat het college constateert dat de overtreding onder D niet is beëindigd;</para>
+    <para>- € 5.000,00 per week, met een maximum van € 50.000,00, dat het college constateert dat de overtredingen onder E en F niet zijn beëindigd.</para>
+    <para>De aangevallen uitspraak</para>
+    <para>2.    De rechtbank heeft overwogen dat het besluit van 15 mei 2018 voor wat betreft de onderdelen A, B en C niet is gebaseerd op een deugdelijke wettelijke grondslag, zodat het college ten aanzien van die onderdelen niet bevoegd kan worden geacht om handhavend op te treden. Voor wat betreft de onderdelen D, E en F heeft de rechtbank overwogen dat het college bevoegd was om handhavend op te treden. Naar het oordeel van de rechtbank is niet gebleken dat sprake was van concreet zicht op legalisering of dat er anderszins sprake was van bijzondere omstandigheden op grond waarvan het college ten aanzien van de onderdelen D, E en F van handhavend optreden had moeten afzien.</para>
+    <para>Gronden van het hoger beroep</para>
+    <para>3.    Camping Duinlust B.V. betoogt dat de rechtbank ten onrechte onderdeel F van de last onder dwangsom in stand heeft gelaten. Zij voert hiertoe aan dat de rechtbank ten onrechte niet is ingegaan op het door haar in haar beroepschrift gestelde dat uit de aan haar gerichte brief van het college van 27 maart 2018 volgt dat door de aanwezigheid van een brandkraan bij de ingang van de camping en het hebben van een tweede aanvoerroute voor bluswater aan de achterzijde van de camping, voldoende bluswatervoorzieningen aanwezig zijn. Anders dan in die brief staat, waren deze voorzieningen ook al ten tijde van het besluit tot oplegging van de last onder dwangsom aanwezig, zodat op dat moment al in voldoende mate in de brandveiligheid kon worden voorzien, aldus Camping Duinlust B.V.</para>
+    <para>3.1.    Artikel 6.30 van het Bouwbesluit 2012 luidt:</para>
+    <para>"1. Een bouwwerk heeft een toereikende bluswatervoorziening. Dit geldt niet indien de aard, ligging of het gebruik van het bouwwerk dat naar het oordeel van het bevoegd gezag niet vereist.</para>
+    <para>[…]</para>
+    <para>3. De afstand tussen een bluswatervoorziening als bedoeld in het eerste lid en een brandweeringang als bedoeld in artikel 6.36, eerste lid, is ten hoogste 40 m.</para>
+    <para>4. Een bluswatervoorziening als bedoeld in het eerste en tweede lid is onbeperkt toegankelijk voor bluswerkzaamheden."</para>
+    <para>    Artikel 6.36 luidt:</para>
+    <para>"1. Een bouwwerk voor het verblijven van personen heeft een brandweeringang. Dit geldt niet indien de aard, de ligging of het gebruik van het bouwwerk dat naar het oordeel van het bevoegd gezag niet vereist.</para>
+    <para>[…]"</para>
+    <para>3.2.    Ter zitting is gebleken dat tussen partijen niet (langer) in geschil is dat ten tijde van het besluit van 21 december 2017 niet werd voldaan aan de in artikel 6.30, derde lid, van het Bouwbesluit 2012 opgenomen afstand van 40 m tussen de aanwezige bluswatervoorziening en de verschillende brandweeringangen. Het betoog van Camping Duinlust B.V. moet aldus worden begrepen dat weliswaar niet aan die afstand is voldaan, maar dat er een tweede aanvoerroute voor bluswater aan de achterzijde van de camping aanwezig was, waardoor een gelijkwaardige oplossing als bedoeld in artikel 1.3, eerste lid, van het Bouwbesluit 2012 bestond voor het niet naleven van het bepaalde in artikel 6.30 van dat besluit, hetgeen volgt uit de brief van 27 maart 2018. Ingevolge artikel 1.3, eerste lid, van het Bouwbesluit 2012 behoeft aan een in hoofdstuk 2 tot en met 7 gesteld voorschrift niet te worden voldaan indien het bouwwerk of het gebruik daarvan anders dan door toepassing van het desbetreffende voorschrift ten minste dezelfde mate van veiligheid, bescherming van de gezondheid, bruikbaarheid, energiezuinigheid en bescherming van het milieu biedt als is beoogd met de in die hoofdstukken gestelde voorschriften.</para>
+    <para>3.3.    Op 16 en 22 februari 2018 en op 2 en 15 maart 2018 heeft een toezichthouder van de gemeente controles op het perceel uitgevoerd. In de brief van 27 maart 2018 heeft het college Camping Duinlust B.V. onder meer geïnformeerd over de controle van 15 maart 2018. In die brief staat over de bluswatervoorziening: "Op 15 maart 2018 voerde onze toezichthouder een controle uit op uw perceel. Hij constateerde het volgende: […]</para>
+    <para>- Op het recreatieterrein is geen adequate bluswatervoorziening aanwezig. De brandweer kan door het inzetten van watertransport en door uit te gaan van een langere aanvoerroute, voor de huidige situatie op de camping, voldoende water tijdig aanvoeren. De campingeigenaar wijst de brandweer bij een calamiteit op de aanvoerroute van water via de achterzijde van het park. De campingeigenaar accepteert dan wel dat er mogelijk meer materiële schade ontstaat door een iets langere aanvoertijd van water. Deze aanvoerroute van water via de achterzijde van het park was op 2 maart 2018 nog niet te gebruiken."</para>
+    <para>    In het controleverslag van 15 maart 2018 staat:</para>
+    <para>"Op het terrein zijn geen bluswatervoorzieningen aangebracht. In de openbare weg liggen voor de entree van het park en net ten westen van het park openbare bluswaterpunten. Aan de westzijde van het park kan via een looppoort dit bluswaterpunt worden bereikt. Op het perceel waar deze looppoort zich in bevindt was de chalet voorheen nog in gebruik en was de poort moeilijk toegankelijk door coniferen. Het chalet is nu niet meer in gebruik en de coniferen zijn verwijderd. De brandweer geeft aan dat hiermee niet wordt voldaan aan de wet- en regelgeving maar dat dit gezien de huidige situatie op de camping wel kan volstaan. Voorwaarde hiervoor is wel dat er watertransport naar de camping gaat bij een calamiteit en dat de beheerder van de camping bij een calamiteit de brandweer wijst op de poort en er zorg voor draagt dat deze open staat."</para>
+    <para>3.4.    Uit het controleverslag van 15 maart 2018 en de brief van 27 maart 2018 volgt dat de tweede aanvoerroute vóór 2 maart 2018 moeilijk toegankelijk was vanwege de aanwezigheid van een chalet dat nog in gebruik was en de ter plaatse aanwezige coniferen. Ter zitting is aan de hand van fotomateriaal gebleken dat de ter plaatse aanwezige coniferenhaag pas na 2 maart 2018 is verwijderd. De Afdeling acht het standpunt van het college dat de aanvoerroute door de aanwezigheid van deze coniferen onvoldoende toegankelijk was, mede gelet op de ter zitting getoonde foto’s van de situatie ter plaatse, niet onaannemelijk. De Afdeling is van oordeel dat, daargelaten het antwoord op de vraag of de tweede aanvoerroute als een gelijkwaardige oplossing terzake als bedoeld in artikel 1.3, eerste lid, van het Bouwbesluit 2012 kan worden aangemerkt, dit door de aanwezigheid van de coniferenhaag ten tijde van het besluit tot oplegging van de last onder dwangsom in ieder geval nog niet het geval was. Het college was derhalve bevoegd om ten aanzien van onderdeel F van de last handhavend op te treden.</para>
+    <para>    Het betoog faalt.</para>
+    <para>4.    Camping Duinlust B.V. betoogt tevergeefs dat de toezichthouder van de gemeente niet deskundig was op het gebied van brandveiligheid. Dat er ten aanzien van enkele onderdelen van de last volgens de brandweer alternatieve maatregelen mogelijk waren om de overtredingen te beëindigen, wat daar ook verder van zij, doet, anders dan Camping Duinlust B.V. stelt, aan de deskundigheid van de toezichthouder niet af. Dit geldt temeer nu het aan Camping Duinlust B.V., en niet het college, is om aannemelijk te maken dat sprake is van een gelijkwaardig alternatief.</para>
+    <para>5.    Camping Duinlust B.V. betoogt dat de rechtbank ten onrechte niet is ingegaan op haar beroepsgrond dat aan de last een te korte begunstigingstermijn is verbonden. Volgens Camping Duinlust B.V. was zij al bezig met de verwijdering van de caravans van het recreatieterrein en was zij in de veronderstelling dat zij alleen aan de last kon voldoen door de caravans te verwijderen, hetgeen binnen de begunstigingstermijn niet mogelijk was.</para>
+    <para>5.1.    Camping Duinlust betoogt weliswaar terecht dat de rechtbank niet is ingegaan op de beroepsgrond over de lengte van de begunstigingstermijn, maar gelet op het navolgende leidt dit niet tot vernietiging van de aangevallen uitspraak. De begunstigingstermijn strekt ertoe de overtreding op te heffen, waarbij als uitgangspunt geldt dat deze niet wezenlijk langer mag worden gesteld dan noodzakelijk is om de overtreding te kunnen opheffen. Het college heeft Camping Duinlust B.V. bij besluit van 21 december 2017 gelast om uiterlijk 1 februari 2018 de noodzakelijke maatregelen te treffen om de overtredingen te beëindigen. Gelet op de aard van de overtreden normen, die zien op de brandveiligheid op de camping, bestaat geen grond voor het oordeel dat het college niet in redelijkheid heeft kunnen besluiten tot voormelde begunstigingstermijn. In hetgeen Camping Duinlust B.V. heeft aangevoerd ziet de Afdeling geen grond voor het oordeel dat de begunstigingstermijn te kort is om de overtredingen te beëindigen. Anders dan Camping Duinlust B.V. ter zitting heeft gesteld, hoeven de stacaravans niet ontruimd te worden om aan de last te voldoen, zoals ook uit de last blijkt.</para>
+    <para>    Het betoog faalt.</para>
+    <para>Conclusie</para>
+    <para>6.    Het hoger beroep is ongegrond. De uitspraak van de rechtbank, voor zover aangevallen, dient te worden bevestigd.</para>
+    <para>7.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de uitspraak van de rechtbank, voor zover aangevallen.</para>
+    <para>Aldus vastgesteld door mr. J. Hoekstra, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. M.A. Graaff-Haasnoot, griffier.</para>
+    <para>Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.   </para>
+    <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    <para>Uitgesproken in het openbaar op 1 april 2020</para>
+    <para>531-842.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

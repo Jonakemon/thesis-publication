@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:3473</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-17T13:05:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3013</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3473">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3473</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-17T13:05:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:3473 Rechtbank Den Haag , 30-03-2020 / AWB - 19 _ 3013</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:3473:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Boete en terugbetalen lening ivm niet tijdig inburgeren. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:3473:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/3013</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 30 maart 2020  in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. P.C.M. van Schijndel),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Sociale Zaken en Werkgelegenheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. T. Holtrop).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 april 2018 (het primaire besluit 1) heeft verweerder aan eiser een bestuurlijke boete opgelegd van € 375,-, omdat hij niet op tijd heeft voldaan aan de inburgeringsplicht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 april 2018 (het primaire besluit 2) heeft verweerder aan eiser medegedeeld dat hij zijn lening van Dienst Uitvoering Onderwijs (hierna: DUO) ter hoogte van € 3.480,34 met ingang van 1 mei 2018 moet terugbetalen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 april 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser gedeeltelijk gegrond verklaard en de boete verlaagd naar € 75,-. Voor wat betreft het terugbetalen van de lening heeft verweerder het bezwaar ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 10 maart 2020. Eiser en verweerder hebben zich beiden laten vertegenwoordigen door hun gemachtigde. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het wettelijk kader is opgenomen in de bijlage, die deel uitmaakt van deze uitspraak.</para>
+    <para />
+    <para>2. Eiser is sinds 5 december 2013 inburgeringsplichtig en had tot en met 26 februari 2017 de tijd om in te burgeren. Eiser is op die datum niet ingeburgerd. Bij brief van 27 februari 2017 heeft verweerder eiser hiervan in kennis gesteld.</para>
+    <para />
+    <para>3. Bij het primaire besluit 1 is aan eiser een boete opgelegd van € 375,- wegens het niet tijdig voldoen aan de inburgeringsplicht. Bij het primaire besluit 2 heeft verweerder aan eiser medegedeeld dat hij zijn lening van DUO moet terugbetalen. Tegen beide besluiten heeft eiser bezwaar gemaakt. Bij het bestreden besluit heeft verweerder de boete gematigd tot € 75,-, omdat eiser voor vier onderdelen van zijn inburgeringsdiploma is geslaagd binnen de termijn. Voor het overige heeft verweerder het bezwaar ongegrond verklaard. </para>
+    <para />
+    <para>4. Eiser stelt zich op het standpunt dat geen sprake is van een verwijtbare overschrijding van zijn inburgeringstermijn, zodat de oplegging van een boete en terugvordering van de verstrekte lening ten onrechte en op onjuiste gronden heeft plaatsgevonden. Eiser heeft niet binnen de gestelde termijn het diploma kunnen halen, omdat hij psychische problemen had, waardoor hij zich niet goed kon concentreren en de leerstof niet tot zich kon nemen. Het zou redelijk en juist zijn geweest als de termijn waarbinnen het diploma moest zijn behaald ambtshalve werd verlengd. De termijnoverschrijding is daarnaast zodanig kort, dat dit de boete en de terugvordering van de verstrekte lening niet rechtvaardigt. Eiser stelt zich dan ook primair op het standpunt dat verweerder geen boete had dienen op te leggen en hij de lening niet terug hoeft te betalen.</para>
+    <para>Subsidiair stelt eiser dat verweerder niet alleen de boete, maar ook de lening had moeten verlagen. </para>
+    <para />
+    <para>5. De rechtbank overweegt als volgt. </para>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Niet in geschil is dat eiser niet binnen de gestelde termijn zijn inburgeringsexamen heeft behaald. Ter discussie staat of en in welke mate dit verwijtbaar is en of verweerder gelet op het ontbreken van, dan wel vanwege verminderde verwijtbaarheid van het opleggen van een boete had moeten afzien, dan wel tot verdergaande matiging had moeten overgaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Verweerder heeft aan het bestreden besluit het medisch advies van [arts] , arts, van 10 april 2018 ten grondslag gelegd. In dat advies heeft de arts aangegeven dat er geen medische redenen zijn waardoor eiser gedurende een periode van tenminste drie aaneengesloten maanden geen onderwijs heeft kunnen volgen en daarom wordt er geen verlenging van de inburgeringsperiode geadviseerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>Verweerder heeft naar aanleiding van het beroepschrift en aanvullende documenten de ingestuurde medische informatie (nogmaals) aan zijn medisch adviseur voorgelegd. </para>
+        <para>
+          [verzekeringsarts] , verzekeringsarts bij Argonaut, heeft op 5 juli 2019 geconcludeerd dat niet gesteld kan worden dat eiser op grond van de medische situatie in de periode van inburgeringsplicht gedurende een periode van tenminste drie maanden aaneengesloten buiten staat is geweest om onderwijs te volgen. Er is daarom geen reden voor verlenging van de inburgeringsperiode. De verzekeringsarts heeft daaraan onder andere ten grondslag gelegd dat er bij eiser geen psychiatrisch ziektebeeld is vastgesteld op grond waarvan ernstig persoonlijk en sociaal disfunctioneren heeft bestaan. Met betrekking tot de lichamelijke klachten is er geen functioneel verlies op grond waarvan eiser, al dan niet met de gebruikelijke verplaats- en vervoersmiddelen, niet naar het onderwijs zou kunnen gaan.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <parablock>
+        <para>Volgens vaste rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State mag het bestuursorgaan, als door een arts in zijn hoedanigheid van medisch deskundige een medisch advies is uitgebracht, dit advies betrekken bij zijn beoordeling, als het op een onpartijdige, objectieve en inzichtelijke wijze is opgesteld. Naar het oordeel van de rechtbank voldoet de medische advisering in dit geval aan de genoemde eisen.</para>
+        <para>Eiser heeft de inhoud van voornoemde adviezen niet betwist en heeft ook geen contra-expertise overgelegd om de adviezen te weerleggen. Verweerder heeft de adviezen van de medisch adviseurs dan ook kunnen volgen.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>Gelet op het voorgaande is de rechtbank van oordeel dat eiser niet aannemelijk heeft gemaakt dat hem niet kan worden verweten dat hij niet op tijd is ingeburgerd. Daarbij heeft verweerder tevens van belang mogen achten dat eiser pas tegen het einde van zijn termijn is gestart met zijn inburgeringstraject. De rechtbank is van oordeel dat dit voor rekening en risico van eiser komt, omdat eiser hierdoor weinig tijd had om niet behaalde examens te herkansen. Naar het oordeel van de rechtbank heeft verweerder geen reden hoeven zien om ambtshalve de inburgeringstermijn te verlengen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Vervolgens ziet de rechtbank zich voor de vraag gesteld of de door verweerder opgelegde boete evenredig is, dat wil zeggen of de hoogte van de boete aansluit bij de ernst van de overtreding en de mate waarin deze aan de overtreder kan worden verweten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Uit de motivering van het bestreden besluit leidt de rechtbank af dat het aantal examenpogingen, de gevolgde cursusuren aan een instelling met een ‘Blik op Werk’ keurmerk en het aantal onderdelen van de inburgeringsdiploma waar eiser voor is geslaagd, bepalend zijn geweest voor de matiging van de boete van € 375,- naar € 75,-. Op grond van het voorgaande acht de rechtbank de bij het bestreden besluit gematigde boete passend en geboden. De rechtbank acht geen grond aanwezig voor het oordeel dat verweerder tot verdere matiging van de boete had moeten overgaan. </para>
+      <para />
+      <para>7. Met betrekking tot de lening van eiser overweegt de rechtbank als volgt. Verweerder heeft de bevoegdheid tot matiging of kwijtschelding van de lening over te gaan, zoals volgt uit artikel 4.13, eerste lid, van het Besluit inburgering. In dit geval heeft verweerder ter zitting aangegeven daarvoor geen aanleiding te zien. De rechtbank ziet geen grond voor het oordeel dat verweerder van deze bevoegdheid gebruik had moeten maken. De rechtbank ziet evenmin aanleiding om tot het oordeel te komen dat verweerder ambtshalve de lening van eiser had moeten kwijtschelden. Uit artikel 4.13, derde lid, van het Besluit inburgering volgt dat verweerder tot ambtshalve kwijtschelding overgaat wanneer de inburgeraar de inburgering binnen de inburgeringstermijn heeft behaald, is vrijgesteld of ontheven van de inburgeringsplicht. Nu eiser zijn inburgering niet binnen de inburgeringstermijn heeft behaald dan wel is vrijgesteld of ontheven van deze plicht, bestond voor verweerder geen grond om over te gaan tot ambtshalve kwijtschelding. </para>
+      <para />
+      <para>8. Het beroep is ongegrond. </para>
+      <para />
+      <para>9. Voor een proceskostenveroordeling bestaat geen aanleiding.  </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.E. Dutrieux, rechter, in aanwezigheid van <?linebreak?>mr. M. Tijsma, griffier. Deze uitspraak is gedaan op 30 maart 2020. Als gevolg van de maatregelen rondom het Coronavirus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>				De rechter is verhinderd deze uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>BIJLAGE</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wet inburgering</para>
+      <para>Artikel 7</para>
+    </parablock>
+    <para>1. De inburgeringsplichtige behaalt:</para>
+    <para>a. het inburgeringsexamen, of</para>
+    <para>b. een diploma, certificaat of ander document, bedoeld in artikel 5, eerste lid, onderdeel c.</para>
+    <para>[…].</para>
+    <para />
+    <parablock>
+      <para>Artikel 7b</para>
+    </parablock>
+    <para>1. De inburgeringsplichtige behaalt binnen drie jaar de onderdelen van het inburgeringsexamen, bedoeld in artikel 7, tweede lid, onderdelen b en c.</para>
+    <para>[…]</para>
+    <para />
+    <para>3. Onze Minister verlengt de termijn van drie jaar, genoemd in het eerste lid: a. indien de inburgeringsplichtige aannemelijk maakt dat hem geen verwijt treft ter zake van het niet tijdig behalen van deze onderdelen van het inburgeringsexamen,</para>
+    <para>[…].</para>
+    <para />
+    <parablock>
+      <para>Artikel 31</para>
+    </parablock>
+    <para>1. Onze Minister legt een bestuurlijke boete op aan de inburgeringsplichtige die de onderdelen van het inburgeringsexamen, bedoeld in artikel 7, tweede lid, onderdelen b en c, niet binnen de in artikel 7b, eerste lid, genoemde termijn, of de met toepassing van artikel 7b, derde lid, of van de krachtens artikel 8, eerste lid, aanhef en onderdeel a, gestelde regels verlengde termijn, heeft behaald.</para>
+    <para>[…].</para>
+    <para />
+    <parablock>
+      <para>Besluit inburgering</para>
+      <para>Artikel 4.13</para>
+    </parablock>
+    <para>1. De schuld kan op verzoek van de inburgeringsplichtige door Onze Minister in bij regeling van Onze Minister aan te wijzen gevallen geheel of gedeeltelijk worden kwijtgescholden. </para>
+    <para>[…]</para>
+    <para>3. Aan vreemdelingen als bedoeld in artikel 4.1a, derde lid, die op of na 1 januari 2013 inburgeringsplichtig zijn geworden, wordt volledige kwijtschelding van de schuld ambtshalve verleend indien:</para>
+    <para>a. het participatieverklaringstraject, bedoeld in artikel 7, tweede lid, onderdeel a, van de wet, is afgerond en de onderdelen van het inburgeringsexamen, bedoeld in artikel 7, tweede lid, onderdelen b en c, van de wet, zijn behaald;</para>
+    <para>b. een vrijstelling van de inburgeringsplicht van toepassing is op grond van artikel 5 van de wet; of</para>
+    <para>c. ontheffing is verleend van de inburgeringsplicht als bedoeld in artikel 6, eerste tot en met derde lid, van de wet.</para>
+    <para>4. De kwijtschelding, bedoeld in het derde lid, wordt slechts verleend indien de omstandigheid, bedoeld in onderdeel a, b of c, zich heeft voorgedaan binnen de termijn, genoemd in artikel 7a, eerste lid, van de wet respectievelijk de termijn, genoemd in artikel 7b, eerste lid, van de wet of de met toepassing van artikel 7a, derde lid, van de wet respectievelijk artikel 7b, derde lid, van de wet of de bij of krachtens artikel 8, eerste lid, aanhef en onderdeel a, van de wet verlengde termijn.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

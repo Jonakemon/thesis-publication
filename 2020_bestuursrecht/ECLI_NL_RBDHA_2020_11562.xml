@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:11562</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-02T09:00:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 7462</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:11562">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:11562</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-17T10:13:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:11562 Rechtbank Den Haag , 18-11-2020 / AWB - 19 _ 7462</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:11562:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Betwisting registratie brp</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:11562:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/7462</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 18 november 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. O. Huisman),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Den Haag, verweerder</bridgehead>
+    <para>(gemachtigde: R. de Roy van Zuydewijn).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 januari 2019 (het primaire besluit) heeft verweerder [A]  ingeschreven in de Basisregistratie personen (brp) op het adres [adres] [huisnummer] te [plaats] (hierna: het adres).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 november 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft een aanvullend stuk ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft, via een Skype-verbinding, plaatsgevonden op <?linebreak?>29 oktober 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Tevens is verschenen een tolk.<?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>
+        [A] heeft zich op 21 december 2018 bij de gemeente gemeld met het verzoek om ingeschreven te worden op het adres waar hij vanaf 15 juni 2018 stelt te verblijven. [A] heeft hierbij aangegeven de hoofdhuurder geen toestemming tot inschrijving geeft.</para>
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Op 8 januari 2019 heeft een huisbezoek plaatsgevonden op het adres door twee toezichthouders van de Wet basisregistratie personen van de gemeente Den Haag (hierna: de toezichthouders), waarbij eiser en [A] zijn aangetroffen. De toezichthouders hebben naar aanleiding van het huisbezoek geconcludeerd dat zij [A] moesten inschrijven op het adres.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Bij besluit van 10 januari 2019 is [A] met ingang van 21 december 2018 ingeschreven in de brp op het adres.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>
+        [A] heeft bij schriftelijke verklaring van 15 januari 2019 gesteld dat hij bij de aangifte heeft gelogen om inschrijving in de brp te regelen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Eiser heeft op 31 januari 2019 bezwaar gemaakt tegen het primaire besluit.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>
+        [A] heeft op 3 april 2019 een adreswijziging doorgegeven naar een ander adres.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Op 1 juli 2019 heeft een hoorzitting van de Adviescommissie bezwaarschriften (hierna: de adviescommissie) plaatsgevonden met eiser.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>De adviescommissie heeft verweerder bij advies van 19 augustus 2019 geadviseerd het bewaar gegrond te verklaren en het primaire besluit te herroepen in die zin dat de inschrijving ongedaan wordt gemaakt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <para>Naar aanleiding van het advies heeft verweerder [A] op 3 september 2019 telefonisch gehoord in het kader van nader onderzoek.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10.</nr>
+      <para>De adviescommissie heeft in reactie op het verslag van de telefonische hoorzitting aangegeven dat de hoorzitting op grond van artikel 7:6, eerste lid, van de Algemene wet bestuursrecht (Awb) buiten beschouwing dient te worden gelaten.<?linebreak?></para>
+      <para>2. Verweerder heeft in het bestreden besluit overwogen dat het bij de Wet basisregistratie personen (Wet brp) bij het opnemen van een persoon in de brp gaat om de feitelijke situatie, waarbij instemming van de al op het adres ingeschreven bewoner niet nodig is. Nu [A] op 21 december 2018 aangifte heeft gedaan van verblijf en adres en tijdens het huisbezoek op 8 januari 2019 is vastgesteld dat [A] feitelijk op het adres verbleef, is de inschrijving in de brp rechtmatig volgens verweerder.</para>
+      <para />
+      <para>3. Eiser kan zich niet verenigen met het bestreden besluit en voert aan dat verweerder niet enkel op basis van de aangifte van [A] en het huisbezoek over had mogen gaan tot inschrijving van [A] op het adres. Volgens eiser heeft hij voldoende aangetoond dat er aanknopingspunten zijn om te twijfelen aan de woonomstandigheden van [A] . Zo heeft eiser tijdens het huisbezoek verklaard dat [A] enkel een logee was, heeft de maatschappelijk werkster dit direct na het huisbezoek bevestigd en heeft [A] zelf met een verklaring aangegeven dat zijn aangifte van 21 december 2018 op valse informatie was gebaseerd. Het enkele feit dat [A] tijdens het huisbezoek aanwezig was op het adres is, mede gelet op het voorgaande, onvoldoende om tot de conclusie te komen dat [A] op het adres woont. Het was aan [A] om aannemelijk te maken dat hij op het adres woont. De hoorzitting van 9 september 2019 is hiertoe ook onvoldoende volgens eiser, nu onvoldoende vaststaat dat de hoorcommissie het telefonisch gehoor daadwerkelijk met [A] heeft afgenomen. Tot slot is er volgens eiser geen enkele grond op basis waarvan verweerder de redelijke verwachting kon ontlenen dat [A] gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zou houden. </para>
+      <para />
+      <para>4. Op grond van artikel 2.4, eerste lid, van de Wet brp wordt op grond van zijn aangifte van verblijf en adres degene die rechtmatig verblijf geniet, niet in de basisregistratie is ingeschreven en naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zal houden, ingeschreven in de basisregistratie door het college van burgemeester en wethouders van de gemeente waar hij zijn adres heeft.</para>
+      <para />
+      <para>5. De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Desgevraagd heeft eiser verklaard dat zijn procesbelang is gelegen in de omstandigheid dat de registratie van Rutters gevolgen heeft gehad voor de vaststelling van zijn aanspraken op financiële middelen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Zoals de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) eerder heeft overwogen (zie bijvoorbeeld de uitspraak van 11 januari 2017, ECLI:NL:RVS:2017:21), is het doel van de Wet brp dat de in de brp vermelde gegevens zo betrouwbaar en duidelijk mogelijk zijn en dat de gebruikers van de gegevens erop moeten kunnen vertrouwen dat deze in beginsel juist zijn. Met het oog daarop dienen in de brp gegevens over de feitelijke verblijfplaats van de betrokkene te worden geregistreerd. Voorts dient bij de toepassing van de Wet brp aan de hand van een geheel van waarneembare omstandigheden te worden beoordeeld waar iemand woont, waarbij de plaats waar de betrokkene ’s nachts pleegt te slapen een grote betekenis kan hebben.</para>
+      <para />
+      <parablock>
+        <para>Uit vaste rechtspraak van de Afdeling (zie bijvoorbeeld de uitspraak van 10 april 2019, ECLI:NL:RVS:2019:1145) volgt verder dat het aan de betrokkene is om aannemelijk te maken dat hij op een bepaald adres woont als bij verweerder na adresonderzoek in redelijkheid gerede twijfel kan bestaan of de betrokkene op dat adres woont.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De rechtbank stelt vast dat [A] op 21 december 2018 bij de gemeente aangifte van verblijf en adres heeft gedaan, waarbij hij heeft aangegeven sinds juni 2018 op het adres te verblijven. [A] heeft op dat moment geen bewijs van bewoning overgelegd, nu de hoofdbewoner (eiser) aan hem geen toestemming had gegeven om zich in te schrijven op het adres. Verweerder heeft ter zitting toegelicht dat hij alleen vanwege het ontbreken van een bewijs van bewoning over is gegaan tot een huisbezoek. Uit het bezoekverslag blijkt dat de toezichthouders zowel [A] als eiser hebben aangetroffen bij het onaangekondigde huisbezoek op 8 januari 2019. De toezichthouders stellen in het rapport dat zij de gehele woning hebben gezien en dat de kamer rechts achterin de gemeubileerde en bewoonde kamer van [A] is. De toezichthouders stellen [A] daarom volgens protocol in te moeten schrijven. </para>
+      <para />
+      <parablock>
+        <para>De rechtbank overweegt dat uit vaste jurisprudentie van de Afdeling, genoemd onder 5.1., volgt dat de feitelijke situatie en met name de waarneembare omstandigheden van belang zijn bij de toepassing van de Wet brp. Gelet op de feitelijke situatie en de waargenomen omstandigheden tijdens het huisbezoek is de rechtbank dan ook van oordeel dat verweerder zich in redelijkheid op het standpunt heeft gesteld dat er geen sprake is van gerede twijfel of [A] op het adres woonachtig is. Verweerder was dan ook gehouden om [A] in te schrijven op het adres. Gelet op het ontbreken van deze gerede twijfel kan het betoog van eiser, dat het aan [A] is om aannemelijk te maken dat hij op het adres woonachtig is, niet slagen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>De rechtbank overweegt voorts dat de afwijkende verklaringen van [A] en de verklaringen van eiser en zijn maatschappelijk werkster niet tot een ander oordeel kunnen leiden. Zoals overwogen onder 5.1. en 5.2. komt in dergelijke zaken met name betekenis toe aan de feitelijke situatie. De (later) afgelegde verklaringen kunnen aan de waargenomen feitelijke situatie niet afdoen. Voorts overweegt de rechtbank dat geen toestemming nodig is van een hoofdbewoner voor de inschrijving in de brp, waardoor verweerder aan de verklaringen van eiser en zijn maatschappelijk werkster niet de waarde heeft hoeven hechten die eiser eraan gehecht wenst te zien. Gelet op het voorgaande ziet de rechtbank geen aanleiding tot het horen van de maatschappelijk werkster van eiser, zoals ter zitting aangeboden.</para>
+      <para />
+      <parablock>
+        <para>Ten aanzien van de verschillende verklaringen van [A] volgt de rechtbank eiser in zoverre dat [A] afwijkend heeft verklaard over de periode dat hij woonachtig was op het adres, maar overweegt de rechtbank dat het voor de inschrijving in het brp niet van belang is hoe lang een persoon al verblijft op een adres. Ten aanzien van de verklaring van [A] dat hij bij de aangifte heeft gelogen, overweegt de rechtbank dat ook al heeft hij verklaard als logee op het adres te verblijven, dat niets verandert aan de feitelijke situatie die is waargenomen bij het bezoek. De rechtbank verwijst hiertoe ook naar vaste rechtspraak van de Afdeling waaruit blijkt dat voor een grotere betrouwbaarheid van de eerste afgelegde verklaring – in het algemeen – de vooronderstelling pleit dat de gehoorde persoon in dat stadium meer geneigd zal zijn naar waarheid en onbevangen te verklaren en zich minder zal laten leiden door ongewenste consequenties die bepaalde antwoorden voor derden zouden kunnen hebben (zie bijvoorbeeld de uitspraak van 30 september 2020, ECLI:NL:RVS:2020:2323).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Het betoog van eiser dat niet is aangetoond dat de telefonische hoorzitting op 3 september 2019 daadwerkelijk met [A] is afgenomen volgt de rechtbank evenmin. Niet is gebleken van aanknopingspunten die doen twijfelen aan de identiteit van degene die op 3 september 2019 telefonisch is gehoord. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>Dat er geen grond was op basis waarvan verweerder de redelijke verwachting kon ontlenen dat [A] gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zou houden, volgt de rechtbank tot slot ook niet. Het feit dat eiser zo nu en dan enkele weken in Spanje verblijft is hiertoe onvoldoende.</para>
+      <para />
+      <parablock>
+        <para>6.	Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.P. Kleijn, rechter, in aanwezigheid van <?linebreak?>mr. J.F.A. Bleichrodt, griffier. De beslissing is in het openbaar uitgesproken op <?linebreak?>18 november 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>BIJLAGE</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wet basisregistratie personen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2.4<?linebreak?>1. Op grond van zijn aangifte van verblijf en adres wordt degene die rechtmatig verblijf geniet, niet in de basisregistratie is ingeschreven en naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zal houden, ingeschreven in de basisregistratie door het college van burgemeester en wethouders van de gemeente waar hij zijn adres heeft.<?linebreak?>[…]</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2.1<?linebreak?>1. Aan de aangifte van verblijf en adres van degene die rechtmatig verblijf geniet, naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zal houden en die zijn adres heeft in de betrokken gemeente, worden gegevens betreffende het verblijf in Nederland, het adres en het vorige verblijf buiten Nederland ontleend.<?linebreak?>2. Indien aannemelijk is dat een gegeven betreffende het vorige verblijf buiten Nederland onjuist is, wordt dit gegeven niet opgenomen.<?linebreak?>3. Indien een persoon als bedoeld in het eerste lid in gebreke is met het doen van aangifte, draagt het college van burgemeester en wethouders van de gemeente waar betrokkene zijn adres heeft, ambtshalve zorg voor opneming van gegevens betreffende het verblijf, het adres en het vorige verblijf buiten Nederland. Het college van burgemeester en wethouders is bevoegd de gegevens alsnog aan de aangifte van de betrokkene te ontlenen, indien de aangifte na afloop van de aangiftetermijn geschiedt.<?linebreak?>4. Als datum van aanvang van het verblijf in Nederland en van vestiging van het adres in de gemeente wordt de dag opgenomen waarop de aangifte is ontvangen, dan wel de dag waarop van het voornemen tot ambtshalve opneming van gegevens over het verblijf en adres aan betrokkene schriftelijk mededeling is gedaan.<?linebreak?>5. De gegevens worden niet opgenomen dan nadat de identiteit van de betrokkene deugdelijk is vastgesteld.<?linebreak?>6. Indien de betrokkene komt vanuit Aruba, Curaçao, Sint Maarten, of een van de openbare lichamen, is artikel 2.5 van overeenkomstige toepassing.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

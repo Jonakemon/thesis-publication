@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:258</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-04T11:33:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201901246/1/A2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBZWB:2019:380" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#overig">Eerste aanleg: ECLI:NL:RBZWB:2019:380, Overig</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:258">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:258</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-29T10:16:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:258 Raad van State , 29-01-2020 / 201901246/1/A2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:258:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 13 juli 2018 heeft de Belastingdienst/Toeslagen de huurtoeslag van [appellant] voor het berekeningsjaar 2017 vastgesteld op € 3.171,00 en een bedrag van € 673,00 aan teveel ontvangen toeslag teruggevorderd.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:258:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201901246/1/A2.</para>
+    <para>Datum uitspraak: 29 januari 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant], wonend te [woonplaats],</para>
+    <para>tegen de uitspraak van de rechtbank Zeeland-West-Brabant van 1 februari 2019 in zaak nr. 18/5093 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>de Belastingdienst/Toeslagen.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 13 juli 2018 heeft de Belastingdienst/Toeslagen de huurtoeslag van [appellant] voor het berekeningsjaar 2017 vastgesteld op € 3.171,00 en een bedrag van € 673,00 aan teveel ontvangen toeslag teruggevorderd.</para>
+    <para>Bij besluit van 28 juli 2018 heeft de Belastingdienst/Toeslagen het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 1 februari 2019 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>De Belastingdienst/Toeslagen heeft een schriftelijke uiteenzetting gegeven.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 13 januari 2020, waar [appellant], vertegenwoordigd door mr. M. Akça-Altun, advocaat te Breda, en de Belastingdienst/Toeslagen, vertegenwoordigd door drs. J.G.C. van de Werken en mr. N. Mhamdi, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>1.    Bij het besluit van 13 juli 2018, gehandhaafd bij het besluit van 28 juli 2018, heeft de Belastingdienst/Toeslagen de huurtoeslag van [appellant] voor het berekeningsjaar 2017 lager vastgesteld op een bedrag van € 3.171,00. Daarbij is de Belastingdienst/Toeslagen uitgegaan van het door de inspecteur van de Belastingdienst laatst vastgestelde verzamelinkomen van [appellant] voor dat jaar, te weten een bedrag van € 17.856,00.</para>
+    <para>2.    De Afdeling ziet zich voor de vraag gesteld of [appellant] nog belang heeft bij een inhoudelijke behandeling van het hoger beroep.</para>
+    <para>2.1.    Vaststaat dat [appellant] eerst op 24 december 2018 gegevens heeft overgelegd waaruit blijkt dat hij in 2017 van Delta Lloyd een bruto bedrag van € 3.099,44 voor de afkoop van een pensioen heeft ontvangen. Daarbij heeft hij de Belastingdienst/Toeslagen voor het eerst verzocht om dit bedrag bij de berekening van zijn huurtoeslag over 2017 buiten beschouwing te laten. De Belastingdienst/Toeslagen heeft dit verzoek, zo blijkt uit het besluit van 18 februari 2019, ingewilligd. Naar aanleiding hiervan heeft de dienst bij besluit van 8 maart 2019 de huurtoeslag van [appellant] over 2017 herzien en hoger vastgesteld op € 3.844,00.</para>
+    <para>    Gelet op het voorgaande, heeft [appellant] bereikt wat hij met zijn hoger beroep beoogt. Hij heeft derhalve geen belang meer bij een inhoudelijke beoordeling van het hoger beroep.</para>
+    <para>2.2.    Niettemin moet worden bezien of in de omstandigheden van het geval, in het bijzonder in de reden voor het vervallen van het procesbelang, grond is gelegen om over te gaan tot een veroordeling in de proceskosten. Een dergelijke grond kan zijn gelegen in de omstandigheid dat het bestuursorgaan aan de appellant is tegemoetgekomen. In dat geval kan het bestuursorgaan met toepassing van artikel 8:75 van de Algemene wet bestuursrecht (hierna: de Awb) worden veroordeeld in de proceskosten.</para>
+    <para>Van tegemoetkomen is geen sprake als een in beroep bestreden besluit is gewijzigd wegens veranderde omstandigheden. De Afdeling verwijst hiervoor naar haar uitspraak van 8 april 2019, ECLI:NL:RVS:2019:1084. In dit geval heeft de Belastingdienst/Toeslagen de huurtoeslag van [appellant] over 2017 herzien en hoger vastgesteld wegens de inwilliging van het verzoek van [appellant] van 24 december 2018. Dit is een veranderde omstandigheid die zich ten tijde van het besluit van 28 juli 2018 niet voordeed. Daarom is de Belastingdienst/Toeslagen niet aan [appellant] tegemoetgekomen in de zin van artikel 8:75a van de Awb. Er is dan ook geen aanleiding om de dienst tot vergoeding van de proceskosten te veroordelen.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>verklaart het hoger beroep niet-ontvankelijk.</para>
+    <para>Aldus vastgesteld door mr. A.W.M. Bijloos, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. R.F.J. Bindels, griffier.</para>
+    <para>w.g. Bijloos    w.g. Bindels</para>
+    <para>lid van de enkelvoudige kamer    griffier</para>
+    <para>Uitgesproken in het openbaar op 29 januari 2020</para>
+    <para>17-854.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:226</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-25T10:03:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/5273</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>WVO Commentaar en Jurisprudentie 2020/751</rdf:li>
+          <rdf:li>Onderwijs Totaal 2020/1056</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:226">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:226</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-20T11:05:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:226 Rechtbank Amsterdam , 20-01-2020 / AMS 19/5273</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:226:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De rechtbank vernietigt de door de minister aan het Haga Lyceum gegeven aanwijzing tot vervanging van het bestuur. De school heeft niet in strijd gehandeld met de burgerschapsopdracht. Er zijn wel financiële problemen, maar minder dan de minister had gesteld. De aanwijzing tot vervanging van het bestuur is niet evenredig.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:226:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/5273 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 20 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Stichting Islamitisch Onderwijs Nederland (hierna: SIO), te Amsterdam, eiseres </bridgehead>
+    <para>(gemachtigde: mr. W.E. Pors),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de minister voor Basis- en Voortgezet Onderwijs en Media (hierna: de minister), verweerder</para>
+      <para>(gemachtigden: mr. J. Bootsma en mr. J.V. de Kort).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met een besluit van 16 september 2019 heeft de minister aan SIO een aanwijzing op grond van de Wet op het voortgezet onderwijs (Wvo) gegeven. Het aanwijzingsbesluit (hierna: de aanwijzing) houdt in, kort gezegd, dat SIO het schoolbestuur moet vervangen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>SIO heeft tegen de aanwijzing bezwaar gemaakt en de minister verzocht om in te stemmen met rechtstreeks beroep bij de rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft met dat verzoek ingestemd en het bezwaarschrift doorgezonden aan de rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft stukken overgelegd. Bij een aantal stukken heeft de minister meegedeeld dat uitsluitend de rechtbank kennis zal mogen nemen van deze stukken (de geheime stukken).<footnote-ref linkend="_ae30dc50-4d9b-495c-8019-7e0383675adc" /> Bij beslissing van 2 december 2019 heeft de rechtbank in een andere samenstelling geoordeeld dat er gewichtige redenen zijn om te rechtvaardigen dat alleen de rechtbank deze stukken in mag zien (de geheime stukken).<footnote-ref linkend="_ec511355-d05a-43dd-9798-ed9f6434e79c" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>SIO heeft de rechtbank toestemming gegeven om de geheime stukken bij haar beoordeling te betrekken.<footnote-ref linkend="_f88c9ae6-8c46-4ae7-a9d6-cb92faacaaf9" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 9 december 2019. Namens SIO zijn verschenen [naam directeur-bestuurder] en [naam secretaris] , bijgestaan door hun gemachtigde. De minister heeft zich laten vertegenwoordigen door zijn gemachtigden, vergezeld door [naam inspecteur] , inspecteur van het onderwijs, [naam financieel inspecteur] , financieel inspecteur, en [naam teamleider] , teamleider van de juridische afdeling van de directie voortgezet onderwijs. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Waar gaat deze zaak over?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. SIO is het bevoegd gezag van het Cornelius Haga Lyceum (de school) in Amsterdam. Het is een islamitische school voor voortgezet onderwijs die in schooljaar 2017-2018 is gestart. SIO ontvangt van de rijksoverheid bekostiging voor exploitatiekosten en personele kosten. Huisvesting voor de school wordt verzorgd door de gemeente Amsterdam.</para>
+    <para />
+    <para>2. [naam directeur-bestuurder] is de directeur-bestuurder van de school. Hij voert het dagelijks bestuur en is tevens de schoolleider. Hij wordt bijgestaan door een beleidsmedewerker, zijn broer [naam broer] . Daarnaast is er een algemeen bestuur, dat bestaat uit [naam voorzitter] , voorzitter, en [naam secretaris] , secretaris en penningmeester. Het algemeen bestuur heeft de rol van intern toezichthouder en werkgever ten aanzien van de directeur-bestuurder. [naam directeur-bestuurder] , [naam voorzitter] en [naam secretaris] vormen samen het bestuur van SIO.</para>
+    <para />
+    <para>3. De Inspectie van het onderwijs (de Inspectie) heeft in oktober 2018 een regulier vierjaarlijks onderzoek gedaan naar de school en zijn bestuur. In het conceptrapport van 16 november 2018 (het conceptrapport) is de Inspectie overwegend positief over de school en zijn bestuur, maar worden ook enkele tekortkomingen gesignaleerd. </para>
+    <para />
+    <para>4. Voordat het conceptrapport definitief werd, ontving de Inspectie signalen via de Algemene Inlichtingen- en Veiligheidsdienst (de AIVD) over het bestuur en de school. De Inspectie vond deze signalen zo ernstig, dat de Inspectie besloot om het onderzoek naar de school en zijn bestuur voort te zetten, uit te breiden en te intensiveren. De bevindingen van dit onderzoek – dat tot mei 2019 heeft geduurd – heeft de Inspectie kenbaar gemaakt in een conceptrapport van 14 mei 2019. Nadat SIO de mogelijkheid is gegeven tot een reactie is het rapport definitief vastgesteld op 29 mei 2019 (het Inspectierapport)<footnote-ref linkend="_41d3bfe0-dd9f-4077-badc-9bf9feae7ee8" />. De Inspectie heeft tekortkomingen geconstateerd als het gaat om de kwaliteit van bestuur, het financieel beheer en het onderwijs. Daarom heeft de Inspectie aan het bestuur herstelopdrachten gegeven en aanbevelingen voor verbetering gedaan. De Inspectie heeft ook te kennen gegeven er geen vertrouwen in te hebben dat het huidige bestuur in staat zal zijn om aan de herstelopdrachten te voldoen. </para>
+    <para />
+    <para>5. De minister heeft vervolgens op basis van het Inspectierapport geoordeeld dat sprake is van ernstig bestuurlijk tekortschieten door SIO. Volgens de minister is sprake van wanbeheer in de zin van artikel 103g, tweede lid, van de Wvo. De situatie vereist volgens de minister in dit geval dat het gehele schoolbestuur wordt vervangen. Dat is de reden dat de minister een aanwijzing van die strekking aan SIO heeft gegeven. </para>
+    <para />
+    <para>6. SIO is het niet eens met de aanwijzing en is daarom in beroep gegaan bij de rechtbank.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De beoordeling door de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>7. De rechtbank moet in deze zaak beoordelen of de minister aan SIO de aanwijzing heeft mogen geven om het schoolbestuur te vervangen. De rechtbank merkt daarbij op dat zij in deze procedure niet het integrale Inspectierapport toetst en dus niet nagaat of alles wat daarin staat juist is of niet. De rechtbank beoordeelt in deze zaak immers uitsluitend de aan SIO gegeven aanwijzing. Dat betekent dat alleen die onderdelen uit het Inspectierapport die de minister ten grondslag heeft gelegd aan de aanwijzing door de rechtbank kunnen worden getoetst.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Toetsingskader en grondslag van de aanwijzing</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>8. De bevoegdheid tot het geven van een aanwijzing aan het bevoegd gezag van een school voor voortgezet onderwijs is neergelegd in artikel 103g van de Wvo. </para>
+    <para />
+    <para>9. In artikel 103g van de Wvo staat het volgende:</para>
+    <para>1. Indien sprake is van wanbeheer van een of meer bestuurders of toezichthouders kan Onze Minister de rechtspersoon die de school in stand houdt dan wel het samenwerkingsverband een aanwijzing geven. Een aanwijzing omvat een of meer maatregelen en is evenredig aan het doel waarvoor zij wordt gegeven.</para>
+    <para>2. Onder wanbeheer wordt uitsluitend verstaan:</para>
+    <para>a. financieel wanbeleid,</para>
+    <para>b. ernstige nalatigheid om, in ieder geval in strijd met artikel 23a, maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de school en om te voorkomen dat de kwaliteit van het stelsel van voortgezet onderwijs in gevaar komt;</para>
+    <para>c. ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de school in stand houdt, zichzelf dan wel een derde;</para>
+    <para>d. onrechtmatig handelen, waaronder wordt verstaan het in de hoedanigheid van bestuurder of toezichthouder handelen in strijd met wettelijke bepalingen waarmee financieel voordeel wordt behaald ten gunste van de rechtspersoon die de school in stand houdt, zichzelf of een derde, (…).</para>
+    <para />
+    <para>10. De door de minister aan SIO gegeven aanwijzing is gebaseerd op twee pijlers. Beide pijlers kunnen de aanwijzing volgens de minister zelfstandig dragen. </para>
+    <parablock>
+      <para>In de eerste plaats is volgens de minister sprake van een vorm van wanbeheer die is omschreven in artikel 103g, tweede lid, onder b van de Wvo (kort gezegd: ernstige nalatigheid). Deze eerste pijler berust op zijn beurt weer op twee afzonderlijke verwijten: het niet voldoen aan de burgerschapsopdracht en het niet functioneren van het intern toezicht.</para>
+      <para>In de tweede plaats is volgens de minister sprake van wanbeheer als bedoeld in artikel 103g, tweede lid, onder a, c en d van de Wvo (financieel wanbeleid, ongerechtvaardigde verrijking en onrechtmatig handelen). Deze tweede pijler is gebaseerd op meerdere tekortkomingen op het gebied van financieel beheer en het toezicht daarop. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para>11. Ter beoordeling van de aanwijzing worden hierna de volgende onderwerpen besproken:</para>
+    <para>- de betekenis van het rapport van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (CTIVD)</para>
+    <para>- de geheime stukken</para>
+    <para>- gegevens van na het Inspectierapport</para>
+    <para>- de eerste pijler:</para>
+    <parablock>
+      <para>- het verwijt over de burgerschapsopdracht</para>
+      <para>- het verwijt over het niet functioneren van het intern toezicht</para>
+      <para>- conclusie over de eerste pijler</para>
+    </parablock>
+    <para>- de tweede pijler:</para>
+    <parablock>
+      <para>- het gestelde onrechtmatige handelen en de ongerechtvaardigde verrijking</para>
+      <para>- het verwijt over het financieel wanbeleid</para>
+      <para>- conclusie over de tweede pijler</para>
+    </parablock>
+    <para>- de evenredigheid van de aanwijzing.</para>
+    <para />
+    <para>12. De standpunten van partijen zullen, voor zover van belang, worden weergegeven bij de beoordeling van de afzonderlijke geschilpunten.</para>
+    <para />
+    <para>13. De relevante regelgeving is opgenomen in de bijlage, die onderdeel uitmaakt van deze uitspraak.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De betekenis van het rapport van de CTIVD</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>14. In de aanwijzing en in het Inspectierapport is verwezen naar vertrouwelijke informatie van de AIVD en de Nationaal Coördinator Terrorismebestrijding en Veiligheid (de NCTV). De minister heeft zes hierop betrekking hebbende stukken overgelegd met een verzoek om beperking van de kennisneming. De toewijzende beslissing van de rechtbank van 2 december 2019 betreft twee (ongelakte) ambtsberichten van de AIVD, van 15 januari 2019 en van 4 februari 2019, en vier analyses van de NCTV. </para>
+    <para />
+    <para>15. SIO betoogt meest verstrekkend dat de aanwijzing niet in stand kan blijven, omdat inmiddels is vastgesteld dat de ambtsberichten van de AIVD onrechtmatig zijn. SIO verwijst in dit verband naar een op 6 december 2019 gepubliceerd rapport van de CTIVD.<footnote-ref linkend="_6595cb7f-ff8f-4513-a700-dc595ffbc614" /> Volgens SIO zou de Inspectie haar onderzoek niet hebben voortgezet en zou er dus geen aanleiding zijn geweest voor een aanwijzing, wanneer de inhoud van de ambtsberichten zorgvuldig was geweest. </para>
+    <para />
+    <para>16. De gemachtigde van de minister heeft erop gewezen dat de CTIVD heeft geconcludeerd dat de gegevensverstrekking door de AIVD in het ambtsbericht van 15 januari 2019 in het algemeen rechtmatig was. De zinnen en zinsnedes die niet rechtmatig en zorgvuldig waren, hebben volgens de minister geen rol gespeeld in zijn besluitvorming. Het ambtsbericht van 15 januari 2019 was voor de Inspectie alleen de aanleiding om het onderzoek voort te zetten. De aanwijzing is ook niet gebaseerd op de twee ambtsberichten van de AIVD. De aanwijzing is wél gebaseerd op de uitkomsten van het zelfstandige onderzoek van de Inspectie en de analyses van de NCTV, aldus de minister. </para>
+    <para />
+    <para>17. De rechtbank overweegt dat uit het rapport van de CTIVD volgt dat het ambtsbericht van 15 januari 2019 van de AIVD alleen op enkele onderdelen niet goed is onderbouwd of onzorgvuldig is verwoord en dat de verstrekking van uitsluitend de informatie op die onderdelen onrechtmatig was. Het merendeel van de inhoud van de informatie, waaronder de kernboodschap over de dreiging<footnote-ref linkend="_ce9366af-2d5b-4e3b-b8c4-4d282b80136e" />, is volgens de CTIVD onderbouwd door betrouwbare inlichtingen, zorgvuldig verwoord en rechtmatig verstrekt. Zoals ook uit de aanwijzing blijkt, is deze informatie van de AIVD de aanleiding geweest voor de minister om nader onderzoek te doen. Wanneer de door de CTIVD als onrechtmatig beoordeelde onderdelen van het ambtsbericht van 15 januari 2019 buiten beschouwing worden gelaten, bestond er naar het oordeel van de rechtbank, gelet op de aard van de overige informatie, nog steeds voldoende aanleiding voor de Inspectie om nader onderzoek te doen naar de school en het schoolbestuur. Bij brief van 31 januari 2019 heeft de Inspectie SIO vervolgens meegedeeld dat het onderzoek zal worden voortgezet. </para>
+    <para />
+    <para>18. Het ambtsbericht van de AIVD van 4 februari 2019 is van latere datum. Over dit ambtsbericht, dat financiële informatie bevat, heeft de CTIVD geoordeeld dat er geen wettelijke grondslag was voor het uitbrengen daarvan aan de Inspectie. De verstrekking van dit ambtsbericht aan de Inspectie was volgens de CTIVD dus onrechtmatig. Anders dan SIO heeft betoogd, betekent dit echter niet dat er geen nader onderzoek naar de financiën mocht plaatsvinden. De Inspectie had op dat moment al besloten tot een voortzetting van het onderzoek. De Inspectie is verder zelfstandig bevoegd om onderzoek te doen naar het financieel beheer door de school en het schoolbestuur. Ook zonder het ambtsbericht van de AIVD van 4 februari 2019 was de Inspectie dus bevoegd om (nader) onderzoek te doen. Dit betekent dat er geen reden is om de uitkomsten van dit deel van het onderzoek door de Inspectie buiten beschouwing te laten. </para>
+    <para />
+    <para>19. Het voorgaande betekent dat het betoog van SIO, voorzover gebaseerd op het rapport van de CTIVD, niet slaagt. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De geheime stukken </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>20. Aangezien de minister heeft toegelicht dat de aanwijzing niet is gebaseerd op de ambtsberichten van de AIVD, zal de rechtbank deze ambtsberichten buiten beschouwing laten bij de vraag of de aanwijzing mocht worden gegeven. De rechtbank zal bij haar beoordeling wel het Inspectierapport en de (geheime) analyses van de NCTV betrekken.</para>
+    <para />
+    <para>21. De minister heeft de analyses van de NCTV overgelegd ter onderbouwing van het standpunt dat een aantal personen, die in verband zijn gebracht met de school, omstreden gedachtegoed hebben. Met omstreden gedachtegoed bedoelt de minister antidemocratische en/of anti-integratieve opvattingen. Deze personen en hun gedachtegoed spelen een rol bij het verwijt over de burgerschapsopdracht. </para>
+    <para />
+    <para>22. De rechtbank heeft de analyses van de NCTV bekeken. Hierin zijn de activiteiten en uitlatingen van vier personen geanalyseerd. De gemachtigde van de minister heeft op de zitting gezegd op welke vier personen de analyses betrekking hebben. Dat zijn [persoon 1] (hierna: persoon 1), [persoon 2] (hierna: persoon 2), [persoon 3] (hierna: persoon 3) en [persoon 4] (hierna: persoon 4). Deze personen worden ook in het inspectierapport genoemd.</para>
+    <para />
+    <para>23. De analyses hebben niet altijd een logische opbouw en niet altijd is inzichtelijk op welke feitelijke bevindingen sommige conclusies zijn gebaseerd. Dit klemt te meer omdat ook niet is vermeld wie de opsteller(s) van de analyses is, zodat onduidelijk is wat de expertise van de opsteller(s) is. De analyse over persoon 1 bevat een onvoldoende feitelijke en kenbare onderbouwing voor de conclusie dat persoon 1 antidemocratisch en anti-integratief gedachtegoed uitdraagt. De analyses over de personen 2, 3 en 4 bevatten wel een voldoende feitelijke onderbouwing, die de conclusies kunnen dragen dat deze personen antidemocratische en anti-integratieve opvattingen hebben en die opvattingen ook uitdragen. De rechtbank kan haar oordeel op dit punt niet nader motiveren zonder informatie prijs te geven die geheim moet blijven. </para>
+    <para />
+    <para>24. De vraag welke betekenis toekomt aan het als salafistisch gekenschetste gedachtegoed van deze drie personen, komt hierna aan de orde bij de beoordeling van het verwijt over de burgerschapsopdracht.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Welke feiten betrekt de rechtbank bij haar beoordeling? </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>25. SIO voert aan dat de Inspectie het rapport van de instellingsaccountant over het jaar 2018 had moeten betrekken bij haar onderzoek.<footnote-ref linkend="_cd4ac38f-b491-417d-8bdd-605550c6c524" /> Het onderzoek van de Inspectie werd in mei afgerond, terwijl SIO nog tot 1 juli 2019 de tijd had om het rapport van de accountant aan te leveren.<footnote-ref linkend="_10c433cb-be10-4e6f-bd69-1dfd77514d0f" /></para>
+    <para />
+    <para>26. De rechtbank volgt SIO niet in dit standpunt, omdat de stelling van SIO berust op een verkeerde lezing van artikel 3 van de Wet op het onderwijstoezicht. Uit die bepaling volgt niet dat de Inspectie verplicht is om het rapport van de accountant af te wachten. </para>
+    <para>De Inspectie heeft alle gegevens die tijdens haar onderzoek beschikbaar waren, meegewogen. Bovendien is niet zozeer de situatie ten tijde van het uitbrengen van het Inspectierapport van belang, maar de situatie ten tijde van de aanwijzing. De minister heeft de situatie op het moment dat hij de aanwijzing gaf terecht ‘ex nunc’ getoetst. Dat betekent dat de minister alle feiten die op het moment van het nemen van de aanwijzing bekend waren, heeft meegewogen. Ook het rapport van de instellingsaccountant was toen bekend en is door de minister meegewogen. De vraag welke betekenis aan dit rapport toekomt, zal aan de orde komen bij de beoordeling van de verwijten over het financieel beheer.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De eerste pijler van de aanwijzing</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De burgerschapsopdracht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>27. In de aanwijzing staat dat SIO niet heeft voldaan aan de burgerschapsopdracht van artikel 17, aanhef en onder b, van de Wvo. Die opdracht houdt onder andere in dat het onderwijs mede is gericht op het bevorderen van actief burgerschap en sociale integratie. De minister vindt dat de school haar onderwijsaanbod niet afstemt op de achtergrond van de leerlingenpopulatie, terwijl dat wel haar taak is. Daarnaast vindt de minister het zorgelijk dat SIO personen op de school toelaat die een anti-integratief en antidemocratisch gedachtegoed aanhangen en uitdragen. Daardoor bestaat het risico dat leerlingen van de school in aanraking komen met dat gedachtegoed. Er zijn geen maatregelen om uit te sluiten dat leerlingen vanuit de school onder de invloedssfeer komen van personen met dat gedachtegoed. De directeur-bestuurder weigert om afstand te nemen van deze personen en in het onderwijs wordt ook niet uitgewerkt hoe tegenwicht wordt geboden aan dit gedachtegoed. Daarmee creëert SIO risico’s voor de burgerschapsvorming van leerlingen. De minister vindt dat SIO in strijd met de burgerschapsopdracht heeft gehandeld en daarmee onvoldoende zorg heeft gedragen voor de kwaliteit van het onderwijs.<footnote-ref linkend="_37268be6-362f-4497-a2f9-ddd1ba4d1682" /> Daardoor is SIO ernstig nalatig om maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de goede kwaliteit en goede voortgang van het onderwijs aan de school en is sprake van wanbeheer.<footnote-ref linkend="_20a446f6-8263-42b7-9114-65c9cae0adb4" /></para>
+    <para />
+    <para>28. SIO betoogt dat zij niet in strijd met de burgerschapsopdracht heeft gehandeld. Uit een uitspraak van de Afdeling Bestuursrechtspraak van de Raad van State (de Afdeling) volgt namelijk dat het bevoegd gezag alleen in strijd met de burgerschapsopdracht handelt indien het op geen enkele wijze gestalte heeft gegeven aan burgerschapsonderwijs.<footnote-ref linkend="_05c7a9ff-0776-4413-890c-07db98dd711b" /> Er wordt echter burgerschapsonderwijs op de school gegeven. De school volgt het standaardcurriculum. In het standaardcurriculum wordt aandacht geschonken aan bijvoorbeeld antidemocratisch gedachtegoed. Door het volgen van het standaardcurriculum, wordt volgens SIO voldoende afgestemd op de leerlingenpopulatie. SIO staat niet toe dat op school antidemocratisch gedachtegoed wordt uitgedragen. Een ieder op de school dient zich aan het vastgestelde curriculum te houden. SIO betoogt voorts dat zij de risico’s wel adresseert, maar niet door uitdrukkelijk afstand te nemen van personen met omstreden gedachtegoed. De ouders van de leerlingen hebben uiteenlopende opvattingen. Wanneer de school tegenover de leerlingen uitdrukkelijk afstand zou nemen van bepaalde personen of van hun gedachtegoed, zou dit mogelijk op verzet stuiten bij de ouders. De school heeft er daarom voor gekozen om een neutrale houding aan te nemen en om de leerlingen via het curriculum op school te onderwijzen over actief burgerschap. De nadruk ligt daarbij op het geven van het goede voorbeeld en niet op het uitdrukkelijk afwijzen van opvattingen die niet passen binnen de waarden van de school. De keuze om dit op deze manier te doen, is volgens SIO onderdeel van de vrijheid van onderwijs. Er is geen wettelijke grondslag voor de nadere eisen die de minister aan het burgerschapsonderwijs stelt. </para>
+    <para />
+    <para>29. De rechtbank overweegt als volgt. De burgerschapsopdracht is met ingang van 1 februari 2006 aan artikel 17 van de Wvo toegevoegd.<footnote-ref linkend="_a9a22f7c-7c2a-48be-8dba-c5d275496147" /> Van belang is dat de burgerschapsopdracht een algemene opdracht inhoudt. De burgerschapsopdracht is niet nader uitgewerkt in kerndoelen of leerdoelen en ook niet op een andere manier nader geconcretiseerd. Verder is van belang dat uit de parlementaire geschiedenis over de wijziging van artikel 17 van de Wvo blijkt dat de wetgever heeft stilgestaan bij de vraag hoe de burgerschapsopdracht zich verhoudt tot de vrijheid van onderwijs, zoals neergelegd in artikel 23 van de Grondwet. Herhaaldelijk heeft de wetgever benadrukt dat de verplichting om burgerschapsvorming te verzorgen de onderwijsvrijheid ongemoeid laat en ook dat scholen een grote vrijheid hebben bij de invulling van de burgerschapsopdracht.<footnote-ref linkend="_fc8e3c32-1b04-4ca8-a2a3-9cc177513720" /></para>
+    <para />
+    <para>30. De Afdeling heeft in de door SIO genoemde uitspraak over de basisschool As Siddieq een oordeel gegeven over de burgerschapsopdracht in artikel 8, derde lid, aanhef en onder b, van de Wet op het primair onderwijs (WPO). Artikel 8, derde lid, van de WPO is inhoudelijk gelijk aan artikel 17 van de Wvo. De wetgever heeft de burgerschapsopdracht op hetzelfde moment en met dezelfde toelichting toegevoegd aan beide bepalingen. De Afdeling heeft uit de totstandkomingsgeschiedenis van artikel 8, derde lid, aanhef en onder b, van de WPO, afgeleid dat die bepaling aan scholen veel vrijheid laat bij het vormgeven aan de doelstellingen van burgerschapsvorming en integratie, en dat het bevoegd gezag daarmee alleen in strijd handelt indien het op geen enkele wijze gestalte heeft gegeven aan onderwijs dat mede is gericht op het bevorderen van actief burgerschap en sociale integratie. De Afdeling heeft hierbij verwezen naar de parlementaire geschiedenis waaruit naar voren komt dat de wetgever uitdrukkelijk niet heeft bepaald ‘hoe’ scholen gestalte aan de opdracht tot burgerschapsvorming moeten geven, maar alleen ‘dat’ er gestalte aan moet worden gegeven.</para>
+    <para />
+    <para>31. De rechtbank gaat er gelet op het voorgaande van uit dat een bevoegd gezag in beginsel alleen in strijd handelt met de burgerschapsopdracht van artikel 17 Wvo indien het bevoegd gezag op geen enkele wijze gestalte heeft gegeven aan onderwijs dat mede is gericht op het bevorderen van actief burgerschap en sociale integratie. </para>
+    <para />
+    <para>32. De rechtbank stelt vast dat niet in geschil is dat SIO met het op de school gegeven onderwijs in elk geval op enige wijze invulling heeft gegeven aan de burgerschapsopdracht. De concrete invulling vindt plaats via reguliere schoolvakken, zoals geschiedenis en biologie (waaronder het thema seksuele diversiteit) en excursies. In essentie komen de verwijten van de minister er op neer dat SIO méér zou moeten doen en op een andere manier invulling zou moeten geven aan de burgerschapsopdracht. Zoals hiervoor onder rechtsoverweging 30 is overwogen is de wijze waarop een school invulling wenst te geven aan de burgerschapsopdracht echter vrij. De eisen die de minister aan SIO wil stellen, reiken verder dan waartoe de burgerschapsopdracht van artikel 17 van de Wvo strekt. Het verwijt van de minister dat de kwaliteit van het burgerschapsonderwijs op de school tekort schiet, is dan ook niet terecht.</para>
+    <para />
+    <para>33. De rechtbank volgt de minister ook niet in zijn standpunt dat de school openlijk afstand moet nemen van personen met een omstreden gedachtegoed en omstreden gedachtegoed met de leerlingen moet bespreken. Hoe een school hiermee om zou moeten gaan, is namelijk niet in de burgerschapsopdracht van artikel 17 van de Wvo vastgelegd. De keuzes die SIO hierin maakt, vallen onder de vrijheid van onderwijs.</para>
+    <para />
+    <para>34. Als het gaat om de door de minister gestelde risico’s rond ongewenste beïnvloeding van leerlingen, heeft de minister verwezen naar vijf personen. Op de zitting heeft de minister toegelicht dat, gelet op het verschil in betrokkenheid van de verschillende personen bij de school, het zwaartepunt ligt bij persoon 1 en 2. </para>
+    <para />
+    <para>35. Over persoon 1 heeft de rechtbank eerder in deze uitspraak geoordeeld dat in de analyse van de NCTV onvoldoende is onderbouwd dat deze persoon antidemocratisch en anti-integratief gedachtegoed uitdraagt. Ook heeft de Inspectie geen aanwijzingen dat deze persoon zich in de school uit op een wijze die in strijd is met de basiswaarden van de democratische rechtsstaat of integratie tegengaat. De betrokkenheid van persoon 2 bij de school is in maart 2019 (een half jaar voor de aanwijzing) geëindigd. De betrokkenheid van persoon 3 en 4 bij de school is zodanig gering geweest dat aan die betrokkenheid in dit verband geen noemenswaardige betekenis toekomt. Voor wat betreft de vijfde persoon, de vrijwilliger, heeft de minister naar het oordeel van de rechtbank onvoldoende gesteld en/of onderbouwd dat deze persoon omstreden gedachtegoed aanhangt en uitdraagt. Bovendien is van geen van de vijf personen gebleken dat zij op de school omstreden gedachtegoed hebben uitgedragen. </para>
+    <para />
+    <para>36. In dit kader is verder van belang dat uit het Inspectierapport onder meer blijkt dat in het onderwijsaanbod noch in uitingen van docenten inhouden zijn aangetroffen die in strijd zijn met de basiswaarden van de democratische rechtstaat, zoals gelijkwaardigheid of verdraagzaamheid. Ook verder zijn er geen aanwijzingen dat leerlingen of personeel vanuit de school zijn blootgesteld aan opvattingen die in strijd zijn met deze basiswaarden of dat sprake is van een klimaat dat is gericht op afzijdigheid van de Nederlandse samenleving, aanzet tot onverdraagzaamheid, of het tegengaan van integratie.</para>
+    <para />
+    <para>37. Gelet op bovenstaande overwegingen is ook geen sprake van zodanige risico’s voor wat betreft de ongewenste beïnvloeding van leerlingen dat moet worden gezegd dat de opstelling van SIO in strijd komt met de burgerschapsopdracht. Naar het oordeel van de rechtbank is er in dit geval dus geen reden om af te wijken van het uitgangspunt dat voldaan is aan de burgerschapsopdracht als er op enige manier gestalte is gegeven aan burgerschapsonderwijs. </para>
+    <para />
+    <para>38. Dit leidt tot de conclusie dat de minister onterecht heeft gesteld dat SIO niet heeft voldaan aan de burgerschapsopdracht. Er is op dit punt dus geen sprake van wanbeheer. De aanwijzing kan daarom hierop niet gebaseerd worden.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Intern toezicht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>39. In de aanwijzing staat dat het interne toezicht ernstig tekortschiet. Op de zitting is namens de minister bevestigd dat het tekortschietend intern toezicht ook een zelfstandig verwijt is en daarom ook zelfstandig kwalificeert als wanbeheer in de zin van artikel 103g, tweede lid, onder b, van de Wvo. Volgens de minister functioneert de intern toezichthouder niet onafhankelijk genoeg van de directeur-bestuurder<footnote-ref linkend="_4a9f4ff4-6cf1-4cc2-b69f-11370dbaef51" /> en voert de interne toezichthouder een aantal van zijn wettelijke taken niet uit<footnote-ref linkend="_31fb709b-b9e5-4f76-a38e-139cf09e9ac5" />. De minister vindt, samengevat, dat de interne toezichthouders feitelijk geen tegenwicht (kunnen) bieden aan de directeur-bestuurder. </para>
+    <para />
+    <para>40. SIO stelt zich op het standpunt dat het interne toezicht wél in orde is. Zij bestrijdt de diverse feitelijke verwijten die de Inspectie en de minister in dit verband hebben gemaakt. Die verwijten zijn volgens SIO niet terecht. </para>
+    <para />
+    <para>41. De minister is in het verweerschrift niet specifiek ingegaan op de argumentatie die SIO in de beroepsgronden naar voren heeft gebracht over de diverse feitelijke verwijten met betrekking tot het onvoldoende onafhankelijk functioneren van de intern toezichthouder en het niet uitvoeren van wettelijke taken.</para>
+    <para />
+    <para>42. De rechtbank overweegt dat in het midden kan blijven of de intern toezichthouder onafhankelijk functioneert van het dagelijks bestuur en of de intern toezichthouder bepaalde wettelijke taken wel of niet uitvoert. Ook als het interne toezicht niet of niet geheel zou voldoen aan de daaraan te stellen eisen, betekent dat nog niet dat sprake is van de vorm van wanbeheer die is genoemd in artikel 103g, tweede lid, onder b, van de Wvo. Voor het aannemen van deze vorm van wanbeheer is namelijk ook vereist dat door het nalaten van het bevoegd gezag de kwaliteit van het stelsel van het voortgezet onderwijs in gevaar komt. De minister heeft onvoldoende onderbouwd dat dit het geval is. Zonder nadere uitleg is niet duidelijk waarom de vermeende nalatigheid bij SIO zodanige negatieve consequenties heeft op het niveau van de kwaliteit van het (gehele) voortgezet onderwijsstelsel dat de kwaliteit van dat stelsel in gevaar komt. Daarom is naar het oordeel van de rechtbank niet komen vast te staan dat op dit punt sprake is van wanbeheer. De aanwijzing kan daarom ook niet op dit verwijt gebaseerd worden.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie over de eerste pijler van de aanwijzing</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>43. De minister heeft zich ten onrechte op het standpunt gesteld dat sprake is van wanbeheer als omschreven in artikel 103g, tweede lid, onder b, van de Wvo. De eerste pijler waarop de aanwijzing is gebaseerd, blijft dus niet overeind. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De tweede pijler van de aanwijzing (het financieel beheer)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>44. De minister heeft zich op het standpunt gesteld dat ook de tweede pijler de onderdelen 1 tot en met 7 van de aanwijzing, zijnde de opdracht om het bestuur te vervangen, zelfstandig kan dragen. </para>
+    <para />
+    <para>45. In de aanwijzing staat dat de minister vindt dat sprake is van wanbeheer, vanwege de optelsom van alle tekortkomingen die de Inspectie op financieel vlak heeft vastgesteld. Dit wanbeheer bestaat volgens de minister uit financieel wanbeleid, ongerechtvaardigde verrijking en onrechtmatig handelen.<footnote-ref linkend="_ef547bf6-0d4d-4cff-81fd-dab4585f1669" /></para>
+    <para />
+    <para>46. SIO voert aan dat het financieel beheer wel op orde is. Ter onderbouwing verwijst SIO naar de goedkeuring van haar accountant van de jaarrekeningen over 2017 en 2018. Het gaat om een gerenommeerd en gespecialiseerd accountantskantoor dat de jaarrekening van meer dan 100 scholen controleert. Alleen de overschrijding van de op grond van de Wet Normering Topinkomens vastgestelde maximale bezoldiging van de directeur-bestuurder (de WNT-norm) over het jaar 2017 en 2018 was onrechtmatig, maar dat heeft SIO intussen gecorrigeerd. De gemachtigde van SIO heeft op de zitting erkend dat ook de vacatiegelden over de periode vóór augustus 2017 niet betaald hadden mogen worden van de bekostiging door de overheid.</para>
+    <para />
+    <para>47. De rechtbank stelt vast dat SIO in haar beroepschrift heeft vermeld dat zij haar standpunt ook onderbouwt door te verwijzen naar stukken uit eerdere procedures. De rechtbank laat deze stukken buiten beschouwing, omdat SIO de gronden uit deze stukken niet nader heeft geconcretiseerd in haar beroepschrift. De rechtbank beperkt zich dus tot de concrete gronden in het beroepschrift en het aanvullend beroepschrift.</para>
+    <para />
+    <para>48. De rechtbank zal hierna eerst ingaan op de door de minister gestelde tekortkomingen op grond van artikel 103g, tweede lid, onder c en d, van de Wvo (onrechtmatig handelen en ongerechtvaardigde verrijking) en daarna ingaan op de gestelde tekortkomingen op grond van artikel 103g, tweede lid, onder a, van de Wvo (financieel wanbeleid). </para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Onrechtmatig handelen en ongerechtvaardigde verrijking?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>49. Ingevolge artikel 49, tweede lid, van de Wvo dient het schoolbestuur zorg te dragen voor een deskundig beheer. In artikel 99 van de Wvo is vastgelegd op welke wijze de aan een school door de overheid verstrekte bekostiging besteed mag worden. De minister kwalificeert in de aanwijzing verschillende uitgaven van SIO die van de bekostiging gedaan zijn als onrechtmatig en/of als zelfverrijking, omdat die uitgaven zouden zijn gedaan in strijd met artikel 99 van de Wvo.</para>
+    <para />
+    <para>50. De rechtbank stelt het volgende vast. Partijen zijn het erover eens dat de bezoldiging van de directeur-bestuurder, voor zover deze de WNT-norm in 2017 en 2018 te boven ging, en de uitbetaling van vacatiegelden aan het bestuur over de periode van januari tot en met juli 2017 niet in overeenstemming met artikel 99 van de Wvo waren. Dat betekent dat deze uitgaven niet rechtmatig zijn geweest. Over de ernst hiervan overweegt de rechtbank als volgt. De overschrijding van de WNT-norm ontstond door het uitbetalen van overwerk aan de directeur-bestuurder en het uitbreiden van zijn functie naar 1,2 fte. Nadat de accountant SIO hierop had gewezen, heeft het bestuur dit meteen rechtgezet. Inmiddels heeft de directeur-bestuurder de bedragen die hij te veel had ontvangen, ook terugbetaald. De Inspectie was al in het najaar van 2018 van deze uitgaven op de hoogte, maar heeft daar in het concept-rapport van 16 november 2018 geen consequenties aan verbonden. Hieruit maakt de rechtbank op dat de Inspectie deze onrechtmatige uitgaven niet als (heel) ernstig heeft beschouwd. </para>
+    <para />
+    <para>51. Met betrekking tot alle andere uitgaven waarvan de minister heeft gesteld dat deze in strijd met artikel 99 van de Wvo zijn gedaan, zijn partijen het er niet over eens of deze wel of niet rechtmatig zijn geweest. Volgens SIO heeft zij alle posten die de minister in twijfel heeft getrokken nogmaals met de accountant besproken. Na controle van de jaarrekeningen heeft de instellingsaccountant van SIO geconcludeerd dat deze uitgaven wel rechtmatig zijn geweest. De rechtbank heeft op de zitting gevraagd hoe het kan dat de Inspectie tot een ander oordeel komt dan de instellingsaccountant betreffende de rechtmatigheid van bepaalde uitgaven. Volgens de minister heeft dat er onder meer mee te maken dat er een interpretatieverschil kan bestaan over wat er onder artikel 99 van de Wvo valt. </para>
+    <para />
+    <para>52. De rechtbank acht van belang dat de instellingsaccountant de jaarrekeningen van SIO heeft goedgekeurd en de betreffende uitgaven niet in strijd acht met artikel 99 van de Wvo. Van belang acht de rechtbank voorts dat de gemachtigde van de minister op de zitting heeft opgemerkt dat de minister onderzoek heeft gedaan naar deze instellingsaccountant en dat uit dat onderzoek is gebleken dat de instellingsaccountant zijn werk goed heeft uitgevoerd. Kennelijk zijn er interpretatieverschillen over de toepassing van artikel 99 van de Wvo mogelijk. Tegen deze achtergrond is de rechtbank van oordeel dat van de minister had mogen worden verwacht dat hij nader had geconcretiseerd waarom de betreffende uitgaven toch in strijd zijn met artikel 99 van de Wvo. Dat heeft de minister niet gedaan. Dit klemt te meer omdat de Inspectie in het eerdere rapport van november 2018 de financiële continuïteit en rechtmatigheid als voldoende had beoordeeld. In dat rapport is toen niet geconstateerd dat er uitgaven zijn die in strijd zouden zijn met artikel 99 van de Wvo. Het voorgaande betekent dat, afgezien van de overschrijding van de WNT-norm en de over de periode vóór augustus 2017 betaalde vacatiegelden, de minister niet aannemelijk heeft gemaakt dat SIO uitgaven </para>
+    <para>heeft gedaan die in strijd zijn met artikel 99 van de Wvo.</para>
+    <para />
+    <para>53. Gelet op het hiervoor gegeven oordeel resteren er in het kader van de door de minister gestelde tekortkomingen op grond van artikel 103g, tweede lid, onder c en d, van de Wvo nog drie uitgaven van de school die de rechtbank moet bespreken. </para>
+    <para>1. Over het uitbetalen van een factuur van € 24.540,- aan de directeur-bestuurder (voor meerdere kosten die de directeur-bestuurder eerder had gemaakt) heeft de minister (subsidiair) gesteld dat voor een deel van dit bedrag facturen ter onderbouwing van verrichte werkzaamheden ontbreken en dat daarnaast voor het gehele bedrag objectief bewijs van betaling door de directeur-bestuurder ontbreekt. De rechtbank is met de minister van oordeel dat SIO deze uitgave onvoldoende heeft onderbouwd, zodat ervan uit moet worden gegaan dat deze uitgave niet rechtmatig is geweest.</para>
+    <para>2. Aan de beleidsmedewerker (de broer van de directeur-bestuurder) is over 2018 een overwerkvergoeding van € 812,91 betaald. Hierover heeft de minister gesteld dat een overurenstaat ontbreekt, zodat niet is vast te stellen of dit een rechtmatige besteding is. Aangezien SIO geen onderbouwing van de overuren heeft gegeven, is de rechtbank ook op dit punt met de minister van oordeel dat deze uitgave onvoldoende is onderbouwd en deze uitgave daarom niet rechtmatig is geweest.</para>
+    <para>3. SIO heeft een externe administrateur ingeschakeld, die het bestuur heeft geadviseerd en toezicht heeft gehouden op de financiële administratie. De minister verwijt SIO dat de externe administrateur te veel uitbetaald heeft gekregen, en zijn tarief niet in lijn ligt met tarieven die normaal gesproken voor dit soort werkzaamheden worden gerekend. De rechtbank vindt de uitgaven voor de inschakeling van de administrateur niet onrechtmatig. Het gehanteerde tarief is niet in strijd met enige rechtsregel en er is een onderbouwing voor de in rekening gebrachte uren. Ook heeft de minister onvoldoende onderbouwd waarom dit een vorm van ongerechtvaardigde verrijking zou zijn. </para>
+    <para />
+    <para>54. De rechtbank concludeert dat de minister terecht heeft vastgesteld dat de volgende uitgaven onrechtmatig zijn: overschrijding van de WNT-norm in 2017 en 2018, het uitbetalen van vacatiegelden over de periode vóór augustus 2017, het betalen van de factuur van € 24.540,- aan de directeur-bestuurder en het vergoeden van het overwerk van de beleidsmedewerker over 2018. Deze uitgaven zijn ook aan te merken als ongerechtvaardigde verrijking. Daarmee is sprake van wanbeheer in de zin van artikel 103g, aanhef en onder c en d, van de Wvo. Daarnaast moet worden geoordeeld dat het toezicht ten aanzien van deze uitgaven niet toereikend geweest.<footnote-ref linkend="_a1a1cd42-b982-46dd-9062-90ee1c3ce4a4" /></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Financieel wanbeleid?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>55. De minister heeft gesteld dat sprake is van financieel wanbeleid.<footnote-ref linkend="_ac76a393-27ce-47b3-b2d0-2383f95366a2" /> Zo voldoet SIO volgens de minister niet aan de verplichting om een nauwkeurige boekhouding bij te houden.<footnote-ref linkend="_11a7f997-62af-4f19-afe5-a16e5e2c51c3" /> De kasprocedure is namelijk van onvoldoende niveau, waardoor kasverschillen kunnen ontstaan en zijn ontstaan. Ook ontbreekt de continuïteitsparagraaf in het jaarverslag van 2017.<footnote-ref linkend="_1a75e55e-da96-4e49-ae88-b6645da79c71" /> De toezichthouder evalueert en beoordeelt niet jaarlijks het functioneren van het bestuur. Ook ontbreekt een verantwoording omtrent de naleving en afwijking van de Code goed bestuur VO. De minister vindt dat het falend intern toezicht bijdraagt aan het oordeel dat sprake is van financieel wanbeleid bij de school.</para>
+    <para />
+    <para>56. SIO heeft erop gewezen dat er een kasprocedure is en volgens de Inspectie slechts sprake was van een gering kasverschil. Dat in het jaarverslag over 2017 de continuïteitsparagraaf ontbrak, is een boekhoudkundige onvolkomenheid en is in het jaarverslag over 2018 hersteld. Datzelfde geldt voor het feit dat een verantwoording omtrent de naleving en afwijking van de Code goed bestuur VO en een verantwoording omtrent de naleving van de aanbestedingsregels ontbreekt. </para>
+    <para />
+    <para>57. De rechtbank overweegt als volgt. Allereerst is van belang dat in het conceptrapport van de Inspectie van 16 november 2018 – op basis van nagenoeg dezelfde feiten en omstandigheden en dezelfde bestuursstructuur – nog is gesteld dat de kwaliteitszorg van het bestuur van voldoende kwaliteit is en er sprake is van deugdelijk financieel beheer. Ook de financiële rechtmatigheid is in orde bevonden. Op de korte en middellange termijn worden door de Inspectie verder geen risico’s gezien voor de financiële continuïteit van SIO. Er worden twee herstelopdrachten aan het bestuur gegeven (waarvan een voor wat betreft de Code goed bestuur) en een aantal aanbevelingen (die zien onder meer op een uitbreiding van het bestuur met bestuurlijke en financiële expertise). Voor wat betreft het toezicht merkt de Inspectie nog op dat het bestuur en de school een professionele kwaliteitscultuur kennen en transparant en integer functioneren. Dit positieve oordeel staat haaks op de stelling in het Inspectierapport en de aanwijzing dat sprake is van falend intern toezicht en financieel wanbeleid. De minister heeft ook desgevraagd ter zitting niet duidelijk kunnen maken welke (nieuwe) feiten of omstandigheden thans de conclusie van financieel wanbeleid kunnen dragen. De rechtbank merkt daarbij op dat ook de instellingsaccountant de jaarrekeningen goedgekeurd heeft. Voorzover bijvoorbeeld het kasverschil en/of de kasprocedure niet door de accountant of de Inspectie is bekeken overweegt de rechtbank dat een aantal punten wellicht zijn aan te merken als een administratieve tekortkoming. Dat rechtvaardigt echter niet de conclusie financieel wanbeleid. Deze tekortkomingen zijn, ook als deze in samenhang worden bezien met de omstandigheid dat een aantal uitgaven niet rechtmatig was en dat het toezicht daarop niet optimaal heeft gefunctioneerd, onvoldoende zwaarwegend voor de conclusie dat SIO in strijd heeft gehandeld met artikel 97, eerste lid, van de Wvo. Van het verwaarlozen van de financiële huishouding en administratie of het grovelijk verwaarlozen van taken met betrekking tot het financieel beheer is geen sprake. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie over de tweede pijler</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>58. Er is sprake van wanbeheer in de zin van artikel 103g, tweede lid, onder c en d, van de Wvo (ongerechtvaardigde verrijking en onrechtmatig handelen). Van wanbeheer in de zin van artikel 103g, tweede lid, onder a, van de Wvo (financieel wanbeleid) is geen sprake.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Evenredigheid van de aanwijzing</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>59. Voor het geven van een aanwijzing is allereerst vereist dat sprake is van wanbeheer. Vervolgens is de vraag of de minister ook gebruik mocht maken van zijn bevoegdheid tot het geven van een aanwijzing. Dit is een discretionaire bevoegdheid. Dit betekent dat het in eerste instantie aan de minister is om af te wegen of hij een aanwijzing geeft. De rechtbank beoordeelt dan of de minister redelijkerwijs gebruik heeft kunnen maken van zijn bevoegdheid. Dit is een terughoudende toets. De aanwijzing moet voorts evenredig zijn aan het doel waarvoor zij wordt gegeven. De evenredigheid van de aanwijzing toetst de rechtbank zonder terughoudendheid.</para>
+    <para />
+    <para>60. De rechtbank heeft hiervoor vastgesteld dat sprake is van wanbeheer. Aan de eerste voorwaarde om een aanwijzing te kunnen geven, is dus voldaan. </para>
+    <para />
+    <para>61. In het midden kan blijven of de minister in dit geval in redelijkheid gebruik heeft kunnen maken van zijn bevoegdheid om aan SIO een aanwijzing te geven. De rechtbank vindt namelijk in elk geval de concrete aanwijzing waarvoor de minister in deze situatie heeft gekozen niet evenredig. Uit de totstandkomingsgeschiedenis volgt dat een aanwijzing alleen in beeld komt als ultimum remedium bij de meest problematische gevallen.<footnote-ref linkend="_765a780a-bc9c-4314-900e-75b1745b537f" /> Ook volgt uit de parlementaire geschiedenis dat een aanwijzing pas ingezet kan worden als het met andere middelen niet is gelukt de situatie te verbeteren.<footnote-ref linkend="_a9f758fe-7523-477e-9085-76baec3d0665" /> De door de minister gegeven aanwijzing tot vervanging van het voltallige bestuur is de zwaarst mogelijke en meest ingrijpende aanwijzing die denkbaar is. De rechtbank vindt dat een dergelijke aanwijzing niet in verhouding staat tot het door de rechtbank vastgestelde wanbeheer. Het in deze uitspraak vastgestelde wanbeheer (zie hiervoor rechtsoverweging 54) is in de eerste plaats immers aanzienlijk minder omvattend en minder ernstig dan de verwijten die de minister aan SIO heeft gemaakt. In de tweede plaats geldt het volgende. De minister heeft er voor gekozen om het verbetertraject in de vorm van aanbevelingen en herstelopdrachten van de Inspectie niet af te wachten. Mede gelet op de wetsgeschiedenis had SIO naar het oordeel van de rechtbank in dit geval de kans moeten krijgen om via een verbetertraject de situatie te verbeteren. Niet is gebleken dat SIO niet op die manier had kunnen worden bewogen om verbeteringen door te voeren. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>62. De minister had de aanwijzing niet mogen geven aan SIO. De rechtbank vernietigt daarom de aanwijzing. Met deze vernietiging is de aanwijzing om het schoolbestuur te vervangen van tafel.</para>
+    <para />
+    <para>63. Dit betekent dat het beroep gegrond is. SIO krijgt dus gelijk.</para>
+    <para />
+    <para>64. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat de minister aan SIO het door haar betaalde griffierecht vergoedt.</para>
+    <para />
+    <para>65. De rechtbank veroordeelt de minister in de door SIO gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en een wegingsfactor 1).</para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het aanwijzingsbesluit van 16 september 2019;</para>
+      </listitem>
+      <listitem>
+        <para>draagt de minister op het betaalde griffierecht van € 345,- aan SIO te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt de minister in de proceskosten van SIO tot een bedrag van € 1.050,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.F. de Lemos Benvindo, voorzitter, en mr. C.A.E. Wijnker en mr. J.T. Kruis, leden, in aanwezigheid van mr. M.L. Pijpers, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 20 januari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift uitgereikt aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para />
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage regelgeving</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Grondwet</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 23</para>
+    </parablock>
+    <para>1. Het onderwijs is een voorwerp van de aanhoudende zorg der regering.</para>
+    <para>2. Het geven van onderwijs is vrij, behoudens het toezicht van de overheid en, voor wat bij de wet aangewezen vormen van onderwijs betreft, het onderzoek naar de bekwaamheid en de zedelijkheid van hen die onderwijs geven, een en ander bij de wet te regelen.</para>
+    <para>3. Het openbaar onderwijs wordt, met eerbiediging van ieders godsdienst of levensovertuiging, bij de wet geregeld.</para>
+    <para>4. In elke gemeente en in elk van de openbare lichamen, bedoeld in artikel 132a, wordt van overheidswege voldoend openbaar algemeen vormend lager onderwijs gegeven in een genoegzaam aantal openbare scholen. Volgens bij de wet te stellen regels kan afwijking van deze bepaling worden toegelaten, mits tot het ontvangen van zodanig onderwijs gelegenheid wordt gegeven, al dan niet in een openbare school.</para>
+    <para>5. De eisen van deugdelijkheid, aan het geheel of ten dele uit de openbare kas te bekostigen onderwijs te stellen, worden bij de wet geregeld, met inachtneming, voor zover het bijzonder onderwijs betreft, van de vrijheid van richting.</para>
+    <para>6. Deze eisen worden voor het algemeen vormend lager onderwijs zodanig geregeld, dat de deugdelijkheid van het geheel uit de openbare kas bekostigd bijzonder onderwijs en van het openbaar onderwijs even afdoende wordt gewaarborgd. Bij die regeling wordt met name de vrijheid van het bijzonder onderwijs betreffende de keuze der leermiddelen en de aanstelling der onderwijzers geëerbiedigd.</para>
+    <para>7. Het bijzonder algemeen vormend lager onderwijs, dat aan de bij de wet te stellen voorwaarden voldoet, wordt naar dezelfde maatstaf als het openbaar onderwijs uit de openbare kas bekostigd. De wet stelt de voorwaarden vast, waarop voor het bijzonder algemeen vormend middelbaar en voorbereidend hoger onderwijs bijdragen uit de openbare kas worden verleend.</para>
+    <para>8. De regering doet jaarlijks van de staat van het onderwijs verslag aan de Staten-Generaal.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wet op het voortgezet onderwijs</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 17. Onderwijs in een pluriforme samenleving; burgerschap; sociale integratie</para>
+      <para>Het onderwijs:</para>
+    </parablock>
+    <para>a.	gaat er mede van uit dat leerlingen opgroeien in een pluriforme samenleving,</para>
+    <para>b.	is mede gericht op het bevorderen van actief burgerschap en sociale integratie, en</para>
+    <para>c.	is er mede op gericht dat leerlingen kennis hebben van en kennismaken met verschillende achtergronden en culturen van leeftijdgenoten.</para>
+    <para />
+    <parablock>
+      <para>Artikel 23a. Kwaliteit onderwijs</para>
+      <para>Het bevoegd gezag draagt zorg voor de kwaliteit van het onderwijs op de school. Onder zorg dragen voor de kwaliteit van het onderwijs wordt in elk geval verstaan het naleven van de bij of krachtens deze wet gegeven voorschriften en het uitvoeren van het stelsel van kwaliteitszorg, bedoeld in artikel 24, vierde lid.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 24d. Scheiding toezicht en bestuur</para>
+    </parablock>
+    <para>1. Het bevoegd gezag draagt mede in verband met de verplichting, bedoeld in artikel 23a, zorg voor een goed bestuurde school met een scheiding tussen de functies van bestuur en het toezicht daarop, en met een rechtmatig bestuur en beheer.</para>
+    <para>2. De benoeming in de functies van het bestuur en het interne toezicht op het bestuur, bedoeld in het eerste lid, geschiedt op basis van vooraf openbaar gemaakte profielen. Bij de benoeming van de leden van de raad van toezicht wordt de medezeggenschapsraad van de school, bedoeld in artikel 3 van de Wet medezeggenschap op scholen, in de gelegenheid gesteld een bindende voordracht te doen voor een lid. Bij de benoeming van de leden van de raad van toezicht van het samenwerkingsverband wordt de ondersteuningsplanraad, bedoeld in artikel 4a van de Wet medezeggenschap op scholen, in de gelegenheid gesteld een bindende voordracht te doen voor een lid.</para>
+    <para>3. Het eerste lid en het tweede lid, eerste volzin, zijn van overeenkomstige toepassing op een samenwerkingsverband.</para>
+    <para />
+    <parablock>
+      <para>Artikel 24e. Intern toezicht</para>
+    </parablock>
+    <para>1. Het bevoegd gezag draagt er zorg voor dat de functies van bestuur en intern toezicht op het bestuur in functionele of organieke zin zijn gescheiden.</para>
+    <para>2. Een intern toezichthouder of een lid van het interne toezichthoudend orgaan functioneert onafhankelijk van het bestuur.</para>
+    <para>3. Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband.</para>
+    <para />
+    <parablock>
+      <para>Artikel 24e1. Inhoud intern toezicht</para>
+    </parablock>
+    <para>1. De interne toezichthouder of het interne toezichthoudend orgaan houdt toezicht op de uitvoering van de taken en de uitoefening van de bevoegdheden door het bestuur en staat het bestuur met raad terzijde. De toezichthouder of het toezichthoudend orgaan is ten minste belast met:</para>
+    <para>a.	het goedkeuren van de begroting en het jaarverslag en, indien van toepassing, het strategisch meerjarenplan van de school;</para>
+    <para>b.	het toezien op de naleving door het bestuur van wettelijke verplichtingen, de code voor goed bestuur, bedoeld in artikel 103, eerste lid, onderdeel a, en de afwijkingen van die code;</para>
+    <para>c.	het toezien op de rechtmatige verwerving en de doelmatige en rechtmatige bestemming en aanwending van de middelen van de school verkregen op grond van deze wet;</para>
+    <para>d.	het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek die verslag uitbrengt aan de toezichthouder of het toezichthoudend orgaan, en</para>
+    <para>e.	het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met d, in het jaarverslag.</para>
+    <para>2. De taken en bevoegdheden van de interne toezichthouder of het interne toezichthoudend orgaan zijn zodanig dat hij een deugdelijk en onafhankelijk intern toezicht kan uitoefenen. Indien sprake is van meer dan een toezichthouder of van een toezichthoudend orgaan is de eerste volzin van overeenkomstige toepassing met betrekking tot de combinatie van de toezichthouders of de samenstelling van het toezichthoudend orgaan.</para>
+    <para>3. De interne toezichthouder of het interne toezichthoudend orgaan pleegt ten minste tweemaal per jaar overleg met de medezeggenschapsraad.</para>
+    <para>4. Indien het intern toezicht wordt uitgeoefend door een raad van toezicht, zijn het eerste lid en het tweede lid van overeenkomstige toepassing ten aanzien van de raad van toezicht. Een raad van toezicht is tevens belast met het benoemen, schorsen en ontslaan van de leden van het bestuur, alsmede de toepassing van 38a tot en met 39a1, 40a en de daarmee verband houdende wettelijke bepalingen op leden van het bestuur die mede tot het personeel behoren.</para>
+    <para>5. Dit artikel is, met uitzondering van het derde lid, van overeenkomstige toepassing op een samenwerkingsverband. De interne toezichthouder of het interne toezichthoudend orgaan van het samenwerkingsverband pleegt ten minste tweemaal per jaar overleg met de ondersteuningsplanraad, bedoeld in artikel 4a van de Wet medezeggenschap op scholen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 49</para>
+    </parablock>
+    <para>1. De bijzondere school staat onder het bestuur van een rechtspersoon met volledige rechtsbevoegdheid die zich het geven van onderwijs in de zin van deze wet ten doel stelt zonder daarbij het maken van winst te beogen.</para>
+    <para>2. Het schoolbestuur draagt zorg voor een deskundig beheer.</para>
+    <para />
+    <parablock>
+      <para>Artikel 97. Boekhouding bijzonder onderwijs</para>
+    </parablock>
+    <para>1. Het bevoegd gezag van een bijzondere school houdt nauwkeurig boek van de inkomsten en uitgaven.</para>
+    <para>2. Het bevoegd gezag van een bijzondere school geeft desverlangd aan de door Onze minister aangewezen ambtenaren de boeken en bescheiden ter inzage. Het bevoegd gezag is gehouden deze boeken en bescheiden zeven jaren te bewaren.</para>
+    <para />
+    <parablock>
+      <para>Artikel 99. Besteding bekostiging</para>
+    </parablock>
+    <para>1. Het bevoegd gezag besteedt de verstrekte bekostiging en de betaalde bedragen ten behoeve van die school op de wijze zoals aangegeven in het tweede tot en met vijfde lid.</para>
+    <para>2. De voor voorzieningen in de huisvesting betaalde bedragen worden zodanig aangewend dat een behoorlijke en deugdelijke totstandkoming van deze voorzieningen is verzekerd. Indien na realisatie van de in de eerste volzin bedoelde voorzieningen de bedragen niet volledig zijn aangewend, kan het resterende deel daarvan worden aangewend voor de kosten van personeel of voorzieningen in de exploitatie.</para>
+    <para>3. Het voor personeels- en exploitatiekosten betaalde bedrag wordt aangewend voor de kosten van personeel, zoals onderscheiden in de artikelen 32 en 32a, voor voorzieningen in de exploitatie. In geval van een overschot op die bedragen, kan dat overschot worden aangewend voor voorzieningen in de huisvesting.</para>
+    <para>4.	[ Vervallen.]</para>
+    <para>5. De verstrekte overschrijdingsbedragen worden ten behoeve van het onderwijs aan de scholen van het bevoegd gezag aangewend.</para>
+    <para>6. Het bevoegd gezag kan de bedragen, bedoeld in het derde lid, mede aanwenden voor de kosten van personeel of voorzieningen in de exploitatie van:</para>
+    <para>a.	een andere school voor voortgezet onderwijs of een samenwerkingsverband;</para>
+    <para>b.	een verticale scholengemeenschap;</para>
+    <para>c.	een basisschool of een speciale school voor basisonderwijs als bedoeld in de Wet op het primair onderwijs, een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra.</para>
+    <para>7. De op grond van artikel 77a, artikel 96g of artikel 96h verstrekte bekostiging wordt besteed aan het doel waarvoor zij zijn verleend.</para>
+    <para>8. Het bevoegd gezag kan met het bevoegd gezag waarmee het een samenwerkingsovereenkomst heeft gesloten als bedoeld in artikel 25a, derde lid, overeenkomen om vanwege de samenwerking een deel van de bekostiging over te dragen aan het andere bevoegd gezag, bedoeld in het eerste lid van dat artikel.</para>
+    <para>9. Het samenwerkingsverband wendt het totaal van de in de artikelen 85b, 85b1, 89a en 89a1 bedoelde bedragen voor personeelskosten en de materiële instandhouding uitsluitend aan voor personeelskosten en kosten voor materiële instandhouding van het samenwerkingsverband voor ondersteuningsvoorzieningen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 103g. Aanwijzing</para>
+    </parablock>
+    <para>1. Indien sprake is van wanbeheer van een of meer bestuurders of toezichthouders kan Onze Minister de rechtspersoon die de school in stand houdt dan wel het samenwerkingsverband een aanwijzing geven. Een aanwijzing omvat een of meer maatregelen en is evenredig aan het doel waarvoor zij wordt gegeven.</para>
+    <para>2. Onder wanbeheer wordt uitsluitend verstaan:</para>
+    <para>a.	financieel wanbeleid,</para>
+    <para>b.	ernstige nalatigheid om, in ieder geval in strijd met artikel 23a, maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de school en om te voorkomen dat de kwaliteit van het stelsel van voortgezet onderwijs in gevaar komt;</para>
+    <para>c.	ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de school in stand houdt, zichzelf dan wel een derde;</para>
+    <para>d.	onrechtmatig handelen, waaronder wordt verstaan het in de hoedanigheid van bestuurder of toezichthouder handelen in strijd met wettelijke bepalingen waarmee financieel voordeel wordt behaald ten gunste van de rechtspersoon die de school in stand houdt, zichzelf of een derde, en</para>
+    <para>e.	het in ernstige mate verwaarlozen van de zorg voor wat door redelijkheid en billijkheid wordt gevorderd in de omgang met betrokkenen in de schoolorganisatie, waaronder wordt verstaan intimidatie of bedreiging van personeel, leerlingen of ouders door een bestuurder of toezichthouder.</para>
+    <para>3. In de aanwijzing geeft Onze Minister met redenen omkleed aan op welke punten sprake is van wanbeheer alsmede de in verband daarmee te nemen maatregelen.</para>
+    <para>4. Een aanwijzing bevat de termijn waarbinnen het bevoegd gezag aan de aanwijzing moet voldoen.</para>
+    <para>5. Alvorens Onze Minister een aanwijzing als bedoeld in het eerste lid geeft:</para>
+    <para>a.	heeft de inspectie een onderzoek als bedoeld in artikel 11 of artikel 15 van de Wet op het onderwijstoezicht verricht;</para>
+    <para>b.	heeft de inspectie daarover een inspectierapport als bedoeld in artikel 20, eerste lid, van de Wet op het onderwijstoezicht uitgebracht; en</para>
+    <para>c.	stelt Onze Minister de rechtspersoon vervolgens vier weken in de gelegenheid zijn zienswijze met betrekking tot de aanwijzing naar voren te brengen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bekostigingsbesluit WVO</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 18. Jaarrekening</para>
+    </parablock>
+    <para>1. Het bevoegd gezag stelt jaarlijks ten behoeve van de school een jaarrekening vast over het afgelopen jaar.</para>
+    <para>2. In de jaarrekening legt het bevoegd gezag verantwoording af over het financieel beheer. Uit de jaarrekening blijkt dat sprake is van een rechtmatige aanwending van de rijksbekostiging. De jaarrekening omvat mede de gegevens die van belang zijn voor de verantwoording met betrekking tot de besteding van toegekende aanvullende bekostiging.</para>
+    <para>3. Het bevoegd gezag dient de vastgestelde jaarrekening voor 1 juli van het jaar volgend op het boekjaar in bij Onze Minister. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het bevoegd gezag aangewezen accountant. Bij de aanwijzing van de accountant bedingt het bevoegd gezag dat aan Onze Minister op diens verzoek inzage wordt geboden in de controlerapporten en de controledossiers van de accountant.</para>
+    <para>4. Indien het bevoegd gezag meer dan één school in stand houdt, wordt voor deze scholen een gezamenlijke balans en een gezamenlijke exploitatierekening vastgesteld. Bij de jaarrekening is een bijlage gevoegd die inzicht biedt in het bestedingspatroon ten aanzien van de afzonderlijke scholen van het bevoegd gezag.</para>
+    <para>5. Bij ministeriële regeling wordt een model voor de inrichting van de jaarrekening vastgesteld.</para>
+    <para>6. Onze Minister kan een leidraad vaststellen met betrekking tot de inrichting en de uitvoering van de controle door de accountant.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wet op het primair onderwijs</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 8. Uitgangspunten en doelstelling onderwijs</para>
+    </parablock>
+    <para>3. Het onderwijs:</para>
+    <para>a.	gaat er mede van uit dat leerlingen opgroeien in een pluriforme samenleving,</para>
+    <para>b.	is mede gericht op het bevorderen van actief burgerschap en sociale integratie, en</para>
+    <para>c.	is er mede op gericht dat leerlingen kennis hebben van en kennismaken met verschillende achtergronden en culturen van leeftijdgenoten.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wet op het onderwijstoezicht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3. Taken</para>
+    </parablock>
+    <para>1. De inspectie heeft de volgende taken:</para>
+    <para>a.	het toezien op:</para>
+    <parablock>
+      <para>1°.	de naleving van de bij of krachtens een onderwijswet gegeven voorschriften,</para>
+      <para>2°.	de naleving van de bij of krachtens de Wet kinderopvang gegeven voorschriften, voor zover het betreft de voorschoolse educatie op kindercentra,</para>
+    </parablock>
+    <para>b.	het bevorderen van:</para>
+    <parablock>
+      <para>1°.	de ontwikkeling, in het bijzonder van de kwaliteit, van het onderwijs aan en het bestuur van instellingen als bedoeld in de onderwijswetten met uitzondering van de Wet op het hoger onderwijs en wetenschappelijk onderzoek voor zover het niet betreft het onderzoek bedoeld in artikel 12a, derde lid,</para>
+      <para>2°.	de kwaliteit van de uitoefening van de taken van de samenwerkingsverbanden,</para>
+      <para>3°.	de kwaliteit van de uitoefening van de taken van de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, en</para>
+      <para>4°.	de ontwikkeling, in het bijzonder van de kwaliteit, van het stelsel van hoger onderwijs, met inbegrip van het stelsel van accreditatie, bedoeld in hoofdstuk 5 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.</para>
+    </parablock>
+    <para>c.	het beoordelen en bevorderen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de rechtmatige verkrijging van de bekostiging, naar de controlerapporten van de door het bestuur aangewezen accountant, naar de rechtmatigheid van de bestedingen en naar de rechtmatigheid van het financieel beheer, alsmede het beoordelen en bevorderen van de financiële doelmatigheid en het bevorderen van de financiële continuïteit van de bekostigde instellingen, de samenwerkingsverbanden en de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven,</para>
+    <para>d.	het rapporteren over de ontwikkeling van, in bijzonder van de kwaliteit van, het onderwijs en over de uitoefening van de taken door de instellingen, de samenwerkingsverbanden en de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en</para>
+    <para>e.	het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Regeling jaarverslaggeving onderwijs</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 4. Afwijking en aanvulling richtlijn</para>
+    </parablock>
+    <para>4. In het bestuursverslag rapporteert het bevoegd gezag met gebruikmaking van de in bijlage 3 opgenomen set gegevens en de daarbij behorende toelichting over de resultaten van het financiële beleid over het verslagjaar. Daarnaast rapporteert het bevoegd gezag – in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar en ingeval sprake is van majeure investeringen, in meerjarenperspectief over de vijf verslagjaren volgend op het verslagjaar. Er is sprake van een majeure investering als het totaal van de investering gedeeld door de totale jaarlijkse baten in de staat van baten en lasten gelijk is of groter dan 15%. In de sectoren primair onderwijs en voortgezet onderwijs wordt ingeval sprake is van volledige doordecentralisatie van de huisvesting, steeds een meerjarenperspectief opgenomen voor de periode van vijf jaren volgend op het verslagjaar. De toelichting op deze investeringen bevat in ieder geval een beschrijving van de relatie met de strategische doelstellingen, de omvang, het tijdpad, de wijze van financiering, inclusief een duidelijke onderbouwing met analyse van de prognose van de ontwikkeling van leerling-, deelnemers-, of studentenaantallen en het gebruik van sturingsinstrumenten. De rapportage betreft onder meer het risicomanagement en het interne toezicht.</para>
+    <para />
+    <para />
+  </section>
+  <footnote id="_ae30dc50-4d9b-495c-8019-7e0383675adc" label="1">
+    <para> Op grond van artikel 8:29, eerste lid, van de Algemene wet bestuursrecht (Awb).</para>
+  </footnote>
+  <footnote id="_ec511355-d05a-43dd-9798-ed9f6434e79c" label="2">
+    <para> Op grond van artikel 8:29, derde lid, van de Awb.</para>
+  </footnote>
+  <footnote id="_f88c9ae6-8c46-4ae7-a9d6-cb92faacaaf9" label="3">
+    <para> Toestemming zoals bedoeld in artikel 8:29, vijfde lid, van de Awb.</para>
+  </footnote>
+  <footnote id="_41d3bfe0-dd9f-4077-badc-9bf9feae7ee8" label="4">
+    <para> Het Inspectierapport is openbaar en te raadplegen op de website van de Inspectie (www.onderwijsinspectie.nl). </para>
+  </footnote>
+  <footnote id="_6595cb7f-ff8f-4513-a700-dc595ffbc614" label="5">
+    <para> ‘Toezichtsrapport nr. 67 – De gegevensverstrekking door de AIVD over het Cornelius Haga Lyceum’. Dit rapport is openbaar en te vinden op de website van de CTIVD (www.ctivd.nl).</para>
+  </footnote>
+  <footnote id="_ce9366af-2d5b-4e3b-b8c4-4d282b80136e" label="6">
+    <para> Het gaat hier om de door de AIVD geconstateerde dreiging dat de leerlingen van de school beïnvloed zouden kunnen worden door het antidemocratische en anti-integratieve gedachtegoed van salafistische voormannen.</para>
+  </footnote>
+  <footnote id="_cd4ac38f-b491-417d-8bdd-605550c6c524" label="7">
+    <para> SIO verwijst in dit verband naar artikel 3 van de Wet op het onderwijstoezicht.</para>
+  </footnote>
+  <footnote id="_10c433cb-be10-4e6f-bd69-1dfd77514d0f" label="8">
+    <para> SIO verwijst naar artikel 18, derde lid, van het Bekostigingsbesluit WVO. </para>
+  </footnote>
+  <footnote id="_37268be6-362f-4497-a2f9-ddd1ba4d1682" label="9">
+    <para> Deze verplichting is neergelegd in artikel 23a van de Wvo.</para>
+  </footnote>
+  <footnote id="_20a446f6-8263-42b7-9114-65c9cae0adb4" label="10">
+    <para> In de zin van artikel 103g, tweede lid, onder b, van de Wvo.</para>
+  </footnote>
+  <footnote id="_05c7a9ff-0776-4413-890c-07db98dd711b" label="11">
+    <para> Zie de uitspraak van de Afdeling van 30 maart 2011, ECLI:NL:RVS:2011:BP9541.</para>
+  </footnote>
+  <footnote id="_a9a22f7c-7c2a-48be-8dba-c5d275496147" label="12">
+    <para> Staatsblad 2005, 678.</para>
+  </footnote>
+  <footnote id="_fc8e3c32-1b04-4ca8-a2a3-9cc177513720" label="13">
+    <para> Zie de Nota naar aanleiding van het verslag van 11 februari 2005 (Kamerstukken 2004-2005, 29 666, nr. 8)</para>
+  </footnote>
+  <footnote id="_4a9f4ff4-6cf1-4cc2-b69f-11370dbaef51" label="14">
+    <para> De minister verwijst naar de artikelen 24d en 24e1 van de Wvo.</para>
+  </footnote>
+  <footnote id="_31fb709b-b9e5-4f76-a38e-139cf09e9ac5" label="15">
+    <para> De wettelijke taken van de intern toezichthouder staan in artikel 24e1 van de Wvo.</para>
+  </footnote>
+  <footnote id="_ef547bf6-0d4d-4cff-81fd-dab4585f1669" label="16">
+    <para> In de zin van respectievelijk artikel 103g, tweede lid, onder a, c en d, van de Wvo. </para>
+  </footnote>
+  <footnote id="_a1a1cd42-b982-46dd-9062-90ee1c3ce4a4" label="17">
+    <para> Artikel 24e1, eerste lid, aanhef en onder c, van de Wvo.</para>
+  </footnote>
+  <footnote id="_ac76a393-27ce-47b3-b2d0-2383f95366a2" label="18">
+    <para> In de zin van artikel 103g, tweede lid, onder a, van de Wvo.</para>
+  </footnote>
+  <footnote id="_11a7f997-62af-4f19-afe5-a16e5e2c51c3" label="19">
+    <para> Dit is een verplichting op grond van artikel 97, eerste lid, van de Wvo.</para>
+  </footnote>
+  <footnote id="_1a75e55e-da96-4e49-ae88-b6645da79c71" label="20">
+    <para> Dit wordt voorgeschreven in artikel 4, vierde lid, van de Regeling jaarverslaggeving onderwijs.</para>
+  </footnote>
+  <footnote id="_765a780a-bc9c-4314-900e-75b1745b537f" label="21">
+    <para> Zie Kamerstukken II 2008–2009, 31828, nr. 3, p. 4.</para>
+  </footnote>
+  <footnote id="_a9f758fe-7523-477e-9085-76baec3d0665" label="22">
+    <para> Zie Kamerstukken II 2008–2009, 31828, nr. 3, p. 8.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

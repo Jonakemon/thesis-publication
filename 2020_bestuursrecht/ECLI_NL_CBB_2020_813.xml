@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:813</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-10T11:44:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/415</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0004054&amp;g=2020-02-20">Meststoffenwet</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:813">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:813</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-09T09:50:29</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:813 College van Beroep voor het bedrijfsleven , 10-11-2020 / 17/415</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:813:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Meststoffenwet: artikel 1 en 21a</para>
+      <para />
+      <para>Vaststelling melkveefosfaatreferentie; in geschil is of verweerder bij de vaststelling van de melkveefosfaatreferentie de percelen grasland die appellant pachtte van de luchthaven terecht buiten beschouwing heeft gelaten omdat het niet gaat om tot het bedrijf behorende landbouwgrond. Het gaat erom of appellant in de praktijk in staat was teeltplan en bemestingsplan op elkaar af te stemmen en deze plannen in samenhang te realiseren. Naar het oordeel van het College is dat niet het geval, gezien de beperkingen aan het gebruik op grond van de pachtovereenkomst.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:813:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 17/415 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 10 november 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam] , te [plaats] , appellant</bridgehead>
+    <para>(gemachtigde: mr. P.M.E.P.J. Joosten),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder </bridgehead>
+    <para>(gemachtigde: mr. A.H. Spriensma-Heringa).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 januari 2016 (het primaire besluit) heeft verweerder de melkveefosfaatreferentie (MVFR) 2013 op grond van de Wet verantwoorde groei melkveehouderij voor appellant vastgesteld op 1.863 kg fosfaat. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 28 februari 2017 (het bestreden besluit) heeft verweerder het door appellant gemaakte bezwaar tegen het primaire besluit ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellant heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 4 september 2019. Appellant is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het College heeft het onderzoek ter zitting geschorst en verweerder in de gelegenheid gesteld nader in te gaan op een aantal vragen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een nadere reactie gegeven. Appellant heeft hierop zijn zienswijze gegeven. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft vervolgens vragen van het College beantwoord. Appellant heeft hierop gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het nadere onderzoek ter zitting heeft plaatsgevonden op 24 september 2020. Appellant is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <para />
+    <para>1. Appellant exploiteert een melkveehouderij. Appellant heeft, voor zover thans van belang, van 1 januari 2013 tot en met 31 december 2013 percelen grasland van [luchthaven] B.V. (de luchthaven) gepacht. </para>
+    <para />
+    <para>2. Verweerder heeft bij zijn besluitvorming over de vaststelling van de MVFR 2013 geen rekening gehouden met de percelen die appellant van de luchthaven in pacht had. Uit het geldende bestemmingsplan blijkt dat de percelen de bestemming luchtvaartdoeleinden hebben. Dit is een indicatie dat geen sprake is van landbouwgrond. De gepachte gronden liggen direct naast of in het verlengde van de landingsbaan en dienen als veiligheidszone voor het vliegverkeer. Bovendien zijn de gronden geheel gelegen binnen de omheining van het luchtvaartterrein en daarvan niet afgescheiden. Ook blijkt uit het door appellant overgelegde pachtcontract dat hij als pachter erkent dat de belangen van de luchthaven primair zijn en betaalt appellant niets voor de pacht, wat erop wijst dat sprake is van een onderhoudscontract. De percelen kunnen daarom volgens verweerder niet worden aangemerkt als landbouwgrond in de zin van de Meststoffenwet (Msw). Voor verweerder staat verder niet vast dat appellant het exclusieve gebruik van de grond had, omdat in de pachtovereenkomst staat dat de verpachter zich te allen tijde het recht voorbehoudt de nodige werkzaamheden te verrichten dienende tot onderhoud van het gepachte. Daarnaast had appellant niet de feitelijke beschikking over de grond. Uit de pachtovereenkomst blijkt dat het belang van de luchtvaart voorrang heeft op landbouwkundige activiteiten, dat appellant de aan- en afvoer van alle materialen nodig voor werkzaamheden op de percelen aan de havenmeester moet melden en dat appellant het gras minimaal één keer per jaar dient te maaien en af te voeren. Verder kan appellant de bestemming van de grond niet naar eigen inzicht wijzigen. Op de hoorzitting heeft appellant bovendien te kennen gegeven dat hij op de percelen alleen kunstmest mag gebruiken en dat het maaien nabij de landingsbaan alleen is toegestaan tussen 23:00 en 06:00 uur, terwijl op de overige gronden maaien alleen overdag is toegestaan. Al deze beperkingen maken dat appellant niet zelf de beschikkingsmacht had over de percelen. Verweerder wijst er verder nog op dat de luchthaven de overeenkomst elk moment kan ontbinden op grond van de overeenkomst, wat betekent dat appellant gedurende het jaar geen zekerheid heeft of hij zijn plannen kan realiseren. De omstandigheid dat de percelen in het kader van het Gemeenschappelijk Landbouwbeleid mogelijkerwijs wel als landbouwgrond zouden kunnen worden aangemerkt, maakt niet dat de percelen ook op grond van de Msw als landbouwgrond dienen te worden aangemerkt. Het betreft verschillende stelsels met afzonderlijke doelen.</para>
+    <para />
+    <para>3. Appellant heeft zich in beroep op het standpunt gesteld dat de betreffende percelen ten onrechte niet zijn betrokken bij de vaststelling van de MVFR 2013. Daartoe heeft appellant aangevoerd dat hij de percelen al jaren in pacht heeft om daarop gras te telen voor de voederwinning voor zijn koeien. Ongeveer de helft van de voederwinning vindt plaats op deze percelen. Appellant bemest en maait de percelen en hij stemt het teelt- en bemestingsplan op elkaar af, afhankelijk van de voederbehoefte van zijn koeien. Appellant bepaalt welke werkzaamheden plaatsvinden en wanneer. De percelen worden daarom gebruikt voor de normale bedrijfsvoering van de melkveehouderij. Het bestemmingsplan is niet bepalend voor de vraag of het landbouwgrond betreft. Landbouwkundig gebruik is bovendien toegestaan op grond van het bestemmingsplan. Verweerder heeft miskend dat sprake is van een vliegveld met een zeer bescheiden aantal vluchten. Verweerder had moeten onderzoeken of appellant in de praktijk in staat is teeltplan en bemestingsplan op elkaar af te stemmen in plaats van af te gaan op de overeenkomst. In de pachtovereenkomst is weliswaar opgenomen dat de belangen van de luchtvaart primair zijn maar in de praktijk kunnen beide functies goed naast elkaar plaatsvinden. Appellant wordt niet gehinderd bij zijn landbouwactiviteiten, omdat hij bijvoorbeeld de landingsbaan niet hoeft te kruisen om bij zijn percelen te komen. Wel mag hij de percelen die onmiddellijk aan de landingsbaan zijn gelegen alleen gedurende de nacht bewerken en mag op de percelen alleen kunstmest worden gebruikt. Voor een deugdelijke bemesting is dierlijke mest echter niet noodzakelijk. Dat appellant verplicht is ten minste éénmaal per jaar het gras te maaien en af te voeren, vormt geen beperking omdat hij in de praktijk meer keren per jaar oogst. Dit is juist in zijn belang. De voorwaarde dat appellant niet eigenmachtig de bestemming mag wijzigen is gebruikelijk en staat niet in de weg aan de kwalificatie als landbouwgrond. Verweerder wijst op de bevoegdheid van de luchthaven om de pachtovereenkomst te ontbinden, maar in de praktijk zal dit niet van de ene op de andere dag mogelijk zijn. Bovendien zijn de percelen ook in het kader van het Gemeenschappelijk Landbouwbeleid aangemerkt als landbouwgrond – met uitzondering van de drie meter direct aansluitend aan de landingsbaan – en zijn daarvoor aan appellant betalingsrechten toegekend. Verder zijn andere percelen gelegen binnen het gebied van de luchthaven van andere landbouwers wel aangemerkt als landbouwgrond als bedoeld in de Msw. </para>
+    <para />
+    <para>4. Verweerder heeft ter onderbouwing van zijn standpunt dat de percelen waar het hier om gaat niet als landbouwgrond als bedoeld in de Msw kunnen worden aangemerkt, verwezen naar het bestreden besluit. Er is feitelijk sprake van gebruik van de grond om niet. Zoals het College in zijn uitspraak van 3 februari 2017 (ECLI:NL:CBB:2017:34) heeft overwogen, maakt de omstandigheid dat enige landbouwactiviteiten plaatsvinden niet dat sprake is van landbouwgrond. Verweerder heeft ook gewezen op de uitspraak van 14 mei 2019 (ECLI:NL:CBB:2019:198), waarin werd geoordeeld dat de functie van overloopparkeerterrein voorop stond in de overeenkomst en daaruit zodanige beperkingen op het gebruik voor landbouwdoeleinden voortvloeiden dat betrokkene niet de beschikkingsmacht over die percelen had. De door appellant verrichte werkzaamheden moeten worden gezien als onderhoudswerkzaamheden. Verweerder heeft er nogmaals op gewezen dat de percelen de planologische bestemming "luchtvaartdoeleinden" hebben, wat er ook op duidt dat geen sprake is van landbouwgrond. Deze indicatie wordt bevestigd door de voorwaarden uit de pachtovereenkomst, de door appellant tijdens de hoorzitting genoemde beperkingen en de omstandigheden die zijn genoemd in het bestreden besluit. Verweerder handhaaft zijn standpunt dat vanwege de beperkende voorwaarden in de pachtovereenkomst appellant geen feitelijke beschikkingsmacht had. De percelen zijn daarom terecht niet betrokken bij de vaststelling van de MVFR. </para>
+    <para />
+    <para>5. In vervolg op de eerste zitting heeft verweerder nog naar voren gebracht dat het arrest van het Hof van Justitie van de Europese Unie van 2 juli 2015 in de zaak Demmer, C-684/13 (ECLI:EU:C:2015:439), dat gaat over landbouwgrond in het kader van het Gemeenschappelijk Landbouwbeleid, hier niet van betekenis is, aangezien de beoordeling hier plaatsvindt in het kader van de Msw. </para>
+    <para />
+    <para>6. Appellant heeft zich in reactie hierop op het standpunt gesteld dat het arrest in de zaak Demmer wel relevant is voor deze zaak. Appellante heeft verder nog verwezen naar de uitspraak van 5 maart 2018 (ECLI:NL:CBB:2018:102), ook genoemd door verweerder. In deze uitspraak achtte het College de beperking in het aantal keren dat mocht worden gemaaid en wat betreft de periode waarin mocht worden gemaaid geen belemmering voor de uitoefening van de landbouwactiviteiten. Ook heeft appellant een aantal foto’s van de percelen overgelegd, waaruit blijkt dat sprake is van grasland, en heeft hij facturen van de loonwerker overgelegd, waaruit blijkt dat de percelen in 2013 zijn gemaaid. </para>
+    <para />
+    <para>7. Het College oordeelt als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>7.1</nr>
+      <para>De Msw luidde ten tijde en voor zover van belang:</para>
+      <para />
+      <parablock>
+        <para>“Artikel 1</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>g. landbouw: akkerbouw, veehouderij – daaronder begrepen elke bedrijfsmatige vorm van houden van dieren voor gebruiks- of winstdoeleinden – , tuinbouw – daaronder begrepen fruitteelt en het kweken van bomen, planten, bloemen en bloembollen – en bosbouw die aan bij ministeriële regeling gestelde regels voldoet;</para>
+        <para>h. landbouwgrond: grond waarop daadwerkelijk enige vorm van landbouw wordt uitgeoefend;</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>m. tot het bedrijf behorende oppervlakte landbouwgrond: in Nederland gelegen oppervlakte landbouwgrond, die in het kader van een normale bedrijfsvoering bij het bedrijf in gebruik is;</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>q. grasland: landbouwgrond waarop gras wordt geteeld dat is bestemd om te worden gebruikt als veevoer;</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>	(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>ll. fosfaatruimte: hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar</para>
+        <para>1°. ingevolge artikel 8, onderdeel c, mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond, en</para>
+        <para>2°. ingevolge de krachtens de artikelen 7 en 15 van de Wet bodembescherming geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft en dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;</para>
+        <para>mm. melkveefosfaatreferentie: een beschikking als bedoeld in artikel 21a, eerste lid;</para>
+        <para>nn. melkveefosfaatoverschot: de productie van dierlijke meststoffen door melkvee op het</para>
+        <para>bedrijf in kilogrammen fosfaat, verminderd met de fosfaatruimte en het aantal kilogrammen</para>
+        <para>fosfaat, genoemd in de melkveefosfaatreferentie van dat bedrijf.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(…) </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>	Artikel 21a </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>1. Onze Minister verleent aan een landbouwer, die in het kalenderjaar 2013 melkvee hield een melkveefosfaatreferentie, uitgedrukt in kilogrammen fosfaat. De melkveefosfaatreferentie vermeldt het bedrijf waarvoor de melkveefosfaatreferentie wordt afgegeven.</para>
+        <para>2. De melkveefosfaatreferentie wordt berekend door de forfaitaire productie van dierlijke meststoffen door melkvee in het kalenderjaar 2013 op het bedrijf te verminderen met de fosfaatruimte van dat bedrijf in 2013. Bij de berekening volgens de eerste volzin wordt elk resultaat dat negatief is, op nul gesteld.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Tussen partijen is in geschil of verweerder bij de vaststelling van de MVFR 2013 de percelen grasland die appellant pachtte van de luchthaven terecht buiten beschouwing heeft gelaten omdat het niet gaat om tot het bedrijf behorende landbouwgrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>Zoals het College eerder heeft overwogen (zie bijvoorbeeld de uitspraak van 20 april 2017, ECLI:NL:CBB:2017:172, rov. 5.3) wordt in artikel 1, eerste lid, aanhef en onderdeel m, van de Msw, noch in de memorie van toelichting (Kamerstukken II, 2004-2005, 29 930, nr. 3, blz. 107 e.v.) als voorwaarde gesteld dat de gronden daadwerkelijk bij het bedrijf in gebruik zijn. Volgens de memorie van toelichting is voor de toepassing van de Msw doorslaggevend dat grond, zoals in de begripsomschrijving in artikel 1, eerste lid, aanhef en onderdeel m, ook tot uitdrukking komt, uitsluitend kan worden opgevoerd als tot het bedrijf behorende oppervlakte landbouwgrond wanneer deze in het kader van een normale bedrijfsvoering bij dat bedrijf in gebruik is. Deze laatste eis brengt volgens de memorie van toelichting onder meer met zich dat degene die het landbouwbedrijf voert over de grond de feitelijke beschikkingsmacht moet kunnen uitoefenen. Een dergelijke beschikkingsmacht veronderstelt de aanwezigheid van een geldige juridische titel. Om te kunnen vaststellen of de in het geding zijnde gronden aangemerkt kunnen worden als tot het bedrijf behorende oppervlakte landbouwgrond is ingevolge artikel 1, eerste lid, aanhef en onderdeel m, van de Msw, zo volgt uit de hiervoor aangehaalde wetsgeschiedenis, onder meer bepalend of de landbouwer de feitelijke beschikkingsmacht over deze gronden had, in die zin dat hij in de praktijk in staat was teeltplan en bemestingsplan op elkaar af te stemmen en deze plannen in samenhang te realiseren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Met de pachtovereenkomst is voldaan aan het vereiste van een geldige gebruikstitel. Het gaat er dus om of appellant in de praktijk in staat was teeltplan en bemestingsplan op elkaar af te stemmen en deze plannen in samenhang te realiseren. Naar het oordeel van het College is dat niet het geval, gezien de beperkingen aan het gebruik op grond van de pachtovereenkomst. Uit artikel 5 van deze overeenkomst volgt onder meer dat de pachter erkent dat de belangen van de luchtvaart en de goede exploitatie van het luchtvaartterrein primair zijn, als gevolg waarvan hij de bedingen in deze overeenkomst opgenomen en de daarbij behorende voorschriften inzake het gebruik van het gepachte stipt zal naleven. De pachter is verplicht alle voorschriften met betrekking tot het gebruik, bemesting en bewerking gegeven, alsmede alle schriftelijke of mondelinge aanwijzingen door of namens de havenmeester gegeven, onmiddellijk en stipt op te volgen in verband met orde en veiligheid ten behoeve van de luchtvaart. Deze voorschriften en aanwijzingen worden geacht deel uit te maken van deze overeenkomst. Dat dergelijke voorschriften in de praktijk niet worden gegeven, zoals appellant heeft aangevoerd, maakt niet dat deze bepaling niet geldt. Dit is althans niet gebleken. Verder is de pachter op grond van de overeenkomst verplicht van elke werkzaamheid of aan- en afvoer van materialen van tevoren kennis te geven aan de havenmeester. De pachter is verplicht ten minste éénmaal per jaar het gras te maaien en af te voeren. Ook heeft de verpachter het recht om ontbinding van de overeenkomst, tijdens de looptijd van de overeenkomst, te vorderen indien de belangen van de luchtvaart en de exploitatie als luchthaventerrein dit vereisen. Uit de door appellant op de hoorzitting in bezwaar gegeven toelichting blijkt verder dat sprake is van nadere beperkingen aan het gebruik van de percelen. Appellant mag op de percelen uitsluitend kunstmest gebruiken en het maaien nabij de landingsbaan is alleen toegestaan tussen 23:00 en 06:00 uur. Ter zitting van het College heeft appellant te kennen gegeven dat de genoemde omstandigheden voor hem geen belemmering vormen, omdat hij in de praktijk altijd op de percelen terecht kan en de beperkingen uitsluitend verband houden met de veiligheid voor de luchtvaart en hemzelf. Dat neemt niet weg dat het gaat om wezenlijke beperkingen met betrekking tot het op elkaar kunnen afstemmen van teelt- en bemestingsplan en het in samenhang realiseren van deze plannen. De conclusie is daarom dat appellant niet de feitelijke beschikkingsmacht over de percelen heeft, zodat de percelen niet zijn te beschouwen als tot het bedrijf van appellant behorende oppervlakte landbouwgrond zoals bedoeld in de Msw. Het beroep van appellant op de uitspraak van 5 maart 2018 (ECLI:NL:CBB:2018:102) baat hem niet, omdat die uitspraak is gedaan in het kader van het Gemeenschappelijk Landbouwbeleid en bovendien niet vaststaat dat de omstandigheden van dat geval vergelijkbaar waren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5</nr>
+      <para>Dat bij een ander bedrijf gronden die zijn gepacht van de luchthaven wel als tot het bedrijf behorende landbouwgrond zijn aangemerkt in het kader van de Msw doet aan het voorgaande niet af. Verweerder heeft te kennen gegeven dat dit een fout betrof. Het College ziet geen reden om te twijfelen aan de juistheid van deze verklaring. Het gelijkheidsbeginsel strekt volgens vaste rechtspraak (zie bijvoorbeeld de uitspraak van 11 september 2018 (ECLI:NL:CBB:2018:491, rov. 5.10)) niet zo ver dat verweerder een gemaakte fout moet herhalen. Het beroep van appellant op het gelijkheidsbeginsel slaagt daarom niet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.6</nr>
+      <para>Uit het voorgaande volgt dat verweerder de percelen terecht niet in aanmerking heeft genomen bij de vaststelling van de MVFR 2013. </para>
+      <para />
+      <para>8. Het beroep is ongegrond. </para>
+      <para />
+      <para>9. Voor een veroordeling in de proceskosten bestaat geen aanleiding. </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. T. Pavićević, mr. J.A.M. van den Berk en mr. D. Brugman, in aanwezigheid van mr. M.G. Ligthart. De beslissing is in het openbaar uitgesproken op </para>
+      <para>10 november 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd 			De griffier is verhinderd  </para>
+      <para>de uitspraak te ondertekenen.			de uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

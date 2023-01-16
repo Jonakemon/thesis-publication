@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:1165</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-30T09:18:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201905336/1/A2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2019:4669" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">Eerste aanleg: ECLI:NL:RBROT:2019:4669, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:1165">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:1165</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-29T10:16:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:1165 Raad van State , 29-04-2020 / 201905336/1/A2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:1165:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 4 oktober 2016 heeft het college van burgemeester en wethouders van Hoeksche Waard het verzoek van [appellant] tot het nemen van een verkeersbesluit strekkende tot het verplaatsen van de bushalte aan de Sportlaan in Oud-Beijerland (opnieuw) afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:1165:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201905336/1/A2.</para>
+    <para>Datum uitspraak: 29 april 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant], wonend te Oud-Beijerland,</para>
+    <para>tegen de uitspraak van de rechtbank Rotterdam van 12 juni 2019 in zaak nr. 18/1176 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Hoeksche Waard (hierna: het college).</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 4 oktober 2016 heeft het college het verzoek van [appellant] tot het nemen van een verkeersbesluit strekkende tot het verplaatsen van de bushalte aan de Sportlaan in Oud-Beijerland (opnieuw) afgewezen.</para>
+    <para>Bij besluit van 17 januari 2018 heeft het college het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 12 juni 2019 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 11 februari 2020 waar [appellant] en het college, vertegenwoordigd door mr. P.A.N.L. Frieswijk-Tjon Sieuw en ing. J.S. Dorst, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.    [appellant] woont in een appartementencomplex aan de [locatie] in Oud-Beijerland. Bij brief van 17 december 2015 heeft [appellant] het college verzocht om de bushalte aan de Sportlaan 30 à 40 meter te verplaatsen. [appellant] ervaart geluidshinder, stankoverlast en hinder als gevolg van roetuitstoot van de bussen die frequent op korte afstand van zijn balkon stoppen en optrekken bij deze bushalte. Bij besluit van 26 januari 2016 heeft het college het verzoek afgewezen. Bij het besluit van 4 oktober 2016, gehandhaafd bij het besluit van 17 januari 2018, heeft het college dit verzoek (nogmaals) afgewezen. Het college heeft aan zijn besluit van 4 oktober 2016 mede de door de Omgevingsdienst Zuid-Holland Zuid (hierna: de OZHZ) uitgevoerde berekening ten grondslag gelegd. Uit deze berekening blijkt dat het verplaatsen van de bushalte slechts een beperkte afname in de roetconcentratie oplevert, aangezien bijna 80 % van het aanwezige roet als achtergrondconcentratie aanwezig is. De adviescommissie bezwaarschriften was van oordeel dat het advies van de OZHZ gebreken vertoonde omdat dit uitsluitend aan de hand van modelmatige berekeningen was opgesteld en niet aan de hand van daadwerkelijke metingen ter plaatse. Om die reden had het college het advies niet of niet zonder meer aan het afwijzende besluit ten grondslag mogen leggen. Het college heeft vervolgens de DCMR Milieudienst Rijnmond (hierna: DCMR) gevraagd de berekening van OZHZ te beoordelen. De DCMR heeft geconcludeerd dat het onderzoek van de OZHZ op een correcte manier is uitgevoerd en dat het meten van de luchtkwaliteit op het balkon van de bezwaarmaker geen andere resultaten zou hebben opgeleverd. Het oorspronkelijke advies, bevestigd door de second opinion van DCMR, heeft daarom ten grondslag mogen liggen aan de afwijzing van het verzoek om de bushalte te verplaatsen, aldus het college.</para>
+    <para>Wettelijk kader en toetsingskader</para>
+    <para>2.    Het wettelijk kader is opgenomen in de bijlage, die deel uitmaakt van deze uitspraak.</para>
+    <para>3.    Wat betreft het toetsingskader geldt, zoals de rechtbank ook heeft overwogen, het volgende. Een bestuursorgaan komt bij het nemen van een verkeersbesluit beoordelingsruimte toe bij de uitleg van de in artikel 2, eerste en tweede lid, van de Wegenverkeerswet 1994 genoemde begrippen. De rechter toetst of het bestuursorgaan geen onredelijk gebruik heeft gemaakt van die beoordelingsruimte. Nadat het bestuursorgaan heeft vastgesteld welke verkeersbelangen in welke mate naar zijn oordeel bij het besluit dienen te worden betrokken, dient het die belangen tegen elkaar af te wegen. Daarbij komt het bestuursorgaan beleidsruimte toe. De bestuursrechter toetst of de voor een of meer belanghebbenden nadelige gevolgen van het verkeersbesluit niet onevenredig zijn in verhouding tot de met dat besluit te dienen doelen.</para>
+    <para>De uitspraak van de rechtbank</para>
+    <para>4.    De rechtbank heeft geoordeeld dat het college zich in redelijkheid op het standpunt heeft kunnen stellen dat de verplaatsing van de bushalte naar de door [appellant] aangewezen plek niet wenselijk is vanuit verkeerstechnisch perspectief. Verder heeft de rechtbank geoordeeld dat op basis van het onafhankelijke advies van de DCMR kan worden geconcludeerd dat het onderzoeksrapport van de OZHZ zorgvuldig tot stand is gekomen, zodat het college het onderzoek van de OZHZ in het kader van de afweging van belangen aan het besluit van 4 oktober 2016 ten grondslag heeft kunnen leggen. Uit dat onderzoek is gebleken dat het effect van de verplaatsing van de bushalte op de luchtkwaliteit en de roetconcentratie minimaal is. Daarom heeft de rechtbank, mede in het licht van de omstandigheid dat de bushalte er al voor de bouw van de woning van [appellant] stond en nog los van de aanzienlijke kosten bij deze verplaatsing, tot slot geoordeeld dat het college in redelijkheid bij de afweging van de betrokken belangen heeft kunnen afzien van het verplaatsen van de bushalte.</para>
+    <para>Het hoger beroep</para>
+    <para>5.    [appellant] betoogt dat de rechtbank ten onrechte heeft geoordeeld dat het college het onderzoek van de OZHZ aan het besluit van 4 oktober 2016 ten grondslag heeft kunnen leggen. Hij voert hiertoe aan dat de rechtbank heeft miskend dat de notities van OZHZ en DCMR ontoereikend zijn. In de notitie van OZHZ wordt ten onrechte geconcludeerd dat de uitlaatgassen van de lijnbussen slechts een zeer beperkte invloed hebben op de luchtkwaliteit ter plaatse. Deze conclusie is niet gebaseerd op voorafgaand onderzoek door middel van berekeningen of metingen bij de bron van de vervuiling, maar op statistieken over de algemene luchtkwaliteit in Oud-Beijerland, de Hoeksche Waard en Nederland. Verder voert [appellant] aan dat in de notitie ten onrechte is uitgegaan van stilstaande bussen en dat er geen rekening mee is gehouden dat lijnbussen meer dan 50 keer per dag stoppen en optrekken bij de bushalte.</para>
+    <para>[appellant] wijst erop dat bij het optrekken 6 keer zoveel aan uitlaatgassen wordt uitgestoten als bij normaal rijgedrag. [appellant] voert tot slot aan dat het college het advies van de commissie bezwaarschriften, waarin is geoordeeld dat het onderzoek van de OZHZ ontoereikend is, zonder opgaaf van reden terzijde heeft geschoven.</para>
+    <para>De adviezen van de OZHZ en de DCMR</para>
+    <para>5.1.    Het bestuursorgaan mag op het advies van een deskundige afgaan, nadat het is nagegaan of dit advies op zorgvuldige wijze tot stand is gekomen, de redenering daarin begrijpelijk is en de getrokken conclusies daarop aansluiten. Deze verplichting is neergelegd in artikel 3:9 van de Algemene wet bestuursrecht (hierna: de Awb) voor de wettelijk adviseur en volgt uit artikel 3:2 van de Awb voor andere adviseurs.</para>
+    <para>    Indien een partij concrete aanknopingspunten voor twijfel aan de zorgvuldigheid van de totstandkoming van het advies, de begrijpelijkheid van de in het advies gevolgde redenering of het aansluiten van de conclusies daarop naar voren heeft gebracht, mag het bestuursorgaan niet zonder nadere motivering op het advies afgaan.</para>
+    <para>Het onderzoek van de OZHZ</para>
+    <para>5.2.    Uit de Regeling beoordeling luchtkwaliteit 2007 (hierna: de Regeling) volgt dat de luchtkwaliteit kan worden beoordeeld door middel van meting, maar ook door middel van berekening. De OZHZ heeft deze laatstgenoemde methode gebruikt voor het onderzoek van de luchtkwaliteit bij de Sportlaan en de resultaten daarvan neergelegd in zijn notitie van 29 juni 2016. In deze notitie wordt verwezen naar de Regeling. Anders dan [appellant] lijkt te betogen, heeft de OZHZ gebruikt gemaakt van een op grond van de Regeling toegestane methode voor de beoordeling van de luchtkwaliteit.</para>
+    <para>    Het betoog faalt.</para>
+    <para>5.3.    Blijkens de notitie van 29 juni 2016 heeft de OZHZ de concentraties luchtverontreinigende stoffen op 10 verschillende beoordelingspunten uitgerekend. Weliswaar is voor de berekening van de achtergrondconcentratie en emissiefactoren gebruik gemaakt van generieke invoergegevens, maar per beoordelingspunt is voor de vaststelling van de luchtkwaliteit een specifieke berekening gemaakt. Eén van die beoordelingspunten, nummer 4, bevindt zich bij het balkon van [appellant]. [appellant] betoogt daarom ten onrechte dat de luchtkwaliteit bij de bushalte, ter hoogte van zijn balkon, niet zou zijn onderzocht.</para>
+    <para>5.4.     In het onderzoek van de OZHZ is, conform de regels voor het berekenen van de luchtkwaliteit van de Regeling, rekening gehouden met het (bus)verkeer op de Sportlaan en de Beneden-Oostdijk. Het OZHZ is hierbij uitgegaan van een nadeliger scenario dan in werkelijkheid het geval is. In de notitie van 29 juni 2016 van de OZHZ staat immers vermeld dat bij de berekening is uitgegaan van 197 bussen per dag die door de Sportlaan rijden, terwijl dat er in werkelijkheid minder zijn. Verder is hierbij uitgegaan van bussen met een grotere uitstoot van luchtvervuilende stoffen dan nu het geval is. Uit het onderzoek van de OZHZ blijkt dat de concentraties luchtverontreinigende stoffen ter hoogte van de balkons onder de grenswaarden zitten. Dit geldt ook voor de overige beoordelingspunten. Voor elementair koolstof (roet) is geen grenswaarde opgenomen in de geldende regelgeving. Dit valt dan ook buiten het beoordelingskader.</para>
+    <para>Is in de berekening de uitstoot van de bussen bij het optrekken bij de halte meegenomen?</para>
+    <para>5.5.    Anders dan [appellant] betoogt, heeft de rechtbank terecht overwogen dat in deze berekening de uitstoot van de bussen bij het optrekken is meegenomen. Zoals ook de rechtbank terecht heeft overwogen, is immers uitgegaan van stagnerend (vastlopend) verkeer dat de hoogste emissiefactor oplevert in een stedelijke omgeving. Daarnaast is in de berekening specifiek rekening gehouden met het stilstaan van de bussen bij de halte.</para>
+    <para>     Het betoog faalt.</para>
+    <para>5.6.     Nadat de commissie bezwaarschriften zijn advies van 15 mei 2017 heeft uitgebracht, heeft het college de DCMR gevraagd de berekening van OZHZ te beoordelen. Hierbij is ook gevraagd om te beoordelen of een meting ter plaatse een ander resultaat zou opleveren. Op basis van deze second opinion, die het advies van de OZHZ bevestigde, heeft het college vervolgens het besluit van 17 januari 2018 genomen. Het betoog van [appellant] dat het college het advies van de commissie bezwaarschriften zonder opgaaf van reden terzijde zou hebben geschoven, faalt daarom eveneens.</para>
+    <para>Conclusie</para>
+    <para>6.    Met de rechtbank is de Afdeling van oordeel dat op basis van het onafhankelijke advies van de DCMR kan worden geconcludeerd dat het onderzoeksrapport van de OZHZ zorgvuldig tot stand is gekomen, zodat het college het onderzoek van de OZHZ aan het besluit van 4 oktober 2016 ten grondslag heeft kunnen leggen. [appellant] heeft geen concrete aanknopingspunten voor twijfel aan de zorgvuldigheid van de totstandkoming van het advies, de begrijpelijkheid van de in het advies gevolgde redenering of het aansluiten van de conclusies daarop naar voren gebracht. Uit het onderzoek van de OZHZ is gebleken dat de concentraties luchtverontreinigende stoffen ter hoogte van het balkon van [appellant] en op de andere beoordelingspunten langs de Sportlaan, onder de wettelijke grenswaarden zitten. Verder heeft de rechtbank met juistheid overwogen dat uit het onderzoek van de OZHZ is gebleken dat het effect van de verplaatsing van de bushalte minimaal zal zijn. Dit betekent dat de rechtbank terecht heeft geoordeeld dat het college in redelijkheid bij de afweging van de betrokken belangen heeft kunnen afzien van het verplaatsen van de bushalte.</para>
+    <para>7.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.</para>
+    <para>8.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para>Aldus vastgesteld door mr. J.A.W. Scholten-Hinloopen, voorzitter, en mr. E. Helder en mr. E.J. Daalder, leden, in tegenwoordigheid van mr. J.H. Roelfsema, griffier.</para>
+    <para>De voorzitter is verhinderd de uitspraak te ondertekenen.   </para>
+    <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    <para>Uitgesproken in het openbaar op 29 april 2020</para>
+    <para>58-902.</para>
+    <para> </para>
+    <para>BIJLAGE</para>
+    <para> </para>
+    <para>Wegenverkeerswet 1994</para>
+    <para>Artikel 2</para>
+    <para>1. De krachtens deze wet vastgestelde regels kunnen strekken tot:</para>
+    <para>a. het verzekeren van de veiligheid op de weg;</para>
+    <para>b. het beschermen van weggebruikers en passagiers;</para>
+    <para>c. het in stand houden van de weg en het waarborgen van de bruikbaarheid daarvan;</para>
+    <para>d. het zoveel mogelijk waarborgen van de vrijheid van het verkeer.</para>
+    <para>2. De krachtens deze wet vastgestelde regels kunnen voorts strekken tot:</para>
+    <para>a. het voorkomen of beperken van door het verkeer veroorzaakte overlast, hinder of schade alsmede de gevolgen voor het milieu, bedoeld in de Wet milieubeheer;</para>
+    <para>b. het voorkomen of beperken van door het verkeer veroorzaakte aantasting van het karakter of van de functie van objecten of gebieden.</para>
+    <para>[…]</para>
+    <para>Artikel 15</para>
+    <para>1. De plaatsing of verwijdering van de bij algemene maatregel van bestuur aangewezen verkeerstekens, en onderborden voor zover daardoor een gebod of verbod ontstaat of wordt gewijzigd, geschiedt krachtens een verkeersbesluit.</para>
+    <para>2. Maatregelen op of aan de weg tot wijziging van de inrichting van de weg of tot het aanbrengen of verwijderen van voorzieningen ter regeling van het verkeer geschieden krachtens een verkeersbesluit, indien de maatregelen leiden tot een beperking of uitbreiding van het aantal categorieën weggebruikers dat van een weg of weggedeelte gebruik kan maken.</para>
+    <para>Besluit administratieve bepalingen inzake het wegverkeer (BABW)</para>
+    <para>Artikel 12</para>
+    <para>De plaatsing of verwijdering van de hierna genoemde verkeerstekens moet geschieden krachtens een verkeersbesluit:</para>
+    <para>a. de volgende borden:</para>
+    <para>[…]</para>
+    <para>II bord L3 van bijlage 1, behorende bij het RVV 1990, voor zover het een bushalte betreft;</para>
+    <para>b. de volgende verkeerstekens op het wegdek:</para>
+    <para>I. doorgetrokken strepen;</para>
+    <para>II. de aanduiding van fietsstroken;</para>
+    <para>III. de aanduiding van busstroken en busbanen;</para>
+    <para>IV. voetgangersoversteekplaatsen;</para>
+    <para>V. gele doorgetrokken strepen;</para>
+    <para>VI. gele onderbroken strepen;</para>
+    <para>VII. haaietanden.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

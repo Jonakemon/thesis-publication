@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOBR:2020:6576</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-30T10:39:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Oost-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Oost-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/3373</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Hertogenbosch</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOBR:2020:6576">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOBR:2020:6576</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-30T10:38:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOBR:2020:6576 Rechtbank Oost-Brabant , 30-12-2020 / 20/3373</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOBR:2020:6576:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Vovo hangende bezwaar tegen sluiting op grond van artikel 13b Opiumwet: Drugslaboratorium in pand, burgemeester bevoegd, sluiting noodzakelijk en evenredig.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOBR:2020:6576:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK OOST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats 's-Hertogenbosch</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SHE 20/3373</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 30 december 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [Naam bedrijf] , te [vestigingsplaats] , verzoekster</para>
+      <para>(gemachtigde: mr. H.H. van Steijn),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de burgemeester van de gemeente Bernheze, de burgemeester</para>
+      <para>(gemachtigde: M. Verzandvoort).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 november 2020 (bestreden besluit) heeft de burgemeester besloten de bedrijfsloods met overkapping (het bedrijfspand) en het gedeelte dat als woonruimte is ingericht en benut (samen te noemen: het pand) op het adres [adres] op grond van artikel 13b, eerste lid, aanhef en onder a, van de Opiumwet op 15 december 2020 te sluiten. De sluiting van de bedrijfslood met aanbouw zal twee jaar duren en de sluiting van de woonruimte zal zes maanden duren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen het bestreden besluit bezwaar gemaakt bij de burgemeester en de voorzieningenrechter gevraagd om het bestreden besluit te schorsen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 3 december 2020 heeft de burgemeester desgevraagd laten weten dat zij wil wachten met het sluiten van het pand tot de voorzieningenrechter uitspraak heeft gedaan op het verzoek om een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De burgemeester heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft een nadere reactie ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op de zitting van 22 december 2020. Via een beeldverbinding (Skype) hebben [naam] en [naam] , vennoten van verzoekster, en de gemachtigden van verzoekster en de burgemeester aan het onderzoek ter zitting deelgenomen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feiten en omstandigheden</emphasis>
+      </para>
+      <para>1. De voorzieningenrechter gaat uit van de volgende feiten.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Verzoekster is een vennootschap onder firma die statutair is gevestigd op het adres [adres] . De vennoten van verzoekster zijn: [naam] , [naam] en [naam] . [Naam bedrijf] is een groothandel in vlees. [Naam bedrijf] is een onderneming die handelt in motorvoertuigen en allerlei andere goederen alsmede in paarden en pony’s. Ook verhuurt zij stalruimte voor paarden en pony’s. Verzoekster heeft op het adres [adres] een bedrijfspand – met als bestemming stoeterij, manege en paardenfokkerij – met daarachter een overkapping van stijgermateriaal, golfplaten en zeil. Onder die overkapping liggen balen stro. In het hoofdgebouw van de manege zit op de eerste verdieping, boven de kantine, ook een woning. In een bijgebouw wordt vlees opgeslagen. Voor het realiseren van de overkapping en de woning is geen (omgevings)vergunning verleend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Uit een bestuurlijke rapportage van de politie van 19 juni 2020 blijkt dat er door de politie op donderdag 28 mei 2020 een onderzoek is ingesteld naar het perceel aan de [adres] . De politie heeft tussen hooibalen onder de overkapping een drugslaboratorium gevonden. Daarin vond de politie 800 liter fosforzuur, 175 kilo caustic soda, 250 kilo MAPA en 742 liter BMK. De politie heeft toegelicht dat met een chemisch proces van fosforzuur MAPA wordt gekookt waarmee je BMK-olie krijgt. Deze BMK-olie levert na destillatie zuivere amfetamine-olie op. Dat is de grondstof voor de harddrug speed.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Uit de bestuurlijke rapportage stoffen blijkt verder dat de genoemde stoffen in verschillende dozen, kannen, maatbekers, IBC-vaten en klemdekselvaten werden gevonden. In het drugslaboratorium werden ook allerlei goederen gevonden die noodzakelijk zijn voor het koken van de grondstoffen, zoals gasflessen, een reactieketel met 4 gasflessen, destillatieketel, emmers, een vacuümpomp, 200 liter scheitrechter en een elektronische weegschaal. In het hoofdgebouw van de manege is een woonruimte ingericht die uitkijkt op de rijbak. In die woonruimte werden een dubbel- en enkelloops hagelgeweer en – zo blijkt uit de bijgevoegde foto’s – drie doosjes hagelpatronen gevonden. Voor de geweren en de hagelpatronen zijn geen verloven op dit adres afgegeven.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Tot slot blijkt uit de bestuurlijke rapportage dat op 29 mei 2020 om ongeveer 01:30 uur de familie die de manege runt en twee laboranten zijn aangehouden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij brief van 18 augustus 2020 heeft de burgemeester verzoekster laten weten dat zij van plan is het bedrijfspand, stoeterij/manege/paardenfokkerij en het deel dat daaraan vastzit (de illegaal gebouwde overkapping achter) aan de [adres] voor twee jaar en de daarin aangebrachte illegale woning voor zes maanden te sluiten. Bij brief van 24 augustus 2020 en, na een door de burgemeester verleend uitstel, aangevuld bij brief van 29 september 2020 heeft verzoekster laten weten wat zij daarvan vinden. Daarna heeft de burgemeester het bestreden besluit genomen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Soort zaak: een voorlopige voorziening</emphasis>
+        </para>
+      </parablock>
+      <para>2. Het gaat in deze zaak om een verzoek om een voorlopige voorziening. Uitgangspunt van de wet is dat maken van bezwaar de werking van een besluit niet opschort. Dit staat in artikel 6:16 van de Algemene wet bestuursrecht (hierna: Awb). Met andere woorden: het besluit blijft gelden ook als er bezwaar tegen is gemaakt. Van die hoofdregel kan worden afgeweken met een voorlopige voorziening. Artikel 8:81 van de Awb geeft die mogelijkheid. In dat artikel staat dat als tegen een besluit bezwaar is gemaakt, de voorzieningenrechter op verzoek een voorlopige voorziening kan treffen als onverwijlde spoed, gelet op de betrokken belangen, dat vereist. Een verzoekster moet dus goede redenen geven waarom hij vindt dat hij de beslissing op het bezwaar niet kan afwachten en waarom er een uitzondering op de hoofdregel – het besluit blijft gelden ook als er bezwaar tegen is gemaakt – moet worden gemaakt. Een voorlopige voorziening is een tussenmaatregel in afwachting van de beslissing op het bezwaar. De voorzieningenrechter maakt dus een voorlopige beoordeling. Als een verzoekster het eventueel niet eens is met de beslissing op het bezwaar (die moet nu nog worden genomen), kan hij daartegen beroep tegen instellen bij de rechtbank. Bij het beoordelen van dat beroep mag die beroepsrechter anders over de zaak denken dan de voorzieningenrechter nu.</para>
+      <para />
+      <para>3. Verzoekster vindt dat sprake is van onverwijlde spoed. Als het manegebedrijf wordt gesloten, zal er onomkeerbare schade aan de volgens verzoekster volstrekt legale bedrijfsvoering worden toegebracht en zal een waardedaling van de betreffende onroerende zaak in de rede liggen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Op de zitting heeft de burgemeester in antwoord op vragen van de voorzieningenrechter, aangegeven dat, afhankelijk van de beschikbaarheid van de leden van de gemeentelijke bezwaarschriftencommissie, een hoorzitting gepland kan worden in de laatste week van januari of de eerste week van februari 2021. In het beste geval is een beslissing op bezwaar dan te verwachten eind februari of begin maart 2021.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Verzoekster heeft op de zitting toegelicht dat zij, ondanks de maatregelen die gelden ter bestrijding van het coronavirus, die ook beperkingen aan haar bedrijfsvoering stellen, toegelicht dat de in het bestreden besluit genoemde sluiting verdergaande beperkingen oplegt en haar bedrijfsvoering nagenoeg stillegt. Ook heeft verzoekster gesteld dat het daardoor bepaald niet ondenkbaar is dat zij faillissement zal moeten aanvragen voordat de burgemeester op het door verzoekster gemaakte bezwaar heeft besloten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>De voorzieningenrechter is van oordeel dat de spoedeisendheid maar mager is onderbouwd. Verzoekster heeft op de zitting opgemerkt dat het aantreffen van het drugslaboratorium destijds brede belangstelling in de landelijke<footnote-ref linkend="_f4d06286-f394-421a-810f-28b0dd0ebe05" /> en regionale media<footnote-ref linkend="_241fa0d5-1fce-44fa-ac82-fc78a13dc9d1" /> heeft gehad, met de nodige gevolgen voor haar bedrijfsvoering. Voor zover verzoekster reputatieschade vreest, is het maar de vraag of die schade niet reeds is ontstaan en wat het bestreden besluit daar nog aan toevoegt. Tegelijkertijd heeft de burgemeester het door verzoekster gestelde mogelijke faillissement niet bestreden. De voorzieningenrechter acht dat gestelde faillissement op voorhand niet onaannemelijk, mede gelet op de gestelde financiële gevolgen van de eerdere media-aandacht en de financiële gevolgen van de coronacrisis, waarmee ook de ondernemingen van verzoekster te kampen hebben.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Al met al zal de voorzieningenrechter de afweging op dit punt in het voordeel van verzoekster laten uitvallen, en aannemen dat er spoedeisend belang is. Dit betekent dat de voorzieningenrechter vervolgens toekomt aan een beoordeling van het bestreden besluit.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De beoordeling van het bestreden besluit</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De bevoegdheid</emphasis>
+        </para>
+        <para>4. Uit de tekst van artikel 13b, eerste lid, van de Opiumwet blijkt dat de burgemeester bij de uitoefening van de daarin vermelde bevoegdheid over beleidsruimte beschikt. De voorzieningenrechter mag de invulling daarvan slechts terughoudend toetsen. Uit bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 12 juni 2019<footnote-ref linkend="_3cbdb54a-c4af-4130-af07-c40503e204e7" /> volgt dat daarbij ook de geschiedenis van de totstandkoming van artikel 13b van de Opiumwet van belang is. De burgemeester vindt dat zij, gelet op wat de politie op het perceel heeft gevonden, bevoegd is het bedrijfspand en de woonruimte te sluiten, dat de sluiting noodzakelijk is en dat een sluiting van twee jaar van de bedrijfshal met overkapping respectievelijk zes maanden van het woongedeelte evenredig is. Dit standpunt is gebaseerd op artikel 13b, eerste lid, van de Opiumwet en het Beleid inzake bestuurlijke handhaving van artikel 13B Opiumwet van de gemeente Bernheze (Handhavingsbeleid), dat sinds 12 januari 2017 geldt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>In artikel 13b, eerste lid, aanhef en onder a, van de Opiumwet staat – kort gezegd – dat de burgemeester een woning of lokaal mag sluiten als daar soft- of harddrugs worden verkocht, afgeleverd of verstrekt of daartoe aanwezig zijn. Softdrugs staan op lijst II bij de Opiumwet en harddrugs op lijst I. De voorzieningenrechter is het met verzoekster eens dat de burgemeester in het bestreden besluit ten onrechte heeft overwogen dat de onder 1.2. genoemde stoffen zijn aan te merken als stoffen die voorkomen op de lijsten I en II van de Opiumwet. Ook is de voorzieningenrechter het met verzoekster eens dat het onzorgvuldig van de burgemeester is geweest om de onder 1.2. genoemde stoffen te kwalificeren als stoffen op lijst I en II van de Opiumwet, temeer nu op de zitting bleek dat de burgemeester niet zeker was of de bij het laboratorium aangetroffen stoffen wel als zodanig konden worden gekwalificeerd. Het past in dat geval een bestuursorgaan niet om dan maar een slag in de lucht te doen door er vanuit te gaan dat de genoemde stoffen wel op lijst I en II van de Opiumwet staan en dat vervolgens ook nog in een besluit op te schrijven. Dit betekent, zoals verzoekster terecht stelt, dat de burgemeester de sluiting niet op artikel 13b, eerste lid, aanhef en onder a, van de Opiumwet en het daarop gebaseerde Handhavingsbeleid kan baseren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Uit wat onder 4. is overwogen, volgt echter niet dat de burgemeester de sluiting enkel op artikel 13b, eerste lid, aanhef en onder a, van de Opiumwet heeft gebaseerd. In het bestreden besluit wordt verwezen naar artikel 13b, eerste lid, van de Opiumwet, dus daarmee – zo begrijpt de voorzieningenrechter – naar zowel de deelgrond aanhef en onder a als de deelgrond aanhef en onder b. In artikel 13b, eerste lid, aanhef en onder b, van de Opiumwet – gelezen in samenhang met artikel 11, derde en vijfde lid, artikel 11a en artikel 2, aanhef en onder B, van de Opiumwet – staat dat de burgemeester bevoegd is een pand te sluiten als daar voorwerpen of stoffen worden aangetroffen die op zichzelf bezien legaal zijn, maar waarvan de betrokkene weet of ernstige redenen heeft om te vermoeden dat zij bestemd zijn voor de grootschalige of bedrijfsmatige vervaardiging van harddrugs. Uit de wetsgeschiedenis volgt dat de aangetroffen situatie van dien aard moet zijn dat redelijkerwijs moet worden aangenomen dat de voorhanden voorwerpen gebruikt zullen worden om strafbare voorbereidingshandelingen te plegen. Dat vereist een bestuurlijke beoordeling die kan worden gebaseerd op de feitelijke omstandigheden zoals de politie die heeft vastgesteld. Dan gaat het bijvoorbeeld om de ter plekke aangetroffen situatie, de aard en de hoeveelheid van de in beslag genomen stoffen, de aangetroffen voorwerpen en stoffen in onderlinge combinatie en andere uit het opsporingsonderzoek blijkende feitelijkheden. Het gaat er om dat de aangetroffen situatie van dien aard is dat redelijkerwijs moet worden aangenomen dat de voorhanden voorwerpen gebruikt zullen worden om strafbare voorbereidingshandelingen te plegen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De voorzieningenrechter volgt verzoekster niet in haar standpunt dat de burgemeester evenmin bevoegd zou zijn om de sluiting te baseren op artikel 13b, eerste lid, aanhef en onder b, van de Opiumwet, omdat specifiek beleid van de burgemeester ter zake ontbreekt.</para>
+      <para />
+      <paragroup>
+        <nr>4.3.1.</nr>
+        <para>De voorzieningenrechter wijst er in dit verband allereerst op dat de bevoegdheid om tot sluiting over te gaan rechtstreeks uit de Opiumwet volgt. Verder staat in artikel 4:81, eerste lid, van de Awb dat een bestuursorgaan – zoals de burgemeester – beleidsregels <emphasis role="underline">kan</emphasis> vaststellen met betrekking tot een hem toekomende bevoegdheid. Er bestaat dus, ook in dit geval, geen wettelijke verplichting om dat te doen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2.</nr>
+        <para>Hieraan doet niet af dat de burgemeester het Handhavingsbeleid niet heeft aangepast aan de per 1 januari 2019 in werking getreden wijziging van artikel 13b, eerste lid, van de Opiumwet, dat voordien uit een volzin bestond en sindsdien uit een volzin en twee onderverdelingen (a en b). Verzoekster heeft, met verwijzing naar gelijksoortige beleidsregels in andere Brabantse gemeenten, op zich terecht, opgemerkt dat de burgemeester inmiddels ruimschoots de tijd heeft gehad het beleid op dit punt te actualiseren. Uit het enkele feit dat dit (nog steeds) niet is gebeurd, kan echter niet, zoals verzoekster lijkt te stellen, worden afgeleid dat de burgemeester de beleidsmatige beslissing heeft genomen om geen sluitingen uit te voeren op grond van artikel 13b, eerste lid, aanhef en onder b, van de Opiumwet.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.3.</nr>
+        <para>De burgemeester heeft op de zitting toegelicht dat in het bestreden besluit is overwogen dat geen sprake (meer) was van voorbereidingshandelingen, omdat het laboratorium reeds in gebruik was genomen en daarmee volgens de burgemeester de uitvoering was begonnen en het stadium van de voorbereiding was gepasseerd. Op de zitting heeft de burgemeester ook toegelicht dat het wel haar bedoeling is het pand te sluiten in verband met het aangetroffen laboratorium en niet pas tot sluiting over te willen doen nadat is vastgesteld dat in het laboratorium daadwerkelijk (hard)drugs zijn vervaardigd. In tegenstelling tot wat in het bestreden besluit staat, betekent dit dus dat er wel sprake was van voorbereidingshandelingen zoals bedoeld in de Opiumwet. In het bestreden besluit heeft de burgemeester dus een onjuiste uitleg gegeven aan dat begrip. Dit kan naar het oordeel van de voorzieningenrechter in de beslissing op bezwaar worden hersteld, omdat door dat herstel de feitelijke grondslag van het bestreden besluit niet wordt verlaten, maar slechts de (onjuiste) kwalificatie daarvan.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Uit de onder 1.2. en 1.3. genoemde feiten volgt naar het oordeel van de voorzieningenrechter dat de aangetroffen situatie van dien aard was dat redelijkerwijs moet worden aangenomen dat de voorhanden voorwerpen gebruikt werden om strafbare voorbereidingshandelingen te plegen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Verder stelt de voorzieningenrechter vast dat de bedrijfsloods met overkapping en het woongedeelte zowel bouwtechnisch als functioneel als een samenhangend geheel moeten worden gezien. Het laboratorium onder de overkapping was afhankelijk van water dat en elektriciteit die vanuit de bedrijfsloods werd afgenomen. De overkapping, waar ook stro werd opgeslagen, heeft verder geen zelfstandige functie los van de bedrijfsloods. Voor het woongedeelte ligt dat laatste mogelijk anders, maar de burgemeester heeft er in dit verband terecht op gewezen dat daarin een enkel- en een dubbelloops hagelgeweer en drie doosjes bijbehorende munitie is aangetroffen. Op de zitting is besproken dat uit de foto’s blijkt dat in ieder geval een van die doosjes munitie naast het nachtkastje op de slaapkamer stond. In het bestreden besluit is overwogen dat bij de handel in verdovende middelen (vuurwapen)geweld aan de orde van de dag is. Verzoekster heeft weliswaar een verklaring voor de herkomst van die wapens en munitie gegeven en gesteld dat de wapens, die er al 22 jaar zouden liggen, voor haar in de vergetelheid waren geraakt. Mede gelet op de hiervoor genoemde vindplaats van de munitie acht de voorzieningenrechter met name dat laatste onderdeel van die verklaring onaannemelijk en acht het bij de huidige stand van zaken meer aannemelijk dat die wapens en munitie op dat moment aanwezig waren om eventueel door het laboratorium aangetrokken (vuurwapen)geweld het hoofd te kunnen bieden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Hieruit volgt dat de burgemeester bevoegd was om op grond van artikel 13b, eerste lid, aanhef en onder b, van de Opiumwet, de bedrijfsloods met overkapping en het woongedeelte te sluiten.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De noodzakelijkheid om van de bevoegdheid gebruik te maken</emphasis>
+        </para>
+      </parablock>
+      <para>5. De voorzieningenrechter is met de burgemeester van oordeel dat er ook een noodzaak was om van de sluitingsbevoegdheid gebruik te maken. Met de sluiting wordt niet alleen de bekendheid van het pand als drugspand in het criminele circuit doorbroken, maar wordt ook voorkomen dat het pand opnieuw wordt gebruikt ten behoeve van het drugscircuit. Ook heeft de burgemeester erop gewezen dat met het treffen van de maatregel aan burgers wordt getoond dat er wordt opgetreden tegen drugscriminaliteit. Verzoekster heeft nog gewezen op het tijdsverloop in deze zaak tussen het aantreffen van het drugslaboratorium op 28 mei 2020 en het nemen van het bestreden besluit door de burgemeester op 26 november 2020 en gesteld dat door dit tijdsverloop de noodzaak is komen te ontvallen. De voorzieningenrechter volgt dat niet. De burgemeester heeft op de zitting voldoende toegelicht dat het tijdsverloop mede het gevolg is van het feit dat het openbaar ministerie zich langere tijd heeft verzet tegen het door de politie verstrekken van aanvullende informatie aan de burgemeester om deze zaak (verder) te kunnen beoordelen. Deze informatie is uiteindelijk alsnog op 28 oktober 2020 verstrekt. Het bestreden besluit is een maand na het verstrekken van die informatie genomen. Gelet hierop kan niet worden gezegd dat de burgemeester niet voldoende voortvarend heeft opgetreden met als gevolg dat de noodzakelijkheid om van de sluitingsbevoegdheid gebruik te maken is komen te vervallen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De evenredigheid van de maatregel: de verwijtbaarheid</emphasis>
+        </para>
+      </parablock>
+      <para>6. De Afdeling heeft in onder andere haar uitspraak van 28 oktober 2020<footnote-ref linkend="_53531a25-10d9-412f-a0e4-70321f9d2edc" /> overwogen dat persoonlijke verwijtbaarheid niet vereist is voor toepassing van artikel 13b, eerste lid, van de Opiumwet. Het ontbreken van iedere betrokkenheid bij de overtreding kan echter afzonderlijk of gezamenlijk met andere omstandigheden maken dat de burgemeester niet in redelijkheid van zijn bevoegdheid gebruik heeft kunnen maken. Zo kan bijvoorbeeld de betrokkene geen verwijt van de overtreding worden gemaakt, als hij niet op de hoogte was en evenmin redelijkerwijs op de hoogte had kunnen zijn van de aanwezigheid van de aangetroffen goederen in zijn pand. Van degene die een pand verhuurt, wordt wel verwacht dat hij zich tot op zekere hoogte informeert over het gebruik dat van dat pand wordt gemaakt. De rechtspraak daarover brengt mee dat verhuurders concreet toezicht moeten houden op het gebruik van een pand dat zij verhuren. Het is niet genoeg als zij het pand alleen maar bezoeken. Zij moeten ook controles uitvoeren die zijn gericht op het gebruik van het pand.</para>
+      <para />
+      <para>7. Verzoekster vindt dat haar niet is te verwijten dat de onder 1.2. en 1.3. genoemde goederen onder de overkapping achter de manege aanwezig waren. De voorzieningenrechter volgt haar daarin niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>
+        [naam] heeft op de zitting toegelicht dat haar partner, [naam] , door onbekenden bedreigd is en onder druk is gezet om toe te laten dat onder de overkapping een faciliteit voor het vervaardigen van groeihormonen zou worden gerealiseerd voor de duur van drie weken. Haar partner zou ervoor hebben gekozen om hier verder niemand van in kennis te stellen, ook [naam] en hun dochter en medevennoot [naam] niet. De voorzieningenrechter merkt op dat [naam] ervoor heeft gekozen om het een en ander niet nader ter zitting toe te lichten, maar om ervoor te kiezen – zoals door [naam] is verklaard – werkzaamheden voor de onderneming te verrichten. De vennoten van verzoekster hebben zichzelf hiermee de kans ontnomen om in het kader van deze voorlopige voorziening de gestelde gang van zaken te concretiseren en daarmee aannemelijk te maken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Verder merkt de voorzieningenrechter op dat de vennoten van verzoekster niet consistent hebben verklaard over de gestelde gang van zaken. [naam] heeft op de zitting verklaard dat het de vennoten door de onbekenden onder bedreiging was verboden om te gaan kijken wat er zich onder de overkapping afspeelde, wat niet te rijmen is met het gestelde dat twee vennoten ( [naam] en [naam] ) überhaupt niet wisten dat er zich onder de overkapping iets afspeelde wat niet in de haak was. Daarnaast heeft [naam] op de zitting verklaard dat de vennoten onder de overkapping wel stro gingen halen voor de paarden, maar dat hen toen niets bijzonders zou zijn opgevallen. Verder is door de burgemeester gesteld, en door verzoekster erkend, dat de auto van vennoot [naam] tijdens het onderzoek op 28 mei 2020 naast de overkapping is aangetroffen. Kennelijk hadden de vennoten weldegelijk toegang tot de overkapping en zijn zij daar ook geweest toen het drugslaboratorium daar in werking was. Gelet op de omvang van het drugslaboratorium, zoals dat blijkt uit de foto’s bij de onder 4. genoemde perspublicaties en uit de omvang van de onder 1.2. en 1.3. genoemde goederen, maar ook de aanwezigheid van een tweetal laboranten, acht de voorzieningenrechter het ongeloofwaardig dat de vennoten niet op de hoogte waren van de aanwezigheid van het laboratorium. In dit verband is ook nog van belang dat [naam] tijdens de zitting heeft gezegd dat zij opgelucht was dat de politie het drugslaboratorium had gevonden en dat de nachtmerrie voorbij was. Zoals [naam] het heeft geformuleerd, kan met “de nachtmerrie” alleen zijn bedoeld de situatie die gepaard ging met de aanwezigheid van het drugslaboratorium. Als zij daarvan niet op de hoogte zou zijn geweest, zou er voor haar om die reden ook geen sprake kunnen zijn van een “nachtmerrie” of een gevoel van opluchting toen de politie daar door middel van het onderzoek op 28 mei 2020 een einde aan maakte.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>Als moet worden aangenomen dat van een bedreiging sprake was, wil de voorzieningenrechter aannemen dat dit voor de vennoten van verzoekster een beangstigende situatie heeft opgeleverd. De burgemeester heeft hierover echter opgemerkt dat de vennoten van verzoekster er ook voor hadden kunnen kiezen om een anonieme melding bij de politie te doen of om bescherming door de politie te vragen. De voorzieningenrechter volgt de burgemeester in deze stelling, reeds omdat enkel is gesteld dat van een bedreiging sprake was zonder dat is geconcretiseerd hoe die er feitelijk zou hebben uitgezien.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De evenredigheid van de maatregel: de gevolgen</emphasis>
+        </para>
+      </parablock>
+      <para>8. De burgemeester heeft er naar het oordeel van de voorzieningenrechter terecht op gewezen dat het feit dat verzoekster als gevolg van de sluiting van de bedrijfsloods haar bedrijf niet meer goed kan uitoefenen, voor haar rekening en risico komt. De burgemeester heeft bij de beoordeling terecht betrokken dat het drugslaboratorium een potentieel gevaarlijke situatie opleverde voor de omgeving, bezoekers van de percelen van verzoekster en de daar aanwezige paarden. Over de duur van de sluiting merkt de voorzieningenrechter nog op dat de burgemeester, nu zij daar in dit geval geen beleid voor heeft, in de te nemen beslissing op bezwaar die zal moeten motiveren. De duur van de sluiting zal dan moeten kunnen worden gedragen door de feiten en de omstandigheden van dit geval.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie en beslissing over de proceskosten en het griffierecht</emphasis>
+        </para>
+      </parablock>
+      <para>9. De voorzieningenrechter is van oordeel dat het bezwaar tegen de sluiting van het pand geen redelijke kans van slagen heeft, en zal het verzoek om een voorlopige voorziening dan ook afwijzen. Dat betekent dat de burgemeester het pand mag sluiten.</para>
+      <para />
+      <para>10. Het bestreden besluit lijdt aan diverse zorgvuldigheids- en motiveringsgebreken, zoals hiervoor aangegeven onder 4.1. en 4.3.3. Deze gebreken zijn naar verwachting in bezwaar te herstellen, maar de voorzieningenrechter begrijpt wel dat die gebreken (mede) aanleiding hebben gevormd om deze voorlopige voorziening aan te vragen. De voorzieningenrechter ziet daarin aanleiding de burgemeester te veroordelen in de door verzoekster gemaakte proceskosten. Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,– (1 punt voor het indienen van het verzoekschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,– en een wegingsfactor 1). Ook moet de burgemeester het door verzoekster betaalde griffierecht vergoeden.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>wijst het verzoek om voorlopige voorziening af;</para>
+      </listitem>
+      <listitem>
+        <para>draagt de burgemeester op het betaalde griffierecht van € 354,– aan verzoekster te vergoeden;</para>
+      </listitem>
+    </itemizedlist>
+    <para>- veroordeelt de burgemeester in de proceskosten van verzoekster tot een bedrag van</para>
+    <para>€ 1.050,–.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.F. Vink, voorzieningenrechter, in aanwezigheid van P.L.M.M. Mulders, griffier. De uitspraak is in het openbaar geschied op 30 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+    <para />
+  </section>
+  <footnote id="_f4d06286-f394-421a-810f-28b0dd0ebe05" label="1">
+    <para> ‘Drugslab ontdekt in Vorstenbosch, zes personen aangehouden’, Hart van Nederland 29 mei 2020: <emphasis role="underline">https://www.hartvannederland.nl/nieuws/2020/drugslab-ontdekt-in-vorstenbosch-zes-personen-aangehouden/</emphasis>.</para>
+  </footnote>
+  <footnote id="_241fa0d5-1fce-44fa-ac82-fc78a13dc9d1" label="2">
+    <para> ‘Drugslab Vorstenbosch zat verstopt tussen strobalen’, Brabants Dagblad 30 mei 2020: <emphasis role="underline">https://www.bd.nl/uden-veghel-e-o/drugslab-vorstenbosch-zat-verstopt-tussen-strobalen~a6eb6e90/</emphasis>.</para>
+  </footnote>
+  <footnote id="_3cbdb54a-c4af-4130-af07-c40503e204e7" label="3">
+    <para> ECLI:NL:RVS:2019:1870.</para>
+  </footnote>
+  <footnote id="_53531a25-10d9-412f-a0e4-70321f9d2edc" label="4">
+    <para> ECLI:NL:RVS:2020:2540 </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:6819</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-04T13:59:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/3884</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:6819">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:6819</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-04T13:59:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:6819 Rechtbank Rotterdam , 30-07-2020 / ROT 20/3884</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:6819:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Het bestreden besluit houdt in dat het bedrijf van verzoeker twee weken de werkzaamheden niet kan uitoefenen. Op het moment dat de voorzieningenrechter uitspraak doet is bijna één week verstreken. Verzoeker heeft niet aannemelijk gemaakt dat sluiting van het pand, en daarmee het bedrijf, voor de resterende week tot een onomkeerbare situatie zal leiden. Van een acute (financiële) noodsituatie is niet gebleken.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:6819:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/3884</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 30 juli 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoeker] , te [plaats] , verzoeker,</bridgehead>
+    <para>gemachtigde: [naam gemachtigde] ,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Rotterdam, verweerder,</bridgehead>
+    <para>gemachtigde: mr. A.J.J. van der Vlist.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 21 juli 2020 (het bestreden besluit) heeft verweerder op grond van artikel 2:35, van de Algemene plaatselijke verordening Rotterdam (APV) de sluiting bevolen van het pand waar [naam bedrijf verzoeker] , het bedrijf van verzoeker, is gevestigd, gelegen aan de [adres] te Rotterdam (het pand) voor een periode van twee weken, ingaande 23 juli om 17:00 uur. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit heeft verzoeker bezwaar gemaakt. Ook heeft verzoeker de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vanwege de omstandigheden rond het coronavirus is er geen fysieke zitting gehouden bij de rechtbank. Op 27 juli 2020 zijn de gemachtigden van partijen via Skype (telefonisch) gehoord. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Verweerder heeft bevolen het pand waarin [naam bedrijf verzoeker] is gevestigd voor twee weken te sluiten omdat gebleken is dat verzoeker, na op 13 juni 2019 een waarschuwing te hebben ontvangen wegens dezelfde overtreding, het Digitaal Opkopers Register (DOR) niet volledig bijhoudt. </para>
+    <para />
+    <para>2. De voorlopige voorzieningenprocedure is bedoeld om in afwachting van de uitkomst van (in dit geval) de bezwaarprocedure een voorlopige maatregel te treffen. Daarom speelt bij de beoordeling van een verzoek om voorlopige voorziening de spoedeisendheid een belangrijke rol. Van voldoende spoedeisendheid is sprake, wanneer een besluit onomkeerbare gevolgen heeft en een beslissing op het bezwaar van verzoeker niet kan worden afgewacht. </para>
+    <para />
+    <para>3. Verzoeker heeft aangevoerd dat de inkomsten uit het bedrijf de enige inkomstenbron zijn waarover hij beschikt. Bij een sluiting van twee weken heeft hij tijdens die periode geen inkomen en kan hij zijn afspraken met klanten niet nakomen. </para>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het bestreden besluit houdt in dat het bedrijf van verzoeker twee weken de werkzaamheden niet kan uitoefenen. Op het moment dat de voorzieningenrechter uitspraak doet is bijna één week verstreken. Verzoeker heeft niet aannemelijk gemaakt dat sluiting van het pand, en daarmee het bedrijf, voor de resterende week tot een onomkeerbare situatie zal leiden. Van een acute (financiële) noodsituatie is niet gebleken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Dit leidt ertoe dat verzoeker onvoldoende spoedeisend belang heeft aangetoond bij de door hem verzochte voorlopige voorziening. Er kan ondanks het ontbreken van een spoedeisend belang toch aanleiding bestaan een voorlopige voorziening te treffen als sprake is van een evident onrechtmatig besluit. Daarvan is hier geen sprake.</para>
+      <para />
+      <para>5. Het verzoek zal daarom worden afgewezen.</para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 30 juli 2020 door mr. A.P. Hameete, voorzieningenrechter, in aanwezigheid van mr. M.L.F. de Leeuw, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier en de voorzieningenrechter zijn verhinderd de uitspraak te ondertekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

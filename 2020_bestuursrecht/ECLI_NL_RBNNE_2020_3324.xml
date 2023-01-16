@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:3324</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-22T07:47:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 19/1928</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JOM 2020/538</rdf:li>
+          <rdf:li>JB 2020/197 met annotatie van Bronsema, R.</rdf:li>
+          <rdf:li>JGROND 2020/240 met annotatie van Loo, F.M.A. van der</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3324">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3324</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T13:05:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:3324 Rechtbank Noord-Nederland , 25-09-2020 / LEE 19/1928</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:3324:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Uitspraak mijnbouwschade. Rechtbank spreekt zich uit over juiste toepassing wettelijk bewijsvermoeden. Gegrond beroep want rapportages deskundigen van verweerder onvoldoende gemotiveerd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:3324:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: LEE 19/1928</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 25 september 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser], te [plaats], eiser,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Het Instituut mijnbouwschade Groningen (voorheen de Minister van Economische Zaken en Klimaat), </emphasis>verweerder<emphasis role="bold">.</emphasis></para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 oktober 2018 (het primaire besluit) heeft verweerder aan eiser een vergoeding toegekend van €1.451,18. Eiser heeft daartegen bezwaar gemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 12 april 2019 (het bestreden besluit) heeft verweerder het bezwaar ongegrond verklaard en het primaire besluit gehandhaafd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft op 13 mei 2019 tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft aanleiding gezien een deskundige, de Stichting Advisering Bestuursrechtspraak (de StAB) te benoemen teneinde de rechtbank van advies te dienen. Op 3 september 2019 heeft de StAB de rechtbank van advies voorzien. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft op 4 september 2019 een aanvulling op het beroepschrift ingezonden. Bij brief van 12 september 2019 heeft eiser gereageerd op de bevindingen van de StAB.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 19 september 2019. Eiser is verschenen, bijgestaan door ir. W.A.B. Meiborg. Verweerder heeft zich laten vertegenwoordigen door mr. T. Franssen. Namens de StAB zijn ing. C. Coenrady en ing. J.C. Kok verschenen. Het onderzoek is ter zitting gesloten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft vervolgens het onderzoek heropend en de StAB opnieuw verzocht de rechtbank van advies te dienen. Bij rapport van 21 oktober 2019 heeft de StAB de rechtbank geadviseerd. Eiser heeft bij schrijven van 14 november 2019 gereageerd. De StAB heeft hierop geconcludeerd in een aanvullend rapport van 19 december 2019.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Desgevraagd heeft eiser bij brief van 27 januari 2020 aangegeven op een nadere zitting een mondelinge reactie te willen geven. Verder heeft eiser bij brief van 7 maart 2020 gereageerd op het StAB-rapport van 4 maart 2020. Bij brief van 18 maart 2020 heeft eiser vervolgens alsnog toestemming gegeven om de zaak zonder nadere zitting af te doen. Verweerder heeft daarvoor eveneens toestemming gegeven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft vervolgens het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het bestreden besluit is namens de Minister van Economische Zaken en Klimaat, genomen door de deelcommissie bezwaar van de Tijdelijke Commissie Mijnbouwschade Groningen.</para>
+      <para>Op 1 juli 2020 is de Tijdelijke wet Groningen in werking getreden. Op grond van artikel 2, eerste lid, van deze wet is er een Instituut Mijnbouwschade Groningen. Op grond van artikel 21, eerste lid, van deze wet worden de besluiten die zijn genomen door de deelcommissie mijnbouwschade en de deelcommissie bezwaar aangemerkt als besluiten van het Instituut Mijnbouwschade Groningen. Op grond van het vierde lid van artikel 21 neemt het Instituut de zaken over in de staat waarin ze zich bevinden. De rechtbank duidt in deze uitspraak daarom zowel de minister als het Instituut als verweerder aan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten </emphasis>
+      </para>
+      <para>1.		Eiser is woonachtig aan de [adres] te [plaats]. De woning is in 1997 gebouwd en eiser is sinds 1997 eigenaar van de woning. In 1999 is de woning voorzien van een tweede verdieping. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Op 8 januari 2018 heeft eiser bij het Centrum Veilig Wonen melding gedaan van schade aan zijn woning, die naar zijn overtuiging het gevolg is van trilling van de bodem door de aardbeving bij Zeerijp op 8 januari 2018. De aardbeving had een kracht van 3.4 op de schaal van Richter.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Op 31 januari 2018 heeft de Minister van Economische Zaken en Klimaat het Protocol mijnbouwschade Groningen vastgesteld en besloten tot instelling van de Tijdelijke commissie mijnbouwschade Groningen (TCMG, Besluit mijnbouwschade Groningen, hierna: het Besluit). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>In dit Besluit heeft de Minister de Tijdelijke commissie mijnbouwschade aangewezen als instantie die verantwoordelijk is voor het afhandelen van schade. Schade is daarbij gedefinieerd als fysieke schade aan gebouwen en werken die is ontstaan door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag Norg, en materiële schade die het gevolg is van deze fysieke schade.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>In het Besluit is bepaald dat schademeldingen die in de periode van 31 maart 2017, 12:00 uur tot de datum van inwerkingtreding van dit besluit zijn voorgelegd aan het Centrum Veilig Wonen en bij het Centrum in behandeling zijn, worden geacht een aanvraag tot vergoeding van schade als bedoeld in het Besluit te zijn. Eveneens is bepaald dat de Commissie de behandeling van de zaken overneemt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Op 19 juni 2018 is eiser in zijn woning bezocht door een schade-expert, in dit geval F. Boellaard. Tijdens dit bezoek heeft de deskundige de gemelde schades opgenomen en beoordeeld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <parablock>
+        <para>Eiser heeft vier verschillende schades gemeld. </para>
+        <para>schade 1: scheurvorming in de buitenmuur;</para>
+        <para>schade 2: scheurvorming in de binnenmuur (in het trappenhuis);</para>
+        <para>schade 3: scheurvorming in de binnenmuur (hoek bij overgang van wand naar plafond);</para>
+        <para>schade 4: scheurvorming in de binnenmuur (trappenhuis).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>De deskundige F. Boellaard (hierna: Boellaard) heeft zijn bevindingen opgenomen in een rapportage van 27 juli 2018. Volgens deze deskundige zijn schades 2 en 4 niet ontstaan door mijnbouw, maar zijn deze er wel door verergerd. Deze schades komen voor vergoeding in aanmerking. Schades 1 en 3 zijn volgens Boellaard niet veroorzaakt en ook niet verergerd door mijnbouw. Hierbij is opgenomen dat schade 3 scheurvorming betreft ten gevolge van thermische werking en lichte vervorming van de constructie door belasting. Boellaard komt tot een schadebedrag van  €1.429,32 voor schade 2 en 4.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>Het rapport is op 2 augustus 2018 aan eiser toegezonden. Eiser heeft bij mail van 4 augustus 2018 aangegeven dat hij het niet eens is met de stelling van Boellaard dat schade 3 geen mijnbouwschade zou zijn. Tijdens de opname zou deze schade als mijnbouwschade zijn gekwalificeerd.	</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <para>Bij besluit van 8 oktober 2018 heeft verweerder aan eiser meegedeeld het advies van Boellaard  te volgen en eiser een vergoeding van €1.451,18, dat is het eerdergenoemde schadebedrag vermeerderd met wettelijke rente, toegekend. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10.</nr>
+      <para>Eiser heeft bij brief van 15 oktober 2018 bezwaar gemaakt. Volgens eiser had hij voorafgaande aan de aardbeving van 8 januari 2018 een strakke muur zonder scheuren en schade. Na de beving zag hij naar zijn zeggen dat er schade was en er scheuren waren ontstaan. Er is volgens eiser een duidelijk causaal verband tussen de aardbeving en ontstane schade. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.11.</nr>
+      <para>Op 21 november 2018 heeft de deskundige P. Venema (hierna: Venema) een bezoek aan eiser gebracht. In de reactie op bezwaar van de coördinator zienswijzen, gedateerd 27 november 2018, is neergelegd dat Venema de conclusie van de onder schade 3 genoemde schadeoorzaak deelt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.12.</nr>
+      <para>De reactie is op 29 november 2018 aan eiser toegezonden. Eiser heeft in een mail van 2 januari 2019 aangegeven dat hij van mening blijft dat er een causaal verband is tussen schade 3 en de aardbeving van 8 januari 2018.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.13.</nr>
+      <parablock>
+        <para>De deelcommissie mijnbouwschade heeft bij brief van 26 januari 2019 een toelichting gegeven op het besluit van 8 oktober 2018. Volgens verweerder hebben Boellaard en Venema een tweetal andere uitsluitende schadeoorzaken aangegeven: thermische werking en lichte vervorming van de constructie door belasting. Volgens verweerder moet ten aanzien van de opmerking van eiser dat de scheuren er vóór </para>
+        <para>8 januari 2018 niet zaten terughoudendheid worden betracht bij het toekennen van betekenis daaraan omdat de scheuren zich op een niet in het oog springende plek bevinden en een sterke beving er in de praktijk toe lijkt te leiden dat bewoners hun huizen op de aanwezigheid van (extra) mijnbouwschade gaan inspecteren.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.14.</nr>
+      <para>Op 30 januari 2019 heeft de bezwaaradviescommissie een hoorzitting gehouden. Eiser heeft hier zijn standpunten nader toegelicht. Bij brief van 28 februari 2019 heeft de bezwaaradviescommissie aan de deelcommissie bezwaar geadviseerd het bezwaar gegrond te verklaren. Volgens de bezwaaradviescommissie heeft de deelcommissie mijnbouwschade het bewijsvermoeden van artikel 6:177a, eerste lid, van het Burgerlijk Wetboek (hierna: het BW) niet weerlegd. De commissie hecht hierbij veel waarde aan het feit dat andere schade wél vergoed is, dat de scheur er volgens eiser vóór 8 januari 2018 niet zat, dat eiser tijdens de hoorzitting heeft verklaard dat hij een 'pietje precies' is, dat de muur waarin de scheuren zich bevinden geen geheimen voor hem heeft omdat hij twee meter lang is en dat zijn ter zitting aanwezige zaakbegeleider bevestigde dat het huis van eiser perfect onderhouden is. Verder heeft de deskundige Venema op de zitting niet aan kunnen geven of de schade verergerd is door de aardbeving. De adviescommissie begroot de aanvullend te vergoeden schade op € 400,-.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.15.</nr>
+      <para>Op 20 maart 2019 heeft het lid van de deelcommissie bezwaar J. van Dijk (hierna: Van Dijk) de woning van eiser bezocht en de schade bekeken. De bevindingen van Van Dijk zijn dat de afwerking van de wand van de slaapkamer, die uit keramische blokken bestaat, verkleefd is met het plafond, zijnde de vloer van de bovenliggende verdieping. Tussen de wand en de daarboven liggende vloer is een voeg van pur aangebracht, die een flexibele verbinding tussen de verschillende materialen geeft. Door de werking van de verschillende materialen ontstaat beweging tussen de betonnen (boven)vloer en de keramische blokken, met scheurvorming en afbladderen van de wandafwerking als gevolg. </para>
+      <para />
+      <para>2. Bij het bestreden besluit heeft de deelcommissie bezwaar het bezwaar van eiser ongegrond verklaard. De commissie heeft overwogen dat de heer Van Dijk van oordeel is dat de schade is ontstaan door de werking van verschillende materialen. Deze bevinding is in overeenstemming met de bevindingen van de deskundigen Boellaard en Venema. De deelcommissie bezwaar is op grond daarvan van oordeel dat de toegepaste bouwconstructie de uitsluitende oorzaak is. De deelcommissie verwijst nog naar het advies van de commissie Mierlo c.s. aangaande het advies van 22 januari 2019. Daarin wordt aangegeven dat fysieke schades als het loslaten/onthechten van verfwerk evident en aantoonbaar geen relatie met bodembewegingen hebben.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het karakter van het primaire besluit</emphasis>
+        </para>
+      </parablock>
+      <para>3. Op grond van artikel 8:1 en artikel 7:1 van de Algemene wet bestuursrecht (de Awb) kan een belanghebbende tegen een beslissing slechts bezwaar instellen en vervolgens het besluit op bezwaar in beroep inhoudelijk laten beoordelen indien die beslissing een besluit is in de zin van de Awb. </para>
+      <parablock>
+        <para>Ingevolge artikel 1:3, eerste lid, van de Awb wordt onder een besluit verstaan een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. </para>
+        <para>In artikel 1:1, eerste lid, van de Awb is bepaald dat onder bestuursorgaan wordt verstaan: a. een orgaan van een rechtspersoon die krachtens publiekrecht is ingesteld, of b. een ander persoon of college, met enig openbaar gezag bekleed. </para>
+        <para>Verweerder, ten tijde van het bestreden besluit de Minister van Economische Zaken en Klimaat, is een bestuursorgaan als bedoeld onder a. Verder is het bestreden besluit schriftelijk genomen, zodat slechts beoordeeld moet worden of de beslissing van verweerder een publiekrechtelijke rechtshandeling inhoudt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Er is in dit geval sprake van een publiekrechtelijke rechtshandeling indien een publiekrechtelijke rechtsregel, of een samenstel daarvan, aan de primaire beslissing van verweerder het rechtsgevolg verbindt dat verweerder de schade die is veroorzaakt door de gaswinning, de mijnbouwschade, moet vergoeden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>In artikel 3, tweede en derde lid, van het Besluit heeft verweerder een bevoegdheid bij de deelcommissie mijnbouwschade neergelegd om op aanvragen tot vergoeding van schade te beslissen en bij de deelcommissie bezwaar om beslissingen op bezwaar tegen dergelijke beslissingen te nemen. In het Besluit is geen verwijzing opgenomen naar een specifieke wettelijke bepaling op grond waarvan verweerder zich bevoegd acht tot het vaststellen van dit Besluit. In de toelichting is opgenomen dat dit Besluit een vorm van onverplicht, buitenwettelijk beleid vastlegt. De rechtbank is met verweerder van oordeel dat er geen wettelijke grondslag is aan te wijzen voor deze regelgeving en dat de regels, zoals die in het Besluit zijn opgenomen, moeten worden aangemerkt als beleid in de zin van artikel 1:3, vierde lid, van de Awb. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Met deze beleidsregel geeft verweerder een nadere invulling en concretisering van zijn algemene bevoegdheid tot het doen van financiële uitkeringen ten laste van de publieke middelen. Op grond van artikel 4:84 van de Awb is verweerder verplicht om overeenkomstig deze beleidsregel op aanvragen om schadevergoeding te beslissen. Aldus verbindt artikel 4:84 van de Awb aan de beslissing tot het al dan niet vergoeden van mijnbouwschade op grond van het Besluit het rechtsgevolg dat verweerder, indien er recht bestaat op schadevergoeding, die schade dan ook moet vergoeden. In die zin is er sprake van een rechtsgevolg.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Het publiekrechtelijk karakter van het Besluit en daarmee van de beslissingen die op basis van het Besluit worden genomen is naar het oordeel van de rechtbank gelegen in een samenstel van factoren. Zo wordt de vergoeding van de mijnbouwschade gefinancierd uit de publieke middelen. Voorts is de mijnbouwschade mede het gevolg van de lang door de overheid gevoelde noodzaak om de gaswinning maximaal te faciliteren om aldus de energievoorziening in Nederland veilig te stellen en te voorzien in extra publieke middelen om bij te dragen aan de algemene welvaart in Nederland. Aldus is de schade een gevolg van de behartiging van een groot algemeen, publiek, belang en wordt met de vergoeding van die schade hetzelfde publieke belang behartigd. Ook doet de door de gaswinning veroorzaakte schade, die het directe gevolg is van dit door de overheid bevorderde algemene belang, door de beschadiging van woningen, voorts ernstig afbreuk aan de bewoonbaarheid van het land en het leefmilieu van degenen die in het aardbevingsgebied wonen. Aldus voorziet het Besluit in de invulling van de in artikel 21 van de Grondwet gewaarborgde zorgplicht van de overheid. Tot slot kan nog worden gewezen op de inmiddels door de wetgever aangenomen Wet Instituut mijnbouwschade Groningen waarin dit publiekrechtelijke karakter ook wordt vastgelegd in een wet in formele zin. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Gelet op het bovenstaande is de rechtbank van oordeel dat verweerder met het Besluit een beleidsregel heeft vastgesteld waarin hij zijn algemene bevoegdheid tot het doen van financiële uitkeringen nader heeft geconcretiseerd. Het Besluit heeft gezien de context waarbinnen die regeling is opgesteld, een publiekrechtelijk karakter zodat beslissingen op basis van het Besluit naar het oordeel van de rechtbank moeten worden aangemerkt als een besluit in de zin van artikel 1:3, eerste lid, van de Awb. Dit oordeel sluit aan bij een ontwikkeling in de rechtspraak die mede vorm heeft gekregen in de zogenaamde Metroschade uitspraak (ECLI:NL:RVS:1986:AM9085 (AB 1986, 568)) en de Silicose uitspraak (ECLI:NL:RVS:1995:ZF1850 (AB 1996, 136)).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Uit het voorgaande volgt dat de beslissing, waarbij verweerder de aanvraag van eiser om een eenmalige vergoeding heeft afgewezen, dient te worden aangemerkt als een besluit, waartegen eiser ingevolge artikel 8:1, eerste lid, in samenhang met artikel 7:1, eerste lid, van de Awb bezwaar kon maken.</para>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Inhoudelijke beoordeling van het bestreden besluit: het bewijsvermoeden</emphasis>
+        </para>
+        <para>4.		Eiser is van mening dat ook de door hem gestelde schade 3 het gevolg is van de gaswinning in het Groningenveld althans dat verweerder niet is geslaagd in het tegenbewijs. Hiertoe heeft eiser allereerst aangevoerd dat verweerder het bewijsvermoeden </para>
+        <para>ex artikel 6:177a, eerste lid, van het BW onjuist heeft toegepast. Verder is eiser van mening dat de door verweerder ingeschakelde deskundigen genoemde oorzaken van de in geding zijnde schade geenszins uitsluiten dat deze schade (mede) is veroorzaakt door gaswinning in het Groningerveld.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Verweerder stelt zich op het standpunt dat hij op grond van het advies van een onafhankelijke deskundige tot de conclusie is gekomen dat het bewijsvermoeden voor wat betreft schade 3 is weerlegd. Eiser heeft geen bewijs aangedragen ter onderbouwing van de conclusie dat, ondanks deze weerlegging, toch aangenomen moet worden dat sprake is schade door gaswinning in het Groningerveld. De deskundige heeft in zijn advies aangegeven dat de schade is ontstaan door andere omstandigheden dan bodembeweging. Deze conclusie is, aldus verweerder, voldoende begrijpelijk gemotiveerd. Hierbij heeft verweerder aangegeven dat de deskundige het bewijsvermoeden in overeenstemming met het advies van het panel van deskundigen en de lijn van verweerder heeft toegepast. Daarnaast heeft verweerder ter zitting aangegeven dat indien de deskundige wel twijfelt over de vraag of de schade niet ten minste is verergerd door bodembeweging als gevolg van mijnbouwschades, dat hij het bewijsvermoeden dan niet weerlegd acht. Ten aanzien van de genoemde schade heeft de deskundige deze twijfels echter niet. Voorts wordt deze conclusie gedeeld door de in bezwaar ingeschakelde deskundige. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>De rechtbank stelt allereerst vast dat tussen partijen niet in geschil is dat het wettelijk bewijsvermoeden van artikel 6:177a, eerste lid, van het BW in de aan de orde zijnde zaak van toepassing is omdat de schade naar zijn aard redelijkerwijs veroorzaakt zou kunnen zijn door bodembeweging als gevolg van gaswinning in het Groningerveld. De rechtbank is van oordeel dat hieruit noodzakelijkerwijs volgt dat uit het enkele feit, zoals in de loop van de procedure door verweerder is opgemerkt, dat vergelijkbare schades ook elders in het land, waar geen gasbevingen plaatsvinden, worden aangetroffen, niet kan maken dat het bewijsvermoeden is weerlegd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>In de onderhavige procedure is wel in geschil of verweerder voor schade 3 het bewijsvermoeden heeft weerlegd met een verwijzing naar het rapport van Boellaard en Venema op basis waarvan voor deze schade door verweerder een andere uitsluitende oorzaak dan bodembeweging door gaswinning in het Groningerveld is aangewezen. Met betrekking tot deze vraag overweegt de rechtbank als volgt. </para>
+      <para />
+      <paragroup>
+        <nr>4.3.1</nr>
+        <para>Ingevolge artikel 6:177a, eerste lid, van het BW wordt vermoed, bij fysieke schade aan gebouwen en werken, die naar haar aard redelijkerwijs schade door beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld zou kunnen zijn, dat die schade veroorzaakt is door de aanleg of de exploitatie van dat mijnbouwwerk. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.2.</nr>
+        <para>Het voornoemde panel van deskundigen heeft in het advies van 22 januari 2019 geadviseerd om het wettelijk bewijsvermoeden slechts weerlegd te achten indien de schadeoorzaak evident en aantoonbaar een andere is dan de bodembeweging als gevolg van de aanleg of exploitatie van een mijnbouwwerk in het Groningenveld of als gevolg van de gasopslag Norg. Hierbij heeft het panel aangegeven dat deskundigen dit op een begrijpelijke en schriftelijke wijze dienen te motiveren. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.3.</nr>
+        <para>De Hoge Raad heeft op 19 juli 2019 (ECLI:NL:HR:2019:1278) antwoord gegeven op door de rechtbank Noord-Nederland gestelde prejudiciële vragen die onder meer zagen op de toepassing van het bewijsvermoeden. In dit kader heeft de Hoge Raad - onder meer - aangegeven dat indien is voldaan aan de vereisten voor toepassing van het vermoeden van artikel 6:177a, eerste lid, van het BW de exploitant dat vermoeden alleen dan met succes weerlegt als hij erin slaagt te bewijzen dat de schade niet is veroorzaakt door de aanleg of de exploitatie van het mijnbouwwerk. Hierbij heeft de Hoge Raad opgemerkt dat voor bewijs in het burgerlijk procesrecht niet is vereist dat de te bewijzen feiten en omstandigheden onomstotelijk komen vast te staan, maar dat voor bewijs kan volstaan dat de te bewijzen feiten en omstandigheden voldoende aannemelijk worden. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.4.</nr>
+        <parablock>
+          <para>In het bestreden besluit en in het verweerschrift heeft verweerder aangegeven dat </para>
+          <para>de schades aan de woning van eiser moeten worden aangemerkt als schades die redelijkerwijs het gevolg zouden kunnen zijn van bodembeweging door gaswinning in het Groningenveld. Verweerder heeft aangegeven dat hij het bewijsvermoeden weerlegd acht indien er evident en aantoonbaar een andere uitsluitende oorzaak van de fysieke schade is aangewezen dan beweging van de bodem als gevolg van de aanleg of de exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld. De termen 'evident en aantoonbaar' legt verweerder zo uit, dat het bewijsvermoeden pas weerlegd is indien de deskundige met een voldoende grote mate van zekerheid een andere uitsluitende oorzaak van de schade kan aanwijzen. Hierbij heeft verweerder aangegeven dat het woord 'evident' inhoudt dat onder deskundigen geen redelijke twijfel bestaat over de aanwezigheid van dergelijke andere oorzaken en dat het woord 'aantoonbaar' impliceert dat in het concrete geval een of meer andere oorzaken dan mijnbouw kunnen worden aangetoond en dus (voor een ter zake deskundige) zichtbaar zijn op grond van bepaalde waarneembare kenmerken. Ten slotte heeft verweerder aangegeven dat het criterium niet aldus moet worden begrepen dat van de deskundige kan worden verlangd dat hij met een natuurwetenschappelijke zekerheid tot zijn conclusie is gekomen. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.5.</nr>
+        <para>De rechtbank stelt vast dat verweerder het bewijsvermoeden in de praktijk zo toepast dat het bewijsvermoeden pas weerlegd is indien er voor de betreffende schade met een voldoende grote mate van zekerheid een andere uitsluitende oorzaak dan bodembeweging door gaswinning kan worden aangewezen. Naar het oordeel van de rechtbank heeft verweerder met het vaststellen van dit criterium - daargelaten de vraag of verweerder met dit criterium een strenger criterium hanteert dan de Hoge Raad - geen afbreuk gedaan aan de waarborg zoals deze door de Hoge Raad intussen is vastgelegd. Gelet hierop mocht verweerder daarom uitgaan van dit criterium. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.6.</nr>
+        <para>De rechtbank overweegt voorts dat, indien en voor zover met het door verweerder gehanteerde criterium wellicht een hogere eis wordt gesteld aan het weerleggen van het bewijsvermoeden dan de door de Hoge Raad gegeven bewijsmaatstaf, dit in het voordeel van eiser is. In het verweerschrift is aangegeven dat deze toepassing van het bewijsvermoeden een vaste gedragslijn is van verweerder en dat verweerder ook aan deze invulling gehouden mag worden. De rechtbank acht deze invulling van het bewijsvermoeden tegen de achtergrond van de onderhavige problematiek en de totstandkomingsgeschiedenis van het Besluit noch onjuist noch kennelijk onredelijk. De rechtbank zal het bestreden besluit op dit punt vol toetsen aan het criterium of verweerder met een voldoende grote mate van zekerheid een andere uitsluitende oorzaak dan bodembeweging door gaswinning heeft aangewezen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.3.7.</nr>
+        <para>Door de gemachtigde van verweerder is de werkinstructie voor de deskundigen die schades opnemen overgelegd. In deze werkinstructie is aangegeven dat de deskundigen aan de hand van feiten en omstandigheden voor iedere afzonderlijke schade moeten aangeven of met een voldoende grote mate van zekerheid een andere uitsluitende oorzaak van de schade valt aan te wijzen. Gelet hierop stelt de rechtbank vast dat verweerder de door haar ingeschakelde deskundigen schades laat opnemen waarbij de deskundigen het door verweerder toegepaste criterium dienen te hanteren.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>In het thans bestreden besluit heeft verweerder er voor gekozen om het bewijsvermoeden te weerleggen door middel van het aanwijzen van een andere uitsluitende oorzaak. Daartoe heeft de deelcommissie bezwaar, op grond van de bevindingen van Van Dijk, die aansluiten bij de rapporten van Boellaard en Venema, overwogen dat de toegepaste bouwconstructie de uitsluitende oorzaak van de aanwezige schade is. De rechtbank constateert dat Van Dijk in de bezwaarprocedure niet als onafhankelijke deskundige kan worden aangemerkt maar dat, zoals ook door verweerder ter zitting is erkend, de bevindingen van Van Dijk moeten worden begrepen tegen de achtergrond van de in de Awb neergelegde vergewisplicht van verweerder in deze. De rechtbank zal daarom alleen de rapporten van Boellaard en Venema als bewijsmiddelen aanmerken aangevuld met hetgeen Venema op de hoorzitting heeft verklaard. </para>
+      <para />
+      <paragroup>
+        <nr>4.4.1.</nr>
+        <para>Boellaard heeft verklaard dat schade 3 het gevolg is van thermische werking en lichte vervorming van de constructie door belasting. Venema heeft zich daaraan geconformeerd en op de hoorzitting van de bezwaar-adviescommissie als volgt verklaard:</para>
+        <para />
+        <parablock>
+          <para>“Je hebt dus de betonnen verdiepingsvloer, dus de vloer van de eerste verdieping en de tweede verdieping. Die is van beton. Daartussen wordt een separatiewand neergezet en het is van een licht bouwmateriaal. Omdat het in een kunststof u-profiel is geplaatst, dat materiaal, is het met 99,9% zekerheid dat het gasbeton is. Gasbeton is een materiaal dat, als je een aanloopje neemt, loop je er doorheen. Maar het staat in feite los in het profiel. Het profiel wordt vastgezet aan de ondergrond, in dit geval beton of aan de zijwanden en daar wordt een separatiewand tussen geplaatst. Maar die staat in feite los. En wat er dan gebeurt, is het feit dat stukadoors die gaan er gewoon overheen stuken en stuken profiel gewoon mee. Stukwerk op een kunststof profiel blijft nooit zitten. </para>
+          <para>…</para>
+          <para>..  als je dat dan goed zou willen beoordelen, zal je dat helemaal weg moeten halen en kijken wat daaronder zit in de aansluiting van het gasbeton naar het plafond. En dat zou in dit geval dan pur kunnen zijn, want die kier wordt dichtgezet, want gasbeton heeft geen draagkracht. Dus vanuit de bovenverdiepingsvloer zal daar ruimte tussen zitten. Ja en als dat dicht gestuukt is, dan gaat dat scheuren.</para>
+          <para>…..</para>
+          <para>En op basis van de constructie durf ik te beweren dat het niet mijnbouw gerelateerd is.”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.4.2.</nr>
+        <para>Verweerder heeft vervolgens in het bestreden besluit de vergoeding van schade 3 afgewezen en er daarbij voor gekozen om als motivering op te nemen de parafrasering van deze bevindingen door Van Dijk die de werking van de constructie als schadeoorzaak aanwijst en de nadruk legt op de flexibele verbinding tussen de wand en de verdiepingsvloer en er daarbij van uit gaat dat die verbinding door het aanbrengen van pur is gerealiseerd. Nu er verder door Venema geen aandacht is besteed aan de aard van de ‘werking’ en hij zich conformeert aan het advies van Boellaard, gaat de rechtbank er van uit dat verweerder met ‘werking’ de ‘thermische werking’ bedoelt. Verweerder verwijst daarbij naar het advies van de commissie van Mierlo van 22 januari 2019 waarin wordt gesteld dat het loslaten/onthechten van verfwerk evident en aantoonbaar geen relatie met bodembewegingen heeft.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <parablock>
+        <para>Eiser stelt zich op het standpunt dat verweerder het bewijsvermoeden van </para>
+        <para>artikel 6:177a, eerste lid, van het BW niet heeft ontkracht. Niet aangetoond is dat er met betrekking tot de schade aan de binnenmuur in de slaapkamer op de eerste etage van zijn woning - oftewel schade 3- evident en aantoonbaar sprake is van een andere oorzaak dan de beving bij Zeerijp op 8 januari 2018. Eiser wijst daarbij op zijn waarneming: vóór 8 januari 2018 was deze scheur dan wel waren deze scheuren er niet. </para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>4.5.1.</nr>
+        <para>Voorts geeft de eigen deskundige van eiser, de heer ir. Meiborg (hierna: Meiborg) een technische uiteenzetting waarom de bevindingen van de deskundigen volgens hem niet juist zijn: volgens Meiborg hebben de deskundigen zich niet gerealiseerd dat de niet dragende binnenwand vooral ook horizontaal ten opzichte van het plafond kan bewegen als gevolg van de trillingen van de aardbeving bij Zeerijp op 8 januari 2018, met scheuren in en schade aan de wandafwerking tot gevolg. Juist omdat de scheurvorming pas na deze aardbeving is waargenomen, is het volgens Meiborg eigenlijk zeker dat die aardbeving schade 3 heeft veroorzaakt.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.2.</nr>
+        <parablock>
+          <para>Eiser wijst daarbij nog op het advies van meergenoemd panel van 22 januari 2019 waarin is opgenomen "alleen in bijzondere gevallen leidt de werking van aardbevingen tot schade die duidelijk te benoemen is als schade door overbelasting als gevolg van de bodembeweging of als gevolg van wijzigingen in draagkracht of vervormingseigenschappen van de bodem. Tijdstip van het ontstaan van schade is hierbij een belangrijke indicator. Het schadebeeld kenmerkt zich dan door recent ontstane scheuren, kenbaar aan onder meer het ontbreken van vervuiling in het scheurvlak en scherpe scheurranden. Het gaat dan om schade die zich uit in:</para>
+          <para>• scheuren en/of verandering van stand van onderdelen van gebouwen of bouwwerken (bijv.</para>
+          <para>schoorstenen);</para>
+          <para>• scheuren in gevelvlakken die duiden op een zogenoemde belasting <emphasis role="italic">uit </emphasis>het vlak of verandering van stand;</para>
+          <para>• scheuren in gevelvlakken die duiden op een zogenoemde grote belasting <emphasis role="italic">in </emphasis>het vlak (in de regel gaat het hierbij dan om diagonale of verticale scheuren);</para>
+          <para>• scheuren in onderdelen van gebouwen of bouwwerken die duiden op een verschilbeweging op aansluitingen tussen verschillende bouwdelen of onderdelen van gebouw of bouwwerk (bijv. aansluitingen van gevelvlakken, van dak- en gevelvlakken. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.3.</nr>
+        <para>In de aanvulling op het beroepschrift heeft Meiborg nog aangevoerd dat precies op de plek waar de in geding zijnde scheidingswand in het U-profiel verdwijnt sprake is van een verticale streep van circa 1 tot 2 mm breedte. Deze verticale streep kan volgens hem alleen worden verklaard doordat de scheidingswand door de in trilling gebrachte bouwmuur tijdens de aardbeving dynamisch horizontaal is belast in de lengterichting van die wand, waardoor deze 1 tot 2 mm ten opzichte van het plafond en de vloer in de lengterichting is opgeschoven. Volgens Meiborg kan de thermische werking geen schadebeeld van de horizontale scheuren in de aansluiting tussen de wanden en het plafond, tezamen met de verticale streep bij het U-profiel veroorzaken. Hij noemt het opmerkelijk dat de deskundigen zowel die scheur als die verticale streep niet vermelden in hun rapportages en beide kenmerken buiten beschouwing laten in hun analyses. </para>
+        <para />
+        <parablock>
+          <para>Hij wijst erop dat in Nederland zeer vaak gebruik wordt gemaakt van de hier aanwezige bouwconstructie met een niet-dragende scheidingswand in een betonnen casco, zonder dat dit tot scheurvorming leidt, zelfs niet na meer dan 20 jaar na de bouw van de woning. Meiborg geeft aan dat hier van afbladderen van verf, zoals de bezwaarcommissie het noemt, geen sprake is. Ook is de scheur naar aanleiding van de aardbeving van 22 mei 2019 verergerd; dit is volgens eiser een extra aanwijzing of bewijs dat de eerste schade ook door een aardbeving is ontstaan.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>De rechtbank constateert dat partijen in grote lijnen niet verdeeld worden gehouden over de feitelijke constructie van de tussenwand zelf en de gebruikte materialen. Partijen verschillen wel van mening over de vraag wat vervolgens de oorzaak is van het ontstaan van de schade. Waar verweerder in navolging van deskundige Venema veronderstelt dat deze schade door thermische werking , derhalve niet door een beweging van de bodem ten gevolge van gaswinning in het Groningerveld, ontstaat, is Meiborg van mening dat niet aangetoond is dat die schade ook altijd ontstaat en dat een aardbeving die schade heel goed kan hebben veroorzaakt of verergerd. </para>
+      <para />
+      <paragroup>
+        <nr>4.6.1.</nr>
+        <para>De rechtbank heeft de StAB gevraagd haar van advies te voorzien. De rechtbank stelt voorop dat gelet op vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (AbRS), zie onder meer ECLI:NL:RVS:2011:BR6329, de bestuursrechter in beginsel mag afgaan op het oordeel van een onafhankelijke door hem ingeschakelde deskundige. Dat is slechts anders indien het advies onvoldoende zorgvuldig tot stand is gekomen of anderszins zodanige gebreken bevat, dat het niet aan de oordeelsvorming ten grondslag mag worden gelegd. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.2.</nr>
+        <para>In het rapport van 3 september 2019 komt de StAB tot de conclusie dat, gegeven de feitelijke constructie van de niet dragende scheidingsmuur en de aansluitingen daarvan op het plafond en de woningscheidende dragende wand, alsmede gegeven het geconstateerde schadepatroon valt uit te sluiten dat schade 3 door bodembeweging als gevolg van gaswinning in het Groningerveld is ontstaan. Voor deze schade is een duidelijk aanwijsbare andere schadeoorzaak aangetroffen: deze schade is te herleiden tot enige doorbuiging van de verdiepingsvloer en daardoor enige verplaatsing van de scheidingswanden, mede onder invloed van de niet geheel juist uitgevoerde aansluiting met het plafond. De scheidingswand is langs de bovenzijde onvoldoende vrijgehouden van de bovenliggende constructievloer, met het aangetroffen schadepatroon tot gevolg. Deze schade is vermoedelijk al in de eerste jaren na de bouw ontstaan.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.3.</nr>
+        <para>In zijn reactie op het StAB rapport voert Meiborg ten eerste aan dat door de StAB een heel andere oorzaak wordt aangewezen dan de drie deskundigen van verweerder, die immers stelden dat de schade was veroorzaakt door thermische werking. Volgens Meiborg is het feit dat de StAB de thermische werking niet noemt opmerkelijk, hij leidt daaruit af dat die thermische werking dus niet de uitsluitende andere oorzaak is die door verweerder is genoemd. Voorts bestrijdt Meiborg dat doorbuiging van de vloer, die volgens zijn berekeningen niet meer kan bedragen dan 0,06 tot 0,18 mm, voor de geconstateerde afwijking van 3 mm kan zorgen. Door Meiborg is betoogd dat het mechanisme van de doorbuiging van de verdiepingsvloer niet goed is begrepen door de StAB omdat de verdiepingsvloer niet rust op de zijwanden maar door die zijwanden wordt ingeklemd zodat de verdiepingsvloer minder kan doorbuigen. Meiborg heeft aan de hand van een in dit kader te hanteren formule aangeven dat een dergelijke doorbuiging veel kleiner is -de eerder vermelde 0,06 tot 0,18 mm- dan een doorbuiging van 3 mm waar verweerder en de StAB van uit gaan. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.4.</nr>
+        <para>Beide standpunten zijn ter zitting met beide deskundigen besproken. De rechtbank heeft na sluiting van het onderzoek geconstateerd dat nog een aantal vragen onbeantwoord is gebleven en zij heeft daarom het onderzoek heropend en de StAB gevraagd nader te adviseren.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.5.</nr>
+        <para>In reactie hierop stelt de StAB in haar rapportage van 21 oktober 2019 dat de door Meiborg gebruikte formule om doorbuiging van de vloer te berekenen, de juiste is. De StAB is echter van mening dat de aannames bij de toepassing van de formule niet juist zijn. Bovendien is door Meiborg het fenomeen kruip niet meegenomen, kruip zorgt eveneens voor vervorming. De StAB komt op basis van een eigen berekening uit op een vervorming van ongeveer 3 mm. Dit betekent dat de stijfheid van de vloer niet aan de door de StAB geponeerde stelling van schade als gevolg van doorbuiging van de vloer in de weg staat. Desgevraagd geeft de StAB nog aan dat de kern van haar betoog is dat de schade is ontstaan als gevolg van doorbuiging van de vloer en niet door thermische werking als meer algemene aanduiding voor scheuren of scheurtjes die veelvuldig voorkomen op de aansluitingen tussen verschillende constructieonderdelen, zoals wand- en plafondaansluitingen. Dergelijke thermische scheuren zijn aldus de StAB op basis van uiterlijke kenmerken niet duidelijk te onderscheiden van trillingsscheuren. In de onderhavige situatie is echter sprake van een meer specifiek mechanisme, waarbij niet alleen sprake is van een scheur op de aansluiting tussen constructiedelen, maar tevens van enige onderlinge verplaatsing tussen aansluitende constructiedelen, wat is te herleiden tot enige doorbuiging van de verdiepingsvloer. Deze specifieke schadekenmerken zijn volgens de StAB juist niet te verwachten bij trillingsschade. Ook na de reactie van Meiborg op dit rapport handhaaft de StAB, in haar rapport van 19 december 2019, haar conclusies. Gelet ook op het overwogene in 6.6. ziet de rechtbank geen aanleiding de StAB niet in haar conclusie te volgen.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.7.</nr>
+      <para>De rechtbank is van oordeel dat op basis van het rapport van de StAB en haar aanvullende toelichtingen met een voldoende mate van aannemelijkheid, zoals vereist voor de wijze waarop verweerder dit interpreteert, vast is komen te staan dat schade 3 niet is veroorzaakt of verergerd door beweging van de bodem.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Inhoudelijke beoordeling van het bestreden besluit: de beving van Zeerijp</emphasis>
+        </para>
+        <para>5.		Door eiser is gesteld dat de schade is veroorzaakt door de beving bij Zeerijp op 8 januari 2018. Eiser heeft schade 3 na die beving geconstateerd en is er van overtuigd dat die schade er voor die beving nog niet was. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Verweerder heeft overwogen dat terughoudendheid betracht moet worden bij het toekennen van betekenis aan dergelijke waarnemingen. Volgens verweerder leert de ervaring dat mensen na een beving hun woning extra goed gaan inspecteren en dan schades ontdekken die er voor de beving wel waren, maar nog niet waren gezien. Verweerder heeft opgemerkt dat de scheur zich in een hoek van de slaapkamer bevindt, boven een kledingkast, en dat deze scheur zodoende niet noodzakelijkerwijs in het oog springt. Verweerder acht het tegen die achtergrond niet ondenkbaar dat de schade reeds vóór de beving bij Zeerijp aanwezig was maar toen niet door eiser is opgemerkt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>De rechtbank is met verweerder van oordeel dat eiser er niet in is geslaagd om te bewijzen dat schade 3 is veroorzaakt door de beving bij Zeerijp. De enkele verklaring van eiser, ook al is hij er stellig van overtuigd dat de schade door die beving is ontstaan, is ontoereikend voor de rechtbank om dit als vaststaand aan te (kunnen) nemen en eiser heeft geen foto's of andere bewijsmiddelen overgelegd waaruit blijkt dat deze schade er voor de beving bij Zeerijp niet was.</para>
+      <para />
+      <parablock>
+        <para>6.		Gelet op het bovenstaande komt de rechtbank tot de volgende conclusies.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>In de onderhavige zaak heeft verweerder zijn oordeel dat schade 3 niet is veroorzaakt door een beweging van de bodem als gevolg van gaswinning, gebaseerd op de rapporten van twee deskundigen, namelijk Boellaard en Venema, en op een mondelinge toelichting van Venema op de hoorzitting. De kern van de bevindingen van de deskundigen van verweerder, zoals die in het bestreden besluit zijn vastgelegd, is dat de schade is veroorzaakt door de gekozen constructie, waarbij met name wordt gedoeld op de gebruikte materialen voor de tussenwand en de aanhechting aan het plafond en de zijwanden, en de werking, waarbij kennelijk wordt gedoeld op de beweging en vervorming die er normaliter in een constructie zit . </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Verweerder heeft zich in de loop van de procedure telkens op het standpunt gesteld dat het deskundigenrapport toereikend bewijs is. De rechtbank deelt dit standpunt niet. De rechtbank is oordeel dat verweerder onvoldoende heeft gemotiveerd dat de schade met een voldoende hoge mate van zekerheid is veroorzaakt door een andere oorzaak dan de beweging van de bodem ten gevolge van gaswinning. Hoewel voldoende inzichtelijk is gemaakt dat de gekozen constructie, in de zin van de gekozen materialen voor de tussenwand en de wijze van aanhechting aan de wanden en het plafond, gevoelig is voor scheurvorming, is onvoldoende inzichtelijk gemaakt dat die scheurvorming moet zijn veroorzaakt door de reguliere werking van het huis en niet kan zijn veroorzaakt door bodembeweging ten gevolge van gaswinning. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>De rechtbank neemt bij haar beoordeling in overweging dat het in dit geval gaat om relatief grote scheurvorming in de orde van grootte van enkele millimeters die, zoals door de StAB is gerapporteerd, niet kan worden verklaard door de thermische werking van het huis. Wanneer verweerder meent dat een dergelijke scheurvorming moet zijn veroorzaakt door de constructie dan dient het deskundigenrapport niet alleen inzicht te geven in de gekozen constructie maar ook in het mechanisme waardoor de scheuren in die constructie ontstaan. Naarmate de omvang van de scheurvorming ernstiger is mag van de deskundige verwacht worden dat hij meer inzicht verschaft in de gekozen constructie en het mechanisme die de geconstateerde schade hebben veroorzaakt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <para>Nu de deskundigenrapportages die verweerder aan het bestreden besluit ten grondslag heeft gelegd, onvoldoende inzicht geven in het mechanisme dat tot de scheurvorming van schade 3 heeft geleid, is de rechtbank van oordeel dat verweerder zich onvoldoende van zijn vergewisplicht heeft gekweten. Dit leidt tot de conclusie dat verweerder het bestreden besluit niet toereikend met de rapporten van zijn geraadpleegde deskundigen heeft kunnen onderbouwen. De rechtbank is dan ook van oordeel dat het bestreden besluit  onvoldoende is gemotiveerd, zodat het besluit wegens strijd met artikel 7:12 van de Awb moet worden vernietigd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5.</nr>
+      <para>Hoewel het bestreden besluit zal worden vernietigd is de rechtbank van oordeel dat de rechtsgevolgen van het bestreden besluit in stand kunnen worden gelaten. De rechtbank overweegt daartoe dat in de loop van deze procedure aan de hand van de rapportages van de StAB voldoende inzichtelijk is geworden dat de scheurvorming moet zijn veroorzaakt door de doorbuiging van de verdiepingsvloer in de orde van grootte van enkele millimeters waardoor de scheidingswand is gekanteld en aan de bovenzijde is verschoven ten opzichte van het plafond en daardoor ook de wand aan de zijde van het trappenhuis enigszins heeft weggeduwd, met de in geding zijnde schade 3 als gevolg. De rechtbank constateert dat met deze rapportage een voldoende hoge mate van zekerheid is verkregen dat de schade niet is veroorzaakt door bodembeweging ten gevolge van gaswinning zodat het bewijsvermoeden ex artikel 6:177a, eerste lid, van het BW overeenkomstig de door verweerder gehanteerde maatstaf is weerlegd. Voor een vergoeding van schade 3 bestaat dan ook geen grond zodat de rechtsgevolgen van het bestreden besluit in stand kunnen blijven. </para>
+      <para />
+      <para>7. Gelet op bovenstaande overwegingen is het beroep gegrond. </para>
+      <para />
+      <para>8. Op grond van artikel 8:75, eerste lid van de Awb is de bestuursrechter bij uitsluiting bevoegd een partij te veroordelen in de kosten die een andere partij in verband met de behandeling van het beroep bij de bestuursrechter, en van het bezwaar of van het administratief beroep redelijkerwijs heeft moeten maken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Meiborg heeft een declaratie ingeleverd van door hem gemaakte kosten in verband met de behandeling van dit beroep. Ter zitting is echter gebleken dat deze kosten niet aan eiser in rekening zullen worden gebracht. Gelet op het bepaalde in artikel 8:75, eerste lid, van de Awb komen deze kosten dan niet voor vergoeding in aanmerking. Overige voor vergoeding in aanmerking komende kosten zijn de rechtbank niet gebleken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Aangezien het beroep gegrond wordt verklaard dient verweerder het griffierecht aan eiser te vergoeden.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- bepaalt dat de rechtsgevolgen van het besluit in stand blijven;</para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 174,-- aan eiser te vergoeden.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.L. Vucsán, voorzitter, en mrs. T.F. Bruinenberg en M.E. van Rossum, leden, in aanwezigheid van mr. A.M. Veenstra, griffier. </para>
+      <para>De uitspraak is gedaan op 25 september 2020. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier														de voorzitter is</para>
+      <para>															verhinderd de uitspraak</para>
+      <para>															te tekenen		</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:1680</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-30T21:20:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 19-245</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>OGR-Updates.nl 2020-0107 met annotatie van Fleur Onrust</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:1680">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:1680</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-16T09:49:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:1680 Rechtbank Noord-Nederland , 14-04-2020 / LEE 19-245</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:1680:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Diverse verzoeken om (preventief) handhavend optreden ingevolge de Wnb met betrekking tot de Groene Ster afgewezen. Peildata en nadien ingediende rapportages. Verplichting om gebods- en verbodsborden te plaatsen. Reikwijdte van de zorgplichtbepaling van artikel 1.11 van de Wnb. Onderzoek door de StAB.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:1680:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Groningen</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummer: LEE 19/245</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 14 april 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres], gevestigd te [plaats], eiseres,</bridgehead>
+    <para>(gemachtigden: [betrokkene]),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van gedeputeerde staten van de provincie Fryslân, verweerder,</bridgehead>
+    <para>(gemachtigde: mr. T. Tuenter).</para>
+    <para />
+    <parablock>
+      <para>Als <emphasis role="bold">derde-partij </emphasis>heeft aan het geding deelgenomen: het college van burgemeester en wethouders van de gemeente Leeuwarden, derde-belanghebbende, </para>
+      <para>(gemachtigde: mr. R.T. Offringa).</para>
+    </parablock>
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para>Bij besluit van 12 juni 2018 (het primaire besluit I) heeft verweerder de door eiseres ingediende verzoeken om handhaving, ingediend bij brief van 28 maart, 5, 6, 8 en 9 april 2018, betreffende “De Groene Ster” te Leeuwarden, afgewezen.</para>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 juni 2018 (het primaire besluit II), verzonden op 14 juni 2018, heeft verweerder aan eiseres medegedeeld dat het op 18 mei 2018 ingediende verzoek om handhaving betreffende de (gestelde) overtreding van het maaiverbod in “De Groene Ster” te Leeuwarden is doorgezonden aan derde-belanghebbende.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 5 december 2018 (het bestreden besluit) heeft verweerder het bezwaarschrift van eiseres, voor zover gericht tegen het primaire besluit I van 12 juni 2018 ongegrond verklaard en dit besluit gehandhaafd. Verder heeft verweerder met het bestreden besluit het bezwaarschrift van eiseres, voor zover gericht tegen het primaire besluit II van 13 juni 2018, gegrond verklaard, dit besluit herroepen en het verzoek om handhaving betreffende de (gestelde) overtreding van het maaiverbod in “De Groene Ster” afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen het bestreden besluit heeft eiseres beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Stichting Advisering Bestuursrechtspraak voor Milieu en Ruimtelijke Ordening (StAB) heeft een deskundigenbericht uitgebracht, gedateerd 26 juni 2019. Partijen zijn in de gelegenheid gesteld daarop te reageren. Bij brief van 18 september 2019 heeft de StAB aanvullend gereageerd.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op de zitting van 6 februari 2020.</para>
+      <para>Eiseres is vertegenwoordigd door haar gemachtigden.</para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, mr. J. van der Veen en drs. F.R. Wagenaar.</para>
+      <para>Namens derde-belanghebbende zijn voornoemde gemachtigde, J. Broersma (groenbeheerder), G. Langhout (stadsdeelbeheerder), S. Berger (beleidsadviseur ecologie) en G. van Minnen (vergunningverlener ecologie) verschenen.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+  </section>
+  <section>
+    <title>Feiten en omstandigheden</title>
+    <para>1.	Bij haar oordeelsvorming betrekt de rechtbank de navolgende feiten en omstandigheden.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Voorgeschiedenis</emphasis>
+      </para>
+      <para>Het gebied “De Groene Ster” ligt ten oosten van de bebouwde kom van Leeuwarden. Hier worden al geruime tijd drie jaarlijks terugkerende muziekfestivals gehouden, te weten de (meerdaagse) muziekfestivals “Promised Land”, “Welcome to the Village” en “Psy-Fi”. In 2018 werd een extra festival (“Conference of the Birds”) gehouden, in het kader van de aanwijzing van de stad Leeuwarden door de Raad van ministers van de Europese Unie als Culturele Hoofdstad van Europa. De evenementen trekken per dag circa 13.000 bezoekers.</para>
+      <para>Tijdens het muziekfestival “Psy-Fi” kan tevens worden gekampeerd op het evenementen-terrein.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <parablock>
+        <para>Eiseres heeft bij brieven van 26 maart, 5 april, 6 april, 8 april en 9 april 2018 bij verweerder verzocht om (preventieve) handhaving in verband met (toekomstige) overtredingen in het natuurgebied “De Groene Ster” door de gemeente Leeuwarden. Deze (gestelde) overtredingen hebben voor een deel een relatie met een viertal te organiseren festivals in “De Groene Ster”. De gemeente Leeuwarden wordt aangesproken in haar privaatrechtelijke hoedanigheid als terreinbeheerder en als publiekrechtelijk bevoegd gezag als vergunningverlener ingevolge de Wet algemene bepalingen omgevingsrecht (Wabo).</para>
+        <para>De handhavingsverzoeken van eiseres hebben, samengevat, betrekking op het instellen en het handhaven van de volgende verboden in “De Groene Ster”:</para>
+      </parablock>
+      <para>- maaiverboden in verschillende gebiedsdelen;</para>
+      <para>- verbod tot het intensief betreden van bepaalde gebiedsdelen;</para>
+      <para>- rooi-, snoei- en maaiverbod voor de laagvegetatie in alle bosschages, boscomplexen en houtopstanden in het gebied;</para>
+      <para>- verbod tot het betreden van bepaalde gebiedsdelen.</para>
+      <parablock>
+        <para>Genoemde verboden hebben ten doel om verschillende diersoorten (de waterspitsmuis, de Noordse woelmuis, de heikikker, de rugstreeppad, broedvogels, vleermuizen, roofvogels, uilen, amfibieën en kleine zoogdieren) te beschermen en daarnaast verstoring van de roekenkolonie te voorkomen.</para>
+        <para>Verder is door eiseres verzocht om:</para>
+      </parablock>
+      <para>- de gemeente Leeuwarden te verplichten ter bescherming van de natuurwaarden om toegangsborden met daarop aanwijzingen richting bezoekers te (her)plaatsen;</para>
+      <para>- geen verklaring van geen bedenkingen (hierna: de vvgb) af te geven voor de bij derde-belanghebbende aangevraagde omgevingsvergunningen voor het organiseren van vier festivals;</para>
+      <para>- de gemeente Leeuwarden op te dragen - ter bescherming van de vleermuispopulaties en van de natuurvoorwaarde ‘duisternis’ - het gemeentelijk verbod om tussen zonsondergang en zonsopgang in het gebied te verblijven en het verbod om de bosschages en boscomplexen in het gebied te betreden, stringent te handhaven.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <parablock>
+        <para>Verweerder heeft bij brief van 24 april 2018 aan eiseres medegedeeld niet voornemens te zijn om handhavend op te treden of bestuursrechtelijke maatregelen toe te passen.</para>
+        <para>Verder heeft verweerder met deze brief eiseres in de gelegenheid gesteld om een zienswijze met betrekking tot dit voornemen in te dienen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Eiseres heeft bij brief van 8 mei 2018 een zienswijze bij verweerder ingediend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Eiseres heeft bij brief van 18 mei 2018 opnieuw een verzoek om handhaving bij verweerder ingediend. Dit verzoek om handhaving heeft betrekking op handhavend optreden jegens de gemeente Leeuwarden in verband met een (gestelde) overtreding van het maaiverbod.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij besluit van 12 juni 2018 (het primaire besluit I) heeft verweerder de door eiseres ingediende verzoeken om handhaving, ingediend bij brief van 28 maart, 5, 6, 8 en 9 april 2018, betreffende “De Groene Ster” te Leeuwarden, afgewezen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Bij besluit van 13 juni 2018 (het primaire besluit II), verzonden op 14 juni 2018, heeft verweerder aan eiseres medegedeeld dat het op 18 mei 2018 ingediende verzoek om handhaving betreffende de (gestelde) overtreding van het maaiverbod in “De Groene Ster” te Leeuwarden is doorgezonden aan derde-belanghebbende.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Tegen de primaire besluiten I en II heeft eiseres bij brief van 19 juni 2018 een bezwaarschrift bij verweerder ingediend. De gronden van bezwaar zijn aangevuld bij brief van 27 juni 2018 en 8 oktober 2018.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>Eiseres heeft het bezwaarschrift toegelicht op de hoorzitting van 28 augustus 2018 van de Commissie voor Bezwaar en Beroep van de provincie Fryslân (hierna: de commissie). Een verslag van deze hoorzitting bevindt zich onder de gedingstukken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <para>De commissie heeft verweerder bij brief van 20 november 2018 geadviseerd om het bezwaarschrift van eiseres, gericht tegen het primaire besluit I van 12 juni 2018, ongegrond te verklaren en dit besluit in stand te laten. Verder heeft de commissie verweerder met voormelde brief geadviseerd om het bezwaarschrift van eiseres, gericht tegen het primaire besluit II van 13 juni 2018, gegrond te verklaren en alsnog een besluit te nemen op het door haar gedane handhavingsverzoek.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10.</nr>
+      <para>Bij het bestreden besluit van 5 december 2018 heeft verweerder het bezwaarschrift van eiseres, voor zover gericht tegen het primaire besluit I van 12 juni 2018 ongegrond verklaard en dit besluit gehandhaafd. Verder heeft verweerder met het bestreden besluit het bezwaarschrift van eiseres, voor zover gericht tegen het primaire besluit II van 13 juni 2018, gegrond verklaard, dit besluit herroepen en het verzoek om handhaving betreffende de (gestelde) overtreding van het maaiverbod in “De Groene Ster” afgewezen.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Toepasselijke regelgeving</title>
+    <para>2. Ingevolge artikel 1.11, eerste lid, van de Wet natuurbescherming (Wnb) neemt een ieder neemt voldoende zorg in acht voor Natura 2000-gebieden, bijzondere nationale natuurgebieden en voor in het wild levende dieren en planten en hun directe leefomgeving.</para>
+    <para>Ingevolge artikel 1.11, tweede lid, van de Wnb houdt de zorg, bedoeld in het eerste lid, in elk geval in dat een ieder die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten nadelige gevolgen kunnen worden veroorzaakt voor een Natura 2000-gebied, een bijzonder nationaal natuurgebied of voor in het wild levende dieren en planten:</para>
+    <para>a.	dergelijke handelingen achterwege laat, dan wel,</para>
+    <para>b.	indien dat achterwege laten redelijkerwijs niet kan worden gevergd, de noodzakelijke maatregelen treft om die gevolgen te voorkomen, of,</para>
+    <para>c.	voor zover die gevolgen niet kunnen worden voorkomen, deze zoveel mogelijk beperkt of ongedaan maakt.</para>
+    <parablock>
+      <para>Ingevolge artikel 2.7, eerste lid, van de Wnb stelt een bestuursorgaan een plan dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied, en dat afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor een Natura 2000-gebied, uitsluitend vast indien is voldaan aan artikel 2.8, met uitzondering van het negende lid. </para>
+      <para>Ingevolge artikel 2.7, tweede lid, van de Wnb is het verboden zonder vergunning van gedeputeerde staten een project te realiseren dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied, maar afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor een Natura 2000-gebied.</para>
+      <para>Ingevolge artikel 3.1, eerste lid, van de Wnb is het verboden opzettelijk van nature in Nederland in het wild levende vogels van soorten als bedoeld in artikel 1 van de Vogelrichtlijn te doden of te vangen.</para>
+      <para>Ingevolge artikel 3.1, vierde lid, van de Wnb is het verboden vogels als bedoeld in het eerste lid opzettelijk te storen.</para>
+      <para>Ingevolge artikel 3.5, eerste lid, van de Wnb is het verboden in het wild levende dieren van soorten, genoemd in bijlage IV, onderdeel a, bij de Habitatrichtlijn, bijlage II bij het Verdrag van Bern of bijlage I bij het Verdrag van Bonn, met uitzondering van de soorten, bedoeld in artikel 1 van de Vogelrichtlijn, in hun natuurlijk verspreidingsgebied opzettelijk te doden of te vangen.</para>
+      <para>Ingevolge artikel 3.5, tweede lid, van de Wnb, is het verboden dieren als bedoeld in het eerste lid opzettelijk te verstoren.</para>
+      <para>Ingevolge artikel 3.5, vierde lid, van de Wnb is het verboden de voortplantingsplaatsen of rustplaatsen van dieren als bedoeld in het eerste lid te beschadigen of te vernielen.</para>
+      <para>Ingevolge artikel 3.10, eerste lid, van de Wnb is het, onverminderd artikel 3.5, eerste, vierde en vijfde lid, verboden:</para>
+    </parablock>
+    <para>a.	in het wild levende zoogdieren, amfibieën, reptielen, vissen, dagvlinders, libellen en kevers van de soorten, genoemd in de bijlage (https://wetten.overheid.nl/BWBR0037552/2020-01-01), onderdeel A, bij deze wet, opzettelijk te doden of te vangen;</para>
+    <para>b.	de vaste voortplantingsplaatsen of rustplaatsen van dieren als bedoeld in onderdeel a opzettelijk te beschadigen of te vernielen.</para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Ingevolge artikel 122, eerste lid, van de Provinciewet is het provinciebestuur bevoegd tot oplegging van een last onder bestuursdwang.</para>
+        <para>Ingevolge artikel 122, tweede lid, van de Provinciewet wordt de bevoegdheid tot oplegging van een last onder bestuursdwang uitgeoefend door gedeputeerde staten, indien de last dient tot handhaving van regels welke het provinciebestuur uitvoert.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Ingevolge artikel 5:1, eerste lid, van de Awb wordt in deze wet onder overtreding verstaan: een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift.</para>
+        <para>Ingevolge artikel 5:1, tweede lid, van de Awb wordt onder overtreder verstaan: degene die de overtreding pleegt of medepleegt.</para>
+        <para>Ingevolge artikel 5:7 van de Awb kan een herstelsanctie worden opgelegd zodra het gevaar voor de overtreding klaarblijkelijk dreigt.</para>
+        <para>Ingevolge artikel 5:21 van de Awb wordt onder een last onder bestuursdwang verstaan: de herstelsanctie, inhoudende:</para>
+      </parablock>
+      <para>a. een last tot geheel of gedeeltelijk herstel van de overtreding, en</para>
+      <para>b. de bevoegdheid van het bestuursorgaan om de last door feitelijk handelen ten uitvoer te leggen, indien de last niet of niet tijdig wordt uitgevoerd.	</para>
+      <para>Ingevolge artikel 5:32, eerste lid, van de Awb kan een bestuursorgaan dat bevoegd is een last onder bestuursdwang op te leggen in plaats daarvan een last onder dwangsom opleggen.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para>3. Tussen partijen is in geschil of verweerder de verzoeken om (preventieve) handhaving in dit geval terecht heeft afgewezen. Dienaangaande overweegt de rechtbank als volgt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Toetsingskader</emphasis>
+      </para>
+    </parablock>
+    <para>4. Uit vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (AbRvS), onder meer kenbaar uit ECLI:NL:RVS:2014:4207, volgt dat dat bij overtreding van een wettelijk voorschrift in beginsel handhavend dient te worden opgetreden (beginselplicht tot handhaving). Gelet op het algemeen belang dat gediend is met handhaving, zal in geval van overtreding van een wettelijk voorschrift het bestuursorgaan dat bevoegd is om met een last onder bestuursdwang of dwangsom op te treden, in de regel van deze bevoegdheid gebruik moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd, dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisering bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien.</para>
+    <parablock>
+      <para>Verder volgt uit vaste jurisprudentie van de AbRvS, onder meer kenbaar uit ECLI:NL:RVS: 2016:935, dat ingevolge artikel 5:7 van de Awb een herstelsanctie kan worden opgelegd, zodra het gevaar voor de overtreding klaarblijkelijk dreigt. Uit deze laatste bepaling volgt dat een besluit tot het opleggen van een preventieve last onder dwangsom slechts kan worden genomen als zich een gevaar voordoet van een overtreding van een concreet bij of krachtens de wet gesteld voorschrift die met aan zekerheid grenzende waarschijnlijkheid zal plaatsvinden, indien die overtreding in het besluit kan worden omschreven met die mate van duidelijkheid die uit een oogpunt van rechtszekerheid is vereist. Een preventieve last onder dwangsom kan derhalve slechts worden opgelegd als het een nieuwe, nog niet gepleegde overtreding betreft.</para>
+      <para>Deze aan zekerheid grenzende waarschijnlijkheid kan ontleend worden aan de omstandig-heid dat voorbereidingshandelingen verricht worden of voornemens, waaruit het overtreden van voorschriften afgeleid kan worden, kenbaar gemaakt worden.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <parablock>
+        <para>Aan het bestreden besluit heeft verweerder ten grondslag gelegd dat in het licht van de toetsing van de organisatie van de meerdaagse evenementen ingevolge de Wnb de noodzaak tot het preventief overgaan tot handhaving ontbrak. In dit verband wijst verweerder erop dat het gevaar voor overtredingen, namelijk de verstoring van verschillende beschermde diersoorten en het Natura 2000-gebied “Groote Wielen”, klaarblijkelijk niet dreigde. Daarbij heeft verweerder in aanmerking genomen dat voorafgaand aan de organisatie van de festivals en de feitelijke inrichting van het festivalterrein overleg is gevoerd met de gemeente Leeuwarden, evenementenorganisatoren en ecologisch adviseurs. Bovendien zijn in het kader van de vvgb-procedure een ecologisch rapport en diverse andere documenten voorgelegd, waarin ingegaan is op de mogelijk negatieve effecten op de natuurwaarden in de</para>
+        <para>Groene Ster en het Natura 2000-gebied “Groote Wielen”. In dit verband wijst verweerder erop dat in de ecologische beoordeling van 9 mei 2018 is geconcludeerd dat binnen de gegeven randvoorwaarden geen significante negatieve effecten op de natuurwaarden in de Groene Ster en het Natura 2000-gebied “Groote Wielen” te verwachten waren. Daarnaast zijn, in afwachting van de beoordeling van de activiteiten in het kader van de Wnb door verweerder, geen (verstorende) werkzaamheden verricht ter voorbereiding van de evenementen; zo is overeengekomen met de organisatoren en derde-belanghebbende. Verder wijst verweerder erop dat voorafgaand, tijdens en na de festivals schouwen zijn uitgevoerd, waarbij erop toegezien is of de omgevingsvoorschriften ten behoeve van natuurbescherming en de bepalingen van de Wnb, waaronder de op de organistoren rustende zorgplicht, werden nageleefd.</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>5.2.1.</nr>
+        <para>Gelet op de reikwijdte van de door eiseres ingediende verzoeken om handhaving en hetgeen partijen in dat verband verdeeld houdt, heeft de rechtbank aanleiding gezien om de StAB als deskundige te benoemen. Op 26 juni 2019 heeft de StAB de rechtbank van advies gediend.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>5.2.2.</nr>
+        <para>De rechtbank stelt vast dat de gronden van beroep betrekking hebben op de navolgende aspecten:</para>
+        <para>- het intensieve gebruik van “De Groene Ster”;</para>
+        <para>- het reguliere gebruik en de inrichting van “De Groene Ster”;</para>
+        <para>- het onderzoek naar de vleermuizen;</para>
+        <para>- de roekenkolonie;</para>
+        <para>- ontbrekende analyse overige diersoorten.</para>
+        <para>Het komt de rechtbank aangewezen voor om deze beroepsgronden afzonderlijk te bespreken.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline italic">Het intensieve gebruik van “De Groene Ster”</emphasis>
+          </para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <parablock>
+        <para>Eiseres vreest voor toekomstige overtredingen van de verboden in artikel 3.1, tweede en vierde lid, artikel 3.5, eerste, tweede en vierde lid, en artikel 3.10, eerste lid, onder b, van de Wnb. In die bepalingen is kortgezegd weergegeven dat het verboden is om nesten,</para>
+        <para>voortplantingsplaatsen en rustplaatsen van vogels en in het wild levende dieren te</para>
+        <para>vernielen of te beschadigen en individuen te verstoren. De vrees van eiseres heeft betrekking op het soortenbeschermingsrecht zoals neergelegd in de Wnb. In dit verband wijst eiseres erop dat die overtredingen zullen ontstaan door de te organiseren festivals in “De Groene Ster”. In de visie van eiseres mag aangenomen worden dat die festivals (met uitzondering van Conference of the Birds) de komende jaren zullen plaatsvinden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>Verweerder stelt zich op het standpunt dat voor de muziekfestivals geen ontheffing ingevolge de Wnb nodig was. Ten tijde van het besluit tot afwijzing van het verzoek om handhaving was derhalve vanuit het gezichtspunt van verweerder geen sprake van een aan</para>
+        <para>zekerheid grenzende waarschijnlijkheid, dat die festivals tot een overtreding zouden leiden.</para>
+        <para>Daarbij heeft verweerder in aanmerking genomen dat er omgevingsvergunningen verleend zouden worden met voorschriften die zien op de benodigde mitigerende maatregelen. In de motivering van de beoordeling dat geen vergunning en/of ontheffing nodig is, heeft verweerder vermeld dat in de ecologische beoordeling van Altenburg en Wymenga (A&amp;W) beschreven wordt welke mitigerende maatregelen genomen moeten worden om negatieve effecten op aanwezige natuurwaarden te voorkomen dan wel tot een minimum te beperken. In dit verband heeft verweerder gewezen op de brief van 17 mei 2018, waarin is vermeld dat derde-belanghebbende deze adviezen als voorschriften aan de omgevingsvergunningen zal verbinden. Verder wijst verweerder erop dat in de motivering van de beoordeling wordt vermeld dat de derde-belanghebbende heeft aangegeven het festival onder een aantal randvoorwaarden/op een bepaalde wijze uit te zullen voeren. Naast bezoekersaantallen en geluidsvoorschriften worden in de visie van verweerder diverse maatregelen op natuurgebied beschreven.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <parablock>
+        <para>Met betrekking tot dit aspect heeft de StAB in het verslag van 26 juni 2019 te kennen gegeven dat eventuele bezwaren tegen de door derde-belanghebbende verleende omgevingsvergunningen, zoals de vraag of de vergunningen al dan niet zonder Wnb-ontheffing dan wel een vvgb konden worden verleend, in procedures betreffende die</para>
+        <para>omgevingsvergunningen aan de orde kunnen komen. Uit het voorgaande maakt de StAB op dat er ten tijde van het besluit tot afwijzing van de verzoeken om handhaving, voor verweerder niet met een aan zekerheid grenzende waarschijnlijkheid vaststond dat het toekomstige intensieve gebruik van “De Groene Ster” tot overtreding van de Wnb zou leiden. In dat licht komt het de StAB voor dat verweerder het verzoek om handhaving kon afwijzen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <para>In reactie hierop heeft eiseres bij brief van 27 juli 2019 te kennen gegeven dat de StAB in voormeld verslag ten onrechte tot de conclusie is gekomen dat ten tijde van het afwijzen van het handhavingsverzoek niet met aan zekerheid grenzende waarschijnlijkheid vaststond dat het toekomstige intensieve gebruik tot overtreding van de Wnb zou leiden. In dit verband wijst eiseres erop dat die conclusie om de drie hierna volgende redenen onjuist is:</para>
+      <para>- uit vragen van leden van provinciale staten had verweerder moeten afleiden dat voor 2018 een overtreding van de Wnb klaarblijkelijk dreigde;</para>
+      <para>- tijdens een overleg op het provinciehuis is de conceptversie van de notitie ‘Gemeente</para>
+      <parablock>
+        <para>Leeuwarden en haar Cultuur slopen de Natuur” overgelegd. Uit deze notitie volgt</para>
+        <para>in de visie van eiseres duidelijk - ook voor verweerder - dat de gemeente Leeuwarden en de festivals zich niet hadden gehouden aan aanwijzingen van A&amp;W;</para>
+      </parablock>
+      <para>- de verslagen van de FUMO van de festivals in 2018 bevestigen het beeld dat eiseres al had. Dit brengt in de visie van eiseres met zich dat het argument dat verweerder het (nog) niet had hoeven weten, vervalt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5.</nr>
+      <parablock>
+        <para>Uit vaste jurisprudentie van de AbRvS, onder meer kenbaar uit ECLI:NL:RVS:2016 :1423, volgt dat onder ‘opzet’ zoals bedoeld in voormelde bepalingen niet alleen de situatie valt waarbij iemand het oogmerk heeft om een beschermd dier bijvoorbeeld te doden, maar ook de situatie waarbij iemand willens en wetens de niet te verwaarlozen kans aanvaardt dat een beschermd dier wordt gedood. </para>
+        <para>Verder volgt uit vaste jurisprudentie van de AbRvS, onder meer kenbaar uit ECLI:NL:RVS: 2018:12, dat maatregelen ter voorkoming van het overtreden van de in voormelde bepalingen opgenomen verboden kunnen worden betrokken bij de beoordeling van de vraag of die verboden worden overtreden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.6.</nr>
+      <parablock>
+        <para>De rechtbank stelt voorop dat de door de StAB opgestelde verslagen van 26 juni en 18 september 2018 worden gebruikt voor de feitenvaststelling, waarna het juridische oordeel naar aanleiding van die feitenvaststelling aan de rechtbank is voorbehouden. Verder stelt de rechtbank voorop dat de peilmomenten, gelet op de aard van de besluitvorming in het kader van handhaving, op 12 juni 2018 en voor wat betreft de afwijzing van het verzochte maaiverbod in “De Groene Ster” op 5 december 2018 liggen. Dit brengt met zich dat de nadien door eiseres ingediende rapportages en gedingstukken niet door verweerder in zijn besluitvorming konden worden betrokken. </para>
+        <para>De rechtbank stelt vast dat het intensieve gebruik van “De Groene Ster” samenhangt met het organiseren van een viertal festivals, waarvoor derde-belanghebbende omgevings-vergunningen onder voorschriften heeft verleend. Verder dient te worden vastgesteld dat verweerder bij brief van 17 mei 2018 te kennen heeft gegeven dat geen vergunning of ontheffing ingevolge de Wnb noodzakelijk is, mits rekening wordt gehouden met de voorwaarden, zoals genoemd in de Ecologische beoordeling van 9 mei 2018 van A&amp;W. Naar het oordeel van de rechtbank heeft eiseres niet aannemelijk gemaakt dat er sprake was van een klaarblijkelijke dreiging van een overtreding van de bepalingen van de Wnb. Gelet hierop heeft verweerder zich terecht op het standpunt gesteld dat geen aanleiding bestond om te veronderstellen dat met aan zekerheid grenzende waarschijnlijkheid overtreding van de bepalingen van de Wnb zouden plaatsvinden. Daarbij heeft verweerder in aanmerking kunnen nemen dat in de ecologische beoordeling van A&amp;W wordt beschreven welke mitigerende maatregelen genomen moeten worden om negatieve effecten op aanwezige natuurwaarden te voorkomen dan wel tot een minimum te beperken.Verder heeft verweerder daarbij in aanmerking kunnen nemen dat de aan de verleende omgevingsvergunningen verbonden voorschriften zien op de benodigde mitigerende maatregelen. In dit verband wijst de rechtbank erop dat toezichthouders van verweerder - in het verleden - voorafgaand, tijdens en na de festivals schouwen hebben uitgevoerd, waarbij erop is toegezien of de voorschriften van de verleende omgevingsvergunningen en de bepalingen van de Wnb, waaronder de op de organisatoren van de festivals rustende zorgplicht, werden nageleefd. Tijdens die schouwen is niet gebleken van een overtreding of een klaarblijkelijke dreiging van een overtreding van de aan de verleende omgevingsvergunningen verbonden voorschriften of bepalingen van de Wnb. Voor zover toekomstige activiteiten wellicht kunnen leiden tot verstoring van beschermde diersoorten, dan kunnen die activiteiten worden gereguleerd door het verbinden van voorschriften aan de te verlenen omgevingsvergunningen ten behoeve van het organiseren van de festivals. Deze grond van eiseres slaagt niet. Verweerder heeft terecht afgezien van een last onder dwangsom als bedoeld door eiseres.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Het reguliere recreatieve gebruik en de inrichting van “De Groene Ster”</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Eiseres betoogt dat ook de reguliere gebruikers van “De Groene Ster” (‘vissers, wandelaars, trimmers, etc.’) de beschermde natuur kunnen verstoren. Eiseres voorziet overtredingen van verboden als gevolg van het betreden van laagvegetatie in “De Groene Ster”, en als gevolg van nachtelijk verblijf en het gebruik van verlichting. In dit verband wijst eiseres erop dat gevreesd dient te worden voor:</para>
+      <para>- het opzettelijk vernielen en beschadigen van nesten en rustplaatsen van vogels en voor het storen van vogels in het algemeen en de roek, roofvogels en uilen in het bijzonder (artikel 3.1, tweede en vierde lid, van de Wnb); en, </para>
+      <para>- het opzettelijk beschadigen of vernielen van vaste voortplantingsplaatsen of rustplaatsen van amfibieën, kleine zoogdieren en vleermuizen in het algemeen en de waterspitsmuis, noordse woelmuis, heikikker en rugstreeppad in het bijzonder (artikel 3.5, tweede en vierde lid, en artikel 3.10, eerste lid, onder b, van de Wnb). </para>
+      <parablock>
+        <para>De overtredingen die eiseres voorziet hebben betrekking op het soortenbeschermingsrecht zoals neergelegd in de Wnb.</para>
+        <para>Eiseres verzoekt verweerder om derde-belanghebbende op te dragen de gebods- en verbodsborden (terug) te plaatsen waarop de bekendstelling en de wijze van bescherming van de natuurwaarden van “De Groene Ster” is aangegeven. In dat verband wijst eiseres erop dat de gebods- en verbodsborden tot doel hebben dat de bezoekers kunnen weten dat: </para>
+      </parablock>
+      <para>- de toegang tussen zonsopgang en zonsondergang verboden is; </para>
+      <para>- er buiten de parkeerplaatsen niet mag worden geparkeerd; </para>
+      <para>- er geen toegang is buiten de fiets- en wandelpaden; </para>
+      <para>- er niet mag worden gekampeerd; </para>
+      <para>- honden niet los mogen lopen (buiten het losloopgebied); </para>
+      <para>- geen elektronisch versterkte muziek is toegestaan; </para>
+      <para>- dieren niet mogen worden verstoord of verontrust.</para>
+      <para>Verder betoogt eiseres ten aanzien van de inrichting van “De Groene Ster” dat de borden met gedragsregels nu ontbreken, dat er geen paaltjes staan op de fietspaden om autoverkeer te voorkomen en dat een hoogtebeperking bij de oprit van de parkeerplaats om het campergebruik te voorkomen, ontbreekt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Verweerder stelt zich op het standpunt dat er geen grondslag in de Wnb bestaat op grond waarvan hij derde-belanghebbende kan gelasten tot plaatsing van gebods- en verbodsborden. Naar de mening van verweerder doen zich bovendien geen effecten voor door het reguliere recreatieve gebruik voor de beschermde natuurwaarden in “De Groene Ster”.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <parablock>
+        <para>Met betrekking tot het reguliere gebruik van “De Groene Ster” heeft de StAB in het verslag van 26 juni 2019 onder meer het navolgende te kennen gegeven. Van het reguliere gebruik van een gebied als “De Groene Ster” zoals vissen, wandelen en hardlopen ligt het volgens de StAB niet voor de hand dat dat gebruik leidt tot een overtreding van de Wnb. Daarbij merkt de StAB op dat de verboden van artikel 3.1, tweede en vierde lid, en artikel 3.5, tweede lid, van de Wnb zien op het opzettelijk verstoren. Het reguliere gebruik zal in de visie van de StAB voornamelijk plaatsvinden op de paden, zandstranden en de intensief gemaaide weides/grasstroken. Op die locaties is het naar de mening van de StAB niet aannemelijk dat zich daar nesten, voortplantingsplaatsen of rustplaatsen bevinden. Voor het betreden van andere delen van “De Groene Ster”, zoals het struweel, bospercelen en hoog opgaand gras, staat het volgens de StAB niet op voorhand vast dat een enkele betreding of nachtelijke aanwezigheid een vernieling, beschadiging of verstoring tot gevolg zal hebben: die nesten, voortplantingsplaatsen of rustplaatsen hoeven niet per se aanwezig te zijn op de locatie die betreden wordt, en daarnaast hoeft een enkele betreding of nachtelijke aanwezigheid niet per se te leiden tot verstoring van een soort. Een incidenteel nachtelijk verblijf, gebruik van verlichting of betreding buiten gebaande paden hoeft naar de mening van de StAB derhalve niet noodzakelijkerwijs te leiden tot een overtreding van de Wnb.</para>
+        <para>Van verstoring zou volgens de StAB wel sprake kunnen zijn bij intensieve betreding of zogezegd bij de zoveelste betreding in het kader van het reguliere gebruik. Het ligt vervolgens in de rede dat eiseres voldoende aannemelijk maakt dat het reguliere gebruik tot een overtreding van de Wnb leidt. Dat van frequente betreding in de reguliere situatie van “De Groene Ster” buiten de paden, zandstranden en de intensief gemaaide weides/grasstroken, alsmede het nachtelijk verblijf en het gebruik van verlichting sprake is, is door eiseres evenwel niet of nauwelijks onderbouwd om op dit moment concreet te kunnen vaststellen wie wanneer een overtreding van de Wnb zal begaan, aldus de StAB. Daarnaast is het volgens de StAB niet duidelijk - indien al sprake zou zijn van opzettelijk handelen - welke van de zoveelste betreder buiten de gebaande paden dan wel nachtelijk aanwezige persoon de vernieling, beschadiging of verstoring tot gevolg brengt, en wat daarbij de rol is geweest van de eerdere betreders. Het is naar de mening van de StAB derhalve niet duidelijk in een mate die uit het oogpunt van rechtszekerheid is vereist, welke handeling tot een overtreding zal leiden. Bovenal zijn het de individuele betreders buiten gebaande paden en nachtelijk aanwezige personen waarvan eiseres stelt dat die mogelijk een overtreding begaan. Of een individuele betreder van “De Groene Ster” ook daadwerkelijk die overtreding zal begaan staat in de visie van de StAB evenwel op voorhand niet vast, hetgeen preventief handhavend optreden in de weg staat. Hierbij is tevens van belang dat verweerder verzocht is om handhavend op te treden jegens derde-belanghebbende, onderaannemers en evenement-organisaties. Degene die mogelijk een handeling kan verrichten die tot een overtreding zou kunnen leiden, is volgens de StAB echter een individuele onbekende bezoeker van het gebied.</para>
+        <para>Gelet hierop is de StAB van mening dat niet op voorhand met aan zekerheid grenzende waarschijnlijkheid vaststaat dat bij het regulier gebruik van “De Groen Ster” sprake zal zijn van overtredingen van de Wnb. Het preventief handhavend optreden wordt in de visie van de StAB verder in de weg gestaan doordat op voorhand onbekend is welke individuele bezoeker van het gebied een overtreding van een verbod van de Wnb zal begaan. In dat licht komt het de StAB voor dat verweerder het verzoek om handhaving kon afwijzen.</para>
+        <para>Met betrekking tot de inrichting van “De Groene Ster” heeft de StAB in het verslag van </para>
+        <para>26 juni 2019 onder meer het navolgende te kennen gegeven. Met betrekking tot dit deel van de handhavingsverzoeken merkt de StAB op dat de plaatsing van borden inderdaad een maatregel kan zijn die de gedragsregels voor het gebied kenbaar kan maken aan de bezoekers. Het niet plaatsen van borden, paaltjes of aanbrengen van een hoogtebeperking, betreffen naar de mening van de StAB echter geen overtredingen van een wettelijk voorschrift. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4.</nr>
+      <parablock>
+        <para>In reactie hierop heeft eiseres bij brief van 27 juli 2019 te kennen gegeven dat de StAB ten onrechte aangeeft in het verslag dat zij (slechts) toekomstige overtredingen van de Wnb door reguliere gebruikers vreest. Volgens eisers vinden de genoemde overtredingen voortdurend plaats. Deze overtredingen zijn door middel van fotomateriaal onderbouwd. De kans op verstoring of beschadiging wordt in de visie van eiseres door de StAB gebagatelliseerd. In dit verband wijst eiseres erop dat incidenten zo vaak voor komen dat sprake is van een structurele situatie. Eiseres betoogt dat vast staat dat een overtreding heeft plaatsgevonden, plaatsvindt en met aan zekerheid grenzende waarschijnlijk zal blijven plaatsvinden. Daarnaast betoogt eiseres dat juist het gegeven dat onbekend is welk individu op welk moment de overtreding zal veroorzaken, aanleiding zou moeten zijn om aan derde-belanghebbende algemene beschermingsmaatregelen en verplichtingen op te leggen.</para>
+        <para>Verder wijst eiseres erop dat de door de StAB aangehaalde “Leidraad bestendig beheer en onderhoud van de gemeente Leeuwarden” (hierna: de Leidraad) dateert van na het besluit tot afwijzing van het handhavingsverzoek. Daarnaast wijst eiseres erop dat de maaiwerkzaam-heden in strijd met de gedragscode worden uitgevoerd, namelijk in een periode die in een tabel in de gedragscode rood is gekleurd, hetgeen betekent dat maaien dan verboden is. Volgens eiseres blijkt dit uit een uitspraak van de rechtbank inzake het evenement “Conference of the Birds”, de verslagen van de FUMO en de notitie van eiseres (bijlage 3 van het beroepschrift). In de visie van eiseres blijkt uit deze stukken dat derde-belanghebbende zich niet houdt aan de natuurkalender die in de Leidraad is opgenomen.</para>
+        <para>Met betrekking tot de inrichting van “De Groene Ster” heeft eiseres in reactie hierop bij brief van 27 juli 2019 te kennen gegeven dat de StAB ten onrechte heeft gesteld dat het niet plaatsen van borden en toegangsbeperkingen geen overtreding van een wettelijk voorschrift is. In dit verband wijst eiseres erop dat naar vaste jurisprudentie van de AbRvS het overtreden van de regels van een bestemmingsplan, zonder daartoe verleende vergunning, strafbaar is. Volgens eiseres is het treffen van effectieve maatregelen onderdeel van de algemene zorgplicht. Verder is het in de visie van eiseres gebruikelijk om dergelijke maatregelen te treffen rond gebieden met beschermde natuur. Indien verweerder die bevoegdheid niet bezit, dan had moeten worden doorverwezen naar de verantwoordelijke minister die een dergelijke bevoegdheid bezit op grond van artikel 7.2, tweede lid, onder a, van de Wnb in samenhang gelezen met artikel 1.11 van de Wnb.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5.</nr>
+      <parablock>
+        <para>In een aanvullend verslag van 18 september 2019 heeft de StAB met betrekking tot het reguliere gebruik van “De Groene Ster” te kennen gegeven dat voorop gesteld wordt dat het geenszins de bedoeling van de StAB is de kans op verstoring of beschadiging te bagatelliseren. In het eerdere verslag is volgens de StAB aangegeven dat niet op voorhand met aan zekerheid grenzende waarschijnlijkheid vaststaat dat bij het regulier gebruik van “De Groene Ster” sprake zal zijn van overtredingen van de Wnb. Het preventief handhavend optreden wordt verder in de weg gestaan doordat op voorhand onbekend is welke individuele bezoeker van het gebied een overtreding van een verbod van de Wnb zal begaan. Hoewel algemene beschermingsmaatregelen ten aanzien van soorten in zijn algemeenheid bij zullen dragen aan de instandhouding van die soorten, staat de onduidelijkheid van de toekomstige overtreding naar de mening van de StAB in de weg aan de toewijzing van het verzoek tot handhaving.</para>
+        <para>In het aanvullende verslag heeft de StAB met betrekking tot de Leidraad te kennen gegeven dat in het eerdere verslag is weergegeven dat namens derde-belanghebbende mondeling werd toegelicht dat het beheer en onderhoud van “De Groene Ster” thans wordt verricht volgens de Leidraad, en voorheen volgens de “Leidraad gedragscode gemeentelijke groen-voorziening” (hierna: de Leidraad gedragscode) uit 2009. Volgens de StAB dateert de Leidraad van na het besluit op het handhavingsverzoek, aangezien de Leidraad door derde-belanghebbende is vastgesteld op 22 januari 2019. Als gezegd werd daarvoor gewerkt conform de Leidraad gedragscode  uit 2009. Zoals aangegeven in het eerdere verslag zijn de verbodsbepalingen van de Wnb niet van toepassing op beheerwerkzaamheden indien gewerkt wordt overeenkomstig goedgekeurde gedragscodes, aldus de StAB. Daarbij merkt de StAB op dat uit de gedragscode niet volgt dat het zonder meer verboden is om beheer-werkzaamheden uit te voeren in een periode die in de aangehaalde tabel rood is gekleurd. In de toelichting op de kleurentabel is weer gegeven dat in de ‘rode periode” de betreffende soort (groep) uiterst kwetsbaar is. Aangegeven is daarbij “dat werkzaamheden op locaties met beschermde soorten in deze periode in eerste instantie niet gepland worden, tenzij sprake is van een calamiteit of dreigende situatie of als door onderzoek kan worden uitgesloten dat de soort in het gebied aanwezig is”. De enkele omstandigheid dat beheerwerkzaamheden zijn uitgevoerd tijdens een “rode periode” brengt naar de mening van de StAB derhalve niet met</para>
+        <para>zich dat in strijd met de Leidraad of de Leidraad gedragscode is gewerkt. Over de in de toekomst uit te voeren beheerwerkzaamheden, merkt de StAB op dat namens derde-belanghebbende is aangegeven dat volgens de Leidraad wordt gewerkt. In de visie van de StAB zijn de verbodsbepalingen van de Wnb niet van toepassing op beheerwerkzaamheden, indien wordt gewerkt overeenkomstig goedgekeurde gedragscodes. Daarnaast geeft deze mededeling naar de mening van de StAB geen aanleiding voor de stelling dat beheer-werkzaamheden met aan zekerheid grenzende waarschijnlijkheid zullen leiden tot overtredingen.</para>
+        <para>Vervolgens komt de StAB tot de conclusie dat deze opmerking van eiseres geen aanleiding geeft tot het herzien van de conclusies van het eerdere verslag.</para>
+        <para>Met betrekking tot de inrichting van “De Groene Ster” wijst de StAB er in een aanvullend verslag van 18 september 2019 op dat eiseres terecht aangeeft dat rond gebieden met beschermde natuur in de regel gebods- en waarschuwingsborden worden geplaatst. Hierbij merkt de StAB op dat dat het geval is voor gebieden waarvoor een gebiedsbeschermings-regime van toepassing is. Voor beschermde soorten is dat niet geval, aldus de StAB. Aangezien “De Groene Ster” geen bescherming geniet als gebied, ontbreekt naar de mening van de StAB de noodzaak om op grond van die gebruiksregel borden rond het gebied te plaatsen.</para>
+        <para>Vervolgens komt de StAB tot de conclusie dat deze opmerking van eiseres geen aanleiding geeft tot het herzien van de conclusies van het eerdere verslag.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.6.</nr>
+      <parablock>
+        <para>Hoewel eiseres terecht betoogt dat de Leidraad vastgesteld is na het nemen van het primaire besluit en om die reden niet kon worden betrokken bij de besluitvorming door verweerder, leidt dit niet tot het beoogde doel. Hierbij neemt de rechtbank in aanmerking dat verweerder bij de besluitvorming de van toepassing zijnde Leidraad gedragscode heeft betrokken en dat derde-belanghebbende heeft benadrukt dat het beheer en het onderhoud van “De Groene Ster” overeenkomstig voormelde gedragscode heeft plaatsgevonden, totdat de nieuwe Leidraad in januari 2019 is vastgesteld. Gelet hierop volgt de rechtbank eiseres niet in haar stelling dat verweerder bij zijn besluitvorming niet geldend beleid van derde-belanghebbende heeft betrokken.</para>
+        <para>De rechtbank begrijpt de stellingen van eiseres in dit verband, mede naar aanleiding van het verhandelde ter zitting, voor het overige aldus dat de door verweerder aan derde-belanghebbende op te leggen dwangsom in het kader van het reguliere gebruik en de inrichting van “De Groene Ster” zou moeten inhouden dat er door derde-belanghebbende gebods- en verbodsborden in “De Groene Ster” dienen te worden geplaatst om mogelijke overtredingen van de bepalingen in de Wnb te voorkomen. In de visie van eiseres zou de grondslag voor een dergelijke last onder dwangsom gelegen zijn in de op verweerder rustende zorgplicht, als bedoeld in artikel 1.11 van de Wnb. In dit verband wijst de rechtbank erop dat het plaatsen van gebods- en verbodsborden primair bedoeld is voor het reguleren van de openbare orde. Daarnaast wijst de rechtbank erop dat verweerder zich in dit verband terecht op het standpunt heeft gesteld dat geen bepaling in de Wnb als grondslag kan dienen voor een opdracht aan derde-belanghebbende in het kader van de voorgestane inrichting van “De Groene Ster”. Naar het oordeel van de rechtbank kan de door eiseres ingeroepen zorgplichtbepaling, als bedoeld in artikel 1.11 van de Wnb, niet als grondslag dienen voor de door eiseres voorgestane last onder dwangsom, aangezien er sprake is van een te ver verwijderd verband.</para>
+        <para>In hetgeen eiseres overigens heeft aangevoerd, ziet de rechtbank geen aanleiding om af te wijken van de bevindingen van de StAB en de daarop gebaseerde conclusies. Dit brengt met zich dat door eiseres niet aannemelijk is gemaakt dat er op voorhand sprake is van een met aan zekerheid grenzende waarschijnlijkheid dat bij het reguliere gebruik van “De Groene Ster” vaststaat dat dit zal leiden tot overtredingen van de Wnb. Hierbij neemt de rechtbank in aanmerking dat preventief handhavend optreden in de weg wordt gestaan, aangezien op voorhand onbekend is welke individuele bezoeker van “De Groene Ster” een overtreding van een verbod in de Wnb zal begaan. Het enkele feit dat, zoals ter zitting door de gemachtigde van derde-belanghebbende is erkend, dat als gevolg van een fout in strijd met de Leidraad gedragscode is gemaaid in “De Groene Ster”, leidt naar het oordeel van de rechtbank evenmin tot de conclusie dat er sprake is van een klaarblijkelijke overtreding van de bepalingen van de Wnb. Deze grond van eiseres slaagt niet. Verweerder heeft terecht afgezien van een last onder dwangsom als bedoeld door eiseres.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Het onderzoek naar de vleermuizen</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <parablock>
+        <para>Eiseres betoogt dat door het ontbreken van kennis over de verblijven, vliegroutes en foerageergebieden van vleermuizen verboden uit de Wnb overtreden worden. In dit verband wijst eiseres erop dat ingevolge artikel 2.7, en artikel 3.5, van de Wnb verweerder voorafgaand aan en tijdens evenementen toezicht dient te houden op de sterkte van de</para>
+        <para>verlichting. Tevens dient verweerder in de visie van eisers ingevolge artikel 2.7, in samenhang gelezen met artikel 1.11 van de Wnb, de gemeente Leeuwarden op te dragen onderzoek te verrichten naar vleermuissoorten voordat activiteiten in strijd met het bestemmingsplan worden vergund.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Verweerder stelt zich op het standpunt dat er naar aanleiding van het ecologische advies van A&amp;W voorwaarden zijn gesteld met betrekking tot de lichtuitstraling, waardoor er geen sprake is van een verstoring van een essentieel leefgebied dan wel de vliegroutes van de vleermuizen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <parablock>
+        <para>Met betrekking tot dit aspect heeft de StAB in het verslag van 26 juni 2019 onder meer te kennen gegeven dat het niet uitvoeren van vleermuisonderzoek geen overtreding betreft van de Wnb, zoals dat wel het geval zou kunnen zijn bij een ingreep of een handeling, bijvoorbeeld een evenement. Het niet uitvoeren van dat onderzoek leidt volgens de StAB evenmin met een aan zekerheid grenzende waarschijnlijkheid tot een overtreding van de</para>
+        <para>Wnb. Nu geen sprake is van een (toekomstige) overtreding, bestaat in beginsel geen</para>
+        <para>bevoegdheid om handhavend op te treden. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4.</nr>
+      <para>In reactie hierop heeft eiseres bij brief van 27 juli 2019 te kennen gegeven dat in de gronden van beroep is gesteld dat sprake is van overtreding van de beschermingsregimes voor een aantal beschermde soorten. In het bijzonder betreft dit de waterspitsmuis, de Noordse woelmuis, de heikikker, de roek en een viertal vleermuissoorten (waaronder de meervleermuis en de watervleermuis). Naar de mening van eiseres wordt in het StAB-verslag niet ingegaan op overtreding van deze beschermingsregimes, terwijl dit de kern van het StAB-verslag zou moeten zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.5.</nr>
+      <parablock>
+        <para>In een aanvullend verslag van 18 september 2019 heeft de StAB met betrekking tot dit aspect te kennen gegeven dat het eerdere verslag ingaat op de vrees van eiseres voor overtredingen van de specifieke beschermingsregimes, zoals neergelegd in artikel 3.1, artikel 3.5 en artikel 3.10 van de Wnb. De door eiseres in beroep aangevoerde activiteiten, ingrepen of het ontbreken daarvan, brengen volgens de StAB geen bevoegdheid met zich om handhavend op te treden op grond van de specifieke beschermingsregimes. De specifieke soorten komen daardoor in het StAB-verslag niet aan bod.</para>
+        <para>Vervolgens komt de StAB tot de conclusie dat deze opmerking van eiseres geen aanleiding geeft tot het herzien van de conclusies van het StAB-verslag.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.6.</nr>
+      <para>In hetgeen eiseres naar voren heeft gebracht, ziet de rechtbank geen aanleiding om af te wijken van de bevindingen van de StAB en de daarop gebaseerde conclusies. Dit brengt met zich dat eiseres niet aannemelijk heeft gemaakt dat er aanleiding bestond om te veronderstellen dat met aan zekerheid grenzende waarschijnlijkheid overtredingen van concrete bepalingen van de Wnb in het kader van de vvgb of het aanhaken zouden plaatsvinden. Dit betekent dat verweerder zich terecht op het standpunt heeft gesteld dat er geen bevoegdheid tot preventief handhavend optreden bestond. Deze grond van eiseres slaagt niet.   </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">De roekenkolonie</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <parablock>
+        <para>Eiseres betoogt dat verweerder het zogenoemde ‘nee, tenzij-principe’ in de natuur-bescherming miskent en de protocollen van de uitvoerings-, informatievoorzienings- en kennisontwikkelingsdienst Bij12 negeert. In dit verband wijst eiseres erop dat evenementen in elk geval binnen een straal van 1.500 meter van de roekenkolonie in “De Groene Ster” in de periode van 15 februari tot en met 30 juli niet zijn toegestaan. Naar de mening van eiseres had verweerder in het gegeven dat er sprake is van een halvering van de roekenkolonie in “De Groene Ster” aanleiding moeten zien om handhavend op te treden.</para>
+        <para>In reactie op het StAB-verslag van 26 juni 2019 heeft eiseres voor wat betreft dit aspect bij brief van 27 juli 2019 te kennen gegeven dat door middel van het stellen en beantwoorden van de drie vragen (zie paragraaf 2.2.1 van het verslag d.d. 18 september 2019) de StAB een analyse had kunnen maken ten aanzien van waterspitsmuis, de Noordse woelmuis, de heikikker en een viertal vleermuissoorten (waaronder de meervleermuis en de water-vleermuis). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Verweerder stelt zich op het standpunt dat de kwetsbare periode van de roek de periode van februari tot medio april is. In dit verband wijst verweerder erop dat de broedperiode van deze soort al voorbij was toen het eerste festival in “De Groene Ster” plaatsvond. In de visie van verweerder vond er geen verstoring van de roeken plaats.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3.</nr>
+      <parablock>
+        <para>In een aanvullend verslag van 18 september 2019 heeft de StAB met betrekking tot dit aspect te kennen gegeven dat het eerdere verslag ingaat op de vrees van eiseres voor overtredingen van de specifieke beschermingsregimes, zoals neergelegd in artikel 3.1, artikel 3.5 en artikel 3.10 van de Wnb. De door eiseres in beroep aangevoerde activiteiten, ingrepen of het ontbreken daarvan, brengen volgens de StAB geen bevoegdheid met zich om handhavend op te treden op grond van de specifieke beschermingsregimes. De specifieke soorten komen daardoor in het StAB-verslag niet aan bod.</para>
+        <para>Vervolgens komt de StAB tot de conclusie dat deze opmerking van eiseres geen aanleiding geeft tot het herzien van de conclusies van het StAB-verslag.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.4.</nr>
+      <para>In hetgeen eiseres naar voren heeft gebracht, ziet de rechtbank geen aanleiding om af te wijken van de bevindingen van de StAB en de daarop gebaseerde conclusies. Dit brengt met zich dat eiseres niet aannemelijk heeft gemaakt dat er aanleiding bestond om te veronderstellen dat met aan zekerheid grenzende waarschijnlijkheid overtredingen van concrete bepalingen van de Wnb in het kader van de vvgb of het aanhaken zouden plaatsvinden. Dit betekent dat verweerder zich terecht op het standpunt heeft gesteld dat er geen bevoegdheid tot preventief handhavend optreden bestond. Deze grond van eiseres slaagt niet.   </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Ontbrekende analyse overige diersoorten</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Eiseres betoogt dat verweerder het zogenoemde ‘nee, tenzij-principe’ in de natuur-bescherming miskent en de protocollen van de uitvoerings-, informatievoorzienings- en kennisontwikkelingsdienst Bij12 negeert. In dit verband wijst eiseres erop dat het door haar geschetste sombere beeld voor wat betreft de roeken ook geldt voor andere diersoorten waarvoor kennisdocumenten beschikbaar zijn: de Noordse woelmuis, de waterspitsmuis, de rugstreeppad en de heikikker. Naar de mening van eiseres zou adequaat inspelen op de door haar aangeleverde informatie hebben geleid tot:</para>
+      <para>- betere bescherming van onder meer de roek, de meervleermuis en boom bewonende vleermuizen;</para>
+      <para>- bescherming van het leefgebied van de waterspitsmuis; en,</para>
+      <para>- het voorkomen van het debacle van kamperen tussen de bosschages bij Psy-Fi.</para>
+      <para>In reactie op het StAB-verslag van 26 juni 2019 heeft eiseres voor wat betreft dit aspect bij brief van 27 juli 2019 te kennen gegeven dat door middel van het stellen en beantwoorden van de drie vragen (zie paragraaf 2.2.1 van het verslag d.d. 18 september 2019) de StAB een analyse had kunnen maken ten aanzien van waterspitsmuis, de Noordse woelmuis, de heikikker en een viertal vleermuissoorten (waaronder de meervleermuis en de water-vleermuis). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <parablock>
+        <para>In een aanvullend verslag van 18 september 2019 heeft de StAB met betrekking tot dit aspect te kennen gegeven dat het eerdere verslag ingaat op de vrees van eiseres voor overtredingen van de specifieke beschermingsregimes, zoals neergelegd in artikel 3.1, artikel 3.5 en artikel 3.10 van de Wnb. De door eiseres in beroep aangevoerde activiteiten, ingrepen of het ontbreken daarvan, brengen volgens de StAB geen bevoegdheid met zich om handhavend op te treden op grond van de specifieke beschermingsregimes. De specifieke soorten komen daardoor in het StAB-verslag niet aan bod.</para>
+        <para>Vervolgens komt de StAB tot de conclusie dat deze opmerking van eiseres geen aanleiding geeft tot het herzien van de conclusies van het StAB-verslag.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3.</nr>
+      <para>In hetgeen eiseres naar voren heeft gebracht, ziet de rechtbank geen aanleiding om af te wijken van de bevindingen van de StAB en de daarop gebaseerde conclusies. Dit brengt met zich dat eiseres niet aannemelijk heeft gemaakt dat er aanleiding bestond om te veronderstellen dat met aan zekerheid grenzende waarschijnlijkheid overtredingen van concrete bepalingen van de Wnb in het kader van de vvgb of het aanhaken zouden plaatsvinden. Dit betekent dat verweerder zich terecht op het standpunt heeft gesteld dat er geen bevoegdheid tot preventief handhavend optreden bestond. Deze grond van eiseres slaagt niet.   </para>
+      <para />
+      <parablock>
+        <para>11.	Gelet op de voorgaande overwegingen is de conclusie dat verweerder zich terecht op het standpunt heeft gesteld dat er geen bevoegdheid tot (preventief) handhavend optreden bestond, zodat de verzoeken daartoe terecht zijn afgewezen. Dit brengt met zich dat het beroep van eiseres ongegrond is. Voor een proceskostenveroordeling, als bedoeld in artikel 8:75 van de Awb, bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Beslist wordt als volgt.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>-	verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.J.B. Cornelissen, voorzitter, mr. T.F. Bruinenberg en </para>
+      <para>mr. V. van Dorst, leden, in aanwezigheid van mr. H.L.A. van Kats als griffier. </para>
+      <para>De beslissing is gedaan op 14 april 2020. Als gevolg van de maatregelen rondom het Corona virus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier                                                                             De voorzitter</para>
+      <para>                                                                                              (de voorzitter is buiten staat</para>
+      <para>                                                                                               de uitspraak te ondertekenen)</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending van deze uitspraak hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden op:</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

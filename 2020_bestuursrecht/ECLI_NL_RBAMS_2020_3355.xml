@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:3355</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-10T13:20:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 20/3402 (voorlopige voorziening) en AMS 20/3403 (beroep)</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3355">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:3355</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-09T15:13:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:3355 Rechtbank Amsterdam , 08-07-2020 / AMS 20/3402 (voorlopige voorziening) en AMS 20/3403 (beroep)</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:3355:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Per 1 april 2020 is artikel 2.51 APV Amsterdam gewijzigd: het vergunningstelsel voor fietstaxi’s is afgeschaft en fietstaxi’s zijn verboden voor zover het gaat om ritjes die op of aan de weg worden aangeboden. Exceptieve toetsing van artikel 2.51 APV aan het zorgvuldigheidsbeginsel, het motiveringsbeginsel en de evenredigheid. Geen strijd met deze rechtsbeginselen of met de Dienstenrichtlijn. Beroep ongegrond, voorlopige voorziening afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:3355:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: 	AMS 20/3402 (voorlopige voorziening)							AMS 20/3403 (beroep)</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 8 juli 2020 op het beroep en het verzoek om voorlopige voorziening in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser/verzoeker] , te [woonplaats] , eiser en verzoeker (hierna: verzoeker),  </bridgehead>
+    <para>(gemachtigde: mr. R.N. van der Ham),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van Amsterdam, verweerder</para>
+      <para>(gemachtigde: mr. A.S. Buis).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 maart 2019 (het primaire besluit) heeft verweerder de aanvraag van verzoeker om een vergunning voor het aanbieden van alternatief personenvervoer voor de periode van 1 april 2019 tot 1 april 2022 afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 12 augustus 2019 heeft verweerder het bezwaar van verzoeker ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 9 april 2020 heeft deze rechtbank het beroep tegen het besluit van 12 augustus 2019 deels niet-ontvankelijk verklaard, deels gegrond verklaard en deels vernietigd. Verder is verweerder opgedragen een nieuw besluit te nemen ten aanzien van de periode 1 april 2020 tot 1 april 2022.<footnote-ref linkend="_30b71fa5-4da5-4b37-9427-246015493111" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 juni 2020 (het bestreden besluit) heeft verweerder dit nieuwe besluit genomen en het bezwaar van verzoeker wederom ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Hij heeft verder de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 26 juni 2020 via een Skypeverbinding. Verzoeker is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. De gemachtigde van verweerder heeft telefonisch het woord gevoerd. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Kortsluiten</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Na afloop van de zitting is de voorzieningenrechter tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Aanleiding van deze procedure</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Verzoeker is al geruime tijd in het bezit van een vergunning voor het aanbieden van alternatief personenvervoer met één fietstaxi. Laatstelijk is zijn vergunning verleend tot 1 april 2020. </para>
+    <para />
+    <para>3. Waar eerder voor fietstaxi’s op grond van artikel 2.51, eerste lid, van de destijds geldende Algemene Plaatselijke Verordening (APV) en het Uitvoeringsbeleid Alternatief Personenververoer 2016 (Uitvoeringsbeleid) een vergunningenstelstel gold, is dat in de huidige APV anders geregeld. Per 1 april 2020 is de nieuwe APV van toepassing en op grond van het huidige artikel 2.51, eerste lid, van de APV is het verboden om op of aan de weg tegen betaling personenvervoer aan te bieden. Dit betekent concreet voor verzoeker dat hij alleen met zijn fietstaxi mensen mag vervoeren die van tevoren hebben gereserveerd. Hij mag geen mensen meer langs de weg oppikken zonder voorafgaande reservering. </para>
+    <para />
+    <para>4. Verzoeker is het hier niet mee eens. Hij heeft al eerder in dit kader een procedure gevoerd. In die procedure heeft de meervoudige kamer van deze rechtbank voor de periode </para>
+    <para>1 april 2020 – 1 april 2022 verweerder opgedragen een nieuw besluit te nemen, omdat verweerder (kort gezegd) de weigering van de door onder meer verzoeker aangevraagde vergunning onvoldoende had gemotiveerd. Volgens de rechtbank leek het alsof verweerder met de weigering van die vergunning vooruit liep op het algehele verbod wat destijds nog niet gold. Verweerder was gehouden te toetsen aan de destijds geldende APV en het was de rechtbank onvoldoende gebleken dat verweerder dat had gedaan.</para>
+    <para />
+    <para>5. Inmiddels is de gewijzigde APV in werking getreden. Blijkens het bestreden besluit heeft verweerder verzoekers aanvraag om de vergunning getoetst aan de huidige APV en de afwijzing in het primaire besluit (met een andere motivering) gehandhaafd. Verweerder heeft zich daarbij op het standpunt gesteld dat in artikel 2.51 van de APV de bevoegdheid om een vergunning te verlenen niet meer bestaat en dat een vergunning daarom niet verleend kan worden. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Gronden verzoeker</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Volgens verzoeker moet ook dit bestreden besluit worden vernietigd. Hij heeft zijn aanvraag om een vergunning ingediend onder de destijds geldende APV. Artikel 2.51 van de APV moet onverbindend worden verklaard dan wel in het geval van verzoeker buiten toepassing blijven. De APV is een algemeen verbindend voorschrift en exceptieve toetsing is daarom mogelijk. Verzoeker wijst ter onderbouwing van zijn betoog naar een uitspraak van de Afdeling Bestuursrechtspraak van de Raad van State (Afdeling) van 12 februari 2020.<footnote-ref linkend="_9f58363d-5f83-4703-b79b-1c22b93cb5d4" /> Het verbod van artikel 2.51 van de APV, waarbij geen bevoegdheid meer bestaat om vergunningen te verlenen, is onvoldoende gemotiveerd en onvoldoende zorgvuldig genomen. Verder vindt verzoeker dat het verbod onrechtmatig is omdat verweerder de belangen van fietstaxiondernemers zwaarder had moeten laten wegen. Daarnaast is artikel 2.51 van de APV in strijd met de Dienstenrichtlijn, die op verzoekers dienst van toepassing is. Ook is het bestreden besluit in strijd met het rechtszekerheidsbeginsel, aldus verzoeker. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Oordeel voorzieningenrechter </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>7. De voorzieningenrechter stelt vast dat de APV per 1 april 2020 in werking is getreden. Hierbij is geen overgangsrecht van toepassing verklaard. Ten tijde van het bestreden besluit gold het algehele verbod voor het op of aan de weg aanbieden van alternatief personenvervoer door middel van onder meer een fietstaxi. Dat betekent dat verweerder op goede gronden heeft gesteld dat thans geen wettelijke grondslag bestaat voor verlening van de door verzoeker gevraagde vergunning. </para>
+    <para />
+    <para>8. Volgens verzoeker is artikel 2.51 van de APV echter in strijd met het zorgvuldigheids- en motiveringsbeginsel, omdat geen bevoegdheid meer bestaat om vergunningen te verlenen. De voorzieningenrechter overweegt dat bij de beoordeling van deze grond een zogenoemde exceptieve toetsing aan de orde is. De exceptieve toetsing houdt in dit geval in dat beoordeeld moet worden of het huidige artikel 2.51 van de APV in strijd is met een hogere regeling of met een algemeen rechtsbeginsel. Het is aan het regelgevend bevoegd gezag om de verschillende belangen, die betrokken zijn bij het nemen van het besluit tot wijziging van artikel 2.51 van de APV, tegen elkaar af te wegen. De rechter heeft daarbij een terughoudende rol en heeft niet tot taak om de waarde of het maatschappelijk gewicht dat aan de betrokken belangen moet worden toegekend naar eigen inzicht vast te stellen. De enkele strijd met formele beginselen als het beginsel van zorgvuldige besluitvorming en het motiveringsbeginsel kan evenwel niet leiden tot het onverbindend achten van een algemeen verbindend voorschrift. Als de bestuursrechter als gevolg van een gebrekkige motivering of onzorgvuldige voorbereiding van een voorschrift niet kan beoordelen of strijd is met hogere regelgeving, de algemene rechtsbeginselen of het evenredigheidsbeginsel, kan hij het voorschrift wel buiten toepassing laten en een daarop berustend besluit vernietigen.<footnote-ref linkend="_22701e0c-c171-477c-90c4-966b86153790" /></para>
+    <para />
+    <paragroup>
+      <nr>9.1</nr>
+      <para>Anders dan verzoeker is de voorzieningenrechter van oordeel dat geen sprake is van een gebrekkige motivering van artikel 2.51 van de APV. In het bestreden besluit en het verweerschrift heeft verweerder voldoende duidelijk uiteengezet hoe de procedure ten aanzien van de beleidswijziging – die is uitgemond in artikel 2.51 van de APV – heeft plaatsgevonden. De beleidswijziging om geen vergunningen meer voor alternatief personenvervoer te verlenen is een van de 77 maatregelen van verweerder in het kader van het programma Stad in Balans. Verweerder wenst hiermee een evenwicht te vinden tussen bezoekers en bewoners, tussen leefbaarheid en gastvrijheid. Met het geheel aan maatregelen wil verweerder de druk die Amsterdammers ervaren als gevolg van de vele bezoekers beperken. Het afschaffen van het vergunningenstelsel voor onder meer fietstaxi’s is één van de maatregelen, omdat het aanbieden van alternatief personenvervoer op of aan de weg extra beslag legt op de openbare ruimte en onvoldoende bijdrage levert aan de doelstellingen van verweerder. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>Verder is de voorzieningenrechter van oordeel dat geen sprake is van een onzorgvuldige voorbereiding van artikel 2.51 van de APV. Verzoeker is in de gelegenheid gesteld om in een vroeg stadium tijdens de inspraak over de voorgenomen beleidswijziging zijn bezwaren aan verweerder kenbaar te maken. Verder is een Nota van Beantwoording opgesteld in het kader van de inspraakprocedure waarmee verweerder reageert op belangen die tijdens de inspraakprocedure naar voren zijn gebracht. Verweerder heeft de vergunninghouders met verschillende brieven en e-mails geïnformeerd over de voortgang van de beleidswijziging. Verzoeker heeft de overwegingen van het programma Stad in Balans weliswaar uitgebreid betwist, maar in het programma Stad in Balans zijn de conclusies voldoende duidelijk en draagkrachtig gemotiveerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3</nr>
+      <para>Daarnaast is de voorzieningenrechter van oordeel dat toepassing van artikel 2.51 van de APV voor verzoeker niet onevenredig is. Alhoewel verzoeker een groot belang heeft bij continuering van zijn onderneming, zijn in de gehele procedure ook de belangen van de fietstaxiondernemers betrokken. Aan het algemeen belang bij leefbaarheid en een evenwichtige verdeling van de openbare ruimte heeft verweerder zwaarder gewicht mogen toekennen. Daarbij acht de voorzieningenrechter van belang dat de fietstaxivergunningen altijd per drie jaar werden verstrekt en in 2019 met één jaar zijn verlengd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.4</nr>
+      <para>Naar het oordeel van de voorzieningenrechter is artikel 2.51 van de APV dan ook niet in strijd met hogere regelgeving, de algemene rechtsbeginselen of het evenredigheidsbeginsel en hoeft dit artikel niet buiten toepassing te blijven.  </para>
+      <para />
+      <para>10. Anders dan verzoeker, oordeelt de voorzieningenrechter dat geen sprake is van strijd met de Dienstenrichtlijn.<footnote-ref linkend="_cab584fb-36a3-4836-ac05-a34ef76f05f4" /> Verweerder heeft terecht gewezen op de uitspraak van de Afdeling van 21 februari 2018,<footnote-ref linkend="_d910b2d7-cc99-4a0d-a30c-a425767ca052" /> waarin de Afdeling heeft geoordeeld dat de Dienstenrichtlijn niet van toepassing is op alternatief personenvervoer, als bedoeld in artikel 2.51 van de APV. Niet is gebleken dat dit nu anders is. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>11. Het beroep is ongegrond. </para>
+      <para />
+      <para>12. Omdat het beroep ongegrond is, is geen aanleiding om een voorlopige voorziening te treffen.</para>
+      <para />
+      <para>13. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <para>- in de zaak AMS 20/3402</para>
+    <para />
+    <parablock>
+      <para>verklaart het beroep ongegrond;</para>
+    </parablock>
+    <para />
+    <para>- in de zaak AMS 20/3403</para>
+    <para />
+    <parablock>
+      <para>wijst het verzoek om een voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.K. Mireku, voorzieningenrechter, in aanwezigheid van mr. T. Rijs, griffier. De beslissing is in het openbaar uitgesproken op 8 juli 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan, voor zover daarbij is beslist op het beroep, binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de Afdeling worden verzocht om het treffen van een voorlopige voorziening.</para>
+      <para>Tegen de uitspraak op het verzoek om een voorlopige voorziening staat geen rechtsmiddel open. </para>
+    </parablock>
+  </section>
+  <footnote id="_30b71fa5-4da5-4b37-9427-246015493111" label="1">
+    <para> ECLI:NL:RBAMS:2020:2321.</para>
+  </footnote>
+  <footnote id="_9f58363d-5f83-4703-b79b-1c22b93cb5d4" label="2">
+    <para> ECLI:NL:RVS:2020:452.</para>
+  </footnote>
+  <footnote id="_22701e0c-c171-477c-90c4-966b86153790" label="3">
+    <para> Zie ook de door verzoeker genoemde uitspraak van de Afdeling.</para>
+  </footnote>
+  <footnote id="_cab584fb-36a3-4836-ac05-a34ef76f05f4" label="4">
+    <para> Richtlijn 2006/123/EG.</para>
+  </footnote>
+  <footnote id="_d910b2d7-cc99-4a0d-a30c-a425767ca052" label="5">
+    <para> ECLI:NL:RVS:2018:602.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

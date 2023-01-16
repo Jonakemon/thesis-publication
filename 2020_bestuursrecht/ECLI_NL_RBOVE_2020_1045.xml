@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOVE:2020:1045</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-19T10:17:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel" scheme="overheid.RechterlijkeMacht">Rechtbank Overijssel</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AK_19 _ 1417</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:1045">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:1045</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-19T10:16:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOVE:2020:1045 Rechtbank Overijssel , 04-03-2020 / AK_19 _ 1417</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOVE:2020:1045:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De rechtbank is van oordeel dat de door verweerder gegeven ruimtelijke onderbouwing bij het verlenen van de ontheffing van het bestemmingsplan, ontoereikend is. De gemeente moet een nieuw besluit nemen op het bezwaar van eiser 1 met inachtneming van deze uitspraak.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOVE:2020:1045:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK OVERIJSSEL</bridgehead>
+    <para>Zittingsplaats Zwolle</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/1417</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [eiser 1] , eiser 1,</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [eiser 2] , eiser 2,</emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">
+          [eiser 3] , eiseres 3</emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">
+          [eiser 4] , eiser 4,</emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">
+          [eiser 5] , eiseres 5,</emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">
+          [eiser 6] , 6, </emphasis>allen wonende te Hasselt, tezamen eisers, alsmede optredend als gemachtigde: [eiser 1]</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">en </bridgehead>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Zwartewaterland, verweerder,</bridgehead>
+    <para>gemachtigde: A.J. Boers.</para>
+    <para />
+    <bridgehead role="bold">Als derde-partij heeft aan het geding deelgenomen: [belanghebbende] , wonende te Hasselt.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 februari 2019 (het primaire besluit) heeft verweerder aan [belanghebbende] (hierna vergunninghouder) een omgevingsvergunning verleend voor het realiseren van een dojo in het bedrijfsgebouw op het perceel [adres] in Hasselt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hiertegen heeft eiser per brief van 23 maart 2019, mede namens 20 omwonenden, bezwaar gemaakt. Per brief van 2 april 2019 heeft hij de voorzieningenrechter verzocht om het bestreden besluit te schorsen totdat een besluit op zijn bezwaar is genomen. De voorzieningenrechter heeft op 1 mei 2019 het verzoek afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 20 augustus 2019 (het bestreden besluit) heeft verweerder het bezwaar van eisers ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen het bestreden besluit is beroep ingesteld. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 4 februari 2020. Verschenen zijn </para>
+      <para>
+        [eiser 1] , R. Veldhuis en [eiser 3] . </para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Derde-partij is verschenen, bijgestaan door J.W. Tebak.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Ontvankelijkheid</emphasis>
+      </para>
+      <para>1.	De rechtbank dient allereerst vast te stellen of eisers in hun beroep kunnen worden ontvangen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge de artikelen 6:7, juncto 6:8, eerste lid, Algemene wet bestuursrecht (Awb) moet een beroepschrift worden ingediend binnen zes weken na de dag waarop het besluit op de voorgeschreven wijze is bekend gemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Krachtens artikel 6:9, eerste lid, Awb, is een bezwaar- of beroepschrift tijdig ingediend wanneer het voor het einde van de termijn is ontvangen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft het besluit van 20 augustus 2019 op 21 augustus 2019 op de voorgeschreven wijze bekend gemaakt. De beroepstermijn eindigde derhalve op 2 oktober 2019.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In dit verband stelt de rechtbank vast dat eiser 1 op 12 september 2019 zelfstandig beroep heeft ingesteld tegen de beslissing op bezwaar van 21 augustus 2019. Het beroepschrift is derhalve binnen de beroepstermijn ingediend. Dit betekent dat het door eiser 1 ingestelde beroep ontvankelijk is.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <parablock>
+        <para>Bij brief van 17 oktober 2019 heeft eiser 1 vermeld gemachtigd te zijn om tevens beroep in te dienen namens eisers 2, 3, 4, 5 en 6. De rechtbank is van oordeel dat deze brief als een eerste beroepsschrift moet worden aangemerkt van voornoemde eisers. In geval van termijnoverschrijding blijft niet-ontvankelijk verklaring op grond daarvan ingevolge artikel 6:11 van de Awb, achterwege, indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. Ter zitting is namens eisers betoogd dat het beroepschrift </para>
+        <para>van 12 september 2019 namens alle eisers is ingediend, althans dat dit werd beoogd. </para>
+        <para>De rechtbank is van oordeel dat uit het beroepschrift van 12 september 2019 blijkt dat deze enkel is ingediend door eiser 1. Het is de rechtbank voorts niet gebleken van omstandigheden die maken dat eisers 2, 3, 4, 5 en 6 redelijkerwijs niet tijdig beroep konden aantekenen. </para>
+        <para>De rechtbank verklaart de beroepen van eisers 2, 3, 4, 5 en 6 om die reden dan ook </para>
+        <para>niet-ontvankelijk. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Dit betekent dat de rechtbank alleen de gronden van beroep die door eiser 1 zijn aangevoerd bij haar beoordeling betrekt.</para>
+      </parablock>
+      <para />
+      <para>2. Op 5 februari 2019 heeft belanghebbende bij verweerder een aanvraag om een omgevingsvergunning voor het realiseren van een dojo in het bedrijfsgebouw op het perceel [adres] in Hasselt ingediend. Een dojo is een zaal waarin men oefent in Japanse zelfverdedigingskunsten of vechtsporten zoals onder meer jiujitsu en judo. In deze aanvraag is opgenomen dat de focus zal liggen op jongeren tussen de 8 en 18 jaar. De sportlessen zullen worden uitgevoerd in een groep van circa 4 tot 12 personen in lessen van 50 minuten. Verder heeft belanghebbende in de aanvraag gesteld dat, omdat de klanten gezien leeftijd en woonplaats voornamelijk met de fiets of lopend naar de dojo zullen komen, er geen extra verkeershinder zal ontstaan. Tevens zullen er op het eigen terrein, bij de ingang en uit het zicht, fietsenrekken worden geplaatst. Gezien de groepsgrootte per uur zal er volgens belanghebbende nauwelijks belasting voor de omgeving zijn. In de aanvraag is ten slotte aangegeven dat de geopteerde openingstijden als volgt zijn:</para>
+      <para>- maandag van 13.00 uur tot 19.00 uur</para>
+      <para>- woensdag van 13.00 uur tot 19.00 uur</para>
+      <para>- donderdag van 15.00 uur tot 19.00 uur</para>
+      <para>- zaterdag van 10.00 uur tot 20.00 uur.</para>
+      <para />
+      <para>3. Verweerder heeft de omgevingsvergunning verleend voor de activiteit “handelen in strijd met regels ruimtelijke ordening”. Meer specifiek ziet de vergunning op het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan. Dit betreft een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder c, van de Wet algemene bepalingen omgevingsrecht (Wabo). Deze vergunning is verleend met toepassing van artikel 2.12, eerste lid, onder a, sub 1°, van de Wabo. </para>
+      <para />
+      <para>4. De rechtbank stelt vast dat het perceel [adres] in Hasselt volgens het bestemmingsplan ‘Binnen de Veste 2009’ de bestemming ‘Bedrijf’ heeft. Ingevolge artikel 2.1, eerste lid, aanhef en onder 1, van de planregels zijn gronden met deze bestemming bestemd voor het uitoefenen van bedrijfsmatige activiteiten in de categorieën 1 en 2 van de bij de planregels behorende Lijst van bedrijfstypen, met de daarbij behorende bebouwing en voorzieningen.</para>
+      <para />
+      <parablock>
+        <para>Niet in geschil is dat een sportschool niet is opgenomen in de Lijst van bedrijfstypen en dat de aangevraagde activiteit om die reden in strijd is met artikel 2.1, eerste lid, van de planregels.</para>
+      </parablock>
+      <para />
+      <para>5. Artikel 2.12, eerste lid, onder a, sub 1°, van de Wabo bepaalt dat, voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, de omgevingsvergunning slechts kan worden verleend indien de activiteit niet in strijd is met een goede ruimtelijke ordening en, indien de activiteit in strijd is met het bestemmingsplan, met toepassing van de in het bestemmingsplan opgenomen regels inzake afwijking.</para>
+      <para />
+      <parablock>
+        <para>Artikel 3.4, aanhef en onder 1, van de bestemmingsplanregels bepaalt dat burgemeester en wethouders, overeenkomstig artikel 3.6 van de Wet ruimtelijke ordening, ontheffing kunnen verlenen van het bepaalde in deze planregels of de aanwijzingen op de plankaart voor de vestiging van een bedrijf dat niet is genoemd in de bij de planregels behorende Staat van bedrijfsactiviteiten maar dat naar zijn aard en invloed op de omgeving vergelijkbaar is met een rechtstreeks toegelaten bedrijf.</para>
+      </parablock>
+      <para />
+      <para>6. Verweerder heeft aan het bestreden besluit ten grondslag gelegd dat een dojo vergelijkbaar is met een sportschool en dat een sportschool een bedrijf uit categorie 2 van de VNG-publicatie Bedrijven en milieuzonering is. Omdat de dojo zich richt op jongeren tussen de 8 en 18 jaar, is de parkeerbehoefte volgens verweerder beperkt en wijkt deze niet af van de parkeerbehoefte van functies die bij recht zijn toegestaan. Verder zijn de openingstijden relatief beperkt. Ook zal de dojo, omdat deze wordt gevestigd in een gemengd centrumgebied, volgens verweerder niet leiden tot onevenredige aantasting van het leefklimaat in de binnenstad. Op grond van deze overwegingen heeft verweerder geconcludeerd dat de dojo naar aard en invloed op de omgeving gelijk is aan de bedrijven </para>
+      <para>die bij recht ter plaatse zijn toegestaan en dat er geen ruimtelijk relevante redenen zijn om medewerking aan vergunningverlening te weigeren. </para>
+      <para />
+      <para>7. Eiser heeft tegen het bestreden besluit aangevoerd dat verweerder ten onrechte de vergunning heeft verleend omdat dit in strijd is met het conserverende karakter van het maatgevende bestemmingsplan voor de historisch belangwekkend en beschermde binnenstad. Het beleid is er op gericht de binnenstad en de directe periferie zoveel mogelijk autovrij te maken en de economische bedrijvigheid in het historisch centrum te concentreren. Uitbreiding naar aantal en aard is niet het beoogde beleid. Eisers verwijzen hiervoor naar enkele passages uit de toelichting van het bestemmingsplan. De vestiging van de dojo is in strijd met dit beleid. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Volgens vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (hierna Afdeling) is de toelichting van een bestemmingsplan niet bindend. De niet bindende toelichting bij het bestemmingsplan heeft in zoverre betekenis dat deze over de bedoeling van de planwetgever meer inzicht kan geven als de bestemming en de bijbehorende planregels waaraan moet worden getoetst, op zichzelf noch in samenhang duidelijk zijn. Dit volgt onder meer uit de uitspraak van de Afdeling van 16 maart 2016, ECLI:NL:RVS:2016:682. Naar het oordeel van de rechtbank laat de tekst van artikel 2.1, eerste lid, aanhef en onder 1, van de planregels aan duidelijkheid niets te wensen. De rechtbank stelt vast dat het perceel [adres] reeds een bedrijfsbestemming heeft als gevolg waarvan ter plaatse onder andere bedrijven uit categorie 2 van de Lijst van bedrijfstypen zijn toegestaan. </para>
+      <para />
+      <parablock>
+        <para>8.	Eiser heeft aangevoerd dat de door verweerder gegeven uitleg en toepassing van de in het bestemmingsplan opgenomen bevoegdheid tot het afgeven van een ontheffing van het bestemmingsplan onjuist is. Daarbij verwijst eiser naar een uitspraak van 15 november 2005 van deze rechtbank in het kader van de vestiging van een pizzakoerier. De vestiging van een pizzakoerier zou niet zijn toegestaan omdat deze niet voorkwam op de bedrijvenlijst en het “inlezen” van een dergelijk bedrijf niet overeenkomstig de bedoeling van de planwetgever was. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>De rechtbank oordeelt in dit verband dat er een nieuw bestemmingsplan is vastgesteld en in dit vigerende bestemmingsplan verweerder bevoegd is om een ontheffing te verlenen op grond van de in artikel 3.4 van het bestemmingsplan omschreven situatie. Daarmee is er geen sprake van een vergelijkbaar geval.</para>
+      <para />
+      <parablock>
+        <para>9.	Eiser heeft zich op het standpunt gesteld dat de functieomschrijving van de dojo veel meer maatschappelijk of dienstverlenend is. Eiser stelt ook dat er sprake is van een niet fysiek vorm van detailhandel.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder in dat verband mogen overwegen dat een dojo vergelijkbaar is met een sportschool, dan wel een onderdeel hiervan. Een sportschool is echter ook geen rechtstreeks toegelaten bedrijf. Wel valt een sportschool in categorie 2 van de VNG-publicatie Bedrijven en milieuzonering. Dat betekent dat een dojo vergelijkbaar is met een bedrijf van categorie 2, een bedrijfsbestemming die ingevolge de gegeven bestemming aan het perceel in beginsel is toegestaan, voor zover opgenomen op de lijst. </para>
+      <para />
+      <parablock>
+        <para>10.	De vestiging van de sportschool in een stille woonwijk geeft volgens eiser overlast en disproportionele hinder. De dojo heeft meer gevolgen voor de omgeving dan de voorheen aanwezige opslag voor caravans of keet voor een timmer- of schildersbedrijf. De dojo is vier dagen in de week open tot 22.00 uur en trekt mensen van heinde en verre. Eiser stelt ook hinder te ondervinden vanwege het ontbreken van duidelijke grenzen aan de vergunning. Zo zijn de door de dojo gehanteerd openingstijden ruimer volgens de door eiser overgelegde informatie van een website dan bij de aanvraag indicatief is opgegeven en wordt les gegeven aan volwassenen, waardoor meer gebruik van auto’s wordt gemaakt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Er is overlast van geschreeuw, lichamen die dreunend op de matten vallen en gebeuk tegen bokszakken. De geluiden die in de dojo gemaakt worden, klinken buiten net zo hard als binnen. Eiser meent dat met het geschreeuw van commando’s de geluidsnormen van het Activiteitenbesluit overschreden worden. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <parablock>
+        <para>Tussen partijen is niet in geschil dat de dojo in strijd is met de bestemming zoals gegeven in het bestemmingsplan. Verweerder heeft echter toepassing gegeven aan de ontheffingsmogelijkheid zoals opgenomen in artikel 3.4. van het bestemmingsplan. </para>
+        <para>Verweerder heeft beoordeeld of het bedrijf, de dojo, naar zijn naar zijn aard en invloed op </para>
+        <para>de omgeving vergelijkbaar is met een rechtstreeks toegelaten bedrijf. Naar het oordeel van </para>
+        <para>de rechtbank heeft verweerder mogen overwegen dat een dojo vergelijkbaar is met een sportschool, dan wel een onderdeel hiervan en daarmee aan te merken is als een bedrijf van categorie 2 van de VNG-publicatie Bedrijven en milieuzonering. Voorts is niet in geschil dat de dojo een type A-inrichting is, waarop de geluidsnormen ingevolge het Activiteitenbesluit van toepassing is. In dit geval heeft verweerder naar het oordeel van de rechtbank terecht ervoor gekozen om de grenswaarden opgenomen in artikel 2.17 van het Activiteitenbesluit milieubeheer als kader te gebruiken. Daarbij is het van belang of voldaan kan worden aan de geluidsnormen op grond van het Activiteitenbesluit. Het aantal decibel dat volgens eiser aan het geschreeuw op zichzelf moet worden verbonden, is daarvoor niet bepalend naar het oordeel van de rechtbank.</para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>10.1.1.</nr>
+        <parablock>
+          <para>De rechtbank stelt vast dat verweerder voorts bij de beoordeling of naar aard en invloed op de omgeving de dojo vergelijkbaar is met bedrijven die naar rechte zijn toegestaan, als uitgangspunten heeft genomen dat de dojo zich richt op jongeren tussen de 8 en 18 jaar waardoor de parkeerbehoefte volgens verweerder beperkt is, en niet afwijkt van de parkeerbehoefte van functies die bij recht zijn toegestaan. Verder zijn de openingstijden relatief beperkt volgens verweerder waardoor de invloed op de omgeving beperkt is. </para>
+          <para>De rechtbank stelt vast dat in de vergunning geopteerde openingstijden zijn opgenomen. </para>
+          <para>Ter zitting is vervolgens verklaard door verweerder dat de dojo geen beperking kent van openingstijden. Hoewel in de praktijk weliswaar beperkte openingstijden worden gehanteerd, zijn dit wel andere tijden dan opgenomen in de omgevingsvergunning. Bovendien staat volgens verweerder de vergunning niet in de weg aan een verdere uitbreiding van het gebruik. Ook is er volgens verweerder geen beperking in doelgroep, zodat ook lessen kunnen worden gegeven aan groepen van volwassenen.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>10.1.2.</nr>
+        <parablock>
+          <para>De rechtbank is van oordeel dat de door verweerder gegeven ruimtelijke onderbouwing bij het verlenen van de ontheffing van het bestemmingsplan, ontoereikend is. Dit vanwege het feit dat in het kader van een goede ruimtelijke beoordeling en de door verweerder gemaakte belangenafweging waarde heeft toegekend aan de in de aanvraag genoemde openingstijden en dat de doelgroep zich in beginsel zou beperken tot jongeren tussen de 8 en 18 jaar. De openingstijden zijn naar het oordeel van de rechtbank met name van belang gelet op de te hanteren geluidsnormen. Na 19.00 uur gelden tenslotte andere geluidsnormen op grond van het Activiteitenbesluit milieubeheer. Naar het oordeel van de rechtbank is de summiere motivering van het geluidsaspect, waarbij een inventarisatie van </para>
+          <para>de verwachte geluidsemissie ontbreekt, ook onvoldoende. Naar het oordeel van de rechtbank heeft verweerder eveneens onvoldoende gemotiveerd, waarom er voldaan wordt aan de parkeernorm. Verweerder is daarbij uitgegaan van het feit dat jongeren met name op de fiets zullen komen en niet met een auto. De doelgroep is echter niet beperkt tot jongeren. Het beroep is om die reden gegrond.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>11.	Eiser meent verder dat de door verweerder gevolgde procedure niet juist is geweest. Eiser had in de gelegenheid moeten worden gesteld om voor het nemen van het primaire besluit zijn zienswijze naar voren te brengen. Dit volgt volgens eiser onder meer uit artikel 3.6 van het bestemmingsplan.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>11.1.</nr>
+      <para>In dat verband overweegt de rechtbank dat artikel 3.6 van het bestemmingsplan door de inwerkingtreding van de Wabo zijn werking heeft verloren. Verweerder heeft dan ook terecht de reguliere procedure onder toepassing van artikel 3.7 en 3.10 van de Wabo gevolgd en niet de procedure die in laatstgenoemd artikel is voorgeschreven. Dat betekent ook dat geen verplichting bestond om alvorens op de aanvraag te beslissen, eiser te horen. </para>
+      <para />
+      <parablock>
+        <para>Eiser heeft in dit verband tevens een beroep gedaan op artikel 4:8 van de Awb. Ingevolge artikel 4:8, eerste lid, aanhef en onder a, van de Awb stelt een bestuursorgaan voordat het een beschikking geeft waartegen een belanghebbende die de beschikking niet heeft aangevraagd naar verwachting bedenkingen zal hebben, die belanghebbende in de gelegenheid zijn zienswijze naar voren te brengen indien de beschikking zou steunen op gegevens over feiten en belangen die de belanghebbende betreffen en die gegevens niet door de belanghebbende zelf ter zake zijn verstrekt. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Blijkens de totstandkomingsgeschiedenis beoogt dit artikel slechts te waarborgen dat </para>
+        <para>een verificatie van gegevens kan plaatsvinden ten behoeve van een goede en zorgvuldige bestuurlijke voorbereiding van een besluit. De in dit artikel neergelegde hoorplicht heeft geen rechtsbeschermingsfunctie. Zij is niet bedoeld als een soort bezwaarprocedure vooraf en is evenmin bedoeld om alle mogelijke aanwezige belangen in kaart te brengen. Eiser heeft in dit geval voldoende in bezwaar en beroep zijn belangen naar voren kunnen brengen, zodat deze beroepsgrond niet slaagt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>12.	Eiser meent dat ten onrechte geen eisen zijn gesteld aan de brandveiligheid, terwijl er volgens eiser een vergunningplicht geldt omdat in het gebouw zich 10 kinderen tegelijk ophouden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.1.</nr>
+      <parablock>
+        <para>De aanvraag om omgevingsvergunning ziet op de activiteit “handelen in strijd met regels ruimtelijke ordening”. Het brandveilig in gebruik nemen van het gebouw is een activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder d, van de Wabo. Ingevolge artikel 2.2, eerste lid, van het Besluit omgevingsrecht geldt als categorieën gevallen als bedoeld in artikel 2.1, eerste lid, onder d, van de wet:</para>
+        <para>o a. het in gebruik nemen of gebruiken van een bouwwerk waarin bedrijfsmatig of in het kader van verzorging nachtverblijf zal worden verschaft aan meer dan 10 personen, dan wel het in afwijking daarvan bij de bouwverordening, bedoeld in artikel 8 van de Woningwet, bepaalde aantal personen;</para>
+        <para>o b. het in gebruik nemen of gebruiken van een bouwwerk waarin dagverblijf zal worden verschaft aan:</para>
+        <para> 1°. meer dan 10 personen jonger dan 12 jaar, of</para>
+        <para> 2°. meer dan 10 lichamelijk of verstandelijk gehandicapte personen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Beide activiteiten zijn echter naar het oordeel van de rechtbank geen activiteiten die onlosmakelijk met elkaar zijn verbonden als bedoeld in artikel 2.7, eerste lid, van de Wabo. Het handelen in strijd met de bestemming vindt niet altijd plaats tegelijk met het brandveilig in gebruik nemen. Naar het oordeel van de rechtbank hoefde verweerder de aanvraag om een omgevingsvergunning niet mede te betrekken op de activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder d, van de Wabo. Omdat de activiteit als bedoeld in artikel 2.1, eerste lid, aanhef en onder d, van de Wabo niet voorlag, heeft verweerder terecht bij de beoordeling van de aanvraag om een omgevingsvergunning geen toepassing gegeven aan de uitgebreide voorbereidingsprocedure als bedoeld in artikel 3:10, eerste lid, aanhef en onder b, van de Wabo.</para>
+      </parablock>
+      <para />
+      <para>13. Het beroep van eiser 1 is gegrond en de rechtbank vernietigt het bestreden besluit. </para>
+      <parablock>
+        <para>De rechtbank ziet geen grond om zelf in de zaak te voorzien door het herroepen van het primaire besluit. De rechtbank acht het niet onaannemelijk dat de verleende omgevings-vergunning bij een verbeterde ruimtelijke beoordeling en belangenafweging in stand </para>
+        <para>zal blijven. Voor het zelf opstellen van voorschriften aan de omgevingsvergunning, </para>
+        <para>zoals door eiser verzocht, ziet de rechtbank geen aanleiding. Verweerder zal een nieuw besluit moeten nemen met inachtneming van deze uitspraak. De rechtbank stelt hiervoor </para>
+        <para>een termijn van zes weken. Voor zover eiser verzoekt om verweerder te veroordelen om het probleem op te lossen door zelf aan het pand een bestemming te geven, valt dit buiten de omvang van deze procedure.</para>
+      </parablock>
+      <para />
+      <para>14. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt.</para>
+      <para />
+      <para>15. Er zijn geen voor vergoeding in aanmerking komende proceskosten. De vergoeding van proceskosten in de procedure inzake het verzoek tot het treffen van een voorlopige voorziening, kan alleen in die procedure worden toegekend. De voorzieningenrechter heeft </para>
+      <parablock>
+        <para>in die procedure op 1 mei 2019 uitspraak gedaan. Eiser kan daarnaast geen verzoek doen </para>
+        <para>om vergoeding van schade van een derde-partij, zodat dit verzoek wordt afgewezen.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep van eisers 2, 3, 4, 5 en 6 niet-ontvankelijk;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep van eiser 1 gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak  een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>wijst het verzoek van eiser 1 om schadeloosstelling van de derde-partij af;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 174,- aan eiser 1 te vergoeden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A. Oosterveld, rechter, in aanwezigheid van </para>
+      <para>mr. H.E. Melissen, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

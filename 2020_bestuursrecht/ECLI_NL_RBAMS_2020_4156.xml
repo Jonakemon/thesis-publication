@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:4156</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-26T14:47:13</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 18/5942</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:4156">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:4156</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-26T14:46:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:4156 Rechtbank Amsterdam , 17-08-2020 / AMS 18/5942</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:4156:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wet WIA. De rechtbank heeft een onafhankelijke deskundige medisch advies laten uitbrengen. Het UWV heeft naar aanleiding van dat advies de FML aangepast en een gewijzigde beslissing op bezwaar genomen. De rechtbank oordeelt dat de aangepaste FML op meerdere punten niet in overeenstemming is met de bevindingen van de onafhankelijke deskundige. Het UWV moet een nieuwe FML opstellen die geheel in overeenstemming is met de bevindingen en conclusies van de onafhankelijke deskundige.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:4156:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 18/5942</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres</bridgehead>
+    <para>(gemachtigde: [naam] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, </emphasis>verweerder</para>
+      <para>(gemachtigde: [naam] ).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 januari 2018 (het primaire besluit) heeft verweerder beslist dat eiseres per 13 november 2017 geen uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) krijgt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 11 september 2018 (het bestreden besluit) heeft verweerder het bezwaar van eiseres gegrond verklaard en alsnog per 13 november 2017 een WIA-uitkering toegekend naar een mate van arbeidsongeschiktheid van 49,6%.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 29 maart 2019 en is bij die gelegenheid geschorst, omdat de rechtbank de inschakeling van een onafhankelijk verzekeringsarts als deskundige aangewezen achtte. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deskundige [naam] , verzekeringsarts, heeft op 31 oktober 2019 een rapport opgesteld, dat door de rechtbank is ontvangen op 7 november 2019.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 5 december 2019 heeft eiseres gereageerd op het rapport van de deskundige en een rapportage van een cardioloog overgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft naar aanleiding van het rapport van de deskundige met een besluit van 15 mei 2020 een wijziging aangebracht in het bestreden besluit. Die wijziging houdt in dat de mate van arbeidsongeschiktheid van eiseres per 13 november 2017 wordt vastgesteld op 71,15%. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft bij brief van 2 juni 2020 laten weten zich niet te kunnen vinden in het gewijzigde bestreden besluit en tevens een nader rapport van 1 juni 2020 van de cardioloog overgelegd. [naam] , verzekeringsarts bezwaar en beroep, heeft hierop gereageerd in een nadere rapportage van 29 juni 2020. Bij brief van 6 juli 2020 met bijlagen heeft eiseres een nadere reactie aan de rechtbank gestuurd. In die brief heeft eiseres ook aangegeven op een nadere zitting gehoord te willen worden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zitting heeft via videoverbinding plaatsgevonden op 3 augustus 2020. Eiseres was aanwezig, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, vergezeld van [naam] , verzekeringsarts bezwaar en beroep.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wat vooraf is gegaan aan deze procedure</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eiseres heeft gewerkt bij de [werkgever] als [functie] voor 32 uur per week. Zij is op 1 oktober 2017 ziek uit dienst gegaan en aansluitend is een uitkering op grond van de Ziektewet toegekend. </para>
+    <para />
+    <para>2. In november 2017 heeft eiseres een WIA-uitkering aangevraagd. Verweerder heeft die aanvraag afgewezen en beslist dat eiseres per 13 november 2017 geen WIA-uitkering krijgt. Het door eiseres gemaakte bezwaar tegen deze beslissing is gegrond verklaard. In het bestreden besluit heeft verweerder alsnog per 13 november 2017 (tot en met 27 juni 2019) aan eiseres een loongerelateerde WIA-uitkering toegekend. Daarbij is de mate van arbeidsongeschiktheid van eiseres vastgesteld op 49,6%.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De beoordeling door de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. De deskundige heeft op verzoek van de rechtbank rapport uitgebracht over, kort gezegd, de belastbaarheid van eiseres per 13 november 2017. Uit de reacties van partijen blijkt dat eiseres noch verweerder zich kan vinden in de beperkingen zoals de deskundige die heeft gerapporteerd. Volgens eiseres heeft de deskundige te weinig beperkingen aangenomen, terwijl verweerder van mening is dat de deskundige te veel beperkingen heeft aangenomen.</para>
+    <para />
+    <para>4. Volgens vaste rechtspraak van de Centrale Raad van Beroep (de Raad) geldt als uitgangspunt dat de bestuursrechter het oordeel van een onafhankelijke, door hem ingeschakelde deskundige kan volgen indien de door deze deskundige gebezigde motivering hem overtuigend voorkomt.<footnote-ref linkend="_4bc62c22-4aaf-44c6-bbbc-69b41dbc5994" /> Deze situatie doet zich hier naar het oordeel van de rechtbank voor. Het rapport van de deskundige geeft blijk van een zorgvuldig onderzoek en is inzichtelijk en consistent. De deskundige heeft naar het oordeel van de rechtbank inzichtelijk, consistent en gemotiveerd de problematiek van eiseres en de daaruit voortvloeiende beperkingen beschreven. </para>
+    <para />
+    <para>5. De rechtbank ziet noch in de door eiseres overgelegde nadere rapporten van haar behandelend cardioloog, [naam] , noch in de rapporten van de verzekeringsarts bezwaar en beroep van 17 maart 2020 en 29 juni 2020 reden om van een andere belastbaarheid uit te gaan dan door de deskundige is beschreven. Het verschil van inzicht tussen [naam] en de verzekeringsarts bezwaar en beroep over de belastbaarheid van eiseres is voor de rechtbank mede de reden geweest om in deze zaak een onafhankelijke deskundige in te schakelen. De deskundige heeft alle beschikbare informatie, waaronder de eerder door [naam] en de verzekeringsarts bezwaar en beroep verwoorde visies, bij de beoordeling betrokken. De deskundige komt tot een andere inschatting van de belastbaarheid van eiseres. Dat noch [naam] noch de verzekeringsarts bezwaar en beroep zich geheel in de uitkomst van het deskundigenonderzoek kan vinden, verrast in dat opzicht niet. Dat is voor de rechtbank echter geen reden om de deskundige niet te volgen. </para>
+    <para />
+    <para>6. De verwijzing van eiseres naar de uitspraak van de Raad van 8 januari 2020 (ECLI:NL:CRVB:2020:29) is evenmin reden om de deskundige niet te volgen. Juist is dat de Gezondheidsraad in zijn advies van 19 maart 2018 uiteen heeft gezet dat ME/CVS een ernstige ziekte is en kan leiden tot substantiële functionele beperkingen. Uit het rapport van de deskundige volgt echter dat zij voor eiseres substantiële functionele beperkingen heeft aangenomen. Uit het algemene advies van de Gezondheidsraad volgt daarmee niet dat de deskundige de beperkingen voor eiseres heeft onderschat.</para>
+    <para />
+    <para>7. De rechtbank neemt zodoende de conclusies en bevindingen van de deskundige over. </para>
+    <para />
+    <para>8. De door verweerder bij besluit van 15 mei 2020 gewijzigd vastgestelde mate van arbeidsongeschiktheid van eiseres per 13 november 2017 is (mede) gebaseerd op het nadere rapport van de verzekeringsarts bezwaar en beroep van 17 maart 2020 en de daarbij gevoegde aangepaste Functionele Mogelijkhedenlijst (FML) van 17 maart 2020. De rechtbank stelt vast dat deze aangepaste FML op meerdere punten niet in overeenstemming is met de bevindingen en conclusies van de deskundige. Zo zijn in die FML geen beperkingen opgenomen op de items 3.2, 3.10, 4.15, 5.6, 5.7 en 6.5, terwijl de deskundige heeft gerapporteerd dat op deze items wél beperkingen gelden. Verder is in de aangepaste FML de beperking op item 3.1 anders geformuleerd dan de deskundige heeft aangegeven. </para>
+    <para />
+    <para>9. Het voorgaande betekent dat verweerder ook met het wijzigingsbesluit van 15 mei 2020 de beperkingen van eiseres niet goed heeft vastgesteld en dat de medische grondslag van verweerders besluitvorming nog steeds niet deugdelijk is. Daarmee is ook de mate van arbeidsongeschiktheid van eiseres niet deugdelijk vastgesteld.</para>
+    <para />
+    <para>10. Het beroep is gegrond. Het bestreden besluit, met inbegrip van het wijzigingsbesluit van 15 mei 2020, moet worden vernietigd. De rechtbank zal verweerder opdragen om een nieuw besluit te nemen met inachtneming van deze uitspraak. Verweerder zal een FML moeten opstellen die geheel in overeenstemming is met de conclusies en bevindingen van de deskundige. Verwezen wordt naar de beantwoording door de deskundige op pagina 22 van het rapport; daar staat duidelijk op welke punten van de FML aanvullende beperkingen moeten worden opgenomen en hoe deze beperkingen moeten luiden. Op basis van de nieuw op te stellen FML zal verweerder vervolgens nader arbeidsdeskundig onderzoek moeten doen.</para>
+    <para />
+    <para>11. De rechtbank stelt een termijn van zes weken voor het nieuw te nemen besluit. De rechtbank merkt op dat deze termijn pas begint nadat de termijn om hoger beroep in te stellen ongebruikt is verstreken of, indien hoger beroep wordt ingesteld, nadat op het hoger beroep is beslist.</para>
+    <para />
+    <para>12. Omdat de rechtbank het beroep gegrond verklaart, moet verweerder aan eiseres het door haar betaalde griffierecht vergoeden.</para>
+    <para />
+    <para>13. De rechtbank veroordeelt verweerder daarnaast in de door eiseres in beroep gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.837,50 (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, 0,5 punt voor het indienen van een schriftelijke zienswijze na het rapport van de deskundige, 1 punt voor het verschijnen op de nadere zitting met een waarde per punt van € 525,- en een wegingsfactor 1). </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit van 11 september 2018, met inbegrip van de wijziging daarvan met het besluit van 15 mei 2020;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op binnen zes weken na het gezag van gewijsde krijgen van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 46,- aan eiseres te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.837,50.</para>
+      </listitem>
+    </itemizedlist>
+    <para> </para>
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.F. de Lemos Benvindo, rechter, in aanwezigheid van mr. N.A.H. Kosters, griffier<emphasis role="italic">. </emphasis>Deze uitspraak is niet in het openbaar uitgesproken vanwege de coronamaatregelen. De uitspraak is aan partijen bekend gemaakt door verzending op de onderstaande datum.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier</para>
+      <para> rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+  </section>
+  <footnote id="_4bc62c22-4aaf-44c6-bbbc-69b41dbc5994" label="1">
+    <para>Zie bijvoorbeeld de uitspraak van de Raad van 23 juni 2017, ECLI:NL:CRVB:2017:2471.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

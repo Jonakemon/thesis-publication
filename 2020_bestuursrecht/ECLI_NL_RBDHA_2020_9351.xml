@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:9351</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T11:43:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.10268 en NL20.10269</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9351">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9351</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T11:42:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:9351 Rechtbank Den Haag , 11-09-2020 / NL20.10268 en NL20.10269</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:9351:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verweerder mocht het asielrelaas van een Georgiër ongeloofwaardig achten</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:9351:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG					</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: NL20.10268 (beroep) en NL20.10269 (voorlopige voorziening) </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer en de voorzieningenrechter in de zaak tussen </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , eiser </bridgehead>
+    <parablock>
+      <para>V-nummer: [nummer] </para>
+      <para>(gemachtigde: mr. P. Scholtes), </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staatssecretaris van Justitie en Veiligheid, verweerder </bridgehead>
+    <para>(gemachtigde: mr. M. Damhuisen). </para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 mei 2020 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot </para>
+      <para>het verlenen van een verblijfsvergunning asiel voor bepaalde tijd afgewezen als kennelijk </para>
+      <para>ongegrond.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. Daarnaast heeft hij de </para>
+      <para>voorzieningenrechter gevraagd om een voorlopige voorziening te treffen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 24 augustus 2020. Eiser en zijn </para>
+      <para>gemachtigde zijn, met bericht van verhindering, niet verschenen. Verweerder heeft zich </para>
+      <para>laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het asielrelaas </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1.  	Eiser stelt dat hij de Georgische nationaliteit heeft en is geboren op [geboortedatum] . </para>
+      <para>Aan zijn aanvraag heeft hij het volgende ten grondslag gelegd. Eiser wilde in Georgië </para>
+      <para>samen met een vriend en nog een andere persoon een onderneming starten. Zij wilden </para>
+      <para>gasketels uit China importeren en verkopen. Deze ketels bleken bij levering wegens </para>
+      <para>defecten onverkoopbaar te zijn. Eiser en zijn compagnons leden daardoor fors financieel </para>
+      <para>verlies. De schuld zou onderling worden verdeeld, maar eiser en zijn vriend zijn </para>
+      <para>door criminelen benaderd. Zij vertelden dat zij ook de schuld van de derde persoon moesten </para>
+      <para>aflossen. Zij zouden gevaar lopen als zij dat niet deden. Na aangifte bij de politie kregen zij </para>
+      <para>dreigtelefoontje. Hen werd daarbij meegedeeld zij met de aangifte niets  </para>
+      <para>zouden bereiken. Eisers vriend heeft toen zijn naam veranderd en is naar België gevlucht. </para>
+      <para>Daar heeft hij vergeefs om bescherming gevraagd. Bij terugkeer naar Georgië is deze vriend vervolgens vermoord door de mensen die hen bedreigd hadden. Betrokkene vreest nu dat hij </para>
+      <para>het volgende dodelijke slachtoffer van deze criminelen zal worden.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het bestreden besluit  </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>Het asielrelaas van eiser bevat volgens verweerder de volgende relevante </para>
+        <para>elementen:  </para>
+        <para>1) nationaliteit, identiteit en herkomst; </para>
+        <para>2) problemen met criminele organisatie. </para>
+        <para>Verweerder acht het eerste element geloofwaardig en het tweede element ongeloofwaardig. </para>
+        <para>Om die reden ziet verweerder geen aanleiding om de gevraagde verblijfsvergunning asiel te </para>
+        <para>verlenen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Verweerder heeft de aanvraag op grond van artikel 30b, eerste lid, aanhef en onder </para>
+        <para>b en h, van de Vreemdelingenwet 2000 (Vw), als kennelijk ongegrond afgewezen.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Medische en psychische klachten ten tijde van gehoor </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <parablock>
+        <para>Eiser betoogt dat hij ten tijde van het gehoor veilig land van herkomst kampte met </para>
+        <para>kaakklachten en psychisch klachten. Hij heeft dit voorafgaand aan het gehoor telkens bij de </para>
+        <para>medische dient te kennen gegeven, maar hij heeft nooit een arts gezien. Een dag voor het </para>
+        <para>gehoor verbleef hij nog vanwege zijn psychische klachten op een speciale afdeling. Ook </para>
+        <para>tijdens het gehoor heeft hij van zijn klachten gewag gemaakt. Verweerder had een </para>
+        <para>gezwollen kaak kunnen vaststellen. Verweerder had bij de beoordeling van eisers </para>
+        <para>verklaringen rekening met deze klachten moeten houden. Dat heeft verweerder ten onrechte </para>
+        <para>niet gedaan, aldus eiser. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>De rechtbank overweegt het volgende. Blijkens het rapport gehoor veilig land van </para>
+        <para>herkomst heeft eiser bij aanvang van het gehoor op 18 april 2020 te kennen gegeven dat hij </para>
+        <para>door het overlijden van zijn kind in slechte psychische staat verkeerde en dat zijn kaak door </para>
+        <para>een ontsteking pijnlijk was waardoor hij moeite had met spreken. De gehoormedewerker </para>
+        <para>heeft hierop met de medische dienst gebeld. Die deelde mee, zo vermeldt het rapport, dat </para>
+        <para>eiser die ochtend is gezien en dat eiser toen niet heeft aangegeven ergens last van te hebben. </para>
+        <para>Eiser heeft vervolgens betwist dat hij geen melding zou hebben gemaakt van zijn klachten, </para>
+        <para>maar stemde wel in met voortzetting van het gehoor, mits het gehoor kort zou zijn. De </para>
+        <para>rechtbank stelt vast dat eiser later in het gehoor niet meer te kennen heeft gegeven dat hij </para>
+        <para>last had van zijn medische klachten en daardoor niet langer in staat was om (adequaat) te </para>
+        <para>verklaren. Uit eisers verklaringen kan ook niet anderszins worden afgeleid dat eiser daartoe </para>
+        <para>niet in staat was. Verder heeft eiser geen medische gegevens overgelegd steun bieden voor </para>
+        <para>de gestelde klachten en de eventuele negatieve invloed op eisers vermogen om vragen te </para>
+        <para>beantwoorden. Tot slot heeft eiser niet inzichtelijk gemaakt op welke wijze de klachten dat </para>
+        <para>vermogen hebben beperkt en op welke wijze verweerder daarmee rekening had moeten </para>
+        <para>houden. De beroepsgrond slaagt niet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Geloofwaardigheid asielrelaas </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <parablock>
+        <para>Eiser betoogt dat hij vanwege zijn detentie niet in staat is om zijn asielrelaas met </para>
+        <para>stukken te onderbouwen. Verweerder mocht dat daarom niet van hem verlangen. Eiser heeft </para>
+        <para>verweerder voldoende aanknopingspunten geboden om het relaas te verifiëren. Verweerder </para>
+        <para>heeft het asielrelaas ten onrechte niet geloofwaardig geacht. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>De rechtbank overweegt het volgende. Verweerder heeft eisers asielrelaas onder </para>
+        <para>meer ongeloofwaardig geacht omdat eiser wisselend heeft verklaard over het land waar zijn </para>
+        <para>compagnon asiel heeft aangevraagd. Eiser heeft niet kunnen verduidelijken wanneer hij is </para>
+        <para>bedreigd. Dat mocht verweerder, gelet op het belang van die gebeurtenis, van hem </para>
+        <para>verlangen. Daarnaast heeft eiser niet kunnen verklaren hoe de criminelen konden </para>
+        <para>achterhalen dat eiser in een uitzendcentrum is gedetineerd. De omstandigheid dat eiser in </para>
+        <para>detentie verbleef betekent verder niet dat hij niet de mogelijkheid had om, al dan niet door </para>
+        <para>tussenkomst van een gemachtigde, documenten te verkrijgen waarmee hij zijn asielrelaas </para>
+        <para>kon staven.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>Verweerder mocht bij de beoordeling van de geloofwaardigheid ook betrekken dat </para>
+        <para>hij tijdens zijn bewaring heeft verklaard bereid te zijn om naar Georgië terug te keren, bij </para>
+        <para>voorkeur zo snel mogelijk. Niet valt in te zien waarom eiser niet voorafgaand aan de </para>
+        <para>oplegging van de bewaringsmaatregel al om internationale bescherming heeft verzocht. </para>
+        <para>Evenmin valt in te zien waarom eiser bij aanvang van zijn detentie niet te kennen heeft </para>
+        <para>gegeven dat hij vreesde voor terugkeer naar Georgië terwijl verweerder op dat moment </para>
+        <para>inspanningen verrichtte om die terugkeer te bewerkstelligen. De omstandigheid dat eiser </para>
+        <para>niet zou weten dat hij tijdens detentie een asielaanvraag kon indienen is gelet op de </para>
+        <para>omstandigheid dat hij over juridische bijstand beschikte onvoldoende. Tot slot mocht </para>
+        <para>verweerder in aanmerking nemen dat eiser tijdens zijn verblijf in Duitsland en Italië niet om </para>
+        <para>internationale bescherming heeft verzocht. De enkele omstandigheid dat eiser niet op de </para>
+        <para>hoogte zou zijn geweest van de asielprocedures of die niet heeft begrepen is daarvoor </para>
+        <para>onvoldoende.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <parablock>
+        <para>Op grond van het voorgaande mocht verweerder eisers asielrelaas ongeloofwaardig </para>
+        <para>achten. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie  </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. Verweerder heeft zich terecht op het standpunt gesteld dat eiser niet in aanmerking </para>
+      <parablock>
+        <para>komt voor toelating op grond van artikel 29, eerste lid, aanhef en onder a of b, van de Vw. </para>
+        <para>Eiser heeft geen gronden gericht tegen de afdoening op grond van artikel 30b, eerste lid, </para>
+        <para>aanhef en onder b en h, van de Vw. De aanvraag is daarom terecht afgewezen als kennelijk </para>
+        <para>ongegrond. Het beroep is ongegrond. </para>
+      </parablock>
+      <para />
+      <para>6. Omdat op het beroep is beslist is geen aanleiding om een voorlopige voorziening te </para>
+      <parablock>
+        <para>treffen. Het verzoek wordt daarom afgewezen. Voor een proceskostenveroordeling bestaat </para>
+        <para>geen aanleiding.   </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">In de zaak met nummer  NL20.10268</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">In de zaak met nummer NL20.10269</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.K. Mireku, rechter, in aanwezigheid van J.P. Braam, </para>
+      <para>griffier. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>									 rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op 11 september 2020</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Rechtsmiddel </para>
+      <para>Tegen de uitspraak op het beroep kan hoger beroep worden ingesteld bij de Afdeling </para>
+      <para>bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking. </para>
+      <para>Tegen de uitspraak op het verzoek om voorlopige voorziening staat geen rechtsmiddel open. </para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

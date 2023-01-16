@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:252</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-14T13:22:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">17/1445 en 19/1342</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:252">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:252</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-13T13:43:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:252 College van Beroep voor het bedrijfsleven , 14-04-2020 / 17/1445 en 19/1342</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:252:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Regeling fosfaatreductieplan 2017</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:252:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: 17/1445 en 19/1342 <?linebreak?></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer van 14 april 2020 in de zaak tussen</emphasis>
+        <?linebreak?>
+      </para>
+      <para>
+        <emphasis role="bold">maatschap [naam 1]</emphasis>, te [plaats] , appellante</para>
+      <para>(gemachtigde: mr. J. Zwiers),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, </emphasis>verweerder</para>
+      <para>(gemachtigden: mr. A.H. Spriensma-Heringa en mr. B. Raven)</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para>
+      <?linebreak?>Bij besluit van 27 mei 2017 heeft verweerder op grond van de Regeling Fosfaatreductieplan 2017 (de Regeling) aan appellante een solidariteitsgeldsom opgelegd van € 513,-.</para>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 juni 2017 heeft verweerder het besluit van 27 mei 2017 ingetrokken en aan appellante een solidariteitsgeldsom opgelegd van € 513,-. Verweerder heeft appellante te kennen gegeven dat een eventueel tegen het besluit van 27 mei 2017 ingediend bezwaarschrift wordt beschouwd als gericht tegen het besluit van 17 juni 2017.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 14 augustus 2017 heeft verweerder het bezwaar van appellante tegen het besluit van 17 juni 2017 ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 september 2017 heeft verweerder de eerder door hem op grond van de Regeling genomen besluiten ingetrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft beroep ingesteld tegen het besluit van 14 augustus 2017. Dit beroep heeft het zaaknummer 17/1445 gekregen.</para>
+      <para>Bij besluit van 2 december 2017 heeft verweerder aan appellante een solidariteitsgeldsom van € 513,- opgelegd voor periode 1.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 december 2017 heeft verweerder aan appellante een solidariteitsgeldsom van € 412,- opgelegd voor periode 2.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 december 2017 heeft verweerder aan appellante een hoge geldsom van € 2.371,- opgelegd voor periode 3.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 december 2017 heeft verweerder aan appellante een hoge geldsom van € 2.731,- opgelegd voor periode 4.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 januari 2018 heeft verweerder aan appellante een hoge geldsom van € 1.426,- opgelegd voor periode 5.</para>
+      <para>Bij besluit van 21 mei 2019 heeft verweerder de bezwaren van appellante tegen de besluiten van 2, 6, 9 en 16 december 2017 en 27 januari 2018 ongegrond verklaard.</para>
+      <para>Appellante heeft beroep ingesteld tegen het besluit van 21 mei 2019. Dit beroep heeft het zaaknummer 19/1342 gekregen.</para>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 3 maart 2020. Appellante is ter zitting vertegenwoordigd door [naam 2] en [naam 3] , bijgestaan door de gemachtigde van appellante. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer melkvee houdt dan het referentieaantal op 2 juli 2015 (de peildatum) en kent hij een bonusgeldsom toe indien een melkveehouder minder melkvee houdt dan het referentieaantal op de peildatum.<?linebreak?><emphasis role="bold">Het beroep met zaaknummer 17/1445</emphasis></para>
+      </listitem>
+      <listitem>
+        <para>Verweerder heeft bij besluit van 1 september 2017 de besluiten die hij op dat moment op grond van de Regeling had genomen ingetrokken. Verweerder is hiertoe overgegaan omdat de voorzieningenrechter van de rechtbank Den Haag bij uitspraken van 4 mei 2017 (ECLI:NL:RBDHA:2017:4632-4638) de Regeling ten aanzien van een aantal veehouders buiten werking heeft gesteld. Appellante heeft naar het oordeel van het College geen belang meer bij de beoordeling van het besluit van 14 augustus 2017 en het College zal het beroep met zaaknummer 17/1445 daarom niet-ontvankelijk verklaren.</para>
+      </listitem>
+    </orderedlist>
+    <bridgehead role="bold">Het beroep met zaaknummer 19/1342</bridgehead>
+    <para>3. Aan de besluiten van 2, 6, 9 en 16 december 2017 en 27 januari 2018 heeft verweerder ten grondslag gelegd dat het gemiddelde aantal runderen op het bedrijf van appellante te hoog was.</para>
+    <para>4. Aan het besluit van 21 mei 2019 heeft verweerder, voor zover in beroep nog van belang, het volgende ten grondslag gelegd. In artikel 12, tweede lid, van de Regeling is een voorziening opgenomen voor bijzondere omstandigheden, de zogenoemde knelgevallen. Wie voor deze voorziening in aanmerking wil komen, moet aantonen dat er op of voor de peildatum sprake is geweest van een onevenredige benadering. Appellante heeft een verzoek ingediend om het referentieaantal te verhogen, omdat sprake is van een bijzondere omstandigheid. Als gevolg van een salmonella-uitbraak heeft appellante 14,12 grootvee-eenheden (GVE) moeten afvoeren. Verder heeft appellante geïnvesteerd in de bouw van een jongveestal, die, door de uitbraak van salmonella, pas in de loop van 2016 volledig in gebruik kon worden genomen. Uit onderzoek is gebleken dat het aantal GVE op de peildatum niet minimaal 5% lager is dan onder normale omstandigheden voor intrede van deze buitengewone omstandigheid het geval zou zijn. Op de peildatum is het aantal GVE vastgesteld op 139,32. Op de datum voor de intrede van de buitengewone omstandigheid, 24 september 2013, is het aantal GVE 101,81. Omdat het aantal GVE op de peildatum niet 5% minder is dan voor de intrede van de buitengewone omstandigheid voldoet appellante niet aan één van de voorwaarden die zijn gesteld in artikel 12 van de Regeling. Artikel 12, tweede lid, van de Regeling wordt niet zo uitgelegd dat het aantal GVE wordt verhoogd met het aantal GVE dat appellante zou kunnen hebben als de bijzondere omstandigheid zich niet zou hebben voorgedaan. Met vertraagde uitbreidingsinvesteringen en vergunningverlening voor het houden van runderen wordt in artikel 12, tweede lid, van de Regeling evenmin rekening gehouden, aldus verweerder.</para>
+    <para>5. In beroep stelt appellante zich op het standpunt dat verweerder bij de vaststelling van het referentieaantal ten onrechte is uitgegaan van het aantal GVE op 24 september 2013. Uitgaan van die datum pakt voor appellante nadelig uit, omdat zij op de alternatieve peildatum minder runderen had dan op de peildatum. Verweerder had niet moeten uitgaan van het aantal GVE op de alternatieve peildatum of op de peildatum, maar van het aantal GVE dat er op de peildatum zou zijn geweest als zich geen salmonella-uitbraak had voorgedaan. Dit betekent dat verweerder bij de berekening van het referentieaantal het aantal runderen dat appellante heeft moeten afvoeren dient te betrekken, maar ook het aantal kalveren dat zou zijn voortgebracht als geen runderen waren afgevoerd. Verder wijst appellante erop dat haar bedrijf verder was gegroeid als de uitbraak zich niet had voorgedaan. In dit verband wijst appellante erop dat de nieuwe jongveestal die zij heeft laten bouwen pas in de loop van 2016 volledig in gebruik is genomen als gevolg van de uitbraak. Appellante heeft rekening gehouden met het advies van deskundigen om geen nieuwe dieren aan te voeren tijdens een uitbraak. Door alleen te kijken naar het aantal GVE op de alternatieve peildatum heeft verweerder geen recht gedaan aan haar situatie, aldus appellante.</para>
+    <para>6. Artikel 12, tweede lid, van de Regeling maakt het mogelijk het referentieaantal te bepalen aan de hand van het aantal runderen dat voor de intreding van de diergezondheidsproblemen is geregistreerd. Daarvoor geldt als voorwaarde dat appellante aantoont dat het referentieaantal minimaal 5% lager is door die buitengewone omstandigheid. Het wetsartikel maakt het verhogen van het referentieaantal mogelijk door het vervroegen van het peilmoment. Het College heeft eerder geoordeeld dat die vormgeving en het doel van de Regeling in de weg staan aan een wetsuitleg die rekening houdt met een niet daadwerkelijk gerealiseerde, theoretische groei van de veestapel (zie bijvoorbeeld zijn uitspraak van 13 november 2018, ECLI:NL:CBB:2018:597). Verweerder heeft de knelgevallenregeling dan ook op de juiste manier toegepast.</para>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College<?linebreak?></para>
+      <para>-verklaart het beroep met zaaknummer 17/1445 niet-ontvankelijk en het beroep met zaaknummer 19/1342 ongegrond.<?linebreak?></para>
+      <para>Deze uitspraak is gedaan door mr. J.A. Hagen, in aanwezigheid van mr. W. Dijkshoorn, griffier. De beslissing is in het openbaar uitgesproken op 14 april 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd de uitspraak te ondertekenen. De griffier is verhinderd de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:5911</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-07T11:06:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-26</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20_5206</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5911">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5911</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-07T11:05:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:5911 Rechtbank Zeeland-West-Brabant , 26-11-2020 / AWB - 20_5206</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:5911:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>VEROR</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:5911:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 20/5206 VEROR</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 26 november 2020 van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] , te [plaatsnaam] , eiser, </bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Breda, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para>Eiser heeft beroep ingesteld tegen het besluit van 6 februari 2020 (bestreden besluit) van het college over het niet ontvankelijk verklaren van zijn bezwaarschrift. </para>
+    <para />
+    <parablock>
+      <para>Het beroep is behandeld op zitting in Breda op 15 oktober 2020. Eiser was daarbij aanwezig. Namens verweerder was mr. R.A.M. van Loon aanwezig.  </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <bridgehead role="italic">1.	Feiten </bridgehead>
+    <para>
+      <?linebreak?>Op 9 juli 2011 heeft eiser een melding gemaakt bij Waterschap Brabantse Delta van de ligplaats van zijn boot aan de Mark achter zijn tuin aan de [locatie] en ter hoogte van de [ligplaats] (hierna: ligplaats). </para>
+    <para />
+    <parablock>
+      <para>In 2017 is de gemeente Breda gestart met de handhaving van illegale boten. Als gevolg daarvan heeft het college aan eiser een last onder bestuursdwang opgelegd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 21 december 2018 heeft eiser verzocht om een ligplaatsvergunning dan wel om het gebruik van de ligplaats te gedogen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Een vergunningverlener van de gemeente Breda heeft eiser per e-mail van 21 februari 2019 medegedeeld dat het op grond van de ‘Rectificatie Aanwijzingsbesluit openbaar water gemeente Breda 2018’ (hierna: Aanwijzingsbesluit) niet mogelijk is om een vergunning te verlenen, omdat dit deel van de Mark niet is aangewezen als locatie voor ligplaatsen. Om die reden zal ook niet gedoogd worden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft daar op 5 maart 2019 bezwaar tegen gemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft het bezwaar van eiser opgevat als een bezwaar tegen de reactie op een verzoek om informatie inzake de mogelijkheid voor een ligplaatsvergunning en een bezwaar tegen de mededeling dat het niet mogelijk is om te gedogen. Op 16 september 2019 heeft de Adviescommissie bezwaarschriften (hierna: de commissie) het college geadviseerd over het bezwaar. <?linebreak?></para>
+      <para>Op 1 oktober 2019 en op 22 oktober 2019 heeft eiser het college in gebreke gesteld wegens het niet tijdig beslissen op zijn bezwaar. </para>
+      <para>
+        <?linebreak?>Het college heeft de bezwaren van eiser bij bestreden besluit niet-ontvankelijk verklaard, omdat het verzoek van eiser geen aanvraag is en omdat een weigering om te gedogen niet als besluit kan worden aangemerkt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft op 5 maart 2020 beroep ingesteld tegen het bestreden besluit en heeft ook beroep ingesteld tegen het niet tijdig vaststellen van de hoogte van de dwangsom die is verbeurd wegens het niet tijdig beslissen op zijn bezwaar. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft bij beschikking van 10 april 2019 vastgesteld dat het college een dwangsom van € 1.442,- is verschuldigd aan eiser wegens het niet tijdig beslissen op zijn bezwaar. <?linebreak?></para>
+    </parablock>
+    <para>
+      <emphasis role="italic">2.	Gronden </emphasis>
+      <?linebreak?>Eiser heeft aangevoerd dat het college zijn bezwaar ten onrechte niet-ontvankelijk heeft verklaard. Hij heeft een aanvraag ingediend voor een ligplaatsvergunning en het college heeft daar op 21 februari 2018 een besluit over genomen. Wanneer de aanvraag niet voldeed aan de daarvoor gestelde eisen, had het college eiser in de gelegenheid moeten stellen om de aanvraag aan te vullen met toepassing van artikel 4:5, eerste lid, van de Awb. </para>
+    <para>Eiser stelt de ligplaats al 25 jaar in gebruik te hebben en was er niet van op de hoogte dat het beheer van de Mark over is gegaan van het Waterschap naar de gemeente en dat er een vergunningstelsel is ontwikkeld. Hij doet een beroep op het vertrouwensbeginsel, omdat door verschillende ambtenaren aan hem is toegezegd dat niet handhavend opgetreden zou worden tegen de ligplaats. Daarnaast doet eiser een beroep op het gelijkheidsbeginsel, omdat andere bootjes die aan gemeentegrond liggen ook worden gedoogd. </para>
+    <para />
+    <bridgehead role="italic">3.	Wettelijk kader </bridgehead>
+    <para />
+    <parablock>
+      <para>De relevante wettelijke bepalingen zijn opgenomen in een bijlage, die deel uitmaakt van deze uitspraak. </para>
+    </parablock>
+    <para />
+    <bridgehead role="italic">4.	Dwangsom wegens niet tijdig beslissen </bridgehead>
+    <para />
+    <parablock>
+      <para>Eiser heeft op 5 maart 2020 onder andere beroep ingesteld tegen het niet tijdig bij beschikking vaststellen van de hoogte van de dwangsom die is verbeurd wegens het niet tijdig beslissen op zijn bezwaar. Het college is bij dwangsombesluit van 10 april 2019 geheel aan eiser tegemoet gekomen, omdat het college in dat besluit heeft vastgesteld dat zij de maximale dwangsom van € 1.442,- is verschuldigd aan eiser. Dit heeft er toe geleid dat eiser zijn beroepsgrond tegen het niet tijdig vaststellen van het dwangsombesluit ter zitting heeft ingetrokken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para>
+      <emphasis role="italic">5.	Niet-ontvankelijk verklaring van het bezwaar </emphasis>
+      <?linebreak?>
+    </para>
+    <bridgehead role="italic">Het bestreden besluit </bridgehead>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Eiser heeft op 21 december 2018 verzocht om een ligplaatsvergunning dan wel om die ligplaats te gedogen. Per e-mail van 21 februari 2019 is aan eiser medegedeeld dat een dergelijke vergunning niet verleend kan worden en dat gedogen niet mogelijk is. Eiser heeft daar bezwaar tegen gemaakt. Het college heeft dat bezwaar niet-ontvankelijk verklaard om de volgende redenen: </para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>
+            <emphasis role="italic">Ligplaatsvergunning: </emphasis>het verzoek van eiser om een ligplaatsvergunning is volgens het college geen aanvraag, maar een verzoek om informatie. Een aanvraag voor een ligplaatsvergunning moet op grond van het Aanwijzingsbesluit worden gedaan door middel van een daarvoor bestemd aanvraagformulier. Dat heeft eiser niet gedaan. Het per e-mail reageren op dat verzoek om informatie is geen besluit waar bezwaar tegen kan worden gemaakt. </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="italic">Gedogen: </emphasis>volgens het college kan een weigering om te gedogen niet als besluit worden aangemerkt. Gelet daarop kan tegen die weigering geen bezwaar worden gemaakt. </para>
+        </listitem>
+      </itemizedlist>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Gedogen </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank heeft het college het bezwaar van eiser tegen het weigeren een gedoogbeslissing te nemen terecht niet-ontvankelijk verklaard. Uit de Awb volgt dat een belanghebbende alleen bezwaar kan maken tegen een besluit.<footnote-ref linkend="_54c27e97-dffb-42fb-8087-4059b980200d" /> Uit jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (hierna: AbRS) blijkt dat de weigering om een gedoogbeslissing te nemen geen besluit is als bedoeld in de Awb en daarmee ook niet gelijk wordt gesteld.<footnote-ref linkend="_760972c4-9b15-4976-8cda-59690a3668da" /> Tegen de weigering om te gedogen kunnen daarom geen rechtsmiddelen worden aangewend.</para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">Ligplaatsvergunning </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Naar het oordeel van de rechtbank heeft het college het bezwaar van eiser tegen het niet verlenen van een ligplaatsvergunning op onjuiste gronden niet-ontvankelijk verklaard. <?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <parablock>
+        <para>De rechtbank overweegt dat het college de brief van eiser van 21 december 2018 ten onrechte niet heeft aangemerkt als een aanvraag. In de Awb<footnote-ref linkend="_12f506f6-48eb-4c9a-b0ba-5757194005f6" /> wordt een ‘aanvraag’ gedefinieerd als ‘een verzoek van een belanghebbende om een besluit te nemen’. De brief van eiser is een verzoek om een ligplaatsvergunning op grond van artikel 5:21, tweede lid, van de Algemene plaatselijke verordening van de gemeente Breda (APV). De brief van eiser is dus een aanvraag.<footnote-ref linkend="_b28663e7-3f3a-4f7a-a517-87d3107b2d70" /> Dat voor het college meteen duidelijk was dat de aanvraag niet kon worden toegewezen, is geen reden om de brief niet aan te merken als aanvraag. Het had dan op de weg gelegen van het college om de aanvraag bij besluit te weigeren. </para>
+        <para>Dat de aanvraag is gericht aan de “gemeente Breda” en niet aan het college maakt die conclusie niet anders. In de Awb<footnote-ref linkend="_e9fb84d8-0893-4d5a-9e92-d175650ac7b5" /> staat weliswaar dat de aanvraag schriftelijk moet worden ingediend bij het bestuursorgaan dat bevoegd is op de aanvraag te beslissen, maar op grond van de Awb geldt ook een doorzendplicht naar het bevoegd bestuursorgaan.<footnote-ref linkend="_09c03dd2-5569-4b85-8294-c5981c41e616" /> Dat de aanvraag niet voldoet aan de eisen die daar in de relevante wet- en regelgeving aan worden gesteld, maakt die conclusie ook niet anders. Op grond van de Awb<footnote-ref linkend="_a9eacc7d-af19-40f1-a754-aa1903c39cb5" /> moet het bestuursorgaan de aanvrager in de gelegenheid stellen om de aanvraag aan te vullen en te herstellen. Ook de omstandigheid dat eiser de aanvraag niet via een aanvraagformulier heeft ingediend, maakt niet dat geen sprake is van een aanvraag. Dit betekent dat het college het bezwaar van eiser ten onrechte niet-ontvankelijk heeft verklaard op de grond dat geen sprake is van een aanvraag. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <parablock>
+        <para>Vervolgens stelt de rechtbank vast dat het college tot op heden nog niet heeft beslist op die aanvraag. Het e-mailbericht van 21 februari 2018 dat door een medewerker van de gemeente Breda aan eiser is verstuurd is naar het oordeel van de rechtbank geen besluit als bedoeld in de Awb.<footnote-ref linkend="_7eacc58c-f353-41b4-88a1-491f6dbc9352" /> In de Awb wordt onder ‘besluit’ verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. Dat een medewerker (vergunningverlener) van de gemeente Breda in het e-mailbericht een standpunt heeft ingenomen over de aanvraag, maakt niet dat het college als bevoegd gezag een besluit op de aanvraag heeft genomen. Uit het e-mailbericht blijkt namelijk niet dat dit besluit in mandaat is genomen zoals de Awb eist.<footnote-ref linkend="_cce2e60d-196e-4c38-847b-2eac3117bde8" /> Ook is er geen bezwaarclausule in de </para>
+        <para>e-mail opgenomen. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.6</nr>
+      <para>Gelet op het voorgaande heeft het college het bezwaar van eiser ten onrechte niet-ontvankelijk verklaard op de grond dat geen sprake was van een aanvraag. Het college had het bezwaar van eiser niet-ontvankelijk moeten verklaren, op de grond dat tot op heden geen sprake is van een besluit op de aanvraag van eiser waartegen bezwaar kan worden gemaakt.<footnote-ref linkend="_558e245e-ec7f-4e5b-9d81-9681450eb3e2" /></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">6.	Conclusie </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Gelet op het voorgaande zal de rechtbank het beroep gegrond verklaren en het bestreden besluit vernietigen. De rechtbank ziet aanleiding om de rechtsgevolgen van het vernietigde besluit in stand te laten, omdat de uitkomst hetzelfde blijft. </para>
+      <para />
+      <parablock>
+        <para>Daarnaast stelt de rechtbank vast dat het college tot op heden geen besluit heeft genomen op de aanvraag van eiser van 21 december 2018 om een ligplaatsvergunning op grond van artikel 5:21, tweede lid, van de APV. Het college zal daar alsnog een besluit op moeten nemen en zal daarbij ook specifiek in moeten gaan op het beroep van eiser op het vertrouwensbeginsel en het gelijkheidsbeginsel. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Nu het beroep gegrond wordt verklaard, dient het griffierecht aan eiser te worden vergoed.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Eiser heeft niet verzocht om vergoeding van proceskosten die op grond van het Besluit proceskosten bestuursrecht voor vergoeding in aanmerking komen. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit; </para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat de rechtsgevolgen van het vernietigde bestreden besluit in stand blijven;</para>
+      </listitem>
+      <listitem>
+        <para>wijst het college erop dat tot op heden geen besluit is genomen op de aanvraag van eiser om een ligplaatsvergunning op grond van artikel 5:21, tweede lid, van de APV; </para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 178,- aan eiser te vergoeden. </para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.P. Hertsig, rechter, in aanwezigheid van mr. N. van Asten, griffier, op 26 november 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+      <para>De griffier is niet in de gelegenheid  om de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage </title>
+    <para />
+  </section>
+  <section>
+    <title>Wettelijk kader </title>
+    <para />
+    <bridgehead role="italic">1.	Algemene wet bestuursrecht (Awb) </bridgehead>
+    <para />
+    <parablock>
+      <para>Onder besluit wordt op grond van <emphasis role="underline">artikel 1:3, eerste lid, van de Awb </emphasis>verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Onder aanvraag wordt op grond van <emphasis role="underline">artikel 1:3, derde lid, van de Awb </emphasis>verstaan: een verzoek van een belanghebbende, een besluit te nemen. </para>
+      <para>
+        <?linebreak?>In <emphasis role="underline">artikel 2:3, eerste lid, van de Awb</emphasis> staat: het bestuursorgaan zendt geschriften tot behandeling waarvan kennelijk een ander bestuursorgaan bevoegd is, onverwijld door naar dat orgaan, onder gelijktijdige mededeling daarvan aan de afzender. </para>
+      <para>
+        <?linebreak?>Tenzij bij wettelijk voorschrift anders is bepaald, wordt de aanvraag tot het geven van een beschikking volgens <emphasis role="underline">artikel 4:1 van de Awb</emphasis> schriftelijk ingediend bij het bestuursorgaan dat bevoegd is op de aanvraag te beslissen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In artikel <emphasis role="underline">4:5, eerste lid, van de Awb </emphasis>staat: Het bestuursorgaan kan besluiten de aanvraag niet te behandelen, indien:</para>
+    </parablock>
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag, of</para>
+      </listitem>
+      <listitem>
+        <para>de aanvraag geheel of gedeeltelijk is geweigerd op grond van artikel 2:15, of</para>
+      </listitem>
+      <listitem>
+        <para>de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking,</para>
+      </listitem>
+    </orderedlist>
+    <para>mits de aanvrager de gelegenheid heeft gehad de aanvraag binnen een door het bestuursorgaan gestelde termijn aan te vullen.</para>
+    <para />
+    <parablock>
+      <para>Een belanghebbende kan volgens <emphasis role="underline">artikel 8:1 van de Awb</emphasis> tegen een besluit beroep instellen bij de bestuursrechter.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 7:1, eerste lid, van de Awb </emphasis>staat: Degene aan wie het recht is toegekend beroep bij een bestuursrechter in te stellen, dient alvorens beroep in te stellen bezwaar te maken. <?linebreak?><emphasis role="italic">2.	Algemene plaatselijke verordening van de gemeente Breda 2018 (APV)</emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 5:21 van de APV</emphasis> staat: </para>
+    </parablock>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Het is verboden met een vaartuig een ligplaats in te nemen of te hebben dan wel een ligplaats voor een vaartuig beschikbaar te stellen op door het college aangewezen gedeelten van openbaar water.</para>
+      </listitem>
+      <listitem>
+        <para>Het is verboden zonder vergunning van het college een ligplaats met dan wel voor een vaartuig in of beschikbaar te stellen op niet krachtens het eerste lid aangewezen gedeelten van het openbaar water.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 5:21a, eerste lid, van de APV</emphasis> staat: een ieder kan een verzoek indienen om op de wachtlijst te worden geplaatst voor een ligplaatsvergunning op basis van de datum en tijdstip van het verzoek. Bij gelijke datum en tijdstip wordt geloot. </para>
+    </parablock>
+    <para>3. <emphasis role="italic">Rectificatie aanwijsbesluit openbaar water gemeente Breda 2018 (Aanwijzingsbesluit)</emphasis></para>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 1 van het Aanwijzingsbesluit</emphasis> staat dat onder ‘vaartuig’ wordt verstaan: een vervoermiddel op het water. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het is op grond van <emphasis role="underline">artikel 2 van het Aanwijzingsbesluit</emphasis> niet toegestaan om met een vaartuig een ligplaats in te nemen, te hebben dan wel een ligplaats voor een vaartuig beschikbaar te stellen in de gedeelten van het openbaar water die in beheer zijn van de gemeente Breda.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 3, eerste lid, onder c, van het Aanwijzingsbesluit</emphasis> staat: in afwijking van het bepaalde in artikel 2 van dit besluit, is het met een geldige vergunning van het college op grond van artikel 5:22, tweede lid, van de APV, overeenkomstig de voorwaarden van die vergunning, toegestaan om met een recreatief vaartuig een ligplaats in te nemen, te hebben dan wel een ligplaats voor en recreatief vaartuig beschikbaar te stellen in de volgende gedeelten van het openbaar water: Mark, gedeelte ter hoogte van Van der Borchlaan en de Burgemeester Pastoorsstraat tussen de Burgemeester Serrarislaan en de Cartier van Disselstraat, aan de westzijde van het water. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <footnote id="_54c27e97-dffb-42fb-8087-4059b980200d" label="1">
+    <para>Artikel 7:1, eerste lid, jo. 8:1 van de Awb. </para>
+  </footnote>
+  <footnote id="_760972c4-9b15-4976-8cda-59690a3668da" label="2">
+    <para> AbRS 24 april 2019, ECLI:NL:RVS:2019:1356, r.o. 14 en 16. </para>
+  </footnote>
+  <footnote id="_12f506f6-48eb-4c9a-b0ba-5757194005f6" label="3">
+    <para>Artikel 1:3, derde lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_b28663e7-3f3a-4f7a-a517-87d3107b2d70" label="4">
+    <para> AbRS 20 maart 2019, ECLI:NL:RVS:2019:829.</para>
+  </footnote>
+  <footnote id="_e9fb84d8-0893-4d5a-9e92-d175650ac7b5" label="5">
+    <para>Artikel 4:1 van de Awb. </para>
+  </footnote>
+  <footnote id="_09c03dd2-5569-4b85-8294-c5981c41e616" label="6">
+    <para>Artikel 2:3, eerste lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_a9eacc7d-af19-40f1-a754-aa1903c39cb5" label="7">
+    <para>Artikel 4:5, eerste lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_7eacc58c-f353-41b4-88a1-491f6dbc9352" label="8">
+    <para>Artikel 1:3, eerste lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_cce2e60d-196e-4c38-847b-2eac3117bde8" label="9">
+    <para>Artikel 10:10 van de Awb. </para>
+  </footnote>
+  <footnote id="_558e245e-ec7f-4e5b-9d81-9681450eb3e2" label="10">
+    <para> Artikel 7:1 jo. artikel 8:1, jo. artikel 6:6, eerste lid, van de Awb. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

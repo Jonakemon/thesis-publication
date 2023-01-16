@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:205</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-12T09:26:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-31</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/2529</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#schadevergoedingsuitspraak">Schadevergoedingsuitspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2018:7833" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">Eerste aanleg: ECLI:NL:RBROT:2018:7833, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JB 2020/99</rdf:li>
+          <rdf:li>JOM 2020/317</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:205">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:205</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-31T08:03:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:205 College van Beroep voor het bedrijfsleven , 31-03-2020 / 18/2529</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:205:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bestuurlijke boete wegens overtreding van de Wet dieren. Geen aanleiding om de boete te matigen. Verweerder heeft ondanks herhaald rappèl verzuimd een verweerschrift in te dienen, dit heeft processuele gevolgen. Aanvangstijdstip criminal charge.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:205:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/2529</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 31 maart 2020 op het hoger beroep van:</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam 1] , te [plaats] , appellant</bridgehead>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Rotterdam van 20 september 2018, kenmerk ROT 16/7874, in het geding tussen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>appellant<?linebreak?></para>
+      <para>en</para>
+    </parablock>
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, de minister</bridgehead>
+    <para>(gemachtigde: mr. H.D. Strookman),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staat der Nederlanden (minister van Justitie en Veiligheid)</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Appellant heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam (rechtbank) van 20 september 2018 (de aangevallen uitspraak; deze is niet gepubliceerd).</para>
+      <para>
+        <?linebreak?>De minister heeft geen reactie op het hogerberoepschrift ingediend.</para>
+      <para>
+        <?linebreak?>Het onderzoek ter zitting heeft plaatsgevonden op 5 februari 2020. Appellant is verschenen. De minister heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het College heeft de Staat der Nederlanden als partij aangemerkt in verband met de overschrijding van de redelijke termijn. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Het College gaat uit van de volgende feiten en omstandigheden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Bij besluit van 27 mei 2016 (het primaire besluit) heeft de minister appellant drie boetes opgelegd van ieder € 1.500,- vanwege drie overtredingen van de Wet dieren. Volgens de minister heeft appellant als houder van dieren er niet voor gezorgd dat een dier dat ziek of gewond lijkt onmiddellijk op passende wijze werd verzorgd (feit 1). Volgens de minister heeft appellant daarmee artikel 2.2, tiende lid, van de Wet dieren, gelezen in samenhang met artikel 1.7, aanhef en onder c, van het Besluit houders van dieren (Bhd) overtreden. Daarnaast heeft appellant volgens de minister als houder van aangewezen dierlijke bijproducten, zijnde kadavers van een schaap, niet zo spoedig mogelijk na het ontstaan daarvan, maar uiterlijk op de eerste werkdag volgend op de dag waarop die bijproducten zijn ontstaan, aangifte bij de ondernemer gedaan (feit 2). Volgens de minister heeft appellant daarmee artikel 3.4 van de Wet dieren, gelezen in samenhang met artikel 3.1, eerste lid, van het Besluit dierlijke producten en artikel 3.22, eerste lid, van de Regeling dierlijke producten overtreden. Verder heeft appellant er als houder van aangewezen dierlijke bijproducten, tot het ophalen ervan, niet voor gezorgd dat kadavers van schapen niet vrij toegankelijk waren voor personen en waren afgedekt waardoor ze niet bereikbaar waren voor vogels, knaagdieren, honden en katten en ze niet zichtbaar waren voor voorbijgangers (feit 3). Volgens de minister heeft appellant daarmee artikel 3.4 van de Wet dieren, gelezen in samenhang met artikel 3.1, eerste lid, van het Besluit dierlijke producten en artikel 3.23, eerste lid, van de Regeling dierlijke producten overtreden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Bij besluit van 24 oktober 2016 (het bestreden besluit) heeft de minister het bezwaar van appellant tegen feit 2 gegrond verklaard. De boete voor dit feit is komen te vervallen en is omgezet in een schriftelijke waarschuwing. Het bezwaar tegen de andere twee feiten is ongegrond verklaard. De minister heeft het totale boetebedrag gewijzigd naar € 3.000,-.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>De minister heeft bovengenoemde besluiten gebaseerd op een rapport van bevindingen, opgemaakt door een toezichthouder van de Nederlandse Voedsel- en Warenautoriteit op 1 december 2015. In het rapport van bevindingen beschrijft de toezichthouder dat er een melding bij de dierenpolitie was binnen gekomen dat er op de locatie waar appellant zijn schapen houdt al een aantal dagen kadavers van schapen lagen die niet werden opgeruimd. Ook zou er een ziek schaap op het perceel zijn gesignaleerd. Naar aanleiding van deze melding is de toezichthouder samen met een agent op 19 november 2015 naar het weiland van appellant gegaan. Daar zagen zij twee kadavers van schapen in een greppel liggen, een derde kadaver van een schaap op het weiland en een vierde kadaver in de walkant. Toen zij terug liepen via de andere kant van het weiland zagen zij een schaap liggen dat dood leek. Het schaap bleek nog te leven. Het schaap had volgens de toezichthouder ernstig etterende ogen en lag uitgestrekt in een onnatuurlijke houding. Het schaap was niet meer in staat op te staan en zijn hoofd op te tillen. De toezichthouder stelde vast dat dit schaap al langere tijd in onmacht in de greppel had gelegen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>De toezichthouder heeft appellant vervolgens opgedragen een dierenarts te laten komen voor het zieke schaap en het schaap naar huis te laten vervoeren. Toen de toezichthouder appellant had verteld dat meerdere personen bij de politie hadden gemeld dat er al enkele dagen dode schapen op zijn weiland lagen, verklaarde appellant dat hij op zondag 15 november 2015 voor het laatst bij de schapen was geweest en dat zijn zoon op 18 november 2015 de schapen zou controleren. Dit was uiteindelijk niet gebeurd omdat het stormde en hard regende. De toezichthouder heeft appellant opgedragen om de kadavers van de vier schapen van het weiland te halen, deze te melden bij Rendac en deze te laten verwerken.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de rechtbank</title>
+    <para />
+    <parablock>
+      <para>2.		De rechtbank heeft het beroep van appellant tegen het bestreden besluit gegrond verklaard, het bestreden besluit vernietigd voor zover daarin de boete voor feit 3 is gehandhaafd, het primaire besluit herroepen voor zover daarin een boete is opgelegd voor <?linebreak?>feit 3 en bepaald dat de aangevallen uitspraak in de plaats treedt van het bestreden besluit. De rechtbank heeft, voor zover voor het hoger beroep van belang, het volgende overwogen, waarbij voor eiser appellant moet worden gelezen en voor verweerder de minister. <?linebreak?></para>
+      <para>“3.2.1.	(…). Uit het rapport van bevindingen van 1 december 2015 blijkt in voldoende mate dat sprake is van de onder 2.1. genoemde overtredingen en dat eiser als overtreder kan worden aangemerkt. Er staat immers vast dat het aangetroffen zieke schaap al langere tijd in onmacht in de greppel had gelegen. Er was op 18 november 2015 een melding over gekomen en op 19 november 2015 heeft de toezichthouder uit de geconstateerde omstandigheden afgeleid dat het schaap al langere tijd in onmacht verkeerde. Eiser heeft een aantal dagen lang (in ieder geval vanaf 16 november tot 19 november 2015) geen controle bij de schapen uitgevoerd. Uit artikel 2.4, tweede en derde lid, van het Besluit houders van dieren volgt dat een dier dagelijks moet worden gecontroleerd dan wel zo vaak moet worden gecontroleerd dat lijden wordt voorkomen. Van een dagelijkse controle is in ieder geval niet gebleken en onnodig lijden is niet voorkomen. Daarmee staat vast dat eiser artikel 1.7, aanhef en onder c van het Besluit houders van dieren heeft overtreden (de houder van een dier draagt er zorg voor dat een ziek dier onmiddellijk op passende wijze wordt verzorgd).</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.2.2.</nr>
+      <para>Eiser doet een beroep op artikel 5:41 van de Awb. Daarin staat dat het bestuursorgaan geen bestuurlijke boete oplegt voor zover de overtreding niet aan de overtreder kan worden verweten. Verweerder heeft zich terecht op het standpunt gesteld dat de feiten eiser kunnen worden verweten. Verweerder is in het bestreden besluit ingegaan op de door eiser ingebrachte verklaring van de dierenarts [naam 2] . Uit deze verklaring blijkt dat bij de schapen van eiser sprake was van acute leverbotbesmetting. Acute leverbotbesmetting laat sterfte zien doordat de leverbotten zich massaal door de galgangen vreten. Dit geeft plotselinge sterfte in het najaar en de vroege winter. De dieren zijn bleek, kunnen diarree hebben en soms een waterbuik. De plotselinge sterfte komt door verbloeding vanuit de lever. Aangezien eiser al 30 jaar ervaring heeft in het houden van schapen, lag het op de weg van eiser om zijn schapen in deze periode van het jaar (najaar) extra goed in de gaten te houden, vooral nu de besmetting plotseling kan optreden en de gezondheid van de schapen ernstig en in hele korte tijd kan aantasten. Het kan eiser niet worden verweten dat de betreffende schapen ziek zijn geworden, maar hem kan wel worden verweten dat hij niet de nodige maatregelen heeft getroffen om de besmetting tijdig te signaleren door regelmatig en zorgvuldige inspecties uit te voeren en de gevolgen van een eventuele besmetting zo snel mogelijk aan te pakken. Door deze handelwijze van eiser zijn onnodige risico’s voor de volks- en diergezondheid ontstaan. Dat eiser wel een dierenarts heeft ingeschakeld en de kadavers van de vier schapen heeft laten afvoeren, maakt het voorgaande niet anders. Uit het rapport van bevindingen blijkt dat eiser dit pas heeft gedaan nadat de toezichthouder dat aan hem had opgedragen. Er is geen grond voor het oordeel dat verweerder de verklaring van de dierenarts onvoldoende heeft meegewogen. Verweerder trekt uit die verklaring alleen niet de conclusie die eiser wil dat verweerder daaruit trekt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.3.</nr>
+      <para>Eiser heeft verklaard dat hij op 15 november 2015 zelf op het terrein is gaan kijken en dat hij toen geen dode of zieke schapen heeft gezien. Aangezien het terrein 10 hectare beslaat, kan het zijn dat hij schapen over het hoofd heeft gezien. Het is voor eiser onmogelijk om constant bij zijn schapen te zijn. Verder heeft eiser verklaard dat zijn zoon op 18 november 2015 de schapen zou gaan controleren, maar dat dit vanwege slechte weeromstandigheden niet is gebeurd. Verweerder heeft zich terecht op het standpunt gesteld dat ook deze omstandigheden niet maken dat de overtredingen niet aan eiser kunnen worden verweten. Eiser heeft immers een zorgplicht jegens zijn dieren. In artikel 2.4 van het Besluit houders van dieren staat dat een dier ten minste eenmaal per dag wordt gecontroleerd, of in ieder geval zo vaak dat lijden wordt voorkomen. Eiser had maatregelen kunnen treffen waardoor de schapen wel dagelijks werden bezocht en gecontroleerd, bijvoorbeeld door meer tijd voor de controle uit te trekken of door meerdere mensen de schapen te laten controleren. In ieder geval is lijden van de schapen niet voorkomen.</para>
+      <para />
+      <parablock>
+        <para>4. Eiser voert aan dat hij nooit eerder voor iets dergelijks is beboet en dat verweerder ook had kunnen volstaan met een waarschuwing in plaats van de oplegging van de twee boetes. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder met betrekking tot de eerste overtreding een boete van € 1.500,- aan eiser kunnen opleggen. Uit het “Specifiek interventiebeleid dierenwelzijn primair bedrijf” blijkt dat een overtreding van artikel 1.7, aanhef en onder c, van het Besluit houders van dieren wordt aangemerkt als een overtreding klasse C. Verweerder heeft op grond van zijn interventiebeleid kunnen concluderen dat hier sprake is van de situatie waarbij de afwijking van de norm meer dan gering is. Uit het rapport van bevindingen blijkt immers dat het betreffende schaap ernstig ziek was en dat het welzijn en de gezondheid van dit dier duidelijk waren aangetast. Ook staat vast dat eiser meerdere dagen (in ieder geval op 16 tot en met 19 november 2015) de schapen niet afdoende heeft gecontroleerd. Verweerder heeft direct een boete aan eiser kunnen opleggen, zonder eerst een waarschuwing te geven. Dat eiser nooit eerder is beboet, doet aan het voorgaande niet af.</para>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	Er is geen aanleiding om de boete met betrekking tot de eerste overtreding te matigen. Dat bij de schapen acute leverbotbesmetting is geconstateerd is geen bijzondere omstandigheid als bedoeld in artikel 5:46, derde lid, van de Awb. Dit maakt onderdeel uit van de normale bedrijfsvoering en het daarbij behorende bedrijfsrisico. Zoals de rechtbank hiervoor heeft overwogen, had eiser maatregelen moeten treffen om de uitbraak van deze ernstige ziekte onder zijn schapen te voorkomen of tijdig te signaleren. Ook hier is relevant dat vaststaat dat de schapen meerdere dagen niet zijn gecontroleerd. Ook verder is niet gebleken van bijzondere omstandigheden als bedoeld in artikel 5:46, derde lid, van de Awb op grond waarvan de boete voor deze overtreding zou moeten worden gematigd.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para>3. <?linebreak?>Appellant kan zich niet verenigen met het oordeel van de rechtbank dat het beroep tegen feit 1 ongegrond is. Appellant voert aan dat zijn schapen acute leverbot hadden, een infectie die snel om zich heen grijpt. Appellant stelt dat hij na het ontdekken van de aandoening onmiddellijk een dierenarts heeft ingeschakeld en alle dieren heeft behandeld. Appellant heeft hiertoe een verklaring van de dierenarts overgelegd en is van mening dat de minister ten onrechte niets met deze verklaring heeft gedaan. Tevens voert appellant aan dat hij niet eerder veroordeeld is geweest voor een dergelijke overtreding en dat de minister had kunnen volstaan met een waarschuwing dan wel met een gematigde boete, gelet op de bijzondere omstandigheden, te weten de acute leverbot.</para>
+    <para />
+    <para>4. De minister heeft ter zitting aangevoerd dat uit het toezichtrapport voldoende blijkt dat appellant het zieke schaap niet op passende wijze heeft verzorgd. Het zieke schaap was volgens de minister op sterven na dood. De minister ziet verder geen aanleiding voor een matiging van de boete. </para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De overtreding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Wat betreft de vraag of de minister terecht heeft geconstateerd dat appellant artikel 1.7, aanhef en onder c, van het Bhd heeft overtreden, overweegt het College als volgt.</para>
+      <para />
+      <parablock>
+        <para>Artikel 1.7, aanhef en onder c, van het Bhd bepaalt dat degene die een dier houdt er zorg voor draagt dat een dier dat ziek of gewond lijkt onmiddellijk op passende wijze wordt verzorgd. Bij de vaststelling van de overtreding heeft de minister zich voor de feiten gebaseerd op het rapport van bevindingen. Volgens vaste jurisprudentie van het College, waaronder de uitspraak van 21 juni 2017 (ECLI:NL:CBB:2017:230), mag een bestuursorgaan in beginsel uitgaan van de bevindingen in zo’n rapport, indien de controle is verricht en het rapport is opgemaakt door een hiertoe bevoegde controleur en het rapport zelf geen grond biedt om aan de juistheid van de bevindingen te twijfelen. Het ligt dan op de weg van degene bij wie de controle is verricht om aannemelijk te maken dat de bevindingen niettemin onjuist zijn. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Gelet op de aangevallen uitspraak, het primaire en het bestreden besluit is enkel nog in geschil of de minister terecht heeft geconstateerd dat appellant artikel 1.7, aanhef en onder c, van het Bhd heeft overtreden, omdat appellant het ene zieke schaap dat op zijn perceel is aangetroffen niet op passende wijze heeft verzorgd. Ter zitting heeft de minister gesteld dat de overtreding van artikel 1.7, aanhef en onder c, van het Bhd ook op de vier schapen ziet die ten tijde van de inspectie al waren overleden. Dit blijkt echter niet duidelijk uit het primaire dan wel bestreden besluit. Als de minister dit standpunt had willen verduidelijken, dan had hij een verweerschrift moeten indienen, zodat appellant zich hierop had kunnen voorbereiden. Hoewel het College de minister herhaaldelijk om een verweerschrift heeft gevraagd, is dit zonder bericht uitgebleven. Nu de minister pas ter zitting heeft gesteld dat de overtreding van 1.7, aanhef en onder c, van het Bhd ook op de vier dode schapen ziet, is het in strijd met het verdedigingsbeginsel om het primaire en het bestreden besluit ruimer te interpreteren.<?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Gelet op de waarnemingen van de toezichthouder, zoals neergelegd in het rapport van bevindingen, is het College van oordeel dat de minister terecht heeft vastgesteld dat appellant artikel 1.7, aanhef en onder c, van het Bhd heeft overtreden. De toezichthouder heeft gezien dat er een schaap op het perceel van appellant lag dat dood leek. De toezichthouder en de agent die ter plaatse was, zijn naar het schaap toegelopen en zagen dat het schaap nog leefde. Volgens de toezichthouder had het schaap ernstig etterende ogen en lag het uitgestrekt in een onnatuurlijke houding. Het schaap was niet meer in staat om op te staan en zijn hoofd op te tillen. Bij het rapport van bevindingen zijn foto’s gevoegd die deze waarnemingen ondersteunen. Appellant heeft deze waarnemingen van de toezichthouder niet gemotiveerd betwist.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Verder hecht het College waarde aan het feit dat appellant tegenover de toezichthouder heeft verklaard dat hij op 15 november 2015 voor het laatst bij zijn schapen op de locatie in kwestie was geweest. Uit het rapport van bevindingen blijkt dat er op 18 november 2015 een melding over het zieke schaap was binnengekomen bij de dierenpolitie. De melder had het schaap uit een nabijgelegen greppel gehaald en geprobeerd het schaap overeind te krijgen. Appellant heeft tegen de toezichthouder gezegd dat zijn zoon de schapen op 18 november 2015 zou controleren, maar dat dit niet gebeurd was omdat het toen stormde en hard regende. Het College maakt hieruit op dat er minstens drie dagen niemand bij de schapen is geweest, terwijl het schaap op 18 november 2015 klaarblijkelijk al erg ziek was. Op 19 november 2015 lag het zieke schaap in de middag nog steeds op het perceel. Appellant was tot dan toe nog steeds niet bij zijn schapen gaan kijken. Naar het oordeel van het College geeft dit er geen blijk van dat appellant het zieke schaap onmiddellijk op passende wijze heeft verzorgd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <parablock>
+        <para>Het voorgaande betekent dat het College de rechtbank volgt in haar oordeel dat appellant artikel 1.7, aanhef en onder c, van het Bhd heeft overtreden. De minister was daarom in beginsel bevoegd een boete op te leggen.</para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">Verwijtbaarheid en sanctiebeleid</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Uit het betoog van appellant begrijpt het College dat hij primair een beroep doet op artikel 5:41 van de Algemene wet bestuursrecht (Awb). Appellant is van mening dat hem geen verwijt kan worden gemaakt nu sprake is van acute leverbot en hij na het ontdekken hiervan direct zijn dierenarts heeft ingeschakeld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Artikel 5:41 van de Awb bepaalt dat een bestuursorgaan geen bestuurlijke boete oplegt voor zover de overtreding niet aan de overtreder kan worden verweten. Het College is, evenals de rechtbank, van oordeel dat het beroep op artikel 5:41 van de Awb niet kan slagen. Zoals de rechtbank terecht heeft overwogen, kan het appellant niet worden verweten dat het schaap in kwestie ziek is geworden. Appellant kan echter wel worden verweten dat hij niet de nodige maatregelen heeft getroffen om de besmetting met acute leverbot tijdig te signaleren door regelmatig bij zijn schapen langs te gaan, temeer nu appellant, naar ter zitting aan de orde is geweest, zijn schapen houdt in een gebied dat gevoelig is voor deze aandoening. Door deze handelswijze zijn onnodige risico’s ontstaan voor de diergezondheid. Dat appellant direct nadat de toezichthouder hem op de hoogte had gebracht van onder meer het zieke schaap zijn dierenarts heeft ingeschakeld, doet aan het voorgaande niet af, omdat uit het rapport van bevindingen blijkt dat het schaap in kwestie al de dag ervoor ziek was geworden. Appellant had dit de dag ervoor al moeten ontdekken en de dierenarts dus al eerder voor behandeling van dit dier behoren in te schakelen. Het College volgt op grond van het vorenstaande de rechtbank in haar oordeel dat er geen grond is voor het oordeel dat de minister de verklaring van de dierenarts onvoldoende heeft meegewogen. De minister behoefde dan ook niet af te zien van het opleggen van een boete.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Appellant heeft verder aangevoerd dat de minister had kunnen volstaan met een waarschuwing. Het College volgt appellant hierin niet. Zoals de rechtbank heeft overwogen, blijkt uit het Specifiek interventiebeleid dierenwelzijn primair bedrijf dat een overtreding van artikel 1.7, aanhef en onder c, van het Bhd wordt aangemerkt als een klasse C-overtreding. Dit houdt in dat er een risico is tot aantasting van het dierenwelzijn dan wel voor de diergezondheid. In het algemeen geldt dat voor een dergelijke overtreding eerst een waarschuwing wordt opgelegd. Echter, op grond van het specifieke interventiebeleid kan er bij zwaardere of structurele gevallen een bestuurlijke boete worden opgelegd. In dit geval kan gesproken worden van een zwaarder geval. De periode waarin de overtreding heeft plaatsgevonden, was een risicovolle periode omdat acute leverbot blijkens de verklaring van de dierenarts met name de kop opsteekt in het najaar en de vroege winter. Appellant heeft in deze periode verzuimd zijn schapen regelmatig te controleren, met acuut dierenleed voor tenminste één schaap tot gevolg. Het College volgt daarom de rechtbank in haar oordeel dat de minister direct een boete aan appellant kon opleggen.<?linebreak?></para>
+      <para>
+        <?linebreak?>
+      </para>
+      <parablock>
+        <para>
+          <emphasis role="italic">De hoogte van de boete</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Het College volgt appellant niet in zijn stelling dat de boete gematigd dient te worden op grond van artikel 5:46, derde lid, van de Awb.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Zoals het College onder meer heeft geoordeeld in zijn uitspraak van 23 april 2019 (ECLI:NL:CBB:2019:167), brengt artikel 6 van het Europees verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) mee dat de rechter dient te toetsen of de hoogte van de opgelegde boete in redelijke verhouding staat tot de ernst en de verwijtbaarheid van de overtreding. Voor bij wettelijk voorschrift vastgestelde boetebedragen vormt artikel 5:46, derde lid, van de Awb het kader waarin de op artikel 6 van het EVRM gestoelde evenredigheidstoets wordt voltrokken. Artikel 5:46, derde lid, van de Awb voorziet in de mogelijkheid tot het opleggen van een lagere boete door de minister indien een overtreder aannemelijk maakt dat de opgelegde boete wegens bijzondere omstandigheden te hoog is. Binnen het kader van artikel 5:46, derde lid, van de Awb kan en behoort te worden beoordeeld of de ingevolge artikel 2.2, eerste lid, aanhef en onder b, van het Besluit handhaving en overige zaken wet dieren (Besluit handhaving), gelezen in samenhang met artikel 1.2 van de Regeling handhaving en overige zaken Wet dieren, voorgeschreven boete in het concrete geval evenredig is aan met name de aard en ernst van de geconstateerde overtreding, de mate waarin deze aan de overtreder kan worden verweten en, zo nodig, de omstandigheden waaronder de overtreding is begaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>Anders dan appellant merkt het College de acute leverbotbesmetting van het zieke schaap niet aan als een bijzondere omstandigheid in de zin van artikel 5:46, derde lid, van de Awb. Hoewel acute leverbot voor plotselinge ziekte en sterfte zorgt en het voor appellant in die zin misschien moeilijk was om de besmettingen voor te zijn, neemt dat niet weg dat appellant het heeft verzaakt om zijn schapen in een risicovolle periode met regelmaat, dat wil zeggen in elk geval dagelijks, te controleren. Daarbij komt, zoals de rechtbank terecht heeft geoordeeld, dat het risico op een acute leverbotbesmetting onderdeel uitmaakt van de normale bedrijfsvoering en het daarbij behorende bedrijfsrisico. Appellant had daarom dagelijks zijn schapen moeten controleren, zeker in een risicoperiode in een risicogebied.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Dat appellant niet eerder is beboet voor een dergelijke overtreding, weegt naar het oordeel van het College niet dusdanig zwaar dat dit tot een lagere boete zou moeten leiden, omdat deze omstandigheid niet weg neemt dat de overtreding is begaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5</nr>
+      <para>Verder is het College niet gebleken van andere bijzondere omstandigheden die aanleiding zouden moeten geven tot het opleggen van een lagere boete. <?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Het College ziet ook geen aanleiding om de boete te matigen op grond van artikel 2.3, aanhef en onder a, van het Besluit handhaving.</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Ingevolge artikel 2.3, aanhef en onder a, van het Besluit handhaving wordt het bedrag als bedoeld in artikel 2.2, eerste lid, van het Besluit handhaving (het bij de daarin onderscheiden boetecategorieën behorende boetebedrag) gehalveerd, indien de risico’s of de gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of het milieu gering zijn of ontbreken. In zijn uitspraak van 7 januari 2020 (ECLI:NL:CBB:2020:5) heeft het College overwogen dat uit de tekst van artikel 2.3, aanhef en onder a, van het Besluit handhaving niet blijkt dat bepaalde overtredingen zijn uitgesloten van de toepassing van deze bepaling. Het gaat bij artikel 2.3, aanhef en onder a, van het Besluit handhaving dus om de risico’s of de gevolgen van de overtreding in het concrete geval. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>Naar het oordeel van het College zijn de gevolgen van de overtreding voor de diergezondheid en het dierenwelzijn meer dan gering, omdat het schaap daadwerkelijk ziek is geworden. De risico’s dan wel gevolgen voor de diergezondheid hebben zich dus verwezenlijkt.</para>
+      <para />
+      <parablock>
+        <para>9.	Het voorgaande betekent dat het College de rechtbank volgt in haar oordeel dat de boete voor de overtreding van artikel 1.7, aanhef en onder c, van het Bhd niet gematigd hoeft te worden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Redelijke termijn</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Appellant heeft ter zitting aangevoerd dat de onderhavige procedure vier jaar en drie maanden heeft geduurd en dat de procedure veel impact heeft gehad. Het College vat dit op grond van artikel 8:69, tweede lid, van de Awb op als een beroep op overschrijding van de redelijke termijn als bedoeld in artikel 6 van het EVRM.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2</nr>
+      <para>In punitieve zaken geldt het uitgangspunt dat de redelijke termijn voor een procedure in drie instanties in beginsel is overschreden als die procedure in haar geheel langer dan vier jaar in beslag heeft genomen. De termijn begint op het moment waarop een handeling is verricht waaraan de betrokkene in redelijkheid de verwachting kan ontlenen dat hem een bestuurlijke boete wordt opgelegd. Dit moment is in dit geval 23 november 2015, de datum waarop de toezichthouder aan appellant kenbaar heeft gemaakt dat hij “niet anders kon dan hem een boeterapport aan te zeggen”. Gegeven de context waarin deze mededeling is gedaan kan deze niet anders worden opgevat dan als aankondiging dat de boete daadwerkelijk ging worden opgelegd. De verantwoordelijke toezichthouder was op het bedrijf van appellant om hem te horen naar aanleiding van de bevindingen op 19 november 2015. De mededeling is, naar blijkt uit het door de toezichthouder opgemaakte verslag, gedaan als antwoord op een verzoek van appellant om hem geen boete op te leggen maar met een waarschuwing te volstaan, dit naar aanleiding van de al op 19 november 2015 aan appellant gedane mededeling dat hem een boete kon worden opgelegd. Uit het door de minister gevoerde interventiebeleid, zoals besproken in overweging 6.3 hierboven, volgt dat in een geval als dit ofwel een waarschuwing wordt gegeven ofwel een boete wordt opgelegd als van een “zwaarder geval” sprake is naar het oordeel van de minister. Aan appellant is te kennen gegeven dat in zijn geval niet met een waarschuwing zou worden volstaan. Daarmee is aan appellant het voornemen tot opleggen van een boete meegedeeld, zodat de “criminal charge” hiermee een aanvang heeft genomen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3</nr>
+      <para>Het voorgaande brengt met zich dat de totale procedure ter zake van de boete de termijn van vier jaar heeft overschreden met een half jaar. De overschrijding van de termijn is gelegen bij de rechtbank.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.4</nr>
+      <para>Volgens vaste jurisprudentie (zie onder meer de uitspraak van het College van 16 januari 2017, ECLI:NL:CBB:2017:32) wordt bij een overschrijding van de redelijke termijn in punitieve zaken de boete in beginsel gematigd met 5% per half jaar (naar boven afgerond). Het College ziet geen aanleiding om in het onderhavige geval van dit uitgangspunt af te wijken. Om die reden zal het College de boete verlagen met 5%, wat gelijk staat aan € 75,-. </para>
+    </paragroup>
+    <paragroup>
+      <nr>10.5</nr>
+      <para>De aangevallen uitspraak dient in verband met de overschrijding van de redelijke termijn te worden vernietigd voor zover het de hoogte van de boete betreft. Het beroep zal gegrond worden verklaard. Het bestreden besluit zal worden vernietigd voor zover het de hoogte van de boete betreft. Het College zal het primaire besluit in zoverre herroepen en de boete vaststellen op € 1.425,-. Voor het overige zal de aangevallen uitspraak worden bevestigd. Het College zal de Staat der Nederlanden opdragen het betaalde griffierecht aan appellant te vergoeden. </para>
+      <para />
+      <parablock>
+        <para>11.	Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College: <?linebreak?></para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt de aangevallen uitspraak voor zover het de hoogte van de boete betreft; </para>
+      </listitem>
+      <listitem>
+        <para>bevestigt de aangevallen uitspraak voor het overige;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het bij de rechtbank ingestelde beroep tegen het besluit van 24 oktober 2016 gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt dit besluit voor zover het de hoogte van de boete betreft;</para>
+      </listitem>
+      <listitem>
+        <para>herroept het besluit van 27 mei 2016 in zoverre dat de hoogte van de aan appellant opgelegde boete wordt vastgesteld op € 1.425,-;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat deze uitspraak in de plaats treedt van het vernietigde gedeelte van het besluit van 24 oktober 2016;</para>
+      </listitem>
+      <listitem>
+        <para>draagt de Staat der Nederlanden (minister van Justitie en Veiligheid) op het betaalde griffierecht van € 253,- aan appellant te vergoeden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.L. Verbeek, in aanwezigheid van mr. C.H.R. Mattheussens, griffier. De beslissing is in het openbaar uitgesproken op 31 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd de uitspraak te ondertekenen.	</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

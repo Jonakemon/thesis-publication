@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:124</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-10T16:26:30</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-09</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 19/3728 en AWB 19/3729</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:124">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:124</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-09T16:31:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:124 Rechtbank Den Haag , 09-01-2020 / AWB 19/3728 en AWB 19/3729</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:124:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De Immigratie en Naturalisatiedienst (IND) heeft onvoldoende gemotiveerd waarom de verblijfsaanvraag van een Marokkaanse vrouw is afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:124:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers:	AWB 19/3728  (beroep)</para>
+      <para>		AWB 19/3729 (voorlopige voorziening)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [nummer]</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer voor vreemdelingenzaken en de voorzieningenrechter van 9 januari 2020 in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiseres/verzoekster] ,</bridgehead>
+    <parablock>
+      <para>geboren op [geboortedag] 1958, van Marokkaanse nationaliteit, eiseres en verzoekster, hierna te noemen: eiseres</para>
+      <para>(gemachtigde: mr. A.C. de Klerk),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de staatssecretaris van Justitie en Veiligheid, verweerder</para>
+      <para>(gemachtigde: mr. J. Mačkić).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 november 2017 (het primaire besluit) heeft verweerder de aanvraag van eiseres tot verlening van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel<?linebreak?>14 van de Vreemdelingenwet 2000 (Vw) onder de beperking “familieleven op grond van artikel 8 van het EVRM”<footnote-ref linkend="_b6128a32-df3b-4805-8704-a1b2dc41e273" /> afgewezen. Het daartegen gemaakte bezwaar is bij besluit van <?linebreak?>13 mei 2019 (het bestreden besluit) ongegrond verklaard.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 13 mei 2019 heeft de rechtbank het beroepschrift van eiseres ontvangen. Daarnaast heeft eiseres verzocht een voorlopige voorziening te treffen die ertoe strekt de uitzetting te verbieden totdat op het beroep is beslist. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 17 oktober 2019. Eiseres is verschenen, bijgestaan door haar gemachtigde. Verweerder is vertegenwoordigd door zijn voornoemde gemachtigde. Ook was ter zitting aanwezig [partner] , de partner van eiseres. De rechtbank/voorzieningenrechter (hierna: rechtbank) heeft het onderzoek ter zitting gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten en omstandigheden </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiseres is in 1979 Nederland ingereisd. In 1985 is zij teruggekeerd naar Marokko. Vervolgens is zij in 1991 opnieuw Nederland ingereisd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Eiseres heeft meerdere verblijfsprocedures doorlopen, laatstelijk in verband met de wens te verblijven bij haar zuster, [zuster] . Deze zuster en de broer van eiseres, [broer] , hebben beiden de Nederlandse nationaliteit. Bij besluit van 11 januari 2016 heeft verweerder die aanvraag afgewezen en een inreisverbod uitgevaardigd voor de duur van twee jaren. Bij besluit van 4 april 2016 is het bezwaar van eiseres tegen het besluit van <?linebreak?>11 januari 2016 ongegrond verklaard. Bij uitspraak van 22 september 2016 van deze rechtbank, zittingsplaats Amsterdam, is het beroep ongegrond verklaard.<footnote-ref linkend="_e90284e5-a23e-4512-8fad-5531baa49b33" /></para>
+      <para />
+      <para>2. Op 26 juni 2017 heeft eiseres onderhavige aanvraag ingediend om te verblijven bij haar partner [partner] , referent. Verweerder heeft de aanvraag bij het primaire besluit afgewezen. Eiseres heeft tegen dit besluit bezwaar gemaakt en een verzoek om voorlopige voorziening ingediend. Bij uitspraak van 28 februari 2018 heeft de voorzieningenrechter het verzoek toegewezen en verweerder verboden eiseres uit te zetten.<footnote-ref linkend="_0187faaf-99de-4d3e-b15e-9f598f5343a1" /> Verweerder heeft eiseres gehoord in bezwaar. Bij besluit van 1 augustus 2018 heeft verweerder het bezwaar ongegrond verklaard. De belangenafweging in het kader van artikel 8 van het EVRM is in het nadeel van eiseres uitgevallen. Het daartegen ingestelde beroep van eiseres is bij uitspraak van 16 april 2019 door deze rechtbank en zittingsplaats gegrond verklaard.<footnote-ref linkend="_78312f38-3d3f-4500-aa7d-b03ff6476759" /> De rechtbank oordeelde dat verweerder niet alle relevante feiten en omstandigheden had meegenomen in de beoordeling van het familie- en privéleven op grond van artikel 8 van het EVRM.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Standpunt verweerder</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>3. Met het bestreden besluit heeft verweerder het bezwaar opnieuw ongegrond verklaard. Eiseres voldoet niet aan de voorwaarden voor de gevraagde verblijfsvergunning, zodat verweerder geen aanleiding ziet om het aan eiseres uitgevaardigde inreisverbod op te heffen. Eiseres is namelijk niet in bezit van een machtiging tot voorlopig verblijf (mvv). Zij komt niet in aanmerking voor vrijstelling van dat vereiste. Eiseres heeft geen medisch dossier overgelegd, zodat het Bureau Medische Advisering (BMA) niet om advies is gevraagd. Ten aanzien van het beroep op familieleven als bedoeld in artikel 8 van het EVRM erkent verweerder dat sprake is van een relatie en dus van familieleven met referent. De belangenafweging valt echter in het nadeel van eiseres uit. Eiseres is de relatie aangegaan, terwijl zij hier niet mocht zijn. Er zijn geen objectieve dan wel subjectieve belemmeringen om het familieleven in Marokko uit te oefenen. Niet is gebleken dat de medische behandeling voor referent in Marokko niet beschikbaar is of dat eiseres hem niet zou kunnen ondersteunen hierbij. Verder stelt verweerder dat van iedere Nederlander kan worden verwacht dat hij zich elders in de wereld vestigt. Hoewel verweerder inziet dat het voor een 77-jarige man niet gemakkelijk zal zijn om eiseres te volgen, wordt dit niet onmogelijk geacht. Verder is niet gebleken dat referent zijn AOW<footnote-ref linkend="_aa716ed4-2a67-4a16-afb9-304dcf6b28c4" />-uitkering niet kan meenemen naar Marokko. Ook het feit dat eiseres een lage GAF-score<footnote-ref linkend="_33c89ad2-92fa-442b-b37c-13d2fc9ee10c" /> heeft, vormt geen belemmering. Eiseres heeft immers ook hier te lande altijd voor referent kunnen zorgen. Niet wordt ingezien dat dat niet kan in Marokko. Het feit dat de broer en zus van eiseres hier wonen, doet niet af aan bovenstaande. Eiseres en referent kunnen zonder hulp van de familie naar Marokko reizen. Ten aanzien van het privéleven als bedoeld in artikel 8 van het EVRM stelt verweerder dat ook hier de belangenafweging in het nadeel van eiseres uitvalt. Eiseres heeft niet aangetoond sinds 1991 een onafgebroken verblijf in Nederland te hebben. Eiseres heeft nooit rechtmatig verblijf gehad. Sterker nog, zij heeft haar verblijf geïntensiveerd na drie keer een negatieve beslissing te hebben ontvangen. Niet is gebleken van meer dan gebruikelijke banden met Nederland. Dat verweerder eiseres niet heeft uitgezet, legt onvoldoende gewicht in de schaal, nu aan haar meerdere malen een vertrekplicht is opgelegd. Dat de oorzaak van de PTSS<footnote-ref linkend="_ceee6c65-6341-4b7d-8eb4-c934f7d7da0b" /> klachten hun oorzaak hebben vanwege het huwelijk in Marokko, betekent niet dat de PTSS niet in Marokko kan worden behandeld. Dat eiseres niet leerbaar is, doet evenmin af aan bovenstaande. Eiseres heeft niet onderbouwd dat zij afhankelijk is van anderen met het gevolg dat zij zich niet kan handhaven elders. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Beroepsgronden eiseres</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. Eiseres voert – samengevat – aan dat verweerder zich niet heeft gehouden aan de voorgaande rechtbank uitspraken. Eiseres en referent staan beide onder intensieve medische controle. Referent staat elke vier maanden onder controle bij de trombosedienst. Ook heeft referent botkanker. Die is nu onder controle, maar hij staat onder controle bij de oncoloog. Dat verweerder keer op keer stelt dat van een bijna 78-jarige man – zeker gezien zijn omstandigheden – kan worden verwacht dat hij zich overal ter wereld kan vestigen, is onbegrijpelijk. De voorzieningenrechter oordeelde in februari 2018 al dat uitgaande van het familieleven tussen eiseres en referent, het standpunt dat dit familieleven kan worden uitgeoefend in Marokko geen blijk geeft van een fair balance. De voorzieningenrechter noemt hierbij de leeftijd en de gezondheidssituatie van referent, de langdurige relatie en mantelzorg, het sociale leven van eiseres in Nederland en de hier woonachtige familieleden. Verweerder negeert in het bestreden besluit deze rechterlijke overwegingen. Weliswaar gaat het om een voorlopig oordeel, maar verweerder moet met argumenten komen als het afwijkt daarvan. Ook het feit dat eiseres een GAF score heeft van 41, heeft verweerder onvoldoende meegewogen in de beoordeling. Subsidiair stelt eiseres ook dat de belangenafweging in het kader van haar privéleven ten onrechte in haar nadeel is uitgevallen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Oordeel rechtbank </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>De rechtbank dient allereerst te toetsen of verweerder alle relevante feiten en omstandigheden in zijn belangenafweging heeft betrokken en, indien dit het geval is, of verweerder zich niet ten onrechte op het standpunt heeft gesteld dat die afweging heeft geresulteerd in een ‘fair balance’ tussen enerzijds het belang van de vreemdeling bij de uitoefening van het familie en gezinsleven hier te lande en anderzijds het algemeen belang van de Nederlandse staat bij het voeren van een restrictief toelatingsbeleid. Deze maatstaf impliceert een enigszins terughoudende toetsing.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Niet in geschil is dat verweerder alle relevante feiten en/of omstandigheden heeft meegenomen in de beoordeling. Ook is niet in geschil dat eiseres privéleven heeft opgebouwd en dat tussen eiseres en referent sprake is van een beschermenswaardige relatie en familieleven als bedoeld in artikel 8 van het EVRM. De vraag die partijen verdeeld houdt, is of de door verweerder gemaakte belangenafweging heeft geresulteerd in een fair balance.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De rechtbank is, enigszins terughoudend toetsend, van oordeel dat verweerder niet deugdelijk heeft gemotiveerd dat er geen objectieve en/of subjectieve belemmeringen zijn om het familieleven in Marokko uit te oefenen. Verweerder heeft zich op het standpunt gesteld dat van iedere Nederlander kan worden verwacht dat hij zich elders in de wereld vestigt en dat dit in dit geval ook geldt voor referent. Dat standpunt acht de rechtbank onvoldoende gemotiveerd. Vaststaat dat referent inmiddels 78 jaren oud is en ernstig ziek. Bij referent is enige tijd geleden botkanker geconstateerd. Hij staat onder controle bij de oncoloog en heeft het aan zijn hart. Ook staat hij onder controle bij de trombosedienst. Dit is ook niet betwist door verweerder. De stelling van verweerder dat niet is komen vast te staan dat de relatie zoals die nu bestaat vanwege de medische situatie niet kan worden voorgezet,  heeft verweerder onvoldoende gemotiveerd. De opvatting van verweerder dat het op de weg van eiseres ligt om aan te tonen dat de noodzakelijk medische controles/zorg voor referent in Marokko niet beschikbaar en toegankelijk zijn, kan worden aangemerkt als een onevenredig verzoek en levert bewijsnood op. Het vooruitzicht dat referent, als hoogbejaarde Nederlander en belast met diverse ernstige medische problemen, beroep zou kunnen doen op beschikbare en toegankelijke medische zorg in Marokko, is voorshands dusdanig onaannemelijk dat het eerder op de weg van verweerder ligt om het standpunt met betrekking tot de beschikbaarheid en toegankelijkheid te onderbouwen bijvoorbeeld middels een BMA-advies of enige ambtsbericht over de beschikbaarheid en toegankelijkheid van medische zorg voor buitenlanders in Marokko. Het standpunt van verweerder dat referent zich met de zorg van eiseres in Marokko kan handhaven, heeft verweerder eveneens onvoldoende gemotiveerd. Vast staat dat eiseres lijdt aan PTSS en onder behandeling staat bij Equator. Verder blijkt dat eiseres een GAF-score heeft van 41. Dat houdt in dat eiseres ernstig is beperkt in haar sociaal functioneren. De stelling dat eiseres referent kan ondersteunen in Marokko met de aanpassing aan de samenleving en cultuur, heeft verweerder in het licht van bovenstaande omstandigheden aldus onvoldoende gemotiveerd. De beroepsgrond slaagt. </para>
+      <para />
+      <para>6. Uit rechtsoverweging 5.3 volgt dat het beroep gegrond is. De rechtbank vernietigt het bestreden besluit. Verweerder zal daarom een nieuw besluit moeten nemen met inachtneming van deze uitspraak. De rechtbank stelt hiervoor een termijn van zes weken.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Ten aanzien van het verzoek om een voorlopige voorziening</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>7. De gevraagde voorziening strekt ertoe de uitzetting te verbieden totdat is beslist op het beroep. In dit geval is er geen aanleiding tot het treffen van de gevraagde voorziening, gelet op het feit dat de rechtbank al op het beroep heeft beslist.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Ten aanzien van het beroep en het verzoek om een voorlopige voorziening</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>8. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiseres het door haar betaalde griffierecht vergoedt. </para>
+      <para />
+      <para>9. De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de  door een derde beroepsmatig verleende rechtsbijstand vast op € 1.575,-- (1 punt voor het indienen van het beroepschrift, 1 punt voor het indienen van het verzoekschrift, 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,--, en een wegingsfactor 1). </para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank, in de zaak geregistreerd onder nummer: AWB 19/3728,</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <para />
+    <para>- vernietigt het bestreden besluit;</para>
+    <para />
+    <para>- draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak.</para>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter, in de zaak geregistreerd onder nummer: AWB 19/3729,</para>
+    </parablock>
+    <para />
+    <para>- wijst het verzoek af.</para>
+    <para />
+    <parablock>
+      <para>De rechtbank/ voorzieningenrechter, in alle zaken,</para>
+    </parablock>
+    <para />
+    <para>- draagt verweerder op het betaalde griffierecht van € 348,-- aan eiseres te vergoeden;</para>
+    <para />
+    <para>- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.575,--.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. O.P.G. Vos, rechter, tevens voorzieningenrechter, in aanwezigheid van mr. T. Pourjalili, griffier. De beslissing is in het openbaar uitgesproken op 9 januari 2020.<?linebreak?></para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier 									 rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Tegen deze uitspraak kunnen partijen binnen vier weken na de dag van verzending daarvan hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State (adres: Raad van State, Afdeling bestuursrechtspraak, Hoger beroep vreemdelingenzaken, Postbus 16113, 2500 BC 's-Gravenhage). Naast de vereisten waaraan het beroepschrift moet voldoen op grond van artikel 6:5 van de Awb (zoals het overleggen van een afschrift van deze uitspraak) dient het beroepschrift ingevolge artikel 85, eerste lid, van de Vw 2000 een of meer grieven te bevatten. Artikel 6:6 van de Awb (herstel verzuim) is niet van toepassing. Tegen de uitspraak op het verzoek om een voorlopige voorziening staat geen rechtsmiddel open. </para>
+    </parablock>
+  </section>
+  <footnote id="_b6128a32-df3b-4805-8704-a1b2dc41e273" label="1">
+    <para> Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. </para>
+  </footnote>
+  <footnote id="_e90284e5-a23e-4512-8fad-5531baa49b33" label="2">
+    <para> AWB 16/7770.</para>
+  </footnote>
+  <footnote id="_0187faaf-99de-4d3e-b15e-9f598f5343a1" label="3">
+    <para> 17/15919.</para>
+  </footnote>
+  <footnote id="_78312f38-3d3f-4500-aa7d-b03ff6476759" label="4">
+    <para> AWB 18/6010.</para>
+  </footnote>
+  <footnote id="_aa716ed4-2a67-4a16-afb9-304dcf6b28c4" label="5">
+    <para> Algemene Ouderdomswet.</para>
+  </footnote>
+  <footnote id="_33c89ad2-92fa-442b-b37c-13d2fc9ee10c" label="6">
+    <para> Global Assessment of Functioning.</para>
+  </footnote>
+  <footnote id="_ceee6c65-6341-4b7d-8eb4-c934f7d7da0b" label="7">
+    <para> Posttraumatische stressstoornis.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

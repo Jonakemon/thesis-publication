@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:533</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-11T13:19:30</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1570</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#schadevergoedingsuitspraak">Schadevergoedingsuitspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:533">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:533</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-11T07:28:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:533 College van Beroep voor het bedrijfsleven , 11-08-2020 / 18/1570</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:533:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Regeling fosfaatreductieplan 2017</para>
+        <para>Individuele buitensporige last</para>
+        <para>Overschrijding redelijke termijn</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:533:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/1570</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 11 augustus 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">V.O.F. [naam 1] , te [plaats] , gemeente [gemeente] , appellante</bridgehead>
+    <para>(gemachtigde: mr. J.T. Fuller),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. A.R. Alladin),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staat der Nederlanden (de minister van Justitie en Veiligheid), de Staat.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluiten van 17 juni 2017, 3 augustus 2017, 23 september 2017, 25 november 2017 en 27 januari 2018 (de primaire besluiten) heeft verweerder op grond van de Regeling Fosfaatreductieplan 2017 (de Regeling) aan appellante een heffing opgelegd van € 3.297,- voor periode 1, € 2.552,- voor periode 2, € 2.206,- voor periode 3, € 2.060,- voor periode 4 en € 1.732,- voor periode 5.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 juni 2018 (het bestreden besluit) heeft verweerder de door appellante tegen de primaire besluiten gemaakte bezwaren ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft beroep ingesteld tegen het bestreden besluit.</para>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 21 juli 2020. Namens appellante zijn verschenen haar vennoten [naam 2] en <?linebreak?>[naam 3] , bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <bridgehead role="underline">Regeling</bridgehead>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer melkvee houdt dan het referentieaantal op 2 juli 2015 (de peildatum) en kent een bonusgeldsom toe indien een melkveehouder minder melkvee houdt dan het referentieaantal op de peildatum.<?linebreak?><emphasis role="underline">Feiten</emphasis></para>
+      </listitem>
+      <listitem>
+        <para>Appellante exploiteert een melkveehouderij. Op 19 mei 2011 is aan appellante een omgevingsvergunning voor het bouwen van een melkstal aan de bestaande ligboxenstal verleend. Voor de financiering van de bouw van de melkstal en de verbouwing van de ligboxenstal is op 6 april 2011 een financieringsvoorstel ondertekend met de bank voor € 575.000,00. De bouw van de melkstal is gestart in 2011 en afgerond in 2012. Op 24 december 2013 heeft appellante een vergunning op grond van de Natuurbeschermingswet 1998 (Nbw) aangevraagd. Op 5 december 2014 is aan appellante een Nbw-vergunning verleend voor het houden van 150 melkkoeien en 46 stuks jongvee. Deze vergunning is op 15 mei 2015 onherroepelijk geworden. Voordien mocht appellant 100 melkkoeien en 66 stuks jongvee houden. Op de peildatum 2 juli 2015 hield appellante op het bedrijf 108 melkkoeien, 5 pinken en 31 kalveren. In juli 2015 heeft zij extra financiering ontvangen voor groei van de melkveestapel. In januari en februari 2016 heeft appellante melkkoeien en ammoniakrechten aangekocht voor de uitbreiding van de veestapel. In maart 2016 heeft zij geïnvesteerd in een melkkoeltank.<?linebreak?><emphasis role="underline">Besluiten van verweerder</emphasis></para>
+      </listitem>
+      <listitem>
+        <para>Verweerder heeft aan appellante solidariteitsgeldsommen opgelegd van in totaal € 11.847,- , omdat het gemiddeld aantal runderen op het bedrijf van appellante in de perioden 1 tot en met 5 hoger was dan het referentieaantal, maar gelijk aan of lager dan het doelstellingsaantal.<?linebreak?><emphasis role="underline">Beroepsgronden</emphasis></para>
+      </listitem>
+      <listitem>
+        <para>Appellante betoogt dat zij een individuele en buitensporige last draagt. Zij onderscheidt zich van andere melk-producerende bedrijven op wie de Regeling van toepassing is vanwege onomkeerbare financiële verplichtingen die zij in verband met de uitbreiding van het bedrijf is aangegaan. Op het moment dat zij deze financiële verplichtingen aanging was niet voorzienbaar dat zij deze uitbreiding als gevolg van de Regeling niet volledig kon realiseren. De continuïteit van de onderneming is in gevaar als gevolg van de Regeling. Appellante verwijst ter onderbouwing van dit betoog naar een rapport van [naam 4] B.V. van 8 maart 2018. Appellante wijst er in dit verband verder op dat zij door een onvoorzien langdurig traject voor het verkrijgen van een <?linebreak?>Nbw-vergunning niet eerder kon starten met het uitbreiden van de veestapel. Appellante betoogt verder dat het bestreden besluit in strijd met het zorgvuldigheids- en het motiveringsbeginsel is genomen, omdat daarin de toets of sprake is van een fair balance niet op de juiste wijze is uitgevoerd en de minister daarin niet is ingegaan op het door haar overgelegde financiële rapport.<?linebreak?><emphasis role="underline">Beoordeling</emphasis></para>
+      </listitem>
+    </orderedlist>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Bij de beoordeling of de last voor de betrokken melkveehouder buitensporig is, weegt het College alle betrokken belangen van het individuele geval. In dat verband is vooral de mate waarin het in de Regeling opgenomen stelsel van maatregelen de individuele melkveehouder raakt relevant. Niet ieder inkomens- of vermogensverlies als gevolg van de opgelegde heffingen en de inperking van de exploitatiemogelijkheden – waardoor bijvoorbeeld ook investeringen nutteloos of beperkt nuttig zijn geworden – als gevolg van de tenuitvoerlegging van de Regeling vormt een buitensporige last.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Voor de situatie waarin sprake is van een uitbreiding van het bedrijf is verder van belang of en zo ja op welk moment, in welke mate en met welke noodzaak of andere motieven de melkveehouder zijn bedrijf legaal heeft uitgebreid op grond van door de overheid verleende vergunningen voor het houden van specifieke aantallen melkvee en daartoe onomkeerbare investeringen is aangegaan (vergelijk de uitspraak van het College in het fosfaatrechtenstelsel van 23 juli 2019, ECLI:NL:CBB:2019:291, onder 6.8.2).</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Bij de beoordeling of de last buitensporig is, staat voorop dat de beslissingen van melkveehouders om te investeren in productiemiddelen als stallen, grond, melkvee en machines, moeten worden gezien als ondernemersbeslissingen waaraan risico’s inherent zijn. Het College hanteert als uitgangspunt dat de individuele melkveehouder zelf de gevolgen van die risico’s draagt en dat niet ieder vermogensverlies als gevolg van het fosfaatrechtenstelsel een individuele en buitensporige last vormt. Dit uitgangspunt wordt alleen bij uitzondering verlaten. Daarvoor moet dan wel de ondernemersbeslissing in de gegeven omstandigheden – wat betreft het tijdstip waarop de beslissing is genomen, de omstandigheden waaronder de beslissing is genomen, de mate waarin is geïnvesteerd en de reden waarom is geïnvesteerd –navolgbaar zijn, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren (zie de uitspraak van 23 juli 2019, onder 6.7.5.4). Bovendien moeten er goede redenen zijn om aan te nemen dat de last buitensporig is en aldus geen evenwicht bestaat tussen de belangen die zijn gediend met het fosfaatrechtenstelsel (de bescherming van het milieu en de volksgezondheid en het voldoen aan de verplichtingen die voortvloeien uit de Nitraatrichtlijn) en de belangen van de melkveehouder (zie de uitspraak van 25 februari 2020, ECLI:NL:CBB:2020:114, onder 6.9).</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Zoals hiervoor onder 4.3 is overwogen ligt voor het College de vraag voor of de door appellante genomen ondernemerskeuzes in het licht van de ontwikkelingen navolgbaar zijn. Appellante wilde haar melkveebedrijf uitbreiden van 88 melkkoeien en 49 stuks jongvee naar 150 melkkoeien en 46 stuks jongvee, om een reëel gezinsinkomen uit het bedrijf te kunnen halen. Appellante heeft niet onderbouwd dat daarvoor een dergelijke forse uitbreiding noodzakelijk was. De bouw van de stal is gestart in 2011 en ook de daarvoor benodigde financiering is in 2011 verkregen. Dat de voor de groei van de veestapel vereiste <?linebreak?>Nbw-vergunning al op 24 december 2013 was aangevraagd, maar als gevolg van een daartegen aangevoerde bezwaarprocedure pas op 15 mei 2015 onherroepelijk is geworden, behoort tot het ondernemersrisico van appellante. Verder is de keuze om met eigen aanwas te groeien, waardoor op de peildatum 2 juli 2015 nog niet het beoogde aantal GVE was bereikt, een ondernemerskeuze die voor rekening en risico van appellante komt. Het College heeft in zijn uitspraak van 23 juli 2019 overwogen (onder 6.7.5.4) dat voor melkveehouders al vanaf het moment dat bekend werd dat het melkquotum zou worden afgeschaft en er dus een einde zou komen aan de begrenzing van mestproductie voor rundvee, redelijkerwijs duidelijk had moeten zijn dat een ongeremde groei van de melkveehouderij niet mogelijk was en dat in verband met die afschaffing maatregelen te verwachten waren. Appellante had daarom een zekere mate van voorzichtigheid moeten betrachten en zich moeten realiseren dat een dergelijke uitbreiding voor haar meer dan de gebruikelijke ondernemersrisico’s met zich zou brengen. Deze investeringsbeslissing acht het College, gezien het moment van de beslissing en het ontbreken van een noodzaak hiervoor, niet navolgbaar. </para>
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Het College wil, op basis van onder meer het door appellante overgelegde financiële rapport van [naam 4] B.V., wel aannemen dat zij financieel stevig wordt geraakt door de tenuitvoerlegging van de Regeling. Uit wat hiervoor is overwogen volgt echter dat appellante zelf de risico’s die zijn verbonden aan haar investeringsbeslissing en de nadelige gevolgen daarvan dient te dragen en dat zij die niet kan afwentelen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Het behoud van de derogatiebeschikking in het belang van de gehele melkveesector weegt in dit geval zwaarder dan de belangen van appellante. Het bestreden besluit is niet in strijd met artikel 1 van het Eerste Protocol bij het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.</para>
+      <para>5. Het betoog van appellante dat het bestreden besluit in strijd met het motiveringsbeginsel is genomen slaagt. Verweerder heeft zich in het bestreden besluit op het standpunt gesteld dat bijzondere omstandigheden, zijnde andere omstandigheden dan investeringsverplichtingen en een financiële last, zijn gesteld noch gebleken. Eerst in het verweerschrift in beroep is verweerder meer concreet ingegaan op de door appellante aangevoerde omstandigheden en het door haar overgelegde financiële rapport. Het bestreden besluit is daarom in strijd met artikel 7:12, eerste lid, van de Algemene wet bestuursrecht (Awb) niet deugdelijk gemotiveerd. Het College ziet aanleiding dit gebrek te passeren met toepassing van artikel 6:22 van de Awb, omdat aannemelijk is dat appellante door dit gebrek niet is benadeeld. Ook als dit gebrek zich niet zou hebben voorgedaan, zou een besluit of zouden besluiten met gelijke uitkomst zijn genomen.</para>
+      <para>
+        <emphasis role="underline">Slotsom</emphasis>
+      </para>
+      <para>6. Het beroep is ongegrond.<?linebreak?><emphasis role="underline">Overschrijding redelijke termijn</emphasis></para>
+      <para>7. Ter zitting heeft appellante een verzoek om schadevergoeding gedaan wegens overschrijding van de redelijke termijn als bedoeld in artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. Het gaat hier om een niet-punitieve procedure die volgt op een primair besluit dat is bekend gemaakt na 1 februari 2014. In dat geval geldt als uitgangspunt dat de bezwaar- en beroepsfase tezamen niet langer mogen duren dan twee jaar. Daarbij mag de behandeling van het bezwaar ten hoogste een half jaar en de behandeling van het beroep ten hoogste anderhalf jaar duren. Dit behoudens factoren die onder omstandigheden aanleiding kunnen geven overschrijding van deze behandelingsduren gerechtvaardigd te achten.</para>
+      <para>8. Verweerder heeft het bezwaarschrift voor periode 1 ontvangen op 24 juli 2017, het bezwaarschrift voor periode 2 ontvangen op 7 september 2017, het bezwaarschrift voor periode 3 ontvangen op 24 oktober 2017, het bezwaarschrift voor periode 4 ontvangen op 28 december 2017 en het bezwaarschrift voor periode 5 ontvangen op 27 februari 2018. Verweerder heeft ter zitting onweersproken gesteld dat appellante heeft ingestemd met uitstel van het nemen van een besluit op haar bezwaren. Het College gaat er daarom van uit dat op het moment van het doen van deze uitspraak de tweejaartermijn met meer dan zes maanden, maar met minder dan een jaar is overschreden. Van factoren die onder omstandigheden aanleiding kunnen geven overschrijding van de behandelingsduur gerechtvaardigd te achten is geen sprake. Uitgaande van een forfaitair tarief van € 500,- per half jaar dat de redelijke termijn is overschreden, heeft appellante daarom recht op een vergoeding van € 1.000,- aan immateriële schade. Het College zal daarom op de voet van artikel 8:88 van de Awb de Staat veroordelen tot betaling van € 1.000,- aan appellante. <?linebreak?><emphasis role="underline">Proceskostenveroordeling</emphasis></para>
+      <para>9. Gelet op het onder 5 geconstateerde gebrek bestaat aanleiding te bepalen dat het door appellante betaalde griffierecht aan haar wordt vergoed en verweerder te veroordelen in de proceskosten van appellante in beroep. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,-). <?linebreak?><emphasis role="bold">Beslissing</emphasis></para>
+      <para />
+      <parablock>
+        <para>Het College</para>
+      </parablock>
+      <para>- verklaart het beroep ongegrond;</para>
+      <para>- bepaalt dat verweerder het door appellante betaalde griffierecht van € 338,- aan haar vergoedt;</para>
+      <para />
+      <para>- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 1.050,-;</para>
+      <para>- veroordeelt de Staat (minister van Justitie en Veiligheid) om aan appellante een vergoeding voor immateriële schade van € 1.000,- te betalen.</para>
+      <para />
+      <parablock>
+        <para>Deze uitspraak is gedaan door mr. A.J.C. de Moor-van Vugt, in aanwezigheid van mr. H.A. Komduur, griffier. De beslissing is in het openbaar uitgesproken op 11 augustus 2020.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>De voorzitter is verhinderd	De griffier is verhinderd <?linebreak?>de uitspraak te ondertekenen.	de uitspraak te ondertekenen.</para>
+      </parablock>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

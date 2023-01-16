@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:1215</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-14T15:37:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">SGR 18/7093</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:1215">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:1215</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-14T15:36:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:1215 Rechtbank Den Haag , 30-01-2020 / SGR 18/7093</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:1215:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Artikel 34g lid 1b Wrb – overschrijding heffingvrij vermogen – intrekking toevoeging rechtsbijstand – beleid niet onredelijk – advocaatkosten geen onderdeel van echtscheidingsverdeling.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:1215:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummer: SGR 18/7093</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 30 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres</bridgehead>
+    <para>(gemachtigde: mr. G.C. Mourits)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het bestuur van de Raad voor Rechtsbijstand, verweerder</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 22 maart 2018 (het primaire besluit) heeft verweerder de aan eiseres verleende toevoeging voor een echtscheidingsprocedure met nevenvorderingen ingetrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 september 2018 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 14 januari 2020. Partijen zijn, met bericht van verhindering, niet verschenen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Aan eiseres is een toevoeging verleend voor een echtscheidingsprocedure met nevenvorderingen. Bij beschikking van deze rechtbank van 9 april 2015 is de echtscheiding uitgesproken. Bij beschikking van deze rechtbank van 10 juni 2016 is de verdeling van de ontbonden huwelijksgemeenschap vastgesteld. Niet in geschil is dat eiseres vanwege overbedeling een bedrag van € 27.630,19 heeft ontvangen.</para>
+    <para />
+    <para>2. Bij bestreden besluit heeft verweerder de verleende toevoeging ingetrokken, omdat het resultaat van de verleende rechtsbijstand meer dan 50% van het heffingvrij vermogen bedraagt. </para>
+    <para />
+    <para>3. Eiseres kan zich met deze beslissing niet verenigen en stelt daartoe als volgt. Bij intrekking van de toevoeging dient eiseres de advocaatkosten van € 22.583,90 te betalen en een bedrag van € 5.548,60 aan verweerder te voldoen. Eiseres stelt dat handhaving van het beleid van verweerder, dat inhoudt dat de verschuldigde advocaatkosten niet worden verrekend met het bedrag van de overbedeling, in dit geval leidt tot een onbillijke en onredelijke uitkomst.</para>
+    <para />
+    <para>5. De rechtbank komt tot de volgende beoordeling.</para>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Rechtzoekenden van wie het inkomen en vermogen beneden een bepaalde grens liggen en die daarom de kosten van een advocaat niet geheel zelf kunnen dragen, kunnen bij de raad een aanvraag indienen om een toevoeging voor door de overheid gesubsidieerde rechtsbijstand. De regels om in aanmerking te komen voor een toevoeging zijn neergelegd in de Wet op de rechtsbijstand (hierna: Wrb). Daarnaast heeft de raad hiervoor beleid vastgesteld, neergelegd in zogenoemde werkinstructies.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Ingevolge artikel 34g, eerste lid, aanhef en onder b, wordt, tenzij zwaarwegende omstandigheden zich daartegen verzetten, de toevoeging met terugwerkende kracht ingetrokken, indien op het moment van de definitieve afhandeling van de zaak waarvoor die toevoeging was verleend de rechtzoekende als resultaat van die zaak een vordering met betrekking tot een geldsom ter hoogte van ten minste 50% van het heffingvrij vermogen heeft.</para>
+      <para />
+      <parablock>
+        <para>De achtergrond van deze bepaling is dat de rechtzoekende alsnog in staat wordt geacht de kosten van rechtsbijstand zelf te kunnen dragen als het financiële resultaat van de zaak waarvoor de toevoeging was verleend het normbedrag overschrijdt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Artikel 34g, eerste lid, aanhef en onder b, van de Wrb schrijft verweerder  dwingend voor om een verleende toevoeging in te trekken als het financiële resultaat het normbedrag overschrijdt, tenzij zwaarwegende omstandigheden zich daartegen verzetten. Dit is een bepaling die door de wetgever in formele zin is vastgesteld. Ten aanzien van de vraag of zich zwaarwegende omstandigheden voordoen om van verrekening af te zien voert verweerder het beleid zoals dat is weergeven in de Werkinstructie ‘resultaatbeoordeling’ en in het bestreden besluit. Advocaatkosten komen volgens dit beleid niet in aanmerking om te worden verrekend met het resultaat van de procedure. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Naar het oordeel van de rechtbank is dit beleid niet kennelijk onredelijk of onjuist. De rechtbank verwijst naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 2 mei 2018 (ECLI:NL:RVS:2018:1462). Verweerder heeft in het verweerschrift helder uiteengezet dat de advocaatkosten geen onderdeel van de verdeling zijn zoals vastgesteld in de uitspraak van 10 juni 2016. Daarbij is van belang dat, indien de advocaatkosten zouden worden gerekend tot zwaarwegende omstandigheden op grond waarvan die kosten verrekend zouden kunnen, dit de regels omtrent resultaatbeoordeling innerlijk tegenstrijdig zou maken. Er wordt immers nu juist getoetst of met het resultaat van de procedure alsnog de advocaatkosten kunnen worden betaald. Verweerder heeft de toevoeging dan ook terecht ingetrokken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Gelet op hetgeen hiervoor is overwogen, is het beroep ongegrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M. M. Meijers, rechter, in aanwezigheid van mr. R. Kroon-Overdijk, griffier. De beslissing is in het openbaar uitgesproken op 30 januari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

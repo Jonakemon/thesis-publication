@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:1191</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-24T14:36:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 18 _ 7740</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:1191">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:1191</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-24T14:35:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:1191 Rechtbank Amsterdam , 11-02-2020 / AWB - 18 _ 7740</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:1191:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verlening omzettingsvergunning. Verweerder heeft beleid juist toegepast want de woning is getoetst aan de in het beleid gestelde voorwaarden.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:1191:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 18/7740, AMS 19/23 en AMS 19/88</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 11 februari 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser 1] , te Amsterdam, </bridgehead>
+    <para>(gemachtigde: mr. E.R. Koster),</para>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser 2] , te Amsterdam, </bridgehead>
+    <para>(gemachtigde: [de persoon 1] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser 3] , te Amsterdam, </bridgehead>
+    <para>(gemachtigde: mr. S.I. Eskens),</para>
+    <para />
+    <para />
+    <parablock>
+      <para>hierna tezamen te noemen: eisers,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders, gemeente Amsterdam Zuidoost, </emphasis>verweerder</para>
+      <para>(gemachtigde: mr. H.D. Hosper).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: [de persoon 2] , te Baarn, </para>
+      <para>(gemachtigde: [de persoon 3] ),</para>
+      <para>
+        <?linebreak?>hierna te noemen: [de persoon 2] .</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met het besluit van 9 maart 2018 (het primaire besluit) heeft verweerder de aanvraag om een omzettingsvergunning voor het [adres] te Amsterdam afgewezen.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 29 juni 2018 heeft verweerder het bezwaar van [de persoon 2] gegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 22 november 2018 (bestreden besluit I) heeft verweerder het primaire besluit herroepen en [de persoon 2] een vergunning verleend voor het omzetten van één zelfstandige woonruimte naar tien onzelfstandige woonruimten. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 26 juni 2019 (bestreden besluit II) heeft verweerder het bestreden besluit ingetrokken, het primaire besluit herroepen en [de persoon 2] een vergunning verleend voor het omzetten van één zelfstandige woonruimte naar acht onzelfstandige woonruimten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben elk afzonderlijk tegen het bestreden besluit I beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 8 januari 2020. Eisers zijn verschenen, bijgestaan door hun gemachtigden. Voor [eiser 2] is tevens mr. A. van der Veldt verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. De derde-partij heeft zich laten vertegenwoordigen door zijn gemachtigde en [de persoon 4] . </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Vooraf</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>
+        [de persoon 2] heeft op 12 januari 2018 een aanvraag voor een omzettingsvergunning bij verweerder ingediend voor [adres] te Amsterdam (de woning). De omzettingsvergunning is gericht op het omzetten van één zelfstandige woonruimte naar tien onzelfstandige woonruimten. Met het primaire besluit heeft verweerder deze aanvraag afgewezen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Verweerder heeft in navolging van het advies van de bezwaarschriftencommissie het tegen het primaire besluit gemaakte bezwaar van [de persoon 2] gegrond verklaard. Met het bestreden besluit I heeft verweerder het primaire besluit herroepen en [de persoon 2] een vergunning verleend voor het omzetten van één zelfstandige woonruimte naar tien onzelfstandige woonruimten. Eisers hebben hiertegen beroep ingesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Omdat gebleken is dat het niet om tien maar om acht onzelfstandige woonruimten gaat, heeft verweerder met het bestreden besluit II bestreden besluit I ingetrokken, het primaire besluit herroepen en aan [de persoon 2] een vergunning verleend voor acht onzelfstandige woonruimten. De beroepen van eisers richten zich mede tegen het bestreden besluit II, omdat dit besluit niet tegemoet komt aan eisers.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <parablock>
+        <para>Niet gebleken is dat eisers nog procesbelang hebben bij een beoordeling van hun beroep tegen bestreden besluit I. De beroepen tegen bestreden besluit I zijn daarom niet-ontvankelijk. De rechtbank ziet aanleiding verweerder te veroordelen in de proceskosten van eisers, ter grootte van één punt (voor het indienen van het beroepschrift) met een waarde per punt van € 525,- en een wegingsfactor 1, voor elke eiser afzonderlijk.</para>
+        <para>
+          <?linebreak?>
+        </para>
+        <para>
+          <emphasis role="italic">Standpunt eisers</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Eisers voeren aan dat de omzetting van de zelfstandige woning naar acht onzelfstandige woonruimten een negatief effect heeft op de sociale cohesie en leefbaarheid van de buurt. Gelet op artikel 3.3.1 van de Huisvestingsverordening 2016 mocht van verweerder verwacht worden dat hij het belang van het behoud van de zelfstandige woonruimte, en met name het effect van de omzetting op de leefbaarheid, zou betrekken bij zijn oordeelsvorming. Uit de door verweerder gegeven motivering blijkt niet dat deze aspecten op een deugdelijke manier bij de besluitvorming zijn betrokken, aldus eisers. De voorwaarden die verweerder hanteert in paragraaf 2.3.2 van de Beleidsregel wijzigen van de woonruimtevoorraad (de Beleidsregel) zien volgens eisers niet op de mate van leefbaarheid van de buurt. Eisers menen dat de leefbaarheidstoets die ten grondslag ligt aan de weigering van de omgevingsvergunning ook in het kader van de omzettingsvergunning had moeten worden toegepast. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Daarnaast stellen eisers dat geen akoestisch rapport is overgelegd, en dat niet is voldaan aan de eisen van geluidsisolatie die in de Beleidsregel worden gesteld. Ook is niet gebleken dat de onzelfstandige woonruimten worden beheerd door een instelling die zich krachtens haar statuten richt op de verhuur en het beheer van onzelfstandige woonruimten en als zodanig staat ingeschreven in de Kamer van Koophandel. Verweerder heeft verder niet inzichtelijk gemaakt of het percentage zelfstandige woningen met vijf of meer kamers minimaal gelijk is aan het stedelijk percentage zelfstandige woningen met vijf of meer kamers. Eisers wijzen ook op de volgens hen te kleine oppervlakte van de onzelfstandige woonruimten. Hierdoor wordt niet voldaan aan het beleid van verweerder waaruit volgt dat de oppervlakte van een onzelfstandige woonruimte minimaal 12 m2 moet zijn. Eisers stellen dat door de kleine oppervlakte van de onzelfstandige woonruimten de bewoners meer tijd buitenshuis zullen spenderen, wat zal resulteren in overlast voor de omwonenden. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Standpunt verweerder </emphasis>
+        </para>
+        <para>
+          <?linebreak?>3.	Volgens verweerder is het beoordelen van de leefbaarheid verdisconteerd in de Beleidsregel, waardoor aan het verlenen van de vergunning wel een belangenafweging vooraf is gegaan. Daarnaast voert verweerder aan dat wordt voldaan aan de voorwaarden die volgen uit de Beleidsregel. Minder dan 25% van het totaal aantal woningen is namelijk omgezet in woningen met vijf of meer onzelfstandige woonruimten en het percentage grotere woningen in stadsdeel Zuidoost is hoger dan het stedelijk gemiddelde. Ook is een akoestisch rapport overgelegd bij de aanvraag waaruit blijkt dat de woning aan de geluidseisen uit de Beleidsregel voldoet. Verder wijst verweerder erop dat de oppervlakte-eis van 12 m2 ziet op woningvorming, en niet op de omzetting naar onzelfstandige woonruimten. Ter zitting heeft verweerder verduidelijkt dat indien overlast wordt ervaren een handhavingstraject kan worden gestart, maar dat bij verweerder vooralsnog geen overlastsignalen bekend zijn.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Toetsingskader</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Het wettelijk kader is opgenomen in de bijlage.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Uit artikel 21 van de Huisvestingswet, gelezen in samenhang met artikel 3.3.1 van de Huisvestingsverordening 2016, volgt dat een omzettingsvergunning kan worden geweigerd als naar het oordeel van verweerder de omzetting een negatief effect heeft op de leefbaarheid, en als dit niet voldoende kan worden ondervangen door het verbinden van voorwaarden dan wel voorschriften aan de vergunning. In het beleid van verweerder is deze onverplichte weigeringsgrond nader ingevuld in die zin dat daarin is bepaald dat een omzettingsvergunning alleen mag worden geweigerd als het belang van de leefbaarheid groter is dan het belang van de aanvrager en dit belang niet door het stellen van voorwaarden of voorschriften kan worden gediend.</para>
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Uit paragraaf 2.3.2 van de Beleidsregel blijkt dat verweerder een vergunning voor het omzetten van een woning onder de volgende voorwaarden verstrekt. Een vergunning voor het omzetten van een zelfstandige woning naar vijf of meer onzelfstandige woonruimten wordt in beginsel verstrekt, als de woning – samengevat weergegeven – over een voldoende ruime gemeenschappelijke woonkamer beschikt, als aan de eisen van geluidsisolatie wordt voldaan, de te realiseren onzelfstandige woonruimten worden beheerd door een instelling die zich richt op de verhuur en beheer van onzelfstandige woonruimten, in één bouwblok slechts maximaal 25% van het totaal aantal woningen wordt omgezet in woningen met vijf of meer onzelfstandige woonruimten en het percentage zelfstandige woningen met vijf of meer kamers minimaal gelijk is aan het stedelijk percentage zelfstandige woningen met vijf of meer kamers. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Inhoudelijke beoordeling</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. Gelet op de beroepsgronden van eisers zal de rechtbank allereerst de vraag beantwoorden of het beleid van verweerder bij het beoordelen van een vergunningsaanvraag voor het omzetten van een zelfstandige woning naar vijf of meer onzelfstandige woonruimten als redelijk kan worden aangemerkt. </para>
+      <para> <?linebreak?></para>
+      <para>6. Verweerder heeft zich bij het opstellen van de voorwaarden waaronder de vergunning wordt verleend rekenschap gegeven van de verschillende aspecten die ‘verkamering’ met zich mee kan brengen voor de leefbaarheid van een buurt. Er dient een gemeenschappelijke ruimte te zijn van een bepaalde omvang, er zijn beperkingen gesteld aan de geluidsoverdracht en de onzelfstandige woonruimten dienen te worden beheerd door een instelling die zich daar speciaal op richt. Verder is er een grens gesteld aan het aantal zelfstandige woningen dat mag worden omgezet naar vijf of meer onzelfstandige woonruimten, zowel in het bouwblok als in totaal in het stadsdeel. De rechtbank is van oordeel dat verweerder door deze aspecten bij het beleid te betrekken en de beperkingen en grenzen die daarbij zijn gesteld, redelijk beleid heeft opgesteld.</para>
+      <para />
+      <para>7. De rechtbank is voorts van oordeel dat verweerder zijn beleid juist heeft toegepast. Eisers stellen weliswaar dat dat niet het geval is, maar die stelling treft geen doel, nu uit stukken overgelegd door [de persoon 2] en verweerder blijkt dat deze voorwaarden wél zijn vervuld en eisers geen stukken hebben overgelegd waaruit het tegendeel blijkt. </para>
+      <para />
+      <para>8. Eisers stellen onder verwijzing naar een uitspraak van deze rechtbank van 1 november 2019<footnote-ref linkend="_cbd3f7af-4729-4ad8-bc17-c38b33928708" /> dat verweerder ten onrechte geen individuele, op de concrete omstandigheden toegespitste toets aan de leefbaarheid heeft uitgevoerd. De rechtbank volgt eisers hierin niet. Verweerder heeft immers getoetst of de concreet voorliggende situatie, de woning aan [adres] , aan de in het beleid gestelde voorwaarden voldoet.<?linebreak?></para>
+      <para />
+      <para>9. Voor zover eisers een beroep doen op de inherente afwijkingsbevoegdheid overweegt de rechtbank als volgt. Artikel 4:84 van de Algemene wet bestuursrecht houdt in dat verweerder dient te beoordelen of de gevolgen van de woningomzetting voor eisers wegens bijzondere omstandigheden onevenredig zijn in verhouding tot het doel van de omzetting. Gelet op de uitspraak van de Afdeling Bestuursrechtspraak van de Raad van State van 26 oktober 2016,<footnote-ref linkend="_00ffad22-f6ef-4d9c-be8e-b928b4c6f086" />  kan verweerder de omstandigheden die bij het opstellen van de beleidsregel verdisconteerd zijn daarbij niet reeds om die reden buiten beschouwing laten. Het ligt echter op de weg van eisers om aannemelijk te maken dat de door verweerder in zijn beleid betrokken omstandigheden tezamen met andere omstandigheden moeten worden aangemerkt als bijzondere omstandigheden. Eisers zijn daar niet in geslaagd. Eisers vrezen vooral het effect op de leefbaarheid van de buurt vanwege overlast van de bewoners van de onzelfstandige woonruimten. Daarnaast vrezen ze de gevolgen voor de sociale cohesie van de buurt omdat deze bewoners er waarschijnlijk maar kort zullen wonen. Naar het oordeel van de rechtbank zijn dit geen omstandigheden die samen met de door verweerder in zijn beleid betrokken omstandigheden zo bijzonder zijn dat verweerder moet afwijken van zijn beleid.</para>
+      <para />
+      <para>10. Eisers stellen dat de leefbaarheidstoets die geleid heeft tot weigering van de omgevingsvergunning ook tot weigering van de omzettingsvergunning moet leiden. De rechtbank wijst erop dat voor het beoordelen van een aanvraag voor een omgevingsvergunning een ander toetsingskader geldt dan voor de beoordeling van een aanvraag voor een omzettingsvergunning. De leefbaarheidstoets die wordt uitgevoerd in het kader van de omgevingsvergunning wordt namelijk uitgevoerd om te bepalen of een afwijking van het bestemmingsplan gerechtvaardigd is. Dat deze leefbaarheidstoets één op één zou moeten worden toegepast in de beoordeling van de omzettingsvergunning en dan tot een weigering zou moeten leiden, volgt de rechtbank dan ook niet.  </para>
+      <para />
+      <para>11. Verder is de rechtbank van oordeel dat de gehanteerde oppervlaktes van de onzelfstandige ruimten niet strijdig zijn met het beleid van verweerder. Ter zitting heeft verweerder verduidelijkt dat slechts in het geval van woningvorming minimumeisen worden gesteld aan de oppervlakte van een te creëren woning en dat deze eisen niet gelden wanneer een zelfstandige woning wordt omgezet in onzelfstandige woonruimten. </para>
+      <para />
+      <para>12. Tot slot merkt de rechtbank op dat het beoordelen van eventueel ervaren overlast omdat de vergunningsvoorschriften worden overtreden buiten de omvang van dit geschil ligt. Als eisers overlast ervaren, kunnen zij dit aan verweerder kenbaar maken door een handhavingsverzoek in te dienen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. De beroepsgronden slagen niet. De beroepen zijn ongegrond. Voor een verdergaande  proceskostenveroordeling dan in 1.4 is opgenomen of vergoeding van het griffierecht bestaat geen aanleiding. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart de beroepen:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>gericht tegen bestreden besluit I niet-ontvankelijk;</para>
+      </listitem>
+      <listitem>
+        <para>gericht tegen bestreden besluit II ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eisers tot een bedrag van € 525,- voor elke eiser afzonderlijk.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.B. Kleiss, rechter, in aanwezigheid van mr.L. Stoelinga, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 11 februari 2020. <?linebreak?></para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <para />
+    <para>
+      <emphasis role="bold">Bijlage met wettelijk kader</emphasis>
+    </para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Algemene wet bestuursrecht</title>
+    <para />
+    <parablock>
+      <para>Artikel 4:84</para>
+      <para>Het bestuursorgaan handelt overeenkomstig de beleidsregel, tenzij dat voor een of meer belanghebbenden gevolgen zou hebben die wegens bijzondere omstandigheden onevenredig zijn in verhouding met de tot de beleidsregel te dienen doelen. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Huisvestingswet 2014</title>
+    <para />
+    <parablock>
+      <para>Artikel 21</para>
+      <para>Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad door de gemeenteraad in de huisvestingsverordening aangewezen categorie gebouwen en die gelegen is in een in de huisvestingsverordening aangewezen wijk, zonder vergunning van burgemeester en wethouders:</para>
+    </parablock>
+    <para>a. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar aan de bestemming tot bewoning te onttrekken of onttrokken te houden;</para>
+    <para>b. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar met andere woonruimte samen te voegen of samengevoegd te houden;</para>
+    <para>c. van zelfstandige in onzelfstandige woonruimte om te zetten of omgezet te houden;</para>
+    <para>d. tot twee of meer woonruimten te verbouwen of in die verbouwde staat te houden.</para>
+    <para />
+  </section>
+  <section>
+    <title>Huisvestingsverordening 2016</title>
+    <para />
+    <parablock>
+      <para>Artikel 3.3.1 Weigeringsgronden</para>
+    </parablock>
+    <para>1. Een vergunning als bedoeld in artikel 21 van de wet kan worden geweigerd in het geval:</para>
+    <para>a. naar het oordeel van burgemeester en wethouders het belang van behoud of samenstelling van de woonruimtevoorraad groter is dan het met de onttrekking, samenvoeging, omzetting of woningvorming gediende belang;</para>
+    <para>b. naar het oordeel van burgemeester en wethouders de onttrekking, samenvoeging, omzetting of woningvorming een negatief effect heeft op de leefbaarheid.</para>
+    <para>c. het onder a genoemde belang van behoud en samenstelling dan wel het in b genoemde negatieve effect op de leefbaarheid niet voldoende kan worden gediend door het stellen van voorwaarden dan wel voorschriften aan de vergunning.</para>
+    <para>d. en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur niet wordt voldaan aan het bepaalde in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.</para>
+    <para>2. Burgemeester en wethouders kunnen nadere regels stellen met betrekking tot het eerste lid van dit artikel.</para>
+    <para />
+  </section>
+  <section>
+    <title>Beleidsregel wijzigen van de woonruimtevoorraad </title>
+    <para />
+    <parablock>
+      <para>2.3.2 Omzetten naar 5 of meer onzelfstandige woonruimten</para>
+      <para>Naarmate het aantal onzelfstandige woonruimten toeneemt, neemt ook het verschil met reguliere bewoning door een huishouden toe. Dit leidt tot een groter negatief effect op de leefbaarheid. Daarnaast gaat het omzetten naar 5 of meer onzelfstandige woonruimten ten koste van de in sommige delen van Amsterdam, beperkte voorraad grote woningen. Voor het omzetten naar 5 of meer onzelfstandige woonruimten gelden daarom aanvullende voorwaarden om het belang van de voorraad en de leefbaarheid te dienen. Een vergunning voor het omzetten naar 5 of meer onzelfstandige woonruimten wordt verleend onder de volgende voorwaarden:<?linebreak?></para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>De woning beschikt over een gemeenschappelijke verblijfsruimte van tenminste 11m2 met een minimale breedte van 3m (Bouwbesluit Art 4.3, vierde lid).</para>
+      </listitem>
+      <listitem>
+        <para>Het geluidsniveau tussen de om te zetten woning en de omliggende woningen heeft een luchtgeluidisolatie (Ilu;k) en een contactgeluidisolatie (Ico) die maximaal 5 dB minder is dan de waarde voor nieuwbouw woningen, deze eis is dan een vergelijkbare eis met die voor logiesfuncties. De eis voor nieuwbouw woningen volgens het Bouwbesluit 2012 afdeling 3.4, art. 3.16 en 3.17, bedraagt: Ilu;k van 0 dB (DnT,A,k &gt; 52 dB) en de Ico + 5 dB (LnT,A &lt; 54 dB).<?linebreak?>Vanwege Europese normering hebben deze geluidwaarden van het Bouwbesluit een andere grootheid gekregen. Een Ilu;k van -5 dB komt overeen met de Bouwbesluit norm van DnT,A,k &gt; 47 dB en een Ico van 0 dB met LnT,A &lt; 59 dB.</para>
+      </listitem>
+      <listitem>
+        <para>De gestelde geluidseisen hebben betrekking op de isolerende werking van de woningscheidende constructie. De gekozen vloerbedekking mag de geluidsisolatie niet verslechteren.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Aanvullende voorwaarden:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>De te realiseren onzelfstandige woonruimtes worden beheerd door een instelling die zich krachtens haar statuten richt op de verhuur en het beheer van onzelfstandige woonruimte (bijv. voor jongeren, studenten, of huishoudens met een specifieke zorgbehoefte). De instelling is tevens als zodanig ingeschreven bij de Kamer van Koophandel.</para>
+      </listitem>
+      <listitem>
+        <para>Van het totaal aantal woningen dat door eenzelfde trappenhuis of galerij wordt ontsloten, of onderdeel uit maakt van hetzelfde bouwblok bij eengezinswoningen, kan maximaal 25% van het totaal aantal woningen worden omgezet in woningen met 5 of meer onzelfstandige woonruimten. Wordt een woning door meerdere trappenhuizen ontsloten, dan geldt een maximum van 25% van het totaal aantal woningen per verdieping.<footnote-ref linkend="_ba4ce2d2-42b5-4e59-81e2-03efe9b7d9fc" /></para>
+      </listitem>
+    </itemizedlist>
+    <para> Het percentage woningen met 5 of meer kamers is, in het stadsdeel waar de om te zetten woning zich bevindt, hoger dan of gelijk aan het stedelijk gemiddelde (op basis van het meest recente onderzoek Wonen in Amsterdam, zie www.amsterdam.nl/wia).</para>
+    <para />
+    <para />
+  </section>
+  <footnote id="_cbd3f7af-4729-4ad8-bc17-c38b33928708" label="1">
+    <para> Vindplaats: ECLI:NL:RBAMS:2019:8786. </para>
+  </footnote>
+  <footnote id="_00ffad22-f6ef-4d9c-be8e-b928b4c6f086" label="2">
+    <para> Vindplaats: ECLI:NL:RVS:2016:2840. </para>
+  </footnote>
+  <footnote id="_ba4ce2d2-42b5-4e59-81e2-03efe9b7d9fc" label="3">
+    <para> Voor wooncomplexen waarop de gegeven omschrijving niet van toepassing is, omdat sprake is van een afwijkende ontsluitingssystematiek, interne indeling of complexplattegrond, maakt het Dagelijks Bestuur een individuele afweging, waarbij de uitgangspunten van bovenstaande regeling zoveel mogelijk analoog worden toegepast.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

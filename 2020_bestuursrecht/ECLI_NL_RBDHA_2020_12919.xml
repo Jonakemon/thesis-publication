@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12919</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-17T15:10:48</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-12</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/3995 en 20/448</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12919">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12919</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-17T15:09:30</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12919 Rechtbank Den Haag , 12-11-2020 / 20/3995 en 20/448</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12919:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Artikel 64 van de Vw - De rechtbank is met verweerder van oordeel dat de BMA-adviezen voldoende inzichtelijk en concludent zijn en dat eiser geen concrete aanknopingspunten heeft aangedragen voor twijfel aan de juistheid of volledigheid ervan. De rechtbank volgt verweerder ook in zijn standpunt dat eiser niet aannemelijk heeft gemaakt dat de noodzakelijke behandeling voor hem persoonlijk niet toegankelijk is. Verweerder heeft verder de gevolgen van de uitzetting op de gezondheidstoestand van eiser deugdelijk onderzocht. Ten aanzien van de fysieke overdracht is door verweerder aan de vergewisplicht voldaan. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12919:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers:	AWB 20/3995 (beroep)</para>
+      <para>		AWB 20/448   (voorlopige voorziening)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [V-nummer]
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer voor vreemdelingenzaken en de voorzieningenrechter in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser] ,</bridgehead>
+    <parablock>
+      <para>geboren op [geboortedatum] 1973, van Surinaamse nationaliteit, eiser en verzoeker, (eiser)</para>
+      <para>(gemachtigde: mr. W. Hoebba),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de staatssecretaris van Justitie en Veiligheid, verweerder</para>
+      <para>(gemachtigde: mr. H. Chamkh). </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 januari 2020 (het primaire besluit) heeft verweerder de aanvraag van eiser van 4 september 2019 om toepassing van artikel 64 van de Vreemdelingenwet 2000 (Vw) afgewezen. Op 17 januari 2020 heeft eiser hiertegen bezwaar ingesteld en de rechtbank verzocht om een voorlopige voorziening te treffen die ertoe strekt uitzetting te verbieden totdat op het bezwaar is beslist.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het bezwaar is bij besluit van 12 mei 2020 (het bestreden besluit) ongegrond verklaard. Op dezelfde dag heeft de rechtbank het beroepschrift van eiser ontvangen. Het verzoek om een voorlopige voorziening wordt, gelet op artikel 8:81, vijfde lid, van de Algemene wet bestuursrecht (Awb), gelijkgesteld met een verzoek gedaan hangende het beroep bij de rechtbank. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op zitting heeft plaatsgevonden op 2 oktober 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder is vertegenwoordigd door zijn voornoemde gemachtigde. Ook was op zitting aanwezig [naam] , de schoonzus van eiser. De rechtbank/voorzieningenrechter (rechtbank) heeft het onderzoek op zitting gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Ten aanzien van de griffierechten</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. 	Eiser heeft de rechtbank verzocht om vrijstelling van de betaling van het griffierecht wegens betalingsonmacht. Het verzoek wordt toegewezen op grond van de door eiser verstrekte gegevens over zijn inkomsten en vermogen. Eiser hoeft dan ook in beide procedures geen griffierecht te betalen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Ten aanzien van het beroep</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Naar aanleiding van de aanvraag van eiser om toepassing van artikel 64 van de Vw heeft het Bureau Medische Advisering (BMA) op 31 oktober 2019 een medisch advies uitgebracht. Uit dit BMA-advies blijkt dat eiser bekend is met psychotische klachten als hij zijn medicatie niet goed gebruikt. Eiser heeft moeite met instructies en deze moeten een aantal maal worden herhaald voordat hij het begrijpt. Mogelijk is eiser ook schizofreen. Eiser staat onder behandeling van een psychiater. De behandeling bestaat uit psychofarmaca en medicatiecontrole. Eiser is aangemeld bij het FACT-team voor controle van adequate medicatie inname en/of het toedienen van medicatie. Verder blijkt uit het BMA-advies dat mantelzorg voor eiser essentieel is voor het welslagen van de medische behandeling, aangezien hij met zijn verstandelijk beperking niet in staat is om geheel zelfstandig voor zichzelf te zorgen. Uit het BMA-advies volgt verder dat eiser in staat is om te reizen, mits er een fysieke overdracht aan een psychiater plaatsvindt. Ook zijn er aanwijzingen dat enige medische voorziening noodzakelijk is, in de vorm van reisbegeleiding door een psychiatrisch verpleegkundige. Bij het uitblijven van een medische behandeling wordt door het BMA een medische noodsituatie verwacht op korte termijn, aangezien de psychotische klachten zullen toenemen en hij dan een gevaar voor zichzelf of voor anderen kan vormen. Tot slot stelt het BMA dat de benodigde behandeling, waaronder de benodigde medicatie, therapie bij een psychiater en professionele zorg aan huis of een andere vorm van professionele zorg, in Suriname aanwezig is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Naar aanleiding van het BMA-advies is eiser in de gelegenheid gesteld om aannemelijk te maken dat de door het BMA in Suriname genoemde zorg voor hem ontoegankelijk is. Eiser heeft e-mails van het Libi Makandra zorgcentrum van </para>
+        <para>12 september 2019 en van Quality Care Thuiszorg van 13 november 2019 overgelegd waaruit zou volgen dat de medische behandeling niet beschikbaar is. Vervolgens heeft het BMA op 9 januari 2020 een aanvullend advies uitgebracht. In dit BMA-advies is opgenomen dat thuiszorg door een algemeen verpleegkundige mogelijk is voor een psychiatrische patiënt door Quality ‘Thuiszorgbureau’. Zij hebben een intakeprocedure en soms wordt een agressieve patiënt uitgesloten van dergelijke zorg. Ook is hierop aangevuld dat thuiszorg ook wordt geboden door ZON Thuiszorg en dat zij een intakeprocedure hebben zonder verdere bijzonderheden. Eiser is met medicatie redelijk stabiel en agressiviteit zal met name optreden wanneer hij zijn medicatie niet inneemt en decompenseert. Als dat niet anders is af te wenden, zal (gedwongen) opname aan de orde zijn. Tot slot volgt uit het BMA-advies dat het Libi Makandra zorgcentrum zorgt voor begeleid wonen en dat zij meer geïnstitutionaliseerd zijn. Zij laten psychiatrische patiënten toe en de zorg wordt gedaan door een psychiatrisch verpleegkundige. Ook is bij dit zorgcentrum een psychiater verbonden als consultant. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3.	Verweerder heeft zich onder verwijzing naar de BMA-adviezen op het standpunt gesteld dat eiser niet in aanmerking komt voor uitstel van vertrek op grond van artikel 64 van de Vw. Door het BMA is voldoende aangetoond dat de voor eiser noodzakelijke behandeling in Suriname aanwezig is. Eiser heeft niet aangetoond dat de BMA-adviezen niet voldoen aan de daaraan te stellen eisen en ook zijn door eiser geen stukken overgelegd waaruit blijkt dat getwijfeld moet worden aan de conclusies in de adviezen. De overgelegde verklaringen van de twee zorginstellingen zijn voorgelegd aan het BMA en zijn betrokken bij het aanvullend BMA-advies van 9 januari 2020. Eiser heeft geen actuele informatie overgelegd om dit advies te bestrijden. Ook is niet gebleken dat sprake is van een verslechtering van de medische situatie. In de BMA-adviezen is al rekening gehouden met de omstandigheid dat eiser behandeling zal krijgen van het FACT-team. Verder heeft eiser niet aannemelijk gemaakt dat hij persoonlijk geen toegang zal krijgen tot de in het BMA-advies genoemde benodigde behandelingen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Beoordeling rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Eiser stelt zich op het standpunt dat hij met de nodige bewijsstukken heeft aangetoond dat er concrete aanknopingspunten zijn om aan de juistheid of volledigheid van het BMA-advies te twijfelen. Eiser heeft twee verklaringen overgelegd van de door het BMA aangewezen instanties (Libi Makandra en Quality Care Thuiszorg) waarin volgens hem wordt bevestigd dat zij eiser niet de vereiste zorg, steun en begeleiding kunnen bieden. In beroep overlegt eiser informatie dat ziet op ZON Thuiszorg, waaruit volgens hem blijkt dat ook deze organisatie geen zorg zal kunnen bieden aan hem. Ook is door eiser een verklaring van zijn behandelaar in Nederland overgelegd waaruit blijkt dat bij eiser sprake is van een recidief psychose en dat hij nog steeds intensieve behandeling ondergaat. Eiser is meermalen opgenomen geweest en er is ambulante behandeling in gang gezet. Eiser stelt verder dat het BMA er ten onrechte van uitgaat dat eiser het middel Haloperidol gebruikt. Eisers behandelaars schrijven Olanzapine voor. Het BMA had moeten onderzoeken of dit middel in Suriname beschikbaar is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Volgens vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (Afdeling), zie bijvoorbeeld de uitspraak van 23 februari 2016<footnote-ref linkend="_38788b2b-8268-4654-a9a0-0ed51beb0cf4" />, moet verweerder, als hij een BMA-advies aan zijn besluitvorming ten grondslag legt, zich ingevolge artikel 3:2 van de Awb ervan vergewissen dat dit naar wijze van totstandkoming zorgvuldig en naar inhoud inzichtelijk en concludent is. Als aan deze eisen is voldaan, mag verweerder bij de beoordeling van een aanvraag van een zodanig advies uitgaan, tenzij concrete aanknopingspunten aanwezig zijn voor twijfel aan de juistheid of volledigheid.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De rechtbank is met verweerder van oordeel dat de BMA-adviezen voldoende inzichtelijk en concludent zijn en dat eiser geen concrete aanknopingspunten heeft aangedragen voor twijfel aan de juistheid of volledigheid ervan. De rechtbank acht hierbij van belang dat de e-mails van Libi Makandra en Quality Care Thuiszorg reeds zijn betrokken bij het aanvullende BMA-advies van 9 januari 2020. Eiser heeft geen nieuwe stukken overgelegd van deze instellingen waaruit concrete aanknopingspunten blijken voor twijfel aan de juistheid of volledigheid van dit aanvullende advies. Daarbij behoeven de e-mails van deze instellingen naar het oordeel van de rechtbank enige nuancering, nu deze zijn opgesteld op basis van door de schoonzus van eiser geformuleerde vragen en geboden informatie. De rechtbank overweegt verder dat het antwoord op vraag twee in de e-mail van Quality Care Thuiszorg, waarin wordt aangegeven dat zij niet gespecialiseerd zijn in begeleiding van mensen met ernstige psychiatrische problematiek, niet wegneemt dat zij als antwoord op vraag drie expliciet hebben verklaard zorg te kunnen bieden aan psychiatrische patiënten. In de door eiser in beroep overgelegde stukken ten aanzien van ZON Thuiszorg ziet de rechtbank ook geen concrete aanknopingspunten voor twijfel aan de juistheid of volledigheid van de BMA-adviezen. Uit het uitblijven van een reactie op de e-mails van eisers schoonzus, kan niet worden afgeleid dat ZON Thuiszorg de door het BMA genoemde zorg niet kan bieden. Eisers stelling dat de directeur heeft aangegeven geen zorg te bieden aan psychiatrische patiënten zoals eiser, is niet onderbouwd terwijl op de website van ZON Thuiszorg staat dat zij wel psychiatrische zorg leveren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Verder blijkt naar het oordeel van de rechtbank uit de verklaring van eisers psychiater van 4 maart 2020 niet dat sprake is van een verslechtering van eisers medische situatie. Dat sprake is van recidief psychose en eiser hiervoor behandeling ontvangt, is al betrokken in de BMA-adviezen. Verder heeft het BMA, in tegenstelling tot wat eiser stelt, wel degelijk onderzocht of het middel Olanzapine in Suriname beschikbaar is. Uit brondocument 11795 blijkt dat dit middel beschikbaar is in het Academisch Ziekenhuis Paramaribo en het Diakonessenhuis. Eisers stelling op zitting dat het een feit van algemene bekendheid is dat de beschikbaarheid van medicatie in Suriname slechts een momentopname betreft en dat dit niets zegt over de langdurige beschikbaarheid hiervan, heeft eiser verder niet onderbouwd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Eiser voert ook aan dat hij in Suriname geen vaste verblijfplaats heeft en ook geen steunnetwerk, waardoor hem een zwervend bestaan te wachten staat. Hierdoor zal hij de benodigde thuiszorg/mantelzorg niet kunnen krijgen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>De rechtbank volgt verweerder in zijn standpunt dat eiser niet aannemelijk heeft gemaakt dat de noodzakelijke behandeling voor hem persoonlijk niet toegankelijk is. Zoals de Afdeling heeft overwogen, onder meer in de uitspraak van 28 september 2017<footnote-ref linkend="_c85b9128-deab-42be-9785-8e8a1ec057b3" /> volgt uit punt 186 van het arrest Paposhvili<footnote-ref linkend="_dbe6338f-b826-40c7-beb4-a75f5ba1ba6d" /> dat in eerste instantie de bewijslast (to adduce evidence capable of demonstrating) op de vreemdeling rust. De rechtbank is in dit verband van oordeel dat eiser de drempel van de bewijslast niet heeft gehaald omdat hij geen onderbouwd inzicht heeft gegeven in zijn financiële situatie en netwerk in Suriname. Eiser heeft zijn stellingen, dat hij geen vaste verblijfplaats in Suriname zal kunnen krijgen en geen steunnetwerk heeft, op geen enkele wijze onderbouwd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Eiser voert verder aan dat verweerder volgens vaste rechtspraak<footnote-ref linkend="_dd31674d-4271-47e7-802f-da35b97ec896" /> ook moet beoordelen of de feitelijke uitzetting van een vreemdeling kan leiden tot een reëel risico op een schending van artikel 3 van het EVRM<footnote-ref linkend="_d948ed6c-1f54-4e7a-a85b-40972df1cb6b" /> en welke reisvereisten in dit kader moeten worden gesteld. Op basis van eisers omstandigheden had het BMA nadere en concrete reisvereisten moeten vaststellen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Ten aanzien van eisers standpunt dat met alle omstandigheden in aanmerking genomen, onderzocht had moeten worden of de feitelijke uitzetting zal leiden tot een reëel risico op een schending van artikel 3 van het EVRM, overweegt de rechtbank als volgt. Uit de uitspraak van de Afdeling van 27 december 2018<footnote-ref linkend="_2992b229-1e7d-4744-85fa-894fb8b9a83a" />, volgt dat de beoordeling van de vraag of de feitelijke uitzetting leidt tot een schending van artikel 3 van het EVRM, moet plaatsvinden in het kader van de reisvereisten. Verweerder heeft zijn besluit gebaseerd op het BMA-advies van 31 oktober 2019. Volgens dit advies is eiser in staat om te reizen. Daarbij heeft het BMA als reisvereisten gesteld dat eiser tijdens de reis wordt begeleid door een psychiatrisch verpleegkundige en dat hij na de reis fysiek wordt overgedragen aan een psychiater. Ook heeft het BMA aanbevolen om een schriftelijke overdracht van de medische gegevens mee te nemen, de medicatie te continueren tijdens de reis en voldoende medicatie mee te nemen om de reis te overbruggen. Verweerder heeft hiermee, anders dan eiser stelt, de gevolgen van de uitzetting op de gezondheidstoestand van eiser deugdelijk onderzocht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Eiser voert ook aan dat het onduidelijk is of de in het BMA-advies gestelde voorwaarden van fysieke overdracht uitgevoerd kunnen worden. Volgens eiser is er in dit kader een gebrek aan garanties. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>De rechtbank overweegt in dit kader als volgt. Het is vaste jurisprudentie van de Afdeling<footnote-ref linkend="_c2d46699-003d-47e9-b508-54a46a1c44de" /> dat verweerder aan de vergewisplicht heeft voldaan wanneer concreet een naam van een behandelaar dan wel een instelling is genoemd in het onderliggende besluit, en de toezegging is gedaan dat als de fysieke overdracht niet kan worden gerealiseerd, de uitzetting van de vreemdeling geen doorgang zal vinden. Volgens de Afdeling strekt de vergewisplicht echter niet zo ver dat de fysieke overdracht al ten tijde van de totstandkoming van het besluit, voor zover deze feitelijk al mogelijk zou zijn, geregeld en gegarandeerd moet zijn. De rechtbank is van oordeel dat verweerder aan zijn vergewisplicht heeft voldaan. Verweerder heeft in het bestreden besluit opgenomen dat medische overdracht wordt geregeld door de Dienst Terugkeer &amp; Vertrek (DT&amp;V) en dat als de fysieke overdracht niet geregeld kan worden, eiser niet zal worden uitgezet. Voor de uitzetting zal DT&amp;V contact opnemen met het Psychiatrisch Centrum Suriname en zullen hiermee afspraken worden gemaakt over de datum en wijze waarop de medische behandeling wordt overgedragen. De rechtbank overweegt verder dat eiser niet aannemelijk heeft gemaakt dat fysieke overdracht niet haalbaar is. </para>
+      <para />
+      <para>8. Tot slot slaagt ook de beroepsgrond van eiser dat verweerder zijn hoorplicht heeft geschonden niet. Ingevolge artikel 7:3, aanhef en onder b, van de Awb kan van het horen van belanghebbenden worden afgezien als het bezwaar kennelijk ongegrond is. Van een kennelijk ongegrond bezwaar is sprake wanneer uit het bezwaarschrift zelf al blijkt dat de bezwaren ongegrond zijn en er redelijkerwijs geen twijfel mogelijk is over die conclusie. Gelet op hetgeen eiser in bezwaar heeft aangevoerd, is de rechtbank van oordeel dat verweerder van het horen van eiser heeft kunnen afzien. </para>
+      <para />
+      <para>9. De rechtbank verklaart het beroep ongegrond.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Ten aanzien van het verzoek om een voorlopige voorziening </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>10. De gevraagde voorziening strekt ertoe de uitzetting te verbieden totdat is beslist op het beroep. In dit geval is er geen aanleiding tot het treffen van de gevraagde voorziening, gelet op het feit dat de rechtbank heden op het beroep heeft beslist.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Ten aanzien van het beroep en het verzoek om een voorlopige voorziening</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>11. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank,</para>
+      <para>in de zaak geregistreerd onder nummer: AWB 20/3995,</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep ongegrond.</para>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter,</para>
+      <para>in de zaak geregistreerd onder nummer: AWB 20/448,</para>
+    </parablock>
+    <para />
+    <para>- wijst het verzoek af.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. Y. Moussaoui, rechter, tevens voorzieningenrechter, in aanwezigheid van mr. F. Grundmeijer, griffier. De beslissing is in het openbaar uitgesproken op </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>									 rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen deze uitspraak kunnen partijen binnen vier weken na de dag van verzending daarvan hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. Naast de vereisten waaraan het beroepschrift moet voldoen op grond van artikel 6:5 van de Awb (zoals het overleggen van een afschrift van deze uitspraak) dient het beroepschrift ingevolge artikel 85, eerste lid, van de Vw 2000 een of meer grieven te bevatten. Artikel 6:6 van de Awb (herstel verzuim) is niet van toepassing. Tegen de uitspraak op het verzoek om een voorlopige voorziening staat geen rechtsmiddel open. </para>
+    </parablock>
+  </section>
+  <footnote id="_38788b2b-8268-4654-a9a0-0ed51beb0cf4" label="1">
+    <para> ECLI:NL:RVS:2016:570.</para>
+  </footnote>
+  <footnote id="_c85b9128-deab-42be-9785-8e8a1ec057b3" label="2">
+    <para> ECLI:NL:RVS:2017:2629.</para>
+  </footnote>
+  <footnote id="_dbe6338f-b826-40c7-beb4-a75f5ba1ba6d" label="3">
+    <para> Arrest van het Europees Hof voor de Rechten van de Mens van 13 december 2016, zaaknummer 41738/10.</para>
+  </footnote>
+  <footnote id="_dd31674d-4271-47e7-802f-da35b97ec896" label="4">
+    <para> ECLI:NL:RVS:2018:4314.</para>
+  </footnote>
+  <footnote id="_d948ed6c-1f54-4e7a-a85b-40972df1cb6b" label="5">
+    <para> Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.</para>
+  </footnote>
+  <footnote id="_2992b229-1e7d-4744-85fa-894fb8b9a83a" label="6">
+    <para> ECLI:NL:RVS:2018:4314.</para>
+  </footnote>
+  <footnote id="_c2d46699-003d-47e9-b508-54a46a1c44de" label="7">
+    <para> Zie onder meer de uitspraak van 25 maart 2015, ECLI:NL:RVS:2015:1038.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

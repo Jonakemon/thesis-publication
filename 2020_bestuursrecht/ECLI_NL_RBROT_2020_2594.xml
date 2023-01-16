@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:2594</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-05T10:08:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/2523</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#bodemzaak">Bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RN 2020/75</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2594">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2594</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-15T11:12:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:2594 Rechtbank Rotterdam , 25-03-2020 / ROT 19/2523</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:2594:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wet ter voorkoming van witwassen en financieren van terrorisme - Boete voor notaris omdat hij niet heeft voldaan aan de monitoringsverplichting, geen verscherpt cliëntenonderzoek heeft verricht en heeft verzuimd ongebruikelijke transacties te melden</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:2594:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/2523</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 25 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , eiser ( [eiser] ), </bridgehead>
+    <para>gemachtigde: mr. H.G.A.M. Spoormans,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het Bureau Financieel Toezicht, verweerder (BFT),</bridgehead>
+    <para>gemachtigden: mr. M.F. Beumer en mr. H.O. Nieuwpoort.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 december 2018 (het primaire besluit) heeft het BFT aan [eiser] een bestuurlijke boete van € 36.000,- opgelegd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 april 2019 (het bestreden besluit) heeft het BFT het daartegen door </para>
+      <para>
+        [eiser] gemaakte bezwaar ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit heeft [eiser] beroep ingesteld bij de rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het BFT heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 10 januari 2020. [eiser] is verschenen, bijgestaan door zijn gemachtigde en [naam] , notarisklerk bij [notariskantoor] . Het BFT is ter zitting vertegenwoordigd door haar gemachtigden.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>
+        [eiser] is notaris bij [notariskantoor] . <?linebreak?>Deze besloten vennootschap is opgericht op [datum] , exploiteert een notariskantoor en verricht onder meer diensten bij overdrachten van onroerend goed en het vestigen van hypotheken. Het kantoor heeft vestigingen in [plaatsnamen] .</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <parablock>
+        <para>Naar aanleiding van een ontvangen signaal heeft het BFT een onderzoek ingesteld naar de naleving van de Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft) door [notariskantoor] . Dit signaal zag op de aankoop van en hypotheek-verstrekking voor het pand aan [adres] (een bij een jachthaven behorende bedrijfswoning) op [datum] , waarvoor de leveringsakte en de hypotheekakte zijn gepasseerd bij [notariskantoor] . </para>
+        <para>Op 31 januari 2018 heeft het BFT [notariskantoor] per e-mail van het ontvangen signaal op de hoogte gesteld en het dossier betreffende voormelde aankoop en hypotheek-verstrekking opgevraagd. </para>
+        <para>
+          [notariskantoor] heeft dit dossier op 9 februari 2018 per e-mail met bijlagen naar het BFT gestuurd. Hierna heeft [notariskantoor] op 27 maart 2018 per e-mail nog een aantal vragen van het BFT beantwoord, met als bijlage een taxatierapport betreffende het pand aan [adres] van 19 maart 2018.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Uit het onderzoek is volgens het BFT naar voren gekomen dat [eiser] zowel in het geval van de leveringsakte als de hypotheekakte met betrekking tot het pand aan [adres] niet heeft voldaan aan de monitoringsverplichting van artikel 3, tweede lid, aanhef en onder d, van de Wwft en ten onrechte geen verscherpt cliënten-onderzoek als bedoeld in artikel 8, eerste lid, van deze wet heeft verricht. Daarnaast heeft [eiser] volgens het BFT in beide gevallen verzuimd ongebruikelijke transacties overeenkomstig in artikel 16, eerste lid, van de Wwft (tijdig) te melden aan de Financiële inlichtingen eenheid. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boete voor overtreding van artikelen 3, 8 en 16 van de Wwft</emphasis>
+        </para>
+      </parablock>
+      <para>2. Na op 5 november 2018 het voornemen daartoe aan [eiser] kenbaar te hebben gemaakt en kennis te hebben genomen van de zienswijze van [eiser] daarop, heeft het BFT wegens voormelde overtredingen aan [eiser] bij het primaire besluit een bestuurlijke boete van € 36.000,- opgelegd. Bij het bestreden besluit heeft het BFT het daartegen door [eiser] gemaakte bezwaar ongegrond verklaard. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wet- en regelgeving</emphasis>
+        </para>
+      </parablock>
+      <para>3. Op grond van artikel 3, eerste lid, van de Wwft verricht een instelling ter voorkoming van witwassen en financieren van terrorisme cliëntenonderzoek.</para>
+      <para>Op grond van het tweede lid, aanhef en onder d, van dit artikel stelt het cliëntenonderzoek de instelling in staat om een voortdurende controle op de zakelijke relatie en de tijdens de duur van deze relatie verrichte transacties uit te oefenen, teneinde te verzekeren dat deze overeenkomen met de kennis die de instelling heeft van de cliënt en diens risicoprofiel, met zo nodig een onderzoek naar de bron van de middelen die bij de zakelijke relatie of de transactie gebruikt worden.</para>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 8, eerste lid, van de Wwft verricht een instelling, in aanvulling op artikel 3, tweede tot en met vierde lid, verscherpt cliëntenonderzoek in ten minste de volgende gevallen:</para>
+      </parablock>
+      <para>a. indien de zakelijke relatie of transactie naar haar aard een hoger risico op witwassen of financieren van terrorisme met zich brengt;</para>
+      <para>(…). </para>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 16, eerste lid, van de Wwft meldt een instelling een verrichte of voorgenomen ongebruikelijke transactie onverwijld nadat het ongebruikelijke karakter van de transactie bekend is geworden, aan de Financiële inlichtingen eenheid. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op basis van artikel 15, eerste lid, van de Wwft zijn in het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme (Uitvoeringsbesluit Wwft), zoals dit gold ten tijde van belang, indicatoren vastgesteld aan de hand waarvan wordt beoordeeld of een transactie dient te worden aangemerkt als een ‘ongebruikelijke transactie’. </para>
+        <para>In de bijlage bij het Uitvoeringsbesluit Wwft is de volgende indicator vastgesteld: “een transactie waarbij de instelling aanleiding heeft om te veronderstellen dat deze verband kan houden met witwassen of financieren van terrorisme”. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Als hulpmiddel om te bepalen of hiervan sprake is, heeft het BFT de Specifieke leidraad naleving WWFT voor (kandidaat en toegevoegd) notarissen en overige instellingen genoemd in artikel 1 lid 1 letter a sub 12 en 13 Wwft (Leidraad) opgesteld. </para>
+        <para>In bijlage 1 van de Leidraad van 15 juli 2014 zijn voorbeelden opgenomen waarmee is beoogd instellingen een handreiking te geven hoe zij ongebruikelijke transacties kunnen herkennen. Het betreft onder meer de volgende voorbeelden: </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>D2. Transacties die door hun omvang, aard, frequentie of uitvoering ongebruikelijk zijn.</para>
+        <para>E12. Leningsovereenkomsten zonder zekerheden of tegen afwijkende marktvoorwaarden zonder aanwijsbare redenen.</para>
+        <para>G1. Transacties inzake een registergoed met een financiering door middel van een (hypothecaire) geldlening waarvan het bedrag in aanzienlijke mate (naar boven of beneden) afwijkt van de te betalen tegenprestatie, terwijl daarvoor geen voor de instelling acceptabele verklaring kan worden gegeven.</para>
+        <para>G7. Financiering door niet financiële instelling die geen (economische) band of zakelijke relatie heeft met de koper.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Ontvankelijkheid beroep </emphasis>
+        </para>
+      </parablock>
+      <para>3. Het BFT stelt zich op het standpunt dat het beroep niet-ontvankelijk moet worden verklaard, omdat dit is ingesteld namens [notariskantoor] en de boete niet aan haar maar aan [eiser] in zijn hoedanigheid van notaris is opgelegd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <parablock>
+        <para>De rechtbank volgt dit standpunt niet. Juist is dat de boete niet aan [notariskantoor] maar aan [eiser] in zijn hoedanigheid van notaris is opgelegd en dat het beroep tegen het bestreden besluit, waarbij het bezwaar van [eiser] tegen de boeteoplegging ongegrond is verklaard, is ingediend namens [notariskantoor] . Daar staat tegenover dat het boeterapport betrekking heeft op een onderzoek naar de naleving van de Wwft door [notariskantoor] , met [eiser] als contactpersoon, en dat het bestreden besluit is toegezonden aan [notariskantoor] , t.a.v. [eiser] . </para>
+        <para>Niet geheel onbegrijpelijk is dan ook dat de gemachtigde bij het indienen van het beroep tegen het bestreden besluit in de veronderstelling verkeerde dat dit beroep namens [notariskantoor] moest worden ingediend. Onder deze omstandigheden moet er redelijkerwijs vanuit worden gegaan dat [eiser] heeft beoogd op te komen tegen het bestreden besluit en zal de rechtbank het namens [notariskantoor] indiende beroep aanmerken als een beroep dat namens [eiser] is ingediend. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De leveringsakte</emphasis>
+        </para>
+        <para>4.	[eiser] betoogt dat hij in het geval van de leveringsakte niet was gehouden een verscherpt cliëntenonderzoek als bedoeld in artikel 8, eerste lid, van de Wwft te verrichten en dat hij evenmin de meldingsplicht van artikel 16, eerste lid, van de Wwft heeft geschonden, nu geen sprake was van een ongebruikelijk transactie en derhalve geen meldingsplicht bestond.   </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>Het BFT heeft zich op het standpunt gesteld dat [eiser] , zodra hij in het kader van de voorbereiding van de levering bekend werd met het verschil tussen de koopsom (€ 200.000,-) en de WOZ-waarde (peildatum 1 januari 2015: € 248.000,-) van het pand aan [adres] , gezien de verplichting tot voortdurende controle en het ontbreken van een verklaring voor dit verschil in het opgevraagde dossier, een hoger risico op witwassen had moeten onderkennen en een verscherpt cliëntenonderzoek had moeten verrichten, waarbij onderzoek naar de bron van de middelen dan wel de herkomst van de gelden was aangewezen. Nu [eiser] dit heeft nagelaten, heeft hij volgens het BFT artikel 3, tweede lid, aanhef en onder d, en artikel 8, eerste lid, van de Wwft overtreden. </para>
+        <para>Voorts bestond volgens het BFT, gezien bijvoorbeeld het risico op zwarte bijbetaling in geval van een te lage koopprijs, aanleiding om te veronderstellen dat de transactie verband kan houden met witwassen en was dus sprake van een ongebruikelijke transactie waarvan op grond van artikel 16, eerste lid, van de Wwft onverwijld melding moest worden gemaakt bij de Financiële inlichtingen eenheid. Ook dit heeft [eiser] ten onrechte nagelaten, aldus het BFT. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>De rechtbank onderschrijft het standpunt van het BFT dat [eiser] in het verschil van € 48.000,- tussen de koopsom en de WOZ-waarde van het desbetreffende pand aanleiding had moeten zien voor verder onderzoek en dat [eiser] door dat onderzoek niet te verrichten niet heeft voldaan aan artikel 3, tweede lid, aanhef en onder d, van de Wwft en artikel 8, eerste lid, van deze wet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <parablock>
+        <para>In de door [eiser] in zijn zienswijze genoemde omstandigheden op grond waarvan volgens hem het verschil tussen de koopsom en de WOZ-waarde was te rechtvaardigen, heeft het BFT geen aanleiding hoeven zien terug te komen van dit standpunt. Nog daargelaten dat het door het BFT van [eiser] ontvangen dossier, naar niet in geschil is, geen blijk geeft van enig onderzoek destijds naar het verschil tussen de koopsom en de WOZ-waarde, vormen deze omstandigheden zonder een taxatierapport van een terzake deskundige onvoldoende grond om het verschil van € 48.000,- te kunnen rechtvaardigen. De gestelde destijds aanwezige eigen kennis van de situatie ter plekke en van het onderhoud van het pand betekent, anders dan [eiser] kennelijk meent, niet dat hij zijn eigen inschatting van de waarde van het pand in de plaats kan stellen van een deskundige taxatie. Dit blijkt eens te meer uit het door [eiser] aan het BFT en ter zitting aan de rechtbank overgelegde taxatierapport van 19 maart 2018, waaruit blijkt dat het desbetreffende pand op 28 juli 2016 (iets meer dan drie maanden voor het sluiten van de koopovereenkomst op 1 november 2016) door een terzake deskundige is getaxeerd op een waarde van € 360.000,-. </para>
+        <para>
+          [eiser] heeft er weliswaar terecht op gewezen dat daarbij rekening is gehouden met een waardeverhogende factor waarbij het pand eventueel zou kunnen worden verkocht als particulier woonobject, maar dat van deze factor niet langer sprake was ten tijde van het sluiten van de koopovereenkomst, de voorbereiding van de levering of het passeren van de leveringsakte is niet gebleken. Dat deze factor in het taxatierapport van 19 maart 2018 niet langer aanwezig wordt geacht, heeft volgens het rapport te maken met het feit dat de jachthaven, waarbij het pand als bedrijfswoning behoort, [...] medio november 2017 is aangekocht [...] Gezien het tijdstip van deze aankoop kan hierin geen verklaring worden gevonden voor het verschil van € 160.000,- tussen de koopsom en de taxatiewaarde op 28 juli 2016. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verder laat, anders dan [eiser] kennelijk meent, zijn (indirecte) bekendheid met de verkoper en (indirecte) jarenlange goede relatie met de koper van het desbetreffende pand het verschil tussen de koopsom en de WOZ-waarde onverlet en heeft het BFT daarin dan ook terecht geen grond gezien om terug te komen van haar standpunt dat verder (verscherpt) cliëntenonderzoek had moeten plaatsvinden. </para>
+        <para>Tot slot heeft [eiser] zijn stelling dat transacties waarbij de koopsom 80% van de WOZ-waarde bedraagt veelvuldig voorkomen, anders dan hij kennelijk heeft beoogd, niet onderbouwd met de door hem overgelegde verklaring van 29 mei 2019 van [naam] Integendeel, deze verklaring vermeldt dat men in de praktijk van deze woningmakelaar veelal transactieprijzen ziet die naar boven afwijken van de WOZ-waarde en slechts incidenteel transactieprijzen die daarvan naar beneden afwijken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Anders dan [eiser] kennelijk meent, betekent het feit dat uiteindelijk geen witwaspraktijken hebben plaatsgevonden, voor zover juist, niet dat geen sprake was van een ongebruikelijk transactie waarvan hij op grond van artikel 16, eerste lid, van de Wwft onverwijld melding had moeten maken bij de Financiële inlichtingen eenheid. Van een ongebruikelijke transactie is immers reeds sprake als er aanleiding is te veronderstellen dat de transactie verband kan houden met witwassen. Dat was hier het geval. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Het betoog faalt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De hypotheekakte</emphasis>
+        </para>
+        <para>5.	[eiser] betoogt dat hij ook in het geval van de hypotheekakte niet was gehouden een verscherpt cliëntenonderzoek als bedoeld in artikel 8, eerste lid, van de Wwft te verrichten en dat hij evenmin de meldingsplicht van artikel 16, eerste lid, van de Wwft heeft geschonden, nu geen sprake was van een ongebruikelijk transactie en derhalve geen meldingsplicht bestond.   </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <parablock>
+        <para>Het BFT heeft zich op het standpunt gesteld dat [eiser] , zodra hij in het kader van de voorbereiding van de hypotheekakte bekend werd met de financiering van de aankoop van het pand door een niet-financiële instelling, het hoge rentepercentage van 10 en de bijzondere winstdelingsregeling bij doorverkoop van het pand vóór 1 november 2017, gezien de verplichting tot voortdurende controle en het ontbreken van een verklaring voor deze omstandigheden in het opgevraagde dossier, een hoger risico op witwassen had moeten onderkennen en een verscherpt cliëntenonderzoek had moeten verrichten, waarbij onderzoek naar de bron van de middelen dan wel de herkomst van de gelden was aangewezen. </para>
+        <para>Nu [eiser] dit heeft nagelaten, heeft hij volgens het BFT artikel 3, tweede lid, aanhef en onder d, en artikel 8, eerste lid, van de Wwft overtreden. </para>
+        <para>Voorts bestond volgens het BFT, gezien de voorbeelden D2, E12, G1 en G7 uit de Leidraad, aanleiding om te veronderstellen dat de transactie verband kan houden met witwassen en was dus sprake van een ongebruikelijke transactie waarvan op grond van artikel 16, eerste lid, van de Wwft onverwijld melding moest worden gemaakt bij de Financiële inlichtingen eenheid. Ook dit heeft [eiser] ten onrechte nagelaten, aldus het BFT. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>De rechtbank onderschrijft het standpunt van het BFT dat [eiser] in de hiervoor genoemde omstandigheden aanleiding had moeten zien voor verder onderzoek en dat [eiser] door dat onderzoek niet te verrichten niet heeft voldaan aan artikel 3, tweede lid, aanhef en onder d, van de Wwft en artikel 8, eerste lid, van deze wet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <parablock>
+        <para>In de door [eiser] in zijn zienswijze gegeven toelichting op deze omstandigheden heeft het BFT geen aanleiding hoeven zien terug te komen van dit standpunt. Nog daargelaten dat het door het BFT van [eiser] ontvangen dossier, naar niet in geschil is, geen blijk geeft van enig onderzoek destijds naar deze omstandigheden, biedt deze toelichting onvoldoende grond voor de conclusie dat verder (verscherpt) cliëntenonderzoek achterwege had kunnen blijven. De algemene stellingen van </para>
+        <para>
+          [eiser] over de financierings(on)mogelijkheden voor bedrijfswoningen en het gehanteerde hoge rentepercentage in dit geval, wat daarvan ook zij, laten onverlet dat sprake was van een hoger risico op witwassen, nu een toenmalige medewerker van de jachthaven, die de koper en de geldverstrekker volgens [eiser] met elkaar in contact zou hebben gebracht, onderdeel was van de winstdelingsregeling bij doorverkoop van het pand en, net als de geldverstrekker, 1/3 deel van de verkoopwinst zou opstrijken als het pand vóór </para>
+        <para>1 november 2017 voor een hoger bedrag zou worden verkocht dan het bedrag van de lening. Anders dan [eiser] meent, is niet van belang dat het daarbij gaat om mogelijke toekomstige geldstromen of dat een doorverkoop van het pand vóór voormelde datum niet heeft plaatsgevonden. Evenmin is van belang dat de winstdelingsregeling is opgenomen in een notariële akte.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Anders dan [eiser] kennelijk meent, betekent het feit dat uiteindelijk geen witwaspraktijken hebben plaatsgevonden, voor zover juist, niet dat geen sprake was van een ongebruikelijk transactie waarvan hij op grond van artikel 16, eerste lid, van de Wwft onverwijld melding had moeten maken bij de Financiële inlichtingen eenheid. Van een ongebruikelijke transactie is immers reeds sprake als er aanleiding is te veronderstellen dat de transactie verband kan (gaan) houden met witwassen. Dat was hier het geval. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Het betoog faalt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De Boetehoogte</emphasis>
+        </para>
+        <para>6.	[eiser] betoogt dat de boete te hoog is.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <parablock>
+        <para>Het BFT heeft de hoogte van de boete vastgesteld volgens het door haar met het oog daarop gevoerde beleid. Het BFT heeft in dat beleid naar mate van ernst, duur en verwijtbaarheid een aantal categorieën vastgesteld voor overtredingen in het kader van het cliëntenonderzoek en de meldplicht. Als sprake is van samenloop van een overtreding in het kader van cliëntenonderzoek met een overtreding in het kader van de meldplicht, dan worden de vijf ‘meldplicht categorieën’ (licht, gemiddeld, hoog, zeer hoog en maximaal) volgens dit beleid bij het bepalen van de boetehoogte als uitgangspunt genomen, waarbij de categorie meldplicht kan worden verhoogd vanwege de overtreding(en) in het kader van het cliëntenonderzoek. De door het BFT vastgestelde categorieën zijn voor de vaststelling van de hoogte van de boete gekoppeld aan een percentage van de omzet, dat hoger wordt naarmate de mate van ernst, duur en verwijtbaarheid hoger wordt. </para>
+        <para>Indien de ondertoezichtstaande aantoont dat hij de boete niet kan dragen, geldt volgens het beleid een percentage van het vermogen als richtlijn. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>In dit geval is volgens het BFT sprake van ernstige en verwijtbare overtredingen die onder ‘meldplicht categorie’ 3 (hoog) vallen, waarbij sprake is van grove nalatigheid. Voor die categorie bedraagt de boete 3% van de omzet. Omdat de overtredingen door </para>
+        <para>
+          [eiser] zijn begaan en [notariskantoor] twee notarissen heeft, heeft verweerder de boete vastgesteld op 3% van de helft van de omzet, wat - naar beneden afgerond - neerkomt op een boete van € 36.000,-.  </para>
+        <para>Anders dan [eiser] , is de rechtbank van oordeel dat het BFT terecht meent dat sprake is van grove nalatigheid, nu [eiser] niet alleen had kunnen weten (categorie 2 - gemiddeld), maar behoorde te weten (categorie 3 - hoog) dat er voldoende aanleiding was om te melden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>Het betoog faalt.</para>
+      <para>7. Het beroep is ongegrond. </para>
+      <para />
+      <para>8. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. E.J. Rutten, rechter, in aanwezigheid van </para>
+      <para>mr. M.J.F.J. van Beek, griffier. Deze uitspraak is gedaan op 25 maart 2020. </para>
+      <para>Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken<emphasis role="bold">.</emphasis></para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">de griffier is buiten staat			de rechter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

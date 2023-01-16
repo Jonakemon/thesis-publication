@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:5610</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-24T12:06:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 4622</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5610">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5610</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-24T12:05:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:5610 Rechtbank Amsterdam , 17-11-2020 / AWB - 20 _ 4622</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:5610:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>8:86 Awb. Parkeerverordening Amsterdam. Bedrijfsvoertuigen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:5610:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 20/4622 (voorlopige voorziening) en AMS 20/4604 (beroep)</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">proces-verbaal van de mondelinge uitspraak van de voorzieningenrechter van 6 november 2020 in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , verzoekster,</bridgehead>
+    <para>( [gemachtigde] ),</para>
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Amsterdam</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. Z. Essaidi).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met afzonderlijke besluiten van 28 juni 2019 (de primaire besluiten) heeft verweerder drie van de aan verzoekster verleende bedrijfsvergunningen ingetrokken per 1 november 2019.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 29 juli 2020 (het bestreden besluit) heeft verweerder het bezwaar van verzoekster ongegrond verklaard. De drie parkeervergunningen worden per 1 november 2020 ingetrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen het bestreden besluit beroep ingesteld. Zij heeft verder de voorzieningenrechter verzocht om een voorlopige voorziening te treffen inhoudende dat het bestreden besluit wordt teruggedraaid en de drie parkeervergunningen niet worden ingetrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 6 november 2020. Partijen hebben zich laten vertegenwoordigen door hun gemachtigden. Na afloop van de zitting heeft de voorzieningenrechter onmiddellijk uitspraak gedaan. De voorzieningenrechter heeft daarbij gebruik gemaakt van haar bevoegdheid om ook op het beroep te beslissen.<footnote-ref linkend="_433bd177-917f-4c3c-b678-dc6bd61642ea" /></para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter verklaart het beroep ongegrond en wijst het verzoek om een voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De voorzieningenrechter geeft hiervoor de volgende motivering.</para>
+    <para />
+    <para>2. Aan verzoekster zijn sinds 1996 drie additionele bedrijfsvergunningen verleend. Na een controle door verweerder zijn de vergunningen gekoppeld aan de kentekens [kenteken auto] ingetrokken, omdat niet meer wordt voldaan aan de voorwaarden. Verzoekster heeft namelijk onvoldoende werknemers in dienst voor het aantal uitgegeven parkeervergunningen.</para>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Verzoekster wijst op artikel 10, zesde lid van de Parkeerverordening 2013 en heeft naar voren gebracht dat op grond van die bepaling  additioneel maximaal drie bedrijfsvergunningen kunnen worden verleend voor bedrijfsvoertuigen aan een bedrijf met 15 of minder werknemers. Daar is volgens verzoekster in haar geval sprake van, dus mogen de bedrijfsvergunningen niet worden ingetrokken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>De voorzieningenrechter overweegt als volgt. Volgens artikel 1 van de Parkeerverordening 2013 is een bedrijfsvoertuig: bedrijfsvoertuig volgens het kentekenbewijs deel IA. Dat is het zogenoemde grijze kenteken. De auto’s die op naam van verzoekster staan hebben – onbetwist – dat kentekenbewijs deel IA niet. Het zijn daarom ook geen bedrijfswagens. Naar het oordeel van de voorzieningenrechter heeft verzoekster daarom ook geen recht op drie extra parkeervergunningen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Verzoekster heeft verder betoogd dat sprake is van schending van het vertrouwensbeginsel: verzoekster heeft de drie bewuste bedrijfsvergunningen al jaren en door Stadstoezicht is tegen de gemachtigde van verzoekster gezegd dat verzoeksters verworven rechten niet geschonden zouden worden. Op grond van vaste rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State oordeelt de voorzieningenrechter anders.<footnote-ref linkend="_1e643cb0-f6df-4ba7-8d9a-f86c3084fedb" /> Voor een geslaagd beroep op het vertrouwensbeginsel is nodig dat aan het bestuursorgaan toe te rekenen concrete, ondubbelzinnige toezeggingen zijn gedaan door een daartoe bevoegd persoon, waaraan rechtens te honoreren verwachtingen kunnen worden ontleend. Aan verzoekster zijn drie additionele bedrijfsvergunningen verleend. Voor zover een toetsing heeft plaatsgevonden in 1997, 2005 en in 2014 en deze heeft geleid tot het opnieuw verlenen van de drie bedrijfsvergunningen is de voorzieningenrechter van oordeel dat dit niet betekent dat daarmee concrete en ondubbelzinnige toezeggingen zijn gedaan, waaraan rechtens de verwachting kon worden verleend dat verzoekster ook in de daaropvolgende periode steeds over drie additionele bedrijfsvergunningen voor haar onderneming kon beschikken. Al zou wel sprake zijn van een dergelijke toezegging, dan is volgens verweerder sprake van een fout en op grond van vaste rechtspraak strekt het vertrouwensbeginsel niet zover dat een bestuursorgaan is gehouden om in het verleden gemaakte fouten te herhalen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Het beroep op de hardheidsclausule slaagt evenmin. Verweerder heeft bij toepassing hiervan beleidsvrijheid en dat moet de voorzieningenrechter eerbiedigen. Zoals verweerder in zijn besluit en op de zitting heeft toegelicht, wordt de hardheidsclausule uitsluitend toegepast in schrijnende gevallen, bijvoorbeeld wanneer sprake is van een levensbedreigende ziekte. Van dat soort omstandigheden is geen sprake. </para>
+      <para />
+      <parablock>
+        <para>4.	Het beroep is daarom ongegrond. Omdat op het beroep is beslist wijst de voorzieningenrechter het verzoek af. Voor een proceskosten veroordeling of vergoeding van het griffierecht door verweerder bestaat dan ook geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Deze uitspraak is gedaan door mr. A.K. Mireku (voorzieningen)rechter, in aanwezigheid van  R.E. Toonen, griffier, op 6 november 2020.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>griffier</para>
+        <para>							voorzieningenrechter</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Afschrift verzonden aan partijen op: </para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen de uitspraak op het beroep kan binnen zes weken na de dag van verzending van het proces-verbaal daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+  </section>
+  <footnote id="_433bd177-917f-4c3c-b678-dc6bd61642ea" label="1">
+    <para>Artikel 8:86 van de Algemene wet bestuursrecht (Awb).</para>
+  </footnote>
+  <footnote id="_1e643cb0-f6df-4ba7-8d9a-f86c3084fedb" label="2">
+    <para> Zie de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 13 juli 2016, ECLI:NL:RVS:2016:1960.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

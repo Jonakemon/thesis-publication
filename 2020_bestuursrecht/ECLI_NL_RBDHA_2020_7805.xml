@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:7805</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-17T17:11:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.13037</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7805">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7805</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-17T17:11:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:7805 Rechtbank Den Haag , 10-07-2020 / NL20.13037</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:7805:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Artikel 56 Vw; belangenafweging; gehoord zonder bijstand gemachtigde; lichter middel. Beroep ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:7805:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL20.13037</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiseres] , eiseres</bridgehead>
+    <parablock>
+      <para>V-nummer: [#]</para>
+      <para>(gemachtigde: mr. drs. J.E. Groenenberg),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. T. Stelpstra).</para>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 juni 2020 (het bestreden besluit) heeft verweerder eiseres de vrijheidsbeperkende maatregel op grond van artikel 56, eerste lid, Vreemdelingenwet 2000 (Vw) opgelegd. In het kader van deze maatregel is eiseres verplicht met ingang van 25 juni 2020 te verblijven in de gemeente Westerwolde, alwaar zij zich in het kader van deze maatregel in de vrijheidsbeperkende locatie Vlagtwedde dient op te houden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. Bij bericht van 1 juli 2020 heeft eiseres te kennen gegeven dat zij geen toestemming verleent voor een schriftelijke afdoening van de zaak. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft door middel van een conference call plaatsgevonden op 6 juli 2020. Eiseres is daarbij verschenen, bijgestaan door haar gemachtigde en een tolk. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+      <para>Het onderzoek is ter zitting gesloten.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiseres stelt de Armeense nationaliteit te hebben en te zijn geboren op [geboortedatum] .</para>
+    <para />
+    <para>2. De rechtbank betrekt bij de beoordeling de volgende feiten. Bij besluit van 23 augustus 2017 heeft verweerder de aanvraag van eiseres tot het verlenen van een verblijfsvergunning asiel afgewezen als ongegrond. Bij uitspraak van 20 september 2017 heeft deze rechtbank, zittingsplaats Rotterdam (NL17.7494) het beroep ongegrond verklaard. </para>
+    <parablock>
+      <para>Eiseres heeft op 8 november 2017 aangifte van mensenhandel gedaan. Zij heeft op grond daarvan van 8 november 2017 tot en met 8 november 2018 een verblijfsvergunning regulier voor bepaalde tijd gehad. Op 26 februari 2018 heeft de Officier van Justitie besloten dat de aangifte niet tot nader strafrechtelijk onderzoek kan leiden. Verweerder heeft de verblijfsvergunning van eiseres per 26 februari 2018 ingetrokken en de aanvraag tot het wijzigen van de beperking van humanitair tijdelijk naar humanitair niet-tijdelijk afgewezen. Het hiertegen gemaakte bezwaar heeft verweerder ongegrond verklaard. Het daartegen ingestelde beroep is bij uitspraak van deze rechtbank en zittingsplaats van 23 december 2019 (AWB 19 / 4822) ongegrond verklaard. </para>
+      <para>Op 26 februari 2020 heeft eiseres een verzoek gedaan om met toepassing van artikel 64 Vw uitstel te verlenen van vertrek. Dit verzoek is bij besluit van 29 juni 2020 afgewezen. Eiseres heeft op 30 juni 2020 bezwaar gemaakt en een verzoek om een voorlopige voorziening ingediend.</para>
+    </parablock>
+    <para />
+    <para>3. Verweerder heeft de vrijheidsbeperkende maatregel opgelegd omdat het belang van de openbare orde dit vordert. Verweerder heeft hierbij betrokken dat eiseres niet heeft voldaan aan de rechtsplicht om uit eigen beweging Nederland te verlaten. Verder heeft verweerder overwogen dat eiseres geen vaste woon- of verblijfplaats heeft, noch over voldoende middelen van bestaan beschikt. Eiseres heeft volgens de wet geen recht op opvang. Aan haar wordt aanvullend onderdak verleend in de vrijheidsbeperkende locatie (VBL) Vlagtwedde. </para>
+    <para />
+    <para>4. Eiseres voert allereerst aan dat uit het bestreden besluit niet blijkt dat verweerder een belangenafweging heeft gemaakt. Eiseres heeft steeds in het Asielzoekerscentrum (AZC) te Grave verbleven en zij ziet niet in waarom dit nu niet meer zou kunnen. Eiseres heeft daarbij aangegeven dat haar gezondheidssituatie slecht is en zij wil in de vertrouwde omgeving blijven waar zij een sociaal netwerk en hulp heeft. </para>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <parablock>
+        <para>Uit het proces-verbaal van het gehoor dat op 24 juni 2020 aan bestreden besluit vooraf is gegaan blijkt dat eiseres in de gelegenheid is gesteld haar zienswijze op de voorgenomen maatregel kenbaar te maken. Uit het proces-verbaal  blijkt dat door eiseres tijdens het gehoor geen bijzondere omstandigheden zijn aangevoerd. Eiseres heeft wel  aangegeven dat zij liever in het AZC wil blijven, maar kon volgens de verbalisant desgevraagd geen medische of overige persoonlijke, individuele omstandigheden of andere beletselen naar voren brengen die zouden leiden tot het afzien van de maatregel. Volgens de verbalisant maakte eiseres wel bezwaar tegen de voorgenomen maatregel, maar kon zij dat bezwaar niet nader specificeren. In het besluit is vervolgens overwogen dat, voor zover eiseres een beroep doet op haar medische situatie, vermeld wordt dat op de VBL ook een medische dienst aanwezig is en dat verder niet is gebleken dat afgezien zou moeten worden van het opleggen van dit besluit. Gelet hierop is er geen grond voor het oordeel dat verweerder geen enkele belangenafweging zou hebben gemaakt, of dat dit niet uit het besluit zou blijken. Daarbij heeft verweerder met de verwijzing naar de aanwezigheid van een medische dienst op het VBL voldoende rekening gehouden met de medische omstandigheden van eiseres. De rechtbank stelt daarbij vast dat uit het dossier niet blijkt dat eiseres haar medische situatie concreet heeft benoemd of nader heeft gespecificeerd en eiseres ook niet in beroep heeft aangevoerd dat zij dit wel heeft gedaan en verweerder hierop had moeten ingaan. Dat eiseres vier maanden ongemoeid op het AZC heeft kunnen verblijven en zij niet inziet dat dit sinds 24 juni 2020 niet meer kan, leidt daarbij niet tot een ander oordeel. Immers, zoals eiseres zelf ook heeft aangegeven ter zitting, hield dit verband met de maatregelen die zijn getroffen in verband met de uitbraak van Covid-19. </para>
+        <para>De beroepsgrond slaagt niet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5.	Eiseres voert verder aan dat uit het proces-verbaal van gehoor van 24 juni 2020 blijkt dat dit een weergave is van twee gehoren, te weten op 12 februari 2020 en op 24 juni 2020. Dit is onzorgvuldig, omdat onduidelijk is wat eiseres bij gelegenheid van het gehoor van 12 februari 2020 heeft verklaard, en wat zij heeft verklaard bij het gehoor van 24 juni 2020. Haar situatie was op dat moment veranderd, omdat zij inmiddels een verzoek om uitstel van vertrek had ingediend. Verder vraagt eiseres zich in dit verband af hoe de regievoerder na vier maanden heeft kunnen opschrijven wat eiseres op 12 februari 2020 heeft verklaard. Volgens eiseres kleven er zoveel gebreken aan het proces-verbaal en de gang van zaken, dat het besluit daarom geen stand kan houden. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Verweerders gemachtigde heeft ter zitting aangevoerd dat uit het proces-verbaal van gehoor duidelijk blijkt dat het een weergave is van het gehoor van 24 juni 2020, dat vooraf is gegaan aan de oplegging van de maatregel. De regievoerder heeft eiseres voor het eerst op 12 februari 2020 gesproken, maar niet ten aanzien van de oplegging van de maatregel. De maatregel kwam pas op 24 juni 2020 ter sprake en de antwoorden van eiseres zien dan ook daarop. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <parablock>
+        <para>In het proces-verbaal van gehoor is, voor zover van belang, het volgende opgenomen: </para>
+        <para>“Op 12-02-2020 om 11:00 uur en op 24-06-2020 om 13:00 uur, hoorde ik in verband met het bepaalde in artikel 56, eerste lid van de Vw de vreemdeling […]”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>De rechtbank is van oordeel dat uit deze aanhef niet duidelijk is op te maken dat het proces-verbaal alleen een weergave is van het gehoor van 24 juni 2020 en dat de opsteller van het proces-verbaal alleen heeft aangegeven dat hij ook op 12 februari 2020 een gesprek heeft gevoerd met eiseres. Immers, in het hiervoor aangehaalde stuk uit het proces-verbaal wordt juist gesuggereerd dat eiseres zowel op 12 februari als 24 juni 2020 is gehoord met betrekking tot het voornemen om de vrijheidsbeperkende maatregel ex artikel 56, eerste lid, Vw op te leggen. Ook overigens valt uit het proces-verbaal niet af te leiden dat dit alleen een weergave is van het gehoor op 24 juni 2020. Dit maakt echter niet dat de maatregel daarom onrechtmatig is. Aangenomen kan worden dat de inhoud van het proces-verbaal in ieder geval mede een weergave is van het gehoor dat op 24 juni 2020 is gehouden. Eiseres heeft in beroep niet gesteld, noch aannemelijk gemaakt, dat de weergave van dat laatste gehoor niet juist of niet volledig is geweest. </para>
+        <para>De beroepsgrond slaagt daarom niet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	Eiseres heeft verder aangevoerd dat uit het proces-verbaal van gehoor niet blijkt dat eiseres in de gelegenheid is gesteld zich te doen bijstaan door een rechtshulpverlener, noch dat zij de gelegenheid heeft gehad samen met haar advocaat een zienswijze in te dienen. Eiseres heeft dit dus zonder hulp van een advocaat moeten doen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Eiseres heeft niet gesteld en de rechtbank is niet gebleken dat er voor verweerder een wettelijke verplichting bestaat om het mogelijk te maken dat een vreemdeling zich bij het gehoor, voorafgaand aan het opleggen van de vrijheidsbeperkende maatregel, laat bijstaan door een rechtshulpverlener. Datzelfde geldt voor het bieden van de gelegenheid van de vreemdeling om met hulp van een rechtshulpverlener een zienswijze in te dienen. De beroepsgrond slaagt reeds daarom niet. </para>
+      <para />
+      <parablock>
+        <para>7.	Eiseres heeft verder aangevoerd dat zij op grond van haar verzoek om toepassing te geven aan artikel 64 Vw rechtmatig verblijf heeft en, na de afwijzing van dat verzoek, door het indienen van het verzoek om een voorlopige voorziening. Immers, in het afwijzende besluit is opgenomen dat als eiseres tijdig een verzoek om een voorlopige voorziening indient, zij dit in Nederland mag afwachten. Dat eiseres, zoals vermeld in het bestreden besluit, geen rechtmatig verblijf zou hebben als bedoeld in artikel 8 Vw is dan ook niet juist.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Verweerders gemachtigde heeft ter zitting aangegeven dat het indienen van een verzoek om uitstel van vertrek geen rechtmatig verblijf oplevert. Ook het tijdig  indienen van een verzoek om een voorlopige voorziening na de afwijzing van het verzoek om uitstel van vertrek levert geen rechtmatig verblijf op. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>In artikel 64 Vw is bepaald dat uitzetting achterwege blijft zolang het gelet op de gezondheidstoestand van de vreemdeling of die van een van zijn gezinsleden niet verantwoord is om te reizen.</para>
+      <para />
+      <parablock>
+        <para>In artikel 8 Vw is bepaald dat de vreemdeling in Nederland uitsluitend rechtmatig verblijf heeft:</para>
+      </parablock>
+      <para>a. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14;</para>
+      <para>b. op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 20, of een EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 45a indien op het aan de vreemdeling verschafte document, bedoeld in artikel 9, geen aantekening als bedoeld in artikel 45c, eerste lid, is geplaatst;</para>
+      <para>c. op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28;</para>
+      <para>d. op grond van een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 33, of een EU-verblijfsvergunning voor langdurig ingezetenen als bedoeld in artikel 45a indien op het aan de vreemdeling verschafte document, bedoeld in artikel 9, de aantekening, bedoeld in artikel 45c, eerste lid, is geplaatst;</para>
+      <para>e. als gemeenschapsonderdaan zolang deze onderdaan verblijf houdt op grond van een regeling krachtens het Verdrag betreffende de werking van de Europese Unie dan wel de Overeenkomst betreffende de Europese Economische Ruimte;</para>
+      <para>f. in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de artikelen 14 en 28, terwijl bij of krachtens deze wet dan wel op grond van een rechterlijke beslissing uitzetting van de aanvrager achterwege dient te blijven totdat op de aanvraag is beslist;</para>
+      <para>g. in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in de artikelen 20, 33 en 45a, of tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in de artikelen 14 en 28, of een wijziging ervan, terwijl bij of krachtens deze wet of op grond van een rechterlijke beslissing uitzetting van de aanvrager achterwege dient te blijven totdat op de aanvraag is beslist;</para>
+      <para>h. in afwachting van de beslissing op een bezwaarschrift of een beroepschrift, terwijl bij of krachtens deze wet of op grond van een rechterlijke beslissing uitzetting van de aanvrager achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;</para>
+      <para>i. gedurende de vrije termijn, bedoeld in artikel 12, zolang het verblijf van de vreemdeling bij of krachtens artikel 12 is toegestaan;</para>
+      <para>j. indien tegen de uitzetting beletselen bestaan als bedoeld in artikel 64; </para>
+      <para>k. gedurende de periode waarin de vreemdeling door Onze Minister in de gelegenheid wordt gesteld aangifte te doen van overtreding van artikel 273f van het Wetboek van Strafrecht;</para>
+      <para>l. indien de vreemdeling verblijfsrecht ontleent aan het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;</para>
+      <para>m. indien de aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 niet in behandeling is genomen op grond van artikel 30 terwijl hij in afwachting is van de feitelijke overdracht naar een verantwoordelijke lidstaat in de zin van de Dublinverordening.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <parablock>
+        <para>De rechtbank stelt vast dat het verzoek van eiseres om toepassing te geven aan artikel 64 Vw geen aanvraag is om verlening van een verblijfsvergunning, noch een daadwerkelijke verblijfsvergunning, als bedoeld in a tot en met d, dan wel f of g, van artikel 8 Vw. Evenmin levert dit verblijf op als bedoeld in e, dan wel i en k tot en met m, van dit artikel. </para>
+        <para>Nu nog niet is vastgesteld dat artikel 64 Vw van toepassing is op eiseres als bedoeld onder j in artikel 8 Vw en evenmin door een rechter is bepaald dat uitzetting van eiseres achterwege dient te blijven totdat op het bezwaarschrift is beslist als bedoeld onder h van artikel 8 Vw, heeft verweerder zich terecht op het standpunt gesteld dat eiseres geen rechtmatig verblijf heeft in Nederland. Dat zij de beslissing op het verzoek om een voorlopige voorziening in Nederland mag afwachten, maakt dat niet anders. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <parablock>
+        <para>Nu eiseres geen rechtmatig verblijf heeft als bedoeld in artikel 8 Vw, heeft zij geen wettelijk recht meer op opvang. Dit vloeit rechtstreeks voort uit artikel 3, tweede en derde lid, Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005 (Rva).</para>
+        <para>In dit artikel is opgenomen welke vreemdelingen in aanmerking komen voor opvang. Eiseres valt niet onder één van deze categorieën vreemdelingen. Immers, in haar geval is (nog) niet bepaald dat haar uitzetting op  grond van artikel 64 Vw achterwege blijft, terwijl een vreemdeling die in afwachting is van de definitieve beslissing op zijn verzoek om toepassing van artikel 64 Vw en die niet een uitgeprocedeerde asielzoeker is en die evenmin een vreemdeling is die in afwachting is van de uitspraak in hoger beroep in zijn asielprocedure juist zijn uitgezonderd van opvang in artikel 3, derde lid, aanhef en onder f, Rva. Evenmin is de situatie van eiseres te scharen onder de categorie vreemdelingen die in artikel 3, derde lid, aanhef en onder g of h vallen. </para>
+        <para>De beroepsgrond slaagt niet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>8. 	Eiseres heeft ten slotte aangevoerd dat verweerder met een lichter middel dan de oplegging van de maatregel ex artikel 56, eerste lid, Vw had moeten volstaan in haar geval. Eiseres heeft aangegeven dat haar gezondheidssituatie slecht is en zij wil in de vertrouwde omgeving blijven, waar zij een sociaal netwerk heeft opgebouwd en hulp heeft. Het lichtere middel had dan kunnen bestaan uit oplegging van een meldplicht tijdens het verblijf in het AZC te Grave. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <parablock>
+        <para>De rechtbank oordeelt als volgt. Zoals hiervoor is geoordeeld, heeft eiseres geen rechtmatig verblijf (meer) in Nederland en geen wettelijk recht (meer) op opvang. Door de oplegging van een vrijheidsbeperkende maatregel wordt deze opvang alsnog geboden. Eiseres heeft niet onderbouwd dat zij op andere wijze, met een (ander) lichter middel, ook toegang zou kunnen krijgen tot opvang. Verder is er geen grond voor het oordeel dat de maatregel in het geval van eiseres niet proportioneel zou zijn. Daarbij neemt de rechtbank in aanmerking dat verweerder in het bestreden besluit gemotiveerd heeft vermeld dat het belang van de openbare orde het opleggen van de vrijheidsbeperkende maatregel vordert en dat hiertegen door eiseres geen gronden zijn aangevoerd.  </para>
+        <para>De beroepsgrond slaagt niet. <?linebreak?></para>
+      </parablock>
+      <para>9. Het beroep is ongegrond.</para>
+      <para />
+      <para>10. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.M. Kos, rechter, in aanwezigheid van mr. drs. S.R.N. Parlevliet, griffier.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom Covid-19 is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak staat geen rechtsmiddel open. </para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

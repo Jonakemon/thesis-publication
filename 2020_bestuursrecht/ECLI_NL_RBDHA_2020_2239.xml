@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:2239</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-13T15:50:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL19.31087</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:2239">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:2239</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-13T15:49:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:2239 Rechtbank Den Haag , 24-01-2020 / NL19.31087</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:2239:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Asiel / Nicaragua / individualiseringsvereiste / landeninformatie / CPC</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:2239:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL19.31087</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , eiser,</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        [persoonsnummer]
+      </para>
+      <para>(gemachtigde: mr. J. Bravo Mougán),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. A.R.J. Maas).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <?linebreak?>Procesverloop <?linebreak?>Bij besluit van 13 december 2019 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in de algemene procedure afgewezen als ongegrond. </title>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 21 januari 2020. Eiser heeft zich laten vertegenwoordigen door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De asielaanvraag van eiser</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eiser heeft de Nicaraguaanse nationaliteit en is geboren op [geboortedatum] 1997. Op 21 november 2019 is eiser Nederland ingereisd. Op dezelfde dag deed hij zijn aanvraag bij verweerder. </para>
+    <para />
+    <para>2. Eiser heeft aan zijn asielaanvraag het volgende ten grondslag gelegd. Eiser heeft deelgenomen aan de protesten tegen de Sandinistische overheid vanaf april 2018. Ook heeft hij tijdens een verblijf in Miami deelgenomen aan oppositionele activiteiten. De politieke partij <emphasis role="italic">Frente Sandinista de Liberación Nacional</emphasis> (FSLN) wil dat hij lid wordt van hun partij. De leider van de <emphasis role="italic">[groep]</emphasis>  van eisers wijk, [de persoon] , heeft meerdere keren naar eiser gevraagd bij zijn moeder. Eiser is benaderd omdat zijn moeder voor de overheid werkt en hij familie is van [prominent lid] . Verder zou [de persoon] op 7 oktober 2019 bij eiser aan huis zijn gekomen en eiser hebben gevraagd een lidmaatschapsformulier van de [groep] te ondertekenen. Eiser heeft dit geweigerd en dit formulier in haar bijzijn verscheurd. Dit incident heeft eiser gedeeld op [social media] . Voorts heeft eiser verklaard voor de universiteit door een politieagent staande te zijn gehouden. Na controle mocht eiser doorlopen. Tot slot is eiser via zijn moeder te weten gekomen dat hij is opgeroepen door de politie voor een gehoor. Eiser vreest bij terugkeer aangehouden en gedetineerd te worden. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het besluit van verweerder</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. Het asielrelaas van eiser bevat volgens verweerder de volgende relevante elementen:</para>
+    <para>a. de identiteit, nationaliteit en herkomst van eiser;</para>
+    <para>b. politieke activiteiten;</para>
+    <para>c. [groep] ;</para>
+    <para>d. aanhouding door politieagent;</para>
+    <para>e. oproep gehoor.</para>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de elementen a, b, c en d geloofwaardig gevonden. Element e heeft verweerder niet geloofwaardig gevonden. Eiser heeft wel een kopie, maar geen originele oproep overgelegd die op authenticiteit kan worden onderzocht. De verklaringen van eiser maken dat aan dit document ook geen betekenis kan worden gegeven. De geloofwaardige elementen duiden niet op vervolging, want ze zijn onvoldoende om aannemelijk te maken dat eiser in de negatieve belangstelling van de overheid staat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Eisers beroep tegen het besluit</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. Eiser is het hier niet mee eens. Volgens hem heeft verweerder onvoldoende gemotiveerd dat niet aannemelijk is dat hij in de negatieve belangstelling van de overheid staat. Hij voert primair onder meer aan dat verweerder de door hem overgelegde landeninformatie onvoldoende in zijn besluitvorming betrokken heeft. In combinatie met de delen van zijn relaas die verweerder geloofwaardig heeft gevonden, volgt uit deze informatie dat de overheid hem wel degelijk in het vizier heeft. Eiser heeft gewezen op landeninformatie uit verschillende bronnen, die in de bijlage bij deze uitspraak staan opgesomd. Eiser voert subsidiair aan dat de overgelegde oproep ten aanzien van het gehoor van de politie een geloofwaardig document is en eveneens duidt op negatieve belangstelling van de overheid ten aanzien van eiser. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het oordeel van de rechtbank </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Eisers primaire beroepsgrond slaagt. Daarbij is van belang dat verweerder eisers relaas over de interesse van de [groep] voor eiser en zijn weigering om lid te worden geloofwaardig heeft geacht. Eiser heeft in dat kader onder meer verklaard dat hij [de persoon] van de [groep] en een groep Sandinisten die haar vergezelden heeft laten weten dat hij nooit de ‘moordlustige dictators’ van het land zou steunen en vervolgens het hem aangeboden lidmaatschapsformulier heeft verscheurd. Een van de aanwezige Sandinisten heeft eiser vervolgens verteld dat hij de autoriteiten zou inlichten. </para>
+    <para />
+    <para>6. In combinatie met de door eiser overgelegde landeninformatie is dat voldoende om aannemelijk te maken dat de Nicaraguaanse overheid negatieve belangstelling voor eiser heeft. Uit deze landeninformatie volgt namelijk onder andere dat de [groep] voor de centrale overheid fungeren als doorgeefluik voor informatie uit de buurt, onder andere over opposanten van het regime. Deze informatie wordt gebruikt om lijsten op te stellen met tegenstanders. De rechtbank wijst in dit verband op de volgende passages:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">“In het eerdergenoemde rapport van de Swedish Migration Board </emphasis>
+        <emphasis role="italic">(44, 23 april 2019) staat dat er slechts beperkt informatie beschikbaar is over intelligence operations, het delen van informatie binnen de overheid en de zogenaamde “arrestatielijsten”. Verschillende bronnen hebben bericht over het bestaan van dergelijke lijsten, alsmede over informatievergaring (‘intelligence activities’) die worden uitgevoerd door de zogenaamde “Citizen Power Councils” ( [groep] ), maar details zijn er niet. Zoals hierboven reeds aangegeven wijst ook Nicaragua-expert Julienne Weegels (45, april 2019) op de rol van de Sandinistische buurtcomités, [groep] .”</emphasis>
+        <footnote-ref linkend="_f5c4e70b-3c38-4a85-9dfa-41b5e1698a1a" />
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">“De Inter-American Commission on Human Rights (IACHR) noemt in het jaarrapport over 2018 (12, 2019) dat de informatie die verzameld wordt door de [groep] heeft bijgedragen aan de concentratie van macht In Nicaragua. Ook meldt de IACHR dat zij op de hoogte werden gesteld van illegale huiszoekingen en arrestaties die plaatsvonden op basis van lijsten die werden opgesteld op basis van de informatievergaring (‘intelligence work’) van [groep] . </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De OHCHR (18, augustus 2018) schrijft dat lokale overheidsstructuren zoals de [groep] een belangrijke bron van inlichtingenvergaring is voor de overheid. De OHCHR heeft ook meldingen binnengekregen van individuen die naar verluidt waren gewaarschuwd dat hun namen op een “dodenlijst” stonden. Deze lijst zou circuleren onder autoriteiten en bij de lokale overheden. De lijst geeft aan welke mensen lastig gevallen, gearresteerd of zelfs vermoord moeten worden. Volgens een oudere bron, Revista Envio (20, april 2015), een onafhankelijk online tijdschrift dat maandelijks artikelen naar buiten brengt over de stand van zaken in Nicaragua, wordt er door politie agenten bijgehouden wie er mee doen aan demonstraties tegen het regime. Ze geven aan dat de politie wordt ondersteund door de [groep] . Zij weten precies wie een tegenstander van het regime is in hun buurt. Zij verzamelen informatie, oefenen controle uit op buurtniveau en identificeren bedreigingen en informeren hier de overheid of veiligheidsdiensten over.”</emphasis>
+        <footnote-ref linkend="_1894bd0c-0ba6-43f1-96d5-34fb67d222e9" />
+      </para>
+    </parablock>
+    <para />
+    <para>7. Verweerder heeft deze informatie niet betwist. Dat eiser niettemin geen risico loopt op vervolging dan wel behandeling in strijd met artikel 3 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden heeft verweerder dan ook onvoldoende gemotiveerd. Het standpunt van verweerder dat deze informatie van algemene aard is en onvoldoende zegt over eisers individuele situatie volgt de rechtbank gelet op het voorgaande niet. Naar het oordeel van de rechtbank is de aanvraag ten onrechte afgewezen als ongegrond. </para>
+    <para />
+    <para>8. Het beroep is reeds hierom gegrond. De overige beroepsgronden, met name ten aanzien van relevant element e – de oproep van de politie –, behoeven dan ook geen verdere bespreking. De rechtbank vernietigt het bestreden besluit. De rechtbank ziet geen aanleiding de rechtsgevolgen van het bestreden besluit in stand te laten of zelf in de zaak te voorzien, omdat verweerder een nieuwe beoordeling van eisers risico bij terugkeer naar Nicaragua moet maken. Ook ziet de rechtbank geen aanleiding om een bestuurlijke lus toe te passen, omdat dat naar het zich laat aanzien geen doelmatige en efficiënte afdoeningswijze zou inhouden. De rechtbank zal verweerder daarom opdragen een nieuw besluit te nemen met inachtneming van deze uitspraak. De rechtbank stelt hiervoor een termijn van acht weken.</para>
+    <para />
+    <para>9. De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor de zitting met een waarde per punt van € 525,- en een wegingsfactor 1). Omdat aan eiser een toevoeging is verleend, moet verweerder de proceskostenvergoeding betalen aan de rechtsbijstandverlener.</para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>
+      <?linebreak?>De rechtbank:<?linebreak?>- verklaart het beroep gegrond;<?linebreak?>- vernietigt het bestreden besluit;</para>
+    <para>- draagt verweerder op binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op de asielaanvraag van eiser met inachtneming van deze uitspraak;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1.050,-.</para>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. A.K. Mireku, rechter, in aanwezigheid van mr. B.V.A. Corstens, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is in het openbaar gedaan en bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>BIJLAGE</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Door eiser genoemde landeninformatie Nicaragua:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>Brief van Vluchtelingenwerk Nederland (VWN) over de positie van opposanten van de Nicaraguaanse overheid onder president Ortega van 28 november 2019;</para>
+      </listitem>
+      <listitem>
+        <para>UNHCR, ‘Guidance Note on the outflow of Nicaraguans’, 24 augustus 2018;</para>
+      </listitem>
+      <listitem>
+        <para>Freedom House, ‘Freedom in the World 2018 – Nicaragua’, 16 februari 2018;</para>
+      </listitem>
+      <listitem>
+        <para>US Department of State, ‘Country Report on Human Rights Practices 2018 – Nicaragua’, 13 maart 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Freedom House, ‘Freedom in the World 2018 – Nicaragua’, 4 februari 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Human Rights Watch, ‘World Report 2019 – Nicaragua’, 17 januari 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Office of the UN High Commissioner for Human Rights (OHCHR), ‘Human Rights Violations and Abuses in the context of Protests in Nicaragua 18 April – 18 August 2018’, 29 augustus 2018;</para>
+      </listitem>
+      <listitem>
+        <para>Human Rights Watch, ‘Nicaragua: Cruel Response to Hunger Strikes’, 22 november 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Voice of America, ‘Nicaraguan Mothers on Hunger Strike Taken From Church to Hospital’, 23 november 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Centro Nicaraguense de los Derechos Humanos, ‘Derechos Humanos en Nicaragua: Informe Bimestral julio‑agosto 2019’, 13 september 2019;</para>
+      </listitem>
+      <listitem>
+        <para>OHCHR, ‘Situation of human rights in Nicaragua’, 3 september 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Swedish Migration Board, ‘Nicaragua - pretester, repression och riskprofiler’ , 23 April 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Mailwisseling tussen VWN en Nicaragua-expert Julienne Weegels, 6 tot 14 april 2019;</para>
+      </listitem>
+      <listitem>
+        <para>TicoTimes (La Prensa), ‘Exiled in Costa Rica, human rights org operating ‘clandestine’ networks in Nicaragua’, 27 januari 2019;</para>
+      </listitem>
+      <listitem>
+        <para>TicoTimes (La Prensa), ‘I was rotting in El Chipote, university student Bayardo Siles talks about his days in Jail’, 28 augustus 2018;</para>
+      </listitem>
+      <listitem>
+        <para>NOS, ‘Ik werd bijna paranoïde van het werken in Nicaragua’, 19 september 2018;</para>
+      </listitem>
+      <listitem>
+        <para>Amnesty International, ‘Instilling Terror: from lethal force to persecution in Nicaragua’, 18 oktober 2018;</para>
+      </listitem>
+      <listitem>
+        <para>Brief van VWN over de situatie in Nicaragua van 12 december 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Inter-American Commission on Human Rights, ‘Annual Report 2018 – Chapter IV.B Nicaragua’, 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Envio, ‘Estructuras represivas que deberán ser investigadas’, mei 2019;</para>
+      </listitem>
+      <listitem>
+        <para>Institute of Current World Affairs, ‘Democracy or Dictatorship? The Rebirth of the Sandinistas in Nicaragua’, april 2008;</para>
+      </listitem>
+      <listitem>
+        <para>Revista Envio, ‘The Police has changed its role to guarantee the regime’s security, September 2015.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+  </section>
+  <footnote id="_f5c4e70b-3c38-4a85-9dfa-41b5e1698a1a" label="1">
+    <para> Brief VWN over de situatie in Nicaragua van 28 november 2019, p. 6.</para>
+  </footnote>
+  <footnote id="_1894bd0c-0ba6-43f1-96d5-34fb67d222e9" label="2">
+    <para> Brief VWN over de situatie in Nicaragua van 12 december 2019, p 3.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

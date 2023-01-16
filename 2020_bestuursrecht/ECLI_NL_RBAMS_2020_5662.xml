@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:5662</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-26T13:08:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 126</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5662">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:5662</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-26T13:07:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:5662 Rechtbank Amsterdam , 11-11-2020 / AWB - 19 _ 126</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:5662:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Eiseres is als concurrent geen belanghebbende bij de aangevraagde tenaamstellingswijziging. Er is geen reële mogelijkheid dat de exploitatie door het concurrerende bedrijf beëindigd wordt, als de tenaamstellingswijziging niet doorgaat.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:5662:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/126 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">de besloten vennootschap Fastned B.V. te Amsterdam, eiseres</bridgehead>
+    <para>(gemachtigde: mr. L.P.W. Mensink),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Infrastructuur en Waterstaat, verweerder</bridgehead>
+    <para>(gemachtigde: mr. K.E. Haan).</para>
+    <para />
+    <parablock>
+      <para>Als derde-partij-en hebben aan het geding deelgenomen: <emphasis role="bold">de besloten vennootschap Greenflux Assets B.V.</emphasis>, te Amsterdam, vergunninghouder</para>
+      <para>(gemachtigde: [naam 1] ),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">gesellschaft mit beschränkter Haftung Ionity GmbH, te München (Duitsland)</bridgehead>
+    <para>(gemachtigde: [naam 2] ).</para>
+    <para />
+    <parablock>
+      <para>Partijen worden hierna Fastned, de minister, Greenflux en Ionity genoemd. </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 augustus 2018 (het primaire besluit) heeft de minister de tenaamstelling van een aan Greenflux verleende vergunning gewijzigd en op naam gesteld van Ionity. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 november 2018 (het bestreden besluit) heeft de minister het bezwaar van Fastned niet-ontvankelijk verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Fastned heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 30 september 2020. Fastned is vertegenwoordigd door [naam 3] , bijgestaan door haar gemachtigde. De minister heeft zich laten vertegenwoordigen door zijn gemachtigde, bijgestaan door [naam 4] . Greenflux heeft zich laten vertegenwoordigen door haar gemachtigde. Namens Ionity is [naam 5] verschenen, bijgestaan door de gemachtigde van Ionity.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De minister heeft op 21 februari 2017 aan Greenflux een vergunning op grond van de Wbr<footnote-ref linkend="_c3e620ed-9383-4dc4-8642-6681704a9b1c" /> verleend om een laadvoorziening te realiseren op de [verzorgingsplaats] langs rijksweg A1 (de verzorgingsplaats). Fastned heeft op 21 juli 2017 een Wbr-vergunning gekregen om op de verzorgingsplaats een basisvoorziening te exploiteren. </para>
+    <para />
+    <para>2. Greenflux heeft op 25 juni 2018 een wijziging van de tenaamstelling van de op 21 februari 2017 verleende vergunning aangevraagd. Met het primaire besluit van 9 augustus 2018 heeft de minister de vergunning op naam gesteld van Ionity. Fastned heeft hier bezwaar tegen gemaakt. De minister heeft dit bezwaar niet-ontvankelijk verklaard, omdat Fastned geen belanghebbende is. De minister vindt dat de potentiële gevolgen van het verlenen van de vergunning niet veranderen door het wijzigen van de tenaamstelling.</para>
+    <para />
+    <para>3. Fastned voert aan dat zij wel een belang heeft. Ter onderbouwing verwijst zij naar een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 14 november 2018.<footnote-ref linkend="_69501fa7-e508-4d69-b8ee-92842cb46363" />  Daarin heeft de Afdeling overwogen dat er een rechtens te beschermen belang is bij een wijziging van een tenaamstelling van een vergunning, wanneer een reële mogelijkheid bestaat dat bij afwijzing van die wijziging de exploitatie door het concurrerende bedrijf die de vergunning had willen overdragen, wordt beëindigd. Volgens Fastned is ook in deze zaak een reële mogelijkheid dat de exploitatie door Greenflux wordt beëindigd, als de wijziging van de tenaamstelling niet doorgaat. </para>
+    <para />
+    <para>4. De rechtbank overweegt dat in beginsel bij een wijziging van de tenaamstelling de concurrentie even groot blijft. Een concurrent zal geen feitelijke gevolgen ondervinden van de wijziging en daarom geen belanghebbende zijn.<footnote-ref linkend="_7a0f669a-9cfe-4d04-b4ed-b7127a159929" /> In de uitspraak die Fastned heeft aangehaald, heeft de Afdeling op dit beginsel een uitzondering gemaakt. Fastned heeft echter niet onderbouwd dat deze uitzondering zich hier voordoet en dus niet aannemelijk gemaakt dat de exploitatie door Greenflux zal worden beëindigd bij een weigering van de tenaamstellingswijziging. Bovendien hebben Greenflux en Ionity op de zitting medegedeeld dat ook als de tenaamstellingswijziging niet was doorgegaan, Ionity feitelijk de basisvoorziening was gaan exploiteren. Dit is ook op andere verzorgingsplaatsen gebeurd. Fastned kan dus geen beroep doen op de uitzondering in de door haar genoemde uitspraak.</para>
+    <para />
+    <para>5. De rechtbank concludeert dat Fastned geen belanghebbende is. De minister heeft het bezwaar van Fastned terecht niet-ontvankelijk verklaard. </para>
+    <para />
+    <para>6. Het beroep is dus ongegrond.</para>
+    <para />
+    <para>7. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.F. de Lemos Benvindo, voorzitter, en mr. J.H.M. van de Ven en mr. D. Sullivan, leden, in aanwezigheid van mr. M.L. Pijpers, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>de voorzitter is verhinderd de uitspraak te ondertekenen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+  </section>
+  <footnote id="_c3e620ed-9383-4dc4-8642-6681704a9b1c" label="1">
+    <para> Wet beheer rijkswaterstaatswerken.</para>
+  </footnote>
+  <footnote id="_69501fa7-e508-4d69-b8ee-92842cb46363" label="2">
+    <para> Zie ECLI:NL:RVS:2018:3695.</para>
+  </footnote>
+  <footnote id="_7a0f669a-9cfe-4d04-b4ed-b7127a159929" label="3">
+    <para> Zie ook de uitspraak van 21 december 2011 van de Afdeling, ECLI:NL:RVS:2011:BU8906.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

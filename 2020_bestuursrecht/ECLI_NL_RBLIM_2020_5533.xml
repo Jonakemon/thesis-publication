@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBLIM:2020:5533</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-06T09:00:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Limburg" scheme="overheid.RechterlijkeMacht">Rechtbank Limburg</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-28</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3305</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Roermond</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:5533">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:5533</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-06T08:46:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBLIM:2020:5533 Rechtbank Limburg , 28-07-2020 / AWB - 19 _ 3305</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBLIM:2020:5533:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Afwijzing omgevingsvergunning voor het vestigen van detailhandel in Hoensbroek.</para>
+        <para>Verweerder stelt terecht dat het vestigen van detailhandel op het perceel in strijd is met het bestemmingsplan en dat eiseres zich niet op het overgangsrecht kan beroepen. </para>
+        <para>Ook heeft verweerder mogen stellen dat het buitenplans afwijken van het bestemmingsplan in strijd met een goede ruimtelijke ordening.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBLIM:2020:5533:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">RECHTBANK limburg</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Roermond</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummer: AWB 19/3305</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Uitspraak van de enkelvoudige kamer van 28 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">RetailPlan B.V., eiseres,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Heerlen, verweerder</bridgehead>
+    <para>(gemachtigde: mr. M.A.M.A. Huppertz).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 juli 2019 (hierna: het primaire besluit) heeft verweerder de aanvraag voor een omgevingsvergunning voor het vestigen van reguliere detailhandel op de locatie [adres] in [plaats] (hierna: het perceel) afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 november 2019 (hierna: het bestreden besluit) heeft verweerder het  bezwaar van eiseres ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. De gronden van beroep zijn ingediend op 9 december 2019. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de op de zaak betrekking hebbende stukken ingezonden en een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de brief van 7 mei 2020 heeft de rechtbank medegedeeld dat zij de mogelijkheid ziet de zaak schriftelijk te behandelen en partijen vragen gesteld. In de brieven van 19 mei 2020 en </para>
+      <para>4 juni 2020 hebben respectievelijk eiseres en verweerder deze vragen van de rechtbank beantwoord. De rechtbank heeft partijen vervolgens in de gelegenheid gesteld op elkaars standpunt te reageren. In de brieven van 18 juni 2020 en 7 juli 2020 hebben respectievelijk eiseres en verweerder van deze gelegenheid gebruik gemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft aangegeven voornemens te zijn het onderzoek ter zitting achterwege te laten. Partijen hebben niet binnen de gegeven termijn gereageerd op dit voornemen. Met toepassing van artikel 8:57, eerste lid, van de Awb heeft de rechtbank bepaald dat het onderzoek ter zitting achterwege blijft, het onderzoek gesloten en de uitspraak bepaald op heden.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Het gaat in deze zaak om het besluit van verweerder tot weigering van de door eiseres gevraagde omgevingsvergunning om op het perceel reguliere detailhandel te vestigen. Verweerder heeft de aanvraag afgewezen, omdat het vestigen van reguliere detailhandel op het perceel volgens hem in strijd is met het bestemmingsplan en eiseres zich niet kan beroepen op het overgangsrecht. Het is niet mogelijk binnenplans af te wijken van het bestemmingsplan. Verweerder wil geen gebruik maken van de mogelijkheid om buitenplans af te wijken, omdat dit in strijd is met een goede ruimtelijke ordening. Eiseres is het daar niet mee eens. Zij stelt onder meer dat het vestigen van reguliere detailhandel op het perceel niet in strijd is met de bestemming en, als dat al het geval is, zij zich kan beroepen op het overgangsrecht. Subsidiair stelt zij dat verweerder zich ten onrechte op het standpunt stelt dat buitenplans afwijken in strijd is met een goede ruimtelijke ordening.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Op 19 april 2019 heeft [naam] namens eiseres een aanvraag voor een omgevingsvergunning ingediend om op het perceel reguliere detailhandel te vestigen. Eiseres is kandidaat koper van het perceel. In de aanvraag is vermeld dat het voorgenomen gebruik in strijd is met het bestemmingsplan, omdat ter plaatse enkel detailhandel in meubelen is vergund, terwijl eiseres er reguliere detailhandel wil vestigen. Omdat reguliere detailhandel meer parkeerplaatsen vraagt dan een meubelzaak, zijn belendende percelen aan het project toegevoegd, zodat in voldoende parkeergelegenheid is voorzien.</para>
+    <para />
+    <para>3. Ter plaatse geldt het bestemmingsplan “ Hoensbroek Oost” , onherroepelijk geworden op 17 september 2009 (hierna: het bestemmingsplan). Op een deel van de gronden van het perceel rust de bestemming “Wonen” en op een ander deel de bestemming “Erf”.</para>
+    <para />
+    <para>4. Bij het primaire besluit heeft verweerder de omgevingsvergunning geweigerd op grond van artikel 2.10, eerste lid, aanhef en onder c, van de Wet algemene bepalingen omgevingsrecht (hierna: de Wabo). De activiteit is volgens verweerder namelijk in strijd met het bestemmingplan en vergunningverlening met toepassing van artikel 2.12 van de Wabo is niet gewenst. Er is sprake van strijd met het bestemmingsplan, omdat een groot deel van het pand dat eiseres voor detailhandel wil gebruiken, gelegen is op gronden waarop de bestemming “Erf” rust, waarbinnen de differentiatie “Detailhandel” niet geldt. Op deze gronden is detailhandel niet toegestaan. Op het deel van de gronden van het perceel dat eiseres als parkeerplaats wil gaan gebruiken rust de bestemming “Wonen” en “Erf”. Die gronden mogen niet worden gebruikt als parkeerplaats voor detailhandel. Anders dan eiseres in haar aanvraag stelt, is detailhandel in meubelen ter plaatse niet langer mogelijk, omdat deze vorm van detailhandel niet (meer) wordt gedekt door het overgangsrecht, aldus verweerder. Vergunningverlening met toepassing van artikel 2.12, eerste lid, aanhef en onder a, onder 1⁰, van de Wabo is niet mogelijk. Het is namelijk niet mogelijk met toepassing van de in het bestemmingsplan opgenomen regels af te wijken van het bestemmingsplan. Vergunningverlening met toepassing van artikel 2.12, eerste lid, aanhef en onder a, onder 2⁰, van de Wabo vindt verweerder niet gewenst. Hoewel het op grond van artikel 4, negende lid, van Bijlage II bij het Besluit omgevingsrecht (hierna: het Bor) mogelijk is af te wijken van het bestemmingsplan ten behoeve van deze aanvraag, acht verweerder dit in strijd met een goede ruimtelijke ordening. Ter onderbouwing van dit standpunt wijst hij onder meer op de Retailstructuurvisie 2010-2020 (hierna: de retailstructuurvisie) en de Structuurvisie Ruimtelijke Economie Zuid-Limburg (hierna: de SVREZL).</para>
+    <para />
+    <para>5. Eisers heeft bezwaar gemaakt tegen het primaire besluit. Zij voert aan – kort en zakelijk weergegeven en voor zover in beroep nog van belang – dat de activiteit niet in strijd is met het bestemmingsplan. Verweerder gaat er ten onrechte vanuit dat op gronden waarop de bestemming “Erf” rust detailhandel niet is toegestaan. Ook gaat verweerder er ten onrechte vanuit dat op de gronden waarop de bestemmingen “Wonen” en “Erf” rusten niet als parkeerplaats voor de detailhandel gebruikt mogen worden. Eiseres betwist dat het overgangsrecht is komen te vervallen, omdat het pand korter dan één jaar heeft leeggestaan.</para>
+    <para />
+    <para>6. Bij het bestreden besluit heeft verweerder het bezwaar van eiseres ongegrond verklaard en de afwijzing van de gevraagde omgevingsvergunning gehandhaafd. </para>
+    <para />
+    <para>7. Eisers is het niet eens met het bestreden besluit en heeft hiertegen beroep ingesteld. De rechtbank bespreekt de aangevoerde gronden hierna inhoudelijk.</para>
+    <para />
+    <para>8. De relevante wettelijke bepalingen zijn opgenomen in de bijlage die onderdeel uitmaakt van deze uitspraak.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De inhoudelijke beoordeling</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>9. De rechtbank moet beoordelen of verweerder zich terecht op het standpunt heeft gesteld dat de activiteit – het vestigen van reguliere detailhandel op het perceel – in strijd is met het bestemmingsplan. Bij deze beoordeling speelt ook de vraag of eiseres zich op het overgangsrecht kan beroepen. Indien de activiteit in strijd is met het bestemmingsplan, inclusief het daarin opgenomen overgangsrecht, moet de rechtbank beoordelen of verweerder terecht heeft gesteld dat hij geen omgevingsvergunning met toepassing van artikel 2.12, eerste lid, onder a, van de Wabo heeft kunnen verlenen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Is de activiteit in strijd met de bestemming</emphasis>?</para>
+    </parablock>
+    <para />
+    <para>10. Volgens vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) zijn voor het antwoord op de vraag of een bouwplan in strijd is met het bestemmingsplan, de in dat bestemmingsplan aangewezen bestemming en de daarbij behorende regels bepalend. Het toetsingskader wordt daarbij gevormd door regels die specifiek invulling geven aan een bestemming. De inleidende begripsbepalingen zijn geen regels in deze zin. Deze regels kunnen behulpzaam zijn bij de uitleg van begrippen die in de bestemmingsregels of de bouwregels worden gehanteerd. Hieraan kan echter niet zelfstandig worden getoetst bij de beoordeling van bouwaanvragen (zie onder meer de uitspraken van de Afdeling van 10 oktober 2018, ECLI:NL:RVS:2018:3264 en van 16 maart 2016, ECLI:NL:RVS:2016:682).</para>
+    <para />
+    <para>11. Volgens eveneens vaste rechtspraak van de Afdeling dienen planregels omwille van de rechtszekerheid letterlijk te worden uitgelegd (zie onder meer de uitspraak van de Afdeling van 9 september 2015, ECLI:NL:RVS:2015:2833). De bedoeling van de planwetgever kan daarbij niet afdoen aan hetgeen in de planvoorschriften ondubbelzinnig is bepaald (zie onder meer de uitspraak van de Afdeling van 18 februari 2009, ECLI:NL:RVS:2009:BH3227). De niet bindende toelichting heeft in zoverre betekenis dat deze over de bedoeling van de planwetgever meer inzicht kan geven indien de bestemming en de regels waaraan moet worden getoetst, op zichzelf noch in samenhang duidelijk zijn. Als de desbetreffende regel duidelijk is dan dient daaraan dus geen beperktere (of ruimere) uitleg te worden gegeven dan de uitleg die volgens de letterlijke tekst geldt (zie bijvoorbeeld de uitspraak van de Afdeling van 19 augustus 2015, ECLI:NL:RVS:2015:2636).</para>
+    <para />
+    <para>12. Tussen partijen is niet in geschil dat voor een deel van het onderhavige perceel de bestemming “Wonen” en voor een ander deel de bestemming “Erf” geldt. In de doeleindenomschrijving, neergelegd in artikel 11, eerste lid, van de planvoorschriften is bepaald dat de op de plankaart als “Wonen W(a)” aangegeven gronden bestemd zijn voor aaneengesloten woningen, met dien verstande dat daarbij op de begane grond en voor zover op de plankaart aangegeven onder meer de differentiatie “IV detailhandel” is toegestaan. In artikel 34, onder 1.1, van de planvoorschriften is bepaald dat de op de plankaart als “Erf E” aangegeven gronden zijn bestemd voor tuin en/of parkeren, met dien verstande dat in deze bestemming onder meer de differentiatie “IV detailhandel” is toegestaan. Evenmin is tussen partijen in geschil dat de percelen waarop de aanvraag van eiseres betrekking heeft en waarop de bestemming “Erf” rust geen Romeins cijfer is ingetekend.</para>
+    <para />
+    <para>13. Eiseres betoogt dat het vestigen van reguliere detailhandel op het perceel niet in strijd is met het bestemmingsplan. Hiertoe voert zij aan dat op het deel van de gronden op het perceel waarop de bestemming “Wonen” rust, de differentiatie “Detailhandel” geldt. Ook op het deel van de gronden op het perceel waarop de bestemming “Erf” rust, geldt de differentiatie “Detailhandel”. Anders dan bij andere bestemmingen waarbinnen differentiaties gelden, is in artikel 34 van de planvoorschriften de passage “voor zover op de plankaart aangegeven” namelijk niet opgenomen. Volgens eiseres betekent dit dat de in het artikel opgenomen differentiaties overal binnen de bestemming “Erf” zijn toegestaan.</para>
+    <para />
+    <para>14. Het betoog van eiseres slaagt niet. Naar het oordeel van de rechtbank heeft verweerder zich terecht op het standpunt gesteld dat de plankaart leidend is. Artikel 1 van de planvoorschriften bepaalt dat onder “plankaart” wordt verstaan: “De kaart met bijbehorende verklaring en aanduidingen, genummerd 33.676 blad 1 t/m 3 waarop de bestemmingen van de in het plan begrepen gronden zijn aangegeven”. De rechtbank volgt verweerder in zijn stelling dat aan het begrip differentiatie inherent is dat er een koppeling is tussen plankaart en de betreffende differentiatie. Die koppeling bestaat in dit geval uit een Romeins cijfer op de plankaart dat correspondeert met één of enkele differentiaties, zoals ook blijkt uit de toelichting op de planvoorschriften. Hoewel eiseres gevolgd kan worden in haar standpunt dat de passage “voor zover op de plankaart aangegeven” niet in artikel 34 van de planvoorschriften is opgenomen, stelt verweerder terecht dat als alle in dat artikel genoemde differentiaties zonder meer zouden zijn toegestaan binnen de gehele bestemming “Erf”, het geen “differentiaties” maar “bestemmingen” zijn. Uit het gebruik van het begrip “differentiatie” volgt immers dat er naast de hoofdbestemming nog een verbijzondering van de algemene (erf)bestemming is bedoeld/toegestaan. Nu op de percelen waarop de aanvraag van eiseres betrekking heeft en waarop de bestemming “Erf” rust – onbestreden – geen Romeins cijfer is ingetekend, waar dit op andere percelen waarop de bestemming “Erf” rust wel het geval is, mogen deze percelen niet voor detailhandel worden gebruikt. Daar komt bij dat de verschillende differentiaties van elkaar gescheiden zijn door op de plankaart aangegeven functiescheidingslijnen, welke lijnen ter plaatse alleen zijn opgenomen binnen de woondoeleinden-bestemming en niet doorlopen in de erf-bestemming. Verweerder heeft zich dan ook terecht op het standpunt gesteld dat de activiteit van eiseres – het gebruik van een deel van het pand dat op de gronden van het perceel is gelegen waarop de bestemming “Erf” rust voor (reguliere) detailhandel – in strijd is met de bestemming. </para>
+    <para>15. Voorts betoogt eiseres dat het gebruiken van het gedeelte van de gronden op het perceel waarop voorheen een woonhuis met bijgebouwen stond voor parkeren en laden en lossen ten behoeven van detailhandel, niet in strijd is met de bestemming. Verweerder stelt zich volgens eiseres in dit opzicht ten onrechte op het standpunt dat sprake is van strijd met de bestemming door de gronden op het perceel met de bestemming “Wonen” voor parkeren te gebruiken. De gronden binnen deze bestemming worden volgens de aanvraag namelijk niet gebruikt voor parkeren. </para>
+    <para />
+    <para>16. Dit betoog van eiseres slaagt ook niet. Hiertoe overweegt de rechtbank dat uit de door eiseres ingediende aanvraag, in het bijzonder uit de tekening waarop de “situering nieuw” is aangegeven, blijkt dat het perceel met nummer [nummer 1] waarop de bestemming “Wonen” rust, mede is bestemd voor de aanleg van 45 parkeerplaatsen (“parkeren = 45 plaatsen”). Ook is er een “inrit” met “schuifpoort” ingetekend. Verweerder heeft zich terecht op het standpunt gesteld dat nu de aanvraag ziet op het “vestigen van reguliere detailhandel” niet anders kan worden geconcludeerd dan dat het aanleggen van deze 45 parkeerplaatsen gebeurt ten dienste van het gewenste gebruik. De op het perceel met nummer [nummer 1] rustende bestemming “W(a) wonen aaneengesloten” staat ter plaatse alleen aaneengesloten woningen toe, dus geen parkeren en in ieder geval geen parkeren ten behoeve van “reguliere detailhandel”. </para>
+    <para>Op een deel van het perceel met nummer [nummer 1] rust de bestemming “Erf”. Dit geldt ook voor het daarachter liggende perceel met nummer [nummer 2] . Deze gronden zijn volgens de planvoorschriften bestemd voor “tuin en/of parkeren”. De bestemming “Erf” op deze gronden is, zoals verweerder terecht stelt, ongeschikt aan het hoofdgebruik/de hoofdbestemming van het perceel “W(a) wonen aaneengesloten”. Daarmee is het niet toegestaan dat deze gronden gebruikt worden voor het parkeren én laden en lossen ten behoeve van detailhandel. Verweerder heeft zich dan ook terecht op het standpunt gesteld dat het gebruik van het gedeelte van het perceel waar voorheen een woonhuis met bijgebouwen voor parkeren en laden en lossen ten behoeve van detailhandel in strijd is met de bestemming.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Kan eiseres zich op het overgangsrecht van het bestemmingsplan beroepen</emphasis>?</para>
+    </parablock>
+    <para />
+    <para>17. Eiseres betoogt dat verweerder de gevraagde omgevingsvergunning niet heeft mogen weigeren, omdat het gebruik voor detailhandel onder de beschermende werking van het overgangsrecht valt. In dit verband stelt eiseres dat verweerder niet aan de weigering van de omgevingsvergunning ten grondslag heeft kunnen leggen dat sprake is van een onderbreking van meer dan één jaar van het strijdige gebruik onder het overgangsrecht. </para>
+    <para />
+    <para>18. Ook dit betoog van eiseres slaagt niet. Hiertoe overweegt de rechtbank dat volgens vaste rechtspraak van de Afdeling het aan degene is die een beroep doet op het overgangsrecht van een bestemmingsplan om aannemelijk te maken dat het met het plan strijdige gebruik op de peildatum plaatsvond en nadien ononderbroken is voortgezet (zie onder meer de uitspraak van de Afdeling van 6 juni 2012, ECLI:NL:RVS:2012:BW7611). De rechtbank volgt eiseres dat de in artikel 3.2.2, derde lid, van het Besluit ruimtelijke ordening genoemde termijn van onderbreking van één jaar niet in het bestemmingsplan is opgenomen. Volgens vaste rechtspraak van de Afdeling geldt indien in de overgangsbepaling van het bestemmingsplan geen termijn is opgenomen, dat een onderbreking van het gebruik gedurende een periode van enige betekenis aan voortzetting van dat gebruik onder het overgangsrecht in de weg kan staan, waarbij de oorzaak van de onderbreking mede van betekenis is (zie onder meer de uitspraak van de Afdeling van </para>
+    <parablock>
+      <para>24 december 2019, ECLI:NL:RVS:2019:4439). Een termijn van één jaar is in dit verband een redelijke termijn te noemen. De rechtbank verwijst in dit verband naar de uitspraak van de Afdeling van bijvoorbeeld 27 augustus 2003, ECLI:NL:RVS:2003:AI1442, r.o. 2.11.3). Het betoog van eiseres dat verweerder niet aan de weigering van de omgevingsvergunning ten grondslag heeft kunnen leggen dat sprake is van een onderbreking van meer dan één jaar van het strijdige gebruik onder het overgangsrecht, slaagt daarom niet.</para>
+      <para>In deze zaak is de peildatum van het overgangsrecht 17 september 2009, de dag dat het plan rechtskracht heeft verkregen. Tussen partijen is niet in geschil dat het pand op de peildatum werd gebruikt voor detailhandel. Op dat moment was namelijk een keukenzaak in het pand op het perceel gevestigd. Evenmin is tussen partijen in geschil dat het pand kort na de peildatum leeg is komen te staan, enige tijd niet is gebruikt voor detailhandel, te huur stond en dat [bedrijf 1] in 2015 een outletformule in het pand op het perceel heeft gedreven. </para>
+      <para>Partijen verschillen van mening over de vraag of [bedrijf 1] al dan niet het gehele pand, dus ook het achterste deel van pand dat op de gronden ligt waarop de bestemming “Erf” is gelegen, voor detailhandel heeft gebruikt. Uit het bij de brief van 7 juli 2020 van verweerder gevoegde besluit op bezwaar van 29 juli 2015, blijkt dat verweerder het bezwaar van [bedrijf 2] tegen het besluit van 23 februari 2015 ongegrond heeft verklaard. Bij het laatstgenoemde besluit heeft verweerder de door [bedrijf 2] gevraagde omgevingsvergunning voor het vestigen van een [bedrijf 1] in het bestaande winkelpand op het perceel, geweigerd. In het besluit van </para>
+      <para>29 juli 2015 heeft verweerder (op pagina 6) overwogen dat detailhandel in het achterste deel van het winkelpand niet is toegestaan en dus in strijd is met het bestemmingsplan, omdat op de grond waarop dat deel van het winkelpand is gelegen de bestemming “Erf” rust en daar de differentiatie “Detailhandel” niet geldt. Verweerder stelt erop toe te hebben gezien dat het gebruik van het winkelpand zich beperkte tot het (voorste) gedeelte van het pand, dat binnen de hoofdbestemming “W(a) wonen aaneengesloten” is gelegen, waarbinnen de differentiatie “Detailhandel” geldt. Hij heeft niet geconstateerd dat [bedrijf 1] het gedeelte van het winkelpand dat gelegen is op de gronden waarop de bestemming “Erf” rust voor detailhandel(doeleinden) heeft gebruikt. Het door eiseres bij de brief van 18 juni 2020 gevoegde krantenbericht uit “De Limburger” van 25 augustus 2015 geeft de rechtbank geen aanleiding om te twijfelen aan de hiervoor genoemde constatering van verweerder. Integendeel: het krantenartikel biedt juist steun voor het standpunt van verweerder dat hij [bedrijf 1] slechts heeft vergund het voorste deel van het winkelpand voor detailhandel te gebruiken. In dat krantenartikel is immers vermeld dat verweerder de [bedrijf 1] outlet toestond in het voorste gedeelte van het winkelpand, omdat daarop een “detailhandelbestemming” rust en dat handhavend wordt opgetreden als het achterste gedeelte van het winkelpand in gebruik zou worden genomen. De rechtbank volgt verweerder dan ook in zijn standpunt dat ook in de periode dat [bedrijf 1] het pand gebruikte, het deel van het perceel waarop de bestemming “Erf” rust niet voor detailhandel(doeleinden) is gebruikt. Per </para>
+      <para>18 augustus 2015 is [bedrijf 1] uit het pand op het perceel vertrokken, waarna het pand weer heeft leeggestaan. Partijen verschillen van mening over de vraag wanneer het pand vervolgens weer door [bedrijf 3] in gebruik is genomen. Volgens eiseres was dit in 2018, terwijl verweerder stelt dat het begin 2019 is. Ook indien van de juistheid van de – overigens niet onderbouwde – stelling van eiseres wordt uitgegaan dat het pand in 2018 door [bedrijf 3] werd gebruikt voor de verkoop van bedden, volgt de rechtbank verweerder in zijn standpunt dat het pand, in ieder geval voor zover dat gelegen is op de gronden waarop de bestemming “Erf” rust, een aantal jaren heeft leeggestaan. Het voorgaande maakt dat eiseres naar het oordeel van de rechtbank niet aannemelijk heeft gemaakt dat het met het plan strijdige gebruik na de peildatum ononderbroken is voorgezet. Ook indien de rechtbank eiseres volgt in haar stelling dat [bedrijf 3] ook het deel van het winkelpand dat gelegen is op de gronden waarop de bestemming “Erf” rust voor de verkoop van bedden heeft gebruikt, maakt dit niet dat zij tot een ander oordeel komt. Zelfs indien [bedrijf 3] in 2018 het gehele winkelpand, dus ook het deel dat op de grond met erfbestemming ligt, voor de verkoop van bedden heeft gebruikt, is sprake van een ruim tijdverloop van eind 2009 tot 2018. Dit gebruik viel door die onderbreking niet meer onder de beschermende werking van het overgangsrecht en was dus illegaal. Voor dit gebruik heeft verweerder ook nooit een omgevingsvergunning verleend. Tegen de achtergrond dat het pand enkele jaren leeg heeft gestaan, volgt de rechtbank verweerder voorts in zijn standpunt dat de “getoonde intentie om het gebruik voort te zetten” door het te huur aanbieden van het pand als detailhandelsobject onvoldoende is om een geslaagd beroep op het overgangsrecht te doen (vergelijk de uitspraak van de Afdeling van 25 juni 2014, ECLI:NL:RVS:2014:2303).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Mocht verweerder oordelen dat het afwijken van het bestemmingsplan in strijd is met een goede ruimtelijke ordening</emphasis>?</para>
+    </parablock>
+    <para />
+    <para>19. Eiseres betoogt dat verweerder zijn standpunt dat het vestigen van reguliere detailhandel op het perceel in strijd is met een goede ruimtelijke ordening onvoldoende heeft onderbouwd. </para>
+    <para />
+    <para>20. De rechtbank overweegt dat, indien sprake is van strijd met het bestemmingsplan, op grond van artikel 2.12, aanhef en onder a, van de Wabo slechts een omgevingsvergunning voor het afwijken van het bestemmingsplan kan worden verleend, indien dit niet in strijd is met een goede ruimtelijke ordening. Het is mogelijk om van het bestemmingsplan af te wijken als het bestemmingsplan daarvoor regels biedt (de binnenplanse afwijkingsbevoegdheid; artikel 2.12, aanhef en onder a, onder 1⁰), maar ook als dit niet het geval is (de buitenplanse afwijkingsbevoegdheid; in dit geval artikel 2.12, aanhef en onder a, onder 2⁰).</para>
+    <para />
+    <para>21. De beslissing om al dan niet af te wijken van het bestemmingsplan is een discretionaire bevoegdheid van het bestuursorgaan. Het bestuursorgaan heeft daarbij beoordelingsruimte: de vrijheid om binnen de juridische kaders voor deze situatie een eigen belangenafweging te maken. Vanwege deze beoordelingsruimte mag de rechtbank het besluit slechts terughoudend toetsen, in die zin dat de rechtbank beoordeelt of verweerder in redelijkheid tot zijn besluit heeft kunnen komen. Daarbij toetst de rechtbank of het genomen besluit in overeenstemming is met het recht, berust op voldoende kennis over de relevante feiten en belangen en een deugdelijke afweging van de betrokken belangen, deugdelijk is gemotiveerd en geen onevenredige gevolgen heeft voor eiser in verhouding met de tot het besluit te dienen doelen. Of de rechtbank zelf ook tot de gemaakte keuze zou komen, is daarbij niet doorslaggevend omdat de rechtbank de beoordelingsruimte van het bestuursorgaan moet respecteren.</para>
+    <para />
+    <para>22. De rechtbank stelt vast dat het bestemmingsplan geen regels biedt om af te wijken van het bestemmingsplan. Binnenplans afwijken is dus niet mogelijk. Verweerder heeft aangegeven dat hij buitenplans, met toepassing van artikel 4, negende lid, van Bijlage II bij het Bor, van het bestemmingsplan had kunnen afwijken. De rechtbank volgt dit standpunt van verweerder. Artikel 4, negende lid, van Bijlage II bij het Bor bepaalt immers dat voor verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van deze wet waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2⁰, van de wet van het betstemmingsplan wordt afgeweken, in aanmerking komen: het gebruik van bouwwerken, eventueel in samenhang met bouwactiviteiten die de bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, mits, voor zover gelegen buiten de bebouwde kom, het uitsluitend betreft een logiesfunctie voor werknemers of de opvang van asielzoekers of andere categorieën vreemdelingen. De aanvraag van eiseres ziet niet op vergroting van de bebouwde oppervlakte of het bouwvolume, zoals eiseres desgevraagd heeft bevestigd. </para>
+    <para />
+    <para>23. De rechtbank is van oordeel dat verweerder (reeds) in de SVREZL voldoende aanleiding heeft kunnen zien om de gevraagde omgevingsvergunning af te wijzen vanwege strijd met de goede ruimtelijke ordening. De rechtbank overweegt hiertoe dat in het Provinciaal Omgevingsplan Limburg 2014 (hierna: het POL 2014) is geconstateerd dat in Limburg in toenemende mate “van alles te veel” is. Volgens het POL 2014 kent met name Zuid-Limburg een fors overaanbod aan commerciële panden. Het risico daarvan is dat functies te zeer versnipperen naar de goedkoopste locaties en dat de samenleving op termijn geen enkel aantrekkelijk, en daarmee sterk, winkelcluster overhoudt. Het POL 2014 is door 18 Zuid-Limburgse gemeenten uitgewerkt in de SVREZL die tot doel heeft de leefbaarheid in de regio te behouden. Om dit doel te bereiken moet het grote overaanbod aan commerciële panden worden ingedamd, zodat er een gezonde marktsituatie ontstaat. Leegstand kan immers grote negatieve sociaal-maatschappelijke gevolgen hebben. Om die reden zijn in de SVREZL strakke afspraken gemaakt tussen de 18 Zuid-Limburgse gemeenten over het afslanken van het overaanbod aan retail-, kantoor- en bedrijfslocaties. Op een kaart zijn de gebieden aangewezen waarin dergelijke functies nog mogen blijven. Deze gebieden zijn nader onderverdeeld in “concentratiegebieden” waar winkels mogen worden geconcentreerd en “balansgebieden” waar de bestaande hoeveelheid winkels behouden moeten blijven. Alles daarbuiten geldt als transitiegebied waar de winkelfunctie langzaam maar zeker dient te verdwijnen om zo de marktspanning weer op peil te brengen en een gezonde winkelmarkt te krijgen. Aangezien het perceel buiten het aangewezen winkelgebied valt, valt het perceel in het transitiegebied waar het streven is om winkelaanbod terug te dringen. Dit maakt dat verweerder heeft kunnen stellen dat het plan tot het vestigen van detailhandel op het perceel in strijd is met een goede ruimtelijke ordening. De stelling van eiseres dat geen meters worden toegevoegd, omdat zij van plan is de bestaande meters te gebruiken, is onjuist nu is vastgesteld dat de aangevraagde detailhandel wat betreft het achterste deel van het pand in strijd is met het bestemmingsplan. Dit betreft dus geen planologisch bestaande meters, evenmin betreft het overigens feitelijk bestaande meters. Indien het pand op het perceel weer voor detailhandel wordt gebruikt, neemt de winkelruimte buiten de gebieden waarin winkels mogen worden geconcentreerd/ behouden moeten blijven, dus toe, hetgeen in strijd is met de SVREZL. Het betoog van eiseres dat verweerder zijn stelling dat de aangevraagde kleine verandering kan leiden tot grote gevolgen voor de leefbaarheid en de leegstand niet heeft onderbouwd, leidt evenmin tot een ander oordeel. Eiseres heeft namelijk niet onderbouwd waar zij dit betoog op baseert.</para>
+    <para />
+    <para>24. De rechtbank is tot slot van oordeel dat verweerder bij de weging van de betrokken belangen een zwaarder gewicht heeft mogen toekennen aan het belang van een goede ruimtelijke ordening op basis van het in de SVREZL neergelegde beleid dan aan het individuele economisch-financiële belang van eiseres. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>25. Het voorgaande brengt de rechtbank tot de conclusie dat verweerder de gevraagde omgevingsvergunning heeft mogen weigeren. De activiteit – het vestigen van reguliere detailhandel op het perceel – is immers in strijd met het bestemmingsplan, inclusief het daarin opgenomen overgangsrecht en verweerder heeft mogen besluiten geen gebruik te maken van zijn bevoegdheid om buitenplans af te wijken omdat dit in strijd is met een goede ruimtelijke ordening.</para>
+    <para />
+    <para>26. Het beroep is ongegrond. Voor een proceskostenvergoeding bestaat geen aanleiding.</para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A. Snijders, rechter, in aanwezigheid van </para>
+      <para>mr. J.W.J. Reuvers, griffier op 28 juli 2020</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: 28 juli 2020 </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wet algemene bepalingen omgevingsrecht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2.10</para>
+    </parablock>
+    <para>1. Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, wordt de omgevingsvergunning geweigerd indien:</para>
+    <para>[…]</para>
+    <para>c. de activiteit in strijd is met het bestemmingsplan, de beheersverordening of het exploitatieplan, of de regels die gesteld zijn krachtens artikel 4.1, derde lid, of 4.3, derde lid, van de Wet ruimtelijke ordening, tenzij de activiteit niet in strijd is met een omgevingsvergunning die is verleend met toepassing van artikel 2.12;</para>
+    <para>[…].</para>
+    <para>2. In gevallen als bedoeld in het eerste lid, onder c, wordt de aanvraagd mede aangemerkt als een aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, en wordt de vergunning op de grond, bedoeld in het eerste lid, onder c, slechts geweigerd indien vergunningverlening met toepassing van artikel 2.12 niet mogelijk is.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Artikel 2.12</para>
+    </parablock>
+    <para>1. Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, kan de omgevingsvergunning slechts worden verleend indien de activiteit niet in strijd is met een goede ruimtelijke ordening en: </para>
+    <para>a. indien de activiteit in strijd is met het bestemmingsplan of de beheersverordening: </para>
+    <parablock>
+      <para>			1°	met toepassing van de in het bestemmingsplan of de beheersverordening </para>
+      <para>				opgenomen regels inzake afwijking,</para>
+      <para>			2°	in de bij algemene maatregel van bestuur aangewezen gevallen, of</para>
+      <para>			3°	in overige gevallen, indien de motivering van het besluit een goede ruimtelijke </para>
+      <para>				onderbouwing bevat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bijlage II bij het Besluit omgevingsrecht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 4</para>
+      <para>Voor verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, </para>
+      <para>eerste lid, onder c, van de wet waarbij met toepassing van artikel 2.12, eerste lid, onder a, </para>
+      <para>onder 2°, van de wet van het bestemmingsplan of de beheersverordening wordt afgeweken, </para>
+      <para>komen in aanmerking:</para>
+      <para>[…]</para>
+    </parablock>
+    <para>9. het gebruiken van bouwwerken, eventueel in samenhang met bouwactiviteiten die de </para>
+    <parablock>
+      <para>bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, mits, voor zover gelegen buiten de bebouwde kom, het uitsluitend betreft een logiesfunctie voor werknemers of de opvang van asielzoekers of andere categorieën vreemdelingen;</para>
+      <para>	[…].</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bestemmingsplan “ [plaats] Oost”</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1</para>
+      <para>In deze voorschriften wordt verstaan onder:</para>
+      <para>[…]</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Plankaart </title>
+    <para>De kaart met bijbehorende verklaring en aanduidingen, genummerd 33.676 blad 1 t/m 3, waarop de bestemmingen van de in het plan begrepen gronden zijn aangegeven.</para>
+    <para />
+  </section>
+  <section>
+    <title>Detailhandel</title>
+    <para>Het bedrijfsmatig aan particulieren te koop aanbieden, waaronder mede begrepen de uitstalling ten verkoop, verkopen en/of afleveren van goederen aan personen die deze goederen kopen voor gebruik, verbruik of aanwending anders dan in de uitoefening van een beroeps- of bedrijfsactiviteit.</para>
+    <para />
+    <parablock>
+      <para>Artikel 4</para>
+    </parablock>
+    <para>1. Het is verboden om de gronden en bouwwerken te gebruiken op een wijze of tot een doel strijdig met de gegeven bestemming(en).</para>
+    <para />
+    <parablock>
+      <para>Artikel 11</para>
+    </parablock>
+    <para>1. De op de plankaart als Wonen W(a) aangegeven gronden zijn, met inachtneming van het bepaalde in artikel 7, bestemd voor aaneengesloten woningen, met dien verstande dat daarbij op de begane grond en voor zover op de plankaart aangegeven de volgende differentiaties zijn toegestaan:</para>
+    <parablock>
+      <para>	II 	maatschappelijke doeleinden;			VI	kantoren;</para>
+      <para>	III	centrumvoorzieningen;				VII 	horeca;</para>
+      <para>	IV	detailhandel;					VIII	bedrijven;</para>
+      <para>	V	dienstverlening</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 23</para>
+    </parablock>
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>De op de plankaart als detailhandel Dh aangegeven gronden zijn bestemd voor detailhandel, met dien verstande dat in deze bestemming en voor zover op de plankaart aangegeven de volgende differentiatie(s) zijn toegestaan:</para>
+        <para>		I	woondoeleinden, met uitsluiting van kamerverhuur.</para>
+        <para>[…]</para>
+      </parablock>
+      <para>2. Op deze gronden zijn toegelaten:</para>
+      <parablock>
+        <para>		a. 	gebouwen;</para>
+        <para>		b. 	bouwwerken, niet zijnde gebouwen;</para>
+        <para>		c. 	verhardingen ten behoeve van parkeren;</para>
+        <para>		d. 	groenvoorzieningen;</para>
+        <para>		e. 	bijbehorende voorzieningen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 34</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>De op de plankaart als Erf E aangegeven gronden zijn bestemd voor tuin en/of parkeren, met dien verstande dat in deze bestemming de volgende differentiaties zijn toegestaan:</para>
+        <para>			[…]</para>
+        <para>			IV detailhandel;</para>
+        <para>			[…].</para>
+      </parablock>
+      <para>2. Op deze gronden zijn toegelaten:</para>
+      <para>a. 	bijgebouwen;</para>
+      <para>b. 	bouwwerken, niet zijnde gebouwen;</para>
+      <para>c. 	verhardingen;</para>
+      <para>d. 	groenvoorzieningen;</para>
+      <para>e. 	voorzieningen ten behoeve van de waterhuishouding;</para>
+      <para>f. 	bijbehorende voorzieningen.</para>
+      <para />
+      <parablock>
+        <para>Artikel 47</para>
+      </parablock>
+      <para>1. Een bouwwerk, dat op het tijdstip van het ter inzage leggen van het ontwerp van het pand legaal bestond of nadien legaal is of kan worden gebouwd en dat afwijkt van het plan, mag:</para>
+      <para>a. gedeeltelijk worden vernieuwd of veranderd;</para>
+      <para>[…].</para>
+      <para>2. Het legale gebruik van gronden en bouwwerken dat afwijkt van het plan op het tijdstip waarop dit plan rechtskracht verkrijgt, mag worden voortgezet, met dien verstande dat het verboden is om dit gebruik te wijzigen, indien daardoor de bestaande afwijkingen van het plan naar aard en/of intensiteit zouden worden vergroot. Het bepaalde is niet van toepassing indien het gebruik reeds in strijd was met het direct aan dit plan voorafgaande geldende plan, daaronder begrepen de overgangsbepalingen van dat plan.</para>
+      <para />
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

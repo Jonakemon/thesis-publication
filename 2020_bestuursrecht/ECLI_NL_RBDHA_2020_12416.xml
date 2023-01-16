@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12416</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-01-01T10:03:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 1895</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Onderwijs Totaal 2020/1142</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12416">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12416</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-07T16:01:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12416 Rechtbank Den Haag , 07-12-2020 / AWB - 20 _ 1895</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12416:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>toelaatbaarheidsverklaring voor voortgezet speciaal onderwijs</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12416:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 20/1895</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 7 december 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Stichting Samenwerkingsverband Passend Onderwijs VO 2801, verweerder</bridgehead>
+    <para>(gemachtigde: mr. C.F.J. Haket-Adriaansen).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 14 oktober 2019 (het primaire besluit) heeft verweerder ten behoeve van de minderjarige zoon van eiser, [A] , een toelaatbaarheidsverklaring voor de duur van één jaar en met bekostigingscategorie laag, afgegeven. Hiermee wordt [A] toelaatbaar geacht voor het voortgezet speciaal onderwijs.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen dit besluit bezwaar gemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 3 maart 2020 heeft eiser beroep ingesteld tegen de fictieve weigering van verweerder om een beslissing te nemen op zijn bezwaar.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 april 2020 (het thans bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft desgevraagd laten weten het niet eens te zijn met het bestreden besluit. Het reeds door eiser ingediende beroep is dan ook gehandhaafd. Eiser heeft tevens de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. Dit verzoek is door de voorzieningenrechter bij uitspraak van 8 juni 2020 afgewezen vanwege het ontbreken van spoedeisend belang (procedurenummer SGR 20/3254).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 4 september 2020.</para>
+      <para>Partijen zijn door middel van een skype-verbinding gehoord.</para>
+      <para>Eiser is verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Tevens is [directeur] , directeur van het samenwerkingsverband, verschenen. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De rechtbank gaat uit van de volgende feiten en omstandigheden.</para>
+    <para>
+      [A] is geboren op [geboortedag] 2006 en bekend met Multiple Complex Development Disorder (MCDD). Vanaf augustus 2018 heeft [A] gedurende 5 dagdelen per week individuele begeleiding van Quadraat (orthopedische maatschap waar kinderen en jongeren begeleid worden die problemen hebben op school). Quadraat is geen onderwijsinstelling in de zin van de Wet op de expertisecentra (WEC). </para>
+    <para />
+    <parablock>
+      <para>Bij het primaire besluit heeft verweerder, na een aanvraag van de Prof. Dr. Leo Kanner Onderwijs groep (hierna: de Leo Kannerschool) daartoe, ten behoeve van [A] een toelaatbaarheidsverklaring voor het voortgezet speciaal onderwijs toegekend, met bekostigingscategorie laag en met een geldigheidsduur van 1 augustus 2019 tot en met <?linebreak?>31 juli 2020. Tevens is een maatwerkvoorziening afgesproken tussen verweerder, de Leo Kannerschool en Quadraat om de begeleiding van [A] te bekostigen. [A] is met ingang van het schooljaar 2019-2020 ingeschreven bij de Leo Kannerschool. Zonder deze inschrijving is het niet mogelijk begeleiding te krijgen bij Quadraat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 3 december 2019 heeft verweerder aan eiser in een gesprek naar aanleiding van het ingediende bezwaarschrift, het primaire besluit nader toegelicht. Daarvan is een gespreksverslag d.d. 6 december 2019 opgemaakt. Daaruit blijkt dat is toegelicht dat de Leo Kannerschool samen met Quadraat een ingroeiplan maakt, waarin staat aan welke onderwijsdoelen [A] gaat werken. In mei 2020 evalueert de Leo Kannerschool met eiser en Quadraat welke groei er in de afgelopen maanden is geweest en aan welke doelen er in het schooljaar 2020-2021 gewerkt gaat worden. Dit laatste is tevens de onderbouwing voor de Leo Kannerschool om opnieuw een toelaatbaarheidsverklaring aan te vragen bij verweerder. Verder is blijkens voornoemd gespreksverslag toegelicht dat de komende twee schooljaren de financiering van het maatwerktraject voor [A] bij Quadraat door de Leo Kannerschool en verweerder wordt vergoed. Mocht na twee jaar blijken dat onvoldoende groei richting onderwijs in een kleine groep gerealiseerd is, dan zal de gemeente de financiering van het maatwerktraject van verweerder overnemen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij het thans bestreden besluit heeft verweerder, onder aanvulling van de motivering naar aanleiding van het advies van de Landelijke Bezwaaradviescommissie Toelaatbaarheids-verklaring (LBT) en onder overlegging van aangepaste deskundigenadviezen, het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <para>2 Eiser kan zich in het bestreden besluit niet vinden en voert daartoe – samengevat weergegeven - het volgende aan. </para>
+    <para>Het is altijd duidelijk geweest dat [A] niet geschikt is om klassikaal onderwijs te volgen. Verweerder had dan ook nooit de voorwaarde aan de bekostiging van het onderwijs mogen verbinden, dat [A] binnen twee jaar klaargestoomd zou moeten zijn voor klassikaal onderwijs. Eiser heeft niet ingestemd met deze financieringsconstructie, zodat sprake is van misleiding. </para>
+    <para />
+    <parablock>
+      <para>De koppeling aan de Leo Kannerschool was in de beleving van eiser (en Quadraat) slechts een administratieve koppeling om de financiering rond te krijgen. Duidelijk was dat [A] het onderwijs zou blijven volgen bij Quadraat. De Leo Kannerschool ging er evenwel vanuit dat [A] op school onderwijs zou volgen. Er is dus sprake van een vorm van dwaling. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser is het vertrouwen kwijt geraakt in de directeur van de Leo Kannerschool en de directeur van het Samenwerkingsverband. Er wordt onder één hoedje gespeeld. Eiser wil dat de koppeling met de Leo Kannerschool verdwijnt en dat een andere, wél bij de ontwikkeling van [A] betrokken, school ervoor in de plaats komt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De door verweerder overgelegde deskundigenadviezen komen uit de lucht vallen. De ‘deskundigen’ hebben [A] nooit gezien en hun adviezen zijn dus niet deskundig te noemen.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Er is sprake van détournement de pouvoir. Het besluit strekt er toe om [A] jaren van onderwijs te ontnemen. Indien [A] aan een school gekoppeld blijft, is er recht op onderwijsfinanciering tot zijn 20e levensjaar. Bij de constructie dat [A] alleen nog naar Quadraat gaat financiert de gemeente de begeleiding bij Quadraat maar voor <?linebreak?>2 jaar, ingaande op het moment dat eiser niet geschikt blijkt voor (klassikaal) onderwijs. In het geval van [A] zal dat al op zijn 18e (of, zoals door eiser ter zitting gesteld vóór zijn 16e) levensjaar zijn. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser wenst vernietiging van de huidige financieringsconstructie en wil de garantie van  onderwijsfinanciering totdat [A] 20 jaar is. Op de huidige manier is geen sprake van continuïteit van financiering. </para>
+    </parablock>
+    <para />
+    <para>3 Verweerder heeft gemotiveerd verweer gevoerd. </para>
+    <para />
+    <para>4 In artikel 17a, zesde lid, van de Wet op het voorgezet onderwijs (WVO) is, voor zover van belang, bepaald dat het samenwerkingsverband in elk geval tot taak heeft:</para>
+    <para>c. het beoordelen of leerlingen aangewezen zijn op het leerwegondersteunend onderwijs, of toelaatbaar zijn tot het praktijkonderwijs of het voortgezet speciaal onderwijs, op verzoek van het bevoegd gezag van een school als bedoeld in het tweede lid waar de leerling is aangemeld of ingeschreven, en</para>
+    <para>d. het adviseren over de ondersteuningsbehoefte van een leerling op verzoek van het bevoegd gezag van een school als bedoeld in het tweede lid waar de leerling is aangemeld of ingeschreven.</para>
+    <para />
+    <parablock>
+      <para>Het Ondersteuningsplan Samenwerkingsverband Passend Onderwijs VO 2801 2016-2020 (het Ondersteuningsplan) vermeldt in paragraaf 2.3.2 ‘Het VSO’, voor zover van belang, het volgende: </para>
+      <para>“<emphasis role="bold">Werkwijze</emphasis></para>
+      <para>Het bevoegd gezag van een school kan bij het Samenwerkingsverband een toelaatbaarheidsverklaring speciaal onderwijs aanvragen. Dit altijd in goed overleg met de ouders. Het Samenwerkingsverband geeft een toelaatbaarheidsverklaring af voor bepaalde tijd, op advies van de adviescommissie toelaatbaarheid (ACT). Deze voldoet aan de eisen gesteld in de wet. (bijlage richtlijnen toelaatbaarheid VSO). </para>
+      <para>Voor alle leerlingen in het VSO wordt een ontwikkelingsperspectief opgesteld in samenspraak met de ouders. Als dat mogelijk is heeft een tijdelijk verblijf in het speciaal onderwijs, na een zekere tijd gevolgd door terugkeer naar een reguliere school de voorkeur.” </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Richtlijn Toelaatbaarheid tot het Voortgezet Speciaal Onderwijs van verweerder en het Samenwerkingsverband V(S)O Duin- en Bollenstreek van oktober 2019 (hierna: de Richtlijn) vermeldt bij bekostingscategorie, voor zover van belang:</para>
+      <para>“Uitgangspunt is te beoordelen of de leerling toelaatbaar is tot VSO, er wordt geredeneerd vanuit de bekostigingscategorie die past bij de expliciet omschreven basisondersteuning van het vso (voor de meeste vso locaties is dit laag).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij aanvraag voor midden of hoog:</para>
+      <para>Expliciet aangeven dat de onderwijsbehoefte de basisondersteuning van het vso overstijgt op de volgende gebieden:</para>
+    </parablock>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Tijd en/of aandacht</para>
+      </listitem>
+      <listitem>
+        <para>Materiaal</para>
+      </listitem>
+      <listitem>
+        <para>Ruimte</para>
+      </listitem>
+      <listitem>
+        <para>Expertise</para>
+      </listitem>
+      <listitem>
+        <para>Samenwerken met andere instanties. </para>
+      </listitem>
+    </orderedlist>
+    <parablock>
+      <para>Geef hierbij expliciet aan wat de zorgcomponent is. De mogelijkheid tot het samenstellen van een passend onderwijszorgarrangement dient verkend te zijn, bevindingen en conclusies hiervan worden beschreven in het opp. </para>
+      <para>(…)</para>
+      <para>De afgifte voor midden en hoog is variabel en is afhankelijk van de problematiek in combinatie met de onderwijsbehoeften.” </para>
+    </parablock>
+    <para />
+    <para>5 Uit het betoog van eiser begrijpt de rechtbank dat het hem niet gaat om de toelaatbaarheid van [A] tot het speciaal voortgezet onderwijs, omdat (ook) voor eiser voldoende vaststaat dat de ondersteuningsbehoefte van [A] de ondersteuningsmogelijkheden binnen het reguliere onderwijs overstijgt. De rechtbank begrijpt de beroepsgronden van eiser aldus dat hij het niet eens is met de afgifte van de toelaatbaarheidsverklaring (hierna: tlv) voor de duur van 1 jaar en met de door verweerder vastgestelde bekostigingscategorie laag. </para>
+    <para />
+    <para>6 De rechtbank overweegt allereerst dat de LBT in haar advies van 1 april 2020 heeft geconstateerd dat uit de afgegeven tlv onvoldoende duidelijk blijkt wat de inhoudelijke motivering is voor de bekostigingscategorie en de duur van de verklaring. De afwegingen die ten grondslag liggen aan het besluit, waarom is gekozen voor een maatwerktraject met plusvariant in plaats van bekostigingscategorie hoog en waarom is gekozen voor een tlv met een geldigheidsduur van een schooljaar, moeten duidelijk gemotiveerd kenbaar worden gemaakt in de beslissing op bezwaar, aldus de LBT. Niettemin heeft de LBT de tlv op basis van de in bezwaar overgelegde stukken en hetgeen door verweerder naar voren is gebracht tijdens de hoorzitting in bezwaar, als “inhoudelijk niet onjuist” beoordeeld. Verder heeft de LBT vastgesteld dat er ten tijde van het primaire besluit twee onpartijdige deskundigenadviezen ontbraken, dat deze nadien zijn opgesteld en toegevoegd aan het dossier en dat deze volgens de LBT naar vorm en inhoud niet gelden als twee eigenstandige deskundigenadviezen. Uit de deskundigenadviezen blijkt namelijk niet van een, vanuit eigen expertise, beargumenteerd oordeel op de vraag of voor [A] een tlv-vso passend is en ook ontbreekt enige visie op een aanvullend maatwerktraject en de duur van de tlv. </para>
+    <para>De LBT acht beide gebreken reparabel in de bezwaarfase. </para>
+    <para />
+    <para>7 Met betrekking tot de deskundigenadviezen overweegt de rechtbank dat verweerder bij de beslissing op bezwaar twee aangepaste deskundigenadviezen heeft overgelegd; van orthopedagoog generalist/GZ-psycholoog M.J. Schneider d.d. 18 maart 2020 en van drs. M. Sammels, orthopedagoog, d.d. 8 april 2020. Uit beide adviezen volgt dat en waarom de deskundigen de aanvraag voor een tlv ondersteunen. Verweerder heeft in het verweerschrift toegelicht dat gebruikelijk is dat het samenwerkingsverband een dossier samenstelt van de leerling en dit dossier voor het afgeven van het deskundigenadvies voorlegt aan de deskundigen die geraadpleegd worden. Zo is het ook gegaan bij de advisering over [A] . De rechtbank acht deze wijze van advisering niet onredelijk. Uit de adviezen blijkt naar het oordeel van de rechtbank afdoende dat de deskundigen de situatie van [A] in ogenschouw hebben genomen. Daarbij zijn de deskundigenadviezen in lijn met het beeld van [A] dat is ontstaan uit de stukken die bij de aanvraag voor een tlv zijn overgelegd. Zonder nadere toelichting van eiser over waarom de adviezen onvoldoende deskundig of anderszins onjuist zijn, ziet de rechtbank geen reden om anders te oordelen. Van concrete aanknopingspunten om te twijfelen aan de inhoudelijke juistheid of de zorgvuldigheid waarmee de adviezen tot stand zijn gekomen, is naar het oordeel van de rechtbank geen sprake.    </para>
+    <para />
+    <para>8 Verweerder heeft in de beslissing op bezwaar voorts uitgelegd waarom is gekozen voor een tlv voor de duur van één schooljaar en met bekostigingscategorie laag. Daarbij heeft verweerder toegelicht dat er in de zomer van 2019 een gesprek heeft plaatsgevonden met eiser, Gedragswerk, het Jeugd- en Gezinteam, de gemeente en verweerder waarin onder meer is gesproken over de bekostigingscategorie waartoe [A] behoort. Tijdens dit gesprek is gesproken over de mogelijke toekenning van de bekostigingscategorie hoog. Verweerder licht verder toe dat uiteindelijk is besloten om een tlv met bekostigingscategorie laag af te geven en de extra kosten die gemaakt moeten worden voor de financiering van het onderwijs op Quadraat te vergoeden aan de school. Door deze wijze van financiering wordt de toegekende vergoeding voor de financiering van het maatwerktraject voor [A] gebaseerd op de daadwerkelijk gemaakte kosten en niet op basis van een vaststaand bedrag, aldus verweerder. Daarbij heeft verweerder verwezen naar het beleid (zoals de rechtbank begrijpt de Richtlijn) waarin staat dat voor een bekostigingsniveau midden of hoog de mogelijkheid tot het samenstellen van een passend onderwijszorgarrangement verkend moet zijn. Dit wordt momenteel onderzocht middels het maatwerktraject, aldus verweerder. Het is niet uitgesloten dat [A] bij een herbeoordeling alsnog in aanmerking kan komen voor een tlv met een hogere bekostigingscategorie. </para>
+    <para />
+    <parablock>
+      <para>Verder heeft verweerder toegelicht dat – in afwijking van het beleid voor de Leo Kannerschool dat tlv’s in beginsel voor de gehele duur van de schoolcarrière worden aangevraagd – voor een geldigheidsduur van 1 jaar is gekozen vanwege het onderzoek naar de mogelijkheden tot terugkeer van [A] naar onderwijs in een groep. Daarbij is van belang dat de Leo Kannerschool met Quadraat een ingroeiplan maakt waarin staat beschreven aan welke onderwijsdoelen [A] gaat werken, dat in mei 2020 een evaluatie zal plaatsvinden waarbij op basis van het ontwikkelingsperspectief kan worden beoordeeld welke groei er is geweest en aan welke doelen er in het schooljaar 2020-2021 gewerkt kan gaan worden. Op basis van die gegevens kan de school een nieuwe toelaatbaarheidsverklaring aanvragen bij verweerder. Door een tijdelijke tlv af te geven, blijft [A] ondersteuning ontvangen vanuit Quadraat en wordt tegelijkertijd bezien of onderwijs in een groep weer mogelijk kan zijn. Wanneer dit niet lukt kan het maatwerktraject en de bekostiging van Quadraat gecontinueerd worden, aldus verweerder.   </para>
+    </parablock>
+    <para />
+    <para>9 De rechtbank is van oordeel dat verweerder met deze nadere toelichting het door de LBT geconstateerde motiveringsgebrek in het primaire besluit (de tlv) ten aanzien van de geldigheidsduur en de bekostigingscategorie heeft gerepareerd. Daarbij acht de rechtbank, met de LBT, van belang dat de bekostigingscategorie laag in combinatie met een arrangement om de begeleiding bij Quadraat te bekostigen, aansluit bij de ondersteuningsbehoefte van [A] . Buiten kijf staat immers dat, zoals ook blijkt uit het door verweerder bij de aanvraag van de tlv in acht genomen Onderwijsperspectiefplan van juli 2019, [A] goed gedijt bij de individuele begeleiding vanuit Quadraat. Verder acht de rechtbank met de LBT van belang dat het maatwerk en de bekostiging van Quadraat gecontinueerd worden doordat de eerste twee jaar zullen worden bekostigd vanuit de school en daarna, als blijkt dat onderwijs in een schoolse setting niet mogelijk is, vanuit de gemeente. Naar het oordeel van de rechtbank is verweerder hiermee voldoende gemotiveerd afgeweken van zijn beleid om tlv’s voor de Leo Kannerschool in beginsel voor de gehele schoolloopbaan af te geven. Verder is de rechtbank met de LBT en verweerder van oordeel dat niet is gebleken dat de relatief korte tijdsduur van de tlv afbreuk doet aan een langer durend onderwijsplan voor [A] , nu verweerder gelijktijdig met de school en ketenpartners heeft besloten een maatwerktraject te starten. </para>
+    <para />
+    <para>10 Dat onderdeel van het maatwerktraject uitmaakt dat onderzocht wordt of [A] in een periode van 2 jaar zou kunnen deelnemen aan enige vorm van onderwijs in een groep, maakt naar het oordeel van de rechtbank niet dat het bestreden besluit niet in stand kan blijven. Daartoe is van belang dat, zoals verweerder in het verweerschrift en ter zitting heeft toegelicht, het bevoegd gezag van de school waarop de leerling is ingeschreven, onderzoek dient te verrichten naar de mogelijkheid van het volgen van het volledig aantal uren onderwijs door de leerling. Dit volgt uit de Variawet<footnote-ref linkend="_4cdab25e-d8ec-4896-9c85-af8cb4417991" /> en de Beleidsregel van 19 juni 2018<footnote-ref linkend="_744da13a-2396-47e6-b795-445a6af651b7" /> inzake het instemmen met afwijking van het verplichte aantal uren onderwijs, waartoe het bevoegd gezag van de Leo Kannerschool in het geval van [A] een aanvraag heeft ingediend, aldus verweerder ter zitting. Met verweerder is de rechtbank van oordeel dat het doen van onderzoek de verantwoordelijkheid van de school is, en niet van verweerder. In zoverre ligt dit element van het maatwerktraject niet ter toetsing voor. Overigens heeft verweerder ter zitting ter informatie toegelicht dat niet per se hoeft te worden gestreefd naar deelname van [A] aan onderwijs in een volledige klas, maar dat dit ook onderwijs op een zorgboerderij of onderwijs in een kleine groep kan zijn. De rechtbank stelt vast dat dit aansluit bij de aanvraag van de toelaatbaarheidsverklaring door de Leo Kannerschool van <?linebreak?>28 augustus 2019. Daarin is door de directeur opgemerkt dat door de school zal worden onderzocht of [A] in staat zal zijn om toe te groeien naar het volgen van onderwijs in een kleine groep en in een schoolse setting. Hieruit blijkt ook dat de Leo Kannerschool er niet vanuit ging dat [A] in het schooljaar 2019-2020 deel zou nemen aan klassikaal onderwijs, zoals eiser stelt. Tot slot overweegt de rechtbank in dit kader dat ook uit de twee deskundigenadviezen niet blijkt dat de mogelijkheid tot het geleidelijk laten instromen van [A] in enige vorm van onderwijs in een schoolse setting bij voorbaat kansloos wordt geacht.  </para>
+    <para />
+    <para>11 Dat eiser (kennelijk) niet op de hoogte was van voornoemde onderzoeksverplichting maakt evenmin dat het maatwerktraject als onderdeel van de tlv niet in stand kan blijven. Immers heeft eiser wel ingestemd met de uitkomst van het maatwerktraject, te weten het door [A] ontvangen van begeleiding bij Quadraat, en heeft eiser [A] voor het schooljaar 2019-2020 ingeschreven bij de Leo Kannerschool. Bovendien blijkt uit de aanvraag dat de directeur van de Leo Kannerschool op basis van een gesprek met eiser en een medewerker van Gedragswerk over [A] tot het besluit is gekomen dat [A] een kans moet krijgen om mogelijk terug te keren naar het onderwijs. Zoals in de Beleidsregel is beschreven is het uitgangspunt van de onderwijswetgeving dat alle kinderen onderwijs volgen op school. Op school ontmoeten ze andere leerlingen, sluiten ze vriendschappen en verwerven ze belangrijke sociale en maatschappelijke competenties. Ondanks dat dit onderzoek dus een vereiste is, valt te betreuren dat eiser hier dus (kennelijk) niet van op de hoogte was en daar achteraf door lijkt te zijn overvallen. Het is de rechtbank evenwel niet gebleken dat eiser op dit punt (al dan niet bewust) misleid is door verweerder en/of de Leo Kannerschool. </para>
+    <para />
+    <para>12 De omstandigheid dat eiser op zijn zachtst gezegd niet tevreden is over de wijze waarop aan het maatwerktraject vorm gegeven wordt door de Leo Kannerschool, ligt niet ter toetsing bij de rechtbank voor. Eiser is ontevreden over de door hem benoemde lakse houding van de directeur van de Leo Kannerschool. Verweerder heeft ter zitting de toezegging gedaan om contact op te nemen met de directeur van deze school om te proberen of het contact met eiser verbeterd kan worden. Daarnaast is ter zitting door verweerder gewezen op de mogelijkheid die het beleid biedt om [A] bij een andere school in te schrijven. Vanaf het moment van inschrijving zal die school verantwoordelijk worden voor de extra ondersteuning. Deze is verplicht al dan niet met ondersteuning van buiten goed en passend onderwijs te bieden. Wanneer de school deze extra ondersteuning niet zelf kan bieden, is de school verplicht een andere school te zoeken die dat wel kan en bereid is de leerling in te schrijven. Verweerder heeft daarbij ter zitting aangegeven dat indien geen enkele school in de regio passend blijkt, verweerder kan meedenken in de zoektocht naar een oplossing. De rechtbank gaat ervan uit dat verweerder, in voorkomend geval, zal handelen conform deze toezegging die overigens conform het Ondersteuningsplan van verweerder is (o.a. paragrafen 3.1 en 3.4).  </para>
+    <para />
+    <para>13 Tot slot stelt de rechtbank vast dat eiser, Quadraat, de Leo Kannerschool en verweerder het er op dit moment over eens lijken zijn dat [A] geen klassikaal onderwijs aan kan. Verweerder heeft ter zitting toegelicht dat met het huidige maatwerktraject geprobeerd is te kijken of onderwijs in een andere vorm in de toekomst wellicht wel haalbaar zal zijn. Omdat er ook bij verweerder twijfel bestaat over deze haalbaarheid, is verweerder gemotiveerd afgeweken van de standaard periode voor het verlenen van een toelaatbaarheidsverklaring bij de Leo Kannerschool voor de gehele schoolcarrière. Er is gekozen voor een periode van een jaar met inmiddels ook een verlenging van een jaar. Indien verweerder alleen een toelaatbaarheidsverklaring voor de gehele schoolcarrière had mogen afgeven zou er geen toelaatbaarheidsverklaring afgegeven zijn omdat [A] daarmee toelaatbaar wordt geacht tot het voortgezet speciaal onderwijs gedurende zijn gehele schoolcarrière terwijl dat nu juist onderzocht wordt in het maatwerktraject, aldus ter zitting door verweerder desgevraagd toegelicht. Verweerder wil daar niet op vooruitlopen. Het is nu juist door het maatwerktraject dat [A] nog twee jaar onderwijsfinanciering heeft gekregen, hoewel er getwijfeld wordt aan de geschiktheid van [A] om in de toekomst deel te nemen aan klassikaal onderwijs. </para>
+    <para />
+    <parablock>
+      <para>Omdat Quadraat alleen een passende plek is om begeleiding te krijgen voor [A] maar Quadraat zelf geen onderwijs biedt, geeft het enkel volgen van onderwijs bij Quadraat geen recht op onderwijsfinanciering. Ook de mogelijkheid tot afwijken van de onderwijstijd, zoals bij [A] thans het geval is nu hij 5 dagen per week drie uur per dag naar Quadraat gaat, bestaat alleen bij koppeling aan een onderwijsinstelling, in dit geval de Leo Kannerschool. In zekere zin is dus inderdaad sprake van een administratieve koppeling, zoals eiser betoogt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dat eiser beoogt thans de garantie te krijgen dat [A] tot zijn 20e levensjaar onderwijs/begeleiding kan volgen in een omgeving zoals bij Quadraat is invoelbaar, echter dit leidt niet tot een ander oordeel ten aanzien van het bestreden besluit. Om recht te behouden op onderwijs is een koppeling met een onderwijsinstelling nodig. Indien na twee jaar onderzoek, waarvoor inmiddels tweemaal een toelaatbaarheidsverklaring afgegeven is, blijkt dat [A] niet geschikt is voor enige vorm van onderwijs, zal hij buiten de onderwijsfinanciering vallen. Vanaf dan is alleen nog sprake van dagbesteding. Daarvoor zal de gemeente twee jaar bijspringen. Hoewel begrijpelijk is dat eiser dit eventueel toekomstige scenario niet wenselijk vindt voor [A] , ziet de rechtbank onvoldoende aanknopingspunten om te oordelen dat verweerder zijn bevoegdheid tot het nemen van een besluit voor een ander doel heeft gebruikt dan waarvoor die bevoegdheid is verleend. Van détournement de pouvoir is geen sprake. </para>
+    </parablock>
+    <para />
+    <para>14 Het beroep is ongegrond.</para>
+    <para />
+    <para>15 Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het beroep tegen het niet tijdig beslissen op bezwaar</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft verweerder bij brief van 16 januari 2020 in gebreke gesteld in verband met het uitblijven van een beslissing op zijn bezwaarschrift dat hij op 12 november 2019 heeft ingediend. Op 10 april 2020 heeft verweerder de beslissing op bezwaar genomen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht beslist het bestuursorgaan binnen zes weken of - indien een commissie als bedoeld in artikel 7:13 is ingesteld - binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van een bezwaarschrift is verstreken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank stelt vast dat de beslistermijn van 12 weken op het moment van de ingebrekestelling op 16 januari 2020 nog niet was verstreken. Dat betekent dat de ingebrekestelling prematuur is verzonden. De rechtbank stelt daarnaast vast dat eiser na het verstrijken van de beslistermijn verweerder niet nogmaals in gebreke gesteld heeft. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep tegen het niet tijdig beslissen op bezwaar is gelet op het voorstaande niet-ontvankelijk. Voor proceskostenveroordeling bestaat geen aanleiding. </para>
+    </parablock>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep tegen het bestreden besluit ongegrond;</para>
+    <para>- verklaart het beroep tegen het niet tijdig beslissen op het bezwaar niet-ontvankelijk. </para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.L.E. Bakels, rechter, in aanwezigheid van </para>
+      <para>mr. A. Badermann, griffier, op 7 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Rechter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hoger beroepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">BIJLAGE</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel II, onder A, van de Wet van 20 december 2017 tot wijziging van enige onderwijswetten in verband met het aanbrengen van enkele aanpassingen met beperkte beleidsmatige gevolgen en enkele technische wijzigingen met betrekking tot onder andere de bekostiging van passend onderwijs en de invoering van het lerarenregister (hierna: de Variawet), wijzigt de Wet op het voortgezet onderwijs als volgt:</para>
+      <para>Aan artikel 6g wordt een lid toegevoegd, luidende:</para>
+    </parablock>
+    <para />
+    <para>7. De inspectie kan op verzoek van het bevoegd gezag ermee instemmen dat om lichamelijke of psychische redenen voor individuele leerlingen wordt afgeweken van het eerste, tweede, derde of vierde lid. </para>
+    <para />
+    <parablock>
+      <para>Door dit zevende lid worden meer wettelijke maatwerkmogelijkheden gecreëerd voor leerlingen die tijdelijk of gedeeltelijk niet naar school kunnen. (…) De inspectie stelt een beleidsregel op die regelt onder welke voorwaarden een dergelijk verzoek gehonoreerd wordt. (Kamerstukken II, 2016/17, 34 732, nr. 3, p. 5-6).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze beleidsregel is neergelegd in het besluit van de inspecteur-generaal van het onderwijs van 19 juni 2018, nr. 5184548, tot vaststelling van de beleidsregel van de inspecteur-generaal van het onderwijs inzake het instemmen met afwijking van het verplichte aantal uren onderwijs (hierna: de Beleidsregel). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Beleidsregel van 19 juni 2018, nr. 5184548</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Onderdeel 6 van de Beleidsregel geeft aan dat het uitgangspunt is dat alle leerlingen onderwijs volgen op school. In een aantal gevallen kan het echter nodig zijn om aan individuele leerlingen met lichamelijke of psychische problemen maatwerk te bieden door af te wijken van het verplichte aantal uren onderwijstijd. Tegelijkertijd moet worden voorkomen dat ten onrechte van deze mogelijkheid gebruik wordt gemaakt, terwijl binnen een school een passende oplossing gevonden kan worden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vier categorieën</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de volgende situaties kan het voorkomen dat een individuele leerling structureel niet deelneemt aan het onderwijs van de groep of klas waarin hij is geplaatst:</para>
+    </parablock>
+    <para>a. vanwege noodzakelijke behandeling ter ondersteuning van het onderwijs aan een leerling in het speciaal onderwijs; </para>
+    <para>b. vanwege noodzakelijke medisch of paramedisch geïndiceerde behandeling of als gevolg van een ziekte die belet dat de leerling de volle schooltijd aanwezig blijft of blijft deelnemen aan het voor hem bestemde onderwijs; </para>
+    <para>c. vanwege noodzakelijke behandeling van een leerling die onderwijs volgt op een school als bedoeld in artikel 71c van de WEC en </para>
+    <para>d. andere situatie dan onder a, b, c.</para>
+    <para />
+    <parablock>
+      <para>Categorie d </para>
+      <para>Voor alle andere leerlingen die zijn ingeschreven op een school voor speciaal onderwijs, een basisschool of een school voor voortgezet onderwijs voor wie geldt dat zij vanwege lichamelijke en/of psychische redenen niet volledig aan het onderwijs kunnen deelnemen (categorie d), moeten scholen een aanvraag indienen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In deze aanvraag vermeld het bevoegd gezag het volgende:</para>
+      <para>1.voor hoeveel uren per week en gedurende welke periode gedurende het schooljaar de afwijking wordt aangevraagd;</para>
+      <para>2.dat voor de leerling een ontwikkelingsperspectief (opp) is opgesteld dat aan de vereisten genoemd in deze beleidsregel voldoet;</para>
+      <para>3.in het voorkomende geval: dat eerder is verzocht om afwijking van de onderwijstijd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ad 2.</para>
+      <para>In het opp dient het bevoegd gezag van de school te onderbouwen waarom de afwijking van de onderwijstijd noodzakelijk is en welke ondersteuning wordt geboden. Daarvoor neemt het bevoegd gezag in het opp het volgende op:</para>
+      <para>•waarom deze afwijking volgens deskundigen als bedoeld in artikel 34.8 Besluit bekostiging WPO en artikel 15a van het Inrichtingsbesluit WVO noodzakelijk is. In het speciaal onderwijs is dat de commissie voor de begeleiding (scholen) of de commissie van onderzoek (instellingen);</para>
+      <para>•waaruit de afwijking van het programma van de leerling bestaat en om hoeveel uren onderwijstijd per week en over het betreffende schooljaar het gaat;</para>
+      <para>•voor welke periode binnen het lopende schooljaar deze afwijking geldt;</para>
+      <para>•welk onderwijsprogramma de leerling op school volgt en welk onderwijs en/of welke ondersteuning aan de leerling wordt geboden gedurende de uren dat deze niet op school is;</para>
+      <para>•op welke wijze het planmatig toewerkt naar het volgen van het volledig aantal geprogrammeerde uren onderwijs door de leerling.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wanneer eerder is verzocht om afwijking van de onderwijstijd, bevat het opp:</para>
+      <para>•een evaluatie van de eventueel eerder geboden extra ondersteuning en;</para>
+      <para>•wat het bevoegd gezag eraan doet om te bewerkstelligen dat een leerling alsnog ingroeit wanneer dat niet binnen het voorgaand schooljaar is gelukt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Toelichting:</para>
+      <para>Het uitgangspunt van de onderwijswetgeving is dat alle kinderen onderwijs volgen op school. Op school ontmoeten ze andere leerlingen, sluiten ze vriendschappen en verwerven ze belangrijke sociale en maatschappelijke competenties. Soms kunnen kinderen echter vanwege psychische of lichamelijke beperkingen tijdelijk of gedeeltelijk niet naar school. In de brief van 18 november 2015 van de toenmalige staatssecretaris van Onderwijs, Cultuur en Wetenschap aan de Tweede Kamer werd daarom al aangekondigd dat het ook voor leerlingen in het primair en voortgezet onderwijs mogelijk wordt om maatwerk te bieden doordat kan worden afgeweken van de voorgeschreven onderwijstijd. In het speciaal onderwijs bestond deze mogelijkheid om af te wijken van de onderwijstijd en tijdelijk minder onderwijs op school te volgen al. Omdat het bezoeken van de school zo belangrijk is voor leerlingen moet het bevoegd gezag de beslissing om de leerling minder onderwijs op school te laten volgen goed onderbouwen. Daarvoor is een ontwikkelingsperspectief noodzakelijk.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ontwikkelingsperspectief</para>
+      <para>Voor leerlingen op scholen voor speciaal onderwijs, speciale scholen voor basisonderwijs en voor leerlingen die praktijkonderwijs volgen moet het bevoegd gezag een ontwikkelingsperspectief opstellen (artikel 41a WEC, artikel 40a, lid 1, onder b, WPO en artikel 26, lid 1, onder b, WVO). Het opstellen en evalueren van een ontwikkelingsperspectief (opp) is in het geval dat van de onderwijstijd wordt afgeweken vanwege lichamelijke of psychische problemen ook voor basisscholen en scholen voor voortgezet onderwijs verplicht. Het afwijken van het op basis van de betreffende sectorwet geprogrammeerde onderwijsprogramma is immers een mogelijkheid om extra ondersteuning aan de leerling met lichamelijke of psychische problemen te bieden, zodat de school ondanks de lichamelijke en/of psychische problemen optimaal kan werken aan het bereiken van onderwijsdoelen en het behalen van de vooraf bepaalde uitstroombestemming van de leerling (artikel 40a, lid, 1, onder a, WPO en art 26, lid 1, onder a, WVO).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij het afwijken van de onderwijstijd is sprake van op de leerling toegesneden ondersteuning en begeleiding die boven het basisaanbod uitstijgt en die specifiek is toegesneden op die individuele leerling. Deze ondersteuning maakt daarom onderdeel uit van het handelingsdeel van het opp waarover overeenstemming moet zijn bereikt met de ouders (art 41a, lid 2, WEC). Op deze manier is geregeld dat tussen de school en ouders overeenstemming bestaat over de afwijking van het onderwijsprogramma.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De toestemming om af te wijken geldt voor het lopende schooljaar. Na een jaar wordt de situatie van de leerling en de aanpak in het opp geëvalueerd. In beginsel moet een leerling binnen een schooljaar weer het volledige schoolprogramma kunnen volgen. Wanneer het binnen dat schooljaar niet gelukt is om de leerling weer het volledige onderwijsprogramma op school te laten volgen, moet het bevoegd gezag bij de daarop volgende aanvraag extra motiveren wat het er aan doet om alsnog aan dat vereiste te voldoen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het besluit om af te wijken wordt in het primair en voortgezet onderwijs onderbouwd door een ter zake deskundige of deskundigen. Dat wil zeggen een kinder- of jeugdpsycholoog, een (ortho)pedagoog, een kinderpsychiater of een arts.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De extra ondersteuning is in de eerste plaats de verantwoordelijkheid van de school van inschrijving. Deze is verplicht al dan niet met ondersteuning van buiten goed en passend onderwijs te bieden. Wanneer de school deze extra ondersteuning niet zelf kan bieden, dan is de school verplicht een andere school te zoeken die dat wel kan en bereid is de leerling in te schrijven.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <footnote id="_4cdab25e-d8ec-4896-9c85-af8cb4417991" label="1">
+    <para> De wet van 20 december 2017 tot wijziging van enige onderwijswetten in verband met het aanbrengen van enkele aanpassingen met beperkte beleidsmatige gevolgen en enkele technische wijzigingen met betrekking tot onder andere de bekostiging van passend onderwijs en de invoering van het lerarenregister, waarbij de Wet op het voortgezet onderwijs op onderdelen is gewijzigd. Zie bijlage voor relevante bepaling. </para>
+  </footnote>
+  <footnote id="_744da13a-2396-47e6-b795-445a6af651b7" label="2">
+    <para> Het besluit van de inspecteur-generaal van het onderwijs van 19 juni 2018, nr. 5184548, tot vaststelling van de beleidsregel van de inspecteur-generaal van het onderwijs inzake het instemmen met afwijking van het verplichte aantal uren onderwijs. Zie bijlage voor relevante bepalingen en toelichting.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBLIM:2020:5006</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-06T09:30:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Limburg" scheme="overheid.RechterlijkeMacht">Rechtbank Limburg</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 17 _ 2704</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Maastricht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:5006">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:5006</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-06T09:30:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBLIM:2020:5006 Rechtbank Limburg , 10-07-2020 / AWB - 17 _ 2704</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBLIM:2020:5006:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>AW.</para>
+        <para>Beroepsziekte (PTSS).</para>
+        <para>Buitenrechtspositionele schade.</para>
+        <para>Smartengeld.</para>
+        <para>Overschrijding redelijke termijn (6 EVRM).</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBLIM:2020:5006:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>
+    <emphasis role="bold caps">RECHTBANK limburg</emphasis>
+  </para>
+  <parablock>
+    <para>Zittingsplaats Maastricht</para>
+  </parablock>
+  <parablock>
+    <para>Bestuursrecht</para>
+  </parablock>
+  <parablock>
+    <para>zaaknummer: AWB/ROE 17/2704</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">uitspraak van de enkelvoudige kamer van 10 juli 2020 in de zaak tussen</emphasis>
+    </para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">
+        [naam]
+      </emphasis>, te [woonplaats] , eiser</para>
+    <para>(gemachtigde: mr. N.D. Dane),</para>
+  </parablock>
+  <parablock>
+    <para>en</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">de korschef van politie</emphasis>, verweerder</para>
+    <para>(gemachtigde: mr. M.P.W. Steuten).</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Procesverloop </emphasis>
+    </para>
+  </parablock>
+  <parablock>
+    <para>Bij besluit van 23 december 2015 (het primaire besluit) heeft verweerder eisers verzoek om smartengeld op grond van artikel 54a van het Besluit algemene rechtspositie politie (Barp) afgewezen, omdat nog geen sprake zou zijn van een medische eindtoestand.</para>
+  </parablock>
+  <parablock>
+    <para>Bij besluit van 19 juli 2017 (het bestreden besluit) heeft verweerder het bezwaar van eiser</para>
+    <para>gegrond verklaard en hem een vergoeding toegekend van € 30.000 (netto). </para>
+  </parablock>
+  <parablock>
+    <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+  </parablock>
+  <parablock>
+    <para>Bij beslissing op bezwaar van 22 maart 2019 heeft verweerder het bestreden besluit</para>
+    <para>gewijzigd en de vergoeding vastgesteld op € 161.555 (netto). Op grond van artikel 6:19 van</para>
+    <para>de Algemene wet bestuursrecht (Awb) is het beroep van eiser (mede) gericht tegen dit</para>
+    <para>besluit.</para>
+  </parablock>
+  <parablock>
+    <para>Verweerder heeft een verweerschrift ingediend.</para>
+  </parablock>
+  <parablock>
+    <para>Het onderzoek ter zitting heeft, gevoegd met de zaak AWB 16/2299, plaatsgevonden op </para>
+    <para>28 januari 2020. Namens eiser is verschenen zijn gemachtigde. Verweerder is, met bericht van verhindering, niet verschenen.</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Overwegingen</emphasis>
+    </para>
+  </parablock>
+  <parablock>
+    <para>1. Eiser heeft sedert 1996 gewerkt bij de politie Zeeland. In 2011 is eiser volledig uitgevallen wegens arbeidsongeschiktheid. Bij besluit van 29 augustus 2012 heeft verweerder eisers ziekte (PTSS) aangemerkt als beroepsziekte. Eiser heeft op 17 oktober 2013 bij verweerder een verzoek ingediend tot erkenning van de aansprakelijkheid voor de buitenrechtspostionele schade wegens schending van de zorgplicht en/of fouten van ondergeschikten. Bij brief van 25 oktober 2012 heeft eiser verweerder om een smartengeldvergoeding (ex artikel 54a Barp) verzocht.</para>
+  </parablock>
+  <section>
+    <title>
+      <nr>2</nr>De rechtbank overweegt als volgt.</title>
+    <para />
+    <parablock>
+      <para>De rechtbank merkt verweerders besluiten van 19 juli 2017 en 22 maart 2019 tezamen aan als één beslissing op bezwaar.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij faxbericht van 8 januari 2020 heeft eisers gemachtigde de rechtbank meegedeeld dat het beroep met betrekking tot het smartengeld niet langer wordt gehandhaafd. Eiser handhaaft wel zijn verzoek om schadevergoeding wegens overschrijding van de redelijke termijn als bedoeld in artikel 6 EVRM.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank is van oordeel dat eisers beroep niet-ontvankelijk moet worden verklaard, omdat eiser geen (proces) belang meer heeft bij een beoordeling door de rechtbank van de beslissing op bezwaar.</para>
+    </parablock>
+    <para />
+    <para>3. Met betrekking tot eisers verzoek om schadevergoeding wegens overschrijding van de redelijke termijn overweegt de rechtbank het volgende.</para>
+    <para />
+    <parablock>
+      <para>Op grond van vaste jurisprudentie (bijvoorbeeld: ECLI:NL:CRVB:2019:3588) mag de behandeling van het bezwaar niet langer dan een 0,5 jaar en het beroep niet langer dan 1,5 jaar (in totaal dus 2 jaar) duren vanaf ontvangst bezwaarschrift tot datum uitspraak rechtbank. De hoogte van de schadevergoeding bedraagt € 500,- voor elk half jaar (of deel daarvan) dat de redelijke termijn is overschreden. De redelijke termijn vangt aan op het moment dat het bestuursorgaan het bezwaarschrift heeft ontvangen en eindigt op het moment dat de rechtbank uitspraak heeft gedaan. Indien de totale procedure langer heeft geduurd (dan 2 jaar), dient per instantie te worden bezien of sprake is van een langere behandelingsduur dan gerechtvaardigd.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft het bezwaarschrift van eiser ontvangen in februari 2016 en de rechtbank heeft uitspraak gedaan in juli 2020. Dit betekent dat de redelijke termijn met 2,5 jaar is overschreden. Eiser heeft recht op een schadevergoeding van 5 x € 500 = € 2.500.</para>
+    </parablock>
+    <para />
+    <para>4. De rechtbank stelt vast dat verweerder in juli 2017 (en eerst op 22 maart 2019 volledig) heeft beslist op het bezwaar van eiser. Dit betekent dat verweerder zijn beslistermijn heeft overschreden. Verweerders stelling dat sprake is van een bijzondere omstandigheid omdat een dwangsom is verbeurd, moet worden verworpen onder verwijzing naar de uitspraak van de Centrale Raad van Beroep van 8 september 2011 (ECLI:NL:CRVB:2011:BT2081). De rechtbank is voorts van oordeel dat ook een gedeelte van de periode gelegen tussen het instellen van beroep door eiser bij de rechtbank (augustus 2017) en de gewijzigde beslissing op bezwaar (maart 2019) voor rekening van verweerder dient te komen, aangezien verweerder de rechtbank bij brief van 16 maart 2018 heeft verzocht de zaak aan te houden, omdat is verzuimd een zogenaamd tweede uitkeringspercentage vast te stellen.</para>
+    <para>Op grond van het vorenstaande stelt de rechtbank verweerders aandeel in de termijnoverschrijding vast op 2 jaar = € 2.000,-. Het overige deel komt voor rekening van de rechtbank (Staat der Nederlanden).</para>
+    <para />
+    <para>5. De rechtbank wijst het verzoek om schadevergoeding wegens overschrijding van de redelijke termijn toe ten bedrage van in totaal € 2.500,-.</para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>6</nr>Het beroep is niet-ontvankelijk.</title>
+    <para />
+    <para>7. De rechtbank ziet aanleiding te bepalen dat verweerder aan eiser het door hem betaalde griffierecht vergoedt, omdat verweerder het bestreden besluit heeft gewijzigd, nadat door eiser beroep was ingesteld.</para>
+    <para />
+    <para>8. De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op  € 1050,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, met een waarde per punt van </para>
+    <para>€ 525,- en een wegingsfactor 1). </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Beslissing</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep niet-ontvankelijk;</para>
+      </listitem>
+      <listitem>
+        <para>wijst het verzoek om schadevergoeding toe;</para>
+      </listitem>
+    </itemizedlist>
+    <para>- veroordeelt verweerder tot het betalen van een schadevergoeding aan eiser tot een bedrag van € 2.000,-;</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>veroordeelt de Staat der Nederlanden tot het betalen van een schadevergoeding aan eiser tot een bedrag van € 500,-.</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 168,- aan eiser te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1050,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. F.A.G.M. Vluggen, rechter, in aanwezigheid van </para>
+      <para>mr. E.W. Seylhouwer, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 10 juli 2020 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier is buiten staat	rechter</para>
+      <para>te tekenen</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: 10 juli 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

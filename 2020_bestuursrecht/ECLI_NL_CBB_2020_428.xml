@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:428</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-30T13:19:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1036</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:428">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:428</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-26T10:01:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:428 College van Beroep voor het bedrijfsleven , 30-06-2020 / 18/1036</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:428:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Regeling nationale EZ-subsidies, titel 3.4. MKB innovatiestimulering topsectoren, van de bevoegdheid om op grond van artikel 4:46 de subsidie lager vast te stellen is in redelijkheid gebruik gemaakt.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:428:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/1036</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 30 juni 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">Block-IT Now B.V., te Hoofddorp, appellante</bridgehead>
+    <para>(gemachtigde: M. Eickholt),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Economische Zaken en Klimaat, verweerder</bridgehead>
+    <para>(gemachtigde: mr. W.L.C. Rijk).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 februari 2018 (het primaire besluit) heeft verweerder de aan appellante, op grond van de MKB innovatiestimulering in de topsectoren van de Regeling nationale EZ-subsidies (de Regeling), verleende subsidie voor het project “Dijkdoorgang/Coupure Waterschap Peel &amp; Maas; Locatie Beegden” vastgesteld op € 45.000,- en € 22.500,- aan verleende voorschotten van appellante teruggevorderd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 april 2018 (het bestreden besluit) is het bezwaar van appellante namens verweerder ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 19 mei 2020. Aan de zitting hebben deelgenomen appellante, vertegenwoordigd door M. Eickholt en bijgestaan door [naam] , en verweerder, die zich heeft laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Aan appellante, penvoerder, en Hydroton B.V., deelnemer, is bij besluit van 11 december 2014, op grond van de titel MKB innovatiestimulering in de topsectoren van de Regeling, subsidie verleend. Van deze subsidie, in totaal een bedrag ter hoogte van € 90.000,-, kreeg appellante € 60.000,- toegekend en de deelnemer € 30.000,-. De looptijd van het project is bepaald van 1 januari 2015 tot en met 31 december 2015.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Op 3 december 2015 heeft appellante een verzoek tot wijziging voor het project ingediend. Bij besluit van 14 april 2016 heeft verweerder dit verzoek ingewilligd en de looptijd van het project verlengd tot 30 november 2016.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Op 18 augustus 2017 heeft appellante een vaststellingsaanvraag ingediend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Bij het primaire besluit heeft verweerder de subsidie (ambtshalve) vastgesteld op € 45.000,-. Dit bedrag is 50% van de oorspronkelijk verleende subsidie. Appellante en de deelnemer hebben samen € 81.000,- aan voorschotten ontvangen. Na verrekening van het vastgestelde subsidiebedrag met deze voorschotten resteert een totaalbedrag van € 36.000,- aan onverschuldigd betaalde voorschotten. Verweerder vordert € 22.500,- terug van appellante en € 13.500,- van de deelnemer.</para>
+      <para />
+      <para>2. Aan het bestreden besluit heeft verweerder ten grondslag gelegd dat appellante de doelstelling van het project, het realiseren van een permanent geplaatste, computergestuurde en volautomatische waterkering, niet heeft gehaald. Uit de bij de vaststellingsaanvraag behorende eindrapportage blijkt dat de productie en de plaatsing van het systeem geen doorgang hebben gevonden. Verweerder stelt dat alleen kosten, die begroot zijn voor de fases die wel gerealiseerd zijn, voor subsidie in aanmerking komen. Volgens de eindrapportage is ongeveer 50% van de kosten gerealiseerd. Verweerder baseert de vaststelling op de prestatie die is geleverd in verhouding tot het beoogde resultaat zoals dat is beschreven in het projectplan. Daarom heeft hij de subsidie vastgesteld op 50% van de verleende subsidie.</para>
+      <para />
+      <para>3. Appellante is het niet eens met de verlaging van de toegewezen subsidie met 50%. Daartoe heeft zij in beroep aangevoerd dat zij wel de afgesproken doelstellingen heeft behaald en alle testen heeft uitgevoerd zonder hiervoor extra kosten te maken. Alleen de productie en implementatie zijn niet gerealiseerd als gevolg van onvoorziene externe vertragingen. Vanwege deze vertragingen heeft appellante verlenging voor het project aangevraagd en tot en met de einddatum heeft zij regelmatig contact had met de projectmanager. Zij voelde zich daardoor gesterkt de projectdoelstellingen toch zoveel mogelijk te realiseren, zonder dat de bouw voor derden tot de mogelijkheden behoorde. Appellante vindt een korting van 50% bovendien niet reëel. Zij heeft ruim € 229.000,- aan kosten gemaakt. Dit heeft zij ook per e-mail van 18 augustus 2017 aan verweerder medegedeeld. De kosten voor het maken van een model dat op de site geplaatst kan worden, heeft zij hierbij niet meegerekend, ook omdat dat model niet gemaakt is. Hierdoor heeft appellante ongeveer € 70.000,- minder kosten gemaakt dan zij heeft begroot. Appellante stelt dat, op de bouw van het product na, alle doelstellingen zijn behaald en dat zij met een proefmodel kans heeft gezien alle markttoetsingen te doen. Een verlaging met 50% van de subsidie is volgens appellante dan ook onbegrijpelijk. Verder voert appellante aan dat zij als kleine beginnende onderneming door het besluit van verweerder gepenaliseerd wordt. Dit is volgens appellante niet het doel van subsidieverstrekking. Ter zitting heeft appellante gesteld dat plaatsing en productie wel onderdeel zijn van het projectplan, maar dat deze geen deel uitmaken van de begroting. Voor dit onderdeel zou het waterschap subsidie kunnen krijgen. </para>
+      <para />
+      <para>4. Op grond van artikel 4:46, eerste lid, van de Algemene wet bestuursrecht (Awb) stelt het bestuursorgaan de subsidie overeenkomstig de subsidieverlening vast. Op grond van het tweede lid, aanhef en onder a, kan de subsidie lager worden vastgesteld indien de activiteiten waarvoor subsidie is verleend niet of niet geheel hebben plaatsgevonden. Op grond van het tweede lid, aanhef en onder b, kan de subsidie lager worden vastgesteld indien de subsidie-ontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen. </para>
+      <parablock>
+        <para>In artikel 4:95, vierde lid, van de Awb is de mogelijkheid opgenomen dat onverschuldigd betaalde voorschotten worden teruggevorderd.</para>
+        <para>In artikel 36a van het Kaderbesluit nationale EZ-subsidies wordt bepaald dat de subsidieontvanger onverwijld schriftelijk mededeling doet aan verweerder zodra aannemelijk is dat: a. de subsidiabele activiteiten niet, niet tijdig of niet geheel zullen worden verricht, of b. niet, niet tijdig of niet geheel aan de aan de subsidie verbonden verplichtingen zal worden voldaan.</para>
+        <para>In artikel 37, eerste lid, van het Kaderbesluit nationale EZ-subsidies is bepaald dat indien een beschikking tot subsidieverlening betrekking heeft op een plan, de subsidieontvanger de activiteiten uitvoert overeenkomstig dit plan. In het derde lid is bepaald dat verweerder voor het vertragen of het essentieel wijzigen van de wijze van uitvoering van de activiteiten op voorafgaand verzoek van de subsidieontvanger ontheffing kan verlenen van de verplichting, bedoeld in het eerste lid, tenzij hierdoor afbreuk wordt gedaan aan doelstellingen als omschreven in het plan. Aan de ontheffing kunnen voorschriften worden verbonden.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Bij brief van 16 juli 2019 aan verweerder heeft het College opgemerkt dat het bestreden besluit is ondertekend namens Gedeputeerde Staten van de provincie Zuid-Holland. Hierover heeft het College aan verweerder opheldering gevraagd, waarbij verweerder in de gelegenheid is gesteld het besluit te herzien dan wel te bekrachtigen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Hierop heeft verweerder, bij brief van 22 juli 2019, aangegeven dat het om een verschrijving gaat en dat hij, als minister van Economische Zaken en Klimaat, het bestreden besluit bekrachtigt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Appellante heeft, bij brief van 19 februari 2020 en herhaald ter zitting, aangegeven twijfels te hebben of het besluit rechtmatig is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Het College overweegt dat niet in geschil is dat het bestreden besluit bevoegd namens verweerder in mandaat is genomen. Er is daarom alleen sprake van een gebrek in de ondertekening. Ter zitting heeft de gemachtigde van de minister van Economische Zaken en Klimaat nogmaals het besluit namens verweerder bevestigd en bekrachtigd. Hiermee is naar oordeel van het College het gebrek hersteld. Het College ziet aanleiding om dit gebrek te passeren met toepassing van artikel 6:22 van de Awb, aangezien niet is gebleken dat appellante in enig materieel dan wel processueel belang is geschaad. Appellante heeft ook pas in een laat stadium van de procedure een vraag opgeworpen over de ondertekening, naar aanleiding van de brief van het College aan verweerder van 16 juli 2019, ruim na de indiening van het beroep en de beroepsgronden. Uit het beroepschrift blijkt dat er bij appellante geen misverstand over heeft bestaan dat het bestreden besluit namens verweerder is genomen. De gronden van het beroep hebben geen betrekking op dit ondertekeningsgebrek.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het College ziet zich vervolgens voor de vraag gesteld of verweerder in redelijkheid gebruik heeft kunnen maken van zijn bevoegdheid de subsidie lager vast te stellen en wel op 50%.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Het beoogde eindresultaat van het project is een permanent geplaatste, computergestuurde, volautomatische en flexibele waterkering. Dat de productie en plaatsing van de waterkering onderdeel uitmaakt van het project waarvoor de subsidie is toegekend, blijkt uit het projectplan op basis waarvan de verlening van de subsidie heeft plaatsgevonden. Ter zitting heeft verweerder toegelicht dat juist de beoogde daadwerkelijke plaatsing een belangrijke reden is geweest om aan het project subsidie toe te kennen. Vast staat dat dit niet is uitgevoerd, zodat moet worden vastgesteld dat de activiteiten waarvoor subsidie is verleend niet geheel hebben plaatsgevonden en appellante niet heeft voldaan aan de aan de subsidie verbonden verplichtingen. Verweerder was daarom bevoegd op grond van artikel 4:46, tweede lid, aanhef onder a en b, van de Awb de subsidie lager vast te stellen.<?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Appellante heeft in de eindrapportage over het project zelf aangegeven dat ongeveer 50% van de kosten niet is gerealiseerd. Verweerder heeft dit gegeven als uitgangspunt genomen bij de vaststelling van de subsidie. Appellante heeft naar het oordeel van het College onvoldoende onderbouwd waarom verweerder dit percentage niet als uitgangspunt had mogen nemen. Aan de pas ter zitting opgeworpen stelling dat zij meer dan 50% van de kosten van het project gemaakt heeft, aangezien, zoals zij stelt, de beginfase van het project (het onderzoek en het testen) duurder is dan de eindfase van het project en de productie en plaatsing geen onderdeel uitmaakten van de bij de aanvraag gevoegde begroting, gaat het College voorbij. Appellante heeft voldoende gelegenheid gehad, zowel in bezwaar als in beroep, om dit eerder dan ter zitting naar voren te brengen en te onderbouwen. Daarnaast acht het College van belang dat het eindresultaat, dat niet is behaald, juist voor deze subsidie, die door middel van een tenderprocedure beschikbaar is gesteld, essentieel is. Aangezien het project waarvoor de subsidie is verleend niet is uitgevoerd, anders dan vooraf bij de subsidieverlening was bepaald, en gezien het feit dat appellante het percentage van 50% zelf heeft aangedragen, acht het College het niet onredelijk dat verweerder bij de vaststelling is uitgegaan van het percentage van 50%.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>Voor zover appellante een beroep doet op het vertrouwensbeginsel, kan dat beroep niet slagen. Appellante heeft uit het contact met de projectmanager niet kunnen afleiden dat haar project niet afgerond hoefde te worden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <para>Gelet op het voorgaande is het College van oordeel dat verweerder, op grond van artikel 4:46, tweede lid, aanhef en onder a en b, van de Awb, in redelijkheid gebruik heeft kunnen maken van zijn bevoegdheid om de subsidie met 50% lager vast te stellen en wel op € 45.000,- .</para>
+      <para />
+      <parablock>
+        <para>7.	Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.H. de Wildt, mr. J.L. Verbeek en mr. A. Venekamp, in aanwezigheid van mr. M.H. van Kersbergen, griffier. De beslissing is in het openbaar uitgesproken op 30 juni 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. J.H. de Wildt 						w.g. M.H. van Kersbergen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De voorzitter is verhinderd te ondertekenen		</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

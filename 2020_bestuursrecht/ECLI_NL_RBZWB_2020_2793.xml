@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:2793</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-09T08:59:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 19 _ 4518, 19_4520 EN 19_4521</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2793">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2793</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-09T08:58:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:2793 Rechtbank Zeeland-West-Brabant , 25-06-2020 / AWB- 19 _ 4518, 19_4520 EN 19_4521</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:2793:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>GEMWT</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:2793:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Breda</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/4518, 19/4520 en 19/4521 GEMWT</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 25 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] , te [plaatsnaam] , eiser</bridgehead>
+    <para>gemachtigde: [gemachtigde] ,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Tilburg, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij brief van 19 april 2019 heeft het college de Stichting Juridisch Eigendom [naam stichting] Studentenfonds ( [naam stichting] ) een schriftelijke waarschuwing gegeven ten aanzien van de [adres1] te [plaatsnaam2] . Bij besluit van 15 augustus 2019 (het bestreden besluit I) heeft de burgemeester het door eiser daartegen gemaakte bezwaar niet-ontvankelijk verklaard. Eiser heeft hiertegen beroep ingesteld. Dit beroep is geregistreerd onder zaaknummer BRE 19/4518 GEMWT.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 19 april 2019 heeft het college [naam stichting] ook een schriftelijke waarschuwing gegeven ten aanzien van de [adres2] te [plaatsnaam2] . Bij besluit van 15 augustus 2019 (het bestreden besluit II) heeft de burgemeester het door eiser daartegen gemaakte bezwaar niet-ontvankelijk verklaard. Eiser heeft hiertegen beroep ingesteld. Dit beroep is geregistreerd onder zaaknummer BRE 19/4520 GEMWT.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 19 april 2019 heeft het college [naam stichting] tot slot een schriftelijke waarschuwing gegeven ten aanzien van de [adres3] te [plaatsnaam2] . Bij besluit van 15 augustus 2019 (het bestreden besluit III) heeft de burgemeester het door eiser daartegen gemaakte bezwaar niet-ontvankelijk verklaard. Eiser heeft ook hiertegen beroep ingesteld. Dit beroep is geregistreerd onder zaaknummer BRE 19/4521 GEMWT.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft in alle zaken een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is besproken op de zitting van de rechtbank op 14 mei 2020.</para>
+      <para>Het college heeft zich hierbij laten vertegenwoordigen door mr. A.M.J. van den Biggelaar. Eiser is niet verschenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Op grond van de stukken en de behandeling ter zitting gaat de rechtbank uit van de volgende feiten en omstandigheden.</para>
+    <para />
+    <parablock>
+      <para>Eiser was eigenaar van de panden gelegen aan de [adres1] , de [adres2] en de [adres3] te [plaatsnaam2] . In december 2018 heeft hij deze panden in eigendom overgedragen aan [naam stichting] . </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Zaaknummer BRE 19/4518 GEMWT: de [adres1]</emphasis>
+      </para>
+      <para>Op 13 en 21 maart 2019 brachten medewerkers van de afdeling Veiligheid &amp; Wijken van de gemeente Tilburg een bezoek aan het pand aan de [adres1] te [plaatsnaam2] . Hierbij werd een controle verricht naar de kamerverhuurvergunning en de brandveiligheid. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De medewerkers constateerden, kort samengevat, dat het pand in strijd met het bestemmings-plan wordt gebruikt, doordat er vier zelfstandige woonruimten in zijn gerealiseerd, een wooneenheid aan de achterzijde van het pand niet bereikbaar is via de hoofdtoegang en het tuinhuis gebruikt wordt als woonruimte. Daarnaast werd geconstateerd dat de plafonds niet voldoen aan het Bouwbesluit 2012 (het Bouwbesluit), dat er in strijd met de Algemene plaatselijke verordening een uitrit is gemaakt en dat er een reclamebord aan de voorgevel hangt zonder dat daarvoor een vergunning is verleend.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Zaaknummer BRE 19/4520 GEMWT: de [adres2]</emphasis>
+      </para>
+      <para>Op 13 maart 2019 brachten medewerkers van de afdeling Veiligheid &amp; Wijken van de gemeente Tilburg een bezoek aan het pand aan de [adres2] te [plaatsnaam2] . Hierbij werd een controle verricht van de kamerverhuurvergunning en de brandveiligheid. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De medewerkers constateerden, kort samengevat, dat het pand in strijd met het bestemmings-plan wordt gebruikt, doordat het is gesplitst in drie zelfstandige woonruimten, dat de back-up batterijen van de rookmelders leeg waren en dat er, in strijd met het Bouwbesluit, geen brandblustoestellen aanwezig waren op de begane grond en op de overloop van de tweede verdieping. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Zaaknummer BRE 19/4521 GEMWT: de [adres3]</emphasis>
+      </para>
+      <para>Op 13 maart 2019 brachten medewerkers van de afdeling Veiligheid &amp; Wijken van de gemeente Tilburg een bezoek aan het pand aan de [adres3] te [plaatsnaam2] . Hierbij werd een controle verricht van de kamerverhuurvergunning en de brandveiligheid. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De medewerkers constateerden dat in strijd met het Bouwbesluit de optische rookmelders op zolder te dicht tegen de wand waren gemonteerd, dat meerdere andere rookmelders onjuist ten opzichte van balken waren gemonteerd en dat er onvoldoende brandblustoestellen aanwezig waren. Het bijgebouw werd, in strijd met het bestemmingsplan, gebruikt als kantoor/fotostudio. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">In alle zaken</emphasis>
+      </para>
+      <para>Het college heeft [naam stichting] als eigenaar van de panden op 19 april 2019 drie brieven gestuurd. Eén brief naar aanleiding van de bevindingen ten aanzien van het pand aan de [adres1] , één ten aanzien van de [adres2] en één ten aanzien van de [adres3] . In de brieven deelt het college [naam stichting] mede dat er bij de controles van de panden overtredingen zijn geconstateerd en waarschuwt het college ervoor dat het, als bij een volgende controle wordt geconstateerd dat de in de brieven genoemde overtredingen niet zijn beëindigd, een bestuursrechtelijke procedure zal starten. [naam stichting] krijgt in ieder geval tot 30 juni 2019 de tijd de overtredingen te verhelpen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft op 28 april 2019 bezwaar gemaakt tegen de brieven. In zijn bezwaarschrift komt eiser op tegen een aantal van de gestelde overtredingen. Het gaat om het gestelde gebruik van de percelen in strijd met het bestemmingsplan (artikel 2.1, lid 1, onder c, van de Wet algemene bepalingen omgevingsrecht (Wabo)) en tegen de stelling van het college dat de erfafscheiding in de poort bij de [adres1] zou zijn gemaakt zonder omgevingsvergunning (artikel 2.1, eerste lid, onder a, van de Wabo). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft het bezwaar niet-ontvankelijk verklaard, omdat de brieven van 19 april 2019 volgens het college geen besluiten zijn als bedoeld in de Algemene wet bestuursrecht (Awb), zodat er ook geen bezwaar tegen kan worden gemaakt. Zouden de waarschuwingen al als besluiten moeten worden gekwalificeerd, dan is eiser geen belanghebbende daarbij en is het bezwaar ook om die reden niet-ontvankelijk. Eiser heeft namelijk slechts een afgeleid belang. </para>
+    </parablock>
+    <para />
+    <para>2. Eiser voert, samengevat, aan dat de brieven wel als besluiten moeten worden aangemerkt en verwijst naar artikel 92a van het Bouwbesluit (de rechtbank begrijpt dat eiser bedoeld heeft: artikel 92a van de Woningwet). Mocht geen sprake zijn van een besluit, dan moeten de waarschuwingen worden gelijkgesteld met een besluit, nu ze geen eindmoment kennen. Eiser is verder belanghebbende bij de besluiten. Omdat hij jegens [naam stichting] mogelijk schadeplichtig is, moet hij zich tegen de verwijten die het college aan [naam stichting] maakt kunnen verweren. De verwijten die in de waarschuwingen worden gemaakt aan [naam stichting] , zijn gedragingen van eiser, zodat het feit dat sprake is van een afgeleid belang hem niet dient te worden tegengeworpen. </para>
+    <para />
+    <para>3. Voor de leesbaarheid zijn de wettelijke bepalingen opgenomen in de bijlage bij deze uitspraak. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Zijn de brieven van 19 april 2019 te kwalificeren als besluiten?</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Bezwaar en beroep staat alleen open tegen besluiten.<footnote-ref linkend="_2e2364e3-a526-4e33-b29f-73f84b79687c" /> Onder een besluit wordt verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publieksrechtelijke rechtshandeling.<footnote-ref linkend="_29c2f2b4-a4db-4e05-a383-7820d5372ecd" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>
+        [naam stichting] is in de brieven van 19 april 2019 gewaarschuwd dat er overtredingen werden begaan en dat, als deze overtredingen niet worden opgelost, in de toekomst handhavend zal worden opgetreden. De waarschuwingen hebben in zoverre geen rechtsgevolg: er verandert niets in de wereld van het recht. [naam stichting] moest de wet al nakomen en dit geldt nog steeds. Een waarschuwing is naar vaste rechtspraak in beginsel dan ook geen besluit.<footnote-ref linkend="_c4bb5dbe-8ced-4914-9457-2f77148e3ea3" /> De Afdeling bestuursrechtspraak van de Raad van State (ABRvS) heeft op 2 mei 2018 (ECLI:NL:RVS:2018:1449) overwogen dat dit anders kan zijn als het gaat om een op een wettelijk voorschrift gebaseerde waarschuwing die een voorwaarde is voor het toepassen van een sanctiebevoegdheid. De waarschuwing vormt dan een essentieel onderdeel van een sanctieregime en heeft binnen het sanctieregime rechtsgevolg, omdat hiermee een bevoegdheid wordt geopend die er daarvoor nog niet was: namelijk de bevoegdheid bij een volgende overtreding een sanctie op te leggen, terwijl dit voor de waarschuwing nog niet kon. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <parablock>
+        <para>Eiser heeft in dit verband gewezen op artikel 92a van de Woningwet. Die wet kent de waarschuwing wel als onderdeel van het sanctieregime.<footnote-ref linkend="_36e9cf93-3b88-4a74-b362-bea13202b967" /> Op grond van dit artikel kan het college een overtreder namelijk een bestuurlijke boete opleggen als deze overtreder, kort gezegd, binnen twee jaar voor de tweede keer het verbod van artikel 1b van de Woningwet overtreedt. In artikel 1b van de Woningwet staan een aantal algemene verbodsbepalingen opgenomen die zijn gekoppeld aan de (bouw)voorschriften uit het Bouwbesluit. </para>
+        <para>De vraag of de waarschuwingen in de brieven van 19 april 2019 die betrekking hebben op het Bouwbesluit daarom als besluiten gezien moeten worden, laat de rechtbank echter onbeantwoord. Eiser is in bezwaar namelijk niet opgekomen tegen de gestelde overtredingen van het Bouwbesluit. Zijn bezwaren richten zich uitsluitend tegen het gestelde gebruik van de panden in strijd met het bestemmingsplan en het gestelde bouwen zonder omgevings-vergunning (overtreding van de Wabo). Deze onderdelen van de waarschuwingsbrieven kunnen niet leiden tot een boete op grond van artikel 92a van de Woningwet en hebben dus geen rechtsgevolg. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Zijn de brieven gelijk te stellen met een besluit?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>De rechtbank stelt dan ook vast dat de waarschuwingen die betrekking hebben op overtreding van de Wabo niet zijn gebaseerd op een wettelijk voorschrift. Ze zijn ook niet gebaseerd op beleidsregels. We hebben het dan ook over informele waarschuwingen. </para>
+      <para />
+      <parablock>
+        <para>Er zijn situaties waarin informele waarschuwingen voor de rechtsbescherming met een besluit moeten worden gelijkgesteld, zodat zij in rechte kunnen worden bestreden. Die situaties doen zich voor indien de alternatieve route om een rechterlijk oordeel over die waarschuwingen te krijgen onevenredig bezwarend of afwezig is.<footnote-ref linkend="_240ffcf0-3cd5-435f-a126-312e472d62b2" /> Dat kan onder meer zo zijn indien de mogelijke negatieve gevolgen van een waarschuwing iemand heel lang boven het hoofd kunnen blijven hangen.<footnote-ref linkend="_bee81d14-6718-4a99-9779-f4b169d32848" /> Er mogen niet tot in de eeuwigheid negatieve gevolgen worden verbonden aan een waarschuwing, zonder dat iemand daar iets tegen kan doen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>In dit geval zijn er echter geen negatieve gevolgen verbonden aan de waarschuwingen die betrekking hebben op overtreding van de Wabo. Het is – bijvoorbeeld – niet zo dat bij een volgende overtreding een zwaardere sanctie kan of zal volgen. Er bestaat dan ook geen aanleiding voor het oordeel dat deze waarschuwingen dienen te worden gelijkgesteld met een besluit omdat de alternatieve route om rechtsbescherming te krijgen onevenredig bezwarend zou zijn. Het feit dat eiser de panden in december 2018 heeft verkocht, waardoor hij nu niet meer onbeperkt toegang heeft tot de panden, is in ieder geval geen omstandigheid die ertoe zou moeten leiden dat de waarschuwingen met een besluit moeten worden gelijkgesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De rechtbank concludeert dat de waarschuwingen waartegen eiser bezwaar maakt geen besluiten zijn en ook niet dienen te worden gelijkgesteld met een besluit. Het college heeft het bezwaar van eiser terecht niet-ontvankelijk bevonden. De beroepsgrond slaagt niet. </para>
+      <para />
+      <para>6. De rechtbank concludeert dat het college het bezwaar van eiser tegen de brieven van 19 april 2019 terecht niet-ontvankelijk heeft verklaard. Omdat het besluit om het bezwaar van eiser niet-ontvankelijk te verklaren terecht op deze grond is gebaseerd, behoeven de overige beroepsgronden van eiser ten aanzien van de niet-ontvankelijkverklaring geen bespreking meer. Het beroep is ongegrond. </para>
+      <para />
+      <para>7. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. K.H.J. Vermariën, rechter, in aanwezigheid van </para>
+      <para>mr. A.M. Pasmans, griffier, op 25 juni 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage </title>
+    <para />
+    <parablock>
+      <para>Artikel 1:2, eerste lid, van de Awb luidt:</para>
+      <para>Onder belanghebbende wordt verstaan: degene wiens belang rechtstreeks bij een besluit is betrokken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1:3, eerste lid, van de Awb luidt:</para>
+      <para>Onder besluit wordt verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7:1, eerste lid, van de Awb luidt:</para>
+      <para>Degene aan wie het recht is toegekend beroep bij een bestuursrechter in te stellen, dient alvorens beroep in te stellen bezwaar te maken, tenzij (…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 8:1 van de Awb luidt:</para>
+      <para>Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 92a, eerste lid, van de Woningwet luidt:</para>
+    </parablock>
+    <para>1. Het bevoegd gezag kan een bestuurlijke boete opleggen ter zake van een overtreding van het verbod van artikel 1b, indien de overtreder minder dan twee jaar voorafgaande aan die overtreding een overtreding van artikel 1b heeft begaan.</para>
+    <para />
+    <parablock>
+      <para>Artikel 1b van de Woningwet luidt:</para>
+    </parablock>
+    <para>1. Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 2, eerste lid, aanhef en onderdeel a, tweede lid, aanhef en onderdeel d, derde en vierde lid. </para>
+    <para>2. Het is verboden een bestaand bouwwerk, open erf of terrein in een staat te brengen, te laten komen of te houden die niet voldoet aan de op de staat van dat bouwwerk, open erf of terrein van toepassing zijnde voorschriften, bedoeld in artikel 2, eerste lid, aanhef en onderdeel b, tweede lid, aanhef en onderdeel a, en vierde lid. </para>
+    <para>3. Het is verboden een bouwwerk, open erf of terrein in gebruik te nemen, te gebruiken of te laten gebruiken, anders dan in overeenstemming met de op die ingebruikneming of dat gebruik van toepassing zijnde voorschriften, bedoeld in artikel 2, eerste lid, aanhef en onderdeel c, tweede lid, aanhef en onderdeel b, derde en vierde lid. </para>
+    <para>4. Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk, dan wel deel daarvan, in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste lid. </para>
+    <para>5. Het is verboden te slopen voor zover daarbij niet wordt voldaan aan de op dat slopen van toepassing zijnde voorschriften, bedoeld in artikel 2, tweede lid, aanhef en onderdelen c en d, en derde lid. </para>
+    <para />
+    <parablock>
+      <para>Artikel 2.1, eerste lid, onder a en c, van de Wabo luidt:</para>
+    </parablock>
+    <para>1. Het is verboden zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit: </para>
+    <para>a. het bouwen van een bouwwerk, </para>
+    <para>(…) </para>
+    <para>c. het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan, een beheersverordening, een exploitatieplan, de regels gesteld krachtens artikel 4.1, derde lid, of 4.3, derde lid, van de Wet ruimtelijke ordening of een voorbereidingsbesluit voor zover toepassing is gegeven aan artikel 3.7, vierde lid, tweede volzin, van die wet, (…). </para>
+    <para />
+  </section>
+  <footnote id="_2e2364e3-a526-4e33-b29f-73f84b79687c" label="1">
+    <para> Dit volgt uit artikel 7:1, eerste lid, van de Awb in samenhang met artikel 8:1 van de Awb.</para>
+  </footnote>
+  <footnote id="_29c2f2b4-a4db-4e05-a383-7820d5372ecd" label="2">
+    <para> Zie artikel 1:3, eerste lid, van de Awb.</para>
+  </footnote>
+  <footnote id="_c4bb5dbe-8ced-4914-9457-2f77148e3ea3" label="3">
+    <para> Zie de uitspraak van de ABRvS van 2 mei 2018, ECLI:NL:RVS:2018:1449 en van 22 januari 2020, ECLI:NL:RVS:2020:187.</para>
+  </footnote>
+  <footnote id="_36e9cf93-3b88-4a74-b362-bea13202b967" label="4">
+    <para>
+      <emphasis role="italic">Tweede Kamerstukken</emphasis>, 2013-2014, 33 798, nr. 3, p 16-17.</para>
+  </footnote>
+  <footnote id="_240ffcf0-3cd5-435f-a126-312e472d62b2" label="5">
+    <para> Zie de uitspraak van de ABRvS van 14 april 2020, ECLI:NL:RVS:2020:187.</para>
+  </footnote>
+  <footnote id="_bee81d14-6718-4a99-9779-f4b169d32848" label="6">
+    <para> Zie de uitspraak van de ABRvS van 27 november 2019, ECLI:NL:RVS:2019:3984.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

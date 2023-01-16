@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:890</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-01T13:20:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1187 en 18/1188</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0039205&amp;g=2020-01-01">Regeling fosfaatreductieplan 2017</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:890">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:890</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-30T09:16:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:890 College van Beroep voor het bedrijfsleven , 01-12-2020 / 18/1187 en 18/1188</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:890:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Regeling fosfaatreductieplan 2017</para>
+        <para>Grondslag van de Regeling</para>
+        <para>Voorzienbaarheid van de Regeling</para>
+        <para>Verrekening van de heffingen met het melkgeld</para>
+        <para>Individuele en buitensporige last</para>
+        <para>Hardheidsclausule van artikel 13, derde lid, van de Landbouwwet</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:890:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummers: 18/1187 en 18/1188</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 1 december 2020 in de zaken tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">Firma [naam] , te [plaats 1] , gemeente [gemeente] , appellante</bridgehead>
+    <para>(gemachtigde: mr. J.M.M. Kroon),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. J.G. Biesheuvel).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para>
+      <?linebreak?>
+      <emphasis role="underline">Beroep met zaaknummer 18/1187</emphasis>
+    </para>
+    <para />
+    <parablock>
+      <para>Bij besluit van 2 december 2017 (het primaire besluit 1) heeft verweerder op grond van de Regeling fosfaatreductieplan 2017 (de Regeling) aan appellante een heffing opgelegd van € 5.615,- voor periode 1.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 mei 2018 (het bestreden besluit 1) heeft verweerder het door appellante tegen het primaire besluit 1 gemaakte bezwaar ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft beroep ingesteld tegen het bestreden besluit 1.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beroep met zaaknummer 18/1188</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 januari 2018 (het primaire besluit 2) heeft verweerder op grond van de Regeling aan appellante een heffing opgelegd van € 3.371,- voor periode 5.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 mei 2018 (het bestreden besluit 2) heeft verweerder het door appellante tegen het primaire besluit 2 gemaakte bezwaar ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft beroep ingesteld tegen het bestreden besluit 2.</para>
+      <para>Bij besluit van 16 juni 2018 (het vervangingsbesluit 1) heeft verweerder de opgelegde heffing voor periode 5 gewijzigd vastgesteld op € 3.378,-.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 augustus 2018 (het vervangingsbesluit 2) heeft verweerder de opgelegde heffing voor periode 5 wederom gewijzigd vastgesteld op € 3.371,-.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.<?linebreak?></para>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 28 oktober 2020. Partijen hebben zich laten vertegenwoordigen door hun gemachtigden.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <bridgehead role="underline">Regeling</bridgehead>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>De Regeling is op 1 maart 2017 in werking getreden en heeft tot doel de fosfaatproductie te begrenzen. Veehouders die te veel vrouwelijke runderen houden moeten de omvang van hun veestapel zoals die was op 1 oktober 2016 in vijf tweemaandelijkse stappen (de periodes) verminderen tot hun referentieaantal. Het referentieaantal is het aantal op 2 juli 2015 (de peildatum) geregistreerde runderen verminderd met 4% – met uitzondering van grondgebonden bedrijven –  en omgerekend naar grootvee-eenheid (GVE). Voor de periodes van de Regeling (lopend van maart tot en met december 2017) legt verweerder een heffing op aan een melkveehouder die meer vrouwelijke runderen houdt dan het referentieaantal en kent verweerder een bonusgeldsom toe indien een melkveehouder minder vrouwelijke runderen houdt dan het referentieaantal op de peildatum.</para>
+      </listitem>
+      <listitem>
+        <para>De Regeling kent twee soorten heffingen, de hoge geldsom en de solidariteits-geldsom. Welke heffing wordt opgelegd is mede afhankelijk van de vraag of in de betreffende periode het doelstellingsaantal is behaald. Het doelstellingsaantal is het aantal op 1 oktober 2016 geregistreerde runderen, verminderd met het voor de betreffende periode vastgestelde verminderingspercentage, met dien verstande dat het doelstellingsaantal nooit lager is dan het referentieaantal. Verweerder legt een hoge geldsom op indien in de betreffende periode meer GVE worden gehouden dan het doelstellingsaantal. De hoogte van de hoge geldsom bedraagt € 480,- voor elke GVE boven het referentieaantal. Een bedrijf dat inkrimpt tot het doelstellingsaantal, maar niet tot het referentieaantal, krijgt een solidariteits-geldsom opgelegd van € 112,- voor elke GVE boven het referentieaantal.<?linebreak?><emphasis role="underline">Feiten</emphasis></para>
+      </listitem>
+      <listitem>
+        <para> Appellante exploiteert een melkveebedrijf in [plaats 1] met ongeveer 130 melkkoeien en bijbehorend jongvee. Omdat er twee potentiële opvolgers (de zoons) zijn, is in 2013 een leegstaand melkveebedrijf in de [plaats 2] in [plaats 3] met 30 hectare (ha) grond aangekocht voor ruim 1,9 miljoen euro. De stal op deze locatie is verbouwd voor ruim € 82.000,-. Daarnaast heeft appellante nog ruim 11 ha land bijgekocht voor bijna € 610.000,-. In januari 2015 is appellante op de locatie in de [plaats 2] gestart met het melken van 30 koeien afkomstig van het bedrijf in [plaats 1] . Op 27 januari 2014 heeft appellante een melding Activiteitenbesluit gedaan voor 140 melkkoeien en jongvee voor de locatie in de [plaats 2] ; voor de locatie in [plaats 1] was op basis van een vergunning op grond van de Wet milieubeheer uit 2003 eveneens ruimte voor 140 melkkoeien en jongvee. Op 23 december 2015 heeft appellante een vergunning aangevraagd op grond van de Natuurbeschermingswet voor het in werking hebben van het bedrijf in de [plaats 2] . Deze vergunning is bij besluit van 25 augustus 2016 verleend. Op de peildatum 2 juli 2015 hield appellante 146 melkkoeien en 168 stuks jongvee.</para>
+      </listitem>
+      <listitem>
+        <para>De bedoeling van appellante was om de veestapel geleidelijk uit te breiden tot 280 melkkoeien, met bijbehorend jongvee. Omdat appellante in 2017 meer GVE hield dan op de peildatum heeft verweerder de hiervoor genoemde heffingen opgelegd.</para>
+      </listitem>
+    </orderedlist>
+    <bridgehead role="underline">Omvang van het geding</bridgehead>
+    <para>5. Artikel 6:19 van de Algemene wet bestuursrecht (Awb) bepaalt, voor zover van belang, dat het beroep tegen het oorspronkelijke besluit van rechtswege mede betrekking heeft op een vervangend besluit. Het vervangingsbesluit 1 is een besluit waarover het beroep met zaaknummer 18/1188 zich ingevolge artikel 6:19 van de Awb mede uitstrekt. Dit besluit is ingetrokken en vervangen door het vervangingsbesluit 2. Gesteld noch gebleken is dat appellante nog belang heeft bij beoordeling van het beroep tegen het bestreden besluit 2 en het van rechtswege ontstane beroep tegen het vervangingsbesluit 1, en daarom zal het College die beroepen niet‑ontvankelijk verklaren. <?linebreak?>	Hierna zal het College het beroep tegen het bestreden besluit 1 en het van rechtswege ontstane beroep tegen het vervangingsbesluit 2 behandelen. Deze besluiten hebben uitsluitend betrekking op perioden 1 en 5, zodat alleen deze perioden deel uitmaken van het geding.</para>
+    <bridgehead role="underline">Beoordeling van het beroep</bridgehead>
+    <para>6. Appellante heeft ter zitting naar voren gebracht dat verweerder ten onrechte heeft nagelaten een afschrift van het vervangingsbesluit 2 aan haar gemachtigde toe te zenden. Het vervangingsbesluit 2 is op 5 oktober 2020 door het College doorgezonden aan de gemachtigde van appellante. De gemachtigde heeft ook ter zitting op dit besluit kunnen reageren. Dit betoog kan appellante dan ook niet baten. Overigens is bij het vervangingsbesluit 2 de heffing over periode 5 op hetzelfde bedrag vastgesteld als het bedrag dat voor deze periode uit het bestreden besluit 2 volgt.</para>
+    <para>7. Appellante betoogt – samengevat weergegeven – dat artikel 13, eerste lid, van de Landbouwwet geen grondslag voor de Regeling biedt, de Regeling niet voorzienbaar was en verrekening van de heffingen met het melkgeld niet mag.</para>
+    <paragroup>
+      <nr>7.1.</nr>
+      <parablock>
+        <para>Deze betogen zijn al vaker aangevoerd en er bestaat hierover inmiddels de nodige rechtspraak, waarin is geoordeeld dat deze betogen falen. Het College ziet geen aanleiding hier nu anders over te oordelen. Voor de motivering wordt verwezen naar de uitspraak van het College van 21 augustus 2018, ECLI:NL:CBB:2018:421, onder 5.5 - 5.9, over artikel 13, eerste lid, van de Landbouwwet, de uitspraak van het College van 21 augustus 2018, ECLI:NL:CBB:2018:419, onder 9.6.3 - 9.6.6, over de voorzienbaarheid van de Regeling, en de uitspraak van het College van 21 augustus 2018, ECLI:NL:CBB:2018:420, onder 4.2, over de verrekening.</para>
+        <para>8. Appellante betoogt verder dat zij als gevolg van de tenuitvoerlegging van de Regeling – in het bijzonder door de vaststelling van het referentieaantal op de peildatum en de daaruit voortvloeiende hoge heffingen – een individuele en buitensporige last te dragen heeft, zodat sprake is van strijd met artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP). Om een heffing geheel te voorkomen, zou appellante 25% van haar melkveestapel moeten afvoeren, met een overeenkomstig verlies aan melkopbrengsten tot gevolg. Zij onderscheidt zich hiermee van andere melkveehouders die op de peildatum hun stalcapaciteit (nagenoeg) volledig konden benutten en derhalve een veel kleiner percentage melkvee hoefden af te voeren. De mate waarin appellante wordt getroffen, komt ook tot uiting in de schade die zij lijdt. Deze schade bestaat volgens haar uit het tenietgaan van de investering in jongvee, lege koeplaatsen, een derving van het saldo melkproductie, de kosten voor aankoop van vee per 1 januari 2018 om de melkproductie weer te verhogen, en de opgelegde heffingen. <?linebreak?>	Appellante betoogt daarnaast dat verweerder ten onrechte geen gebruik heeft gemaakt van zijn bevoegdheid zoals neergelegd in artikel 13, derde lid, van de Landbouwwetom gehele of gedeeltelijke ontheffing te verlenen van het betalen van de heffingen, die volgens haar onevenredig hoog zijn.</para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Bij uitspraak van 26 mei 2020, ECLI:NL:CBB:2020:350, heeft het College overwogen dat de vaststelling van het referentieaantal een inbreuk vormt op het eigendomsrecht zoals neergelegd in artikel 1 van het EP. De last die de individuele melkveehouder te dragen heeft bestaat, naast de opgelegde heffingen, uit een beperking van de bedrijfsvoering, omdat het hem niet vrijstaat zijn melkveebedrijf voort te zetten of uit te breiden op een zelfgekozen wijze zonder dat daarvoor heffingen worden opgelegd.<?linebreak?>	Het College heeft onder meer in zijn uitspraak van 21 augustus 2018, ECLI:NL:CBB:2018:419, geoordeeld dat de Regeling als zodanig niet in strijd is met artikel 1 van het EP. De volgende vraag is of de Regeling in het geval van appellante zodanig uitwerkt, dat in haar geval sprake is van een individuele en buitensporige last. Bij de beoordeling of de last buitensporig is, staat voorop dat de beslissingen van melkveehouders om te investeren in productiemiddelen als stallen, grond, melkvee en machines, om deze te verhuren of te verkopen, of om bestaande stalruimte (nog) niet te benutten, moeten worden gezien als ondernemersbeslissingen waaraan risico’s inherent zijn. Het College hanteert als uitgangspunt dat de individuele melkveehouder zelf de gevolgen van die risico’s draagt. Dit uitgangspunt wordt alleen bij uitzondering verlaten. Daarvoor moet dan wel de ondernemersbeslissing in de gegeven omstandigheden – wat betreft het tijdstip waarop de beslissing is genomen, de omstandigheden waaronder de beslissing is genomen, de mate waarin en de reden waarom is geïnvesteerd – navolgbaar zijn, mede bezien in het licht van de afschaffing van het melkquotum en de maatregelen die in verband met die afschaffing te verwachten waren (vergelijk de uitspraak van het College in het fosfaatrechtenstelsel van 23 juli 2019, ECLI:NL:CBB:2019:291).</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>De voor melkveehouders onzekere tijd die volgde nadat bekend werd dat het melkquotum per 1 april 2015 zou worden afgeschaft, noopte tot een zekere mate van voorzichtigheid. Deze bracht voor hen meer dan de gebruikelijke ondernemersrisico’s met zich waarvoor zij zelf verantwoordelijkheid dragen. Bij het aangaan van verplichtingen in de vorm van investeringen dienden zij zich daarvan bewust te zijn, zeker naarmate het einde van het melkquotum dichterbij kwam en meer informatie beschikbaar kwam over de hardnekkigheid en indringendheid van het ontsporend mestoverschot.</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Het College heeft in de uitspraak van 10 september 2019 (ECLI:NL:CBB:2019:400), over de vaststelling van het fosfaatrecht van appellante, overwogen dat appellante op peildatum 2 juli 2015 niet over de vereiste vergunning beschikte voor het in gebruik hebben van het nieuwe bedrijf in de [plaats 2] . Deze vergunning heeft appellante pas op 23 december 2015 aangevraagd en op 25 augustus 2016 verkregen. Appellante is dus met de door haar gedane investeringen vooruitgelopen op de vereiste vergunning voor het in gebruik hebben van het bedrijf. Zoals het College eerder heeft overwogen, bijvoorbeeld in de uitspraak van 9 januari 2019 (ECLI:NL:CBB:2019:7), is dan in beginsel geen ruimte om aan te nemen dat sprake is van strijd met artikel 1 van het EP. Dit uitgangspunt geldt ook wanneer dat voor appellante aanzienlijke financiële consequenties heeft. Wat appellante heeft aangevoerd, geeft geen aanleiding om van dit uitgangspunt af te wijken. Het College ziet geen aanleiding om hier thans in het kader van de Regeling anders over te oordelen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.4.</nr>
+      <para>Het College begrijpt dat appellante financieel stevig wordt geraakt door de tenuitvoerlegging van de Regeling. Uit hetgeen hiervoor is overwogen vloeit evenwel voort dat verweerder appellante de risico’s die zijn verbonden aan haar investeringsbeslissingen mag laten dragen en dat appellante nadelige gevolgen van een door haar genomen beslissing om uit te breiden niet kan afwentelen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.5.</nr>
+      <para>De conclusie is dat appellante niet aannemelijk heeft gemaakt dat zij als gevolg van de tenuitvoerlegging van de Regeling een individuele en buitensporige last te dragen heeft. Het betoog faalt in zoverre.</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.6.</nr>
+      <para>Voor zover appellante heeft aangevoerd dat de opgelegde heffingen onevenredig zijn, omdat de Regeling eerst voor haar buiten werking is gesteld en verweerder later alsnog heffingen aan haar heeft opgelegd, wordt als volgt overwogen. De voorzieningenrechter van de rechtbank Den Haag heeft de Regeling buiten werking gesteld voor een aantal melkveehouders, waaronder appellante (zie de uitspraken van 4 mei 2017, ECLI:NL:RBDHA:2017:4632-4638). Een voorlopige voorziening heeft naar zijn aard een tijdelijk karakter. Appellante mocht er op basis van de uitspraken van de voorzieningenrechter dan ook niet van uitgaan dat verweerder de Regeling later niet alsnog zou gaan toepassen. Appellante was er daarbij van op de hoogte dat de Staat in beroep zou gaan tegen de uitspraken van de voorzieningenrechter, wat de Staat ook heeft gedaan. Het gerechtshof Den Haag heeft de beroepen van de Staat gegrond verklaard en de uitspraken van de voorzieningenrechter vernietigd (zie de uitspraken van 31 oktober 2017, ECLI:NL:GHDHA:2017:3067-3072). Gelet hierop had appellante er reeds gedurende 2017 rekening mee moeten houden dat zij haar aantal runderen moest reduceren en komt het wachten daarmee voor haar rekening. Er bestaat dan ook geen grond voor het oordeel dat zij door de opgelegde heffingen onevenredig in haar belangen wordt getroffen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>8.7.</nr>
+      <para>Uit het voorgaande volgt dat verweerder in redelijkheid evenmin gebruik hoefde te maken van zijn bevoegdheid zoals neergelegd in artikel 13, derde lid, van de Landbouwwet om gehele of gedeeltelijke ontheffing te verlenen van het betalen van de heffingen. Dit betoog faalt in zoverre eveneens.<?linebreak?><emphasis role="underline">Slotsom</emphasis></para>
+      <para>9. De beroepen tegen het bestreden besluiten 2 en het vervangingsbesluit 1 zijn niet‑ontvankelijk.</para>
+      <para>10. De beroepen tegen het bestreden besluit 1 en het vervangingsbesluit 2 zijn ongegrond.</para>
+      <para>11. Reeds gezien het feit dat verweerder het bestreden besluit 2 eerst heeft vervangen door het vervangingsbesluit 1 welk vervangingsbesluit daarna weer is vervangen door vervangingsbesluit 2, ziet het College aanleiding te bepalen dat verweerder het door appellante betaalde griffierecht aan haar vergoedt alsmede verweerder te veroordelen in de proceskosten van appellante.<?linebreak?><emphasis role="bold">Beslissing</emphasis></para>
+      <para />
+      <parablock>
+        <para>Het College<?linebreak?></para>
+      </parablock>
+      <para>- verklaart de beroepen tegen het bestreden besluit 2 en het vervangingsbesluit 1 niet‑ontvankelijk;</para>
+      <para />
+      <para>- verklaart de beroepen tegen het bestreden besluit 1 en het vervangingsbesluit 2 ongegrond;</para>
+      <para>- bepaalt dat verweerder het betaalde griffierecht van € 338,- aan appellante dient te vergoeden;</para>
+      <para>- veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 1.050,-.</para>
+      <para>Deze uitspraak is gedaan door mr. H.C.P. Venema, in aanwezigheid van mr. H.A. Komduur, griffier. De beslissing is in het openbaar uitgesproken op 1 december 2020.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>De voorzitter is verhinderd	De griffier is verhinderd <?linebreak?>de uitspraak te ondertekenen.	de uitspraak te ondertekenen.</para>
+      </parablock>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

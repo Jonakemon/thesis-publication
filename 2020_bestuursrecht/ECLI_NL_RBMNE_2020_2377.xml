@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2377</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-16T11:00:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">UTR 20/514</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2377">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2377</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-03T14:26:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2377 Rechtbank Midden-Nederland , 24-06-2020 / UTR 20/514</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2377:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Eisers heeft recht op maximaal zes jaar studiefinanciering. Termijn begonnen met startdatum eerdere opleiding. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2377:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Utrecht</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 20/514</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 24 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres</bridgehead>
+    <para>(gemachtigde: A. Benlahbib),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Minister van Onderwijs, Cultuur en Wetenschap, Dienst Uitvoering Onderwijs</emphasis>, verweerder</para>
+      <para>(gemachtigde: drs. P.M.S. Slagter).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 oktober 2019 (het primaire besluit) heeft verweerder medegedeeld dat eiseres in 2020 geen recht meer heeft op de basisbeurs voor studiefinanciering omdat het einde van de prestatiebeurs-fase is bereikt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 14 januari 2020 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de rechtbank toestemming gegeven om zonder zitting uitspraak te doen. Eiseres heeft niet gereageerd op de vraag of zij toestemming geeft om zonder zitting uitspraak te doen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank sluit het onderzoek op grond van artikel 8:57, eerste en derde lid, van de Algemene wet bestuursrecht.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiseres heeft vanaf 1 januari 2014 studiefinanciering ontvangen voor het volgen van een HBO opleiding in Marokko. Vanaf 1 september 2014 is eiseres begonnen aan haar studie geneeskunde in Rusland.</para>
+    <para />
+    <para>2. Op 16 oktober 2019 heeft verweerder medegedeeld dat eiseres vanaf 1 januari 2020 geen recht meer heeft op studiefinanciering omdat het einde van de prestatiebeurs-fase is bereikt. In het bestreden besluit heeft verweerder toegelicht dat eiseres gelet op haar studie geneeskunde zes jaren recht heeft op een prestatiebeurs. Omdat eiseres vanaf 1 januari 2014, eerst voor een HBO opleiding, vanaf 1 september 2014 voor haar studie geneeskunde, studiefinanciering heeft ontvangen, is die termijn op 1 januari 2020 volgelopen. Vanaf 1 januari 2020 heeft eiseres daarom alleen nog recht op een lening. Dat eiseres haar studie geneeskunde bijna afrondt geeft haar geen recht op extra maanden prestatiebeurs.</para>
+    <para />
+    <para>3. Eiseres is het hier niet mee eens. Zij ontvangt in juni 2020 haar diploma als algemeen arts. Daarna wilt zij gaan specialiseren in Neuropsychologie. Eiseres wil tot eind van haar studiejaar 2019-2020 studiefinanciering ontvangen. </para>
+    <para />
+    <para>4. De belangrijkste vraag die de rechtbank moet beantwoorden is of verweerder terecht de prestatiebeurs vanaf 1 januari 2020 heeft stopgezet. De relevante wetgeving is opgenomen in de bijlage bij deze uitspraak.</para>
+    <para />
+    <para>5. Uit de wet volgt dat een studerende gedurende vier jaar (48 maanden) recht heeft op een prestatiebeurs. Als een student een opleiding tot arts volgt, wordt dit recht vermeerderd met twee jaar (180 minus 60 studiepunten, gedeeld door vijf, is 24 maanden; totaal 72 maanden, is totaal zes jaar). Eiseres heeft voor het eerst op 1 januari 2014 studiefinanciering gekregen voor haar HBO opleiding. Dit is de startdatum van de zes jaar. Omdat haar prestatiebeurs toen is gestart had zij recht op studiefinanciering tot 1 januari 2020. Verweerder heeft daarom terecht de studiefinanciering stopgezet op 1 januari 2020. Dat eiseres haar studie geneeskunde pas in september 2014 is gestart, maakt niet dat haar recht op een prestatiebeurs tot september 2020 wordt verlengd. Dat eiseres in juni 2020 haar diploma ontvangt maakt dat niet anders. In de wet is niet bepaald dat dit een reden is voor verlenging.</para>
+    <para />
+    <para>6. Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is op 24 juni 2020 gedaan door mr. P.J.M. Mol, rechter, in aanwezigheid van </para>
+      <para>mr. A. Wilpstra-Foppen, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.</para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage relevante wetsartikelen</title>
+    <para />
+  </section>
+  <bridgehead>Wet op de studiefinanciering 2000</bridgehead>
+  <section>
+    <title>Artikel 5.2. Vorm en duur studiefinanciering</title>
+    <para>1. De prestatiebeurs hoger onderwijs wordt eenmalig aan een student verstrekt gedurende 4 jaar, vermeerderd met:</para>
+    <para>a.	eenmalig een jaar indien een student is ingeschreven aan een masteropleiding, bedoeld in artikel 7.4b, derde tot met achtste lid, van de WHW;</para>
+    <para>b.	eenmalig het aantal maanden dat het resultaat is van het aantal studiepunten, genoemd in artikel 7.4a, derde tot en met zevende lid, van de WHW, minus zestig en gedeeld door vijf, indien een student is ingeschreven aan een in de betreffende artikelleden genoemde opleiding.</para>
+    <para>2. In afwijking van het eerste lid, wordt de aanvullende beurs in de eerste 5 maanden waarvoor aanspraak op studiefinanciering bestaat, verstrekt in de vorm van een gift.</para>
+    <para>3. De basislening, aanvullende lening en het collegegeldkrediet kunnen worden verstrekt gedurende de periode waarin aanspraak kan worden gemaakt op de prestatiebeurs hoger onderwijs.</para>
+    <para>4. Gedurende 36 maanden na de periode, bedoeld in het eerste lid, kan het collegegeldkrediet worden verstrekt en kan daarnaast studiefinanciering worden verstrekt in de vorm van een lening. Het bedrag van de lening, bedraagt in afwijking van de artikelen 3.1, vierde lid, 3.3, 3.13 en 3.18 naar de maatstaf van 1 januari 2014 per maand € 894,51 [Red: per 1 januari 2020: € 963,59] . In de eerste 12 maanden kan tevens een reisvoorziening worden verstrekt in de vorm van een prestatiebeurs.</para>
+    <para>5. Op aanvraag kan een student als bedoeld in artikel 3.5 gedurende de 36 maanden, bedoeld in het vierde lid, tevens in aanmerking komen voor een lening ter grootte van het bedrag, bedoeld in artikel 3.5, tweede lid.</para>
+    <para />
+  </section>
+  <bridgehead>Wet op het hoger onderwijs en wetenschappelijk onderzoek</bridgehead>
+  <section>
+    <title>Artikel 7.4a. Studielast opleidingen in het wetenschappelijk onderwijs</title>
+    <para>1. De studielast van een bacheloropleiding in het wetenschappelijk onderwijs bedraagt 180 studiepunten. In afwijking van de eerste volzin kan de studielast van een bacheloropleiding in het wetenschappelijk onderwijs ten hoogste 240 studiepunten bedragen, indien Onze Minister voor die opleiding daartoe een besluit heeft genomen dat gebaseerd is op het accreditatierapport van die opleiding. In het besluit, bedoeld in de tweede volzin, wordt de studielast van de opleiding bepaald.</para>
+    <para>2. Behoudens het bepaalde in het derde tot en met zevende lid bedraagt de studielast van een masteropleiding in het wetenschappelijk onderwijs 60 studiepunten.</para>
+    <para>3. De studielast van de masteropleidingen tot leraar voor de periode van voorbereidend hoger onderwijs in vakken van voortgezet onderwijs bedraagt ten minste 60 studiepunten en ten hoogste 120 studiepunten. In afwijking van de eerste volzin bedraagt de studielast van door Onze Minister aan te wijzen opleidingen als bedoeld in die volzin ten minste 120 studiepunten en ten hoogste 180 studiepunten. Het instellingsbestuur bepaalt de studielast van de opleiding.</para>
+    <para>4. De studielast van de masteropleiding voor het beroep van wijsgeer van een bepaald wetenschapsgebied bedraagt 120 studiepunten.</para>
+    <para>5. De studielast van de door Onze Minister aan te wijzen masteropleidingen in het wetenschappelijk onderwijs bedraagt 120 studiepunten. Onze Minister kan bepalen dat de studielast van de masteropleidingen in het wetenschappelijk onderwijs die mede zijn gericht op een levensbeschouwelijk ambt of beroep, 180 studiepunten bedraagt en dat de studielast van de masteropleidingen in het wetenschappelijk onderwijs met een buitenlandse instelling als bedoeld in artikel 7.3c 90 studiepunten bedraagt.</para>
+    <para>6. De studielast van de masteropleidingen voor het beroep van arts, voor het beroep van dierenarts, voor het beroep van apotheker, voor het beroep van tandarts en voor het beroep van klinisch technoloog bedraagt 180 studiepunten.</para>
+    <para>7. De studielast van de masteropleidingen geneeskunde, klinisch onderzoeker bedraagt 240 studiepunten.</para>
+    <para>8. Het instellingsbestuur kan bepalen dat een opleiding als bedoeld in het tweede lid een grotere studielast heeft dan 60 studiepunten.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

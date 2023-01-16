@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:4025</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-10T14:57:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-12</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 20-02888</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>OGR-Updates.nl 2020-0265</rdf:li>
+          <rdf:li>JOM 2020/663</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:4025">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:4025</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-24T14:17:29</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:4025 Rechtbank Noord-Nederland , 12-11-2020 / LEE 20-02888</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:4025:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Toepassen handhavingsbeleid en bijbehorende matrix. Onjuiste classificatie van gedrag aanvrager door verweerder, gelet op rapportage toezichthouder. Ten onrechte volstaan met een waarschuwing. Partij-deskundige en het ontbreken van een toereikende passende beoordeling. Verweerder dient opnieuw te beslissen op verzoek om handhaving en opleggen van een maatregel voor wat betreft het gebruik van de nieuwe stal.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:4025:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>locatie Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: LEE 20/2888</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 11 november 2020 in de zaak tussen</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>a.[verzoekster], te [plaats], verzoekster sub 1.a.,</title>
+    <parablock>
+      <para>
+        <emphasis role="bold">1.b.	[verzoekster]</emphasis>, te [plaats], verzoekster sub 1.b.,</para>
+      <para>
+        <emphasis role="bold">1.c.	[verzoeker]</emphasis>, te [plaats], verzoeker sub 1.c.,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>het college van Gedeputeerde Staten van Fryslân, verweerder,</title>
+    <para>(gemachtigde: S. Pennekamp).</para>
+    <para />
+  </section>
+  <section>
+    <title>Als derde-partij heeft aan het geding deelgenomen: [derde belanghebbende]</title>
+    <parablock>
+      <para>, te [plaats], [derde belanghebbende],</para>
+      <para>(gemachtigde: mr. E. Wijnne-Oosterhof).</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para>Bij primair besluit van 13 juli 2020 (het bestreden besluit), verzonden op 17 juli 2020, heeft verweerder het door verzoekers ingediende verzoek om handhaving ingevolge de Wet natuurbescherming (Wnb) jegens de [derde belanghebbende], afgewezen.</para>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit hebben verzoekers een bezwaarschrift bij verweerder ingediend. Tevens hebben verzoekers bij brief van 9 oktober 2020 aan de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het verzoek is behandeld op de zitting van 29 oktober 2020.</para>
+      <para>Verzoekers sub 1.a. en sub 1.b. hebben zich laten vertegenwoordigen door hun gemachtigde.</para>
+      <para>Verzoeker sub 1.c. is in persoon verschenen, vergezeld door zijn echtgenote, en bijgestaan door zijn gemachtigde. </para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en mr. T. Tuenter.</para>
+      <para>Namens de maatschap zijn verschenen [betrokkenen], bijgestaan door zijn gemachtigde en A. Wiegersma (adviseur).</para>
+    </parablock>
+  </section>
+  <bridgehead>Overwegingen <?linebreak?></bridgehead>
+  <section>
+    <title>Feiten en omstandigheden</title>
+    <para>1.	Bij zijn oordeelsvorming betrekt de voorzieningenrechter de navolgende feiten en omstandigheden.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Voorgeschiedenis</emphasis>
+      </para>
+      <para>
+        [derde belanghebbende] exploiteert een melkrundveehouderij op het perceel aan de [plaats] Bij besluit van 29 maart 2019 heeft verweerder aan de [derde belanghebbende] een vergunning ingevolge artikel 2.7, tweede lid, van de Wnb verleend voor het wijzigen van de melkrundveehouderij (de bouw van een nieuwe loopstal). Bij uitspraak van 14 februari 2020 (LEE 19/1416) heeft de rechtbank het door verzoeker sub 1.c. ingediende beroep gegrond verklaard, het besluit van 29 maart 2019 vernietigd en bepaald dat verweerder een nieuw besluit dient te nemen op de aanvraag, met inachtneming van deze uitspraak.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Verweerder heeft een ontwerpbesluit tot het verlenen van de gevraagde vergunning ingevolge artikel 2.7, eerste lid, van de Wnb aan de maatschap voor het wijzigen van de melkrundveehouderij op voormeld perceel te [plaats] bekendgemaakt in het provinciaal blad van 10 april 2020.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Verzoekers hebben bij (afzonderlijke) brief van 1 mei 2020 een zienswijze, gericht tegen dit ontwerpbesluit, bij verweerder ingediend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Verzoekers hebben bij (afzonderlijke) brief van 1 mei 2020 verweerder verzocht handhavend op te treden jegens de maatschap wegens overtreding van de Wnb.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Bij brief van 13 mei 2020 heeft verweerder aan verzoekers het voornemen kenbaar gemaakt om het door hen ingediende verzoek om handhaving ingevolge de Wnb jegens de maatschap, af te wijzen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Tegen deze brief hebben verzoekers een bezwaarschrift bij verweerder ingediend. Tevens hebben verzoekers bij brief van 25 mei 2020 aan de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. Dit verzoek om voorlopige voorziening is geregistreerd onder het procedurenummer LEE 20/1578.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Bij uitspraak van 28 mei 2020 heeft de voorzieningenrechter zich onbevoegd verklaard om kennis te nemen van dit verzoek om voorlopige voorziening.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Bij besluit van 2 juni 2020 heeft verweerder het door verzoekers ingediende verzoek om handhaving ingevolge de Wnb jegens de maatschap, afgewezen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>Bij besluit van 12 juni 2020 heeft verweerder, onder weerlegging van de zienswijze van verzoekers, aan de maatschap een vergunning onder voorschriften ingevolge de Wnb verleend ten behoeve van het wijzigen van de melkrundveehouderij op [plaats].</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <para>Bij uitspraak van 3 juli 2020 heeft de voorzieningenrechter het beroep van eisers gegrond verklaard en het besluit van 12 juni 2020 tot vergunningverlening ingevolge de Wnb voor het wijzigen van de melkrundveehouderij op voormeld perceel vernietigd. Tevens heeft de voorzieningenrechter bij uitspraak van 3 juli 2020 het besluit van 2 juni 2020 tot afwijzing van het verzoek om handhaving ingevolge de Wnb geschorst en gelast dat verweerder binnen twee weken na de verzenddatum van deze uitspraak opnieuw beslist op het handhavings-verzoek van verzoekers met inachtneming van hetgeen in deze uitspraak is overwogen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10.</nr>
+      <para>Ter uitvoering van de uitspraak van 3 juli 2020 van de voorzieningenrechter heeft verweerder bij het bestreden besluit van 13 juli 2020 het door verzoekers ingediende verzoek om handhaving ingevolge de Wnb jegens de maatschap afgewezen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.11.</nr>
+      <para>Verweerder heeft een ontwerpbesluit tot het verlenen van de gevraagde vergunning ingevolge artikel 2.7, eerste lid, van de Wnb aan de maatschap voor het wijzigen van de melkrundveehouderij op voormeld perceel te [plaats] bekendgemaakt in het provinciaal blad van 18 september 2020.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Toepasselijke regelgeving</title>
+    <para>2.	Ingevolge artikel 8:81, eerste lid, van de Awb kan, indien tegen een besluit bij de bestuursrechter beroep is ingesteld dan wel, voorafgaand aan een mogelijk beroep bij de bestuursrechter, bezwaar is gemaakt of administratief beroep is ingesteld, de voorzieningen-rechter van de bestuursrechter op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist.</para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Ingevolge artikel 2, derde lid, van de Habitatrichtlijn wordt in op grond van deze richtlijn genomen maatregelen rekening gehouden met de vereisten op economisch, sociaal en cultureel gebied, en met de regionale en lokale bijzonderheden.</para>
+        <para>Ingevolge artikel 6, eerste lid, van de Habitatrichtlijn treffen de Lid-Staten voor de speciale beschermingszones de nodige instandhoudingsmaatregelen; deze behelzen zo nodig passende specifieke of van ruimtelijke-ordeningsplannen deel uitmakende beheersplannen en passende wettelijke, bestuursrechtelijke of op een overeenkomst berustende maatregelen, die beantwoorden aan de ecologische vereisten van de typen natuurlijke habitats van bijlage I en de soorten van bijlage II die in die gebieden voorkomen.</para>
+        <para>Ingevolge artikel 6, tweede lid, van de Habitatrichtlijn treffen de Lid-Staten passende maatregelen om ervoor te zorgen dat de kwaliteit van de natuurlijke habitats en de habitats van soorten in de speciale beschermingszones niet verslechtert en er geen storende factoren optreden voor de soorten waarvoor de zones zijn aangewezen voor zover die factoren, gelet op de doelstellingen van deze richtlijn een significant effect zouden kunnen hebben.</para>
+        <para>Ingevolge artikel 6, derde lid, van de Habitatrichtlijn wordt voor elk plan of project dat niet direct verband houdt met of nodig is voor het beheer van het gebied, maar afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor zo'n gebied, een passende beoordeling gemaakt van de gevolgen voor het gebied, rekening houdend met de instandhoudingsdoelstellingen van dat gebied. Gelet op de conclusies van de beoordeling van de gevolgen voor het gebied en onder voorbehoud van het bepaalde in lid 4, geven de bevoegde nationale instanties slechts toestemming voor dat plan of project nadat zij de zekerheid hebben verkregen dat het de natuurlijke kenmerken van het betrokken gebied niet zal aantasten en nadat zij in voorkomend geval inspraakmogelijkheden hebben geboden.</para>
+        <para>Ingevolge artikel 6, vierde lid, van de Habitatrichtlijn neemt de Lid-Staat, indien een plan of project, ondanks negatieve conclusies van de beoordeling van de gevolgen voor het gebied, bij ontstentenis van alternatieve oplossingen, om dwingende redenen van groot openbaar belang, met inbegrip van redenen van sociale of economische aard, toch moet worden gerealiseerd, alle nodige compenserende maatregelen om te waarborgen dat de algehele samenhang van Natura 2000 bewaard blijft. De Lid-Staat stelt de Commissie op de hoogte van de genomen compenserende maatregelen.</para>
+        <para>Wanneer het betrokken gebied een gebied met een prioritair type natuurlijke habitat en/of een prioritaire soort is, kunnen alleen argumenten die verband houden met de menselijke gezondheid, de openbare veiligheid of met voor het milieu wezenlijke gunstige effecten dan wel, na advies van de Commissie, andere dwingende redenen van groot openbaar belang worden aangevoerd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Ingevolge artikel 2.7, eerste lid, van de Wnb stelt een bestuursorgaan een plan dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied, en dat afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor een Natura 2000-gebied, uitsluitend vast indien is voldaan aan artikel 2.8, met uitzondering van het negende lid.</para>
+        <para>Ingevolge artikel 2.7, tweede lid, van de Wnb is het verboden zonder vergunning van gedeputeerde staten projecten te realiseren of andere handelingen te verrichten die gelet op de instandhoudingsdoelstellingen voor een Natura 2000-gebied de kwaliteit van de natuurlijke habitats of de habitats van soorten in dat gebied kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor dat gebied is aangewezen.</para>
+        <para>Ingevolge artikel 2.7, derde lid, van de Wnb verlenen gedeputeerde staten een vergunning als bedoeld in het tweede lid uitsluitend indien is voldaan aan:</para>
+      </parablock>
+      <para>a. artikel 2.8, met uitzondering van het negende lid, wanneer de vergunning betrekking heeft op een project dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied, en dat afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor een Natura 2000-gebied, of</para>
+      <para>b. artikel 2.8, negende lid, wanneer zij betrekking heeft op andere handelingen dan projecten als bedoeld in onderdeel a.</para>
+      <parablock>
+        <para>Ingevolge artikel 2.8, eerste lid, van de Wnb maakt het bestuursorgaan, onderscheidenlijk de aanvrager van de vergunning voor een plan als bedoeld in artikel 2.7, eerste lid, of een project als bedoeld in artikel 2.7, derde lid, onderdeel a, een passende beoordeling van de gevolgen voor het Natura 2000-gebied, rekening houdend met de instandhoudingsdoelstellingen voor dat gebied.</para>
+        <para>Ingevolge artikel 2.8, tweede lid, van de Wnb hoeft, in afwijking van het eerste lid, geen passende beoordeling te worden gemaakt, ingeval het plan of het project een herhaling of voortzetting is van een ander plan, onderscheidenlijk project, of deel uitmaakt van een ander plan, voor zover voor dat andere plan of project een passende beoordeling is gemaakt en een nieuwe passende beoordeling redelijkerwijs geen nieuwe gegevens en inzichten kan opleveren over de significante gevolgen van dat plan of project.</para>
+        <para>Ingevolge artikel 2.8, derde lid, van de Wnb stelt het bestuursorgaan het plan uitsluitend vast, en verlenen gedeputeerde staten voor het project, bedoeld in het eerste lid, uitsluitend een vergunning, indien uit de passende beoordeling de zekerheid is verkregen dat het plan, onderscheidenlijk het project de natuurlijke kenmerken van het gebied niet zal aantasten.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Ingevolge artikel 122, eerste lid, van de Provinciewet is het provinciebestuur bevoegd tot het opleggen van een last onder bestuursdwang.</para>
+        <para>Ingevolge artikel 122, tweede lid, van de Provinciewet wordt de bevoegdheid tot oplegging van een last onder bestuursdwang uitgeoefend door gedeputeerde staten, indien de last dient tot handhaving van regels welke het provinciebestuur uitvoert.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <parablock>
+        <para>Ingevolge artikel 5:1, eerste lid, van de Awb wordt in deze wet verstaan onder overtreding: een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift.</para>
+        <para>Ingevolge artikel 5:1, tweede lid, van de Awb wordt onder overtreder verstaan: degene die de overtreding pleegt of medepleegt. </para>
+        <para>Ingevolge artikel 5:21 van de Awb wordt onder een last onder bestuursdwang verstaan: de herstelsanctie, inhoudende:</para>
+      </parablock>
+      <para>a. een last tot geheel of gedeeltelijk herstel van de overtreding, en</para>
+      <para>b. de bevoegdheid van het bestuursorgaan om de last door feitelijk handelen ten uitvoer te leggen, indien de last niet of niet tijdig wordt uitgevoerd.</para>
+      <parablock>
+        <para>Ingevolge artikel 5:32, eerste lid, van de Awb kan een bestuursorgaan dat bevoegd is een last onder bestuursdwang op te leggen in plaats daarvan een last onder dwangsom opleggen.</para>
+        <para>Ingevolge artikel 5:32a, eerste lid, van de Awb omschrijft de last onder dwangsom de te nemen herstelmaatregelen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Op 2 december 2014 heeft verweerder de “Landelijke handhavingsstrategie” voor de provincie Fryslân vastgesteld en vervolgens gepubliceerd. Deze strategie bevat beleidsregels op welke wijze verweerder met zijn wettelijke bevoegdheden op het gebied van handhaving wil omgaan.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para>3. Gesteld voor de vraag of er aanleiding bestaat om een voorlopige voorziening te treffen, overweegt de voorzieningenrechter als volgt.</para>
+    <para />
+    <para>4. Aangezien er door de maatschap bouwhandelingen worden verricht, acht de voorzieningenrechter het spoedeisende belang aan de zijde van verzoekers in dit geval gegeven.</para>
+    <para />
+    <para>5. Tussen partijen is in geschil of verweerder in dit geval terecht het verzoek om handhaving van verzoekers heeft afgewezen. Voor het toewijzen van het verzoek om een voorlopige voorziening, zoals door verzoekers gedaan, bestaat slechts grond indien er gegronde redenen zijn om te verwachten dat het bestreden besluit in bezwaar geen stand zal kunnen houden. Dienaangaande overweegt de voorzieningenrechter als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Aan het bestreden besluit heeft verweerder ten grondslag gelegd dat overeenkomstig de handhavingsstrategie aan vergunninghouder een waarschuwing is gegeven. Omdat dit geen besluit is, kan de inzet van dit handhavingsinstrument niet leiden tot toewijzing van het verzoek. Daarbij heeft verweerder verwezen naar een uitspraak van 10 juli 2019 van de Afdeling bestuursrechtspraak van de Raad van State (AbRvS), kenbaar uit ECLI:NL:RVS:2019:2335.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Tussen partijen is niet in geschil, en de voorzieningenrechter neemt dit als een vaststaand gegeven aan, dat door vergunninghouder op voormeld perceel bouwhandelingen worden verricht ten behoeve van de wijziging van de melkrundveehouderij, zonder dat zij over de vereiste vergunning ingevolge artikel 2.7, eerste lid, van de Wnb beschikt. Dit brengt met zich dat er sprake is van een overtreding van een wettelijk voorschrift, zodat verweerder in beginsel bevoegd is om handhavend op te treden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Gelet op het algemeen belang dat gediend is met handhaving, zal in geval van overtreding van een wettelijk voorschrift het bestuursorgaan, dat bevoegd is om met bestuursdwang of een last onder dwangsom op te treden, in de regel van deze bevoegdheid gebruik moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd dit niet te doen. Dit kan zich voordoen indien er sprake is van een overgangssituatie (concreet zicht op legalisatie, bedrijfsverplaatsingen, experimenten en andere tijdelijke overtredingen), bij overmachtssituaties of wanneer een beroep op het vertrouwens- en rechtszekerheidsbeginsel gerechtvaardigd is. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen, dat van handhaving in die concrete situatie afgezien behoort te worden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <parablock>
+        <para>De voorzieningenrechter stelt vast dat verweerder in dit geval heeft volstaan met een waarschuwing, gevolg gevend aan de vastgestelde Landelijke handhavingsstrategie. Daarbij heeft verweerder het verzoek om handhaving met de hieronder opgenomen overweging afgewezen. </para>
+        <para>“In de waarschuwingsbrief sluiten wij aan bij de overwegingen van de Raad van State in de uitspraak van 29 mei 2019. Wij stellen het bedrijf in de gelegenheid om de strijdige situatie te legaliseren en stellen daarvoor een redelijke termijn. Wij vinden een termijn van 5 maanden redelijk, gezien het feit dat adviesbureaus in verband met corona minder werk kunnen verzetten en de zomervakantie van start is gegaan. Deze termijn vangt aan na het verzenden van de waarschuwingsbrief. Wij stellen hierbij wel dat wij overgaan tot handhaving als niet uiterlijk binnen 5 maanden na verzending van de waarschuwingsbrief, de overtreding is gelegaliseerd dan wel dat de niet vergunde activiteiten niet &lt;<emphasis role="italic">toevoeging voorzieningenrechter</emphasis>&gt; zijn beëindigd.”</para>
+        <para>Ter zitting is door verweerder verklaard dat in de laatste regel het woordje ‘niet’ is weggevallen en dat dit een kennelijke verschrijving is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In de waarschuwingsbrief aan overtreder zijn de volgende passages opgenomen:</para>
+        <para>“Wat moet u doen om de overtreding ongedaan te maken? </para>
+        <para>Wij stellen u daarom in de gelegenheid om de onderstaande maatregelen te nemen om de overtreding van artikel 2.7, lid 2 van de Wnb te beëindigen en beëindigd te houden: </para>
+        <para>- binnen een termijn van vijf maanden na verzenddatum van deze brief een ontvankelijke aanvraag in te dienen voor een Wnb-vergunning, op basis waarvan wij een ontwerpbesluit kunnen publiceren. </para>
+        <para>- de bouwwerkzaamheden aan de nieuw te bouwen ligboxenstal niet te hervatten, alvorens er een ontwerpvergunning is gepubliceerd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>(Afzien van) handhaving </para>
+        <para>Wij stellen hierbij wel dat wij overgaan tot handhaving als u niet uiterlijk binnen 5 maanden na verzending van de waarschuwingsbrief de bovenstaande maatregelen heeft ondernomen.”</para>
+        <para>De voorzieningenrechter constateert dat verweerder in de richting van verzoekers heeft besloten om te volstaan met het geven van een waarschuwing op voorwaarde dat het project na vijf maanden ofwel gelegaliseerd is ofwel de overtreding is beëindigd. Naar de overtreder toe heeft verweerder toegezegd niet tot handhaving over te zullen gaan indien er een ontwerpvergunning ter inzage is gelegd. Nu de weigering om tot handhaving zoals die naar verzoekers toe is gecommuniceerd, het onderwerp van de bezwaarprocedure is, zal de voorzieningenrechter beoordelen of deze weigering in bezwaar stand zal kunnen houden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>Tussen partijen is in geschil of verweerder in dit geval heeft kunnen volstaan met het geven van een waarschuwing aan de maatschap en om die reden het verzoek om handhaving heeft kunnen afwijzen. Dienaangaande overweegt de voorzieningenrechter als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>Verzoekers betogen dat verweerder in dit geval het verzoek om handhaving ingevolge de Wnb ten onrechte heeft afgewezen. Naar de mening van verzoekers heeft verweerder niet kunnen volstaan met een waarschuwing. In dit verband wijzen verzoekers erop dat de bouw van de melkveestal als een afzonderlijk project dient te worden beschouwd, waarbij sprake is van stikstofdepositie op het Natura 2000-gebied “Lauwersmeer”. Dat blijkens vaste jurisprudentie van de AbRvS – onder voorwaarden – geen plicht rust op verweerder om handhavend op te treden in reeds bestaande illegale situaties, betekent volgens verzoekers niet dat verweerder kan afzien van handhavend optreden bij bouw-handelingen die nu en in de nabije toekomst een illegale situatie realiseren. In de visie van verzoekers hebben beide situaties een cruciaal verschillende gerichtheid. Handhaving in de situatie dat de illegale situatie reeds bestaat, is gericht op het ongedaan maken van de bestaande situatie, bijvoorbeeld door het doen laten afbreken van het illegaal gebouwde, aldus verzoekers. Handhaving in de voorliggende situatie is, volgens verzoekers, daarentegen gericht op het voorkomen dat een illegale situatie ontstaat, en niet op het ongedaan maken van een reeds gerealiseerde illegale situatie. In de visie van verzoekers zijn beide situaties niet vergelijkbaar. Verweerder meent bestaande jurisprudentie voor wat betreft concreet zicht op legalisatie op een spiegelbeeldige situatie te kunnen toepassen om af te zien van handhaving. Anders dan verweerder stelt, is voor de thans voorliggende situatie geen jurisprudentie beschikbaar. Hiervoor kan volgens verzoekers ook geen jurisprudentie bestaan. Het toelaten van actueel illegaal bouwen staat naar de mening van verzoekers haaks op de fundamenten van de rechtstaat.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.7.</nr>
+      <para>Verweerder stelt zich, onder verwijzing naar vaste jurisprudentie van de AbRvS, onder meer kenbaar uit ECLI:NL:RVS:2019:4394, dat er sprake is van concreet zicht op legalisatie als er een ontwerpbesluit strekkende tot verlening van de vergunning ter inzage is gelegd. In dit verband wijst verweerder erop dat in dit geval er een ontwerpbesluit ter inzage is gelegd namelijk van 18 september tot 30 oktober 2020. Daarnaast is de omgevings-vergunning voor het bouwen van de stal verleend. Dit betekent volgens verweerder dat er sprake is van concreet zicht op legalisatie op basis van de Wnb en dat er ook op grond van de Wet algemene bepalingen omgevingsrecht (Wabo) gestart kan worden met de bouw. Nu sprake is van concreet zicht op legalisatie, acht verweerder zich niet bevoegd om te handhaven. Eventuele bezwaren tegen de vergunningverlening moeten in die procedure aan de orde komen en kunnen in de visie van verweerder geen rol spelen in deze handhavings-procedure. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.8.</nr>
+      <para>Uit vaste jurisprudentie van de AbRvS, onder meer kenbaar uit ECLI:NL:RVS:2019: 2335, volgt dat een bestuursorgaan, indien bijzondere omstandigheden om van handhaving af te zien zich niet voordoen, gehouden is tot handhavend optreden, onverlet laat, dat het bestuursorgaan, ingeval het in dat kader redelijk te achten beleid voert, bijvoorbeeld inhoudend dat het bestuursorgaan de overtreder in bepaalde gevallen eerst waarschuwt en gelegenheid biedt tot herstel voordat het een handhavingsbesluit voorbereidt, zich in beginsel aan dit beleid dient te houden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.9.</nr>
+      <parablock>
+        <para>De voorzieningenrechter stelt vast dat uit het door toezichthouder op 7 juli 2020 opgestelde controleverslag naar aanleiding van een niet aangekondigde controle op 7 juli 2020 blijkt dat het gedrag van de maatschap in dit geval als “calculerend” dient te worden aangemerkt. De voorzieningenrechter constateert dat de maatschap bouwhandelingen verricht zonder een rechtsgeldige titel, in het volledige bewustzijn dat niet zeker is of een vergunning ingevolge de Wnb kan worden verleend. Verder dient te worden vastgesteld dat verweerder voormeld controleverslag heeft betrokken bij het bestreden besluit tot afwijzing van het ingediende verzoek tot handhaving ingevolge de Wnb. Gelet hierop ziet de voorzieningenrechter niet dat dit zou kunnen leiden tot de conclusie van verweerder dat er in dit geval sprake is van een pro-actieve, welwillende burger. In dit verband wijst de voorzieningenrechter er overigens nadrukkelijk op dat dit louter een juridische kwalificatie van het gedrag van de maatschap in het kader van de door verweerder gehanteerde handhavingsstrategie is, en niet een moreel oordeel voor wat betreft dit gedrag. Tussen partijen is niet in geschil, en de voorzieningenrechter neemt dit als een vaststaand gegeven aan, dat er in dit geval op grond van de bij de handhavingsstrategie behorende matrix sprake is van enig belang. Gelet hierop concludeert de voorzieningenrechter dat verweerder op grond van de Landelijke Handhavingsstrategie in dit geval niet met een waarschuwing heeft kunnen volstaan maar gehouden was tot het nemen van een handhavingsbesluit. </para>
+        <para>Het enkele feit dat in de door verweerder aan de maatschap gezonden waarschuwingsbrief kenbaar is gemaakt dat niet zal worden gehandhaafd op het moment dat een ontwerpbesluit tot vergunningverlening ingevolge de Wnb ter inzage is gelegd, kan daaraan naar het oordeel van de voorzieningenrechter niet afdoen. Deze grond van verzoekers slaagt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	Gelet op rechtsoverweging 5.9. dient de houdbaarheid van het bestreden besluit in de bezwaarfase als overwegend negatief te worden ingeschat. Dit brengt met zich dat de voorzieningenrechter in dit geval na afweging van de betrokken belangen bevoegd is tot het opleggen van een maatregel. Bij de beoordeling van de vraag of er aanleiding is tot het opleggen van de gevraagde maatregelen acht de voorzieningenrechter van belang in hoeverre verweerder zich, mede gelet op de voorgeschiedenis van deze zaak, terecht op het standpunt stelt dat er sprake is van een concreet zicht op legalisatie vanwege de terinzagelegging van een ontwerpbesluit tot het verlenen van een vergunning ingevolge de Wnb. Dienaangaande overweegt de voorzieningenrechter als volgt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Uit vaste jurisprudentie van de AbRvS, onder meer kenbaar uit ECLI:NL:RVS:2019: 4394, volgt dat er voor het aannemen van een concreet zicht op legalisatie in het kader van een handhavingsprocedure in het kader van de Wnb tenminste een ontvankelijke aanvraag om vergunning nodig is om te beoordelen of een vergunning kan worden verleend. Daarnaast moet het bovendien aannemelijk te achten zijn dat een vergunning ingevolge de Wnb kan worden verleend. In hetgeen verzoekers over dit toepasselijke juridische kader hebben aangevoerd, ziet de voorzieningenrechter geen aanleiding om in dit geval af te wijken van de vaste jurisprudentie van de AbRvS. Dit brengt met zich dat verweerder zich in zoverre in beginsel op het standpunt heeft kunnen stellen dat er in dit geval sprake is van een concreet zicht op legalisatie, aangezien een ontvankelijke aanvraag om Wnb-vergunning is ingediend door de maatschap en verweerder blijkens het ontwerpbesluit tot het verlenen van de gevraagde Wnb-vergunning er blijk van heeft gegeven dat het aannemelijk is te achten dat vergunning kan worden verleend. Gelet hierop volgt de voorzieningenrechter verzoekers niet in hun stelling dat er in dit geval geen sprake is van een concreet zicht op legalisatie omdat er sprake zou zijn van een andere gerichtheid voor wat betreft de inzet van het handhavingsinstrumentarium. In zoverre slaagt deze grond van verzoekers niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Gelet op de voorgeschiedenis van deze zaak zal de voorzieningenrechter ook, zij het terughoudend, toetsen of verweerder terecht tot de conclusie is gekomen dat het aannemelijk is dat de Wnb-vergunning kan worden verleend. In zijn uitspraak van 3 juli 2020 heeft de voorzieningenrechter geconstateerd dat het project van de maatschap niet passend was beoordeeld terwijl een passende beoordeling op grond van artikel 2.8, eerste en tweede lid, Wnb wel is vereist omdat er geen eerdere passende beoordeling voor het onderhavige project heeft plaatsgevonden. Verweerder stelt zich op het standpunt, zo is ter zitting gebleken, dat de toelichting op de aanvraag, zoals die is opgesteld door de adviseur van de maatschap een passende beoordeling is. </para>
+      <para />
+      <paragroup>
+        <nr>7.2.1.</nr>
+        <para>De voorzieningenrechter is van oordeel dat aan een passende beoordeling in ieder geval de eis moet worden gesteld dat hij is opgesteld door een deskundige, inzicht geeft in de emissies van een project en een beoordeling inhoudt van de gevolgen van die emissies voor de betrokken natuurgebieden in het licht van hun instandhoudingsdoelstellingen waarbij de zekerheid wordt verkregen dat het project de natuurlijke kenmerken van het gebied niet zal aantasten.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.2.2.</nr>
+        <para>Naar aanleiding van het verhandelde ter zitting op 29 oktober 2020 heeft de adviseur van de maatschap desgevraagd een afschrift van een certificaat d.d. 3 mei 2018 van Libereaux advies- en leertrajecten overgelegd, waaruit blijkt dat de adviseur van de maatschap heeft deelgenomen aan vier activiteiten van het EVP KC-traject voor de volgende VTH-deskundigheidsgebieden:</para>
+        <para>-	(…),</para>
+        <para>- Groen en ecologie,</para>
+        <para>-	(…).</para>
+        <para>De voorzieningenrechter overweegt dat uit voormeld certificaat niet volgt dat de adviseur van de maatschap beschikt over voldoende wetenschappelijke kennis om als ecoloog een passende beoordeling op te stellen. Voorts is de adviseur van de maatschap naar het oordeel van de voorzieningenrechter geen onafhankelijke deskundige maar een partijdeskundige. Dit brengt met zich dat verweerder niet zonder meer de door de adviseur van de maatschap overgelegde toelichting met de daarbij behorende Aerius-berekeningen als passende beoordeling aan het ontwerpbesluit tot het verlenen van Wnb-vergunning ten grondslag heeft kunnen leggen. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.2.3</nr>
+        <para>De voorzieningenrechter overweegt voorts dat, los van de vraag of met de Aerius-berekeningen de juiste stikstofdepositie van het onderhavige project in kaart is gebracht, een passende beoordeling waarbij wordt ingegaan op de effecten van de berekende stikstofdepositie op de Natura 2000 gebieden in het licht instandhoudingsdoelstellingen van die Natura 2000-gebieden ontbreekt. </para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>Uit het bovenstaande volgt naar het voorlopig oordeel van de voorzieningenrechter dat is komen vast te staan dat noch aan de onderhavige aanvraag voor de Wnb-vergunning, noch aan de ontwerpvergunning zoals deze ter inzage is gelegd een passende beoordeling ten grondslag is gelegd die aan de minimaal daaraan te stellen eisen voldoet en dat aldus geen zekerheid is verkregen dat het project de natuurlijke kenmerken van het gebied niet zal aantasten. Hieruit volgt dat het door verweerder ingenomen standpunt dat er in dit geval sprake is van een concreet zicht op legalisatie, ontoereikend is gemotiveerd. </para>
+      <para />
+      <para>8. Uit rechtsoverweging 7.3 volgt dat er, zo lang er voor het project geen passende beoordeling is die voldoet aan de daaraan te stellen minimumeisen, naar het voorlopig oordeel van de voorzieningenrechter geen zicht op legalisatie van het project van de maatschap is. Nu uit rechtsoverweging 5.9 naar het voorlopig oordeel van de voorzieningenrechter volgt dat verweerder niet had kunnen volstaan met het geven van een waarschuwing maar een handhavingsbesluit had moeten nemen, ziet de voorzieningenrechter aanleiding om een voorlopige voorziening te treffen, inhoudende dat het bestreden besluit wordt vernietigd en dat verweerder wordt gelast om binnen zes weken na de verzenddatum van deze uitspraak opnieuw te beslissen op het handhavingsverzoek van verzoekers, met inachtneming van hetgeen in deze uitspraak is overwogen. </para>
+      <para />
+      <para>9. Ten aanzien van de vraag of er daarnaast nog een maatregel moet worden opgelegd zoals door verzoekers is verzocht, zal de voorzieningenrechter een belangenafweging voltrekken en de voorzieningenrechter overweegt daartoe als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>De maatschap is naar aanleiding van de waarschuwing gestopt met het voortzetten van de overtreding maar heeft de bouw wederom opgestart nadat verweerder de ontwerpvergunning ter inzage heeft gelegd. De voorzieningenrechter acht dit tot op zekere hoogte te billijken nu verweerder in de waarschuwingsbrief uitdrukkelijk heeft aangegeven niet tot verdere handhaving over te zullen gaan nadat de ontwerpvergunning ter inzage zou zijn gelegd en verweerder meer in het algemeen tot nu toe naar de maatschap telkens de bouw van de stal heeft gefaciliteerd. Ter zitting is door de maatschap gesteld dat met de tijdige voortzetting van de bouw ook grote financiële belangen zijn gemoeid en subsidies moeten worden veilig gesteld. Voorts constateert de voorzieningenrechter dat de bouw bijna is afgerond en dat de stikstofdepositie eenmalig in de orde van grootte van 10% van de totale jaarlijks te verwachten stikstofemissie van het project bedraagt zodat naar het voorlopig oordeel van de voorzieningenrechter de bouw als zodanig geen verstrekkende gevolgen voor de betrokken Natura 2000 gebieden zal hebben. Tegen die achtergrond heeft de voorzieningenrechter geen grond gezien voor het opleggen van een ordemaatregel om de bouw te stoppen en ziet de voorzieningenrechter geen grond voor het opleggen van een maatregel waardoor de bouw per direct zou moeten worden gestopt. De voorzieningenrechter wijst de maatschap er daarbij echter wel uitdrukkelijk op dat hij, zo lang hij geen onaantastbare vergunning op grond van de Wet natuurbescherming heeft, hij zonder vergunning bouwt en daarom moet worden aangemerkt als overtreder. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <parablock>
+        <para>Met betrekking tot het gebruik van de nieuwe stal overweegt de voorzieningenrechter dat er, gelet op rechtsoverweging 7.3., vooralsnog geen zicht is op legalisatie en er daarom aanleiding is om een voorlopige maatregel te treffen.</para>
+        <para>De voorzieningenrechter overweegt daarbij dat derde partij op dit moment gerechtigd is om het aantal koeien te houden zoals die zijn vergund in zijn Hinderwetvergunning die in deze tevens geldt als de referentie-situatie. Het gebruik van de nieuwe stal, waarbij deze koeien of een gedeelte daarvan wordt ondergebracht in die stal, zal niet leiden tot de schending van de belangen die de Wet natuurbescherming beoogt te beschermen zo lang het totaal aantal koeien op het bedrijf niet wordt uitgebreid. Gelet op de voorgaande overwegingen ziet de voorzieningenrechter aanleiding om de maatregel op te leggen dat het totaal aantal te houden koeien op het bedrijf niet mag worden uitgebreid ten opzichte van de referentiesituatie tot zes weken nadat wederom op het verzoek om handhaving van verzoekers door verweerder is beslist.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>10.	Aangezien het verzoek om voorlopige voorziening wordt toegewezen, ziet de voorzieningenrechter aanleiding om verweerder ingevolge artikel 8:75 van de Awb in de proceskosten van verzoekers te veroordelen. Onder toepassing van het Bpb kunnen deze kosten worden begroot op € 1.050,-- in verband met door een derde beroepsmatig verleende rechtsbijstand. Verder ziet de voorzieningenrechter aanleiding om te bepalen dat verweerder het door verzoekers betaalde griffierecht ad € 354,-- aan hen dient te vergoeden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Beslist wordt als volgt.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <para>- wijst het verzoek om voorlopige voorziening toe;</para>
+    <para>- vernietigt het bestreden besluit en gelast dat verweerder binnen zes weken na de verzenddatum van deze uitspraak opnieuw beslist op het handhavingsverzoek van verzoekers, met inachtneming van hetgeen in deze uitspraak is overwogen;</para>
+    <para>- treft de maatregel dat het totaal aantal te houden koeien niet mag worden uitgebreid ten opzichte van de referentiesituatie tot zes weken nadat op het verzoek om handhaving is beslist door verweerder;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoekers ten bedrage van € 1.050,-- en bepaalt dat verweerder deze kosten aan hen dient te vergoeden;</para>
+    <para>- bepaalt dat verweerder het door verzoekers betaalde griffierecht ad € 354,-- aan hen dient te vergoeden.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.L. Vucsán, voorzieningenrechter, in aanwezigheid van mr. H.L.A. van Kats als griffier. </para>
+      <para>De beslissing is in het openbaar uitgesproken op 11 november 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier                                                                                           De voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier is buiten staat om</para>
+      <para>deze uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

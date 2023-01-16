@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:921</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-01-06T10:10:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/171 en 19/557</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2018:10117" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#overig">Eerste aanleg: ECLI:NL:RBROT:2018:10117, Overig</dcterms:relation>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0009755&amp;g=2020-07-10">Elektriciteitswet 1998</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2021/27</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:921">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:921</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-07T15:42:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:921 College van Beroep voor het bedrijfsleven , 08-12-2020 / 19/171 en 19/557</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:921:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Elektriciteits- en Gaswet. Bestuurlijke boete wegens het in strijd met het concurrentieverbod beschikbaar stellen van meetinrichtingen. Beroep op gelijkheidsbeginsel. Onvoldoende onderzoek.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:921:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummers: 19/171 en 19/557</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de meervoudige kamer van 8 december 2020 op de hoger beroepen van:</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Autoriteit Consument en Markt (ACM) </bridgehead>
+    <para>(gemachtigden: mr. G.J.P. Leuverink en mr. drs. E.W.T.M. van Leeuwen),</para>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam 1] B.V., te [plaats] ( [naam 1] )</bridgehead>
+    <para>(gemachtigden: mr. S. Simonetti en mr. P.R. Leopold)</para>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Rotterdam van 13 december 2018, kenmerk ROT 18/1179, in het geding tussen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam 1] </bridgehead>
+    <bridgehead role="bold">en</bridgehead>
+    <bridgehead role="bold">ACM.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>ACM heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam (rechtbank) van 13 december 2018, ECLI:NL:RBROT:2018:10117 (aangevallen uitspraak).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [naam 1] heeft incidenteel hoger beroep ingesteld tegen de aangevallen uitspraak.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben een reactie op elkaars hogerberoepschriften ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ten aanzien van een aantal stukken die ACM verplicht is over te leggen, heeft zij medegedeeld dat uitsluitend het College daarvan kennis zal mogen nemen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 5 maart 2020 heeft ACM desgevraagd de mededeling van een nadere onderbouwing voorzien. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij griffiersbrief van 23 april 2020 is [naam 1] in de gelegenheid gesteld hierop te reageren. [naam 1] heeft geen gebruik gemaakt van deze mogelijkheid.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij beslissing van 4 september 2020 heeft het College de gevraagde beperking van de kennisneming gerechtvaardigd geacht. [naam 1] heeft het College toestemming verleend om mede op grondslag van die stukken uitspraak te doen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 8 oktober 2020. Partijen hebben zich laten vertegenwoordigen door hun gemachtigden. Aan de zijde van [naam 1] zijn tevens verschenen [naam 2] en [naam 3] .</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Voor een uitgebreide weergave van het verloop van de procedure, het wettelijk kader en de in dit geding van belang zijnde feiten en omstandigheden, voor zover niet bestreden, wordt verwezen naar de aangevallen uitspraak. Het College volstaat met het volgende.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Bij besluit van 6 november 2017 (boetebesluit) heeft ACM [naam 1] een boete opgelegd van € 600.000,- wegens overtreding van artikel 17, eerste lid, van de Elektriciteitswet 1998 (E-wet; oud) en artikel 10b, eerste lid, van de Gaswet (oud). Volgens ACM heeft [naam 1] in de periode van 1 januari 2013 tot 1 januari 2017 als netbeheerder het concurrentieverbod in de Gaswet en de E-wet overtreden door meetinrichtingen gas ter beschikking te stellen aan grootverbruikers binnen en buiten haar verzorgingsgebied en door meetinrichtingen elektriciteit ter beschikking te stellen aan grootverbruikers buiten haar verzorgingsgebied. ACM heeft de einddatum van de overtreding gesteld op 1 januari 2017, omdat zustermaatschappij [naam 4] B.V. met ingang van die datum de meetdiensten van [naam 1] heeft overgenomen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>
+        [naam 1] heeft rechtstreeks beroep ingesteld tegen het boetebesluit.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de rechtbank</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>De rechtbank heeft het beroep van [naam 1] gegrond verklaard en het boetebesluit vernietigd. Zij heeft, voor zover voor het hoger beroep van belang, het volgende overwogen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>De rechtbank is van oordeel dat [naam 1] artikel 17 van de E-wet (oud) en artikel 10b van de Gaswet (oud) heeft overtreden. Ten aanzien van het beroep op het gelijkheidsbeginsel overweegt de rechtbank vervolgens in rechtsoverweging 10.1 dat [naam 1] reeds in haar zienswijze een beroep heeft gedaan op het gelijkheidsbeginsel en haar standpunt nader heeft gemotiveerd. [naam 1] stelt dat de bedrijven die in 2010 onderwerp van onderzoek door ACM zijn geweest, [naam 5] , [naam 6] en [naam 7] , zich schuldig hebben gemaakt aan vergelijkbare gedragingen als waar [naam 1] thans voor is beboet. Bij deze partijen is indertijd volstaan met een concept-bindende aanwijzing. [naam 1] heeft verder gesteld dat [naam 6] is doorgegaan met deze gedragingen tot in mei 2016 en heeft ook dit standpunt nader gemotiveerd.</para>
+        <para>Naar het oordeel van de rechtbank (rechtsoverweging 10.2) heeft ACM in de aanloop naar het boetebesluit onvoldoende onderzoek gedaan naar de vraag of in de door [naam 1] genoemde gevallen sprake is van vergelijkbare gevallen. De algemene overweging in het bestreden besluit dat de feiten en omstandigheden in het geval van [naam 1] verschillen van de gevallen van de door [naam 1] genoemde bedrijven, is onvoldoende, nu hieruit niet blijkt wat de relevante verschillen dan zouden zijn. </para>
+        <para>De rechtbank stelt voorop dat ACM een toezichthoudende taak heeft. Het bestaan van klachten kan zeker een aanleiding zijn voor het doen van onderzoek naar een marktpartij, maar ACM heeft daarnaast een zelfstandige toezichthoudende taak om toe te zien op de naleving van wet- en regelgeving. </para>
+        <para>De rechtbank merkt op dat in de concept-bindende aanwijzingen gericht aan [naam 6] en [naam 5] expliciet is opgenomen dat het ter beschikking stellen van een gasmeter geen taak is van de netbeheerder en dat ACM voornemens was om aan deze partijen een bindende aanwijzing op te leggen die ertoe strekte dat zij zich met onmiddellijke ingang moesten onthouden van het aanbieden van gasmeters. Ter zitting is de rechtbank gebleken dat ACM vervolgens heeft afgezien van het opleggen van een bindende aanwijzing omdat de klacht over deze partijen werd ingetrokken. Ter zitting is verder komen vast te staan dat ACM in de periode na het opstellen van de concept-bindende aanwijzingen geen toezicht heeft gehouden op de partijen die destijds het onderwerp waren van het onderzoek. Door ACM is niet weersproken dat [naam 6] tot mei 2016 meetinrichtingen elektriciteit aan grootverbruikers buiten haar verzorgingsgebied ter beschikking stelde, en meetinrichtingen gas aan grootverbruikers binnen en buiten haar verzorgingsgebied. </para>
+        <para>ACM heeft ter zitting desgevraagd aangegeven dat zij geen (nader) onderzoek is gestart naar [naam 6] omdat er in vergelijking met [naam 1] minder klachten bij ACM zijn binnengekomen over de handelwijze van [naam 6] . Daaruit heeft ACM afgeleid dat [naam 6] kennelijk op minder grote schaal dan [naam 1] deze activiteiten verrichtte. ACM heeft er verder op gewezen dat [naam 6] in ieder geval op het moment dat ACM het onderzoek tegen [naam 1] aanving, deze activiteiten had overgedragen aan haar zelfstandige meetbedrijf [naam 8] , zodat volgens ACM om die reden geen sprake zou zijn van gelijke gevallen.</para>
+        <para>De rechtbank is van oordeel dat ACM onvoldoende overtuigend heeft gemotiveerd waarom, anders dan in het geval van [naam 6] , in het geval van [naam 1] niet volstaan kon worden met een minder vergaande maatregel dan het opleggen van een boete.</para>
+        <para>Uit het dossier maakt de rechtbank op dat de gedragingen die onder meer [naam 6] werden verweten in 2010, gelijksoortig zijn aan de gedragingen die [naam 1] thans worden verweten. Daarbij komt bij dat ACM niet heeft ontkend dat [naam 6] deze gedragingen tot in 2016 heeft voorgezet en dat ACM daarop niet heeft ingegrepen. [naam 1] heeft verder terecht opgemerkt dat zij, net als [naam 6] , op enig moment haar activiteiten terzake het ter beschikking stellen van meetinrichtingen heeft overgedragen aan [naam 4] B.V. en daarmee de overtreding heeft beëindigd. Ook in dit opzicht zijn de gevallen niet zodanig anders dat dit het verschil in behandeling kan verklaren.</para>
+        <para>Gelet hierop komt de rechtbank in rechtsoverweging 10.3 tot de slotsom dat het bestreden besluit in strijd is met het zorgvuldigheidsbeginsel en het motiveringsbeginsel zoals neergelegd in de artikelen 3:2 en 7:12, eerste lid, van de Algemene wet bestuursrecht (Awb) en dat het besluit om die reden voor vernietiging in aanmerking komt. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para />
+    <para>3. Het hoger beroep van ACM is gericht tegen de hierboven weergegeven rechtsoverwegingen 10.2 en 10.3 van de uitspraak. Anders dan [naam 1] , ziet het College geen grond voor het oordeel dat het hoger beroep van ACM niet-ontvankelijk is vanwege de formulering van de omvang van het hoger beroep.</para>
+    <para />
+    <para>4. Het hoger beroep van ACM richt zich tegen het oordeel van de rechtbank over het gelijkheidsbeginsel. ACM voert aan dat geen sprake is van vergelijkbare gevallen. </para>
+    <parablock>
+      <para>De situatie uit de concept-bindende aanwijzingen uit 2010 is niet vergelijkbaar met de situatie van [naam 1] in 2016 die heeft geleid tot de boete. De verschillen hebben niet alleen betrekking op het verstrijken van het grote aantal jaren sinds de bindende aanwijzingen zijn verstuurd. De concept-bindende aanwijzingen hebben nooit tot besluiten geleid en de overtredingen zijn dus ook nooit vastgesteld. De concept-bindende aanwijzingen hebben slechts betrekking op activiteiten binnen het eigen verzorgingsgebied. Alleen voor het ter beschikking stellen van gasmeters binnen het eigen verzorgingsgebied is sprake van een beperkte overlap tussen de overtreding van het concurrentieverbod in de concept-bindende aanwijzingen voor [naam 6] en [naam 5] in 2010 enerzijds en de overtredingen waarvoor [naam 1] in 2017 is beboet anderzijds. De activiteiten waarvoor [naam 1] is beboet, betroffen ook het ter beschikking stellen van elektriciteits- en gasmeters buiten het verzorgingsgebied. Het geografisch bereik van de overtredingen van [naam 1] was dus veel groter. Bovendien betrof het niet alleen overtreding van de Gaswet, maar ook van de E-wet. Ook onderscheidde de situatie van [naam 1] zich door de schaal waarop [naam 1] het concurrentieverbod overtrad en de strategie die hieraan ten grondslag lag. [naam 1] heeft op grote schaal ingeschreven op aanbestedingen buiten het eigen verzorgingsgebied waarbij meters ter beschikking werden gesteld. </para>
+      <para>Evenmin is sprake van gelijke gevallen wanneer een vergelijking wordt gemaakt tussen de beboete overtredingen van [naam 1] en de klachten over [naam 6] en [naam 5] in 2016. De klachten gingen onder meer over het gecombineerd aanbieden van aansluitingen en meetdiensten. Het betrof dus activiteiten binnen het eigen verzorgingsgebied. Deze klachten leverden geen concrete aanwijzingen op voor overtredingen van het concurrentieverbod wegens het ter beschikking stellen van elektriciteitsmeters buiten het eigen verzorgingsgebied en het ter beschikking stellen van gasmeters binnen en buiten het eigen verzorgingsgebied. Er waren al helemaal geen aanwijzingen dat dit op grote schaal gebeurde en dat [naam 6] en [naam 5] hiervoor toen een strategie hadden, zoals in het geval van [naam 1] . Bovendien wezen de klachten eerder op overtreding van het bevoordelingsverbod dan op overtreding van het concurrentieverbod. Dit is een overtreding van een andere bepaling en reeds daarom niet vergelijkbaar met de overtreding waarvoor [naam 1] is beboet. </para>
+      <para>De rechtbank heeft ten onrechte geconcludeerd dat sprake was van soortgelijke activiteiten van [naam 6] in 2010 en 2016. De concept-bindende aanwijzingen en de klachten over [naam 6] en [naam 5] in 2016 leveren, anders dan de rechtbank heeft geoordeeld, hiervoor geen concrete aanwijzingen. Ten aanzien van wat [naam 1] naar voren heeft gebracht over de activiteiten van [naam 6] merkt ACM het volgende op. Voor zover ACM weet, heeft [naam 6] eenmalig ingeschreven op een aanbesteding (van het rijk) en heeft zij deze niet gewonnen. Dit betekent dat [naam 6] in dit geval geen overtreding heeft begaan. Verder leveren de door [naam 1] overgelegde stukken weliswaar aanwijzingen op dat [naam 6] of [naam 8] meetverantwoordelijkheid uitoefenen, zelfs bij één klant in het verzorgingsgebied van [naam 1] , maar dat is geenszins het bewijs dat [naam 6] ook meters ter beschikking heeft gesteld.</para>
+      <para>ACM weet niet of [naam 6] van 2010 tot 2016 in strijd met het concurrentieverbod elektriciteitsmeters buiten haar verzorgingsgebied en gasmeters binnen en buiten haar verzorgingsgebied ter beschikking heeft gesteld. Zij hoeft dit ook niet te weten. Gelet op de reikwijdte en het conceptkarakter van de concept-bindende aanwijzing en de aard en reikwijdte van de klachten in 2016, was er geen aanleiding voor onderzoek door ACM. Het ontbreken van onderzoek en wetenschap omtrent een eventuele overtreding van [naam 6] van het concurrentieverbod, kan beboeting van [naam 1] dan ook niet in de weg staan.</para>
+      <para>Anders dan de rechtbank heeft geoordeeld, is in het geval van [naam 1] een boete het enige passende middel. Slechts met een boete kan aan [naam 1] een duidelijk signaal worden gegeven dat zij een ernstige overtreding heeft begaan en dat wat zij vier jaar lang heeft gedaan, niet is toegestaan. </para>
+    </parablock>
+    <para />
+    <para>5. [naam 1] stelt zich op het standpunt dat sprake is van vergelijkbaarheid tussen de gedragingen van [naam 6] en [naam 5] in 2010 en de gedragingen van [naam 1] . Bovendien zijn de gedragingen van [naam 6] tot mei 2016 voortgezet. Volgens [naam 1] wist ACM of had zij moeten weten van de activiteiten van [naam 6] , indien zij adequaat onderzoek had gedaan in de aanloop naar het boetebesluit. Naast het feit dat [naam 6] reeds sinds 2010 openlijk meetactiviteiten verrichtte, staat vast dat [naam 6] op meerdere grootverbruikersaansluitingen in het verzorgingsgebied van [naam 1] een meter heeft geleverd en geplaatst. [naam 1] heeft altijd gemotiveerd gesteld dat [naam 6] met zekerheid (grootschalig) actief is geweest met het aanbieden van meetdiensten buiten haar verzorgingsgebied. [naam 1] geeft aan dat de kern van haar betoog is dat bij haar sprake is van het toepassen van een ander, veel verstrekkender handhavingsinstrument, dan eerder tegen andere netbeheerders is ingezet, althans dat zij gewaarschuwd zijn. ACM persisteert hierin zonder dat blijk is gegeven van enige objectieve rechtvaardiging van een andere behandeling. Door onvoldoende zorgvuldig onderzoek te verrichten, was ACM hoe dan ook niet in staat zich ervan te vergewissen dat sprake was van gelijke gevallen. Dat geldt in ieder geval voor de vergelijking tussen [naam 1] en [naam 6] . </para>
+    <para />
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het College stelt voorop dat ACM, indien sprake is van een overtreding van de E-wet en de Gaswet, beschikt over een discretionaire bevoegdheid om een boete op te leggen. Bij de uitoefening van deze bevoegdheid dient ACM de algemene beginselen van behoorlijk bestuur in acht te nemen, waaronder het gelijkheidsbeginsel (zie bijvoorbeeld de uitspraak van het College van 15 mei 2018, ECLI:NL:CBB:2018:145). In zijn uitspraak van 14 augustus 2018 (ECLI:NL:CBB:2018:401) heeft het College overwogen dat het gelijkheidsbeginsel in het kader van het opleggen van bestuurlijke boetes niet zover strekt dat de bevoegdheid tot het opleggen ervan onrechtmatig is uitgeoefend, alleen omdat een eventuele andere overtreder niet is beboet. Dat kan anders komen te liggen als sprake is van een ongelijke behandeling van gelijke gevallen die duidt op willekeur in de handhavingspraktijk van het bevoegde bestuursorgaan. Om dit te kunnen toetsen, dient het bestuursorgaan inzichtelijk te maken waarom zij in het ene geval wel en in het andere geval geen gebruik heeft gemaakt van haar bevoegdheid om een bestuurlijke boete op te leggen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>Anders dan ACM acht het College bij de vraag of sprake is van gelijke gevallen bij overtreding van het concurrentieverbod als bedoeld in artikel 17, eerste lid, van de E-wet (oud) en artikel 10b, eerste lid, van de Gaswet (oud) niet relevant of sprake is van overtreding binnen of buiten het verzorgingsgebied van de netbeheerder. Het concurrentieverbod houdt in dat het de netbeheerder verboden is activiteiten in concurrentie te verrichten, tenzij het betreft het verrichten van werkzaamheden ten behoeve van, voor zover hier van belang, de taken die de netbeheerder op grond van de betreffende wet heeft. Het verbod geldt zowel binnen als buiten het verzorgingsgebied. Bij de beoordeling is naar het oordeel van het College slechts relevant of de netbeheerder een wettelijke taak heeft of niet. Dat de netbeheerder buiten het verzorgingsgebied geen enkele taak heeft, maakt niet dat sprake is van een andere overtreding. Anders dan ACM lijkt te betogen, kan aan het feit dat buiten het verzorgingsgebied activiteiten in strijd met concurrentieverbod worden verricht, op zichzelf geen conclusie worden verbonden over de omvang van de activiteiten. Daarvoor verschillen de grootte van de netbeheerders en hun verzorgingsgebieden te veel. </para>
+        <para>Het College acht evenmin een relevant onderscheid of in strijd met het concurrentieverbod gasmeters of elektriciteitsmeters ter beschikking zijn gesteld. Het ter beschikking stellen van gasmeters of elektriciteitsmeters is hier geen wezenlijk andere activiteit. In beide gevallen gaat het om het ter beschikking stellen van meters aan grootverbruikers op een vrije markt terwijl dit niet is toegestaan. De E-wet en de Gaswet kennen in dit verband dezelfde uitgangspunten van een vrije metermarkt waarop in beginsel geen taak is weggelegd voor de netbeheerder. Dat het ter beschikking stellen van elektriciteitsmeters aan grootverbruikers destijds wel tot de wettelijke taak van de netbeheerders behoorde maakt dit niet anders. Achtergrond hiervan was dat er onvoldoende aanbod was op de vrije metermarkt. De taak is inmiddels geschrapt, omdat op de markt voldoende aanbod beschikbaar is (Kamerstukken II 2016-2017, 34627, nr. 3, p. 27). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>ACM heeft zich verder op het standpunt gesteld dat zij geen onderzoek behoefde te doen naar [naam 6] , omdat er geen concrete verdenking was dat [naam 6] in dezelfde gevallen en op dezelfde schaal het concurrentieverbod heeft overtreden. Het College is van oordeel dat ACM dit standpunt niet deugdelijk heeft onderbouwd. Zoals volgt uit overweging 6.2, stelt ACM zich ten aanzien van de activiteiten ten onrechte op het standpunt dat geen sprake is van vergelijkbare gevallen. ACM had daarom wel een vermoeden van een overtreding want zij had in ieder geval een vermoeden dat andere netbeheerders, waaronder [naam 6] , in strijd met het concurrentieverbod gasmeters in hun eigen verzorgingsgebied ter beschikking hebben gesteld. Met betrekking tot de schaal van de activiteiten heeft ACM niet met objectieve gegevens van de activiteiten van andere netbeheerders onderbouwd dat [naam 1] het concurrentieverbod op veel grotere schaal heeft overtreden. ACM heeft hier geen onderzoek naar gedaan. Dat het alleen bij [naam 1] een strategie was om in strijd met concurrentieverbod meters ter beschikking te stellen, heeft ACM evenmin met onderzoek bij andere netbeheerders onderbouwd. Het College overweegt in dit verband nog dat ACM zich ook gezien de context waarin zij haar discretionaire bevoegdheid in deze zaak uitoefent, niet op het standpunt heeft kunnen stellen dat zij geen nader onderzoek hoefde te doen. ACM heeft tot taak om toezicht te houden op de naleving van wet- regelgeving door de netbeheerders elektriciteit en gas. Dit betreft een beperkt aantal marktpartijen die zijn gereguleerd onder meer om de macht aan banden te leggen waarover zij vanwege hun natuurlijk monopolie beschikken en om te voorkomen dat ongelijke concurrentiecondities ontstaan (onder meer Kamerstukken II 1997-1998, 25621, nr. 3, pagina’s 8-9 en 31). Gelet hierop, en gegeven het feit dat marktpartijen een belang kunnen hebben bij het geven van een bepaalde voorstelling van zaken aan ACM, kunnen klachten van andere marktpartijen aanleiding zijn voor het starten van een onderzoek, maar kunnen zij niet op zichzelf leidend zijn voor de vraag op welke marktpartijen het onderzoek zich richt. Ook kan ACM niet volstaan met de constatering dat eerder onderzoek niet heeft geleid tot de vaststelling van een overtreding van een andere netbeheerder, als de reden van stopzetting van het onderzoek gelegen is in het intrekken van een klacht. Naar het oordeel van het College vormen de door [naam 1] aangedragen feiten en omstandigheden ten aanzien van de activiteiten van [naam 6] zodanig concrete aanwijzingen voor vergelijkbare overtredingen door [naam 6] , dat zij voor ACM aanleiding moesten vormen voor nader onderzoek. Zo kan op grond van de door [naam 1] overgelegde gegevens worden geconcludeerd dat [naam 6] , als zij de aanbesteding van het rijk zou hebben gewonnen, over zou zijn gegaan tot het ter beschikking stellen van meters, omdat de verhuur van meters volgens die gegevens binnen de aanbesteding viel. Dit wijst er op dat [naam 6] zich in ieder geval richtte op het binnenhalen van dezelfde activiteiten als waarvoor [naam 1] is beboet. Hieruit volgt dat het bestreden besluit onzorgvuldig is voorbereid en niet deugdelijk is gemotiveerd en daarmee in strijd is met de artikelen 3:2 en 3:46 van de Awb. </para>
+      <para />
+      <para>7. De conclusie is dat het hoger beroep van ACM ongegrond is en dat de rechtbank het bestreden besluit terecht heeft vernietigd. Het College ziet geen grond ACM in de gelegenheid te stellen het gebrek te herstellen, omdat ACM, hoewel zij daartoe in de gelegenheid was, er bewust voor heeft gekozen de afgelopen jaren geen nader onderzoek te doen. </para>
+      <para />
+      <para>8. Met betrekking tot het incidenteel hoger beroep van [naam 1] overweegt het College als volgt. [naam 1] heeft ter zitting verklaard dat zij geen belang meer heeft bij haar incidenteel hoger beroep als het hoger beroep van ACM niet slaagt. Het College vat dit zo op dat zij het incidenteel hoger beroep heeft ingesteld onder de voorwaarde dat het hoger beroep gegrond is. Nu aan die voorwaarde niet is voldaan, vervalt, gelet op artikel 8:112, tweede lid, van de Awb, het door [naam 1] ingestelde voorwaardelijk incidenteel hoger beroep. Aan een inhoudelijke beoordeling daarvan wordt dan ook niet toegekomen.</para>
+      <para />
+      <para>9. Het College veroordeelt ACM in de door [naam 1] gemaakte proceskosten in verband met de behandeling van het hoger beroep van ACM. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het hoger beroepschrift, 1 punt voor het verschijnen ter zitting bij het College, met een waarde per punt van € 525,- en een wegingsfactor 1).</para>
+      <para />
+      <para>10. Op grond van artikel 8:109, tweede lid, van de Awb wordt van ACM een griffierecht van € 532,- geheven.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College: </para>
+    </parablock>
+    <para />
+    <para>- bevestigt de aangevallen uitspraak;</para>
+    <para>- veroordeelt ACM in de proceskosten van [naam 1] tot een bedrag van € 1050,-.<?linebreak?></para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.O. Kerkmeester, mr. T. Pavićević en mr. D. Brugman, in aanwezigheid van mr. I.C. Hof, griffier. De beslissing is in het openbaar uitgesproken op 8 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. H.O. Kerkmeester						w.g. I.C. Hof<?linebreak?></para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

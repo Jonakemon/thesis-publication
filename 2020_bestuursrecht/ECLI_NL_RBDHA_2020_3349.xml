@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:3349</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-15T12:22:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 1963</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3349">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3349</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-15T12:22:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:3349 Rechtbank Den Haag , 25-03-2020 / AWB - 19 _ 1963</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:3349:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Eiser voldoet niet aan de inburgeringsvereisten. Identiteit en nationaliteit (Soedan/Zuid-Soedan) kan niet worden vastgesteld, geen bewijsnood</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:3349:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/1963</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 25 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. T.Y. Tsang),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Veiligheid en Justitie, verweerder</bridgehead>
+    <para>(gemachtigde: mr. H. el Hajoui).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 22 oktober 2018 (het primaire besluit) heeft verweerder het verzoek van eiser om naturalisatie afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 februari 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 11 maart 2020.</para>
+      <para>Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser heeft op 9 november 1998 een aanvraag gedaan voor een verblijfsvergunning asiel. De afwijzing daarvan is bij uitspraak van 23 februari 2004 van de Afdeling bestuursrechtspraak van de Raad van State onherroepelijk geworden. Eiser heeft daarna een verblijfsvergunning regulier gekregen in het kader van de Regeling afhandeling nalatenschap oude Vreemdelingenwet (hierna: Ranov). Eiser heeft op 7 april 2017 een verzoek om naturalisatie ingediend.</para>
+    <para />
+    <para>2. Verweerder heeft aan de afwijzing van het verzoek om naturalisatie ten grondslag gelegd dat eiser geen gelegaliseerde geboorteakte en geen geldig buitenlands reisdocument (hierna: paspoort) heeft overgelegd. Voorts is niet gebleken van bewijsnood, nu eiser dit niet met objectief verifieerbare bewijsstukken heeft onderbouwd, aldus verweerder.</para>
+    <para />
+    <para>3. De relevante bepalingen van de Rijkswet op het Nederlanderschap (hierna: RWN), het Besluit verkrijging en verlies Nederlanderschap (hierna: BvvN) en de Handleiding Rijkswet op het Nederlanderschap 2003 (hierna: Handleiding) zijn opgenomen in de bijlage. Deze maakt deel uit van de uitspraak.</para>
+    <para />
+    <para>4. Eiser betoogt dat verweerder een onjuist land als herkomstland heeft aangemerkt. Eiser komt niet uit Soedan, maar uit het in 2011 als land erkende Zuid-Soedan. Hij dient zich dan ook tot de Zuid-Soedanese autoriteiten te richten in plaats van die van Soedan.</para>
+    <parablock>
+      <para>	Eiser betoogt voorts dat er sprake is van bewijsnood. Verweerder heeft ten onrechte niet in het bestreden besluit betrokken dat het voor hem niet mogelijk is om naar Zuid-Soedan af te reizen. De situatie in Zuid-Soedan is zodanig dat er een negatief reisadvies geldt. Daarbij komt dat hij een laissez-passer nodig heeft om naar Zuid-Soedan te kunnen reizen. Een laisser-passer voor de terugreis naar Nederland is beperkt geldig, met het risico dat je niet meer kan terugreizen. Voorts blijkt uit informatie van de Immigratie- en Vluchtelingendienst in Canada dat, behalve in delen waar er oorlog was, geboortecertificaten werden afgegeven door doctoren in ziekenhuizen. Eiser is echter niet in een ziekenhuis geboren en heeft daardoor ook nooit geregistreerd gestaan. Het is gezien de situatie in Zuid-Soedan voor hem dan ook onmogelijk een geboorteakte of paspoort te krijgen. Het is algemeen erkend dat er een gebrek is aan goede bevolkingsregistratiesystemen in Soedan en Zuid-Soedan. Gelet op de situatie in Zuid‑Soedan is het evenmin mogelijk om contact op te nemen met autoriteiten in Soedan en/of Zuid-Soedan, dan wel een derde aldaar te machtigen. Verder voert eiser aan dat hij in het verleden zowel persoonlijk als schriftelijk contact heeft gehad met de Soedanese ambassade in Den Haag en recent nog met de ambassade van Zuid Soedan in Brussel. Zijn brieven en telefoontjes worden echter niet beantwoord door de ambassade. Doordat de ambassade geen verklaring geeft met de reden waarom eiser geen paspoort kan krijgen, is het bijna onmogelijk bewijsnood aan te tonen. Verweerder hecht teveel waarde aan de uitspraak van juli 2004 van het hoofd van de Consulaire Sectie dat eiser geen Soedanees is, nu deze conclusie op basis van onjuiste informatie is getrokken. Ook is verweerder ten onrechte voorbij gegaan aan het feit dat de taalanalist heeft aangegeven dat een taalanalyse niet de juiste resultaten zal opleveren omdat eiser ten tijde van de analyse al enige tijd in Nederland verbleef. Na 2011 is gebleken dat de officiële taal in Zuid‑Soedan Engels is. Het is dus niet vreemd dat eiser met de Engelse taal is opgevoed en geen ander dialect spreekt.</para>
+      <para>	Eiser betoogt dat het niet zijn van Nederlander belemmeringen meebrengt. Hij woont inmiddels al 20 jaar in Nederland, heeft hier zijn studies voltooid en heeft een goede baan. Verweerder had met betrekking tot het aannemen van bewijsnood dan ook moeten afwijken van de beleidsregels in de Handleiding.</para>
+      <para>	Eiser beroept zich voorts op het vertrouwensbeginsel. Hij voert daartoe aan dat hij een uitnodiging heeft gekregen om een verzoek tot naturalisatie in te dienen. Daarmee heeft verweerder hem vertrouwen gegeven dat hij kon naturaliseren. Met die brief heeft verweerder hem op kosten gejaagd, doordat hij hoge legeskosten heeft moeten betalen voor de behandeling van zijn aanvraag. Voorts voert eiser aan dat de medewerker bij de gemeente Pijnacker-Nootdorp te kennen heeft gegeven dat als hij binnen een jaar nog geen reactie heeft op zijn aanvraag dat hij ervan kan uitgaan dat zijn aanvraag is ingewilligd. De afwijzende beschikking heeft hij meer dan een jaar na zijn aanvraag gekregen, waardoor opnieuw zijn vertrouwen is geschonden. Verweerder dient daarom de legeskosten voor de aanvraag te vergoeden, aldus eiser.</para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank overweegt als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Tussen partijen is niet in geschil dat hij een gelegaliseerde geboorteakte en een paspoort moet overleggen. Het geschil spitst zich toe op de vraag of er sprake is van bewijsnood. Gelet op vaste rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: Afdeling) kan pas worden geconcludeerd dat een aanvrager in bewijsnood verkeert, als met bewijsstukken is aangetoond dat degene die om naturalisatie verzoekt al het mogelijke heeft gedaan om in het bezit te komen van een geldig buitenlands reisdocument (paspoort) en een gelegaliseerde geboorteakte (zie onder meer de uitspraak van 1 februari 2012, ECLI:NL:RVS:2012:BV2474). Volgens de Handleiding dient het te gaan om objectieve en verifieerbare bewijsstukken. Deze documenten mogen bij de indiening van het verzoek om naturalisatie niet ouder zijn dan zes maanden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Tijdens de asielprocedure heeft eiser gesteld dat hij uit Soedan komt. Soedan was toen nog één land. Voor zover verweerder verwijst naar de asielprocedure spreekt verweerder dan ook terecht over Soedan. Met betrekking tot het verkrijgen van een geboorteakte en paspoort door eiser worden door verweerder in het bestreden besluit naast de Soedanese ook de Zuid‑Soedanese autoriteiten genoemd, waartoe eiser zich dient te wenden. Het betoog dat verweerder is uitgegaan van het verkeerde land, wordt dan ook niet gevolgd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Voor zover eiser betoogt dat verweerder teveel waarde heeft gehecht aan de verklaring van het hoofd van de Consulaire Sectie dat eiser geen Soedanees zou zijn, wordt overwogen dat het in de asielprocedure van eiser op basis van een Rapport Onderzoek Herkomstbepaling onaannemelijk is geacht dat eiser afkomstig is uit het toenmalige Soedan. Dit oordeel is met de uitspraak van 23 februari 2004 van de Afdeling in rechte vast komen te staan. Verweerder heeft reeds gelet daarop twijfels mogen hebben over de identiteit en nationaliteit van eiser. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Eiser heeft geen verklaring van de Soedanese dan wel Zuid-Soedanese autoriteiten overgelegd waarom hij niet in het bezit wordt gesteld van een geldig paspoort en een geboorteakte. Verweerder heeft in het bestreden besluit erop gewezen dat eiser in het kader van zijn naturalisatieverzoek geen contact heeft proberen te zoeken met de Soedanese dan wel Zuid-Soedanese autoriteiten. Voor zover eiser stukken heeft overgelegd waaruit blijkt dat hij dat een aantal jaren geleden wel heeft geprobeerd door contact op te nemen met de ambassade, heeft verweerder er terecht op gewezen dat deze stukken ouder zijn dan zes maanden. Uit de door eiser overgelegde stukken blijkt voorts dat eiser ten behoeve van zijn naturalisatieverzoek hangende de beroepsprocedure recent nog contact heeft gezocht met de Zuid‑Soedanese ambassade in Brussel door verschillende (aangetekende) brieven te sturen met een aanvraag om een paspoort en geboorteakte, dan wel een verzoek om hulp bij de aanvraag daarvan, maar zonder resultaat en zonder vervolgstappen. Los van de omstandigheid dat deze stukken op grond van de ex tunc toetsing niet bij de beoordeling kunnen worden betrokken, wordt voorts overwogen dat uit de uitspraak van de Afdeling van 18 februari 2015 (ECLI:NL:RVS:2015:483) volgt dat het enkel zonder resultaat aanschrijven van de autoriteiten van een land ontoereikend is voor het aannemen van bewijsnood. Voorts wordt door eiser niet betwist dat hij geen poging heeft ondernomen rechtstreeks contact op te nemen met de autoriteiten in Zuid-Soedan dan wel aldaar iemand te machtigen om voor hem de benodigde documenten aan te vragen dan wel objectieve verifieerbare verklaringen te verkrijgen dat hij die documenten niet kan verkrijgen. Uit de door eiser overgelegde stukken blijkt wel dat de situatie in Zuid‑Soedan ernstig is, maar niet dat het niet mogelijk zou zijn om de autoriteiten rechtstreeks aan te schrijven, dan wel een gemachtigde derde aldaar onderzoek te laten doen. Verder heeft verweerder er terecht op gewezen dat eiser zich – eventueel via een gemachtigde derde – ook had kunnen wenden tot de autoriteiten in Soedan, aangezien eiser is geboren in het toenmalige Soedan. Voor zover eiser zich op het standpunt heeft gesteld dat van hem geen geboorteakte bestaat, omdat hij niet in een ziekenhuis is geboren, wordt overwogen dat hij dit met het enkele bericht van de Canadese immigratiedienst uit 1991 onvoldoende heeft onderbouwd, mede gelet op de omstandigheid dat eiser heeft gesteld in 1982 te zijn geboren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>Reeds gelet op voorgaande heeft verweerder zich naar het oordeel van de rechtbank in redelijkheid op het standpunt kunnen stellen dat aan eiser geen geslaagd beroep op bewijsnood toekomt. Hetgeen eiser verder heeft aangevoerd over de veiligheidssituatie in Zuid‑Soedan en de onmogelijkheid daardoor om naar Zuid‑Soedan af te reizen, behoeft daarom geen verdere bespreking.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6</nr>
+      <para>De rechtbank overweegt voorts dat verweerder zich in redelijkheid op het standpunt heeft kunnen stellen dat de door eiser aangevoerde omstandigheden – dat hij al lang in Nederland verblijft, goed is geïntegreerd en een goede baan heeft – hoe zeer daar ook alle waardering voor op zijn plaats is, niet zodanig bijzonder zijn dat verweerder ten aanzien van het aannemen van bewijsnood van de Handleiding had moeten afwijken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.7</nr>
+      <para>Voor zover eiser een beroep heeft gedaan op het vertrouwensbeginsel wordt overwogen dat verweerder zich terecht op het standpunt heeft gesteld dat hij met de brief van 21 februari 2017 met de uitnodiging te naturaliseren geen gerechtvaardigd vertrouwen heeft gewekt. Uit de brief blijkt duidelijk dat dit een algemene brief is met informatie over de mogelijkheid de Nederlandse nationaliteit te verkrijgen. In de brief staat onder meer dat een geldig paspoort en geboorteakte nodig zijn voor een aanvraag tot naturalisatie. Uit de brief volgt niet dat eiser persoonlijk in aanmerking komt voor naturalisatie. Ook de enkele stelling dat een medewerker van de gemeente Pijnacker-Nootdorp toezeggingen zou hebben gedaan is onvoldoende. Eiser heeft dit niet nader onderbouwd. Daarbij komt dat de desbetreffende medewerker niet bevoegd is dergelijke toezeggingen namens verweerder te doen, zodat daaraan geen gerechtvaardigd vertrouwen kan worden ontleend. De rechtbank ziet dan ook geen aanleiding om verweerder op te dragen de door eiser voor zijn naturalisatieverzoek betaalde leges te vergoeden.</para>
+      <para />
+      <para>6. Het beroep is ongegrond.</para>
+      <para />
+      <para>7. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.H. Smits, rechter, in aanwezigheid van mr. A. Nobel, griffier. Deze uitspraak is gedaan op 25 maart 2020. Als gevolg van de maatregelen rondom het Coronavirus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+  </section>
+  <section>
+    <title>Rijkswet op het Nederlanderschap</title>
+    <para />
+    <parablock>
+      <para>Artikel 7</para>
+      <para>1. Met inachtneming van de bepalingen van dit hoofdstuk (artikelen 7 tot en met 13) verlenen wij op voordracht van de minister van Justitie het Nederlanderschap aan vreemdelingen die daarom verzoeken.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Besluit verkrijging en verlies Nederlanderschap</title>
+    <para />
+    <parablock>
+      <para>Artikel 31</para>
+    </parablock>
+    <para>1. Bij de indiening van een naturalisatieverzoek verstrekt de verzoeker betreffende zichzelf, voor zoveel mogelijk, gegevens met betrekking tot:</para>
+    <para>a. geslachtsnaam en voornaam of voornamen, onderscheidenlijk naam of namen;</para>
+    <para>b. geboortedatum, geboorteplaats en geboorteland;</para>
+    <para>(…);</para>
+    <para>e. nationaliteit of nationaliteiten;</para>
+    <para>(…).</para>
+    <para />
+    <para>5. De autoriteit die het naturalisatieverzoek in ontvangst neemt, alsook de minister van Justitie, kan verlangen dat de verzoeker de juistheid van de verstrekte gegevens bewijst door middel van zo nodig gelegaliseerde en eventueel inhoudelijk geverifieerde documenten. Hij kan tevens verlangen dat die aanvullende gegevens worden verstrekt indien dit naar zijn oordeel nodig is voor de beoordeling van heet geval.</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Handleiding Rijkswet op het Nederlanderschap 2003</title>
+    <para />
+    <parablock>
+      <para>Bij toepassing van de Rijkswet op het Nederlanderschap hanteert verweerder het beleid, neergelegd in de Handleiding Rijkswet op het Nederlanderschap 2003. Hieronder is het beleid opgenomen, voor zover relevant voor de onderhavige zaak.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7</para>
+      <para>Paragraaf 3.5. Over te leggen documenten</para>
+      <para>Om zekerheid te verkrijgen over de identiteit en nationaliteit van de vreemdeling die door naturalisatie het Nederlanderschap wil verkrijgen, overlegt de vreemdeling nationaliteit en -identiteit vaststellende documenten (zie onder meer artikel 31 BvvN en paragraaf 3.5.1 en 3.5.3 bij artikel 7 RWN). Dit geldt ook voor de vreemdeling aan wie een regulier verblijfsrecht is verstrekt, waarbij hij, al dan niet ambtshalve, is vrijgesteld van het ‘paspoortvereiste’.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Paragraaf 3.5.1. Buitenlands reisdocument/aantonen bezit vreemde nationaliteit</para>
+      <para>De verzoeker moet in beginsel een geldig buitenlands reisdocument overleggen, inclusief alle pagina’s met in- en uitreisstempels. Dit niet alleen in verband met identificatie van de verzoeker maar ook om zijn nationaliteit en verblijf te kunnen vaststellen en de in het reisdocument vermelde personalia te vergelijken met de overgelegde akte(n) van de burgerlijke stand. Kennis over de actuele nationaliteit van de te naturaliseren vreemdeling is noodzakelijk omdat aan de hand daarvan wordt beoordeeld of de verzoeker na het verkrijgen van het Nederlanderschap afstand moet doen van de oorspronkelijke nationaliteit. Deze afstandsplicht is in beginsel een voorwaarde voor de naturalisatie.</para>
+      <para>	Is de verzoeker houder van een regulier verblijfsrecht (dit is alles dat niet een verblijfsrecht asiel voor bepaalde of onbepaalde tijd is) dan moet in beginsel een geldig buitenlands reisdocument worden overgelegd, tenzij de verzoeker met ‘staatloos’ in de BRP is ingeschreven. Dit geldt ook voor de houder van een regulier verblijfsrecht, die bij de verlening en/of verlenging van het verblijfsrecht door de IND is vrijgesteld van het overleggen van een geldig buitenlands reisdocument (paspoort). (…). Onder omstandigheden en afhankelijk van de buitenlandse nationaliteitswetgeving die het betreft, kan in de plaats van een geldig buitenlands paspoort soms genoegen worden genomen met een recente nationaliteitsverklaring om het bezit van de vreemde nationaliteit aannemelijk te maken. </para>
+      <para>	Ook indien de verzoeker in het bezit is gesteld van een Nederlands reisdocument voor vreemdelingen (Vreemdelingenpaspoort), dan moet deze in principe met een geldig buitenlands reisdocument(paspoort) zijn nationaliteit aantonen (vgl. artikel 31, vijfde lid BVVN). Een door de Nederlandse overheid verstrekt vreemdelingenpaspoort kan namelijk niet gelden als bewijs van het bezit van een vreemde nationaliteit.</para>
+      <para>	Aan het vereiste om een geldig buitenlands reisdocument (paspoort) over te leggen wordt in eerste instantie niet voorbijgegaan om de enkele reden dat de verzoeker de reis naar het land waarvan hij onderdaan is, bezwaarlijk vindt. De reden waarom de verzoeker de reis bezwaarlijk acht, zal door de verzoeker moeten worden opgegeven en zo nodig worden bewezen met bewijsstukken. Dit wordt dan meegewogen bij de beoordeling of toepassing van het vereiste onredelijk is.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Paragraaf 3.5.2. Buitenlandse akten van de burgerlijke stand</para>
+      <para>De verzoeker moet in beginsel een geboorteakte van hemzelf overleggen. (…). Niet in alle landen worden geboorten met een ’akte van de burgerlijke stand’ geregistreerd. Afhankelijk van het stelsel in het land waar het over gaat, wordt dan een alternatief bewijsstuk van de geboorte gevraagd zoals een geboortebewijs uit een ziekenhuis of een inschrijving in een familieboekje. (…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Paragraaf 3.5.5. Bewijsnood of inwilliging met toepassing van art. 4:84 Awb: geldige buitenlandse reisdocument (paspoort) en of geboorteakte</para>
+      <para>Inzake buitenlandse akten van de burgerlijke stand wordt bewijsnood aangenomen als:</para>
+      <para>– Het bewuste document nooit is opgemaakt omdat in het desbetreffende land nimmer geboorteakten worden/werden opgemaakt;</para>
+      <para>– Het bewuste document wel is opgemaakt, maar het register waarin het was opgenomen, is verloren gegaan;</para>
+      <para>– Op basis van een ambtsbericht van het Ministerie van Buitenlandse Zaken is besloten om vanwege de politieke situatie in een land (tijdelijk) niet te verlangen dat in dat land akten (of andere bewijsstukken) worden overgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Inzake een buitenlands paspoort wordt bewijsnood aangenomen als:</para>
+      <para>– Betrokkene staatloos is;</para>
+      <para>– Op basis van een ambtsbericht van BZ is besloten om vanwege de politieke situatie in een land (tijdelijk) niet te verlangen dat van dat land een geldig reisdocument wordt overgelegd.</para>
+      <para>	De verzoeker legt een schriftelijke verklaring over van de autoriteiten van het land waarvan hij onderdaan is (of waar hij geboren is), waarin gemotiveerd wordt aangegeven waarom de verzoeker niet in het bezit wordt gesteld van een geldig buitenlands reisdocument (paspoort) en/of geboorteakte. Als er geen verklaring is van buitenlandse autoriteiten waarom de verzoeker niet in het bezit wordt gesteld van een geldig buitenlands reisdocument en/of geboorteakte, toont hij met andere, objectieve en verifieerbare bewijsstukken aan wat hij heeft gedaan om in het bezit te komen van deze documenten. (…). De bewijsstukken mogen bij de indiening van het verzoek om naturalisatie in principe niet ouder zijn dan zes maanden.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:5924</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-08T11:21:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/3221</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5924">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5924</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-08T11:20:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:5924 Rechtbank Rotterdam , 07-07-2020 / ROT 20/3221</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:5924:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Vovo – intrekking bijstandsuitkering – geen geldige verblijfstitel – gemeenschapsonderdaan – besluit 1/80 EG (Turkije) – verweerder mocht uitgaan van informatie IND – wijziging van omstandigheden niet duidelijk gesteld</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:5924:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/3221</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 7 juli 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoekster] , te [woonplaats verzoekster] , verzoekster,</bridgehead>
+    <para>gemachtigde: mr. S. Süzen,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Rotterdam, verweerder,</bridgehead>
+    <para>gemachtigde: mr. V.E. van Dijk.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft bezwaar gemaakt tegen het besluit van verweerder van 26 mei 2020 (het bestreden besluit). Dit besluit gaat over de intrekking van haar bijstandsuitkering. Verzoekster heeft de voorzieningenrechter gevraagd om te bepalen dat haar bijstandsuitkering wordt doorbetaald, in afwachting van de afhandeling van haar bezwaarschrift. Dit wordt een ‘voorlopige voorziening’ genoemd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vanwege de omstandigheden rond het coronavirus is er geen fysieke zitting gehouden bij de rechtbank. De gemachtigden van verzoekster en verweerder zijn op 30 juni 2020 telefonisch gehoord door de voorzieningenrechter.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Verzoekster heeft de Bulgaarse nationaliteit en is in 2007 naar Nederland gekomen. Zij is van 2011 tot medio 2018 getrouwd geweest met een man met de Nederlandse en Turkse nationaliteit. Uit deze relatie is een kind geboren, die de Nederlandse nationaliteit heeft.</para>
+    <para />
+    <para>2. Verzoekster heeft bij de IND een aanvraag ingediend voor een verblijfsvergunning regulier voor bepaalde tijd. Deze aanvraag is op 12 september 2019 afgewezen. Verzoekster heeft bezwaar gemaakt tegen die afwijzing en het bezwaar is op 19 maart 2020 ongegrond verklaard.</para>
+    <para />
+    <para>3. Verweerder heeft vervolgens verzoeksters uitkering ingetrokken per 19 maart 2020. Dit omdat verzoekster geen geldige verblijfstitel meer zou hebben die recht geeft op een uitkering. Verzoekster is het niet eens met de intrekking van haar bijstandsuitkering, omdat zij wél rechtmatig verblijf zou hebben.</para>
+    <para />
+    <para>4. De voorzieningenrechter kijkt of het bezwaarschrift van verzoekster kans van slagen heeft. Hij geeft daarbij een voorlopig oordeel over de zaak. Als deze zaak in beroep wordt voorgelegd aan de rechtbank, hoeft de rechtbank het oordeel van de voorzieningenrechter niet per se te volgen.</para>
+    <para />
+    <para>4. Verzoekster voert als grond voor haar verzoek aan dat zij rechtmatig verblijf heeft op grond van artikel 8, aanhef en onder h, van de Vreemdelingenwet 2000. De voorzieningenrechter volgt dat standpunt niet.</para>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Dit artikel is (kort gezegd) van toepassing op de vreemdeling die een bezwaar- of beroepsprocedure op grond van de Vreemdelingenwet 2000 in Nederland mag afwachten. Uit informatie van de IND blijkt dat deze situatie niet op verzoekster van toepassing is. Op de beslissing op bezwaar van de IND van 19 maart 2020 staat namelijk dat verzoekster Nederland binnen vier weken moet verlaten en dat zij een uitspraak op haar beroepschrift niet in Nederland mag afwachten. Verzoekster heeft in verband met dit beroepschrift een verzoek om voorlopige voorziening ingediend bij de vreemdelingenrechter. Dit uitspraak op dit verzoek mag zij van verweerder wel in Nederland afwachten, maar valt niet onder artikel 8, aanhef en onder h, van de Vreemdelingenwet 2000 en levert dus geen aanspraak op een uitkering op.</para>
+      <para />
+      <parablock>
+        <para>5.	Verzoekster doet verder vanwege haar Bulgaarse nationaliteit een beroep op het Unierecht. Daarnaast is zij van mening dat – als gezinslid van een Turkse werknemer – Besluit 1/80 EG op haar van toepassing is. De voorzieningenrechter volgt dat standpunt niet.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Volgens vaste rechtspraak mag verweerder afgaan op de juistheid van de toepassing van het Unierecht door de IND<footnote-ref linkend="_89505b50-6615-47bf-8bb3-b957c1302855" />. Verweerder hoeft dus niet zelf te beoordelen of verzoekster in de te beoordelen periode rechtmatig verblijf had op grond van het Unierecht of het Besluit 1/80 EG. Verweerder heeft voor zijn besluitvorming meermaals contact opgenomen met de IND om te informeren naar de verblijfsstatus van verzoekster. De IND heeft verweerder laten weten dat verzoekster in de periode in geding geen rechtmatig verblijf had. Bovendien blijkt uit het besluit van de IND van 19 maart 2020 dat er expliciet is getoetst aan Besluit 1/80 EG. Verweerder mocht van die informatie uitgaan. Ook blijkt uit het dossier dat de IND al eerder – onder meer in 2015 – heeft getoetst aan het Unierecht. Toen is door de IND vastgesteld dat verzoekster nooit rechtmatig verblijf heeft gehad. Verweerder mag uitgaan van die vaststelling door de IND. Dat is alleen anders als er zich nadien een wijziging voordoet van omstandigheden die kan leiden tot rechtmatig verblijf op grond van het Unierecht. In dit geval is een wijziging van omstandigheden tijdens de te beoordelen periode niet duidelijk door verzoekster gesteld. </para>
+      <para />
+      <parablock>
+        <para>6.	Tot slot heeft verzoekster nog aangevoerd dat verweerder ten onrechte geen rekening heeft gehouden met haar minderjarig kind, dat de Nederlandse nationaliteit heeft. Als Nederlands onderdaan heeft de minderjarige recht op een uitkering. Verzoekster heeft daarbij een beroep gedaan op artikel 3 en 6 van het IVRK en artikel 16 van de Participatiewet. De voorzieningenrechter deelt dat standpunt niet.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>In het bestreden besluit is geen besluit genomen over het recht op bijstand van verzoeksters minderjarige kind. Dat hoefde ook niet, omdat er namens het kind geen aanvraag om bijstand is ingediend. De vraag of de minderjarige recht heeft op een bijstandsuitkering, valt dan ook buiten de omvang van het geding.</para>
+      <para />
+      <para>7. Uit het voorgaande volgt dat in bezwaar het bestreden besluit naar verwachting in stand kan blijven, zodat er geen aanleiding is voor het treffen van een voorlopige voorziening.</para>
+      <para />
+      <para>8. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 7 juli 2020 door mr. A.P. Hameete, voorzieningenrechter, in aanwezigheid van E.C. Petrusma, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier en de voorzieningenrechter zijn verhinderd de uitspraak te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+  <footnote id="_89505b50-6615-47bf-8bb3-b957c1302855" label="1">
+    <para> Zie bijvoorbeeld de uitspraak van de Centrale Raad van Beroep van 30 januari 2018, ECLI:NL:CRVB:2018:539.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

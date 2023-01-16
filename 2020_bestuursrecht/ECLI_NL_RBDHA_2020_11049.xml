@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:11049</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-05T14:19:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-16</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3970</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:11049">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:11049</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-05T14:19:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:11049 Rechtbank Den Haag , 16-09-2020 / AWB - 19 _ 3970</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:11049:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verleende parkeervergunning voor bezoekers ingetrokken. Bezoekersvergunning niet automatisch verlengd. Beroep op het vertrouwensbginsel faalt. Beroep ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:11049:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/3970</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 16 september 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: E.G. Zoomers-Heemskerk) </para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Alphen aan den Rijn, verweerder</bridgehead>
+    <para>(gemachtigde: mr. M.C. Pieck).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 november 2018 (het primaire besluit) heeft verweerder de aan eiser verleende parkeervergunning voor bezoekers ingetrokken. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 mei 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser gegrond verklaard. Verweerder heeft daarbij het primaire besluit herroepen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft op 20 juni 2020 een aanvullende reactie op het verweerschrift gegeven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek heeft met behulp van Skype plaatsgevonden op 2 juli 2020. Eiser, bijgestaan door zijn gemachtigde, en de gemachtigde van verweerder, vergezeld door [A] , hebben aan de Skype-zitting deelgenomen. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>1.	Bij besluit van 7 mei 2018 is aan eiser een parkeervergunning voor bezoekers (bezoekersvergunning) verleend voor het gebied nabij zijn woning (toekenningsbesluit). Deze bezoekersvergunning was geldig van 1 juni 2018 tot en met 31 mei 2019. In dit toekenningsbesluit staat dat de vergunning jaarlijks automatisch wordt verlengd na betaling.  </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Bij het primaire besluit heeft verweerder de bezoekersvergunning met een overgangstermijn tot 1 januari 2019 ingetrokken. De reden voor intrekking is gelegen in een beleidswijziging. De bezoekersvergunning is ten onrechte verleend, omdat in het (nieuwe) Uitvoeringsbesluit Parkeerverordening 2018 is opgenomen dat een bezoekersvergunning alleen nog via een digitale regeling mag worden uitgegeven. Het door eiser betaalde bedrag voor de bezoekersvergunning voor de periode van 1 juni 2018 tot en met 31 mei 2019 is daarom teruggestort.  </para>
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Naar aanleiding van de bezwaren van eiser is op 5 maart 2019 een hoorzitting gehouden. Op 17 april 2019 heeft de commissie bezwaarschriften van de gemeente Alphen aan den Rijn (de commissie) verweerder geadviseerd om het bestreden besluit te herroepen, omdat de bezoekersvergunning ten onrechte is ingetrokken. Volgens de commissie ontbreekt een toepasselijke wettelijke grondslag voor de intrekking van de bezoekersvergunning. Noch een beleidswijziging, noch het feit dat nieuwe bezoekersvergunningen alleen nog digitaal worden uitgegeven zijn opgenomen bij één van de intrekkingsgronden, zoals genoemd in artikel 5 van de Parkeerverordening 2018. De commissie heeft het volgende overwogen:</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">‘De commissie stelt voorop, zoals ook niet tussen partijen betwist is, dat bezwaarde zowel volgens de Parkeerverordening 2016, alsook volgens de Parkeerverordening 2018, recht heeft op een bezoekersvergunning voor het gebied nabij zijn woning. Het verschil tussen de beide bezoekersvergunningen zit naast de huidige digitale uitgave in plaats van de vroegere uitgifte op papier, vooral in het aantal uren, waarvan deze vergunning gebruik kan worden gemaakt. Bij de oude bezoekersvergunning was het aantal uren in beginsel onbeperkt, terwijl bij de nieuwe bezoekersvergunning het aantal uren, zoals op de hoorzitting verklaard namens verweerder en in het verweerschrift opgenomen, beperkt is tot 90 uur per kwartaal.</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De commissie constateert, dat in artikel 13, lid 3, van de Parkeerverordening 2018 een </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">overgangsbepaling is opgenomen, die bepaalt dat parkeervergunningen die zijn verleend krachtens de Parkeerverordening 2016 worden geacht te zijn verleend krachtens de Parkeerverordening 2018. De commissie is van oordeel, dat nu zowel de aanvraag van bezwaarde voor de bezoekersvergunning, alsook de verleende – en inmiddels weer ingetrokken bezoekersvergunning beide dateren van vóór 1 juni 2018, alleen de Parkeerverordening 2016 daarvoor als wettelijke basis dient. De Parkeerverordening 2018 kan voor de verlening daarvan volgens de commissie niet als wettelijke basis dienen, omdat deze verordening pas op 1 juni 2018 in werking is getreden’.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>2. Bij het bestreden besluit heeft verweerder het bezwaar van eiser, overeenkomstig het advies van de commissie van 17 april 2019, gegrond verklaard en het primaire besluit herroepen. Dit betekent dat de intrekking van de parkeervergunning voor bezoekers is herroepen. Voor de motivering van het bestreden besluit heeft verweerder verwezen naar de overwegingen van de commissie. Voorts zijn de opgelegde naheffingen parkeerbelasting van 9 november 2018 en 10 december 2018 geseponeerd. </para>
+      <para />
+      <para>3. Eiser is het niet eens met het bestreden besluit. Eiser verzoekt om de verleende vergunning te handhaven en de intrekking ongedaan te maken. Ook verzoekt hij om de reeds ten onterechte betaalde naheffingen terug te betalen, inclusief alle door hem gemaakte kosten. Daarnaast verzoekt hij verweerder om ParkeerService te informeren inzake de geldigheid van de bezoekersvergunning om naheffingen in de toekomst te voorkomen. Tevens verzoekt hij verweerder een dwangsom op te leggen van € 100,- per dag ingaande veertien dagen na de uitspraak van de rechtbank voor het niet nakomen van terugbetalingen van onterecht verzonden naheffingen, kosten en het niet verlengen van de vergunning. Verder verzoekt eiser verweerder te veroordelen in alle kosten inclusief griffierechten, proceskosten en buitengerechtelijke kosten en verweerder een sanctie op te leggen van </para>
+      <para>€ 500,- voor elke naheffing die na de datum van de uitspraak van de rechtbank ten onrechte wordt opgelegd aan bezoekers. </para>
+      <para />
+      <parablock>
+        <para>Eiser beroept zich voorts op het vertrouwensbeginsel. Eiser mocht erop vertrouwen dat de bezoekersvergunning jaarlijks automatisch wordt verlengd, nu in het toekenningsbesluit van 7 mei 2018 staat dat de vergunning jaarlijks na betaling wordt verlengd. Eiser stelt dat de Parkeerverordening 2016 van toepassing blijft op grond van het overgangsrecht van de Parkeerverordening 2018 en beëindiging van de bezoekersvergunning alleen mogelijk is als niet tijdig wordt betaald. Eiser geeft aan dat hij tijdig heeft betaald, maar dat dit bedrag is teruggestort met de mededeling dat de bezoekersvergunning per 1 juli 2019 is beëindigd. </para>
+      </parablock>
+      <para />
+      <para>4. Verweerder stelt zich in zijn verweerschrift van 11 juni 2020 primair op het standpunt dat eiser geen procesbelang meer heeft, omdat de verleende bezoekersvergunning in de vorm van een parkeerpas – gelet op de nieuwe Parkeerverordening 2018 en het Uitvoeringsbesluit Parkeerverordening 2018, eerste wijziging, op 1 juni in werking zijn getreden en dat een vergunning maximaal één jaar geldig is – geldig was tot en met 31 mei 2019. De opgelegde naheffingen parkeerbelasting die in de periode van 1 juni 2018 tot en met 31 mei 2019 zijn opgelegd zijn geseponeerd en terugbetaald. Echter, de naheffingen parkeerbelasting na 1 juni 2019 zijn terecht opgelegd, omdat de bezoekersvergunning in de vorm van een parkeerpas niet meer geldig was na 31 mei 2019. Subsidiair stelt verweerder zich op het standpunt dat het beroep ongegrond is.</para>
+      <para />
+      <para>5. Het wettelijk kader is opgenomen in de bijlage, die deel uitmaakt van deze uitspraak. </para>
+      <para />
+      <para>6. De rechtbank overweegt het volgende. Naar aanleiding van het standpunt van verweerder dat eiser geen procesbelang meer heeft, omdat de intrekking van de verleende bezoekersvergunning in de vorm van een parkeerpas is herroepen en deze geldig was tot en met 31 mei 2019, overweegt de rechtbank het volgende. </para>
+      <para />
+      <parablock>
+        <para>De rechtbank stelt allereerst vast dat verweerder geen apart besluit heeft genomen over het niet verlengen van de bezoekersvergunning ná 31 mei 2019. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De rechtbank leest echter in het verweerschrift: ‘<emphasis role="italic">Met deze beslissing op bezwaar was de oude bezoekersvergunning in de vorm van een parkeerpas (…) geldig tot en met 31 mei 2019. De oude bezoekersvergunning in de vorm van en parkeerpas is niet meer verlengd per 1 juni 2019 aangezien toen de nieuwe Parkeerverordening 2018 en het Uitvoeringsbesluit Parkeerverordening 2018, eerste wijziging, van kracht waren en de oude bezoekersvergunning in de vorm van een parkeerpas niet meer verstrekt kon worden ’</emphasis>.  Mede gelet op de toelichting van verweerder ter zitting leidt de rechtbank hieruit af dat het bestreden besluit ook inhoudt dat deze bezoekersvergunning per 1 juni 2019 niet meer zal worden verlengd. Eiser heeft het besluit ook zo begrepen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Gelet op het voorgaande neemt de rechtbank procesbelang aan ten aanzien van het geschilpunt of verweerder op goede gronden heeft besloten dat de bezoekersvergunning na 31 mei 2019 niet wordt verlengd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>De rechtbank stelt vast dat op de oude bezoekersvergunning de Parkeerverordening 2016 van toepassing was. Op de verlenging van de bezoekersvergunning is Parkeerverordening 2018 van toepassing. Bij gewijzigde regelgeving dient opnieuw te worden beoordeeld of de aanvrager in aanmerking komt voor een bezoekersvergunning. In dit geval heeft verweerder terecht geoordeeld dat verlenging van de bezoekersvergunning na 31 mei 2019 in strijd is met de nieuwe regelgeving. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>In geschil is verder of eiser erop mocht vertrouwen dat verweerder de bezoekersvergunning automatisch zou verlengen na betaling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>Bij de beoordeling van een beroep op het vertrouwensbeginsel moeten drie stappen worden doorlopen. De eerste is de juridische kwalificatie van de uitlating en/of gedraging waarop de betrokkene zich beroept. Doorgaans zal de uitlating en/of gedraging door een ambtenaar worden gedaan of worden verricht, maar dit kan ook gebeuren door anderen, bijvoorbeeld een wethouder of derden die door het bestuursorgaan worden ingeschakeld. Ook is van belang of die uitlating en/of gedraging kan worden gekwalificeerd als een toezegging. Bij de tweede stap moet de vraag worden beantwoord of die toezegging aan het bevoegde bestuursorgaan kan worden toegerekend. Indien beide vragen bevestigend worden beantwoord, en er dus een geslaagd beroep op het vertrouwensbeginsel kan worden gedaan, volgt de derde stap. In het kader van die derde stap zal de vraag moeten worden beantwoord wat de betekenis van het gewekte vertrouwen is bij de uitoefening van de desbetreffende bevoegdheid. Zie de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 29 mei 2019 (ECLI:NL:RVS:2019:1694).</para>
+      <para />
+      <parablock>
+        <para>Eiser heeft voor zijn beroep op het vertrouwensbeginsel verwezen naar het toekenningsbesluit van 7 mei 2018 waarin staat dat de vergunning jaarlijks na betaling wordt verlengd. Eiser heeft ter zitting toegelicht dat dit al jaren zo ging. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verweerder heeft ter zitting desgevraagd toegelicht dat met de passage uit het toekenningsbesluit - waarin staat dat de vergunning jaarlijks automatisch wordt verlengd na betaling - slechts is beoogd dat elk jaar een nieuwe aanvraag moet worden ingediend. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Naar het oordeel van de rechtbank volgt uit het toekenningsbesluit niet dat verweerder heeft toegezegd dat de bezoekersvergunning na betaling automatisch wordt verlengd. Daarbij komt dat uit de stukken blijkt dat eiser sinds 2018 wist dat de regelgeving was gewijzigd en dat geen aanspraak meer bestaat op verlenging van de bezoekersvergunning. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De rechtbank is daarom van oordeel dat verweerder op goede gronden heeft besloten dat de bezoekersvergunning na 31 mei 2019 niet wordt verlengd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>7.	Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.  </para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.H. Smits, rechter, in aanwezigheid van <?linebreak?>mr. J.R. van Veen, griffier. De beslissing is in het openbaar uitgesproken op<?linebreak?>16 september 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+  </section>
+  <section>
+    <title>Artikel 2a Wegenverkeerswet 1994</title>
+    <para />
+    <parablock>
+      <para>Provincies, gemeenten en waterschappen behouden hun bevoegdheid om bij verordening regels vast te stellen ten aanzien van het onderwerp waarin deze wet voorziet, voor zover die regels niet in strijd zijn met de bij of krachtens deze wet vastgestelde regels en voor zover verkeerstekens krachtens deze wet zich daar niet toe lenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">VERORDENING OP HET GEBRUIK VAN PARKEERPLAATSEN EN DE VERLENING VAN VERGUNNINGEN VOOR HET PARKEREN (PARKEERVERORDENING 2018)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In deze verordening wordt verstaan onder:</para>
+    </parablock>
+    <para>a. RW 1990: het Reglement verkeersregels en verkeerstekens 1990;</para>
+    <para>b. motorvoertuigen: hetgeen daaronder wordt verstaan in het RVV 1990 met inbegrip van</para>
+    <para>brommobielen, zoals bedoeld in artikel 1 onder ia van het RVV 1990:</para>
+    <para>c. parkeren: het gedurende een aaneengesloten periode doen of laten staan van een motorvoertuig, anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van personen dan wel het onmiddellijk laden of lossen van goederen, op binnen de gemeente gelegen voor het openbaar verkeer openstaande terreinen of weggedeelten, waarop dit doen of laten staan niet ingevolge een wettelijk voorschrift is verboden;</para>
+    <para>d. houder: degene op wiens naam het voor het motorrijtuig opgegeven kenteken ten tijde van het parkeren was ingeschreven in het krachtens de Wegenverkeerswet 1994 aangehouden register van opgegeven kentekens</para>
+    <para>f. parkeerapparatuurplaats: een parkeerplaats waarvoor parkeerbelasting wordt geheven door</para>
+    <para>middel van parkeerapparatuur;</para>
+    <para>g. belanghebbenden plaats: een parkeerplaats die</para>
+    <para>a. is aangeduid met bord E9 uit bijlage 1 van het RVV 1990, of</para>
+    <para>b. gelegen is binnen een zone aangeduid met bord E9 uit bijlage 1 van het RVV 1990 met het opschrift zone, voor zover deze plaats niet is uitgezonderd</para>
+    <para>h. vergunning: een door het college verleende vergunning, krachtens welke het is toegestaan een motorvoertuig te parkeren op daartoe aangewezen parkeerapparatuur- of belanghebbendenplaatsen:</para>
+    <para>i. vergunninghouder: de natuurlijke persoon of rechtspersoon aan wie een vergunning is verleend;</para>
+    <para>j. vergunningengebied: een gebied als aangegeven in bijlagen van deze verordening.</para>
+    <para />
+    <parablock>
+      <para>Artikel 2</para>
+    </parablock>
+    <para />
+    <para>1. Het college kan, bij openbaar te maken besluit, weggedeelten aanwijzen die bestemd zijn voor het parkeren door vergunninghouders. Het college kan hierbij onderscheid maken in de</para>
+    <para>categorieën als bedoeld in artikel 3, derde lid.</para>
+    <para>2. Het college kan, bij openbaar te maken besluit, de tijdstippen vaststellen waarop het parkeren alleen aan vergunninghouders is toegestaan.</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Artikel 3</para>
+    </parablock>
+    <para>1. Het college kan op een daartoe strekkende aanvraag een vergunning verlenen voor het parkeren op belanghebbendenplaatsen of parkeerapparatuur plaatsen.</para>
+    <para>2. Het college kan regels stellen voor het aanvragen en verlenen van een vergunning.</para>
+    <para>3. Een vergunning kan worden verleend aan:</para>
+    <para>a. een eigenaar of houder van een motorvoertuig die volgens de Basisregistratie Personen woont in een gebied waar belanghebbendenplaatsen of mede door vergunninghouders te gebruiken parkeerapparatuurplaatsen aanwezig zijn (bewonersvergunning);</para>
+    <para>b. een bewoner die volgens de Basisregistratie Personen woont in een gebied waar</para>
+    <parablock>
+      <para>belanghebbendenplaatsen of mede door vergunninghouders te gebruiken parkeerapparatuur-</para>
+      <para>plaatsen aanwezig zijn, voor het laten parkeren van bezoekers (bezoekersvergunning).</para>
+    </parablock>
+    <para>4. Het college kan in bijzondere gevallen een vergunning ook verlenen aan een eigenaar of houder van een motorvoertuig die niet voldoet aan één van de in het derde lid genoemde vereisten.</para>
+    <para />
+    <parablock>
+      <para>Artikel 5</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college kan een vergunning intrekken of wijzigen:</para>
+    </parablock>
+    <para>a. op verzoek van de vergunninghouder;</para>
+    <para>b. wanneer de vergunninghouder niet meer woonachtig is of geen beroep of bedrijf meer uitoefent in het gebied, waarvoor de vergunning is verleend;</para>
+    <para>c. wanneer het motorvoertuig, ten aanzien waarvan een vergunning is verleend, in het register als genoemd in artikel 1, onder d, op een andere naam wordt ingeschreven. De vergunninghouder dient hier direct melding van te doen aan burgemeester en wethouders;</para>
+    <para>d. wanneer er zich een wijziging voordoet in een van de omstandigheden die relevant waren voor het verlenen van de vergunning;</para>
+    <para>e. wanneer voor het betreffende gebied het stelsel van vergunningen komt te vervallen;</para>
+    <para>f. wanneer de vergunninghouder niet of niet tijdig aan zijn betalingsverplichting voor zijn</para>
+    <para>vergunning heeft voldaan;</para>
+    <para>g. wanneer de vergunninghouder handelt in strijd met de aan de vergunning verbonden</para>
+    <para>voorschriften; </para>
+    <para>h. wanneer blijkt dat bij de aanvraag van de vergunning onjuiste gegevens zijn verstrekt;</para>
+    <para>om redenen van openbaar belang.</para>
+    <para />
+    <parablock>
+      <para>Artikel 13</para>
+    </parablock>
+    <para />
+    <para>1. Deze verordening treedt in werking op 1 juni 2018.</para>
+    <para>2. Bij inwerkingtreding van deze verordening vervalt de Parkeerverordening 2016, vastgesteld op 26 november 2015.</para>
+    <para>3. Vergunningen die zijn verleend krachtens de onder lid 2 genoemde verordening worden geacht te zijn verleend krachtens deze verordening.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Verordening op het gebruik van parkeerplaatsen en de verlening van vergunningen voor het parkeren (Parkeerverordening 2016)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1</para>
+      <para>In deze verordening wordt verstaan onder:</para>
+    </parablock>
+    <para>1. bezoekersvergunning: een vergunning als bedoeld in artikel 5.</para>
+    <para />
+    <parablock>
+      <para>Artikel 5 De bezoekersvergunning</para>
+      <para>Op aanvraag wordt een vergunning verleend aan de aanvrager wanneer deze volgens het</para>
+      <para>bevolkingsregister als bewoner op een adres staat ingeschreven en dit adres is gelegen in een</para>
+      <para>vergunningengebied, met dien verstande dat maximaal één vergunning per adres kan worden verstrekt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7 Verlenen en geldigheid vergunningen</para>
+    </parablock>
+    <para>2. </para>
+    <para>a. Een bezoekersvergunning kan alleen verleend worden ten aanzien van de gebieden 1, II V als aangegeven in de bijlagen van deze verordening; of</para>
+    <para>b. Een bezoekersvergunning is geldig in de straat waarin het adres is gelegen ten aanzien waarvan de vergunning op grond van artikel 5 is verstrekt, of een direct daaraan aangrenzende straat;</para>
+    <para>c. Een bezoekersvergunning mag alleen worden gebruikt wanneer de eigenaar of houder van het motorvoertuig waarin de vergunning is aangebracht, op bezoek is bij de  vergunninghouder.</para>
+    <para />
+    <parablock>
+      <para>Artikel 10 Intrekken van vergunningen</para>
+    </parablock>
+    <para>1. een vergunning wordt ingetrokken:</para>
+    <para>a. op verzoek van de vergunninghouder;</para>
+    <para>b. wanneer de vergunninghouder verhuist, tenzij de verhuizing plaatsvindt binnen de</para>
+    <parablock>
+      <para>grenzen van hetzelfde vergunningengebied als ten aanzien waarvan de vergunning is</para>
+      <para>verleend. Hierbij dient echter wel, met in acht neming van artikel 8, eerste lid, onder e,</para>
+      <para>van deze verordening, de vergunning te worden gewijzigd;</para>
+    </parablock>
+    <para>c. wanneer de vergunninghouder het door hem/haar uitgeoefende bedrijf beëindigt, tenzij</para>
+    <parablock>
+      <para>de vergunninghouder het bedrijf direct opnieuw vestigt binnen de grenzen van</para>
+      <para>hetzelfde vergunningengebied als ten aanzien waarvan de vergunning is verleend;</para>
+    </parablock>
+    <para>d. wanneer het motorvoertuig, ten aanzien waarvan een vergunning is verleend, in het</para>
+    <parablock>
+      <para>register als genoemd in artikel 1, onder d, op een andere naam wordt ingeschreven. De</para>
+      <para>vergunninghouder dient hier per ommegaande melding van te doen aan burgemeester</para>
+      <para>en wethouders;</para>
+    </parablock>
+    <para>e. wanneer voor het desbetreffende vergunningengebied het desbetreffende stelsel van</para>
+    <para>vergunningenkomt te vervallen;</para>
+    <para>f. wanneer de vergunninghouder opzettelijk handelt in strijd met de aan de vergunning</para>
+    <para>verbonden voorschriften en bepalingen in deze verordening;</para>
+    <para>g. wanneer blijkt dat bij de aanvraag van de vergunning opzettelijk onjuiste gegevens zijn</para>
+    <para>verstrekt;</para>
+    <para>h. wanneer het beleid van de gemeente daartoe noodzaakt.</para>
+    <para>2. Een besluit tot het intrekken of wijzigen van een vergunning is met redenen omkleed. De</para>
+    <parablock>
+      <para>betrokkene wordt van het intrekken of het wijzigen van de vergunning schriftelijk in kennis</para>
+      <para>gesteld.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

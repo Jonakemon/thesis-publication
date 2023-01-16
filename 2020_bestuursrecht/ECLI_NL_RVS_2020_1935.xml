@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:1935</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-12T10:57:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-12</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201907647/1/R2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:1935">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:1935</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-12T10:56:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:1935 Raad van State , 12-08-2020 / 201907647/1/R2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:1935:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 3 september 2019 heeft het college van burgemeester en wethouders van Alphen-Chaam het wijzigingsplan "[locatie 1], Chaam" vastgesteld.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RVS:2020:1935:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>201907647/1/R2.<?linebreak?>Datum uitspraak: 12 augustus 2020</para>
+  <section>
+    <title>AFDELING<?linebreak?>BESTUURSRECHTSPRAAK</title>
+    <para />
+    <parablock>
+      <para>Uitspraak in het geding tussen:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>[appellante], wonend te Chaam, gemeente Alphen-Chaam,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van Alphen-Chaam,</para>
+      <para>verweerder.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Procesverloop</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 september 2019 heeft het college het wijzigingsplan "[locatie 1], Chaam" vastgesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit heeft [appellante] beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Daartoe in de gelegenheid gesteld hebben [belanghebbende A] en [belanghebbende B] een schriftelijke uiteenzetting gegeven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>[appellante] en [belanghebbende A] hebben nadere stukken ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Afdeling heeft partijen telefonisch gehoord op 26 mei 2020. Aan deze telefonische hoorzitting hebben [appellante], bijgestaan door mr. M.A. Patandin, rechtsbijstandverlener te Apeldoorn, en het college, vertegenwoordigd door A. van der Zwaluw, deelgenomen.</para>
+      <para>Voorts zijn [belanghebbende A] en [belanghebbende B] als partij gehoord.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Overwegingen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Inleiding</para>
+    </parablock>
+    <para />
+    <para>1. Het wijzigingsplan vindt zijn grondslag in artikel 8.6, lid 8.6.1, van de planregels van het bestemmingsplan "Correctieve herziening bestemmingsplan buitengebied Alphen-Chaam 2010", vastgesteld door de gemeenteraad van Alphen-Chaam op 10 december 2015 (hierna: de correctieve herziening). Het voorliggende plan wijzigt de bestemming "Bedrijf" naar "Wonen" met de aanduiding "specifieke vorm van wonen-landschappelijke inpassing" en in "Agrarisch met waarden - Landschaps- en natuurwaarden 2" op het perceel [locatie 1] in Chaam.</para>
+    <para />
+    <parablock>
+      <para>    Het plan voorziet onder meer in het gebruik van een voormalige bedrijfswoning als burgerwoning binnen de bestemming "Wonen". Voorts is aan het gebruik als woning de voorwaardelijke verplichting in de planregels opgenomen dat binnen maximaal 1,5 jaar na het onherroepelijk worden van het bestemmingsplan (kennelijk is bedoeld: het wijzigingsplan) de landschappelijke inpassing, voor zover begrepen in bijlage 1 bij de planregels is aangelegd en in stand te houden en de oppervlakte aan bijgebouwen terug te brengen naar 200 m2.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>    In de bestaande situatie bevindt zich binnen de woonbestemming voorts een schuur die gebruikt wordt als werkplaats. Ter zitting is vastgesteld dat deze schuur een oppervlakte heeft van ongeveer 360 m2. Vanwege het landschappelijk inpassingsplan dient de schuur te worden gesloopt en kan op een andere locatie binnen de woonbestemming met inachtneming van het inpassingsplan als bedoeld in bijlage 1 bij de planregels een nieuw bijgebouw worden opgericht. Ter zitting heeft [belanghebbende B], de initiatiefnemer, toegelicht dat het nieuw op te richten bijgebouw dienst zal doen als autogarage, berging en een gastenkamer voor bed &amp; breakfast-gasten. Het inpassingsplan voorziet verder in de realisering van een schuilstal binnen de woonbestemming. [belanghebbende B] heeft ter zitting toegelicht dat de schuilstal is bedoeld voor hobbymatig te houden paarden die jaarrond in de weide rondlopen. De gezamenlijke oppervlakte van de nieuw op te richten schuur en schuilstal mag op grond van artikel 4 van de planregels niet meer dan 200 m2 zijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>    [appellante] woont aan het ten oosten van het plangebied grenzende perceel [locatie 2] in Chaam. Zij vreest voor de gevolgen van het plan voor haar woon- en leefklimaat.</para>
+    </parablock>
+    <para />
+    <para>2. De bepalingen die genoemd worden in deze uitspraak, zijn opgenomen in de bijlage. De bijlage maakt deel uit van de uitspraak.</para>
+    <para />
+    <parablock>
+      <para>Toetsingskader</para>
+    </parablock>
+    <para />
+    <para>3. Met het bestaan van de wijzigingsbevoegdheid in een bestemmingsplan mag de planologische aanvaardbaarheid van de nieuwe bestemming binnen het gebied waarop de wijzigingsbevoegdheid betrekking heeft in beginsel als een gegeven worden beschouwd, indien is voldaan aan de bij het bestemmingsplan gestelde wijzigingsvoorwaarden. Dit neemt echter niet weg dat het bij het vaststellen van een wijzigingsplan gaat om een bevoegdheid en niet om een plicht. Het feit dat aan de in een bestemmingsplan opgenomen wijzigingsvoorwaarden is voldaan, laat de plicht van het college onverlet om in de besluitvorming over de vaststelling van een wijzigingsplan ook na te gaan of uit het oogpunt van een goede ruimtelijke ordening, gelet op de betrokken belangen, wijziging van de oorspronkelijke bestemming is gerechtvaardigd.</para>
+    <para />
+    <parablock>
+      <para>Behandeling van de beroepsgronden</para>
+    </parablock>
+    <para />
+    <para>4.    [ appellante] stelt dat verwezenlijking van het plan haar woon- en leefklimaat aantast.</para>
+    <para />
+    <parablock>
+      <para>    Daartoe voert zij in de eerste plaats aan dat het bouwvlak te ruim is, waardoor de ruimte tussen de bestaande woning en haar woning bebouwd kan worden. Aan de achterzijde van de bestaande woning kan ook vergunningvrij een uitbouw van vier meter diep gerealiseerd worden. Door het uitbouwen van de bestaande woning zal de reeds bestaande geluidsoverlast toenemen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>    In de tweede plaats stelt [appellante] dat het plan een rijbak op een afstand van 10 m van haar woning mogelijk maakt. [appellante] stelt dat zij door het gebruik van een rijbak voor het hobbymatig houden van paarden geluidhinder, stofhinder en geurhinder zal ondervinden. Deze afstand wijkt sterk af van de richtafstand 30 m die op grond van de VNG-brochure geldt voor het bedrijfsmatig fokken en houden van paarden. Onder verwijzing naar jurisprudentie van de Afdeling stelt [appellante] dat ook bij hobbymatige activiteiten door het college beoordeeld dient te worden of ondanks deze geruime afwijking van de richtafstand uit de VNG-brochure toch een aanvaardbaar woon- en leefklimaat ter plaatse van haar woning kan worden gewaarborgd. Volgens [appellante] heeft het college die beoordeling in het geheel niet gemaakt. Ook stelt [appellante] dat geen rekening is gehouden met hinder die zij zal ondervinden als gevolg van het oprichten van lichtmasten rondom de rijbak. Volgens [appellante] heeft het college in zoverre geen rekening gehouden met de maximale mogelijkheden van het plan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>    Verder stelt [appellante] dat het plan ten onrechte voorziet in het gebruik van de woning voor bed &amp; breakfast en aan-huis-verbonden beroepen of bedrijven, omdat onvoldoende gemotiveerd is dat deze functies ondergeschikt zijn aan de woonfunctie. [appellante] vreest dat het toestaan van deze functies haar woon- en leefklimaat aantast.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Aan de gronden in het plangebied was in de correctieve herziening de bestemming "Bedrijf" toegekend. In het wijzigingsplan is die bestemming gewijzigd naar en opgesplitst in de bestemmingen "Wonen" en "Agrarisch met waarden - Landschaps- en natuurwaarden 2". Daarnaast is aan de gronden waarvoor de bestemming "Wonen" geldt onder meer de functieaanduiding "specifieke vorm van wonen - landschappelijke inpassing" toegekend.</para>
+      <para />
+      <parablock>
+        <para>    Op grond van artikel 8, lid 8.6.1, van de planregels van de correctieve herziening zijn burgemeester en wethouders bevoegd de bestemming "Bedrijf" te wijzigen in de bestemmingen "Wonen" en "Agrarisch met waarden - Landschaps- en natuurwaarden 2", voor zover het de voormalige bedrijfswoning betreft. Daarbij moet worden voldaan aan de in die bepaling genoemde voorwaarden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>    In artikel 4 van de planregels van het plan is bepaald dat de planregels van de correctieve herziening die gelden voor de bestemmingen "Wonen" en "Agrarisch met waarden - landschaps- en natuurwaarden 2", voor zover relevant, van toepassing blijven. Voorts is in artikel 4 van de planregels bepaald dat de oppervlakte aan bijgebouwen ter plaatse van de woning niet meer mag bedragen dan 200 m2. Tevens is in artikel 4 van de planregels opgenomen dat ter plaatse van de aanduiding "specifieke vorm van wonen - landschappelijke inpassing" het gebruik van het perceel conform de bestemmingsomschrijving uitsluitend is toegestaan, mits de landschappelijke inpassing, voor zover begrepen in Bijlage 1 van de planregels, maximaal 1,5 jaar na onherroepelijk worden van het bestemmingsplan (kennelijk is bedoeld: het plan) is aangelegd en vervolgens aldus in stand wordt gehouden. Verder is bepaald dat het gebruik van het perceel conform de bestemmingsomschrijving, is toegestaan, mits de oppervlakte van bijgebouwen is teruggebracht naar 200 m2, maximaal 1,5 jaar na onherroepelijk worden van het bestemmingsplan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>    Op grond van artikel 23, lid 23.1, van de planregels van de correctieve herziening zijn de voor "Wonen" aangewezen gronden onder meer bestemd voor wonen, kleinschalig logeren, kleinschalig kamperen, overige aan het wonen ondergeschikte nevenactiviteiten en aan-huis-verbonden beroepen en bedrijven.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>In de plantoelichting staat dat de beoogde ontwikkeling gepaard gaat met de sloop van bestaande bedrijfsgebouwen en dat daarna het gehele perceel wordt ingericht als tuin behorende bij de woning en weiland, inclusief het oprichten van enkele bijgebouwen. Volgens de plantoelichting strekt het landschappelijk inpassingsplan ertoe om de landschappelijke inpassing van deze ontwikkeling en de benodigde kwaliteitsverbetering te waarborgen. Ter zitting heeft het college toegelicht dat in de planregels is geborgd dat het landschappelijk inpassingsplan wordt uitgevoerd en in stand gehouden, waardoor de bestaande schuur moet worden gesloopt en elders nieuwe bijgebouwen worden opgericht, met een maximumoppervlakte van 200 m2.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Over het betoog dat het bouwvlak te ruim is vastgesteld, overweegt de Afdeling als volgt. Het gebruik van de gronden met de functieaanduiding "specifieke vorm van wonen - landschappelijke inpassing" ten behoeve van de woonbestemming is op grond van de planregels alleen toegestaan als het inpassingsplan binnen 1,5 jaar na het onherroepelijk worden van het plan is verwezenlijkt en aldus in stand wordt gehouden. In het landschappelijk inpassingsplan, dat als bijlage aan de planregels is toegevoegd, is de woning overeenkomstig de feitelijke situatie ingetekend. Verder zijn in het inpassingsplan beschreven waar groenelementen worden aangebracht, paden worden aangelegd en de bijgebouwen moeten worden opgericht. Met artikel 4 van de planregels, gelezen in samenhang met het inpassingsplan, ligt de inrichting van het bestemmingsvlak met de bestemming "Wonen" vast. Die inrichting dient voorts in stand te worden gehouden. De bouw- en gebruiksmogelijkheden binnen het bouwvlak zijn daarmee beperkt. De Afdeling is van oordeel dat het college met inachtneming van de zojuist beschreven beperkingen de afmetingen van het bouwvlak zoals opgenomen in de verbeelding in redelijkheid heeft kunnen vaststellen.</para>
+      <para />
+      <parablock>
+        <para>    De stelling dat de achterzijde van de bestaande woning vanwege het bouwvlak vergunningvrij kan worden uitgebouwd maakt het voorgaande niet anders. Het recht om vergunningvrij te bouwen is geregeld in (de bijlagen bij) het Besluit omgevingsrecht. In die regeling wordt niet aangesloten bij de locatie van een bouwvlak binnen een bestemming, maar worden andere criteria gebruikt, zoals de locatie van het hoofdgebouw.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>    Voor zover [appellante] stelt dat een en ander zal veranderen door invoering van de Omgevingswet en dat het college daar rekening mee had moeten houden, overweegt de Afdeling dat alleen rekening moet worden gehouden met de wet- en regelgeving die gold ten tijde van de vaststelling van het plan.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Over de stelling van [appellante] dat het plan ten onrechte kan voorzien in een rijbak op 10 m afstand van haar woning en zij daardoor hinder zal ondervinden, overweegt de Afdeling dat het inpassingsplan geen ruimte biedt voor de realisering van een rijbak binnen de bestemming "Wonen" op 10 m van de woning van [appellante]. De stelling mist derhalve feitelijke grondslag.</para>
+      <para />
+      <parablock>
+        <para>    Voor zover [appellante] vreest dat de zandgrond van het bestaande weiland zal worden gebruikt als rijbak, overweegt de Afdeling dat het gebruik van de gronden binnen de agrarische bestemming als rijbak in strijd is met artikel 33, lid 33.1, onder d, van de planregels van de correctieve herziening. Uit die bepaling volgt dat het gebruik van gronden ten behoeve van rijbakken binnen de bestemming "Agrarisch met waarden - Landschaps- en natuurwaarden 2" niet is toegestaan. Ook deze stelling mist feitelijke grondslag.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>        Wat betreft de mogelijkheid tot het oprichten van lichtmasten voor paardrijden, overweegt de Afdeling als volgt. In het voorliggende plan kunnen bouwwerken, geen gebouw zijnde, tot een hoogte van 3 m worden opgericht. Het college heeft toegelicht dat geen aanleiding bestond om in dit verband separaat onderzoek te doen naar de effecten van lichtmasten voor het woon- en leefklimaat van [appellante], omdat het oprichten en gebruik van lichtmasten alleen is toegestaan als het behoort bij het gebruik binnen de woonbestemming. Het college heeft zich in redelijkheid op het standpunt kunnen stellen dat het woon- en leefklimaat van [appellante] niet wordt aangetast door de mogelijkheid van het plaatsen van lichtmasten met een beperkte hoogte.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Over de stelling dat de gebruiksfuncties bed &amp; breakfast en aan-huis-verbonden beroepen en bedrijven niet ondergeschikt zijn aan de woonfunctie, overweegt de Afdeling dat bij de vaststelling van de planregels van de correctieve herziening reeds de afweging is gemaakt in welke gevallen kleinschalig logeren en aan-huis-verbonden beroepen of bedrijven bij een woonfunctie ondergeschikt is aan de woonfunctie. Op grond van artikel 23, lid 23.1, van de planregels van de correctieve herziening is kleinschalig logeren toestaan, waarbij de bruto-vloeroppervlakte niet meer mag bedragen dan 100 m2. Verder geldt voor de uitoefening van aan-huis-verbonden beroepen of bedrijven op grond van artikel 23, lid 23.4.1, van de planregels van de correctieve herziening onder meer dat de omvang van de activiteit niet meer mag bedragen dan 30% van de gezamenlijke oppervlakte van de bebouwing van de woning en bijgebouwen, met een maximum van 50 m2. Gelet op de wijzigingsbevoegdheid heeft het college de planologische aanvaardbaarheid van een woonbestemming, inclusief de gebruiksfuncties bed &amp; breakfast en aan-huis-verbonden beroepen of bedrijven in beginsel als een gegeven mogen beschouwen. Naar het oordeel van de Afdeling heeft het college zich voor de vraag of er sprake is van een aan de hoofdfunctie ondergeschikte nevenfunctie in redelijkheid mogen baseren op de in de planregels opgenomen criteria, waaronder de daarin genoemde oppervlaktematen. Het betoog faalt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <para>Gelet op het voorgaande overweegt de Afdeling dat het college zich in redelijkheid op het standpunt heeft kunnen stellen dat het woon- en leefklimaat van [appellante] niet wordt aangetast door verwezenlijking van het plan. Het betoog faalt.</para>
+      <para />
+      <parablock>
+        <para>5.    [appellante] betoogt dat het plan niet uitvoerbaar is. In de eerste plaats stelt zij dat het plan voorziet in een bijgebouw dat ruimte biedt voor 12 paarden. Het plan stelt geen beperkingen aan het maximaal aantal te houden paarden. Bij het houden van meer dan vijf paarden kan niet worden voldaan aan het Activiteitenbesluit milieubeheer, waardoor het plan niet uitgevoerd kan worden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>    In de tweede plaats stelt [appellante] schade te zullen ondervinden als gevolg van de uitvoering van het inpassingsplan. Door bestratingen en het plaatsen van kastanjehouten hekken bij de erfgrens zullen groeiproblemen en verdroging ontstaan van beplantingen op haar perceel. Bovendien voert de puinlaag in de bestaande rijbak al het regenwater weg. [appellante] stelt dat hierdoor kosten moeten worden gemaakt voor wekelijkse watergeefbeurten, bemestingsmiddelen en arbeid om deze problemen te verhelpen. Dit dient voor rekening van de initiatiefnemer te komen en maakt ook dat het plan minder goed uitvoerbaar is. Het college heeft hier volgens [appellante] onvoldoende rekening mee gehouden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>In de zienswijzennota stelt het college dat de initiatiefnemer voornemens is om drie paarden hobbymatig te houden en dat de voorschriften uit het Activiteitenbesluit milieubeheer voor het houden van landbouwhuisdieren niet van toepassing zijn bij het houden van minder dan vijf paarden. Ter zitting heeft het college er voorts op gewezen dat het houden van vijf of meer paarden in strijd zou zijn met het Activiteitenbesluit milieubeheer en dat in dat geval kan worden gehandhaafd, zodat het opnemen van een beperking in het plan niet nodig is. Voorts heeft het college toegelicht dat de initiatiefnemer dient zorg te dragen voor de uitvoering en instandhouding van het inpassingsplan en niet [appellante]. De Afdeling stelt vast dat het gelet op de beperkte omvang van het oppervlak aan bijgebouwen van ten hoogste 200 m2 en het beoogde gebruik van die bijgebouwen ten behoeve van de woonbestemming niet realistisch is dat daarin meer dan vijf paarden worden gehouden. Gelet op het voorgaande is de Afdeling van oordeel dat niet aannemelijk is dat het plan niet uitvoerbaar is.</para>
+      <para />
+      <parablock>
+        <para>    Het betoog faalt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.    [appellante] betoogt dat het plan rechtsonzeker is. Het college stelt dat het hobbymatig houden van paarden onder de woonbestemming valt, maar dit volgt niet direct uit de planregels. In artikel 23 van de planregels van de correctieve herziening staat dat alleen de nevenfuncties die vermeld staan in de tabel "Wonen" zijn toegestaan, maar het hobbymatig houden van paarden is daarin niet vermeld.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Artikel 23, lid 23.1, van de planregels van de correctieve herziening is van toepassing op de bestemming "Wonen". Op grond van deze bepaling zijn de voor "Wonen" aangewezen gronden onder meer bestemd voor wonen, kleinschalig logeren, kleinschalig kamperen en overige aan het wonen ondergeschikte nevenactiviteiten. De Afdeling overweegt dat in deze planregel van de correctieve voldoende duidelijk is omschreven welke nevenactiviteiten zijn toegestaan. Dat het hobbymatig houden van paarden wel is beoogd mogelijk te maken, maar niet expliciet is genoemd in de planregels doet hier niet aan af. Het aangevoerde geeft geen aanleiding voor het oordeel dat het hobbymatig houden van paarden in strijd is met de woonbestemming (vergelijk de uitspraak van de Afdeling van 29 januari 2020, ECLI:NL:RVS:2020:288, onder 12 en verder).</para>
+      <para />
+      <parablock>
+        <para>    Het betoog faalt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>7.    [appellante] betoogt dat het plan in strijd is met artikel 6, lid 6.7, onder 5, sub b, van de Verordening ruimte Noord-Brabant (hierna: de Verordening), omdat in het plan niet is verzekerd dat overtollige bebouwing wordt gesloopt. Zij stelt dat onvoldoende is gemotiveerd waarom een oppervlakte van 200 m2 aan toegestane bijgebouwen als niet-overtollig moet worden gezien. Bovendien is het strijdig met de Verordening om na de sloop weer nieuwe bebouwing toe te staan.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Het plangebied ligt binnen de groenblauwe mantel als bedoeld in de Verordening. Door het toekennen van de bestemming "Wonen" is de voormalige bedrijfswoning als burgerwoning bestemd. Een dergelijke nieuwe burgerwoning is op grond van artikel 6, lid 6.7, onder 5, sub b, van de Verordening slechts toegestaan indien is verzekerd dat overtollige bebouwing wordt gesloopt. In artikel 4 van de planregels is voor het gebruik van het perceel conform de bestemmingsomschrijving voor de bestemming "Wonen" een voorwaardelijke verplichting opgenomen om de oppervlakte aan bijgebouwen terug te brengen naar ten hoogste 200 m2. In de zienswijzennota staat dat daarmee invulling is gegeven aan artikel 8.6.1, onder c, van de planregels van de correctieve herziening om de oppervlakte aan bijgebouwen door sloop van overtollige bebouwing terug te brengen naar 200 m2. Ter zitting heeft het college verder toegelicht dat bij het vaststellen van die voorwaarde uit de correctieve herziening in 2010 ervan is uitgegaan dat een bijgebouw bij een woning in het buitengebied met een oppervlakte van minder dan 200 m2 niet overtollig is en kan worden gebruikt als berging ten behoeve van de woning, bed &amp; breakfast of andere aan de woning ondergeschikte functies. Naar het oordeel van de Afdeling heeft het college daarmee voldoende gemotiveerd dat en waarom een oppervlakte van ten hoogste 200 m2 aan bijgebouwen als niet-overtollig moet worden beschouwd. In artikel 4 van de planregels, gelezen in samenhang met het inpassingsplan, is voorts geborgd dat alle overtollige bebouwing wordt gesloopt.</para>
+      <para />
+      <parablock>
+        <para>    Gelet op het voorgaande heeft het college zich terecht op het standpunt gesteld dat het plan voldoet aan artikel 6, lid 6.7, onder 5, sub b, van de Verordening. Het betoog faalt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>8.    [appellante] betoogt verder dat het plan in strijd is met artikel 6, lid 6.7, onder 5, sub a, van de Verordening, omdat in het plan niet is verzekerd dat er geen splitsing in meerdere woonfuncties plaatsvindt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Het college stelt dat er geen plannen zijn om de woning te splitsen, zodat het niet nodig is om uit te sluiten dat splitsing in meerdere woonfuncties plaatsvindt. Woningsplitsing is op grond van de Verordening toegestaan, als aangetoond wordt dat sprake is van een woonboerderij met cultuurhistorische waarde.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Artikel 23, lid 23.5.1, van de planregels van de correctieve herziening, die ook geldt voor het aan de orde zijnde plan, voorziet in de mogelijkheid om een bestaande burgerwoning te splitsen in twee wooneenheden, indien wordt voldaan aan de in die bepaling opgenomen voorwaarden. Deze houden onder andere in dat splitsing alleen is toegestaan indien het een woonboerderij met aantoonbare cultuurhistorische waarde betreft. In de plantoelichting is beschreven dat het desbetreffende pand geen cultuurhistorische waarde heeft. Onder die omstandigheden is verzekerd dat er geen splitsing in meerdere woonfuncties plaatsvindt. Het betoog mist in zoverre dan ook feitelijke grondslag.</para>
+      <para />
+      <parablock>
+        <para>    Ter zitting is echter gebleken dat niet uitgesloten kan worden dat in de toekomst kan blijken dat op het perceel [locatie 1] wordt voldaan aan de voorwaarden voor splitsing, omdat een latere beoordeling van het pand kan uitwijzen dat het pand cultuurhistorisch waardevol is. Ingevolge artikel 6, lid 6.7, onder 3, sub b, van de Verordening kan een bestemmingsplan echter voorzien in de vestiging van of de splitsing in meerdere woonfuncties in cultuurhistorisch waardevolle bebouwing indien dit is gericht op het behoud of herstel van deze bebouwing, waarbij artikel 3.1, tweede lid, onder a (verbod op nieuwvestiging) van de Verordening niet van toepassing is. Dit artikelonderdeel onder 3 sub b is, wanneer het pand cultuurhistorisch waardevol blijkt te zijn, van toepassing, zodat niet meer getoetst hoeft te worden aan het door [appellante] genoemde artikelonderdeel onder 5 sub a, van de Verordening. Onder deze omstandigheden is weliswaar niet verzekerd dat er geen splitsing in meerdere woonfuncties plaatsvindt, maar dit is dan ook niet in strijd met de Verordening. Het betoog slaagt dan ook niet.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Conclusie</para>
+      </parablock>
+      <para />
+      <para>9. Het beroep is ongegrond.</para>
+      <para />
+      <parablock>
+        <para>Proceskostenveroordeling</para>
+      </parablock>
+      <para />
+      <para>10. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <parablock>
+        <para>Beslissing</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>verklaart het beroep ongegrond;</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Aldus vastgesteld door mr. E.A. Minderhoud, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. dr. M. Scheele, griffier.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>w.g. Minderhoud    w.g. Scheele<?linebreak?>lid van de enkelvoudige kamer    griffier</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Uitgesproken in het openbaar op 12 augustus 2020</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>723-911.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+    <parablock>
+      <para>Algemene wet bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 8:72</para>
+    </parablock>
+    <para />
+    <para>1. Indien de bestuursrechter het beroep gegrond verklaart, vernietigt hij het bestreden besluit geheel of gedeeltelijk.</para>
+    <para />
+    <para>2. De vernietiging van een besluit of een gedeelte van een besluit brengt vernietiging van de rechtsgevolgen van dat besluit of van het vernietigde gedeelte daarvan mee.</para>
+    <para />
+    <para>3. De bestuursrechter kan bepalen dat:</para>
+    <para />
+    <para>a. de rechtsgevolgen van het vernietigde besluit of het vernietigde gedeelte daarvan geheel of gedeeltelijk in stand blijven, of</para>
+    <para />
+    <para>b. zijn uitspraak in de plaats treedt van het vernietigde besluit of het vernietigde gedeelte daarvan.</para>
+    <para />
+    <para>4. De bestuursrechter kan, indien toepassing van het derde lid niet mogelijk is, het bestuursorgaan opdragen een nieuw besluit te nemen of een andere handeling te verrichten met inachtneming van zijn aanwijzingen. Daarbij kan hij:</para>
+    <para />
+    <para>a. bepalen dat wettelijke voorschriften over de voorbereiding van het nieuwe besluit of de andere handeling geheel of gedeeltelijk buiten toepassing blijven;</para>
+    <para />
+    <para>b. het bestuursorgaan een termijn stellen voor het nemen van het nieuwe besluit of het verrichten van de andere handeling.</para>
+    <para />
+    <para>5. De bestuursrechter kan zo nodig een voorlopige voorziening treffen. Daarbij bepaalt hij het tijdstip waarop de voorlopige voorziening vervalt.</para>
+    <para />
+    <para>6. De bestuursrechter kan bepalen dat, indien of zolang het bestuursorgaan niet voldoet aan een uitspraak, het bestuursorgaan aan een door hem aangewezen partij een in de uitspraak vast te stellen dwangsom verbeurt. De artikelen 611a, vierde lid, 611b tot en met 611d en 611g van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.</para>
+    <para />
+    <parablock>
+      <para>Verordening ruimte Noord-Brabant 2014</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 6, lid 6.7 (Wonen)</para>
+    </parablock>
+    <para />
+    <para>1. Een bestemmingsplan dat is gelegen in de groenblauwe mantel bepaalt dat:</para>
+    <para />
+    <para>a. alleen bestaande burgerwoningen, bedrijfswoningen of solitaire recreatiewoningen zijn toegestaan;</para>
+    <para />
+    <para>b. zelfstandige bewoning van bedrijfsgebouwen, al dan niet solitaire recreatiewoningen en andere niet voor bewoning bestemde gebouwen is uitgesloten.</para>
+    <para />
+    <para>2. In afwijking van het eerste lid kan een bestemmingsplan voorzien in de nieuwbouw van ten hoogste één bedrijfswoning ten behoeve van een op grond van deze verordening toegelaten bedrijf binnen het bij dat bedrijf behorende bouwperceel mits de toelichting een verantwoording bevat waaruit blijkt dat:</para>
+    <para />
+    <para>a. de noodzaak vanwege de aard van de bedrijfsvoering aanwezig is;</para>
+    <para />
+    <para>b. de noodzaak van deze nieuwbouw niet het gevolg is van een eerder aanwezige, inmiddels afgestoten bedrijfswoning.</para>
+    <para />
+    <para>3. In afwijking van het eerste lid kan een bestemmingsplan voorzien in:</para>
+    <para />
+    <para>a. de bouw van een woning ter vervanging van een bestaande woning binnen het daartoe aangewezen bouwperceel, mits is verzekerd dat:</para>
+    <para />
+    <paragroup>
+      <para>I. de bestaande woning feitelijk wordt opgeheven;</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <para>II. overtollige bebouwing wordt gesloopt.</para>
+      <para />
+      <para>b. de vestiging van of de splitsing in meerdere woonfuncties in cultuurhistorisch waardevolle bebouwing indien dit is gericht op het behoud of herstel van deze bebouwing, waarbij artikel 3.1, tweede lid, onder a (verbod op nieuwvestiging) niet van toepassing is.</para>
+      <para />
+      <para>4. In afwijking van het eerste lid kan een bestemmingsplan voorzien in het gebruik van een burgerwoning als bedrijfswoning, mits de woning binnen het bouwperceel van het bedrijf wordt gebracht en daarmee een ruimtelijke eenheid vormt.</para>
+      <para />
+      <para>5. In afwijking van het eerste lid en artikel 3.1, tweede lid, onder a (verbod op nieuwvestiging) kan een bestemmingsplan als bedoeld in het eerste lid voorzien in het gebruik van een voormalige bedrijfswoning als burgerwoning, mits is verzekerd dat:</para>
+      <para />
+      <para>a. er geen splitsing in meerdere woonfuncties plaatsvindt;</para>
+      <para />
+      <para>b. overtollige bebouwing wordt gesloopt;</para>
+      <para />
+      <para>c. de vestiging van andere functies is uitgesloten in het geval er sprake is van afsplitsing van een voormalige bedrijfswoning.</para>
+      <para />
+      <para>6. Een bestemmingsplan als bedoeld in het eerste lid kan voorzien in een éénmalige vergroting van de inhoud van een solitaire recreatiewoning met ten hoogste 10 % van de op grond van het per 1 maart 2011 geldende bestemmingsplan toegelaten inhoud.</para>
+      <para />
+      <parablock>
+        <para>De planregels van het bestemmingsplan "Correctieve herziening Buitengebied Alphen-Chaam 2010"</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 1 (Begrippen)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>[…]</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>aan-huis-verbonden bedrijf: een bedrijf of het bedrijfsmatig uitoefenen van ambachtelijke bedrijvigheid gericht op consumentenverzorging, geheel of gedeeltelijk door middel van handwerk, dat door zijn beperkte omvang in een</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>woning en daarbij behorende gebouwen, met behoud van woonfunctie, kan worden uitgeoefend.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>aan-huis-verbonden beroep: een beroep of het beroepsmatig verlenen van diensten op administratief, juridisch, medisch, therapeutisch, kunstzinnig, ontwerptechnisch of hiermee gelijk te stellen gebied, dat door zijn beperkte omvang in een woning en daarbij behorende bijgebouwen met behoud van de woonfunctie kan worden uitgeoefend.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>[…]</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>kleinschalig logeren: kleinschalige recreatieve activiteiten in de vorm van logies en ontbijt tot een in de regels aangegeven maximum brutovloeroppervlakte, zoals logeren bij de boer, bed &amp; breakfast e.d.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>[…]</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>rijbak: een onoverdekte voorziening bedoeld voor het berijden, africhten en laten bewegen van paarden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>[…].</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 8, lid 8.6.1 (Wijzigen naar wonen)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Burgemeester en wethouders zijn bevoegd deze bestemming te wijzigen in de bestemming "Wonen" voor zover het de voormalige bedrijfswoning betreft, waarbij moet worden voldaan aan de volgende voorwaarden:</para>
+      </parablock>
+      <para />
+      <para>a. Deze wijziging niet is toegestaan op locaties ter plaatse van de aanduiding "reconstructiewetzone - landbouwontwikkelingsgebied".</para>
+      <para />
+      <para>b. Het bestemmingsvlak wordt verkleind tot de voormalige bedrijfswoning met bijhorende tuinen, erven en verhardingen en de wijziging gelijktijdig plaatsvindt met wijziging van de overige gronden naar de aangrenzende bestemming "Agrarisch", "Agrarisch met waarden - Landschapswaarden", "Agrarisch met waarden - Landschaps- en natuurwaarden 1" en/of "Agrarisch met waarden - Landschaps- en Natuurwaarden 2", waarbij deze worden bestemd overeenkomstig de genoemde aangrenzende bestemmingen.</para>
+      <para />
+      <para>c. De oppervlakte bijgebouwen bij de woning dient door sloop van overtollige bebouwing teruggebracht te worden tot 200 m², waarbij cultuurhistorisch waardevolle bebouwing gehandhaafd dient te blijven.</para>
+      <para />
+      <para>d. De woning mag geen onevenredige beperking opleveren van de bedrijfsvoering en ontwikkelingsmogelijkheden van omliggende (agrarische) bedrijven.</para>
+      <para />
+      <para>e. De woning dient aanvaardbaar te zijn uit een oogpunt van een milieuhygiënisch verantwoord woon- en leefklimaat.</para>
+      <para />
+      <para>f. De in de bestemmingsomschrijving aangegeven waarden mogen niet onevenredig worden aangetast.</para>
+      <para />
+      <parablock>
+        <para>Artikel 23, lid 23.1 (Bestemmingsomschrijving)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De voor "Wonen" aangewezen gronden zijn bestemd voor:</para>
+      </parablock>
+      <para />
+      <para>a. wonen;</para>
+      <para />
+      <para>b. kleinschalig logeren, waarbij de bruto-vloeroppervlakte niet meer mag bedragen dan 100 m²;</para>
+      <para />
+      <para>c. kleinschalig kamperen ter plaatse van de aanduiding "specifieke vorm van wonen - kleinschalig kamperen", waarbij de bruto-vloeroppervlakte van de bebouwing niet meer mag bedragen dan 100 m²;</para>
+      <para />
+      <para>d. overige aan het wonen ondergeschikte nevenactiviteiten, zoals opgenomen in de "Tabel Wonen";</para>
+      <para />
+      <para>e. behoud en instandhouding van cultuurhistorisch waardevolle panden ter plaatse van de aanduiding "cultuurhistorische waarden";</para>
+      <para />
+      <para>f. aan-huis-verbonden beroepen of bedrijven;</para>
+      <para />
+      <para>g. paden en wegen en parkeervoorzieningen;</para>
+      <para />
+      <para>h. water en waterhuishoudkundige voorzieningen;</para>
+      <para />
+      <para>i. groenvoorzieningen.</para>
+      <para />
+      <parablock>
+        <para>Artikel 23, lid 23.4.1 (Aan-huis-verbonden beroep of bedrijf)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Binnen de bestemming "Wonen" is de uitoefening van een aan-huis-verbonden beroep of bedrijf toegestaan als ondergeschikte activiteit bij de woonfunctie, waarbij moet worden voldaan aan de volgende voorwaarden:</para>
+      </parablock>
+      <para />
+      <para>a. De omvang van de activiteit mag niet meer bedragen dan 30% van de gezamenlijke oppervlakte van de bebouwing van de woning en/of bijgebouwen tot een maximum van 50 m², waarbij geldt dat in gemeentelijke en rijksmonumenten de maximale oppervlakte 100 m² mag bedragen.</para>
+      <para />
+      <para>b. Het gebruik mag geen nadelige invloed hebben op de normale afwikkeling van het verkeer en mag geen onevenredige toename van de parkeerbehoefte veroorzaken.</para>
+      <para />
+      <para>c. De activiteit dient milieuhygiënisch inpasbaar te zijn in de woonomgeving.</para>
+      <para />
+      <para>d. Aan-huis-verbonden bedrijven zijn uitsluitend toegestaan in de vorm van bedrijven die zijn genoemd in de milieucategorie 1 van de als bijlage opgenomen Staat van Bedrijfsactiviteiten.</para>
+      <para />
+      <para>e. Detailhandel is niet toegestaan.</para>
+      <para />
+      <para>f. De activiteit moet uitgeoefend worden door de bewoner.</para>
+      <para />
+      <parablock>
+        <para>Artikel 23, lid 23.5.1 (Boerderijsplitsing)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Burgemeester en wethouders zijn bevoegd aan deze bestemming de aanduiding "maximum aantal wooneenheden" toe te voegen ten behoeve van de splitsing van de woning in twee woningen indien voldaan wordt aan de volgende voorwaarden:</para>
+      </parablock>
+      <para />
+      <para>a. Splitsing is alleen toegestaan indien het een woonboerderij met aantoonbare cultuurhistorische waarde betreft.</para>
+      <para />
+      <para>b. De bouwmassa van de te splitsen woonboerderij dient een inhoud te hebben van ten minste 900 m3.</para>
+      <para />
+      <para>c. Bij splitsing mogen maximaal twee volwaardige woningen ontstaan.</para>
+      <para />
+      <para>d. Bij de wijziging wordt de aanduiding "cultuurhistorische waarden" op het bouwvlak opgenomen.</para>
+      <para />
+      <para>e. Het bestaande architectonische karakter van de boerderij en de daaraan te onderkennen cultuurhistorische waarden, mogen niet worden aangetast. Beoordeling vindt plaats door een ter zake deskundige organisatie.</para>
+      <para />
+      <para>f. De vestiging van de nieuwe woning mag geen onevenredige beperking opleveren van de bedrijfsvoering en ontwikkelingsmogelijkheden van omliggende (agrarische) bedrijven.</para>
+      <para />
+      <para>g. De nieuwe woning dient aanvaardbaar te zijn uit een oogpunt van een milieuhygiënisch verantwoord woon- en leefklimaat.</para>
+      <para />
+      <para>h. De oppervlakte bijgebouwen bij de woningen dient door sloop van overtollige bebouwing teruggebracht te worden tot 200 m², waarbij cultuurhistorisch waardevolle bebouwing gehandhaafd dient te blijven.</para>
+      <para />
+      <parablock>
+        <para>Artikel 23, Tabel Wonen</para>
+      </parablock>
+      <para />
+      <mediaobject>
+        <imageobject>
+          <imagedata align="center" scale="100" fileref="15f6781e-38de-4a30-93ef-cb1d67c37ac7" depth="114" width="396" format="image/png" />
+        </imageobject>
+      </mediaobject>
+      <parablock>
+        <para>Artikel 33, lid 33.1</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Onder strijdig gebruik wordt in ieder geval verstaan:</para>
+      </parablock>
+      <para />
+      <para>a. het gebruiken of laten gebruiken van gronden, gebouwen, bouwwerken en onderkomens ten behoeve van een seksinrichting en/of escortbedrijf, raamprostitutie en straatprostitutie;</para>
+      <para />
+      <para>b. het gebruiken en/of laten gebruiken van bijgebouwen voor bewoning;</para>
+      <para />
+      <para>c. het permanent bewonen of laten bewonen van recreatieve nachtverblijven;</para>
+      <para />
+      <para>d. het gebruik van gronden ten behoeve van rijbakken, sleufsilo's, voeropslag en mestopslag binnen de bestemmingen "Agrarisch", "Agrarisch met Waarden - Landschapswaarden", "Agrarisch met Waarden - Landschaps- en Natuurwaarden 1" en/of "Agrarisch met Waarden - Landschaps- en Natuurwaarden 2".</para>
+      <para />
+      <parablock>
+        <para>De planregels van het wijzigingsplan "[locatie 1], Chaam"</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Artikel 4 (Wonen)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Hiervoor blijven de regels behorende bij artikel 23 van het moederplan: bestemmingsplan "Correctieve herziening Buitengebied Alphen-Chaam 2010" van de gemeente Alphen-Chaam op dit plan, voor zover relevant, van toepassing.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In afwijking van artikel 23.2.3 onder b, mag de oppervlakte aan bijgebouwen ter plaatse van de woning niet meer bedragen dan 200 m2.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Tevens wordt er in aanvulling op artikel 23 een extra regel opgenomen met betrekking tot kwaliteitsverbetering:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Kwaliteitsverbetering</para>
+      </parablock>
+      <para />
+      <para>1. Ter plaatse van de aanduiding "specifieke vorm van wonen - landschappelijke inpassing" is gebruik van het perceel conform de bestemmingsomschrijving uitsluitend toegestaan, mits de landschappelijke inpassing, voor zover begrepen in Bijlage 1, maximaal 1,5 jaar na onherroepelijk worden van het bestemmingsplan is aangelegd en vervolgens aldus in stand wordt gehouden</para>
+      <para />
+      <para>2. Gebruik van het perceel conform de bestemmingsomschrijving, is toegestaan, mits de oppervlakte van bijgebouwen is teruggebracht naar 200 m², maximaal 1,5 jaar na onherroepelijk worden van het bestemmingsplan.</para>
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

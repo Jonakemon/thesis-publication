@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:5179</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-05T16:39:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-16</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3222</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Viditax (FutD), 27-07-2020</rdf:li>
+          <rdf:li>FutD 2020-2246</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:5179">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:5179</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-27T09:22:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:5179 Rechtbank Noord-Holland , 16-07-2020 / AWB - 19 _ 3222</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:5179:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>medebewoner terecht als toeslagpartner aangemerkt; geen sprake van onderhuur of strijd met het evenredigheidsbeginsel</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:5179:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank noord-holland</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/3222</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 16 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , wonende te [woonplaats] , eiseres</bridgehead>
+    <para>(gemachtigde: mr. M.J. Meijer),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Belastingdienst/Toeslagen, kantoor Utrecht, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij voorschotbeschikking van 24 april 2019 heeft verweerder voor 2019 het voorschot zorgtoeslag, kindgebonden budget en kinderopvangtoeslag van eiseres vastgesteld en berekend op respectievelijk € 1.090, € 3.946 en € 1.532.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft bij beslissing op bezwaar van 3 juni 2019 (hierna: het bestreden besluit) het bezwaar kennelijk ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft hiertegen beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de op de zaak betrekking hebbende stukken overgelegd en een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 30 juni 2020 te Haarlem. Deze zaak is gelijktijdig behandeld met de zaak onder nummer HAA 19/3203. In laatstgenoemde zaak zal afzonderlijk uitspraak worden gedaan. Eiseres is verschenen, bijgestaan door haar gemachtigde. Tevens zijn verschenen [naam 1] en [naam 2] . Verweerder heeft zich laten vertegenwoordigen door [naam 3] en mr. [naam 4] . </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feiten</emphasis>
+      </para>
+    </parablock>
+    <para>1. In een afschrift uit de Basisregistratie Personen (hierna: Brp) is onder meer het volgende vermeld:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">			[naam 5]			Geb.dat. : [geboortedatum 1]</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">			Adressoort: 			01 woonadres volgens gemeente</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">			Adres: [adres 1]</emphasis>
+      </para>
+      <para />
+      <para>
+        <emphasis role="italic">			Ingangsdatum: 12 januari 2012	vervaldatum: 21 juni 2019</emphasis>
+      </para>
+    </parablock>
+    <para>2. In een afschrift uit de Brp is onder meer het volgende vermeld:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">			[naam 6]			Geb.dat. : </emphasis>
+        <?linebreak?>
+        <emphasis role="italic">Adressoort: 			01 woonadres volgens gemeente</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">			Adres: [adres 1]</emphasis>
+      </para>
+      <para />
+      <para>
+        <emphasis role="italic">			Ingangsdatum: 12 januari 2013	vervaldatum: 30 april 2019</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. In een afschrift uit de Brp is onder meer het volgende vermeld:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">			[naam 7]			 </emphasis>
+        <?linebreak?>
+        <emphasis role="italic">Adressoort: 			01 woonadres volgens gemeente</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">			Adres: [adres 1]</emphasis>
+      </para>
+      <para />
+      <para>
+        <emphasis role="italic">			Ingangsdatum: 8 juli 2017		vervaldatum: 30 april 2019</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. In een afschrift uit de Brp is onder meer het volgende vermeld:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">			[naam 8]			 </emphasis>
+        <?linebreak?>
+        <emphasis role="italic">Adressoort: 			01 woonadres volgens gemeente</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">			Adres: [adres 1]</emphasis>
+      </para>
+      <para />
+      <para>
+        <emphasis role="italic">			Ingangsdatum: 12 juli  2013		vervaldatum: 17 januari 2019</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Bij brief van 8 april 2019 heeft verweerder eiseres medegedeeld dat [naam 5] vanaf 1 februari 2019 bij eiseres woonachtig is op het adres [adres 1] . Verweerder heeft voorts medegedeeld dat, aangezien hij meetelt voor de toeslag(en) van eiseres, verweerder zijn handtekening nodig heeft. Daarbij is verzocht dit vóór 22 april 2019 te doen. Op 19 april 2019 heeft [naam 5] als medebewoner/toeslagpartner getekend.</para>
+    <para />
+    <para>6. Bij brief van 30 maart 2019 hebben [naam 1] en [naam 9] het volgende verklaard:</para>
+    <para />
+    <parablock>
+      <para>“	<emphasis role="italic">Het huis [adres 1] is het volle eigendom van [naam 1] en [naam 9] . Sinds 21 december 2016 wonen wij (…) in Litouwen (…) Ons huis in Nederland hebben wij aangehouden en nog niet verkocht omdat onze kinderen op dat moment nog geen eigen huisvesting hadden. Het huis werd bewoond en gehuurd door onze zoon [naam 8] (…) en zijn vriendin [naam 6] (…), terwijl onze tweede zoon [naam 5] een kamer huurde. Tot onze vreugde werd op [geboortedatum 2] ons kleinkind geboren. (…) Helaas is eind 2018 de relatie tussen [naam 8] en [naam 6] stuk gelopen en [naam 8] formeel (in feite al in december) op 17 januari naar zijn vriend in [plaats] vertrokken. (…) Voor ons reden om het huis voor minimaal een jaar aan [naam 6] te verhuren voor het symbolische bedrag van 1 euro. 	</emphasis>”</para>
+    </parablock>
+    <para />
+    <para>7. In het bezwaarschrift gericht tegen het primaire besluit heeft eiseres onder meer het volgende gesteld:</para>
+    <para />
+    <parablock>
+      <para>	“	<emphasis role="italic">In het voorjaar ben ik met mijn vriend [naam 8] , geboren op [geboortedatum 3] naar Nederland gekomen en zijn wij bij zijn (stief)ouders op de [adres 1] gaan wonen. In hetzelfde huis woont zijn jongere broer [naam 5] , geboren [geboortedatum 4] (…). In 2016 verhuizen de stiefouders [naam 1] en [naam 9] naar Litouwen (….). Wij zijn met zijn drieën in het huis in [woonplaats] aan de [adres 1] blijven wonen. Er is daarbij de (informele) afspraak gemaakt dat wij alleen de gebruikerskosten als huur dienden te betalen. [naam 5] een derde en [naam 8] en ikzelf twee derde van de kosten.</emphasis></para>
+      <para>
+        <emphasis role="italic">	Op [geboortedatum 2] ben ik bevallen van mijn dochter [naam 10] (…). Verleden jaar is er een breuk gekomen in onze relatie en zijn wij uit elkaar gegaan. Rond de jaarwisseling 2019 is [naam 8] bij een vriend in [plaats] gaan wonen.	</emphasis>	”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Geschil</emphasis>
+      </para>
+    </parablock>
+    <para>8. In geschil is of verweerder eiseres over de periode van 1 februari 2019 tot en met 30 april 2019 terecht een voorschot zorgtoeslag, kindgebonden budget en kinderopvangtoeslag heeft toegekend van respectievelijk € 1.090, € 3.946 en € 1.532. Meer in het bijzonder is in geschil of verweerder [naam 5] over de genoemde periode als toeslagpartner van eiseres heeft aangemerkt. </para>
+    <para />
+    <para>9. Eiseres heeft het volgende gesteld. [naam 5] , zijnde de broer van [naam 8] (hierna: de broer) en tevens voormalig partner van eiseres, is ten onrechte aangemerkt als toeslagpartner van eiseres. Eiseres stond samen met de broer ingeschreven op het adres [adres 1] . Zij woonde echter feitelijk in de recreatiewoning aan de [adres 2] . De heer [naam 1] is stiefvader van de broers [naam 11] en eigenaar van beide woningen. De heer [naam 1] verhuurde zijn recreatiewoning, die geschikt is voor permanente bewoning, aan eiseres en de broer. [naam 10] is de dochter van eiseres en de broer. Het was echter niet toegestaan om je op dat adres in te schrijven. Feitelijk gezien hebben zij echter gewoond en geleefd aan de [adres 2] . Om praktische redenen hebben eiseres, de broer en later hun dochter, zich ingeschreven op [adres 1] . Zij hebben op dit adres nooit daadwerkelijk gewoond. [naam 5] woonde op dit adres al enige tijd alleen. In november/december 2018 kwam het tot een relatiebreuk tussen eiseres en de broer. Eiseres is met haar dochter aan de [adres 2] blijven wonen. Dat [naam 5] de toeslagpartner is van eiseres vindt zij niet terecht. Aangezien [naam 5] , in het geval hij onderhuurder is van eiseres, niet als toeslagpartner van haar zal worden aangemerkt, is met terugwerkende kracht een huurcontract opgesteld tussen [naam 5] en eiseres en daarbij heeft betreffende het eerste kwartaal een betaling plaatsgevonden. Het huurcontract noch deze betaling hebben betrekking op de feitelijke situatie.<?linebreak?>Bij de interpretatie van met name artikel 3, van de Algemene wet inkomensafhankelijke regelingen (hierna: de Awir) moet de wetsgeschiedenis in ogenschouw worden genomen. Daarbij wordt niet alleen gesproken over een “onderhuursituatie” maar over een “(onder)huursituatie”. In de bedoeling van de wetgever ligt dus besloten dat ook een “huursituatie” daaronder kan vallen.  Omdat in dit geval zowel [naam 5] als eiseres aantonen dat de woonsituatie tussen hen puur van zakelijke aard was en beiden dus een feitelijk gescheiden huishouding voeren, moeten zij in lijn met de bedoeling van de wetgever niet worden aangemerkt als (fiscale) partners. Artikel 3, tweede lid, aanhef en onder, van de Awir, moet dus zo worden gelezen dat ook in geval van een huursituatie sprake kan zijn van de in dat artikelonderdeel bedoelde uitzondering. Die uitzondering doet zich hier voor. Ook eerder was geen sprake van een gemeenschappelijke huishouding. </para>
+    <para>Gelet op het voorgaande kan bij een afweging van de belangen het bestreden besluit niet in stand blijven. Eiseres heeft ten slotte onder verwijzing naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 21 oktober 2009 (ECLI:NL:RVS:2009:BK9774) gesteld dat de rechtbank tot het oordeel kan komen dat hoewel een algemeen verbindend voorschrift, in casu artikel 3, van de Awir, als zodanig niet jegens een ieder onverbindend is te achten, een bestuursorgaan, in dit geval de Belastingdienst/Toeslagen, is gehouden dat voorschrift buiten toepassing te laten omdat de toepassing in een bijzonder geval kennelijk onredelijk is.</para>
+    <para />
+    <para>10. Verweerder heeft het volgende aangevoerd. [naam 5] is de toeslagpartner van eiseres aangezien zij, samen met een minderjarig kind, op hetzelfde adres stonden ingeschreven. Aangezien de broer per 17 januari 2019 niet meer woonachtig is op het adres [adres 1] , is [naam 5] per laatstgenoemde datum de wettelijke toeslagpartner van eiseres. Van een situatie van onderhuur is geen sprake aangezien niet aan de daarvoor geldende voorwaarden is voldaan.</para>
+    <para />
+    <para>11. Voor het overige verwijst de rechtbank naar de gedingstukken.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beoordeling van het geschil</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">Wettelijk kader</emphasis>
+      </para>
+    </parablock>
+    <para>12. Artikel 6:19 van de Awb bepaalt, voor zover hier van belang, dat het beroep van rechtswege mede betrekking heeft op een besluit tot intrekking, wijziging of vervanging van het bestreden besluit, tenzij partijen daarbij onvoldoende belang hebben.</para>
+    <para />
+    <para>13. Nu verweerder na het primaire besluit van 24 april 2019, te weten op 21 mei 2019, 21 juni 2019, 23 juli 2019 en 21 augustus 2019 nieuwe beschikkingen heeft genomen met betrekking tot de toekenning aan eiseres van zorgtoeslag, kindgebonden budget en kinderopvangtoeslag, wordt het beroep, voor zover de voornoemde beschikkingen van 21 mei 2019, 21 juni 2019, 23 juli 2019 en 21 augustus 2019 zien op de periode van 1 februari 2019 tot en met 30 april 2019 en daarbij [naam 5] als toeslagpartner van eiseres is aangemerkt, geacht mede betrekking te hebben op deze vier laatstgenoemde beschikkingen.</para>
+    <para />
+    <para>14. Op grond van artikel 1, eerste lid, onder e, van de Wet op de zorgtoeslag (hierna: Wzt) in samenhang gelezen met artikel 1, tweede lid, van de Wzt is zorgtoeslag een tegemoetkoming in de premie voor de zorgverzekering, waarbij de hoogte afhankelijk is van de draagkracht. </para>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 1, onder b, van de Wet op het kindgebonden budget (hierna: Wkb) wordt in deze wet en de daarop berustende bepalingen verstaan onder kindgebonden budget: een financiële bijdrage van het Rijk in de kosten voor kinderen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van het tweede lid van dit artikel is de hoogte van het kindgebonden budget afhankelijk van de draagkracht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 1.3 eerste lid, van de Wet kinderopvang (hierna: Wko), zoals die luidde ten tijde van belang, is de Algemene wet inkomensafhankelijke regelingen (hierna: Awir) van toepassing (…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gelet op het voorgaande is op de zorgtoeslag, het kindgebonden budget en de kinderopvangtoeslag, de Awir van toepassing.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 3, eerste lid, van de Awir is de partner van de belanghebbende degene die ingevolge artikel 5a Algemene wet inzake rijksbelastingen als partner wordt aangemerkt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van het artikel 3, tweede lid, onder e, van de Awir wordt in aanvulling op het eerste lid voor de toepassing van deze wet en de daarop berustende bepalingen onder partner mede verstaan:</para>
+      <para>“ … degene die als ingezetene op hetzelfde woonadres is ingeschreven in de basisregistratie personen als de belanghebbende en:</para>
+      <para>		(…)</para>
+      <para>	e. die evenals de belanghebbende meerderjarig is, waarbij op dat woonadres tevens een minderjarig kind van ten minste een van beiden staat ingeschreven, behoudens ingeval de belanghebbende door middel van een schriftelijke huurovereenkomst, waaraan bij ministeriële regeling nadere voorwaarden kunnen worden gesteld, doet blijken dat een van beiden op zakelijke gronden een gedeelte van de woning huurt van de ander.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 3, tweede lid, onder c, van de Uitvoeringsregeling Awir wordt iemand die in de basisregistratie personen niet op zijn woonadres is ingeschreven, geacht wel op dat adres te zijn ingeschreven, indien blijkt dat sprake is van een onjuiste inschrijving in de basisregistratie personen voor de periode tot aan de datum van adreswijziging, bedoeld in artikel 2.20, derde lid, van de Wet basisregistratie personen.</para>
+    </parablock>
+    <para />
+    <para>15. In haar uitspraak van 17 juli 2019, gepubliceerd onder ECLI:NL:RVS:2019:2437 heeft de Afdeling onder meer het volgende overwogen:</para>
+    <para />
+    <parablock>
+      <para>	“<emphasis role="italic">5.4.    Dat er, naar [appellant] stelt, geen sprake was van een gezamenlijke huishouding is niet van belang voor de beantwoording van de vraag of sprake is van partnerschap als bedoeld in artikel 3, tweede lid, aanhef en onder e, van de Awir. Zoals de Afdeling eerder heeft overwogen (bijvoorbeeld in de uitspraak van 6 september 2017, ECLI:NL:RVS:2017:2397) heeft de wetgever bij de vormgeving van het wettelijk partnerbegrip gekozen voor een regeling waarbij - uit oogpunt van een eenduidige uitvoering van de inkomensafhankelijke regelingen - op grond van objectiveerbare gegevens door de Belastingdienst/Toeslagen kan worden vastgesteld of een belanghebbende een partner heeft. De materiële toets of bij ongehuwd samenwonenden sprake is van een gezamenlijke huishouding is komen te vervallen (Kamerstukken II 2009/10, 32 130, nr. 3, blz. 26). Om dezelfde reden is ook de vraag of [persoon] wel of geen voordeel heeft genoten uit de huurovereenkomst niet relevant voor de beoordeling van het geschil.</emphasis></para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>
+        <emphasis role="italic">Door de inschrijving van [persoon] op zijn woonadres in de Brp, heeft [appellant] zelf een situatie gecreëerd die onder het bereik van artikel 3, tweede lid, aanhef en onder e, van de Awir valt. Dat [appellant] zich bij de inschrijving van [persoon] op zijn woonadres in de Brp mogelijk niet heeft gerealiseerd wat de gevolgen zijn voor de aanspraak op zorgtoeslag en kindgebonden budget, doet hier niet aan af.</emphasis>”</para>
+      <para />
+      <para>16. De rechtbank overweegt als volgt. Vast staat dat in de in geding zijnde periode van 1 februari 2019 tot en met 30 april 2019 op het adres [adres 1] , eiseres, haar dochter en [naam 5] stonden ingeschreven. Gelet op het bepaalde in artikel 3, tweede lid, onder e, van de Awir, zoals deze bepaling geldt met ingang van 1 januari 2018, heeft verweerder [naam 5] derhalve terecht als toeslagpartner van eiseres aangemerkt.<?linebreak?>Door deze inschrijving in de Brp op het adres [adres 1] heeft eiseres zelf een situatie gecreëerd die onder het bereik valt van artikel 3, tweede lid, aanhef en onder e, van de Awir. Voor zover eiseres stelt dat zij zich niet heeft gerealiseerd wat de gevolgen van deze inschrijvingen zijn voor de aanspraak op zorgtoeslag, doet dit hieraan niet af. De rechtbank overweegt in dit verband voorts dat niet is gebleken dat voorafgaand aan de adreswijziging van eiseres op 30 april 2019 sprake was van een onjuiste inschrijving in de Brp. De enkele stelling van eiseres dat zij samen met haar dochter en haar toenmalige partner feitelijk woonden op het adres [adres 2] , is, gelet op de overige processtukken en met name de schriftelijke ondubbelzinnig andersluidende mededelingen van eiseres, [naam 5] en [naam 1] , zonder onderbouwing uit objectieve bron, daartoe onvoldoende.</para>
+      <para />
+      <para>17. De rechtbank is voorts van oordeel dat geen sprake is van huur van de woning op zakelijke gronden. Daartoe overweegt zij dat vast staat dat in de huurovereenkomst is overeengekomen dat de “kale” huur € 1 bedraagt terwijl het gebruik van nutsvoorzieningen € 99 dient te worden betaald. In de stukken alsmede ter zitting is van de zijde van eiseres bevestigd dat de huurovereenkomst met terugwerkende kracht is opgesteld. Gelet hierop alsmede gelet op de verklaringen van eiseres in bezwaar, hetgeen eiseres in haar bezwaarschrift van 8 mei 2019 heeft gesteld alsmede gelet op hetgeen de eigenaren van de woning [adres 1] omtrent de overeengekomen huurprijs hebben verklaard, is naar het oordeel van de rechtbank geen sprake van een huur op zakelijke gronden (vgl. Raad van State 17 juli 2019, ECLI:NL:RVS:2019:2437). Voor zover eiseres stelt dat (een deel van) het gebruik van de nutsvoorzieningen dient te worden toegerekend aan de “kale” huur, maakt dit het voorgaande niet anders omdat ook in dat geval sprake blijft van een onzakelijk lage huur. Dit beroep faalt derhalve.</para>
+      <para />
+      <para>18. Het betoog van eiseres dat het bestreden besluit, mede gelet op financiële gevolgen voor eiseres, is genomen in strijd met het evenredigheidsbeginsel als bedoeld in artikel 3:4 van de Awb, doet, mede gelet op de betrekkelijk korte periode waarop het primaire en het bestreden besluit zien, aan het voorgaande niet af. Eiseres is zelf verantwoordelijk voor de situatie dat sprake is van een toeslagpartner, hetgeen gevolgen heeft voor haar recht op toeslagen. De rechtbank ziet dan ook, nu sprake is van een andere situatie dan genoemd in de uitspraak van de Afdeling van 23 oktober 2019 (ECLI:NL:RVS:2019:3535) geen aanleiding de wettelijke bepalingen ter zake in de thans voorliggende situatie buiten toepassing te laten. De verwijzing van eiseres naar de uitspraken van 21 oktober 2009 (ECLI:NL:RVS:2009:BK9774) en 3 april 2019 (ECLI:NL:RVS:2019:1046) doen hieraan evenmin af aangezien deze uitspraken eveneens op een andere situatie zien. Naar het oordeel van de rechtbank is derhalve geen sprake van strijd met het evenredigheidsbeginsel.</para>
+      <para />
+      <para>19. De rechtbank zal het beroep derhalve ongegrond verklaren.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Proceskosten</emphasis>
+        </para>
+      </parablock>
+      <para>20. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.H. de Soeten, rechter, in aanwezigheid van <?linebreak?>R. van der Vecht, griffier. Deze uitspraak is gedaan op 16 juli 2020. Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kunnen partijen binnen zes weken na verzending van de uitspraak hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State, Postbus 20019, 2500 EA Den Haag. (Nadere informatie www.raadvanstate.nl)</para>
+    <para />
+    <parablock>
+      <para>Bij het instellen van hoger beroep dient het volgende in acht te worden genomen:</para>
+    </parablock>
+    <para>1. bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd.</para>
+    <para>2. het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden:</para>
+    <para>a. 	de naam en het adres van de indiener;</para>
+    <para>b.	een dagtekening;</para>
+    <para>c.	een omschrijving van de uitspraak waartegen het hoger beroep is ingesteld;</para>
+    <para>d.	de gronden van het hoger beroep.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

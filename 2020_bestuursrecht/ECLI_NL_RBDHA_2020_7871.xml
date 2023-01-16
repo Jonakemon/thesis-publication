@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:7871</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-18T13:52:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.13225</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7871">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7871</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-18T13:51:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:7871 Rechtbank Den Haag , 17-08-2020 / NL20.13225</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:7871:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Asielzaak Iran. Afwending van de Islam, bekering tot het christendom en de problemen van eiser niet ten onrechte door verweerder ongeloofwaardig geacht. Geen gronden gericht tegen de kennelijke ongegrondheid. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:7871:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL20.13225</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , eiser</bridgehead>
+    <parablock>
+      <para>V-nummer: [#]</para>
+      <para>(gemachtigde: mr. M. Timmer),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: J. Mačkić).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <?linebreak?>Procesverloop <?linebreak?>Bij besluit van 23 juni 2020 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in de verlengde procedure afgewezen als kennelijk ongegrond. </title>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft, tezamen met de behandeling van het verzoek om een voorlopige voorziening (zaaknummer NL20.13226), plaatsgevonden op 11 augustus 2020. Eiser en verweerder hebben zich laten vertegenwoordigen door hun gemachtigde. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser stelt de Iraanse nationaliteit te hebben en te zijn geboren op [geboortedatum] . Eiser heeft aan zijn asielaanvraag van 28 juli 2019 ten grondslag gelegd dat hij zich heeft afgewend van de islam, zich heeft bekeerd tot het christendom en daardoor problemen heeft ondervonden.</para>
+    <para />
+    <para>2. Het asielrelaas van eiser bevat volgens verweerder de volgende relevante elementen:</para>
+    <para />
+    <para>1. de identiteit, nationaliteit en herkomst;</para>
+    <para>2. afwending van de islam; </para>
+    <para>3. bekering tot het christendom; </para>
+    <para>4. problemen naar aanleiding van de bekering.</para>
+    <para />
+    <para />
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Verweerder heeft element 1 geloofwaardig geacht. Elementen 2, 3 en 4 heeft verweerder niet geloofwaardig geacht. Eiser heeft volgens verweerder niet consistent verklaard over het moment van bekering en niet inzichtelijk kunnen maken wat de reden is geweest van en de exacte aanleiding voor zijn afkeer van zijn vorig geloof. Eiser heeft enkel aangegeven dat zijn leven op enig moment is verslechterd, maar niet welke relatie de religie hiermee heeft gehad. Ook heeft hij onvoldoende inzichtelijk gemaakt waarom hij, zoals hij stelt, in de islam niet vergeven zou worden. Eiser heeft oppervlakkig verklaard over waarom hij het belangrijk vindt om direct in contact met God te staan zodat hij vergeving kan vragen. Ten aanzien van de bekering heeft eiser ongerijmd verklaard over de ontmoetingen die hij heeft gehad met [naam vriend] waarbij zij hebben gesproken over het christendom. Eiser heeft oppervlakkig verklaard over waarom het christendom hem rust geeft en wat het verschil is geweest tussen zijn levenswijze daarvoor en daarna. Eiser heeft niet gedetailleerd verklaard over de eerste huiskerkbijeenkomsten terwijl dit van hem wel verwacht mag worden nu deze bijeenkomsten in Iran niet zijn toegestaan en grote problemen opleveren. Eiser heeft geen bevredigende antwoorden kunnen geven op basisvragen over het christendom, hij kent enkel de protestante stroming en niet valt in te zien waarom hij gedurende twee jaar dat hij is bekeerd geen informatie over de verschillende stromingen heeft opgezocht. Verweerder acht bevreemdingwekkend dat eiser in het nader gehoor heeft verklaard dat hij zich niet verder heeft verdiept in het christendom en hij zich nu enkel <emphasis role="italic">“richt op het gedenken van Jezus en van de rust die hij krijgt”</emphasis>. Eiser is niet gedoopt en heeft niet kunnen duiden wanneer hij wel gedoopt zal worden, kan de naam van de kerk niet noemen en heeft niet kunnen duiden welke lofliederen er gezongen worden. De problemen van eiser naar aanleiding van de bekering zijn ongeloofwaardig geacht. Eiser heeft hier geen documenten van kunnen overleggen, heeft tegenstrijdig verklaard over het uitreisverbod, bevreemdingwekkend verklaard over zijn paspoort, ongerijmd over de oproep te verschijnen voor de rechtbank en bevreemdingwekkend, oppervlakkig en inconsistent over de detentie. Ten aanzien van de problemen die zijn ontstaan doordat de huiskerk was verraden en de huiszoeking, heeft eiser oppervlakkig verklaard en essentiële vragen niet kunnen beantwoorden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Verweerder heeft de asielaanvraag van eiser kennelijk ongegrond verklaard op grond van artikel 30b, eerste lid, onder c (misleiding over de identiteit, nationaliteit en reisroute) en d (waarschijnlijk te kwader trouw een identiteits- of reisdocument dat ertoe kon bijdragen dat zijn identiteit of nationaliteit werd vastgesteld, vernietigd of zich daarvan ontdaan) van de Vreemdelingenwet 2000 (Vw).</para>
+      <para />
+      <para>3. Eiser bestrijdt in beroep gedetailleerd de door verweerder ongeloofwaardig geachte elementen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ten aanzien van element afwending van de islam. </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. De rechtbank is van oordeel dat verweerder zich niet ten onrechte op het standpunt heeft gesteld dat het ongeloofwaardig is dat eiser zich van de islam heeft afgewend. De stelling van eiser dat verweerder ten onrechte heeft tegengeworpen dat hij de vraag om de revolutie in zijn gedachten nader uit te leggen niet heeft onderbouwd en verweerder ten onrechte niet heeft gevraagd om te verklaren hoe hij tot de conclusie is gekomen dat als je zelfmoord durft te plegen ook de stap durft te nemen dat God niet bestaat, slaagt naar het oordeel van de rechtbank niet. Zoals verweerder heeft betoogd, heeft eiser zelf in het nader gehoor verklaard dat het <emphasis role="italic">“een soort revolutie was in zijn gedachten”</emphasis> en daarmee bedoelt <emphasis role="italic">“dat als je durft om zelfmoord te plegen dan moet je ook durven een stap te nemen dat God niet bestaat en het geloof onzin is</emphasis>.<emphasis role="italic">”</emphasis> Vervolgens heeft verweerder daarop doorgevraagd of hij de revolutie kon uitleggen en of de afwending van de islam een weerslag heeft gehad op zijn gedragingen. Daarbij heeft verweerder zich niet ten onrechte op het standpunt gesteld dat eiser hierover vaag heeft verklaard, door te verklaren hoe hij met de drempels uit zijn leven is omgegaan, dat hij direct vergiffenis aan God wil vragen en dat hij tot rust kan komen<footnote-ref linkend="_775e0557-7ed9-4a61-ba67-cf840348f3c1" />. De stelling van eiser dat verweerder hem ten onrechte niet letterlijk heeft gevraagd naar de redenen voor zijn afkeer van de islam, treft evenmin doel. Zoals uit het nader gehoor blijkt heeft verweerder onder meer gevraagd<footnote-ref linkend="_4bdeb5a7-eb87-4996-acf9-4d8c9a4677f5" />: </para>
+      <parablock>
+        <para>
+          <emphasis role="italic">Op welk moment in uw leven begon u zich van de islam af te keren? </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Wat waren precies de redenen dat u juist toen zich van het islamitische geloof begon af te keren? </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">U zegt: ‘op een gegeven moment kom je er zelf achter dat het allemaal niet klopt’. Kunt u dit nader toelichten? </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">U zegt dat het allemaal vraagtekens zijn. Kunt u vertellen welke andere vraagtekens u had bij de islam? </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">U heeft verteld dat u meende in de Islam geen direct contact te kunnen hebben met uw God. Kunt u uitleggen waarom dit voor u zo belangrijk is? </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">U heeft eerder verteld dat u wel in de islam geloofde. Was er een bepaald</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">moment, gebeurtenis of keerpunt waarop u afstand nam van de islam?</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">U zegt dat het afwenden van de islam een geleidelijk proces was. Wat voor</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">gevoelens, gedachten, twijfels gingen er door u heen bij het afwenden van de</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">islam?</emphasis>
+        </para>
+        <para>Verweerder heeft zich voorts niet ten onrechte op het standpunt gesteld dat eiser er onvoldoende in is geslaagd de relatie tussen de islam en zijn leefomstandigheden te verduidelijken. De stelling van eiser dat hij wel degelijk heeft aangegeven wat de relatie is tussen religie en zijn verslechterde leefomstandigheden en dat verweerder niet precies heeft uitgelegd wat hij onder het <emphasis role="italic">authentieke verhaal </emphasis>verstaat, wat daar ook van zij, doet er niet aan af dat eiser hierover in algemeenheden heeft verklaard, door enkel aan te geven dat zijn leven op enig moment was verslechterd, dat het geestelijk niet goed met hem ging, dat hij was begonnen met alcohol drinken en daarna niet meer had gevast of gebeden<footnote-ref linkend="_30930b43-98ae-4dff-aadf-0e0909d42e62" />. Verweerder heeft ook niet ten onrechte tegengeworpen dat eiser onvoldoende inzichtelijk heeft gemaakt waarom hij in de islam nooit vergeven zou worden. Nu eiser zelf heeft aangegeven dat hij het zo belangrijk vindt om vergeven te worden voor zijn daden, heeft verweerder het niet ten onrechte bevreemdend geacht dat hij hier geen onderzoek naar heeft verricht en enkel is uitgegaan van de opmerkingen van zijn ouders. De stelling van eiser dat hij wel voldoende inzichtelijk heeft gemaakt waarom hij niet vergeven zou worden, treft daarom geen doel. </para>
+        <para>Evenmin treft de stelling van eiser dat hij niet vaag en summier heeft verklaard op de vraag waarom direct contact met God voor hem zo belangrijk is, doel. Verweerder heeft zich niet ten onrechte op het standpunt gesteld dat eiser ook op dit punt in algemeenheden heeft verklaard en niet inzichtelijk heeft kunnen maken waarom het rechtstreeks vragen om vergeving aan God binnen de islam niet heeft gewerkt en het christendom wel. De beroepsgronden slagen niet.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ten aanzien van het element bekering tot het christendom.</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. De rechtbank is van oordeel dat verweerder zich niet ten onrechte op het standpunt heeft gesteld dat het ongeloofwaardig is dat eiser zich heeft bekeerd tot het christendom. De stelling van eiser dat verweerder ten onrechte twee verschillende vragen heeft gesteld over wanneer eiser voor het eerst met [naam vriend] sprak over het christendom, waardoor hij ook verschillende antwoorden heeft gegeven, slaagt naar het oordeel van de rechtbank niet. Wat daar ook van zij, doet deze stelling er niet aan af dat eiser in algemeenheden heeft verklaard over zijn kennismaking en persoonlijke ervaringen met het christendom. Zo heeft hij onder meer verklaard dat hij in het christendom rust ervaart doordat hij weet dat hij is vergeven voor zijn zonde, het gevoel had dat hij was verlicht en het juiste pad had gevonden<footnote-ref linkend="_bf172e20-1375-4000-9df4-6ba6f456b849" />. Verweerder heeft van eiser mogen verwachten dat hij hierover gedetailleerd zou verklaren, omdat [naam vriend] blijkens de verklaringen van eiser een cruciale rol heeft gespeeld<footnote-ref linkend="_28c5061b-7140-45fb-9e87-1275edc64cfc" />. Ook heeft verweerder eiser niet ten onrechte tegengeworpen dat hij gedetailleerd zou moeten kunnen verklaren over de huiskerkbijeenkomsten, met name omdat die in Iran niet zijn toegestaan en grote problemen kunnen veroorzaken, en meer kennis zou moeten hebben van het christendom. Ook op dit punt heeft eiser in algemeenheden verklaard. Zo weet hij niet wie de voorganger is geweest, welk gedicht er is voorgedragen, wie er aanwezig waren en de straatnaam van de huiskerk<footnote-ref linkend="_0f5267d0-7662-4550-88d2-7385a94d50b2" />. Eiser kent enkel de protestantse stroming en heeft verklaard dat het verschil tussen het oude en nieuwe testament is dat het een completer is dan het ander. Over het laatste boek van het nieuwe testament heeft hij verklaard dat het gaat over de kruisiging en hij weet niet te benoemen wie Jezus uit de dood heeft opgewekt. Nu eiser zelf heeft verklaard dat hij probeerde ook minder om te gaan met anderen die geen christenen waren<footnote-ref linkend="_c4c70f48-3d50-4cf3-bcbe-367086c88fd2" /> en dat hij samen met [naam vriend] huiskerkbijeenkomsten bezocht, heeft verweerder niet ten onrechte tegengeworpen dat hij – ondanks de stelling van eiser dat kennisvergaring in Iran wellicht risico’s met zich meebrengt – wel de mogelijkheid had om over zijn nieuwe geloof vragen te stellen. De stelling van eiser dat hij wel degelijk meer kennis van het christendom wil vergaren en dat hij deelneemt aan Bijbelstudies ter voorbereiding op de doopceremonie, doet er niet aan af dat eiser heeft verklaard dat hij nog maar één keer aan Bijbelstudie heeft gedaan<footnote-ref linkend="_86f40cbe-b5a1-457f-9cc5-b32db74d3bcb" />. De beroepsgronden van eiser slagen niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ten aanzien van het element problemen naar aanleiding van de bekering.</emphasis>
+        </para>
+      </parablock>
+      <para>6. De rechtbank is van oordeel dat verweerder zich niet ten onrechte op het standpunt heeft gesteld dat het ongeloofwaardig is dat eiser problemen heeft ondervonden naar aanleiding van de bekering. De stelling van eiser dat de vragen <emphasis role="italic">“Is de reden voor uw arrestatie aan u meegedeeld?” </emphasis>en <emphasis role="italic">“Waarvan werd u precies beschuldigd?”</emphasis> twee verschillende vragen zijn, waaruit niet mag worden afgeleid dat eiser inconsistent heeft verklaard en dat de informatie van verschillende overheidsorganisaties/derden komt en niet gelijkluidend hoeven te zijn, laat onverlet dat eiser tegenstrijdig heeft verklaard over de reden waarom hij is gearresteerd/beschuldigd. Enerzijds heeft hij verklaard dat dit vanwege spionage en politieke activiteiten is en dat hij vanwege politieke of religieuze problemen is gearresteerd, anderzijds heeft hij verklaard dat het hem niet duidelijk is waarvan hij werd beschuldigd. Dit is door verweerder niet ten onrechte bevreemdingwekkend geacht, met name omdat eiser ook heeft verklaard dat hem tijdens het gehoor werd verteld wat hij had gedaan en waarvan hij werd beschuldigd. Ook heeft verweerder niet ten onrechte tegengeworpen dat eiser ter onderbouwing van dit element geen enkel document heeft overgelegd. Verweerder heeft zich verder niet ten onrechte op het standpunt gesteld dat eiser over zijn detentie oppervlakkig heeft verklaard, omdat hij een oppervlakkige beschrijving van zijn cel heeft gegeven, niet heeft kunnen noemen door welke instantie hij werd vervoerd van Turkije naar Iran en van Iran naar de gevangenis en niet heeft kunnen antwoorden bij welke rechtbank hij is voorgeleid en wat de rechter heeft gezegd. Dat verweerder in het kader van de detentie en de instanties die hem hebben vervoerd in het bestreden besluit voor het eerst spreekt over <emphasis role="italic">medegedetineerden</emphasis> en <emphasis role="italic">uniformen</emphasis>, doet er niet aan af dat verweerder, zoals hij ter zitting heeft betoogd, in het voornemen al voldoende heeft onderbouwd waarom hij de door eiser gestelde problemen ongeloofwaardig acht. Daar komt bij dat verweerder zich niet ten onrechte op het standpunt heeft gesteld dat eiser tegenstrijdig heeft verklaard over het legaal of illegaal uitreizen en eiser in beroep niet heeft bestreden dat hij over de huiszoeking oppervlakkig heeft verklaard. De beroepsgronden van eiser slagen niet.</para>
+      <para>7. De rechtbank stelt vast dat eiser geen gronden heeft aangevoerd tegen de kennelijke ongegrond verklaring op grond van artikel 30b, eerste lid, onder c en d, van de Vw, zodat verweerder de asielaanvraag terecht heeft afgewezen als kennelijk ongegrond.</para>
+      <para>8. Het beroep is ongegrond. </para>
+      <para>9. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>
+      <?linebreak?>De rechtbank verklaart het beroep ongegrond.</para>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. E.P.W. van de Ven, rechter, in aanwezigheid van mr. R. Pronk, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is gedaan op:</para>
+    </parablock>
+    <parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking.</para>
+    </parablock>
+  </section>
+  <footnote id="_775e0557-7ed9-4a61-ba67-cf840348f3c1" label="1">
+    <para> Pagina 20 van het nader gehoor.</para>
+  </footnote>
+  <footnote id="_4bdeb5a7-eb87-4996-acf9-4d8c9a4677f5" label="2">
+    <para> Pagina 17 en 18 van het nader gehoor.</para>
+  </footnote>
+  <footnote id="_30930b43-98ae-4dff-aadf-0e0909d42e62" label="3">
+    <para> Pagina 18 van het nader gehoor.</para>
+  </footnote>
+  <footnote id="_bf172e20-1375-4000-9df4-6ba6f456b849" label="4">
+    <para> Pagina 24 van het nader gehoor.</para>
+  </footnote>
+  <footnote id="_28c5061b-7140-45fb-9e87-1275edc64cfc" label="5">
+    <para> Pagina 13 en 24 van het nader gehoor.</para>
+  </footnote>
+  <footnote id="_0f5267d0-7662-4550-88d2-7385a94d50b2" label="6">
+    <para> Pagina 27 van het nader gehoor.</para>
+  </footnote>
+  <footnote id="_c4c70f48-3d50-4cf3-bcbe-367086c88fd2" label="7">
+    <para> Pagina 7 van het nader gehoor.</para>
+  </footnote>
+  <footnote id="_86f40cbe-b5a1-457f-9cc5-b32db74d3bcb" label="8">
+    <para> Pagina 30 van het nader gehoor.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

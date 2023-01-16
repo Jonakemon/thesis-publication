@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:6328</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-29T10:04:47</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 856</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RF 2020/101</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:6328">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:6328</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-17T06:53:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:6328 Rechtbank Rotterdam , 17-07-2020 / AWB - 19 _ 856</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:6328:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Last onder dwangsom ogv art. 4:11 Wft. De dwangsom voor drie lastonderdelen is verbeurd (vermogensscheiding, belangenverstrengeling en -conflicten). Daarnaast publicatie. Beroepen zijn ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:6328:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: ROT 19/856 en ROT 20/455</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 17 juli 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">[Onderneming] ([eiseres]), te [plaats], eiseres,</bridgehead>
+    <para>gemachtigden: mr. G.P. Roth en mr. C. Riekerk,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Stichting Autoriteit Financiële Markten (AFM), verweerster,</bridgehead>
+    <para>gemachtigden: mr. A.J. Boorsma, mr. A.J. de Heer en mr. P.P.M. van Kippersluis.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 april 2018 (het lastbesluit) heeft de AFM aan [eiseres] een last onder dwangsom opgelegd bestaande uit tien lastonderdelen en haar meegedeeld dat zij uiterlijk op 23 oktober 2018 aan de lastonderdelen dient te voldoen. De dwangsom bedraagt </para>
+      <para>€ 100.000,- per lastonderdeel, met een maximum van € 1.000.000,-. Tevens heeft de AFM  medegedeeld dat zij dit besluit openbaar zal maken door publicatie daarvan als één of meer dwangsommen verbeuren en dat zij ook de eventuele indiening van een bezwaar tegen het besluit openbaar zal maken (publicatiebesluit I). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 januari 2019 (het bestreden besluit I) heeft de AFM het bezwaar gedeeltelijk gegrond verklaard, het lastbesluit gedeeltelijk herroepen en dat besluit voor het overige onder aanvulling van de motivering gehandhaafd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>[Eiseres] heeft tegen het bestreden besluit I beroep (ROT 19/856) ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 september 2019 (de invorderingsbeschikking) heeft de AFM vastgesteld dat [eiseres] op 24 oktober 2018 aan drie lastonderdelen niet heeft voldaan, zodat zij van rechtswege drie dwangsommen heeft verbeurd. De AFM vordert daarom € 300.000,- aan dwangsommen in. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>[Eiseres] heeft de invorderingsbeschikking bij brief van 3 oktober 2019 betwist. </para>
+      <para>Op grond van artikel 5:39, eerste lid, van de Algemene wet bestuursrecht (Awb) heeft het beroep (ROT 19/856) mede betrekking op de invorderingsbeschikking. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 januari 2020 (publicatiebesluit II) heeft de AFM medegedeeld dat zij heeft besloten om over te gaan tot openbaarmaking van het feit dat de AFM het bestreden besluit I heeft genomen en van het feit dat daartegen beroep is ingesteld. Daarnaast heeft de AFM, gelet op de actuele stand van zaken en het feit dat er inmiddels dwangsommen zijn verbeurd, een nadere afweging gemaakt ten aanzien van de publicatie van het lastbesluit en het daartegen gemaakte bezwaar. Voorts is in publicatiebesluit II een nieuwe publicatietekst opgenomen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>[Eiseres] heeft tegen het publicatiebesluit II bezwaar gemaakt en de AFM verzocht in te stemmen met rechtstreeks beroep (ROT 20/455) als bedoeld in artikel 7:1a van de Awb. De AFM heeft hiermee ingestemd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tevens heeft [eiseres] een verzoek om voorlopige voorziening ingediend. Dit verzoek is ingetrokken, nadat bekend werd dat de beroepen met zaaknummers ROT 19/856 en ROT 20/455 op de zitting van de meervoudige kamer bij deze rechtbank van <?linebreak?>24 maart 2020 werden gepland. Als gevolg van de maatregelen rondom het coronavirus heeft de behandeling van deze zaken op deze zitting geen doorgang gevonden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 24 april 2020 heeft de rechtbank schriftelijke vragen aan partijen gesteld. </para>
+      <para>Bij brieven van respectievelijk 11 en 12 mei 2020 hebben partijen deze vragen beantwoord. Vervolgens hebben partijen bij brieven van 28 mei 2020 op elkaars beantwoording van de gestelde vragen in tweede termijn geageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Omdat geen van partijen desgevraagd heeft aangegeven (alsnog) ter zitting te willen worden gehoord, heeft de rechtbank met toepassing van artikel 8:57, eerste en derde lid, van de Awb op 9 juni 2020 het onderzoek gesloten. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feiten</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1 [</nr>
+      <para>[Eiseres] beschikt sinds 17 september 2009 over een vergunning voor het verlenen van beleggingsdiensten en beleggingsactiviteiten (artikel 2:96, eerste lid, van de Wet op het financieel toezicht (Wft)). Daarnaast beschikt zij over een vergunning als financieel dienstverlener voor het aanbieden van consumptief krediet (artikel 2:60 Wft) en het bemiddelen in spaar- en betaalrekeningen (artikel 2:80 Wft). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2	[</nr>
+      <para>Eiseres] exploiteert als broker een online platform voor particuliere beleggers, met een beperkt aantal professionele partijen. Cliënten kunnen op het platform hun aan- en verkooporders in financiële instrumenten, waaronder aandelen, ‘execution only’ (zelf, online, zonder hulp of advies van een adviseur) inleggen. Cliënten sluiten daartoe een cliëntovereenkomst met [eiseres]. De diensten van [eiseres] kunnen uitgebreid worden met ‘Derivaten’, ‘Debet Geld’ en ‘Debet Effecten’ als de cliënt in aanvulling op de overeenkomst een addendum aangaat. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3	[</nr>
+      <para>Eiseres] beschikte in september 2017 over 208.267 beleggingsrekeningen, waarop 10.383.312 transacties zijn verricht. Volgens de jaarcijfers over 2017 was de omzet van [eiseres] circa 41 miljoen euro. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4	[</nr>
+      <para>Eiseres] maakt onderdeel uit van de [onderneming groep] met aan het hoofd de holding [naam holding]. Binnen de [onderneming groep] zijn meerdere vergunninghouders actief, waaronder [vergunninghouder]. [Vergunninghouder] beheert onder meer het [fonds]. [Fonds] is een beleggingsinstelling en gestructureerd als een fonds voor gemene rekening. [Fonds] is aangemeld als cliënt bij [eiseres] en handelt actief via het online platform van [eiseres]. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5	[</nr>
+      <parablock>
+        <para>Eiseres] heeft drie bewaarinstellingen, te weten een beleggersgiro [Stichting] (SPV Long only) en twee alternatieve bewaarinstellingen, [Stichting II] en [Stichting IIb] (tezamen SPV Long Short). </para>
+        <para>De (alternatieve) bewaarinstellingen bewaren en administreren de financiële instrumenten van cliënten van [eiseres]. De posities van cliënten met een Basic of Custody profiel worden uitsluitend in [Stichting] bewaard. De posities van cliënten met de profielen Active, Trader en Day-Trader kunnen in alle drie bewaarinstellingen bewaard worden.</para>
+        <para>De stichtingen bewaarden op balansdatum 30 september 2016 ruim 1,88 miljard euro aan posities voor cliënten van [eiseres].</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <parablock>
+        <para>De bestuurders van [eiseres] en [vergunninghouder] zijn (ten tijde van de periode in geding) [naam bestuurder I] en [naam bestuurder II]. De bestuurders van [naam holding] zijn (ten tijde van de periode in geding) [naam bestuurder III] en [naam bestuurder IV]. </para>
+        <para>[Naam bestuurder I], [naam bestuurder II], [naam bestuurder III], [naam bestuurder IV] en [naam V] ([fonds]) houden (ten tijde van de periode in geding) gezamenlijk ongeveer 95% van de aandelen in [naam holding]. [Naam bestuurder II] en [naam bestuurder III] hebben gezamenlijk een meerderheid. </para>
+        <para>De bestuurders van de bewaarinstellingen (ten tijde van de periode in geding) zijn [naam VI] en [naam VII].   </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7</nr>
+      <para>Sinds december 2019 bezit de [onderneming II] 9,4% van de aandelen in het kapitaal van [eiseres]. Effectuering van de met de aandeelhouders van [eiseres] gesloten overeenkomst, waarbij [onderneming II] ook alle overige aandelen in [eiseres] zal verkrijgen, is afhankelijk van een verklaring van geen bezwaar die op 24 februari 2020 bij DNB is aangevraagd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Onderzoek en besluitvorming</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>De AFM is op 7 maart 2017 een onderzoek gestart naar de bedrijfsvoering van [eiseres] met als doel te bepalen of zij voldoet aan de vereisten die voortvloeien uit de Wft, in het bijzonder met betrekking tot de integere en beheerste bedrijfsuitoefening en het voorkomen en beheersen van belangenconflicten. Meer specifiek richtte het onderzoek zich onder andere op belangenconflicten, het orderuitvoeringsproces, intern matchen en compliance. Naar aanleiding van de ontvangen informatie heeft de AFM ook de wijze van besturen (“governance”), belangenverstrengeling, zorgvuldige behandeling van cliënten en vermogensscheiding nader onderzocht. </para>
+        <para>Naast het verzenden van informatieverzoeken heeft de AFM een onderzoek ter plaatse op het kantoor van [eiseres] verricht. Tijdens dit onderzoek heeft de AFM digitale documenten en een kopie van een deel van de orderadministratie ontvangen en gesprekken gevoerd met de beleidsbepalers en medewerkers van [eiseres]. De resultaten van het onderzoek heeft de AFM neergelegd in een (definitief) onderzoeksrapport inzake toezicht op de naleving van de Wft van 23 april 2018 (het onderzoeksrapport I). </para>
+        <para>In het rapport wordt geconcludeerd dat [eiseres] in de periode van 1 januari 2017 tot 23 april 2018 geen adequaat beleid heeft gevoerd dat een integere uitoefening van haar bedrijf waarborgt, zodat [eiseres] niet voldoet aan artikel 4:11, eerste lid, van de Wft. Het rapport concludeert dat er bij [eiseres] een aanzienlijk aantal wetsovertredingen is vastgesteld, waarmee stelselmatig de Wft wordt overtreden, en die het vertrouwen in de financiële onderneming of de financiële markten kunnen schaden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Na bij brief van 21 december 2017 het voornemen daartoe aan [eiseres] kenbaar te hebben gemaakt en kennis te hebben genomen van de zienswijze van [eiseres] daarop, heeft de AFM [eiseres] bij het lastbesluit van 23 april 2018 een last onder dwangsom opgelegd op grond van artikel 1:79, eerste lid, aanhef en onder a, van de Wft.  </para>
+        <para>De AFM heeft [eiseres] gelast binnen zes maanden ervoor zorg te dragen dat zij conform artikel 4:11, eerste lid, van de Wft een adequaat beleid voert, welk beleid een integere uitoefening van haar bedrijf waarborgt. [eiseres] is opgedragen de in het rapport genoemde overtredingen te beëindigen door tien acties te ondernemen. De dwangsom bedraagt </para>
+        <para>€ 100.000,- per actie, indien na de genoemde termijn niet wordt voldaan aan de last, met een maximum van € 1.000.000,-.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>Bij het bestreden besluit I van 10 januari 2019 heeft de AFM het lastbesluit gedeeltelijk herroepen door lastonderdelen 3 en 5 gedeeltelijk te laten vervallen en lastonderdelen 6 en 7 geheel te laten vervallen. De AFM heeft het lastbesluit voor het overige in stand gelaten. Ondanks de vervallen en gedeeltelijk vervallen lastonderdelen is er in de visie van de AFM nog steeds sprake van een stelselmatige overtreding van artikel 4:11, eerste lid, van de Wft, nu [eiseres] diverse normen overtreedt die gezamenlijk aan de gehele bedrijfsvoering van [eiseres] raken. Hierdoor kan het vertrouwen in de [eiseres] of de financiële markten worden geschaad.</para>
+        <para>De lastonderdelen waaraan [eiseres] (nog) diende te voldoen zijn de volgende (hierbij is de nummering aangehouden zoals vermeld in het lastbesluit):</para>
+      </parablock>
+      <para />
+      <para>1. [eiseres] dient binnen zes maanden na dagtekening van het besluit te voorzien in een duidelijke, evenwichtige en adequate organisatiestructuur en daarmee te voldoen aan het vereiste om besluitvormingsprocedures en een organisatiestructuur vast te stellen, te implementeren en in stand te houden. Voorts dient binnen zes maanden na dagtekening van het lastbesluit [eiseres] ervoor zorg te dragen dat deze onderdelen van haar bedrijfsvoering voldoende inzichtelijk zijn vastgelegd en daarmee te voldoen aan het vereiste om op een passende en overzichtelijke wijze gegevens over de interne organisatie bij te houden. </para>
+      <para />
+      <para>2. [ [eiseres] zet zich bij het verlenen van beleggingsdiensten op een eerlijke, billijke en professionele wijze in voor de belangen van cliënten. Zij dient binnen zes maanden na dagtekening van het lastbesluit haar handelswijze op dusdanige wijze aan te passen dat zij niet langer de overtredingen begaat zoals deze zijn beschreven in paragraaf 4.3.3. van het onderzoeksrapport I. </para>
+      <para />
+      <para>3. [ [eiseres] treft binnen zes maanden na dagtekening van het lastbesluit voldoende adequate maatregelen ter bescherming van de rechten van cliënten op de aan hen toebehorende gelden en financiële instrumenten en past haar handelswijze daarop aan. </para>
+      <para />
+      <para>4. [ [eiseres] verstrekt binnen zes maanden na dagtekening van het lastbesluit juiste informatie over de bescherming van de rechten van cliënten op de aan hen toebehorende gelden en financiële instrumenten en past haar handelwijze daarop aan. </para>
+      <para />
+      <para>5. [ [eiseres] dient binnen zes maanden na dagtekening van het lastbesluit voor al haar cliënten invulling te geven aan de verplichting om cliëntonderzoek te doen ter voorkoming van witwassen en het financieren van terrorisme. </para>
+      <para />
+      <para>8.	[ eiseres] beschikt binnen zes maanden na dagtekening van het lastbesluit over een organisatieonderdeel dat op effectieve wijze de compliancefunctie uitoefent. </para>
+      <para />
+      <para>9. 	[ eiseres] voert binnen zes maanden na dagtekening van het besluit een adequaat beleid ten aanzien van het tegengaan van belangenverstrengeling. </para>
+      <para />
+      <para>10. 	[ eiseres] voert binnen zes maanden na dagtekening van het besluit een adequaat beleid ter zake het voorkomen en beheersen van belangenconflicten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <parablock>
+        <para>Na bij brief van 16 mei 2019 het voornemen daartoe en het onderzoeksrapport van dezelfde datum inzake controle van de last onder dwangsom (het onderzoeksrapport II) aan [eiseres] kenbaar te hebben gemaakt en kennis te hebben genomen van de zienswijze van [eiseres] daarop, heeft de AFM op 9 september 2019 de invorderingsbeschikking genomen. </para>
+        <para>De AFM heeft geconcludeerd dat [eiseres] aan lastonderdelen 3, 9 en 10 niet heeft voldaan, dat voor die onderdelen een dwangsom is verbeurd en dat [eiseres] daarom verplicht is om € 300.000,- te betalen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overwegingen</emphasis>
+        </para>
+      </parablock>
+      <para>3. Hoewel de AFM slechts voor drie lastonderdelen tot invordering van de opgelegde dwangsom is over gegaan, bespreekt de rechtbank ook de overige onderdelen van de last die in het bestreden besluit I nog aan [eiseres] worden tegengeworpen. Redengevend daartoe is dat [eiseres] zich op het standpunt heeft gesteld dat deze lastonderdelen ten onrechte zijn opgelegd, nu er in zoverre geen sprake is van wetsovertredingen door [eiseres]. Daarmee vervalt in de visie van [eiseres] ook de grondslag aan de conclusie van de AFM dat artikel 4:11, eerste lid, Wft stelselmatig is overtreden. Voorts is daartoe redengevend dat de publicatie mede betrekking heeft op deze lastonderdelen. </para>
+      <para>Daarbij is door de rechtbank steeds getoetst aan hetgeen in het lastbesluit en het daaraan ten grondslag liggende onderzoeksrapport I aan het lastonderdeel ten grondslag is gelegd, met uitzondering van hetgeen later in het bestreden besluit I is vervallen. [eiseres] wordt dus gevolgd in haar standpunt dat nu de beslissing op bezwaar (het bestreden besluit I) en het invorderingsbesluit ruim na het verstrijken van de begunstigingstermijn zijn genomen, deze niet de motivering van de last kunnen bevatten waaraan [eiseres] voorafgaand aan het verlopen van de termijn diende te voldoen, maar slechts een nadere uitleg achteraf kunnen geven. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Lastonderdeel 1: duidelijke, evenwichtige en adequate organisatiestructuur </emphasis>
+        </para>
+      </parablock>
+      <para>4.	[ Eiseres] betoogt dat uit het lastbesluit onvoldoende bleek wat van haar werd verwacht. De AFM heeft ten onrechte niet voorafgaand aan het lastbesluit onderzocht of werd voldaan aan de Administratieve Organisatie en Interne Controle (AO/IC) van maart 2018. Artikel 21, eerste lid, aanhef en onder a en f, van de Gedelegeerde Verordening staat tijdelijke afwijking toe, het bepaalde onder a kan geheel niet meer aan [eiseres] worden tegengeworpen en onduidelijk is hoe de overtreding onder onderdeel f kan worden geplaatst. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Op grond van artikel 29a, tweede lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft (BGfo) voldoet de bedrijfsvoering van een beleggingsonderneming aan – voor zover hier van belang – artikel 21 van de Gedelegeerde Verordening markten voor financiële instrumenten 2014 inzake organisatorische eisen.</para>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 21, eerste lid, van de Gedelegeerde Verordening (EU) 2017/565 (Gedelegeerde Verordening) voldoen beleggingsondernemingen aan de volgende organisatorische vereisten: </para>
+      </parablock>
+      <para>a. a) besluitvormingsprocedures en een organisatiestructuur vaststellen, implementeren en in stand houden die op duidelijke en gedocumenteerde wijze de rapportagelijnen specificeren en de functies en verantwoordelijkheden verdelen; </para>
+      <para>(…)</para>
+      <para>f) passende en overzichtelijke gegevens over hun bedrijf en interne organisatie bijhouden; </para>
+      <para>(…). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>De AFM heeft in het lastbesluit aan [eiseres] verweten op twee onderdelen een overtreding te hebben begaan, namelijk (1) dat zij geen duidelijke, evenwichtige en adequate organisatie heeft en (2) dat zij deze niet inzichtelijk heeft vastgelegd. Naar het oordeel van de rechtbank heeft de AFM dit voldoende duidelijk verwoord in het lastbesluit. </para>
+        <para>Dat de AFM, zoals zij heeft toegelicht in het aanvullende verweerschrift, abusievelijk heeft verwezen naar artikel 30 van het BGfo in plaats van naar artikel 29a, tweede lid, van het BGfo doet daaraan niet af. In samenhang met artikel 21 van de Gedelegeerde Verordening, welk artikel ook in het lastbesluit is aangehaald, moet aan vergelijkbare vereisten zijn voldaan. </para>
+        <para>Dat een gedeelte van de bepaling van artikel 21, eerste lid, aanhef en onder a, van de Gedelegeerde Verordening ook ziet op de niet langer aan [eiseres] tegengeworpen overtredingen ‘onduidelijke rapportagelijnen’ en de ‘verdeling van taken, verantwoordelijkheden en bevoegdheden’, betekent niet dat de gehele bepaling niet meer van toepassing is. Het eerste gedeelte van de bepaling ziet namelijk op het vaststellen van besluitvormingsprocedures en organisatiestructuur. Uit het door [eiseres] opgestelde plan van aanpak blijkt dat zij goed heeft begrepen welke tekortkomingen er waren en hoe die moesten worden opgepakt. Ook de omstandigheid dat zij binnen de termijn aan de last heeft voldaan duidt er op dat duidelijk voor haar moet zijn geweest welke gedragslijn van haar werd verlangd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>De AFM heeft op basis van de beschikbare documenten kunnen concluderen dat [eiseres] in de periode vanaf 1 januari 2017 (start onderzoek) tot na het lastbesluit haar bedrijfsvoering niet dusdanig had ingericht dat deze een beheerste en integere uitoefening van haar bedrijf waarborgt. </para>
+        <para>De AFM heeft vastgesteld dat de aansturing en besluitvorming van [eiseres] in de praktijk plaatsvond door de Management Board van de [onderneming groep], terwijl op papier werd beschreven dat dit door de Board of Directors van [eiseres] gebeurde. Het kernverwijt van de AFM aan [eiseres] is dat de besluitvorming inzake [eiseres] niet plaatsvond op de wijze zoals vastgelegd in de procedures en maatregelen van [eiseres] en dat [eiseres] in de praktijk werd aangestuurd door de Management Board van de groep. In de AO/IC van maart 2018 wordt weliswaar uiteen gezet welke maatregelen [eiseres] diende te nemen om de tekortkomingen te herstellen, maar [eiseres] toonde ten tijde van het lastbesluit niet aan dat de aansturing en besluitvorming inmiddels wel conform haar procedures en maatregelen waren geregeld. </para>
+        <para>De stelling van [eiseres] dat slechts tijdelijk van de procedures en maatregelen werd afgeweken vanwege persoonlijke omstandigheden, wordt door de rechtbank niet gevolgd. Aannemelijk is dat zonder tussenkomst van de AFM deze situatie niet was gewijzigd. Daarbij heeft de AFM terecht vastgesteld dat [eiseres] haar bedrijfsvoering ten tijde van het lastbesluit onvoldoende inzichtelijk had vastgelegd. De omschrijving van de bedrijfsvoering van [eiseres] in de AO/IC, het organogram en de Compliance Chart weken af van de praktijk. Hierdoor was niet inzichtelijk en bovendien onduidelijk hoe de organisatiestructuur was ingericht. Dit betekent dat sprake is van overtreding van het bepaalde in artikel 21, eerste lid, aanhef en onder f, van de Gedelegeerde Verordening. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <parablock>
+        <para>Het betoog van [eiseres] slaagt niet. De AFM heeft het lastonderdeel terecht opgelegd.</para>
+        <para>De dwangsom voor dit lastonderdeel is niet verbeurd, omdat alsnog, vóór het moment waarop de AFM overging tot het invorderen van de dwangsommen aan het lastonderdeel is voldaan. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Lastonderdeel 2: algemene zorgvuldigheidsnorm </emphasis>
+        </para>
+        <para>5.	[Eiseres] betoogt dat zij artikel 4:90, eerste lid, van de Wft niet heeft overtreden. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Op grond van artikel 4:90, eerste lid, van de Wft zet een beleggingsonderneming  zich bij het verlenen van beleggingsdiensten of nevendiensten op eerlijke, billijke en professionele wijze in voor de belangen van haar cliënten, handelt ook bij het verrichten van beleggingsactiviteiten eerlijk, billijk en professioneel en onthoudt zich van gedragingen die schadelijk zijn voor de integriteit van de markt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <parablock>
+        <para>De AFM heeft aan deze overtreding ten grondslag gelegd dat [eiseres] gunstigere voorwaarden hanteerde voor haar cliënt [fonds], te weten afwijkende tarieven, een op maat gemaakt risicomodel, waarbij diverse risico’s niet werden meegenomen, aanvullende onderpandstelling en het aanhouden van eigen middelen bij de bewaarinstelling ten behoeve van het afdekken van tekorten van [fonds]. Dit terwijl een groot deel van de orders via [fonds] verliep (in 2017 – voordat [eiseres] het intern matchen heeft beëindigd – was [fonds] in 90% van de gevallen de wederpartij van de, veelal niet-professionele, cliënt).  </para>
+        <para>Door die afwijkende behandeling, waar [eiseres] volgens de AFM gezien haar verwevenheid met [fonds] en verdienmodel bij gebaat was, bevoordeelde [eiseres] [fonds] substantieel ten opzichte van alle andere cliënten. De dagelijkse beleidsbepalers van [eiseres] waren deelnemer in [fonds] en profiteerden uit dien hoofde van de koersontwikkeling van [fonds]. Door bij de berekening van de risico’s van [fonds] niet alle risico’s te verdisconteren en niet conform haar ‘Margin Deficit Procedure’ in te grijpen bij [fonds], als er (forse) margin tekorten waren en zelfs orders voor [fonds] te blijven uitvoeren ondanks die tekorten, liepen andere cliënten risico’s zonder dat zij zich daarvan bewust waren. </para>
+        <para>De ‘margin’ vormt de onderliggende waarborg die dient als onderliggende dekking.</para>
+        <para>Als [fonds] niet aan haar verplichtingen had kunnen voldoen en [eiseres] de tekorten bij de bewaarinstellingen niet had kunnen dekken, had dit tot verhaal op de posities van alle andere cliënten kunnen leiden. Door deze handelswijze heeft [eiseres] zich niet op een evenwichtige en eerlijke, billijke en professionele wijze ingezet voor de belangen van al haar cliënten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>Volgens [eiseres] dient de AFM zich bij een vermeende overtreding van een open norm, zoals artikel 4:90, eerste lid, van de Wft, bij de toetsing terughoudend op te stellen. De rechtbank overweegt hieromtrent dat de wetgever er weliswaar voor heeft gekozen de invulling van de open norm in beginsel over te laten aan de beleggingsonderneming zelf, die daarbij een zekere ruimte toekomt, maar dat het vervolgens aan de AFM als toezichthouder is om te toetsen of de beleggingsonderneming dit op juiste wijze heeft gedaan en dus aan de open norm heeft voldaan. Verwezen zij bijvoorbeeld naar de uitspraken van het College van Beroep voor het Bedrijfsleven van 10 september 2013 (ECLI:NL:CBB:2013:104) en 20 juli 2017 (ECLI:NL:CBB:2017:274). </para>
+        <para>Met de AFM is de rechtbank van oordeel dat [eiseres] met haar handelwijze niet heeft voldaan aan de algemene zorgplicht jegens al haar cliënten. Voldoende is komen vast te staan dat [fonds] een specifieke, afwijkende behandeling van [eiseres] kreeg. Volgens [eiseres] werd haar cliënt [naam cliënt] tot op grote hoogte hetzelfde behandeld, maar de afspraken met [cliënt] zijn niet op één lijn te stellen met die met [fonds]. De AFM heeft op basis van het cliëntdossier vastgesteld dat bij [cliënt] niet, zoals bij [fonds], werd afgeweken van de NIB-profielen, dat zij niet gratis join orders kon inleggen, dat het bij [cliënt] niet zo was dat bepaalde posities niet werden meegenomen bij de vaststelling van het risico en dat [eiseres] bij [cliënt] ook naliet om bij margin-tekorten overeenkomstig de Margin Deficit Procedure te handelen. De behandeling van [fonds] behelsde in de kern dat er voor [fonds] een afwijkend risicoprofiel werd gehanteerd, waarin diverse risico’s niet waren verdisconteerd. </para>
+        <para>Niet wordt gevolgd dat de ongelijke voorwaarden en behandeling van [fonds] ten opzichte van andere cliënten, gelet op de bijbehorende risico’s, in het belang van de andere cliënten was. De AFM heeft aan de hand van het onderzoeksrapport I concreet onderbouwd dat [fonds] op verschillende momenten in de periode van 30 januari 2017 tot en met 8 juni 2017 daadwerkelijk forse margin-tekorten heeft gehad, hetgeen risico’s heeft meegebracht voor de andere cliënten van [eiseres], welke risico’s niet geborgd waren. Dat deze tekorten theoretisch van aard waren, maakt dit niet anders, nu de AFM heeft geconcludeerd dat [fonds], indien de risico’s zich – in extreme marktomstandigheden – voordoen, niet in staat zal zijn haar verplichtingen jegens de bewaarinstelling na te komen (zie nader bij lastonderdeel 3). Bovendien heeft [eiseres] in deze tekortsituaties niet gehandeld zoals zij heeft vastgelegd in haar procedures. [eiseres] heeft deze bevindingen niet weerlegd. </para>
+        <para>De overtreding is ook niet komen te vervallen door het feit dat [eiseres] het intern matchen voor [fonds] heeft beëindigd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Het betoog van [eiseres] slaagt niet. De AFM heeft het lastonderdeel terecht opgelegd. De dwangsom voor dit lastonderdeel is niet verbeurd, omdat alsnog aan het lastonderdeel is voldaan. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Lastonderdeel 3: vermogensscheiding  </emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1	[</nr>
+      <para>Eiseres] betoogt dat zij de vermogensscheidingsregels niet heeft overtreden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <parablock>
+        <para>De AFM is van oordeel dat [eiseres] vanaf 1 januari 2017 artikel 4:87, eerste lid, van de Wft overtreedt doordat zij onvoldoende adequate maatregelen heeft getroffen ter bescherming van de rechten van cliënten op de aan hen toebehorende gelden en financiële instrumenten. Er is onvoldoende scheiding tussen de financiële instrumenten en gelden van [eiseres] en die van haar cliënten en voorts voorzien de door [eiseres] getroffen maatregelen onvoldoende in de bescherming van de rechten van cliënten in het geval van faillissement of surseance van betaling van andere cliënten (fellow customer risk). </para>
+        <para>In het bestreden besluit heeft de AFM overwogen dat het voorgaande wordt veroorzaakt doordat [eiseres] op meerdere fronten de regels ten aanzien van vermogensscheiding overtreedt, omdat zij:</para>
+      </parablock>
+      <orderedlist numeration="loweralpha">
+        <listitem>
+          <para>margin-tekorten van [fonds] ten laste laat komen van de bewaarinstelling en daarmee ten laste laat komen van reguliere cliënten van [eiseres];</para>
+        </listitem>
+        <listitem>
+          <para>eigen middelen bij haar bewaarinstelling aanhoudt;</para>
+        </listitem>
+        <listitem>
+          <para>de gelden van cliënten niet aanhoudt in erkende geldmarktfondsen.<?linebreak?></para>
+        </listitem>
+      </orderedlist>
+      <para>In het invorderingsbesluit heeft de AFM geconcludeerd dat [eiseres] niet heeft voldaan aan het opgelegde lastonderdeel 3, omdat de overtredingen b) en c) op 24 oktober 2018 niet zijn beëindigd. De AFM heeft daarom besloten tot invordering van de verbeurde dwangsom van € 100.000,- voor dit onderdeel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Op grond van artikel 4:87, eerste lid, van de Wft treft een beleggingsonderneming adequate maatregelen:</para>
+      <para>a. 	ter bescherming van de rechten van cliënten op aan hen toebehorende gelden en financiële instrumenten; en</para>
+      <para>b. 	ter voorkoming van het gebruik van die gelden of financiële instrumenten, behoudens uitdrukkelijke instemming van de cliënt indien het financiële instrumenten betreft, voor eigen rekening door de beleggingsonderneming.</para>
+      <para />
+      <parablock>
+        <para>Op grond van het tweede lid van dit artikel kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld met betrekking tot:</para>
+      </parablock>
+      <para>a. 	de maatregelen ter bescherming van de rechten van de cliënt en ter voorkoming van het gebruik van financiële instrumenten of gelden van de cliënt; en</para>
+      <para>b. 	de wijze waarop instemming kan worden verkregen van de cliënt voor het gebruik van diens financiële instrumenten voor eigen rekening door de beleggingsonderneming.</para>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 165, eerste lid, van het BGfo draagt een beleggingsonderneming:</para>
+        <para>(…)</para>
+      </parablock>
+      <para>d. 	er zorg voor dat financiële instrumenten van cliënten die overeenkomstig artikel 165a bij een derde worden aangehouden, door middel van verschillend getitelde rekeningen in de boeken van de derde of door middel van andere vergelijkbare maatregelen waarmee hetzelfde beschermingsniveau wordt bereikt, kunnen worden onderscheiden van de financiële instrumenten die aan de beleggingsonderneming zelf toebehoren, en van de financiële instrumenten die aan de derde toebehoren;</para>
+      <para>e. 	er zorg voor dat de gelden van cliënten die overeenkomstig artikel 165b worden aangehouden op een rekening of rekeningen die kan of kunnen worden onderscheiden van alle rekeningen die worden gebruikt voor het aanhouden van gelden die aan de beleggingsonderneming zelf toebehoren;</para>
+      <para>(…).</para>
+      <para />
+      <parablock>
+        <para>Op grond van het tweede lid van dit artikel stelt de AFM regels met betrekking tot de maatregelen ter bescherming van de rechten van de cliënt en ter voorkoming van het gebruik van financiële instrumenten of gelden van de cliënt, bedoeld in artikel 4:87, eerste en tweede lid, van de wet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Deze regels heeft de AFM gesteld in de Nadere Regeling gedragstoezicht financiële ondernemingen Wft (Nrgfo). </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 7:17, eerste lid, van de Nrgfo kan een beleggingsonderneming die een beleggingsdienst verleent als bedoeld in onderdeel a, b of c van de definitie van het verlenen van een beleggingsdienst in artikel 1:1 van de wet voldoen aan het vereiste dat zij adequate maatregelen treft ter bescherming van de rechten van cliënten op aan hen toebehorende gelden of financiële instrumenten en ter voorkoming van het ongeoorloofd gebruik daarvan als bedoeld in artikel 4:87, eerste lid, van de wet door het sluiten van een schriftelijke overeenkomst met een cliënt, waarin tenminste is bepaald dat: </para>
+      </parablock>
+      <para>a. 	de door de beleggingsonderneming aangehouden financiële instrumenten die de cliënt toebehoren worden bewaard en geadministreerd:<?linebreak?>1. overeenkomstig het bepaalde in de Wet giraal effectenverkeer, of<?linebreak?>2. in een bewaarinstelling;</para>
+      <para>b. 	de gelden, als bedoeld in artikel 4:87, eerste lid, onder a, van de wet, worden aangehouden op een of meer rekeningen bij een bank ten name van de cliënt, of in een bewaarinstelling, indien de gelden ter uitvoering van een transactie in financiële instrumenten worden aangehouden;<?linebreak?>(…)<?linebreak?></para>
+      <parablock>
+        <para>Op grond van artikel 7:17, tweede lid, onder d en e, van de Nrgfo draagt de beleggings-onderneming er zorg voor dat de bewaarinstelling, bedoeld in het eerste lid, voldoet aan de volgende voorwaarden:</para>
+        <para>(…)</para>
+      </parablock>
+      <para>d.	de bewaarinstelling verricht geen andere activiteiten dan het bewaren en administreren van de financiële instrumenten, bedoel in het eerste lid, onderdeel a, of de gelden, bedoeld in het eerste lid, onder b;</para>
+      <para>e.	de bewaarinstelling treedt uitsluitend op in het belang van de cliënten van wie financiële instrumenten en gelden door de beleggingsonderneming bij de bewaarinstelling in bewaring zijn gegeven.</para>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 165b, eerste lid, aanhef en onder b, van het BGfo stort een beleggingsonderneming die gelden van een cliënt ontvangt deze gelden onmiddellijk op een of meer rekeningen bij een erkend geldmarktfonds indien de cliënt daarmee uitdrukkelijk heeft ingestemd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van het derde lid van dit artikel wordt voor de toepassing van het eerste lid, aanhef en onderdeel d, onder een erkend geldmarktfonds verstaan een erkend geldmarktfonds in de zin van artikel 1, vierde lid, van de gedelegeerde uitvoeringsrichtlijn markten voor financiële instrumenten 2014 (MIFID II Gedelegeerde richtlijn 2017/593/EU; Gedelegeerde Richtlijn). </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 1, vierde lid, van de Gedelegeerde Richtlijn wordt onder ‘erkend geldmarktfonds’ verstaan een instelling voor collectieve belegging die in het kader van Richtlijn 2009/65/EG een vergunning heeft gekregen dan wel onder toezicht staat en, indien van toepassing, een vergunning van een autoriteit heeft gekregen naar het nationale recht van de lidstaat die de vergunning verleent, en die aan alle volgende voorwaarden voldoet:</para>
+      </parablock>
+      <orderedlist numeration="loweralpha">
+        <listitem>
+          <para>haar primaire beleggingsdoelstelling moet zijn dat de intrinsieke waarde van de instelling constant a pari (exclusief winsten) dan wel op de waarde van het aanvangskapitaal plus winsten wordt gehouden;</para>
+        </listitem>
+        <listitem>
+          <para>om deze primaire beleggingsdoelstelling te verwezenlijken, mag zij uitsluitend beleggen in hoogwaardige geldmarktinstrumenten met een looptijd of een resterende looptijd van niet meer dan 397 dagen of met periodieke rendementsaanpassingen die aansluiten bij een dergelijke looptijd, en met een gewogen gemiddelde looptijd van 60 dagen. Zij mag deze doelstelling ook verwezenlijken door bij wijze van nevenactiviteit in deposito's bij kredietinstellingen te beleggen;</para>
+        </listitem>
+        <listitem>
+          <para>zij moet liquiditeit verschaffen door afwikkeling op dezelfde dag of de dag daarop.</para>
+        </listitem>
+      </orderedlist>
+      <para />
+      <para>a. <emphasis role="italic">a) Tekorten [fonds]</emphasis></para>
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>De AFM heeft [eiseres] verweten dat zij de posities van haar cliënten in dezelfde bewaarinstellingen bewaarde, waaronder ook de posities van [fonds]. Door het structureel laten ontstaan en voortbestaan van tekorten van [fonds] liepen de overige cliënten het risico dat hun middelen zouden worden aangewend om de tekorten van [fonds] te voldoen (fellow customer risk). [Eiseres] hanteert immers een afwijkend risicomodel voor [fonds] waarin niet alle risico’s zijn meegenomen en staat toe dat [fonds] op basis van het – onvolledige – risicomodel berekende tekorten niet aanzuivert. Het risico op de posities van [fonds] was daarbij hoger dan de zekerheid die dit risico diende te waarborgen. Indien er sprake zou zijn geweest van extreme marktomstandigheden en er daadwerkelijk een negatief resultaat was behaald door [fonds], dan was dit ten laste van de bewaarinstelling en dus van de overige cliënten gekomen.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <para>De beroepsgronden van [eiseres] vertonen grotendeels overlap met hetgeen is aangevoerd bij lastonderdeel 2. De rechtbank verwijst dan ook naar overwegingen 5.1 tot en met 5.4 van deze uitspraak. De AFM heeft terecht voorop gesteld dat artikel 4:87, eerste lid, van de Wft vereist dat [eiseres] volledige bescherming biedt aan de rechten van cliënten op aan hen toebehorende gelden en financiële instrumenten. Het betoog van [eiseres] dat de norm van artikel 4:87, eerste lid, van de Wft niet zelfstandig beboetbaar is, omdat deze norm nader is uitgewerkt in de Nrgfo, kan niet worden gevolgd. Artikel 4:87, eerste lid, van de Wft bevat een zelfstandige norm die [eiseres] te allen tijde dient na te leven. Hoewel duidelijker was geweest als artikel 7:17, tweede lid, onder e, van de Nrgfo  specifiek in het lastbesluit was genoemd met betrekking tot dit onderdeel, doet dit er niet aan af dat de AFM voldoende heeft gemotiveerd welke overtreding ongedaan moest worden gemaakt en dit slechts een nadere invulling is van de artikelen 4:87 van de Wft en 165, tweede lid, van het BGfo die wel zijn genoemd. Dat artikel 7:17 NRgfo zich niet tot de beleggingsonderneming richt wordt niet gevolgd gelet op de aanhef van het tweede lid. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.6</nr>
+      <para>Het betoog van [eiseres] slaagt niet. De AFM heeft het lastonderdeel onder a) terecht opgelegd. Omdat door [eiseres] alsnog aan dit lastonderdeel is voldaan ligt dit punt niet aan de verbeuring van de dwangsom ten grondslag. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">b) Eigen middelen bij bewaarinstelling</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.7</nr>
+      <para>Ingevolge  artikel 7:17, tweede lid, onder d, van het Nrgfo dient de beleggingsonderneming ervoor te zorgen dat de bewaarinstelling  geen andere activiteiten verricht dan het bewaren en administreren van de financiële instrumenten. Uit de toelichting (Stc. 2006, 233, nr. 27, p. 55) volgt dat een bewaarinstelling uitsluitend financiële instrumenten en gelden mag bewaren die toebehoren aan cliënten van de beleggingsonderneming. Een bewaarinstelling mag geen financiële instrumenten en gelden bewaren die toebehoren aan de beleggingsonderneming zelf. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.8</nr>
+      <parablock>
+        <para>De rechtbank volgt [eiseres] in haar standpunt dat in het bestreden besluit I geen nieuwe overtredingen of gedragslijnen mogen worden opgelegd. Het lastbesluit is bepalend, nu de beslissing op bezwaar dateert van na het verstrijken van de begunstigingstermijn en na het onderzoek van de AFM naar het verbeuren van de last. Bij een andere uitleg zou voor [eiseres] niet duidelijk zijn hoe zij aan de last zou moeten voldoen. </para>
+        <para>De AFM heeft echter in het lastbesluit al aan [eiseres] verweten dat zij in strijd met de vermogensscheidingsregels eigen middelen aanhoudt in dezelfde bewaarinstelling als waarin de middelen van andere cliënten worden aangehouden, hetgeen gelet op de vereisten van vermogensscheiding zeer ernstig is. Ook in de terugkoppelingsbrieven van 7 mei 2018, 27 juli 2018 en 8 oktober 2018 tijdens de begunstigingstermijn is hieraan aandacht besteed. </para>
+        <para>Hoewel het duidelijker was geweest als de AFM dit artikel ook al in het lastbesluit had genoemd, is de overtreding wel terug te herleiden tot de bepaling genoemd in artikel 7:17, tweede lid, onder d, van het Nrgfo, welk artikel een nadere uitwerking van artikel 4:87 van de Wft is. Dat het lastbesluit zich in dit verband met name richtte op de loan on pledge, die na beëindiging ervan door de AFM niet langer in dit kader aan [eiseres] werd tegengeworpen, doet aan het voorgaande niet af, nu de strekking van het door de AFM aan [eiseres] gemaakte verwijt hetzelfde is gebleven. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.9</nr>
+      <parablock>
+        <para>Voor een aantal rekeningen van [eiseres] binnen de bewaarinstellingen heeft de AFM na het verstrijken van de begunstigingstermijn vastgesteld dat de rekeningen geen rechten van [eiseres] bevatten en/of een nauw samenhangende werkzaamheid van de administratie omvatten. [eiseres] beschikt echter ook over rekeningen (illiquide posities en AutoFX-rekeningen) binnen de bewaarinstellingen waar financiële instrumenten op worden bewaard die aan [eiseres] toebehoren. </para>
+        <para>In het onderzoeksrapport II en in het invorderingsbesluit (en in het aanvullende verweerschrift als nadere toelichting) is voldoende gemotiveerd dat de activiteiten van de bewaarinstellingen met betrekking tot deze rekeningen niet slechts beperkt zijn tot het bewaren van financiële instrumenten en gelden van cliënten. Nu de bewaarinstellingen ook financiële instrumenten en gelden bewaren die aan [eiseres] zelf toebehoren, terwijl [eiseres] geen cliënt van de bewaarinstellingen is, en gelet op de ratio van de bepaling ook niet kán zijn, verrichten de bewaarinstellingen meer activiteiten dan volgens artikel 7:17, tweede lid, onder d, van het Nrgfo zijn toegestaan. </para>
+        <para>Dat [eiseres] zelf middelen aanhoudt bij dezelfde bewaarinstellingen als haar cliënten heeft de AFM gelet op de vereisten van vermogensscheiding terecht zeer ernstig geacht. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">c) Geen erkende geldmarktfondsen</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.10</nr>
+      <para>Op grond van artikel 165b eerste lid, aanhef en onder b, van het BGfo stort een beleggingsonderneming die gelden van een cliënt ontvangt deze gelden onmiddellijk op een of meer rekeningen bij een erkend geldmarktfonds indien de cliënt daarmee uitdrukkelijk heeft ingestemd. In het derde lid van dit artikel wordt aangegeven wat onder een erkend geldmarktfonds wordt verstaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.11	[</nr>
+      <para>Eiseres] betoogt dat de voorwaarden uit artikel 165b van het BGfo niet op de door haar gekozen vermogensstructuur van toepassing zijn en indien dit wel het geval is, cliënten geen gelden bij [eiseres] of de bewaarinstelling aanhouden, maar slechts financiële instrumenten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.12	[</nr>
+      <parablock>
+        <para>Eiseres] beschikt niet over een vergunning van DNB om opvorderbare gelden van haar cliënten aan te trekken. Het is voor cliënten daarom niet mogelijk om een saldo in geld bij [eiseres] aan te houden. Op grond van artikel 165b eerste lid, aanhef en onder b, van het BGfo kan [eiseres] de gelden onderbrengen bij een bank, of na instemming van de cliënt, bij een erkend geldmarktfonds. Een geldmarktfonds moet aan strenge eisen voldoen, zodat zij net zo veilig als een bank mag worden geacht. De bedoeling van de wettelijke regeling voor het aanhouden van cliëntengelden is dat dit buiten het vermogen van de beleggings-onderneming en op een transparante en zo veilig mogelijke manier plaatsvindt. </para>
+        <para>De rechtbank volgt de AFM in haar standpunt dat ook als de gelden via een bewaarinstelling worden aangehouden voldaan moet worden aan artikel 165b, eerste lid, van het BGfo. </para>
+        <para>Uit artikel 7:17, eerste lid, onderdeel b, van de NRfgo volgt dat gelden kunnen worden aangehouden in een bewaarinstelling met het oog op de bepalingen te voldoen aan de  vermogensscheiding. Dit  stelt de hoofdregel van artikel 165b BGfo niet terzijde. <?linebreak?></para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.13</nr>
+      <parablock>
+        <para>Ten behoeve van het aanhouden van gelden van cliënten heeft [eiseres] [vergunninghouder] verzocht geldmarktfondsen op te richten en te beheren om daar de gelden van cliënten van [eiseres] in onder te brengen. Deze door [vergunninghouder] opgerichte geldmarktfondsen zijn de Cash Funds. </para>
+        <para>Het geld dat door cliënten wordt overgemaakt of vrijkomt op hun rekening bij [eiseres] wordt door [eiseres] (vrijwel) direct na ontvangst omgezet in participaties in één van de Cash Funds van [fonds I] of [fonds II]. Onder [fonds I] en [fonds II] vallen diverse subfondsen, waaronder het subfonds van [fonds I] [subfonds I] en van [fonds II] [subfonds II] die beiden fungeren als Cash Funds. Dat de Cash Funds niet voldoen aan de vereisten van erkende geldmarktfondsen wordt door [eiseres] niet betwist. De AFM heeft zich op het standpunt gesteld dat, in afwijking van de onder 6.3 genoemde wettelijke vereisten, 64% van de instrumenten in de portefeuille van de Cash Funds een resterende looptijd van 1 jaar of meer heeft en dat de gemiddelde looptijd van de portefeuille 1,52 jaar is. Dit is langer dan de toegestane looptijd waaraan een erkend geldmarktfonds op basis van de wet aan moet voldoen. De resterende looptijd mag namelijk niet langer zijn dan 397 dagen en de gewogen gemiddelde looptijd moet gemiddeld 60 dagen zijn. Het voorgaande brengt risico’s voor cliënten met zich en kan daarom niet als veilig alternatief voor een bank worden beschouwd. </para>
+        <para>Nu niet aan die voorwaarde is voldaan kon de AFM reeds concluderen dat geen sprake is van een erkend geldmarktfonds waarvan [eiseres] gebruik maakt en kan bespreking van de overige wettelijke voorwaarden achterwege blijven. </para>
+        <para>De rapportages van [rapportage I] en [rapportage II] waarnaar [eiseres] heeft verwezen doen daaraan niet af. </para>
+        <para>Dat de AFM bij besluit van 20 januari 2017 heeft ingestemd met het verzoek van [eiseres] tot goedkeuring van een alternatieve regeling voor het beschermen van rechten van cliënten met betrekking tot aan die cliënten toebehorende financiële instrumenten en gelden, betekent niet dat zij de door [eiseres] opgezette vermogensstructuur in al haar facetten heeft beoordeeld en goedgekeurd en dat in niet-erkende geldmarktfondsen mag worden belegd. De AFM heeft in het besluit vermeld dat de alternatieve regeling voor vermogensscheiding dient te voldoen aan dezelfde vereisten als een beleggersgiro, zoals bedoeld in artikel 7:17 van het Nrgfo, met uitzondering van de kredietfaciliteit die [Stichting II] bij een bank heeft.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.14</nr>
+      <para>Nu ten tijde van het lastbesluit niet aan a), b) en c) werd voldaan is lastonderdeel 3 van de last onder dwangsom terecht opgelegd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Invordering dwangsom lastonderdeel 3</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank heeft de AFM tevens terecht vastgesteld dat de dwangsom voor lastonderdeel 3 is verbeurd, omdat de AFM heeft vastgesteld dat de overtreding van artikel 4:87, eerste lid, van de Wft (zie rechtsoverweging 6.2) niet geheel binnen de begunstigingstermijn is beëindigd. </para>
+        <para>De AFM heeft in het rapport inzake de hercontrole van de last onder dwangsom van 16 mei 2019 vastgesteld dat [eiseres] de overtreding onder a) tijdig heeft beëindigd (zie ook rechtsoverweging 6.6). <?linebreak?>Uit rechtsoverweging 6.9 volgt dat de overtreding onder b) van lastonderdeel 3 niet geheel is beëindigd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Ten aanzien van de overtreding onder c) (het niet aanhouden van gelden in erkende geldmarktfondsen) heeft [eiseres] betoogd dat zij naar aanleiding van het lastbesluit de beheerder van de Cash Funds heeft verzocht deze om te zetten in erkende geldmarktfondsen en dat zij heeft gekozen voor de [geldmarktfonds]. Zij betoogt dat de AFM niet de bevoegde toezichthouder is om hierover te oordelen, betwist dat dit geen erkende geldmarktfondsen zijn en meent te hebben voldaan aan de last. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <parablock>
+        <para>De AFM is de bevoegde toezichthouder om te oordelen of artikel 165b, eerste lid, BGfo is overtreden. Dat de toezichthouder in het land van vestiging van de [geldmarktfonds] toeziet op deze fondsen doet hieraan niet af, nu de AFM de aangewezen toezichthouder is ten aanzien van de vraag of [eiseres] voldoet aan de vereisten van artikel 165b, eerste lid, BGfo. </para>
+        <para>De AFM heeft zich terecht op het standpunt gesteld dat het beleggingsbeleid niet voldoet aan de criteria zoals die zijn opgenomen in artikel 1, vierde lid, van de Gedelegeerde Richtlijn, nu zij niet uitsluitend beleggen in hoogwaardige geldmarktinstrumenten. Van een onjuiste lezing van dit artikel door de AFM is de rechtbank niet gebleken. </para>
+        <para>Uit het woord ‘primary’ blijkt niet dat in meer instrumenten zou mogen worden belegd dan opgenomen in artikel 1, vierde lid, onder b, van de Gedelegeerde Richtlijn. De AFM merkt terecht op dat secundaire doelstellingen geen afbreuk mogen doen aan de primaire doelstelling. Andere instrumenten passen niet bij de doelstelling van de wetgever dat er een zo hoog mogelijk beschermingsniveau moet worden geboden. Voor het oordeel dat op dit vlak prejudiciële vragen dienen te worden gesteld, ziet de rechtbank dan ook geen aanleiding. </para>
+        <para>De AFM heeft haar onderzoek verricht op grond van de informatie (prospectus en de statuten in de vorm van Articles of incorporation) die zij van [eiseres] heeft ontvangen. </para>
+        <para>Aan de hand van het beleggingsbeleid van de subfondsen van de [geldmarktfonds] heeft de AFM vastgesteld dat deze fondsen primair in geldmarktinstrumenten beleggen, maar dat zij daarnaast ook in financiële derivaten, retrocessie-overeenkomsten en deelnemingsrechten in andere UCITS kunnen beleggen en dat hiervan in de praktijk ook gebruik wordt gemaakt. Het [subfonds A] en het [subfonds B] beleggen in retrocessie-overeenkomsten. Deze instrumenten kwalificeren niet als geldmarktinstrumenten als bedoeld in artikel 4, eerste lid, onder 17 MiFID II en artikel 11 van de Gedelegeerde Verordening. </para>
+        <para>Op grond van artikel 1, vierde lid, onder b, Gedelegeerde Richtlijn is het uitsluitend toegestaan te beleggen in hoogwaardige geldmarktinstrumenten of deposito’s. </para>
+        <para>Een (reversed) repo (een retrocessie-overeenkomst of een deelnemingsrecht in een andere UCITS) is geen geldmarktinstrument of deposito als hiervoor bedoeld. </para>
+        <para>De fondsen beleggen derhalve in strijd met artikel 1, vierde lid, onder b, van de Gedelegeerde Richtlijn. Het memorandum van [rapport III] waar [eiseres] naar verwijst doet hieraan niet af, omdat dit memorandum slechts ingaat op de vraag of erkende geldmarktfondsen in reversed repo’s zouden mogen beleggen, welk standpunt niet gevolgd wordt. Verder is het standpunt van de AFM op meer gebaseerd dan uitsluitend het gebruik van reversed repo’s. </para>
+        <para>Dat [eiseres] opnieuw de door haar gekozen structuur moet veranderen hetgeen tot onrust voor haar cliënten kan leiden en ook impact op de [geldmarktfonds] zal hebben, komt voor rekening en risico van [eiseres]. [Eiseres] heeft ervoor gekozen de cliëntgelden onder te brengen bij niet erkende geldmarktfondsen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Lastonderdeel 4: onjuiste informatieverstrekking</emphasis>
+        </para>
+        <para>8.	[Eiseres] betoogt dat de artikelen 4:19, tweede lid en artikel 4:20, eerste en derde lid, van de Wft niet zijn overtreden en dat er geen grondslag was voor het opleggen van de last onder dwangsom op dit punt. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Op grond van artikel 4:19, tweede lid, van de Wft is de door een financiële onderneming aan cliënten verstrekte of beschikbaar gestelde informatie, waaronder reclame-uitingen, ter zake van een financieel product, financiële dienst of nevendienst correct, duidelijk en niet misleidend.</para>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 4:20, eerste lid, van de Wft – voor zover hier relevant – verstrekt een beleggingsonderneming voorafgaand aan het verlenen van een beleggingsdienst de cliënt informatie voor zover dit redelijkerwijs relevant is voor een adequate beoordeling van die dienst of dat product. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de in de vorige volzin bedoelde informatie.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In de Beleidsregel Informatieverstrekking (Stcr. 2013, nr. 26584) zijn de begrippen met betrekking tot informatieverstrekking nader geduid door de AFM.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>De AFM stelt dat [eiseres] deze artikelen overtreedt, omdat zij op de website en in de nieuwsbrieven van 14 februari en 26 maart 2018 onjuiste informatie heeft verstrekt over het separaat bewaren van beleggingen van cliënten en eigen middelen van [eiseres] in de bewaarinstellingen en over de Cash Funds.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <parablock>
+        <para>De rechtbank ziet, gelet op het voorgaande, geen grond voor het oordeel dat de AFM op basis van haar bevindingen ten onrechte heeft geconcludeerd dat [eiseres] feitelijk onjuiste informatie heeft verstrekt. Bestaande cliënten werden door de onjuiste informatie op website en in voormelde nieuwsbrieven van [eiseres] misleid en potentiële cliënten konden hierdoor de diensten van [eiseres] niet adequaat beoordelen.  </para>
+        <para>Bij de bespreking van lastonderdeel 3 in deze uitspraak is reeds geoordeeld dat [eiseres] zelf middelen aanhoudt bij de bewaarinstelling en dat het vermogen dus niet is afgescheiden van de andere cliënten. Dit was, in ieder geval ten tijde van het lastbesluit, niet juist vermeld op de website van [eiseres]. Dat op de website wordt gesproken over ‘beleggingen’ en niet over ‘vermogen’ doet daar niet aan af, nu met de tekst gesuggereerd wordt dat er een scheiding is tussen hetgeen van de cliënt is en hetgeen van de [eiseres] is, waardoor er weinig tot geen risico zou zijn. De stelling dat [eiseres] haar eigen middelen “voor zover mogelijk” uit de bewaarinstelling had overgeboekt, wijst er ook op dat zij nog steeds eigen middelen in de bewaarinstelling aanhield. Dat de overtreding ten tijde van de last zou zijn beëindigd en er dus geen grondslag was op dit punt te oordelen dat onjuiste informatie is verstrekt, wordt niet gevolgd, nu dit niet is aangetoond. </para>
+        <para>Voorts wordt de AFM gevolgd in haar overwegingen over de onjuist verstrekte informatie ten aanzien van de Cash Funds met betrekking tot de (niet erkende) geldmarktfondsen, de compensatie voor het negatieve rendement en de beheervergoeding die in rekening wordt gebracht. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <para>De AFM is gelet op het voorgaande terecht tot de conclusie gekomen dat [eiseres] artikel 4:19, tweede lid en artikel 4:20, eerste lid, van de Wft heeft overtreden. De hierop betrekking hebbende beroepsgronden falen. Lastonderdeel 4 van de last onder dwangsom is daarom terecht opgelegd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Lastonderdeel 5: overtreding Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft)</emphasis>
+        </para>
+        <para>9.	[Eiseres] betoogt dat ten tijde van het lastbesluit niet langer sprake was van de geconstateerde gebreken. Daarnaast wijst zij er op dat artikel 3, eerste lid, van de Wwft een open norm is en dat de gewijzigde last in de beslissing op bezwaar onvoldoende bepaald is. Tot slot stelt [eiseres] dat een steekproef van acht cliëntendossiers van in totaal meer dan 250.000 cliënten niet representatief is om te concluderen dat het beleid niet wordt toegepast. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <parablock>
+        <para>De AFM heeft in het bestreden besluit I terecht haar standpunt gehandhaafd dat [eiseres] artikel 3, eerste en tweede lid, artikel 4, eerste lid en artikel 8, tweede lid, van de Wwft heeft overtreden. Dat het lastonderdeel onvoldoende duidelijk is geformuleerd, wordt niet gevolgd. </para>
+        <para>In de beslissing op bezwaar heeft de AFM een deel van haar eerdere motivering laten vallen, maar nog steeds voldoende gemotiveerd uiteen gezet op welke onderdelen [eiseres] haar beleid en onderzoek diende te verbeteren. Het Wwft-beleid van [eiseres] is ontoereikend en ook uit de twaalf (in plaats van acht zoals door [eiseres] genoemd) onderzochte dossiers blijkt niet dat [eiseres] aan de Wwft-normen op het gebied van identificatie, verificatie, risico-gebaseerd onderzoek en periodieke monitoring voldoet. </para>
+        <para>De rechtbank acht de aselecte steekproef van twaalf cliëntdossiers (acht cliëntdossiers van natuurlijke personen en vier dossiers van rechtspersonen) voldoende representatief voor de door de AFM getrokken conclusies. In elk dossier is een tekortkoming geconstateerd. Daarnaast heeft de AFM het Wwft-beleid van [eiseres] betrokken. Beide onderdelen samen vormden voldoende grondslag om tot het oordeel te komen dat het Wwft-beleid en de uitvoering daarvan niet op orde was. </para>
+        <para>Dat [eiseres] voorafgaand aan het lastbesluit middels de door haar getroffen maatregelen wel aan de Wwft heeft voldaan, is niet met stukken onderbouwd en wordt daarom niet gevolgd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <parablock>
+        <para>Lastonderdeel 5 van de last onder dwangsom is daarom terecht opgelegd. </para>
+        <para>Omdat alsnog door [eiseres] aan dit lastonderdeel is voldaan, is hiervoor geen dwangsom ingevorderd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Lastonderdeel 8: inrichting compliance functie (interne organisatie) </emphasis>
+        </para>
+        <para>10.	[Eiseres] betoogt dat aan het lastbesluit een onjuist beoordelingskader ten grondslag is gelegd. Er wordt verwezen naar artikel 31c van het BGfo dat op dat moment niet meer van toepassing was op een beleggingsonderneming. Artikel 22 van de Gedelegeerde Verordening is vergelijkbaar, maar niet identiek. [eiseres] meent te voldoen aan dit laatstgenoemde artikel en heeft gewezen op een aantal rapporten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <parablock>
+        <para>De AFM heeft zich terecht op het standpunt gesteld, zoals nader toegelicht in de verweerschriften, dat [eiseres] niet over een voldoende effectieve compliance functie beschikt, omdat de Stafafdeling Compliance binnen [eiseres] onvoldoende adequaat de vereiste wettelijke taken uitvoert. De afdeling controleert de naleving van de wettelijke regels niet systematisch en doorlopend en ziet onvoldoende toe op de deugdelijkheid en effectiviteit van de interne normen, voorschriften, gedragsregels en procedures. Een proces gericht op effectieve controle ontbreekt. Zoals uit de verklaring van het hoofd van de compliance afdeling van [eiseres] naar voren komt, was de afdeling (mede vanwege de snel groeiende omvang van [eiseres]) nog niet “in control” en voerde zij nog veel van de haar toebedeelde taken niet volledig uit. Het Compliance Monitoring Programma 2017 blijkt in praktijk niet te zijn geïmplementeerd en daaruit is niet op te maken dat systematisch en continu werd getoetst. Specifieke risicoanalyses zijn niet uitgevoerd of waren geen onderdeel van het Programma. </para>
+        <para>Een aantal van de rapporten waar [eiseres] naar verwijst dateren van ná het lastbesluit en zijn dus slechts relevant in het kader van de vraag of de overtreding binnen de begunstigingstermijn is beëindigd. De rest van de rapporten bevestigt dat monitoring niet structureel maar ad hoc plaats vond. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2</nr>
+      <parablock>
+        <para>Hoewel de rechtbank met [eiseres] van oordeel is dat het voor de transparantie beter was geweest als ten tijde van het lastbesluit reeds was verwezen naar artikel 22, tweede lid, van de Gedelegeerde Verordening in plaats van naar het inmiddels gewijzigde artikel 31c, eerste lid, van de BGfo, doet dit niet af aan de bevoegdheid van de AFM met betrekking tot dit lastonderdeel. Beide artikelen zien namelijk op de omstandigheid dat de beleggingsonderneming dient te beschikken over een organisatieonderdeel dat op onafhankelijke en effectieve wijze een compliance functie uitoefent en daarbij aan bepaalde nader genoemde taken dan wel verantwoordelijkheden moet voldoen. Wat betreft inhoud komen de artikelen, afgezien van enkele nuances, overeen. </para>
+        <para>Mede gelet op de door de AFM gegeven toelichting in het lastbesluit en onderzoeksrapport I diende duidelijk te zijn hoe zij aan het lastonderdeel kon voldoen. Dat het voor [eiseres] duidelijk was, blijkt ook uit de vaststelling door de AFM dat zij binnen de begunstigings-termijn aan het lastonderdeel heeft voldaan. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3</nr>
+      <para>Het betoog van [eiseres] faalt. Gelet op het voorgaande is lastonderdeel 8 van de last onder dwangsom terecht opgelegd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Lastonderdeel 9 en 10: beleid belangenverstrengeling en -conflicten</emphasis>
+        </para>
+        <para>11.	[Eiseres] betoogt dat zij wel eigen beleid heeft met betrekking tot het tegengaan van belangenverstrengeling en het voorkomen en beheersen van belangenconflicten, en dat dit beleid wordt toegepast en uitgevoerd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.1</nr>
+      <parablock>
+        <para>De AFM heeft zich terecht op het standpunt gesteld dat [eiseres] niet beschikt over een eigen, afzonderlijk beleid omtrent het tegengaan van belangenverstrengeling en het voorkomen of beheersten van belangenconflicten. De AO/IC van [eiseres] bevat slechts een algemene en summiere beschrijving van de uitgangspunten van het beleid ten aanzien van belangenconflicten en in het document wordt niets opgemerkt over het tegengaan van belangverstrengeling. Verwezen wordt naar het beleid op [onderneming groep]sniveau. Dit bestaat uit de COI Policy, de Annex COI (van maart 2017) en het Compliance monitoring programma van [eiseres]. </para>
+        <para>Het beleid op groepsniveau is onvoldoende adequaat, omdat het te summier en algemeen is. De documenten bevatten geen werkinstructie of procesbeschrijvingen. De Annex COI is ad hoc en op verzoek van de AFM opgesteld, monitoring vindt in de praktijk niet plaats, terwijl dit wel is opgenomen in het monitoringsprogramma en niet is gebleken dat de beheersmaatregelen in de praktijk worden uitgevoerd. </para>
+        <para>Niet alle belangenconflicten zijn geïdentificeerd, wat wel is vastgelegd is niet evenredig aan de omvang van de organisatie van de beleggingsonderneming en aan de aard, schaal en complexiteit van de onderneming. Evidente situaties waarin belangenconflicten zich kunnen voordoen zijn niet geïdentificeerd, bijvoorbeeld de deelname in de Cash Funds, de participaties in [fonds] en de rol van de heer [naam VI]. Diverse belangenconflicten kunnen risico’s veroorzaken voor cliënten, terwijl deze risico’s door [eiseres] niet beheerst worden of beheerst worden door maatregelen die niet voldoende effectief blijken. De AFM heeft in dit verband verschillende voorbeelden genoemd, waaronder de verwevenheid van [eiseres] met andere entiteiten, de relatie tussen [eiseres] en [fonds] en de verhouding tussen [eiseres] en Cash Funds. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2	[</nr>
+      <parablock>
+        <para>Eiseres] kan voorts niet gevolgd worden in haar standpunt dat het gebrek in de besluiten niet is geconcretiseerd en dat voor haar onvoldoende duidelijk was wat aanpassing behoeft. De AFM heeft in het onderzoeksrapport I en in het lastbesluit aan de hand van voorbeelden uitgebreid omschreven waarom het beleid van [eiseres] tekort schiet. Daarbij heeft de AFM vermeld dat zij van [eiseres] verwacht dat zij een gedetailleerde en gedegen schriftelijke analyse maakt ter zake van het tegengaan en beheersen van belangenconflicten en belangenverstrengeling. [eiseres] dient de omstandigheden te omschrijven die een belangenconflict vormen of kunnen doen ontstaan dan wel tot belangenverstrengeling leiden en daarbij de te volgen procedures en de maatregelen om de belangenconflicten en – verstrengeling tegen te gaan of te beheersen vast te leggen, toe te passen en te monitoren. </para>
+        <para>De AFM heeft zich daarbij terecht op het standpunt kunnen stellen dat met de uitbreiding van het beleid naar aanleiding van het voornemen ten tijde van het lastbesluit nog niet werd voldaan aan de voorwaarden. Artikel 34, eerste lid, van de Gedelegeerde Verordening vereist in beginsel een volledige opsomming van de potentiële belangenconflicten. </para>
+        <para>De vergelijking met de beleidsdocumenten van Achmea Asset Management, HJCO en CapitalatWork kan niet tot het daarmee beoogde doel leiden, nu [eiseres] niet heeft aangetoond dat in die documenten van een gelijke situatie sprake is. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.3</nr>
+      <parablock>
+        <para>Het betoog van [eiseres] faalt. Gelet op het voorgaande heeft de AFM zich terecht op het standpunt gesteld dat [eiseres] artikel 4:11, eerste lid, aanhef en onder a, van de Wft in samenhang met artikel 23 BGfo en artikel 4:88, eerste lid, van de Wft en de artikelen 33 en 34 van de Gedelegeerde Verordening overtreedt.</para>
+        <para>De lastonderdelen 9 en 10 van de last onder dwangsom zijn dan ook terecht opgelegd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Invordering dwangsom lastonderdelen 9 en 10</emphasis>
+        </para>
+      </parablock>
+      <para>12. Naar het oordeel van de rechtbank heeft de AFM tevens terecht vastgesteld dat de dwangsom voor lastonderdelen 9 en 10 is verbeurd, omdat de overtredingen niet geheel binnen de begunstigingstermijn zijn beëindigd. </para>
+      <para>Op grond van de gedragslijn diende [eiseres] alle relevante situaties waaruit belangenconflicten kunnen ontstaan te identificeren, voorkomen en beheersen. De AFM heeft geconstateerd, zoals is neergelegd in het onderzoeksrapport II en het invorderingsbesluit, dat ook in het aangepaste beleid hieraan nog niet is voldaan, aangezien er evidente belangenconflicten niet zijn meegenomen in het beleid. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie ten aanzien van artikel 4:11, eerste lid, van de Wft</emphasis>
+        </para>
+      </parablock>
+      <para>13.	[ Eiseres] betoogt dat de AFM niet bevoegd was tot het opleggen van de last onder dwangsom. Van overtreding van artikel 4:11, eerste lid, van de Wft dan wel een daaraan ten grondslag liggende normschending is volgens haar geen sprake. Indien al sprake was van normschendingen dan waren deze niet van dien aard dat zij het vertrouwen in [eiseres] konden schaden en dat cliënten daardoor daadwerkelijk financiële risico’s hebben gelopen. Bovendien heeft [eiseres] voorafgaand aan de lastoplegging grote inspanningen geleverd om de vermeende tekortkomingen weg te nemen en haar bedrijfsvoering aan te passen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.1</nr>
+      <parablock>
+        <para>Aan de last onder dwangsom lagen, met de latere aanpassing in de beslissing op bezwaar, acht onderdelen ten grondslag. Zoals hiervoor is geoordeeld heeft de AFM die terecht opgelegd. </para>
+        <para>De bepalingen die [eiseres] heeft overtreden maken onderdeel uit van een wettelijk systeem dat mede beoogt de belangen van consumenten te beschermen. De overtredingen raken de kern van de bedrijfsvoering van [eiseres] en zien op alle aspecten van deze bedrijfsvoering. Gezien de veelheid en de ernst van deze overtredingen, staat voor de rechtbank vast dat door de overtredingen het vertrouwen in [eiseres] en de financiële markten kan worden geschaad. De rechtbank neemt hierbij in aanmerking dat [eiseres] veelvuldig bepalingen, die zien op de zorgvuldige dienstverlening aan cliënten, heeft overtreden. [eiseres] diende zich in te zetten voor een eerlijke, professionele en billijke behandeling van al haar cliënten, maar heeft stelselmatig de aan haar gelieerde cliënt [fonds] afwijkend behandeld, hetgeen niet alleen tot financieel voordeel voor [eiseres], maar ook tot ongelijkheid tussen [fonds] en de overige – veelal particuliere – cliënten heeft geleid en tot financiële risico’s voor de overige cliënten. Daarbij bestond bij [eiseres] geen transparante bedrijfsvoering. Zo ontbrak een evenwichtige organisatiestructuur, werden de vermogensscheidingsregels actief doorbroken, werd geen effectieve compliancefunctie gewaarborgd, werd belangenverstrengeling onvoldoende tegengegaan en werden belangenconflicten onvoldoende voorkomen en beheerst. Deze overtredingen hebben zich over langere tijd voorgedaan.</para>
+        <para>De rechtbank neemt bij haar oordeel in aanmerking dat [eiseres] zich heeft ingespannen om de overtredingen te beëindigen. Hierin is [eiseres] met betrekking tot vijf van de acht resterende lastonderdelen geslaagd. Echter, nu ook na de begunstigingstermijn nog drie ernstige overtredingen niet waren beëindigd, kon de AFM spreken van een structurele overtreding van artikel 4:11, eerste lid, van de Wft. </para>
+        <para>De AFM heeft dan ook terecht geconcludeerd dat de gevolgtrekking gerechtvaardigd is dat [eiseres] geen adequaat beleid heeft gevoerd dat een integere uitoefening van haar bedrijf waarborgt en dat [eiseres] artikel 4:11, eerste lid, van de Wft heeft overtreden. De AFM was reeds daarom bevoegd tot het opleggen van de last(onderdelen). Wat [eiseres] verder aanvoert, kan daaraan niet afdoen. Het betoog faalt. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Algemene beginselen van behoorlijk bestuur</emphasis>
+        </para>
+        <para>14. [Eiseres] betoogt dat de AFM van het opleggen van de last onder dwangsom had moeten afzien, gelet op de omstandigheden van het geval en de diverse beginselen van behoorlijk bestuur. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.1</nr>
+      <parablock>
+        <para>De rechtbank is van oordeel dat de AFM niet onevenredig heeft gehandeld door de last onder dwangsom aan [eiseres] op te leggen. De AFM heeft terecht gewezen op de omstandigheid dat [eiseres] stelselmatig, gedurende langere tijd een groot aantal wetsbepalingen heeft overtreden. De opgelegde last is gelet daarop niet te zwaar. </para>
+        <para>Dat [eiseres] een plan van aanpak had opgesteld met te treffen maatregelen betekent niet dat de AFM van handhavend optreden diende af te zien. Voor zover de ingezette acties uit het plan van aanpak voldoende werden geoordeeld, heeft de AFM deze niet aan het lastbesluit ten grondslag gelegd. Omdat ten aanzien van een groot aantal overtredingen in het plan van aanpak nog onvoldoende maatregelen waren opgenomen op grond waarvan de AFM kon concluderen dat de overtredingen waren beëindigd dan wel binnen korte termijn zouden worden beëindigd, heeft de AFM conform haar handhavingsbeleid hierop kunnen handhaven.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.2</nr>
+      <para>De rechtbank acht voorts geen grond aanwezig voor het oordeel dat de AFM in strijd met het motiverings-, rechtszekerheids- of zorgvuldigheidsbeginsel heeft besloten. Voor zover [eiseres] heeft gesteld dat de lastonderdelen onvoldoende duidelijk dan wel onvoldoende bepaald zijn en sprake is van open normen, verwijst de rechtbank naar hetgeen zij hierover eerder in deze uitspraak heeft overwogen bij de verschillende lastonderdelen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.3</nr>
+      <para>De stelling van [eiseres] dat sprake is van strijd met de goede procesorde, omdat er een uitgebreidere dan wel nieuwe motivering in het verweerschrift is opgenomen dan in het bestreden besluit, wordt niet gevolgd. De rechtbank heeft het bestreden, invorderings- en lastbesluit getoetst en, zoals hiervoor uiteen is gezet, is zij van oordeel dat de besluiten voldoende zijn gemotiveerd. Hetgeen in het verweerschrift is opgenomen ziet de rechtbank als een nadere toelichting hiervan. [eiseres] heeft daarnaast gelegenheid gehad om haar reactie daarop kenbaar te maken en heeft daar ook van gebruik gemaakt. Dat de AFM [eiseres] in het verweerschrift ongefundeerd in een kwaad daglicht stelt, volgt de rechtbank niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Publicatie</emphasis>
+        </para>
+        <para>15.	[Eiseres] betoogt dat niet tot publicatie mag worden overgegaan. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.1</nr>
+      <parablock>
+        <para>Op grond van artikel 1:97, eerst lid, van de Wft maakt de toezichthouder een besluit tot het opleggen van een bestuurlijke sanctie ingevolge deze wet openbaar. </para>
+        <para>De openbaarmaking geschiedt zodra het besluit onherroepelijk is geworden. Indien tegen het besluit bezwaar, beroep of hoger beroep is ingesteld, maakt de toezichthouder de uitkomst daarvan tezamen met het besluit openbaar. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van het vierde lid van artikel 1:97 van de Wft maakt de toezichthouder in afwijking van het eerste lid een besluit tot het opleggen van een last onder dwangsom ingevolge deze wet zo spoedig mogelijk openbaar, indien een dwangsom wordt verbeurd. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van het vijfde lid van artikel 1:97 van de Wft maakt de toezichthouder de indiening van een bezwaar of de instelling van een beroep of hoger beroep tegen een besluit als bedoeld in het derde of vierde lid, alsmede de beslissing op bezwaar en de uitkomst van dat beroep of hoger beroep, zo spoedig mogelijk openbaar, tenzij het besluit op grond van artikel 1:98 niet openbaar is gemaakt.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 1:98, eerste lid, van de Wft – zoals dit artikel luidt sinds 1 juli 2018 - wordt openbaarmaking op grond van artikel 1:97 uitgesteld of geschiedt in zodanige vorm dat de openbaar te maken gegevens niet herleidbaar zijn tot afzonderlijke personen, voor zover: </para>
+      </parablock>
+      <para>a. 	die gegevens herleidbaar zijn tot een natuurlijk persoon en bekendmaking van zijn persoonsgegevens onevenredig zou zijn; </para>
+      <para>b. 	betrokken partijen in onevenredige mate schade zou worden berokkend; </para>
+      <para>c. 	een lopend strafrechtelijk onderzoek of een lopend onderzoek door de toezichthouder naar mogelijke overtredingen zou worden ondermijnd; of </para>
+      <para>d. 	de stabiliteit van het financiële stelsel in gevaar zou worden gebracht. </para>
+      <para>Op grond van het tweede lid blijft openbaarmaking op grond van artikel 1:97 achterwege, indien openbaarmaking overeenkomstig het eerste lid: </para>
+      <para>a. 	onevenredig zou zijn gezien de geringe ernst van de overtreding, tenzij het een besluit tot het opleggen van een bestuurlijke boete betreft; </para>
+      <para>b. 	niet in overeenstemming is met het doel van de opgelegde bestuurlijke sanctie, tenzij het een besluit tot het opleggen van een bestuurlijke boete betreft; of </para>
+      <para>c. 	de stabiliteit van het financiële stelsel in gevaar zou brengen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.2</nr>
+      <parablock>
+        <para>De AFM is op grond van de wet verplicht het lastbesluit zo spoedig mogelijk openbaar te maken als de dwangsom wordt verbeurd. Het is, zoals de AFM heeft toegelicht in haar verweerschrift, vaste praktijk om bij het opleggen van een last onder dwangsom direct een besluit te nemen over de vroegtijdige openbaarmaking ervan. Als na verbeuring van de dwangsom eerst een voornemen en vervolgens een zienswijze zouden moeten worden genomen voordat een publicatiebesluit kan worden genomen, verstrijkt er veel tijd voordat tot publicatie kan worden overgegaan. </para>
+        <para>In dit geval kon op het moment van verbeuring van de dwangsom echter nog niet tot publicatie worden overgegaan. De begunstigingstermijn was weliswaar op 24 oktober 2018 verstreken, maar gelet op de omvang en complexiteit van het onderzoek naar de naleving van het lastbesluit heeft de AFM pas bij besluit van 9 september 2019 kunnen vaststellen dat er op onderdelen van rechtswege op 24 oktober 2018 dwangsommen waren verbeurd. </para>
+        <para>Dat de AFM in deze specifieke situatie niet tot publicatie is overgegaan voordat zij dit na onderzoek had vastgesteld, acht de rechtbank zorgvuldig en juist in belang van [eiseres]. Daarbij heeft de AFM [eiseres] op meerdere momenten op de hoogte gehouden van de stand van zaken met betrekking tot de publicatie en bij besluit van 17 januari 2020 (publicatiebesluit II) een nadere afweging gemaakt. De rechtbank is van oordeel dat de AFM dit terecht als een aanvulling op de eerdere besluitvorming heeft gezien. De AFM is niet teruggekomen op haar eerdere besluit tot publicatie maar heeft in publicatiebesluit II slechts een nieuwe publicatietekst opgenomen. De AFM merkt daarover terecht op dat de oorspronkelijke tekst in Publicatiebesluit I, gelet op het tijdsverloop, geen transparante weergave van de actuele stand van zaken meer zou weergeven. De rechtbank ziet niet in hoe [eiseres] door deze handelswijze zou zijn benadeeld. Bovendien is [eiseres] na publicatiebesluit II nog ruim in de gelegenheid gesteld haar gronden hiertegen in te dienen en heeft zij daar ook gebruik van gemaakt. </para>
+        <para>De stelling van [eiseres] dat door het verstrijken van de tijd de met de publicatie te dienen doelen niet meer zouden kunnen worden bereikt, wordt niet gevolgd. Het door de AFM genoemde maatschappelijk belang om de marktdeelnemers te informeren over de overtredingen en te waarschuwen, alsmede de generaal preventieve werking ervan door marktpartijen in te lichten over het handhavend optreden van de toezichthouder en de mogelijke gevolgen van het overtreden van de Wft, blijven van toepassing.   </para>
+        <para>De last onder dwangsom is opgelegd vanwege overtreding van artikel 4:11 van de Wft. </para>
+        <para>Dat daaraan andere overtredingen ten grondslag liggen, waaronder overtreding van de Wwft, maakt niet dat de last op grond van die wetten is opgelegd en op dat punt geen grondslag voor publicatie zou zijn. De AFM is dan ook niet gehouden de verwijzing naar de overtreding van de Wwft (en Sanctiewet) zwart te lakken.  </para>
+        <para>Gelet op het voorgaande is de AFM bevoegd (en verplicht) om op grond van artikel 1:97, vierde en vijfde lid, van de Wft over te gaan tot publicatie van de last onder dwangsom, het daartegen ingediende bezwaar, de beslissing op bezwaar en het daartegen ingediende beroep. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.3	[</nr>
+      <parablock>
+        <para>Eiseres] wordt voorts niet gevolgd in haar stellingen dat het onderzoeksrapport I niet mag worden gepubliceerd en dat er geen integrale publicatie mag plaatsvinden van de besluiten nu lastonderdelen zijn herroepen en aan de lastonderdelen is voldaan. </para>
+        <para>Het is inherent aan het publicatiesysteem dat ook herroepen of vernietigde onderdelen van een besluit openbaar worden. Dit voorkomt juist dat er naar buiten toe een onjuist of onvolledig beeld wordt geschetst. Zie in dit verband de Memorie van Toelichting bij artikel 1:97 Wft (Kamerstukken II 2015-2016, 34 455, nr. 3, p. 33). De verplichting tot publicatie wordt niet beperkt tot de onderdelen van de beslissing die in stand zijn gebleven. Het onderzoeksrapport is integraal onderdeel van het lastbesluit. Door alle besluiten volledig te publiceren wordt aan het publiek een compleet en transparant beeld van het dossier gepresenteerd en blijkt ook dat er in de loop van de tijd bepaalde lastonderdelen zijn vervallen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.4</nr>
+      <parablock>
+        <para>Hetgeen [eiseres] overigens heeft aangevoerd, biedt geen grond voor het oordeel dat sprake is van één van de in artikel 1:98 van de Wft genoemde uitzonderingen op de openbaarmakingsplicht. Voor zover [eiseres] in dit verband stelt dat haar onevenredige schade zou worden berokkend, heeft zij dit onvoldoende geconcretiseerd. </para>
+        <para>De uitkomst van de belangenafweging is dat er geen aanleiding bestaat om de publicatie uit te stellen of te anonimiseren. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.5</nr>
+      <para>De rechtbank gaat er van uit dat de AFM de kop van de tekst van het persbericht zal aanpassen door te vermelden: </para>
+      <para />
+      <parablock>
+        <para>“AFM legt [eiseres] last onder dwangsom op”. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Naar oordeel van de rechtbank dekt deze tekst de lading beter, aangezien de last is opgelegd wegens overtreding (en niet overtreding<emphasis role="italic">en</emphasis>) van artikel 4:11, eerste lid, van de Wft (het woord overtredingen ziet, naar het oordeel van de rechtbank, niet op artikel 4:11, eerste lid, van de Wft, maar op de onderliggende wetsovertredingen). De rechtbank acht dit punt echter van ondergeschikt belang om tot gegrondverklaring van het beroep te kunnen leiden. Voor het overige ziet de rechtbank in de aangevoerde gronden van [eiseres] geen aanknopingspunten dat de AFM het persbericht dient aan te passen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>16. De beroepen zijn ongegrond. Hetgeen door [eiseres] overigens aan beroepsgronden is aangevoerd, kan in het licht van het voorgaande onbesproken blijven. </para>
+      <para />
+      <para>17. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart de beroepen ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.J. van Spengen, voorzitter, en mr. E.J. Rutten en mr. J.C.A.T. Frima, leden, in aanwezigheid van mr. E. Naaijen-van Kleunen, griffier. </para>
+      <para>De uitspraak is gedaan op 17 juli 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier is buiten staat	De voorzitter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

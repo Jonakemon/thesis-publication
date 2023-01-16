@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:11523</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-17T14:39:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/1366 en ROT 20/948</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:11523">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:11523</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-17T14:38:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:11523 Rechtbank Rotterdam , 15-12-2020 / ROT 19/1366 en ROT 20/948</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:11523:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bestuurlijke boete en last onder dwangsom wegens het niet binnen 24 uur door netbeheerder doorgeven van informatie over haar netwerk onder de grond aan het kadaster, dit naar aanleiding van een graafmelding of oriëntatieverzoek aan het kadaster. Nadat de overtredingen zijn begaan, maar voordat de bestuurlijke sancties zijn opgelegd is de oude wet (WION) ingetrokken en geheel vervangen door een nieuwe gelijkluidende wet (WIBON). Op basis van de oude wet kan worden gehandhaafd, met dien verstande dat de last ziet op de voorkoming van nieuwe overtredingen onder de WIBON. Er is geen sprake van onmogelijkheid om aan de wettelijke verplichting te voldoen en de Staatssecretaris handelt niet in strijd met het gelijkheidsbeginsel door na een klacht over te gaan tot handhaving.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:11523:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: ROT 19/1366 en ROT 20/948</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 15 december 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [vennootschap 1] , gevestigd te [Plaats] , eiseres,  </bridgehead>
+    <para>gemachtigden: mr. J.H.A. van der Grinten en mr. J. Wijmans, </para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de staatssecretaris van Economische Zaken en Klimaat </emphasis>(Agentschap Telecom), verweerder,</para>
+      <para>gemachtigden: mr. J. Sijbrandij en mr. S.P. Janssen.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 juli 2018 (het sanctiebesluit) heeft verweerder aan eiseres wegens overtreding van artikel 11, eerste lid, van de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (Wibon) een bestuurlijke boete van € 5000 en een last onder dwangsom opgelegd waarbij eiseres een termijn van één maand na bekendmaking van het besluit is gegund om te voldoen aan de last artikel 11, eerste lid, van de Wibon strikt na te leven. Een en ander op straffe van verbeurte van een dwangsom van € 5000 per keer dat eiseres na afloop van de begunstigingstermijn artikel 11, eerste lid, van de Wibon overtreedt, met dien verstande dat zij eenmaal per maand een dwangsom kan verbeuren, met een maximum van € 100.000.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 21 september 2018 heeft verweerder het verzoek van eiseres om de looptijd van de last op te schorten dan wel de begunstigingstermijn te verlengen met dien verstande dat geen dwangsommen zullen worden verbeurd tot op het bezwaar is beslist, afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft bezwaar gemaakt tegen het sanctiebesluit en het besluit van 21 september 2018.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 februari 2019 (bestreden besluit 1) heeft verweerder het sanctiebesluit in zoverre herroepen dat aan de opgelegde last onder dwangsom en boete overtreding van artikel 10, eerste lid, van de Wet informatie-uitwisseling ondergrondse netten (Wion) en de artikelen 25 respectievelijk 26 van de Wion ten grondslag worden gelegd. Verder heeft verweerder bij dit besluit het bezwaar van eiseres gegrond verklaard voor zover dit is gericht tegen de begunstigingstermijn en het bezwaar voor het overige ongegrond verklaard. Daarbij heeft verweerder bepaald dat de in het sanctiebesluit geformuleerde last met terugwerkende kracht tot 31 juli 2018 komt te luiden: “De strekking van de last is dat ik [vennootschap 1] opdraag om onverwijld, doch uiterlijk binnen één werkdag na verzending van een graafbericht, via het elektronische informatiesysteem aan de Dienst de gegevens te verstrekken, zoals bedoeld in artikel 11, eerste lid, van de Wibon. Ik gun [vennootschap 1] een termijn tot l november 2018 om te voldoen aan voornoemde sommatie.” Daarnaast heeft verweerder toepassing gegeven aan artikel 7:15, tweede lid, van de Algemene wet bestuursrecht (Awb) vanwege de gedeeltelijke herroeping van het sanctiebesluit, namelijk met betrekking tot de begunstigingstermijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 februari 2019 (bestreden besluit 2) heeft verweerder voor zover thans nog van belang het bezwaar van eiseres tegen het besluit van 21 september 2018 ongegrond verklaard en het verzoek om toepassing van artikel 7:15, tweede lid, van de Awb afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen de bestreden besluiten 1 en 2 heeft eiseres beroep ingesteld bij de rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voor zover thans nog van belang heeft verweerder bij besluiten van 10 april 2019, 19 april 2019, 5 november 2019 en 11 mei 2020 (hierna ook: de invorderingsbesluiten) besloten tot invordering van dwangsommen omdat eiseres de last volgens verweerder meermaals niet heeft nageleefd in de maanden december 2018, januari 2019, mei 2019 en november 2019. Eiseres heeft deze invorderingsbesluiten betwist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft verweerschriften ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaken zijn op 20 november 2020 – gevoegd met de zaken ROT 19/1368 en ROT 20/947 – ter zitting van een meervoudige kamer behandeld. Eiseres heeft zich laten vertegenwoordigen door haar gemachtigde mr. Van der |Grinten. Namens eiseres zijn eveneens verschenen [Naam] , [Naam] en [Naam] . <?linebreak?>Namens verweerder zijn verschenen zijn gemachtigden, bijgestaan door B. den Heijer en <?linebreak?>F. van Bree.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Na de zitting zijn de zaken gesplitst van de zaken ROT 19/1368 en ROT 20/947 voor het doen van uitspraak.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Het wettelijk kader is opgenomen in de bijlage bij deze uitspraak.	</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>De Wion en vanaf 31 maart 2018 de Wibon voorzien kortgezegd in een systeem waarbij iemand die wil gaan graven (de zogenoemde grondroerder) een melding – een graafmelding of oriëntatieverzoek – doet bij de Dienst voor het Kadaster en openbare registers (de Dienst). De Dienst stelt vervolgens de netbeheerders die één of meerdere netten beheren in het gebied waarvoor een melding is gedaan via een zogenoemd graafbericht in kennis van deze melding. De netbeheerders dienen vervolgens uiterlijk binnen één werkdag na verzending van een graafbericht de informatie als bedoeld in artikel 10, eerste lid, Wion (of artikel 11, eerste lid, van de Wibon) aan de Dienst te verstrekken. De Dienst verstrekt vervolgens binnen twee werkdagen na het doen van de melding de nodige informatie aan degene die de melding heeft gedaan. Hoewel het de grondroerder verboden is te graven zonder te beschikken over de (volledige) gebiedsinformatie, kan het niet tijdig aanleveren van informatie door de netbeheerder het risico opleveren dat dit toch gebeurt in verband met de economische belangen die met voortgang van de graafwerkzaamheden zijn gemoeid. </para>
+      <para />
+      <para />
+      <para>2. Op 14 juni 2017 heeft een toezichthouder van het Agentschap bericht ontvangen van de Dienst dat [Vennootschap 2] ( [Vennootschap 2] ) herhaaldelijk niet voldoet aan artikel 10, eerste lid, van de Wion, op grond van welk artikel een beheerder (zoals [Vennootschap 2] en eiseres) onverwijld doch uiterlijk binnen één werkdag na verzending van een graafbericht via het elektronische informatiesysteem gebiedsinformatie aan de Dienst moet verstrekken. Naar aanleiding van dit bericht heeft een toezichthouder telefonisch contact opgenomen met [Vennootschap 2] . De asset manager van [Vennootschap 2] heeft verklaard dat de oorzaak van de achterstand was gelegen in ICT-problemen en heeft toegezegd een aantal verbeteringen te zullen doorvoeren om herhaling te voorkomen. Nadat een toezichthouder op 13 oktober 2017 wederom een bericht van de Dienst van gelijke strekking had ontvangen, is een onderzoek ingesteld naar de naleving van artikel 10, eerste lid, van de Wion. Uit dit onderzoek is gebleken dat ook eiseres regelmatig niet voldoet aan de in dit artikellid neergelegde verplichting. Van de Dienst is maandelijks een overzicht ontvangen van zogenoemde ‘alert-berichten’, die de Dienst naar een beheerder verstuurt indien de beheerder niet na één werkdag de gevraagde gebiedsinformatie aanlevert. Uit de overzichten blijkt dat de Dienst in de maand juli 2017 totaal 1364, in de maand augustus 2017 totaal 4 en in de maand oktober 2017 totaal 213 alert-berichten naar eiseres heeft verstuurd. De Dienst heeft bevestigd dat elk van deze alert-berichten gelijk staat aan een overschrijding van de in artikel 10, eerste lid, van de Wion genoemde termijn van één werkdag. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Bevoegdheidskwesties</emphasis>
+        </para>
+      </parablock>
+      <para>3. Op 31 maart 2018 is de Wibon in de plaats gekomen van de Wion. Dit betekent dat de Wion van toepassing was ten tijde van de door verweerder gestelde overtredingen, maar dat de Wibon van kracht is geworden voorafgaand aan het sanctiebesluit. Onder de Wion was de woonplaats van de door verweerder aangeschreven rechtspersoon bepalend voor de vraag welke rechtbank bevoegd was en was de Afdeling bestuursrechtspraak in hoger beroep bevoegd, omdat die wet niet voorkwam in de bevoegdheidsregeling van Bijlage 2 bij de Awb. Met de Wibon is dit veranderd. Met de invoering van de Wibon is in de artikelen 7 en 11 van Bijlage 2 van de Awb neergelegd dat de rechtbank Rotterdam bevoegd is in eerste aanleg en het College van Beroep voor het bedrijfsleven in hoger beroep. Met betrekking tot de bevoegdheid van de rechtbank wordt ambtshalve het volgende overwogen. </para>
+      <para />
+      <para>4. Met artikel 30 van de Wibon is de Wion ingetrokken per 31 maart 2018. De enige bepaling over het overgangsrecht is artikel 41 van de Wibon. Daarin is bepaald dat op bezwaar en beroep ingevolge de Wion, dat is ingediend tegen een besluit van voor de datum van inwerkingtreding van deze wet, de bij of krachtens de Wion geldende voorschriften zoals die luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet van toepassing blijven. In de wetsgeschiedenis Wijziging van de Wet informatie-uitwisseling ondergrondse netten (evaluatie WION en regeling bevoegde rechter) is overwogen dat met het oog op een soepele overgang ervoor is gekozen de voorgestelde wijzigingen in de rechterlijke bevoegdheid niet van toepassing te verklaren op reeds aanhangige gedingen (Kamerstukken II, 2016/17, 34 745, nr. 3, blz. 15). Hieruit kan worden afgeleid dat de wetgever met artikel 41 voornoemd het oogmerk heeft het procedurele overgangsrecht te regelen. Verder betekent dit dat de rechtbank bevoegd is ongeacht of op het onderliggende geschil de Wion of de Wibon van toepassing is. De wetgever heeft immers procedureel aan willen knopen bij de bevoegdheidsregeling die van toepassing is op het tijdstip waarop een procedure is gestart. Nu het sanctiebesluit is genomen na invoering van de Wibon, zodat voorafgaand aan de invoering van de Wibon nog geen procedure liep, is de rechtbank in eerste aanleg bevoegd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Eiseres heeft aangevoerd dat verweerder geen bevoegdheid heeft tot handhaving, want het is niet mogelijk om handhavend op te treden op grond van een niet meer bestaande wet onder verwijzing naar niet langer bestaande sanctiemogelijkheden, terwijl een besluit op bezwaar moet berusten op een bevoegdheid die het bestuursorgaan heeft volgens de op dat moment geldende wettelijke voorschriften. Eiseres wijst in dit verband op de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 25 oktober 2017 (ECLI:NL:RVS:2017:2898). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Uit artikel 5:4, tweede lid, van de Awb volgt dat bestuurlijke sancties slechts kunnen worden opgelegd indien de overtreding en de sanctie bij of krachtens een aan de gedraging voorafgaand wettelijk voorschrift zijn omschreven. Dit betekent dat de gedraging ten tijde van de gedraging als een overtreding moet zijn omschreven in een wettelijke bepaling en dat de bestuurlijke sanctie op dat moment ook in de wet moet zijn vastgelegd. Voor bestraffende sancties volgt het uitgangspunt van “nulla poena sine lege” uit artikel 7, eerste lid, van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM). Het uitgangspunt dat bij gebrek aan andersluidend overgangsrecht het materiële recht en de omstandigheden in aanmerking worden genomen zoals die voorliggen ten tijde van (de laatste fase van) de besluitvorming door het bestuursorgaan is daarom niet van toepassing op bestuurlijke sancties en andere handhavingsbesluiten (zie bijvoorbeeld ECLI:NL:RVS:2019:3536, onder 5.6 en ECLI:NL:RVS:2020:2571, onder 6.2.4). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Hieruit volgt dat – anders dan waarin de letterlijke tekst van het overgangsrecht van de Wibon lijkt te voorzien – niet het tijdstip van het maken van bezwaar bepalend kan zijn voor de vraag welk voorschrift is overtreden en aan welke wettelijke bepalingen verweerder zijn bevoegdheden ontleent. Bij gebrek aan materieel overgangsrecht dat op de voorliggende situatie kan worden toegepast moet worden beoordeeld welk recht van toepassing is met betrekking tot de vragen of eiseres overtredingen heeft begaan en op basis van welke bepalingen verweerder bevoegd is tot handhaving, waarbij een verschil moet worden gemaakt tussen enerzijds de boeteoplegging en anderzijds de lastoplegging en de invordering van verbeurde dwangsommen. Daarbij doet zich de vraag voor of verweerder handhavend kan optreden omdat de Wion, die volgens verweerder is overtreden, is ingetrokken voordat verweerder tot handhaving is overgegaan. Dit betekent dat zowel de bepaling die zou zijn overtreden als de bepalingen op basis waarvan verweerder bevoegd was een last onder dwangsom en een bestuurlijke boete op te leggen, zijn komen te vervallen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <parablock>
+        <para>Verweerder meent dat hij bevoegd is tot handhaving op grond van de Wion en beroept zich in dit verband op de uitspraak van het College van Beroep voor het bedrijfsleven (het College) van 30 november 2017 (ECLI:NL:CBB:2017:474). In deze uitspraak lag de vraag voor of de Gezondheids- en welzijnswet voor dieren (Gwwd) of de latere Wet dieren van toepassing is op een gedraging die plaatsvond onder de Gwwd. <?linebreak?>Per 1 juli 2014 zijn bepalingen uit en krachtens de Gwwd overgeheveld naar en krachtens de Wet dieren, waarbij de betrokken bepalingen bij en krachtens de Gwwd zijn komen te vervallen. In artikel 11.1, vijfde lid, van de Wet dieren is bepaald wanneer het oude of het nieuwe recht in de bezwaarprocedure van toepassing is. Uit die uitspraak volgt, net als uit de uitspraak van 19 oktober 2016 (ECLI:NL:CBB:2016:309), dat de besluitvorming op basis van de Gwwd had moeten plaatsvinden. Het College overwoog in punt 5.3 van laatstgenoemde uitspraak dat de Wet dieren geen overgangsrecht bevatte dat van toepassing kon worden geacht op (herstel)sanctiebesluiten maar alleen op begunstigende besluiten. Daaruit volgde volgens het College dat aan de Wet dieren onmiddellijke werking toekwam, maar geen terugwerkende kracht tot handelingen die zich voor de inwerkingtreding ervan hebben voorgedaan. </para>
+        <para>Net als in de voorliggende zaak waren de bepalingen uit en krachtens de Gwwd die zouden zijn overtreden vervallen ten tijde van de oplegging van herstel- en bestraffende sancties. Niettemin werd het bestuursorgaan bevoegd geacht om die vervallen bepalingen te handhaven, terwijl er geen sprake was van overgangsrecht dat van toepassing was op sanctieoplegging. Daarnaast is net als in de boetezaak die voorlag met de uitspraak van het College van 30 november 2017 sprake van identieke voorschriften en bevoegdheden, zodat het College de rechtsgevolgen van het besluit op bezwaar dat ten onrechte op de Wet dieren was gebaseerd in stand liet. Met verweerder is de rechtbank van oordeel dat de voorliggende zaak hiermee vergelijkbaar is, met dien verstande dat verweerder in bezwaar wel het juiste recht heeft toegepast. De toepasselijke bepalingen inzake overtreding en handhavingsbevoegdheden uit de Wion zijn immers één op één opgenomen in de Wibon (Kamerstukken II, 2016/17, 34 739, nr. 3, transponeringstabel op blz. 14-15). Dit is een andere situatie dan in de door eiseres genoemde uitspraak van de Afdeling van 25 oktober 2017, reeds omdat in die zaak de aanwijzingsbevoegdheid was gewijzigd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Met betrekking tot de aan eiseres opgelegde bestuurlijke boete geldt, gelet ook op het voorgaande, het volgende. Onder zowel de Wion als de Wibon is het door verweerder aan eiseres gemaakte verwijt een overtreding, namelijk van artikel 10, eerste lid, van de Wion en artikel 11, eerste lid, van de Wibon. Onder beide wetsregimes is dit een boetewaardige overtreding en is de maximumboete gelijk (zie artikel 26, tweede lid, van de Wion en artikel 34, tweede lid, van de Wibon). In de heroverweging heeft verweerder terecht het standpunt ingenomen dat de overtreding en de boeteoplegging dienen te worden gebaseerd op de Wion. Uit de artikelen 7, eerste lid, van het EVRM en artikel 5:4, tweede lid, van de Awb volgt immers dat bij bestuurlijke sancties moet worden uitgegaan van het recht dat gold ten tijde van de gedraging. Dat de bepalingen identiek zijn gebleven, maakt dit niet anders, zoals volgt uit de eerdergenoemde uitspraak van het College van 30 november 2017. Artikel 5a van de Wibon voorziet in een centrale opslag bij de Dienst van de door netbeheerders aan te leveren gegevens, hetgeen een vermindering in aan te leveren gegevens als bedoeld in destijds artikel 10, eerste lid, van de Wion en thans artikel 11, eerste lid, van de Wibon tot gevolg zal (kunnen) hebben. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>De rechtbank voegt hier nog het volgende aan toe. Naar het oordeel van de rechtbank is geen sprake van een zogenoemde lex mitior waarvan eiseres op grond van artikel 5:46, vierde lid, van de Awb in verbinding met artikel 1, tweede lid, van het Wetboek van Strafrecht dient te profiteren. De enkele mogelijkheid dat de facultatieve gebruikmaking van de centrale opslag een lastenverplichting zal kunnen opleveren leidt niet tot het gezichtspunt dat de norm van artikel 10, eerste lid, van de Wion is gewijzigd met de invoering en latere wijziging van de Wibon (zie Kamerstukken II, 2016/17, 34 745, nr. 3, blz. 10). Er is in andere woorden geen sprake van een gewijzigd inzicht van de wetgever over de gebodsnorm van artikel 10, eerste lid, van de Wion (vgl. ECLI:NL:HR:2011:BP6878). Dit blijkt uit de reeds genoemde omstandigheid dat de bepalingen uit de Wion één op één zijn opgenomen in de Wibon. Hieruit volgt dat de boeteoplegging volledig beoordeeld dient te worden aan de hand van de Wion.</para>
+      <para />
+      <parablock>
+        <para>7.	Met betrekking tot de aan eiseres opgelegde last onder dwangsom geldt het volgende. Gelet op wat hiervoor is overwogen moet met betrekking tot de vraag of een of meer overtredingen zijn begaan die aanleiding konden vormen tot het opleggen van een last onder dwangsom worden aangesloten bij artikel 10, eerste lid, van de Wion en dient vervolgens voor wat betreft de vraag of verweerder bevoegd was daartegen met een last onder dwangsom op te treden aansluiting te worden gezocht bij artikel 25 van de Wion in verbinding met artikel 5:32, eerste lid, van de Awb. Anders dan met betrekking tot de boeteoplegging, die zuiver ziet op een sanctie voor wat voordien is gebeurd, is de last gericht op een in de toekomst na te laten of juist te verrichten gedraging gericht op herstel. Omdat ten tijde van de lastoplegging de Wibon in werking was getreden en de Wion was ingetrokken, zal de lastoplegging (waartoe verweerder zowel bevoegd is op grond van artikel 25 van de Wion als artikel 33 van de Wibon) en eventuele invordering van verbeurde dwangsommen zelf betrekking moeten hebben op artikel 11, eerste lid, van de Wibon (zie in dit verband met betrekking tot gewijzigde wetgeving na de overtreding of hangende bezwaar ECLI:NL:RVS:2020:2571, onder 6.2.5 en 6.2.6, en ECLI:NL:CBB:2016:309, onder 5.1). Verweerder heeft daarom in bestreden besluit 1 terecht naast de Wion ook de Wibon genoemd met betrekking tot de lastoplegging. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De toepassing van artikel 10, eerste lid, van de Wion en artikel 11, eerste lid, van de Wibon</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Eiseres betoogt dat de wettelijke norm van de artikelen 10, eerste lid, van de Wion en 11, eerste lid, van de Wibon buiten toepassing moet worden gelaten, nu deze norm in strijd met de zorgvuldigheidsnormen, het motiveringsbeginsel en het evenredigheidsbeginsel tot stand is gekomen. Volgens eiseres is de feilbaarheid van ICT-systemen als gevolg waarvan beheerders in de praktijk aan een onhaalbare norm worden gehouden niet (of onvoldoende) betrokken in de afweging van de wetgever.   </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <parablock>
+        <para>De artikelen 10, eerste lid, van de Wion en 11, eerste lid, van de Wibon behelzen </para>
+        <para>wetgeving in formele zin. In verband met het grondwettelijk toetsingsverbod van artikel 120 van de Grondwet kan de rechter dergelijke bepalingen enkel toetsen aan een ieder verbindende bepalingen van internationaal recht zoals bedoeld in de artikelen 93 en 94 van de Grondwet alsmede aan rechtstreeks werkend Unierecht (zie voor dit laatste ECLI:NL:HR:2004:AR1797). Toetsing van dergelijke bepalingen aan algemene rechtsbeginselen en (ander) ongeschreven recht is op grond van dat verbod uitgesloten. Slechts indien sprake is van bijzondere omstandigheden die niet of niet ten volle zijn verdisconteerd in de afweging van de wetgever, kan aanleiding bestaan om tot een andere uitkomst te komen dan waartoe toepassing van de wettelijke bepaling leidt. Dat is het geval indien die niet-verdisconteerde bijzondere omstandigheden de toepassing van de wettelijke bepaling zozeer in strijd doen zijn met algemene rechtsbeginselen of (ander) ongeschreven recht dat die toepassing achterwege moet blijven (vergelijk ECLI:NL:HR:1989:AD5725; ECLI:NL:HR:2014:3679 en ECLI:NL:HR:2018:729). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Uit de wetsgeschiedenis van de artikelen 10, eerste lid, van de Wion en 11, eerste lid, van de Wibon blijkt dat de wetgever eventuele ICT-problemen bij zijn afweging heeft betrokken en dat hij van mening is dat de termijn van één werkdag de beheerder in geval van dergelijke problemen de mogelijkheid biedt deze op te lossen (Kamerstukken II 2005/06,  30 475, nr. 3, blz. 34). De afweging van de wetgever omvat daarmee het onderhavige geval van een beheerder die te maken kan krijgen met ICT-problemen. Van niet in de norm van de artikelen 10, eerste lid, van de Wion en 11, eerste lid, van de Wibo verdisconteerde bijzondere omstandigheden zoals hiervoor bedoeld, is dan ook geen sprake. Voor het buiten toepassing laten van deze artikelen bestaat dus geen grond, zodat het betoog niet wordt gevolgd. </para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Uitvoerbaarheid last</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>Eiseres betoogt in het verlengde van het voorgaande dat de door verweerder opgelegde last onder dwangsom onrechtmatig is, omdat de last niet uitvoerbaar is. Volgens eiseres heeft zij het niet in haar macht om de verstrekking van gebiedsinformatie volledig foutloos te laten verlopen, omdat zij daarbij afhankelijk is van ICT-systemen, die feilbaar zijn. Het is praktisch niet mogelijk om ervoor te zorgen dat de levertermijn van één werkdag nooit overschreden wordt en dat artikel 11, eerste lid, van de Wibon strikt wordt nageleefd, wat ook blijkt uit het feit dat er veel meer beheerders zijn die niet binnen de levertermijn van één werkdag gebiedsinformatie aanleveren, aldus eiseres. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>Met verweerder is de rechtbank van oordeel dat niet aannemelijk is dat eiseres het niet in haar macht heeft aan de last te voldoen. Zoals verweerder terecht heeft opgemerkt, mag van eiseres verwacht worden dat zij voldoende kennis en ervaring in huis heeft om ICT-problemen zoveel mogelijk te voorkomen en, als deze zich toch voordoen, op te lossen binnen de door de wetgever gesteld termijn van één werkdag. Daarbij is het aan eiseres om tijdige en adequate maatregelen te nemen, opdat haar geautomatiseerde systemen zo zijn ingericht dat kan worden voldaan aan artikel 11, eerste lid, van de Wibon. Dat dergelijke maatregelen ook vruchten afwerpen, blijkt uit wat eiseres in haar beroepsgronden zelf naar voren heeft gebracht over haar inspanningen om na de te late aanleveringen van gebiedsinformatie in 2017 en 2018 tot een verbeterd ICT-systeem te komen, waarvan het resultaat na enige opstartproblemen, ook in de bewoordingen van eiseres zelf, heel duidelijk zichtbaar is met een volledig naar behoren werkend systeem. Dat na de opstartproblemen desondanks nog invorderingsbesluiten zijn genomen doet hier niet aan af. De door eiseres genoemde uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 27 december 2017 (ECLI:NL:RVS:2017:3561) leidt niet tot een ander oordeel. In die zaak was de uitvoerbaarheid van de last afhankelijk van de medewerking van derden, wat hier niet het geval is. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Gelijkheidsbeginsel</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <parablock>
+        <para>Verder betoogt eiseres dat verweerder in strijd met het gelijkheidsbeginsel</para>
+        <para>handelt door haar een boete en een last onder dwangsom op te leggen en haar zodoende te houden aan strikte naleving van de levertermijn van één werkdag, terwijl andere beheerders niet beboet worden en ook niet aan de levertermijn van één werkdag gehouden worden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>Verweerder heeft toegelicht dat jegens eiseres handhavend is opgetreden omdat zij in de periode juli 2017 tot en met oktober 2017 meerdere malen, met in totaal 1581 alerts, voorkwam in de top 10 van netbeheerders met alerts en zij in juli 2017 de meeste alerts had. Ook over het jaar 2018 heeft eiseres in de maanden januari (172), april (774), mei (116), juni (962), juli (164), september (80), oktober (6598), november (637) en december (256) in de top 10 gestaan. Er is volgens verweerder geen sprake van gelijke gevallen, nu andere netbeheerders slechts eenmalig of veel minder vaak in de top 10 voorkomen, waarbij het bovendien gaat om minder grote aantallen alerts dan bij eiseres het geval is. Volgens verweerder is het niet onredelijk als bij de prioritering van het toezicht op de naleving van artikel 11, eerste lid, van de Wibon gekeken wordt naar de grootste overtreder (in absolute getallen) teneinde het aantal gevallen van het te laat aanleveren van informatie terug te (doen) brengen. Ter zitting heeft verweerder verder toegelicht dat hij de beperkte handhavingscapaciteit bij voorkeur inzet om op te treden tegen grondroerders die graafwerkzaamheden verrichten zonder een bericht van de Dienst af te wachten, omdat dit een ernstiger overtreding vormt. Evenwel heeft verweerder er voor gekozen om bij uitzondering handhavend op te treden tegen eiseres en [Vennootschap 2] omdat de Dienst bij verweerder klaagde over het groot aantal te late meldingen van deze netbeheerders. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3.</nr>
+      <para>Het is niet aan de rechter om te bepalen op welke wijze verweerder zijn beperkte handhavingscapaciteit dient in te zetten. De afwegingen die hij in dat kader maakt moeten dan ook terughoudend worden beoordeeld. Voor rechterlijk ingrijpen bestaat slechts aanleiding als de uitkomst van die afwegingen leidt tot willekeur. Vast staat dat verweerder is opgetreden tegen eiseres, omdat eiseres samen met [Vennootschap 2] in het tweede kwartaal van 2017 het grootste aantal meldingen op haar naam had staan. Ten aanzien van andere overtreders dan eiseres en [Vennootschap 2] is verweerder niet handhavend opgetreden. Verweerder heeft niet willekeurig gehandeld door aan de hand van het aantal alert-berichten door de Dienst een keuze te maken om al dan niet te handhaven (ECLI:NL:RBROT:2020:8487). Daar komt bij dat door de Dienst was geklaagd over de structureel trage aanlevering door eiseres en [Vennootschap 2] . </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Boeteoplegging en boetehoogte</emphasis>
+        </para>
+      </parablock>
+      <para>11. Reeds gelet op wat hiervoor in 9.2 is overwogen, faalt het betoog van eiseres dat verweerder wegens het ontbreken van verwijtbaarheid dan wel een geringe mate van verwijtbaarheid had moeten afzien van het opleggen van een boete dan wel de boete verder had moeten matigen. Dat een deel van de vele overtredingen van artikel 10, eerste lid, van de Wion betrekking hebben op zogenoemde AGRO-meldingen doet, anders dan eiseres kennelijk meent, aan de ernst van de overtredingen in de periode van juli 2017 tot en met oktober 2017 niet af en kan dus evenmin tot het oordeel leiden dat verweerder de boete verder had moeten matigen. Artikel 10, eerste lid, van de Wion zelf maakt immers geen onderscheid tussen graafmeldingen en oriëntatieverzoeken. Verder overweegt de rechtbank dat de opgelegde bestuurlijke boete van € 5000, gelet op het maximum van € 100.000 en afgezet tegen het aantal te late informatieverstrekkingen aan de Dienst gedurende meerdere maanden, aan de lage kant maar in overeenstemming met het door verweerder vastgestelde beleid is vastgesteld.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Hoogte dwangsom</emphasis>
+        </para>
+      </parablock>
+      <para>12. Ook het betoog van eiseres dat de dwangsom te hoog is slaagt niet. Volgens vaste rechtspraak (bijvoorbeeld ECLI:NL:CBB:2015:288) bestaat er bij de beoordeling van een last onder dwangsom geen aanleiding voor de, bij punitieve sancties passende, indringende evenredigheidstoetsing wat betreft de hoogte van de dwangsom. Op grond van de uit artikel 5:32b, derde lid, van de Awb voortvloeiende maatstaf geldt daarbij slechts de beperking dat het bedrag van de dwangsom niet disproportioneel hoog mag zijn in verhouding tot de ernst van de overtreding. Verder biedt deze maatstaf naar zijn strekking ruimte voor een bestuurlijke afweging van belangen bij het bepalen van de hoogte van de dwangsom. De wijze waarop een bestuursorgaan gebruik heeft gemaakt van deze beoordelingsruimte dient door de rechter terughoudend te worden getoetst. </para>
+      <para>Gelet op de vele overtredingen van de artikelen 10, eerste lid, van de Wion en 11, eerste lid, van de Wibon in 2017 en 2018, en het feit dat van de dwangsom een voldoende prikkel tot naleving van de last dient uit te gaan, ziet de rechtbank geen grond voor het oordeel dat de dwangsom onevenredig hoog is in verhouding tot de ernst van de overtredingen en tot de beoogde werking van de dwangsom. Verweerder heeft er in dit verband terecht op gewezen dat met de artikelen 10, eerste lid, van de Wion en 11, eerste lid, van de Wibon wordt beoogd graafschades te voorkomen, die onder meer leveringsonderbrekingen met grote overlast kunnen veroorzaken. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De invorderingsbesluiten</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>13.1.</nr>
+      <parablock>
+        <para>Eiseres betoogt dat de invorderingsbesluiten van 10 april 2019, 19 april 2019,</para>
+        <para>5 november 2019 en 11 mei 2020, die voor zover thans nog van belang zien op respectievelijk 256 alerts in december 2018, 4099 alerts in januari 2019, 9 alerts in mei 2019 en 5 alerts in november 2019, onrechtmatig zijn. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.2.</nr>
+      <para>Bij een besluit over invordering van een verbeurde dwangsom dient aan het belang van de invordering een zwaarwegend gewicht te worden toegekend (ECLI:NL:CBB:2019:157). Een andere opvatting zou afbreuk doen aan het gezag dat behoort uit te gaan van een besluit tot oplegging van een last onder dwangsom. Steun voor dit uitgangspunt kan worden gevonden in de geschiedenis van de totstandkoming van artikel 5:37, eerste lid, van de Awb (Kamerstukken 2003/04, 29 702, nr. 3, blz. 115). Hierin is vermeld dat een adequate handhaving vergt dat opgelegde sancties ook worden geëffectueerd en dus dat verbeurde dwangsommen worden ingevorderd. Slechts in bijzondere omstandigheden kan geheel of gedeeltelijk van invordering worden afgezien, waarbij valt te denken aan de situatie dat het evident is dat er geen overtreding is gepleegd en/of betrokkene geen overtreder is (ECLI:NL:RVS:2019:466). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.3.</nr>
+      <parablock>
+        <para>Met betrekking tot de eerste drie invorderingsbesluiten volgt uit de stukken afdoende dat eiseres in die gevallen tekort is geschoten om aan de last te voldoen. Bijzondere omstandigheden die zich verzetten tegen invordering doen zich niet voor. Wat eiseres naar voren heeft gebracht tegen de last onder dwangsom baat haar, gelet op wat daarover hiervoor is overwogen, niet. Wat eiseres daarnaast naar voren heeft gebracht over de overgang naar een verbeterd ICT-systeem in december 2018 en januari 2019 en naar het gevectoriseerd aanleveren van gebiedsinformatie in mei 2019, kan haar evenmin baten. </para>
+        <para>Bij bestreden besluit 1 heeft verweerder de einddatum van de begunstigingstermijn overeenkomstig het verzoek van eiseres in haar zienswijze om haar ICT-systeem te kunnen verbeteren vastgesteld op 1 november 2018. Tegen deze nieuwe einddatum heeft eiseres geen gronden ingediend. Wat betreft de overgang naar het gevectoriseerd aanleveren van gebiedsinformatie heeft verweerder ook terecht opgemerkt dat eiseres ervoor had kunnen kiezen deze overgang later te laten plaatsvinden, nu deze wijze van aanleveren weliswaar op 1 januari 2019 is ingevoerd, maar eerst op 1 juli 2019 verplicht is gesteld om de netbeheerders en de Dienst een overgangsperiode te gunnen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.4.</nr>
+      <para>Met betrekking tot de 5 gevallen in november 2019, waarop het laatste invorderingsbesluit ziet, was eerst sprake van een foutmelding op 27 november 2019 omdat de server van de Dienst teveel verzoeken tegelijk binnenkreeg. Eiseres heeft vervolgens in de resterende tijd van volgens verweerder bijna 24 uur bij het opnieuw aanleveren verkeerde nummers of gegevens gebruikt om met het systeem van de Dienst te communiceren waardoor zij niet opnieuw de foutmelding 503, maar foutmelding 404 kreeg. Volgens verweerder was eiseres hierdoor in overtreding. Naar het oordeel van de rechtbank legt verweerder eiseres bij dit vierde invorderingsbesluit een verdergaande verplichting op dan die volgt uit artikel 11, eerste lid, van de Wibon en de daarop gebaseerde last. Niet in geschil is immers dat eiseres tijdig een melding had gedaan, maar doordat op dat moment teveel meldingen binnenkwamen bij de Dienst is de melding niet verwerkt, maar is een foutmelding uitgegaan. Dit mag niet voor het risico van eiseres komen. De rechtbank merkt overigens nog op dat eiseres in deze gevallen nieuwe meldpogingen heeft gedaan die binnen 25 uur zijn verwerkt door de Dienst. Eiseres moet geacht worden in dit geval aan de last te hebben voldaan. Het beroep tegen het laatste invorderingsbesluit is gegrond en de rechtbank zal daarom het invorderingsbesluit van 11 mei 2020 vernietigen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het beroep tegen Bestreden besluit 2</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>14.1.</nr>
+      <para>Eiseres betoogt dat het bezwaar tegen bestreden besluit 2 ten onrechte ongegrond is verklaard en dat haar verzoek om vergoeding van kosten op grond van artikel 7:15 van de Awb daarbij ten onrechte is afgewezen, nu met de verlenging van de begunstigingstermijn bij bestreden besluit 1 vast is komen te staan dat de begunstigingstermijn te kort was.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.2.</nr>
+      <para>Dit betoog slaagt niet. De lengte van de begunstigingstermijn is door eiseres zowel in haar bezwaar tegen het sanctiebesluit als in haar bezwaar tegen de afwijzing van haar verzoek om opschorting van het sanctiebesluit en tot verlenging van de begunstigingstermijn aan de orde gesteld. Verweerder heeft terecht slechts een keer over de gegrondheid van het bezwaar tegen de lengte van de begunstigingstermijn beslist door wat betreft de lengte van de begunstigingstermijn in bestreden besluit 2 te verwijzen naar de bij bestreden besluit 1 doorgevoerde verlenging daarvan. Verweerder heeft in bestreden besluit 2 dan ook terecht nog slechts beslist over het bezwaar tegen de weigering tot opschorting van het sanctiebesluit. Het feit dat de begunstigingstermijn bij bestreden besluit 1 is verlengd betekent niet dat verweerder ook het bezwaar tegen de weigering tot opschorting van het sanctiebesluit gegrond had moeten verklaren, nu opschorting een ander rechtsgevolg heeft en in artikel 5:34 van de Awb een andere rechtsgrondslag. Zelfs als dit anders zou zijn kan eiseres met haar beroep tegen het bestreden besluit 2 niet bereiken dat wegens verlenging van de begunstigingstermijn nogmaals toepassing wordt gegeven aan artikel 7:15, tweede lid, van de Awb nu dat al is gebeurd met bestreden besluit 1.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Slotoverwegingen</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>15.1.</nr>
+      <para>Uit het voorgaande volgt dat het beroep tegen de bestreden besluiten 1 en 2 ongegrond is, dat het beroep tegen de eerste drie invorderingsbesluiten eveneens ongegrond is en het beroep tegen het vierde invorderingsbesluit gegrond is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.2.</nr>
+      <para>Omdat de rechtbank het beroep tegen het vierde invorderingsbesluit gegrond verklaart, ziet de rechtbank aanleiding te bepalen dat verweerder aan eiseres het door haar in de procedure tegen bestreden besluit 1 betaalde griffierecht vergoedt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.3.</nr>
+      <para>De rechtbank stelt verder vast dat beide zaken als samenhangend in de zin van artikel 8:41, derde lid, van de Awb moet worden beschouwd, zodat ten onrechte tweemaal griffierecht is geheven. De rechtbank zal daarom de griffier opdragen in de bijkomende zaak tegen het bestreden besluit 2 (zaak ROT 20/948) het betaalde griffierecht terug te storten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.4.</nr>
+      <para>De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten inzake het beroep tegen het vierde invorderingsbesluit. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1050 (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525 en wegingsfactor 1 wegens de zwaarte en samenhang). In dit verband worden deze zaken tezamen met de zaken ROT 19/1368 en ROT 20/947 geteld als vier samenhangende zaken als bedoeld in artikel 3, tweede lid, van het Besluit proceskosten bestuursrecht en onderdeel C2 van de bijlage daarbij.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart de beroepen tegen de bestreden besluiten 1 en 2 en tegen de invorderingsbesluiten van 10 april 2019, 19 april 2019 en 5 november 2019 ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep tegen het invorderingsbesluit van 11 mei 2020 gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het invorderingsbesluit van 11 mei 2020;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat verweerder aan eiseres het door haar in zaak 19/1366 betaalde griffierecht  (€ 345) vergoedt;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1050.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.C. Rop, voorzitter, en mr. A.I. van Strien en </para>
+      <para>mr. S.A. de Vries, leden, in aanwezigheid van mr. R. Stijnen, griffier. </para>
+      <para>De beslissing is in het openbaar gedaan op 15 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De voorzitter en de griffier zijn verhinderd de uitspraak te ondertekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier							voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM)</emphasis>
+      </para>
+      <para>Artikel 7, eerste lid, van het EVRM luidt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemene wet bestuursrecht (Awb)</emphasis>
+      </para>
+      <para>De Awb luidt – voor zover hier van belang – als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 5:4 </para>
+      <para>(…)</para>
+      <para>2. Een bestuurlijke sanctie wordt slechts opgelegd indien de overtreding en de sanctie bij of krachtens een aan de gedraging voorafgaand wettelijk voorschrift zijn omschreven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:32 </para>
+      <para>1. Een bestuursorgaan dat bevoegd is een last onder bestuursdwang op te leggen, kan in plaats daarvan aan de overtreder een last onder dwangsom opleggen.</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:32a </para>
+      <para>(…)</para>
+      <para>2. Bij een last onder dwangsom die strekt tot het ongedaan maken van een overtreding of het voorkomen van verdere overtreding, wordt een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat een dwangsom wordt verbeurd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:32b </para>
+      <para>(…)</para>
+      <para>3. De bedragen staan in redelijke verhouding tot de zwaarte van het geschonden belang en tot de beoogde werking van de dwangsom.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:34 </para>
+      <para>1. Het bestuursorgaan dat een last onder dwangsom heeft opgelegd, kan op verzoek van de overtreder de last opheffen, de looptijd ervan opschorten voor een bepaalde termijn of de dwangsom verminderen ingeval van blijvende of tijdelijke gehele of gedeeltelijk onmogelijkheid voor de overtreder om aan zijn verplichtingen te voldoen.</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:35 </para>
+      <para>In afwijking van artikel 4:104 verjaart de bevoegdheid tot invordering van een verbeurde dwangsom door verloop van een jaar na de dag waarop zij is verbeurd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:37 </para>
+      <para>1. Alvorens aan te manen tot betaling van de dwangsom, beslist het bestuursorgaan bij beschikking omtrent de invordering van een dwangsom.</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:39 </para>
+      <para>1. Het bezwaar, beroep of hoger beroep tegen de last onder dwangsom heeft mede betrekking op een beschikking die strekt tot invordering van de dwangsom, voor zover de belanghebbende deze beschikking betwist.</para>
+      <para>2. De bestuursrechter kan de beslissing op het beroep of hoger beroep tegen de beschikking tot invordering echter verwijzen naar een ander orgaan, indien behandeling door dit orgaan gewenst is.</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:41 </para>
+      <para>Het bestuursorgaan legt geen bestuurlijke boete op voor zover de overtreding niet aan de overtreder kan worden verweten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:46 </para>
+      <para>(…)</para>
+      <para>2. Tenzij de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, stemt het bestuursorgaan de bestuurlijke boete af op de ernst van de overtreding en de mate waarin deze aan de overtreder kan worden verweten. Het bestuursorgaan houdt daarbij zo nodig rekening met de omstandigheden waaronder de overtreding is gepleegd.</para>
+      <para>(…)</para>
+      <para>4. Artikel 1, tweede lid, van het Wetboek van Strafrecht is van overeenkomstige toepassing.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 6:19 </para>
+      <para>1. Het bezwaar of beroep heeft van rechtswege mede betrekking op een besluit tot intrekking, wijziging of vervanging van het bestreden besluit, tenzij partijen daarbij onvoldoende belang hebben.</para>
+      <para>(…)</para>
+      <para>5. De bestuursrechter kan het beroep tegen het nieuwe besluit echter verwijzen naar een ander orgaan, indien behandeling door dit orgaan gewenst is.</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7:11 </para>
+      <para>1. Indien het bezwaar ontvankelijk is, vindt op grondslag daarvan een heroverweging van het bestreden besluit plaats. </para>
+      <para>2. Voor zover de heroverweging daartoe aanleiding geeft, herroept het bestuursorgaan het bestreden besluit en neemt het voor zover nodig in de plaats daarvan een nieuw besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7:15 </para>
+      <para>(…)</para>
+      <para>2. De kosten, die de belanghebbende in verband met de behandeling van het bezwaar redelijkerwijs heeft moeten maken, worden door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voorzover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid.</para>
+      <para>(…)”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bijlage 2. Bevoegdheidsregeling bestuursrechtspraak (artikelen 8:5, 8:6, 8:7, 8:105 en 8:106)</emphasis>
+      </para>
+      <para>Bijlage 2 van de Awb luidt – voor zover hier van belang – als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 7. Beroep bij de rechtbank Rotterdam</para>
+      <para>Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de rechtbank Rotterdam.</para>
+      <para>(…)</para>
+      <para>Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken </para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 11. Hoger beroep bij het College van Beroep voor het bedrijfsleven</para>
+      <para>Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+      <para>(…)</para>
+      <para>Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken </para>
+      <para>(…)”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Wet informatie-uitwisseling ondergrondse netten was eerder niet opgenomen in Bijlage 2 bij de Awb.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wet informatie-uitwisseling ondergrondse netten (Wion)</emphasis>
+      </para>
+      <para>De Wion, die per 31 maart 2018 is komen te vervallen, luidde – voor zover hier van belang – als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 1</para>
+      <para>1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:</para>
+      <para>(…)</para>
+      <para>b. Dienst: de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster;</para>
+      <para>c. graafwerkzaamheden: het mechanisch verrichten van werkzaamheden in de ondergrond;</para>
+      <para>(…)</para>
+      <para>f. opdrachtgever: degene die opdracht geeft tot het uitvoeren van een werk waarbij graafwerkzaamheden worden verricht;</para>
+      <para>g. grondroerder: degene onder wiens verantwoordelijkheid of leiding graafwerkzaamheden worden verricht;</para>
+      <para>h. beheerder: degene die als natuurlijk persoon handelende in de uitoefening van een beroep of een bedrijf dan wel als rechtspersoon een net beheert;</para>
+      <para>(…)</para>
+      <para>k. oriëntatieverzoek: het verzoek aan de Dienst om gebiedsinformatie, bedoeld in artikel 7, eerste onderscheidenlijk tweede lid;</para>
+      <para>l. oriëntatiepolygoon: de weergave door een opdrachtgever, grondroerder of bestuursorgaan van een aangesloten gebied, ten aanzien waarvan deze met het oog op een belang als bedoeld in artikel 7, eerste of tweede lid, om gebiedsinformatie verzoekt;</para>
+      <para>m. graafmelding: de melding aan de Dienst van voorgenomen graafwerkzaamheden, bedoeld in artikel 8, eerste lid;</para>
+      <para>n. graafpolygoon: de weergave door een grondroerder van het gebied, waarbinnen de graaflocatie zich bevindt;</para>
+      <para>o. graafbericht: het bericht van de Dienst, bedoeld in artikel 9, onder b;</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2	      </para>
+      <para>1. De opdrachtgever draagt er zorg voor dat de graafwerkzaamheden waartoe hij opdracht geeft, op zorgvuldige wijze kunnen worden verricht.</para>
+      <para>2. De grondroerder verricht de graafwerkzaamheden op zorgvuldige wijze.</para>
+      <para>3. Ter uitvoering van het tweede lid zorgt de grondroerder ten minste dat:</para>
+      <para>a. vóór aanvang van de graafwerkzaamheden een graafmelding is gedaan,</para>
+      <para>b. onderzoek is verricht naar de precieze ligging van onderdelen van netten op de graaflocatie, en</para>
+      <para>c. op de graaflocatie de van de Dienst ontvangen gebiedsinformatie aanwezig is.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 9	     </para>
+      <para>Na ontvangst van een oriëntatieverzoek of graafmelding:</para>
+      <para>a. verstrekt de Dienst aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan onverwijld een ontvangstbevestiging;</para>
+      <para>b. bericht de Dienst hierover onverwijld onder vermelding van de oriëntatiepolygoon of graafpolygoon alle beheerders wier beheerpolygoon geheel of gedeeltelijk samenvalt met deze oriëntatiepolygoon onderscheidenlijk graafpolygoon.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 10	    </para>
+      <para>1. Onverwijld doch uiterlijk binnen één werkdag na verzending van een graafbericht verstrekt een beheerder via het elektronische informatiesysteem in ieder geval de volgende informatie aan de Dienst:</para>
+      <para>a. de liggingsgegevens,</para>
+      <para>b. de relevante eigenschappen van zijn net binnen de betreffende oriëntatiepolygoon dan wel graafpolygoon,</para>
+      <para>c. in voorkomend geval welke voorzorgsmaatregelen als bedoeld in artikel 13, eerste of tweede lid, zullen worden getroffen, en</para>
+      <para>d. zijn contactgegevens.</para>
+      <para>2. Indien een beheerder de termijn, genoemd in het eerste lid, overschrijdt, doet de Dienst daarvan onverwijld mededeling aan Onze Minister.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 11  </para>
+      <para>1. De Dienst verstrekt gebiedsinformatie via het elektronische informatiesysteem onverwijld na ontvangst van alle informatie als bedoeld in artikel 10, doch uiterlijk binnen twee werkdagen na verzending van het graafbericht, aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan.</para>
+      <para>2. Indien degene die het oriëntatieverzoek of de graafmelding heeft gedaan geen gebruik maakt van het elektronische informatiesysteem, verstrekt de Dienst gebiedsinformatie op andere wijze onverwijld na ontvangst van alle vereiste informatie, doch uiterlijk binnen drie werkdagen na verzending van het graafbericht.</para>
+      <para>3. Indien de Dienst niet binnen de termijn, bedoeld in het eerste lid, van alle beheerders de ingevolge artikel 10, eerste lid, vereiste informatie heeft ontvangen, doet de Dienst daarvan mededeling bij het verstrekken van de gebiedsinformatie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 25	    </para>
+      <para>Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de artikelen (…) 10, eerste lid, (…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 26	     </para>
+      <para>(…)</para>
+      <para>2. Ingeval van overtreding van het bepaalde bij of krachtens de artikelen (…)10, eerste lid, (…) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste  € 100 000.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken (Wibon)</emphasis>
+      </para>
+      <para>De Wibon luidt – voor zover hier van belang – als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 5a (tekst vanaf 1 januari 2019)</para>
+      <para>1. Een beheerder kan de Dienst verzoeken om met betrekking tot elk net dat hij beheert in het elektronische informatiesysteem de volgende informatie te bewaren:</para>
+      <para>a. informatie over de ligging van het net;</para>
+      <para>b. relevante eigenschappen van het net;</para>
+      <para>c. informatie over voorzorgsmaatregelen als bedoeld in artikel 15, eerste of tweede lid, en</para>
+      <para>d. contactgegevens van de beheerder.</para>
+      <para>2. De beheerder op wiens verzoek informatie wordt bewaard als bedoeld in het eerste lid geeft elke wijziging in die informatie onverwijld door aan de Dienst.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 11 (tekst vanaf 31 maart 2018)</para>
+      <para>1. Onverwijld doch uiterlijk binnen één werkdag na verzending van een graafbericht verstrekteen beheerder via het elektronische informatiesysteem in ieder geval de volgende informatieomtrent zijn net binnen de betreffende oriëntatiepolygoon aan de Dienst: </para>
+      <para>a. de liggingsgegevens; </para>
+      <para>b. de relevante eigenschappen van zijn net; </para>
+      <para>c. in voorkomend geval welke voorzorgsmaatregelen als bedoeld in artikel 15, eerste of tweede lid, zullen worden getroffen, en </para>
+      <para>d. zijn contactgegevens. </para>
+      <para>2. Indien een beheerder de termijn, genoemd in het eerste lid, overschrijdt, doet de Dienst daarvan onverwijld mededeling aan Onze Minister.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 11 (tekst vanaf 1 januari 2019)</para>
+      <para>1. Onverwijld doch uiterlijk binnen één werkdag na verzending van een graafbericht verstrekt een beheerder via het elektronische informatiesysteem in ieder geval de volgende informatie omtrent zijn net binnen de betreffende oriëntatiepolygoon aan de Dienst:</para>
+      <para>a. de liggingsgegevens;</para>
+      <para>b. de relevante eigenschappen van zijn net;</para>
+      <para>c. in voorkomend geval welke voorzorgsmaatregelen als bedoeld in artikel 15, eerste of tweede lid, noodzakelijk zijn, en</para>
+      <para>d. zijn contactgegevens.</para>
+      <para>2. De beheerder van wie de Dienst informatie bewaart als bedoeld in artikel 5a voldoet daarmee aan het eerste lid.</para>
+      <para>3. Indien een beheerder de termijn, genoemd in het eerste lid, overschrijdt, doet de Dienst daarvan onverwijld mededeling aan Onze Minister.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 33 (tekst vanaf 31 maart 2018)</para>
+      <para>Onze Minister is bevoegd tot het opleggen van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de artikelen (…) 11, eerste lid, (…).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 34 (tekst vanaf 31 maart 2018)</para>
+      <para>2. Ingeval van overtreding van het bepaalde bij of krachtens de artikelen (…) 11, (…) kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100.000.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 41 (tekst vanaf 31 maart 2018)</para>
+      <para>Op bezwaar en beroep ingevolge de Wet informatie-uitwisseling ondergrondse netten dat is ingediend tegen een besluit van voor de datum van inwerkingtreding van deze wet, blijven de bij of krachtens de Wet informatie-uitwisseling ondergrondse netten geldende voorschriften zoals die luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet van toepassing.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 42 (tekst vanaf 31 maart 2018)</para>
+      <para>De Wet informatie-uitwisseling ondergrondse netten wordt ingetrokken.”</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

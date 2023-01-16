@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:3662</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-23T13:16:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 2117</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3662">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3662</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-23T13:16:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:3662 Rechtbank Den Haag , 24-03-2020 / AWB - 19 _ 2117</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:3662:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Ingangsdatum van de gezinsuitkering in geschil. Terugwerkende kracht. Bijzondere omstandigehden om af te wijken. Rechtmatig verblijf partner. Eiseres als aanvrager niet aannemelijk gemaakt dat zij in bijstandbehoevende omstandigheden verkeerde.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:3662:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer:  19/2117</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 24 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser 1] en [eiser 2] , te [woonplaats] , eisers</bridgehead>
+    <para>(gemachtigde: mr. G.E.M. Later),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Den Haag, verweerder</bridgehead>
+    <para>(gemachtigde: mr. W. Punter).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 15 mei 2018 (primaire besluit I) heeft verweerder, voor zover hier van belang, met ingang van 10 april 2018 het recht op bijstand van eisers bepaald op 100% van de gezinsuitkering.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 15 mei 2018 (primaire besluit II) heeft verweerder het recht op bijstand van eisers herzien vanaf 10 april 2018, omdat eisers vanaf die datum een gezamenlijke huishouding voeren. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 15 februari 2019 (het bestreden besluit) heeft verweerder het bezwaar van eisers gegrond verklaard. Verweerder heeft daarbij de primaire besluiten herroepen en beslist dat eisers vanaf 27 november 2017 recht hebben op 100% van de gezinsuitkering.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 21 januari 2020. Namens eisers is [eiser 1] in persoon verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De rechtbank gaat uit van de navolgende feiten en omstandigheden. Mevrouw [eiser 1] ( [eiser 1] ) en haar vijf kinderen hebben de Nederlandse nationaliteit. De heer [eiser 2] ( [eiser 2] ), haar echtgenoot, heeft de Pakistaanse nationaliteit. De twee oudste kinderen zijn op [geboortedatum] 2010 geboren en op 8 oktober 2010 erkend door [eiser 2] , hun vader. [eiser 2] heeft op 21 september 2017 een aanvraag voor een verblijfsdocument EU/EER ingediend. Op 18 april 2018 is aan hem een verblijfsvergunning verleend.</para>
+    <para />
+    <para>2. [eiser 1] ontvangt sinds 8 oktober 2016 een bijstandsuitkering naar de norm voor een alleenstaande ouder. Op 27 november 2017 heeft zij een aanvraag gedaan voor een gezinsuitkering.</para>
+    <para />
+    <para>3. In het bestreden besluit heeft verweerder de primaire besluiten herzien in die zin dat de ingangsdatum van de 100% gezinsuitkering wordt gesteld op 27 november 2017.</para>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>In beroep is de ingangsdatum van de gezinsuitkering in geschil. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Eisers stellen zich op het standpunt dat deze met terugwerkende kracht moet ingaan op de datum dat de twee oudste kinderen in 2010 door hun vader zijn erkend, althans in ieder geval vanaf 21 september 2017 toen [eiser 2] , een beroep op de ‘Chavez’ uitspraak deed. Indien aan een vreemdeling met terugwerkende kracht een verblijfsvergunning is verleend, bestaan er in beginsel bijzondere omstandigheden om met terugwerkende kracht het recht op bijstand te beoordelen. In de huidige zaak gaat het niet om een verblijfsvergunning maar om een EU-status die van rechtswege bestaat. Eisers stellen zich op het standpunt dat met terugwerkende kracht vanaf 2010 moet worden beoordeeld op welke uitkering verzoekers recht hebben en hadden, waarbij de inkomsten van [eiser 2] moeten worden ingecalculeerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Verweerder stelt zich op het standpunt dat op grond van artikel 43 en 44 van de Participatiewet (Pw) in beginsel geen bijstand wordt verleend over een periode voorafgaand aan de datum waarop de betrokkene een aanvraag om bijstand heeft ingediend. Hiervan wordt slechts afgeweken indien bijzondere omstandigheden dit rechtvaardigen. Indien aan een vreemdeling met terugwerkende kracht een verblijfsvergunning wordt verleend, bestaan inderdaad op grond van vaste jurisprudentie in beginsel dergelijke bijzondere omstandigheden. Verweerder heeft in tegen die achtergrond beoordeeld of met terugwerkende kracht bijstand moet worden verleend. Uitkomst van deze beoordeling is volgens verweerder dat eisers in ieder geval hun bijstandbehoevendheid over de periode vanaf 8 oktober 2010 tot 27 november 2017 niet aannemelijk hebben gemaakt, waardoor het bestreden besluit in stand kan blijven. </para>
+      <para />
+      <parablock>
+        <para>	De rechtbank komt op basis van de beroepsgronden tot de navolgende beoordeling van het geschil.</para>
+      </parablock>
+      <para />
+      <para>5. In artikel 44, eerste lid, van de Pw is bepaald dat, indien door het college is vastgesteld dat recht op bijstand bestaat, de bijstand wordt toegekend vanaf de dag waarop dit recht is ontstaan, voor zover deze dag niet ligt voor de dag waarop de belanghebbende zich heeft gemeld om bijstand aan te vragen. Volgens vaste rechtspraak inzake de toepassing van de artikelen 43 en 44 van de Wet Werk en Bijstand (uitspraak van de Centrale Raad van Beroep (CRvB) van 21 maart 2006, ECLI:NL:CRVB:2006:AV8690), welke rechtspraak onder de Pw zijn gelding heeft behouden, wordt in beginsel geen bijstand verleend over een periode voorafgaand aan de datum waarop de belanghebbende zich heeft gemeld om bijstand aan te vragen of – in voorkomende gevallen – een aanvraag om bijstand heeft ingediend. Van dit uitgangspunt kan worden afgeweken indien bijzondere omstandigheden dat rechtvaardigen.</para>
+      <para />
+      <para>6. Zoals de CRvB in zijn uitspraak van 27 mei 2014 (ECLI:NL:CRVB: 2014:1900) heeft overwogen, bestaan in beginsel bijzondere omstandigheden om met terugwerkende kracht het recht op bijstand te beoordelen, indien aan een vreemdeling met terugwerkende kracht een verblijfsvergunning is verleend. Van een vreemdeling die niet beschikt over rechtmatig verblijf, kan immers niet worden gevergd dat hij een rechtens kansloze aanvraag doet. Dit betekent dat alvorens de vraag kan worden beantwoord of in de situatie van eisers alsnog met terugwerkende kracht het recht op bijstand moet worden beoordeeld, zal moeten worden bekeken of inderdaad kan worden vastgesteld dat [eiser 2] al vanaf 2010 rechtmatig in Nederland verbleef. Verweerder heeft tegen die achtergrond in de beroepsfase de IND verzocht de rechtmatigheid van het verblijf van [eiser 2] vanaf [geboortedatum] 2010 te beoordelen. Uitkomst van dit onderzoek is dat [eiser 2] inderdaad in de periode vanaf [geboortedatum] 2010 tot en met het moment van de aanvraag op 27 november 2017 op meerdere momenten rechtmatig in Nederland is verbleven. Desalniettemin zijn er volgens de IND binnen deze periode evenzeer een groot aantal momenten dat ten aanzien van [eiser 2] voor al dan niet langere tijd niet kan worden vastgesteld dat hij rechtmatig in Nederland verbleef. </para>
+      <para />
+      <para>7. Eisers hebben in beroep aangevoerd dat ook voor deze tussenliggende perioden rechtmatig verblijf bestond. Aan de hand van nadere stukken hebben zij daartoe gesteld dat ook de perioden dat volgens de IND het rechtmatig verblijf niet kan worden vastgesteld, [eiser 2] steeds weldegelijk met [eiser 1] samenwoonde en bij haar verbleef, en dat hij toen bovendien de zorg had voor zijn kinderen. De rechtbank stelt vast dat deze onderbouwing niet de gehele periode bestrijkt. De rechtbank deelt in dit verband het standpunt van de gemachtigde van verweerder ter zitting dat de vraag of de aangevoerde stukken aanleiding zouden moeten vormen voor verweerder om de IND aanvullend onderzoek te laten verrichten, in de thans voorliggende procedure uitsluitend relevantie toekomt indien eisers gedurende de periode in geding ook bijstandbehoevend waren. Indien immers vast zou staan dat [eiser 2] vanaf 2010 rechtmatig in Nederland verblijft, moet vervolgens nog worden onderzocht of de bijstand inderdaad met terugwerkende kracht kan worden verleend en dus of eisers toen bijstandbehoevend waren. De rechtbank zal daarom de vraag naar de bijstandbehoevendheid van eisers eerst beoordelen. </para>
+      <para />
+      <para>8. Zoals de CRvB meermalen heeft overwogen (zie onder meer de uitspraak van 2 juli 2019, ECLI:NL:CRVB:2019:2171) staat bij voornoemd onderzoek naar het met terugwerkende kracht verlenen van bijstand, voorop dat het gaat om een aanvraag om bijstand. Bij aanvragen om bijstand rust de bewijslast van bijstandbehoevendheid in beginsel op de aanvrager zelf. De omstandigheid dat een aanvraag om bijstand met terugwerkende kracht moet worden beoordeeld, maakt dit niet anders. Van een aanvrager mag in dit licht worden verlangd dat hij over de achteraf te beoordelen periode zo gedetailleerd en nauwkeurig mogelijk opgave doet van de wijze waarop hij in zijn levensonderhoud heeft voorzien. Het aanvullend karakter van de Pw brengt mee dat de aanvrager aannemelijk dient te maken dat hij over de achteraf te beoordelen periode kosten voor levensonderhoud heeft gemaakt en tot welke omvang en dat daarin nog niet is voorzien. Indien hij hierin slaagt, dient de bijstandverlening beperkt te blijven tot de som van die kosten. Een aanvrager zal aan de op hem rustende bewijslast bijvoorbeeld kunnen voldoen door aannemelijk te maken dat derden feitelijk in die kosten hebben voorzien en hij om die reden een reële schuld met een daadwerkelijke en concrete terugbetalings-verplichting is aangegaan. Dit kan met moeilijkheden gepaard gaan. Door de CRvB wordt in dit verband onderkend dat in het geval dat een aanvrager in de achteraf te beoordelen periode als vreemdeling wel rechtmatig verblijf heeft gehad maar niet was toegelaten of zelfs in het geheel geen rechtmatig verblijf had, sprake is van een bijzondere complicatie. Zo’n aanvrager beschikt door zijn verblijfsstatus immers over veel minder mogelijkheden om zijn bijstandsbehoeftigheid te onderbouwen dan Nederlanders en toegelaten vreemdelingen. Dit doet volgens de CRvB echter geen afbreuk aan de hierboven genoemde verplichting van de aanvrager.  </para>
+      <para>9. Alhoewel de rechtbank zich bewust is van de hoge drempel die aldus in de rechtspraak voor situaties als deze wordt aangelegd, is de rechtbank gehouden ook ten aanzien van de aanvraag van eisers de hiervoor onder 8 vermelde toets toe te passen. De rechtbank oordeelt in dit verband dat hetgeen eisers hebben aangevoerd geen schulden betreffen die zijn aangegaan om in de kosten van levensonderhoud te voorzien. Ook overigens bevinden zich geen aanknopingspunten in het dossier op grond waarvan naar het oordeel van de rechtbank aannemelijk is dat eisers in de periode in geding kosten van levensonderhoud hebben gemaakt waarin thans nog niet is voorzien. Zoals ter zitting besproken, zou het gegeven dat mevrouw [eiser 1] tussen 2014 en 2017 in de schuldhulpverlening heeft gezeten, in dit verband juist als aanwijzing kunnen gelden dat thans geen schulden meer resteren. Ten aanzien van de door mevrouw [eiser 1] opgebouwde en door haar terug te betalen studieschuld heeft in dit licht naar het oordeel van de rechtbank te gelden dat deze schuld is ontstaan door toekenning van studiefinanciering voor een opleiding. Daargelaten dat een dergelijke schuld eerst twee jaar na het beëindigen van de opleiding (naar draagkracht) moet worden terugbetaald, kan niet worden gezegd dat deze schuld is gemaakt om te kunnen voorzien in de kosten van levensonderhoud van eisers.</para>
+      <para />
+      <para>10. Gelet op het voorgaande heeft verweerder zich naar het oordeel van de rechtbank terecht op het standpunt gesteld dat eisers niet aannemelijk hebben gemaakt dat zij in de periode in geding (8 oktober 2010 tot 27 november 2017) verkeerde in bijstandbehoevende omstandigheden zoals onder 8 vermeld. Dit maakt dat de vraag of [eiser 2] in deze periode al dan niet legaal in Nederland is verbleven, verder onbesproken kan blijven. Dat leidt er naar het oordeel van de rechtbank tevens toe dat het gegeven dat verweerder in de beroepsfase nader onderzoek bij de IND heeft laten doen, niet maakt dat bestreden voor vernietiging in aanmerking komt. Aangenomen dat het bestreden besluit, voor zover is uitgegaan van 27 november 2017 als ingangsdatum voor de beoordeling, een gebrek bevat, dient dit gebrek naar het oordeel van de rechtbank met toepassing van artikel 6:22 van de Awb te worden gepasseerd, omdat eisers niet zijn benadeeld. Naar het oordeel van de rechtbank heeft verweerder immers om redenen als hiervoor genoemd terecht vanaf de datum aanvraag, 27 november 2017, aan eisers bijstand verleend op 100% van de gezinsuitkering.</para>
+      <para />
+      <para>11. Uit al het voorgaande volgt dat het beroep ongegrond is. </para>
+      <para />
+      <para>12. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 24 maart 2020 door mr. O.M. Harms, rechter, in aanwezigheid van A. Jansen, griffier. Als gevolg van de maatregelen rondom het Corona virus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op rechtspraak.nl</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">de griffier is niet in</emphasis> 						rechter</para>
+      <para>
+        <emphasis role="italic">de gelegenheid deze  </emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">uitspraak mede te </emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">ondertekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

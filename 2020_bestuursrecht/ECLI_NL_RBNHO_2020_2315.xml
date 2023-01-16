@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:2315</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-06T15:00:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 1601</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Alkmaar</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0019057&amp;g=2020-03-19">Wet werk en inkomen naar arbeidsvermogen</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2315">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2315</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-06T10:46:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:2315 Rechtbank Noord-Holland , 02-04-2020 / AWB - 19 _ 1601</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:2315:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WIA beroep ongegrond, belastbaarheid juist vastgesteld.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:2315:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Alkmaar</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/1601</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 2 april 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. E. Kaya),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Raad van Bestuur van het Uitvoeringsinstituut werknemersverzekeringen</emphasis>, verweerder</para>
+      <para>(gemachtigde: W. van Nieuwburg).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 september 2018 (het primaire besluit) heeft verweerder met ingang van 17 november 2018 aan eiser een loongerelateerde werkhervattingsuitkering gedeeltelijk arbeidsongeschikten (WGA) toegekend, berekend naar een mate van arbeidsongeschiktheid van 35 tot 80%.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 maart 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 27 februari 2020. Namens eiser is zijn gemachtigde verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser was laatstelijk werkzaam als [functie] voor 40 uur per week. Op 16 november 2016 heeft hij zich ziek gemeld. Op 27 juli 2018 heeft eiser een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen (WIA) aangevraagd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>In dat kader is eiser op 5 september 2018 gezien op het spreekuur van de verzekeringsarts. Volgens de verzekeringsarts is sprake van verminderde benutbare mogelijkheden als rechtstreeks gevolg van ziekte of gebrek. De verzekeringsarts heeft rekening gehouden met de lichamelijke klachten van eiser en heeft hiervoor beperkingen in de functionele mogelijkhedenlijst (FML) aangenomen in de rubrieken dynamische handelingen, statische houdingen en werktijden. Eiser kan volgens de verzekeringsarts gemiddeld ongeveer 20 uur per week werken. De arbeidsdeskundige heeft vervolgens functies geduid en het arbeidsongeschiktheidspercentage van eiser per 17 november 2018 vastgesteld op 59,73%. Op grond hiervan heeft verweerder het primaire besluit genomen. Eiser heeft bezwaar gemaakt tegen dit besluit.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>De verzekeringsarts bezwaar en beroep heeft geen aanleiding gezien af te wijken van het primaire medische oordeel. De arbeidsdeskundige bezwaar en beroep heeft het maatmaninkomen en de maatmanomvang aangepast en heeft één van de geduide functies verworpen. Op basis van de resterende geschikte functies heeft hij het arbeidsongeschiktheidspercentage vastgesteld op 59,79%. Op grond hiervan heeft verweerder het bestreden besluit genomen. </para>
+      <para />
+      <parablock>
+        <para>2.	Eiser stelt in beroep dat hij meer beperkt is dan verweerder heeft aangenomen. Hiertoe stelt eiser dat onvoldoende rekening is gehouden met zijn rug-, nek-, arm-, hand-, knie- en beenklachten. Ook heeft verweerder geen rekening gehouden met de combinatie van zijn verschillende lichamelijke klachten, met de bijwerkingen van de medicatie die eiser gebruikt en met externe factoren. Ter onderbouwing heeft eiser informatie overgelegd van de huisarts van 31 maart 2019, de revalidatiearts van 1 februari 2019 en 17 juli 2018, de orthopedisch chirurg van 7 december 2019, 11 april 2019, 20 november 2018, 28 juni 2018 en 7 juni 2018, de neuroloog van 9 december 2019, 10 oktober 2018, 30 maart 2018 en 21 februari 2018 en de anesthesioloog-pijnspecialist van 11 december 2019 en 29 september 2017.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>De rechtbank ziet geen grond voor het oordeel dat de rapporten van de verzekeringsartsen niet zorgvuldig tot stand zijn gekomen. De verzekeringsartsen hebben het dossier bestudeerd en eiser medisch onderzocht. De verzekeringsartsen beschikten dan ook over voldoende gegevens om tot een afgewogen oordeel over de medische gesteldheid van eiser te komen. Verder heeft de verzekeringsarts bezwaar en beroep in beroep uitgebreid  gereageerd op de beroepsgronden van eiser en de ingebrachte medische informatie.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Er is evenmin aanleiding voor twijfel aan de juistheid van het medische oordeel. De belastbaarheid van eiser op de datum in geding, dat is 17 november 2018, is in de medische rapporten inzichtelijk en op overtuigende wijze gemotiveerd. Tegenover de rapportages van de verzekeringsartsen ziet de rechtbank in wat eiser naar voren heeft gebracht en aan (medische) stukken heeft overgelegd, geen onderbouwing van zijn stelling dat hij meer beperkt is dan wordt aangenomen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>De verzekeringsartsen hebben de rug- en schouderklachten van eiser erkend en hebben hiervoor beperkingen aangenomen in de FML. De rechtbank kan de verzekeringsarts bezwaar en beroep volgen in zijn conclusie dat uit de informatie van de revalidatiearts van 1 februari 2019 en de pijnspecialist van 29 september 2017 niet blijkt dat het steeds slechter gaat met de rug- en schouderklachten van eiser. Zij schrijven weliswaar dat de therapie een verslechtering gaf van de klachten en dat eiser meer last had, maar de door eiser ervaren klachten zijn niet bepalend voor de mate van arbeidsongeschiktheid. Bepalend daarvoor zijn de objectief medisch vastgestelde beperkingen van eisers mogelijkheden om arbeid te verrichten. Uit het rapport van 22 februari 2019 volgt dat de verzekeringsarts bezwaar en beroep bij eigen onderzoek geen ernstige afwijkingen heeft gevonden. Ook uit de overgelegde medische informatie komt niet naar voren dat hiervan sprake is. De orthopeed schrijft in zijn brief van 20 november 2018 dat geen sprake is van evidente schouderproblematiek en uit de informatie van de neuroloog van 10 oktober 2018 volgt dat de schouderklachten tendomyogene klachten betreffen. Verder heeft de verzekeringsarts bezwaar en beroep bij de WIA-beoordeling terecht geen rekening gehouden met externe factoren (de taalbarrière, een sterke somatische zoekvraag, de extra druk door het Uwv-traject en de beperkte sociale contacten). Hieraan ligt immers geen medisch objectieve oorzaak ten grondslag. Dat sprake zou zijn van een HNP waar onvoldoende rekening mee is gehouden volgt niet uit de medische informatie van de neuroloog van 30 maart 2018. Hierin staat beschreven dat sprake is van restklachten na een HNP. Dit betreft dus een HNP uit het verleden. De gemachtigde van eiser heeft dit ter zitting desgevraagd ook bevestigd. Met deze klachten heeft de verzekeringsarts bezwaar en beroep rekening gehouden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Met betrekking tot de knie- en beenklachten volgt uit het rapport van de verzekeringsarts bezwaar en beroep van 22 februari 2019 dat bij eigen onderzoek normale kniefuncties zijn waargenomen. Ook uit de informatie van de pijnspecialist van 29 september 2017 blijkt niet dat sprake is van structurele knieproblemen bij eiser. De enkele vermelding dat eiser een krakend gevoel heeft in zijn knie is, zoals de verzekeringsarts bezwaar en beroep heeft aangegeven, onvoldoende. Verder blijkt uit voornoemd rapport van de verzekeringsarts bezwaar en beroep dat rekening is gehouden met een moeizame tenen- en hakkengang en problemen met het linkerbeen. De stelling van eiser dat hij door zijn beenklachten instabiel is, heeft hij onvoldoende aannemelijk gemaakt. De stelling dat hij in december 2019 nog ongelukkig ten val is gekomen als gevolg van die instabiliteit, brengt daarin geen verandering. Die omstandigheid dateert immers van ruim na de datum in geding.    </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>Voor wat betreft de nek-, hand- en armklachten kan de rechtbank de verzekeringsarts bezwaar en beroep volgen dat er onvoldoende objectieve medische grond bestaat om eiser hiervoor meer beperkt te achten. De verzekeringsarts bezwaar en beroep heeft bij eigen onderzoek geen ernstige structurele nekafwijkingen gevonden. Ook is geen sprake van een neurologisch beeld vanuit de nek. Verder volgt uit het onderzoek door de verzekeringsarts bezwaar en beroep dat het moeizame bewegen van de nek te maken heeft met spierpijn, dat de armreflexen intact zijn, de knijpkracht redelijk tot goed is en dat de motoriek van de handen en vingers normaal is. De onderzoeksbevindingen van de verzekeringsarts bezwaar en beroep worden ondersteund door de brief van de neuroloog van 10 oktober 2019. Die heeft geconcludeerd dat sprake is van tendomyogene klachten van de linkerarm. Verder heeft de neuroloog bij beeldvormend onderzoek van de nek alleen wat milde degeneratieve veranderingen gezien. De rechtbank kan de verzekeringsarts bezwaar en beroep dan ook volgen in de conclusie dat normale dynamische en statische belasting niet schadelijk is voor eiser, dat bewegen van de gewrichten gewenst is en dat bewegen ook goed is voor de spieren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <para>Dat de verzekeringsarts bezwaar en beroep onvoldoende rekening heeft gehouden met de combinatie van de verschillende klachten is de rechtbank gelet op wat hiervoor is overwogen niet gebleken. Eiser heeft deze stelling bovendien niet nader onderbouwd. Ook is de rechtbank niet gebleken dat onvoldoende rekening is gehouden met de bijwerkingen van de medicatie die eiser gebruikt. De verzekeringsartsen hebben bij de beoordeling rekening gehouden met het gebruik van Naproxen, zoals blijkt het de rapportage van de verzekeringsarts van 5 september 2018. Bovendien is gesteld noch gebleken dat eiser bijwerkingen heeft van dit medicijn. Evenmin is gebleken dat eiser op de datum in geding andere medicatie gebruikte. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7.</nr>
+      <para>Gelet op het voorgaande kan de medische grondslag van het bestreden besluit in stand blijven.</para>
+      <para />
+      <para>4. Met betrekking tot de arbeidskundige grondslag van het bestreden besluit heeft eiser gesteld dat hij de functies niet kan verrichten, omdat zijn belastbaarheid is onderschat. Gelet op rechtsoverweging 3.6 is daarvan niet gebleken. Verder heeft de arbeidsdeskundige bezwaar en beroep in zijn rapport van 25 februari 2019 voldoende gemotiveerd dat de geduide functies, rekening houdend met de beperkingen van eiser, geschikt zijn voor eiser en zijn belastbaarheid niet te boven gaan. De arbeidsdeskundige bezwaar en beroep heeft daarbij gemotiveerd aangegeven dat de geconstateerde signaleringen geen overschrijdingen van de belastbaarheid van eiser inhouden. De rechtbank ziet geen aanleiding dit standpunt niet te volgen. </para>
+      <para />
+      <para>5. Al het hiervoor vermelde leidt ertoe dat het beroep ongegrond is. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.R. ten Berge, rechter, in aanwezigheid van </para>
+      <para>I.M. Wijnker-Duiven, griffier, op 2 april 2020. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.   </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

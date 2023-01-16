@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:5358</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-03T16:04:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 20_953</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5358">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5358</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-03T16:03:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:5358 Rechtbank Zeeland-West-Brabant , 13-08-2020 / AWB- 20_953</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:5358:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>HOREC</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:5358:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 20/953 HOREC</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 13 augustus 2020 van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam eiser] h.o.d.n [naam] , te [plaatsnaam] , eiser, </bridgehead>
+    <para>gemachtigde: mr. A. Kara,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Tilburg, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para>Eiser heeft beroep ingesteld tegen het besluit van 27 december 2019 (bestreden besluit) van verweerder over de intrekking van een Drank- en Horecavergunning (DHW-vergunning) en een exploitatievergunning. </para>
+    <para />
+    <parablock>
+      <para>Het beroep is behandeld op de zitting in Breda op 30 juli 2020. Eiser en zijn gemachtigde waren daarbij aanwezig. Namens het college was daarbij aanwezig mr. A.M.J. van de Biggelaar. <?linebreak?></para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <bridgehead role="italic">1.	Feiten </bridgehead>
+    <para />
+    <parablock>
+      <para>Op 22 januari 2015 heeft de burgemeester aan eiser een DHW-vergunning<footnote-ref linkend="_89c70e7f-a9a4-49cc-9036-eb9b673b218a" /> en een exploitatievergunning<footnote-ref linkend="_94cc3b03-6950-446f-aa8d-8337dc25525a" /> verleend, voor de exploitatie van een horecabedrijf aan de [adres] te [plaatsnaam] . Daarnaast heeft de burgemeester op diezelfde dag een aanwezigheidsvergunning verleend aan eiser voor het mogen plaatsen van kansspelautomaten in het horecabedrijf voor de periode van 22 januari 2015 tot 22 januari 2019.</para>
+      <para>
+        <?linebreak?>Op 2 maart 2018 heeft een toezichthouder van de gemeente Tilburg een controle uitgevoerd op het perceel. Uit het controlerapport van 6 maart 2018 blijkt dat de toezichthouder heeft geconstateerd dat in het horecabedrijf verschillende laptops aanwezig waren, die werden gebruikt als kansspelautomaat. De laptops waren niet voorzien van een merkteken als bedoeld in artikel 30r van de Wok. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 april 2018 heeft de burgemeester aan eiser een last onder dwangsom opgelegd wegens handelen in strijd met artikel 30b van de Wok: het zonder vergunning aanwezig hebben van kansspelautomaten.  <?linebreak?></para>
+      <para>Op 13 december 2018 hebben toezichthouders van de gemeente Tilburg nogmaals een controle uitgevoerd op het perceel. Uit de controlerapporten van 20 december 2018 en 21 december 2018 blijkt dat door hen is geconstateerd dat in het horecabedrijf een laptop zonder merkteken aanwezig was, die werd gebruikt als kansspelautomaat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij invorderingsbeschikking van 30 januari 2019 heeft de burgemeester aan eiser medegedeeld dat hij een dwangsom heeft verbeurd en dat de burgemeester over gaat tot invordering daarvan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 21 februari 2019 hebben toezichthouders van de gemeente Tilburg andermaal een controle uitgevoerd op het perceel. Uit het controlerapport van 25 februari 2019 blijkt dat door hen is geconstateerd dat twee kansspelautomaten aanwezig waren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De constateringen op 2 maart 2018 en 13 december 2018 deden bij de burgemeester het vermoeden ontstaan dat de DHW-vergunning en exploitatievergunning van eiser mogelijk worden gebruikt om strafbare feiten te plegen. Bij brief van 1 april 2019 heeft de burgemeester eiser gevraagd een Bibob-vragenformulier in te vullen. Dat verzoek is bij brief van 18 april 2019 herhaald. In deze brieven heeft de burgemeester aangegeven dat de DHW-vergunning en de exploitatievergunning worden ingetrokken, wanneer eiser niet aan het verzoek voldoet. De burgemeester heeft eiser bij brief van 21 mei 2019 medegedeeld dat hij voornemens is de vergunningen in te trekken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 juni 2019 (primair besluit) heeft de burgemeester de DHW-vergunning en de exploitatievergunning van eiser ingetrokken. <?linebreak?>Eiser heeft daar bij brief van 12 juli 2019 bezwaar tegen gemaakt. <?linebreak?></para>
+      <para>De burgemeester heeft dat bezwaar bij bestreden besluit ongegrond verklaard.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Eiser heeft daar op 3 februari 2020 beroep tegen ingesteld.</title>
+    <para />
+    <para>
+      <emphasis role="italic">2.	Beroepsgronden </emphasis>
+      <?linebreak?>Het bestreden besluit is volgens eiser inhoudelijk onjuist, onvoldoende onderbouwd en daarom in strijd met de Awb en de algemene beginselen van behoorlijk bestuur. Wanneer een vergunning is verleend, kan de vergunninghouder slechts worden onderworpen aan een Bibob-toets in de in de Wet Bibob en het Bibob-beleid genoemde gevallen. De constateringen van de toezichthouders konden geen aanleiding vormen voor een Bibob-toets. De constateringen die zijn gedaan op 2 maart 2018 zijn gedaan voordat het Bibob-beleid is ingevoerd (op 4 juni 2019). Eiser betwist daarnaast dat de laptops zouden zijn ingericht als kansspelautomaat. Ook is de verplichting tot het aanbrengen van een merkteken<footnote-ref linkend="_cafe1991-7871-4a29-863f-850a114ae643" /> een verplichting die geldt voor de exploitatievergunninghouder en niet voor eiser. Zelfs indien de constateringen van de toezichthouders juist zouden zijn, geldt dat deze constateringen zijn gedaan voor de afloop van de aanwezigheidsvergunning. Indien sprake zou zijn van een overtreding van de Wok voor het verstrijken van die vergunning, zou het enige logische en proportionele gevolg daarvan zijn dat de aanwezigheidsvergunning niet wordt verlengd. </para>
+    <para />
+    <parablock>
+      <para>Het niet inzenden van de ingevulde bibob-formulieren kan ook niet zelfstandig leiden tot intrekking van de DHW-vergunning en de exploitatievergunning. De noodzakelijke gegevens voor de Bibob-toets als bedoeld in artikel 30 van de Wet Bibob waren namelijk bekend bij de burgemeester of konden bekend zijn. Daar heeft eiser aan toegevoegd dat het bestreden besluit in strijd is met het motiveringsbeginsel, omdat niet duidelijk is of de beslissing is genomen op grond van artikel 3, eerste lid, onder a of b, artikel 4 of artikel 30 van de Wet Bibob. Indien de beslissing is genomen op grond van artikel 3, betwist eiser dat sprake is van ernstig gevaar dat de vergunningen zouden worden gebruikt voor uit gepleegde strafbare feiten verkregen of te verkrijgen op geld waardeerbare voordelen te benutten dan wel strafbare feiten te plegen. Er zijn geen feiten en omstandigheden die daarop wijzen. Ook kan de beslissing op bezwaar de evenredigheidstoets van artikel 3, vijfde lid, van de Wet Bibob niet doorstaan. Wanneer sprake zou zijn van een overtreding van de Wok, dan is de Kansspelautoriteit het bevoegde gezag om daartegen op te treden. </para>
+    </parablock>
+    <para>
+      <?linebreak?>
+      <emphasis role="italic">4.	Wettelijk kader </emphasis>
+      <?linebreak?>De relevante wettelijke bepalingen zijn opgenomen in een bijlage, die deel uitmaakt van deze uitspraak.</para>
+    <para />
+    <para>
+      <emphasis role="italic">5.	Beroepsgronden </emphasis>
+      <?linebreak?>
+    </para>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>De burgemeester heeft aangevoerd dat het beroep van eiser ongegrond moet worden verklaard, omdat eiser in beroep geen nieuwe beroepsgronden heeft aangevoerd en volstaat met een enkele verwijzing naar hetgeen reeds in bezwaar is aangevoerd. Eiser moet volgens de burgemeester gemotiveerd aangeven waarom de beslissing op bezwaar niet in stand kan blijven.<footnote-ref linkend="_494769c9-3e87-47e3-935e-a707d2879f00" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank heeft eiser niet volstaan met een enkele verwijzing naar de bezwaargronden. In het beroepschrift heeft eiser de gronden van bezwaar integraal overgenomen en schrijft hij dat de beslissing op bezwaar gelet op die gronden inhoudelijk onjuist is, onvoldoende is onderbouwd en op onjuiste gronden berust, waardoor het besluit niet is genomen met inachtneming van de eisen die de Awb en de beginselen van behoorlijk bestuur aan de beslissing stelt. Daar leidt de rechtbank uit af dat hij dezelfde bezwaren heeft tegen de beslissing op bezwaar als tegen het primair besluit. </para>
+        <para>Gelet daarop heeft eiser afdoende aangegeven waarom de beslissing op bezwaar niet in stand kan blijven. Overigens staat dit los van de vraag of de gronden in inhoudelijk opzicht steekhoudend genoeg zijn om te concluderen dat het bestreden besluit vernietigd moet worden.<footnote-ref linkend="_e3a15517-e7b0-4be7-a78d-0383f9ef5dd4" /></para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">6.	Pleitaantekeningen </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>De rechtbank heeft op 29 juli 2020 pleitaantekeningen ontvangen van de gemachtigde van eiser. In die pleitaantekeningen staan nieuwe gronden genoemd. De rechtbank stelt vast dat de pleitaantekeningen en nieuwe gronden binnen de 10-dagen-termijn zijn ingediend.<footnote-ref linkend="_1de6c85b-4c2a-4c76-9198-58d205053073" /> Naar het oordeel van de rechtbank verzet de goede procesorde zich ertegen dat het stuk en de nieuwe gronden bij de beoordeling van het bestreden besluit worden betrokken.<footnote-ref linkend="_2ec2dc0a-b91e-40cc-89e9-814bcbe6afd8" /> De rechtbank heeft daarbij in aanmerking genomen dat de pleitaantekeningen pas één dag voor de zitting zijn ingediend en dat de burgemeester voorafgaand aan de zitting onvoldoende kennis heeft kunnen nemen van de nieuwe gronden en daardoor onvoldoende gelegenheid heeft gehad om daar adequaat op te kunnen reageren. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">7.	Het primaire besluit, het bestreden besluit en de last onder dwangsom </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>In het primair besluit heeft de burgemeester de DHW-vergunning en de exploitatievergunning van eiser ingetrokken. De burgemeester zag aanleiding om een Bibob-toets uit te voeren, omdat door toezichthouders op 2 maart 2018 en 13 december 2018 is geconstateerd dat in het horecabedrijf van eiser kansspelautomaten aanwezig waren, zonder daarvoor vereiste vergunning. Dat is op grond van de Wok verboden.<footnote-ref linkend="_5fcbc20e-a8c1-497d-954b-89c803527dfe" /> De burgemeester heeft eiser in de gelegenheid gesteld om een Bibob-formulier in te vullen. Eiser heeft dat nagelaten. In de beslissing op bezwaar heeft de burgemeester het bezwaar van eiser ongegrond verklaard. De rechtbank is van oordeel dat de burgemeester in het primair besluit en in het bestreden besluit wel degelijk duidelijk heeft gemotiveerd op grond van welke bepalingen uit de Wet Bibob de vergunningen zijn ingetrokken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Daarnaast heeft de burgemeester aan eiser een last onder dwangsom opgelegd, wegens het in strijd met de Wok in het horecabedrijf aanwezig hebben van kansspelautomaten, zonder de daarvoor vereiste vergunning. Die kansspelautomaten waren niet voorzien van een merkteken als bedoeld in de Wok.<footnote-ref linkend="_c560b2bb-0266-4cdb-8fe5-e5a384cd4dd2" /> Gelet daarop waren deze laptops volgens de burgemeester niet toegelaten als kansspelautomaat. Ter zitting is door eiser bevestigd dat hij geen rechtsmiddelen heeft ingesteld tegen die last en ook niet tegen de invorderingsbeschikking die daarop heeft gevolgd. Die besluiten zijn inmiddels onherroepelijk. Een besluit dat onherroepelijk is geworden, heeft formele rechtskracht. Dat betekent dat in beginsel moet worden uitgegaan van de juistheid van de besluiten.<footnote-ref linkend="_01222ff9-a130-41eb-beae-7ff1741f63c9" /></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">8.	De intrekking van de DHW-vergunning en de exploitatievergunning </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <parablock>
+        <para>In artikel 3 van de Wet Bibob staat dat een bestuursorgaan een gegeven beschikking in kan trekken, indien ernstig gevaar bestaat dat de beschikking mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten of om strafbare feiten te plegen. Die bevoegdheid heeft een bestuursorgaan alleen, wanneer die bevoegdheid in de op de vergunning betrekking hebbende wet- of regelgeving aan dat bestuursorgaan is toegekend. In de Drank- en Horecawet<footnote-ref linkend="_ee42b1a7-257f-41bf-8064-f93cdcd79c7e" /> is die bevoegdheid aan de burgemeester toegekend ten aanzien van de DHW-vergunning en op grond van de Wet Bibob geldt hetzelfde voor de exploitatievergunning.<footnote-ref linkend="_2370c2f0-f41f-4fa1-b9cf-819227c0ab10" /></para>
+        <para>
+          <emphasis role="italic">Aanleiding voor een Bibob-toets </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Eiser stelt onder andere dat de burgemeester niet bevoegd was tot het uitvoeren van een Bibob-toets. Gelet daarop ligt eerst aan de rechtbank de vraag voor of sprake was van feiten of omstandigheden op grond waarvan de burgemeester in redelijkheid kon vermoeden dat de vergunningen werden gebruikt om strafbare feiten te plegen of om uit gepleegde strafbare feiten verkregen op geld waardeerbare voordelen te benutten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>De burgemeester heeft op 4 juni 2018 Bibob-beleid vastgesteld. In het beleid is neergelegd wanneer de burgemeester over gaat tot een bibob-toets. In paragraaf 3.1 staat: <emphasis role="italic">“De Bibob-toets kan ook van toepassing zijn op reeds verleende beschikkingen indien hiertoe aanleiding bestaat op grond van:</emphasis></para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>
+            <emphasis role="italic">(Eigen) ambtelijke informatie</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="italic">Informatie verkregen van het Bureau</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="italic">Informatie verkregen van één van de partners uit het samenwerkingsverband RIEC</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="italic">Informatie verkregen van het Openbaar Ministerie als bedoeld in artikel 26 van de Wet Bibob</emphasis>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis role="italic">Andere relevante signalen“</emphasis>. </para>
+        </listitem>
+      </itemizedlist>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <para>Naar het oordeel van de rechtbank bestonden feiten en omstandigheden op grond waarvan de burgemeester in redelijkheid kon vermoeden dat de vergunningen werden gebruikt om strafbare feiten te plegen of om uit gepleegde strafbare feiten verkregen op geld waardeerbare voordelen te benutten. Gelet daarop heeft de burgemeester in redelijkheid mogen besluiten tot het uitvoeren van een Bibob-toets. De burgemeester heeft dat vermoeden ook in redelijkheid kunnen baseren op de controlerapporten (ambtelijke informatie) die zijn opgesteld door toezichthouders van de gemeente Tilburg naar aanleiding van controles in het horecabedrijf van eiser op 3 maart 2018 en 13 december 2019. In de Wok staat dat de bij besluit van de burgemeester aangewezen ambtenaren en personen belast zijn met toezicht op de naleving van het bepaalde bij of krachtens titel VA, paragraaf 2, van de Wok.<footnote-ref linkend="_e31271ae-17c6-467a-86a1-dc4afd52faeb" /> De controles hebben plaatsgevonden door een medewerker van de afdeling Veiligheid &amp; Wijken, team Toezicht en Handhaving. Dergelijke medewerkers zijn door de burgemeester bij besluit van 10 februari 2015 belast met het toezicht. Gelet daarop waren zij bevoegd om de controles uit te voeren en zijn de controlerapporten bevoegd verkregen bewijs. </para>
+      <para />
+      <parablock>
+        <para>Uit de controlerapporten blijkt dat de toezichthouders in het horecabedrijf van eiser laptops hebben aangetroffen die als kansspelautomaat werden gebruikt. Door de toezichthouders is geconstateerd dat de laptops op zodanige wijze waren opgesteld en inricht, dat deze redelijkerwijs konden worden aangemerkt als kansspelautomaat.<footnote-ref linkend="_c06739ba-8655-4061-b3f5-1be6681ec3d6" /> De laptops waren zonder wachtwoord te openen en op beide laptops verscheen bij het openen ervan een groene internetpagina met de tekst erboven: “Gigabet”. Door middel van de laptops konden weddenschappen geplaatst worden op de uitkomst van voetbalwedstrijden. De toezichthouder heeft ter controle ook daadwerkelijk een weddenschap kunnen afsluiten. Tijdens de eerste controle zijn printerrollen gevonden en tijdens de tweede controle is de printer gevonden waarop de betting slips werden afgedrukt in de keuken van het horecabedrijf. Het horecabedrijf was voor publiek toegankelijk. In beide controlerapporten schrijft de toezichthouder namelijk dat hij/zij het pand zonder enige belemmering kon betreden en dat het pand geopend was en voor publiek toegankelijk. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van de Wok is het verboden om zonder vergunning van de burgemeester kansspelautomaten aanwezig te hebben op voor het publiek toegankelijke plekken.<footnote-ref linkend="_48afe066-91f3-4bd8-ac53-fbf89a3e5da0" /> Dit wordt ook aangemerkt als een strafbaar feit (misdrijf).<footnote-ref linkend="_7e22339f-b86d-4fba-8fb8-dbf270b10df6" /> Eiser betwist dat de laptops zouden zijn ingericht als kansspelautomaat en betwist daarmee dat sprake is van een overtreding van voornoemd verbod. Zoals de rechtbank onder 7.2 heeft opgemerkt, is het besluit waarin een last onder dwangsom is opgelegd ten aanzien van overtreding van dat verbod - vanwege het niet instellen van rechtsmiddelen daartegen - in rechte onaantastbaar en ziet de rechtbank geen aanleiding om niet uit te gaan van de juistheid van dat besluit en de feitelijke constateringen die in dat besluit liggen besloten. Gelet daarop gaat de rechtbank er van uit dat de laptops waren ingericht als kansspelautomaat en dat sprake was van een overtreding van voornoemd verbod. Dat de burgemeester een vergunning heeft verleend voor het aanwezig hebben van kansspelautomaten voor de periode van 22 januari 2015 tot 22 januari 2019, maakt die conclusie niet anders. Omdat de laptops niet waren voorzien van een merkteken als bedoeld in de Wok<footnote-ref linkend="_1dd6f28c-a703-453e-aadf-fbd1acdb095c" />, zag de vergunning niet op die laptops. De burgemeester heeft toegelicht dat voor dergelijke merkloze kansspelautomaten geen vergunning kan worden verleend. Ten overvloede voegt de rechtbank daar aan toe dat uit de Wok ook blijkt dat het aanwezig hebben van een of meer speelautomaten zonder merkteken in het horecabedrijf van eiser verboden is op grond van de Wok. Ook dat wordt aangemerkt als strafbaar feit.<footnote-ref linkend="_870bbd4a-6f69-4934-9b60-4eb6b37ee53b" /> Dat eiser stelt dat de verplichting tot het aanbrengen van een merkteken niet voor hem geldt, is daarom niet relevant. </para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">Intrekking van de vergunningen  </emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.5</nr>
+      <para>Op grond van de Wet Bibob is een betrokkene verplicht om gegevens en bescheiden te verschaffen, indien onderzoek wordt gedaan met het oog op een beslissing ter zake van een intrekking op grond van de Wet Bibob.<footnote-ref linkend="_fb3f52e4-da5e-42c6-8bd9-31b8ead3c027" /> De betrokkene dient desgevraagd gegevens en bescheiden te verschaffen over de feiten en omstandigheden die relevant (kunnen) zijn voor de beoordeling van voornoemd gevaar. Voor het verstrekken van die gegevens en bescheiden zijn formulieren vastgesteld.<footnote-ref linkend="_a97260a4-a561-45e2-bc0e-2cf9b0213d02" /> Indien de betrokkene in het kader van een aanvraag weigert deze gegevens te verstrekken kan het bestuursorgaan de aanvraag op grond van artikel 4:5 buiten behandeling laten. Deze bepaling biedt geen soelaas in het geval een bestuursorgaan de intrekking van een reeds verleende vergunning wenst te onderzoeken en de betrokkene weigert de gevraagde gegevens te verstrekken. Om die reden bepaalt de Wet Bibob dat een weigering gegevens te verstrekken ingeval van een reeds verleende vergunning kwalificeert als een ernstig gevaar als bedoeld in artikel 3 van de Wet Bibob.<footnote-ref linkend="_03cbec04-6651-4314-8ace-741790e4ae9c" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.6</nr>
+      <para>Eiser is bij aangetekende brief van 1 april 2019 in de gelegenheid gesteld om gegevens en bescheiden te verstrekken die nodig waren voor de Bibob-toets. Eiser is verzocht om het Bibob-vragenformulier in te vullen en het ingevulde formulier, samen met bewijsstukken, uiterlijk 15 april 2019 aan de burgemeester toe te sturen. Daarbij werd door de burgemeester vermeld: “Indien u niet binnen de gestelde termijn de gevraagde gegevens aanlevert, wordt uw vergunning op grond van artikel 4 van de Wet Bibob ingetrokken”. Dit verzoek is bij aangetekende brief van 18 april 2019 herhaald, met een nieuwe termijn tot uiterlijk 6 mei 2019. Eiser heeft daar niet op gereageerd. Eisers heeft nog gesteld dat de burgemeester al over voldoende gegevens beschikte, echter ter zitting is aangegeven dat dit op de <emphasis role="italic">aanvraag</emphasis> zag. In de onderhavige procedure ligt echter de <emphasis role="italic">handhaving</emphasis> voor, waardoor om andere of andersoortige gegevens gevraagd kan worden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.7</nr>
+      <para>Naar het oordeel van de rechtbank heeft de burgemeester de DHW-vergunning en de exploitatievergunning van eiser in redelijkheid kunnen intrekken. Eiser stelt volgens de rechtbank terecht dat het niet verzenden van de ingevulde bibob-formulieren niet zelfstandig kan leiden tot intrekking van de DHW-vergunning en de exploitatievergunning. Op die wijze staat vast dat sprake is van ‘ernstig gevaar’, maar moet op grond van artikel 3, vijfde lid, van de Wet Bibob nog wel worden gemotiveerd door de burgemeester dat de intrekking evenredig is met de mate van het gevaar en de ernst van de strafbare feiten. Uit het bestreden besluit blijkt echter duidelijk waarom de burgemeester vindt dat het bestreden besluit die toets kan doorstaan. De burgemeester schrijft dat hij niet kan berusten in het feit dat een vergunning mogelijk (mede) wordt gebruikt om strafbare feiten te plegen of daaruit verkregen voordeel te benutten. Gelet op de constateringen van de toezichthouders is dat risico reëel. Eiser maakt het onmogelijk om de bibob-toets uit te voeren, door geen gegevens aan te leveren. Van bijzondere omstandigheden die maken dat anders zou moeten worden besloten is ook niet gebleken. Eiser heeft niet met objectieve en verifieerbare gegevens onderbouwd dat het bestreden besluit de evenredigheidstoets niet zou kunnen doorstaan of dat de gevraagde gegevens al bekend waren bij de burgemeester. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">9.	Conclusie </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <para>De rechtbank zal het beroep ongegrond verklaren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. drs. E.J. Govaers, rechter, in aanwezigheid van mr. N. van Asten, griffier, op 13 augustus 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wettelijk kader </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>
+      <emphasis role="italic">1.	Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Wet Bibob)</emphasis>
+      <?linebreak?>In artikel 3, eerste lid, van de Wet Bibob staat: Voorzover bestuursorganen bij of krachtens de wet daartoe de bevoegdheid hebben gekregen, kunnen zij weigeren een aangevraagde beschikking te geven dan wel een gegeven beschikking intrekken, indien ernstig gevaar bestaat dat de beschikking mede zal worden gebruikt om:</para>
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten, of</para>
+      </listitem>
+      <listitem>
+        <para>strafbare feiten te plegen.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <parablock>
+      <para>In artikel 4, eerste lid, van de Wet Bibob staat: indien toepassing wordt gegeven aan artikel 30, derde lid, wordt de weigering van de betrokkene, niet zijnde de natuurlijke persoon of rechtspersoon aan wie een overheidsopdracht is gegund, de onderaannemer of de natuurlijke persoon of rechtspersoon met wie een vastgoedtransactie is aangegaan, om een formulier als bedoeld in artikel 30, vijfde lid, volledig in te vullen, aangemerkt als ernstig gevaar als bedoeld in artikel 3, eerste lid.<?linebreak?></para>
+      <para>In artikel 7, eerste lid, van de Wet Bibob staat: een gemeentelijke vergunning die op grond van een verordening verplicht is gesteld voor een inrichting of bedrijf, kan door het college van burgemeester en wethouders respectievelijk de burgemeester worden geweigerd dan wel ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3. Het tweede lid voegt daar aan toe: voordat een beslissing als bedoeld in het eerste lid wordt genomen, kan het college van burgemeester en wethouders respectievelijk de burgemeester het Bureau om een advies vragen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Indien toepassing wordt gegeven aan artikel 30, derde lid, wordt de weigering van de betrokkene, niet zijnde de natuurlijke persoon of rechtspersoon aan wie een overheidsopdracht is gegund, de onderaannemer of de natuurlijke persoon of rechtspersoon met wie een vastgoedtransactie is aangegaan, om een formulier als bedoeld in artikel 30, vijfde lid, volledig in te vullen, op grond van artikel 4, eerste lid, van de Wet Bibob aangemerkt als ernstig gevaar als bedoeld in artikel 3, eerste lid.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De betrokkene verschaft op grond van artikel 30, eerste lid, van de Wet Bibob het bestuursorgaan of de rechtspersoon met een overheidstaak de gegevens en bescheiden om deze in staat te stellen bij de aanvraag van een beschikking, de gunning van een overheidsopdracht, de acceptatie als onderaannemer of het aangaan van een vastgoedtransactie onderzoek te verrichten naar:</para>
+    </parablock>
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>feiten en omstandigheden als bedoeld in artikel 3, tweede, derde en zesde lid, en artikel 9, tweede lid, onderdelen a en b en derde lid;</para>
+      </listitem>
+      <listitem>
+        <para>aspecten als bedoeld in artikel 9, tweede lid, onderdelen c en d.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <parablock>
+      <para>Het derde lid van artikel 30 van de Wet Bibob voegt daar aan toe: de betrokkene verschaft het bestuursorgaan of de rechtspersoon met een overheidstaak tevens de gegevens en bescheiden, indien onderzoek wordt gedaan met het oog op een beslissing ter zake van de intrekking van een beschikking, onderscheidenlijk de ontbinding van een overeenkomst inzake een overheidsopdracht dan wel de opschorting of ontbinding van een overeenkomst of de beëindiging van een rechtshandeling inzake een vastgoedtransactie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij ministeriële regeling worden op grond van artikel 30, vijfde lid, van de Wet Bibob een of meer formulieren vastgesteld voor het verstrekken van de in het eerste en derde lid bedoelde gegevens en bescheiden alsmede voor de bevindingen van het eigen onderzoek.</para>
+    </parablock>
+    <para />
+    <bridgehead role="italic">2.	Drank en horecawet (DHW)</bridgehead>
+    <para>
+      <?linebreak?>In artikel 3 van de DHW staat: Het is verboden zonder daartoe strekkende vergunning van de burgemeester het horecabedrijf of slijtersbedrijf uit te oefenen.<?linebreak?>In artikel 31, derde lid, onder a, van de DHW staat: een vergunning kan voorts door de burgemeester worden ingetrokken, indien sprake is van het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur. Voordat daaraan toepassing wordt gegeven, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van voornoemde wet, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. </para>
+    <para />
+    <para>
+      <emphasis role="italic">3.	Algemene plaatselijke verordening gemeente Tilburg 2019 (APV)</emphasis>
+      <?linebreak?>In artikel 38, eerste lid, van de APV staat dat het de exploitant verboden is om zonder vergunning van de burgemeester een inrichting te exploiteren.</para>
+    <para />
+    <para>
+      <emphasis role="italic">4.	Wet op de Kansspelen (WOK)</emphasis>
+      <?linebreak?>In artikel 30, onder c, van de WOK staat: In deze wet en de daarop berustende bepalingen wordt verstaan onder kansspelautomaat: een speelautomaat, die geen behendigheidsautomaat is. </para>
+    <para />
+    <parablock>
+      <para>In artikel 30b, eerste lid, onder b, is het verboden zonder vergunning van de burgemeester een of meer kansspelautomaten aanwezig te hebben op voor het publiek toegankelijke plaatsen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In artikel 30t, eerste lid, onder c, van de Wok staat: Het is verboden een of meer speelautomaten, die niet overeenstemmen met het door de raad van bestuur, bedoeld in artikel 33a, toegelaten model daarvan en die niet ten bewijze daarvan zijn voorzien van het ingevolge artikel 30r, eerste lid, met betrekking tot die toelating vastgestelde merkteken aanwezig te hebben op plaatsen of in inrichtingen als bedoeld in artikel 30b, eerste lid. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gedragingen in strijd met de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder a, 30b, eerste lid, 30h, eerste lid, 30m, eerste lid, en 30t, eerste, tweede en vijfde lid, zijn volgens artikel 36, eerste lid, van de WOK misdrijven, voorzover zij opzettelijk zijn begaan, en overigens overtredingen. Het derde lid voegt daar aan toe: Gedragingen, die in dit artikel als misdrijf of als overtreding zijn aangemerkt, zijn economische delicten in de zin van artikel 1, aanhef en onder 3°, van de Wet op de economische delicten. </para>
+    </parablock>
+  </section>
+  <footnote id="_89c70e7f-a9a4-49cc-9036-eb9b673b218a" label="1">
+    <para> Op grond van artikel 3, eerste lid, van de Drank en Horecawet. </para>
+  </footnote>
+  <footnote id="_94cc3b03-6950-446f-aa8d-8337dc25525a" label="2">
+    <para> Op grond van artikel 38 van de APV. </para>
+  </footnote>
+  <footnote id="_cafe1991-7871-4a29-863f-850a114ae643" label="3">
+    <para> Artikel 30r van de Wok. </para>
+  </footnote>
+  <footnote id="_494769c9-3e87-47e3-935e-a707d2879f00" label="4">
+    <para> Ter onderbouwing verwijst de burgemeester naar: AbRS 6 november 2013, ECLI:NL:RVS:2013:1789, r.o. 2. </para>
+  </footnote>
+  <footnote id="_e3a15517-e7b0-4be7-a78d-0383f9ef5dd4" label="5">
+    <para> Zie recentelijk ABRS 8 juli 2020, ECLI:NL:RVS:2020:1604 (r.o. 7).</para>
+  </footnote>
+  <footnote id="_1de6c85b-4c2a-4c76-9198-58d205053073" label="6">
+    <para> Artikel 8:58, eerste lid, van de Algemene wet bestuursrecht (Awb).  </para>
+  </footnote>
+  <footnote id="_2ec2dc0a-b91e-40cc-89e9-814bcbe6afd8" label="7">
+    <para> AbRS 19 april 2019, ECLI:NL:RVS:2019:1280, r.o. 9.8; AbRS 9 november 2016, ECLI:NL:RVS:2016:3073, r.o. 5.1; AbRS 20 november 2015, ECLI:NL:RVS:2015:3658, r.o. 4. </para>
+  </footnote>
+  <footnote id="_5fcbc20e-a8c1-497d-954b-89c803527dfe" label="8">
+    <para> Artikel 30b, eerste lid, van de Wok. </para>
+  </footnote>
+  <footnote id="_c560b2bb-0266-4cdb-8fe5-e5a384cd4dd2" label="9">
+    <para> Artikel 30r van de Wok. </para>
+  </footnote>
+  <footnote id="_01222ff9-a130-41eb-beae-7ff1741f63c9" label="10">
+    <para> AbRS 31 juli 2019, ECLI:NL:RVS:2019:2648, r.o. 10. </para>
+  </footnote>
+  <footnote id="_ee42b1a7-257f-41bf-8064-f93cdcd79c7e" label="11">
+    <para> Artikel 31, derde lid, onder a, van de DHW. </para>
+  </footnote>
+  <footnote id="_2370c2f0-f41f-4fa1-b9cf-819227c0ab10" label="12">
+    <para> Artikel 7, eerste lid, van de Wet Bibob. Die vergunning is op grond van de Algemene plaatselijke verordening van de gemeente Tilburg namelijk verplicht gesteld voor de exploitatie van een horecabedrijf.</para>
+  </footnote>
+  <footnote id="_e31271ae-17c6-467a-86a1-dc4afd52faeb" label="13">
+    <para> Artikel 34, tweede lid, van de Wok. </para>
+  </footnote>
+  <footnote id="_c06739ba-8655-4061-b3f5-1be6681ec3d6" label="14">
+    <para> Artikel 30, onder c en a, van de Wok. </para>
+  </footnote>
+  <footnote id="_48afe066-91f3-4bd8-ac53-fbf89a3e5da0" label="15">
+    <para> Artikel 30b, eerste lid, onder b, van de Wok</para>
+  </footnote>
+  <footnote id="_7e22339f-b86d-4fba-8fb8-dbf270b10df6" label="16">
+    <para> Artikel 36, eerste lid, van de Wok. </para>
+  </footnote>
+  <footnote id="_1dd6f28c-a703-453e-aadf-fbd1acdb095c" label="17">
+    <para> Artikel 30r, eerste lid, van de Wok. </para>
+  </footnote>
+  <footnote id="_870bbd4a-6f69-4934-9b60-4eb6b37ee53b" label="18">
+    <para> Artikel 30t, eerste lid, onder c, jo. artikel 36, eerste lid, van de Wok. </para>
+  </footnote>
+  <footnote id="_fb3f52e4-da5e-42c6-8bd9-31b8ead3c027" label="19">
+    <para> Artikel 30, derde lid, van de Wet Bibob. </para>
+  </footnote>
+  <footnote id="_a97260a4-a561-45e2-bc0e-2cf9b0213d02" label="20">
+    <para> Artikel 30, vijfde lid, van d Wet Bibob. </para>
+  </footnote>
+  <footnote id="_03cbec04-6651-4314-8ace-741790e4ae9c" label="21">
+    <para> Artikel 4, eerste lid, van de Wet Bibob en T/C Kluwer op dit artikel. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

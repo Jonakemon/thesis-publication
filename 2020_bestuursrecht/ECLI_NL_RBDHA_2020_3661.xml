@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:3661</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-28T09:00:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 /7117</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3661">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:3661</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-23T12:16:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:3661 Rechtbank Den Haag , 21-04-2020 / AWB - 19 /7117</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:3661:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>toevoeging raad voor rechtsbijstand afgewezen, cassatieprocedure en verzet tegen heffing griffierecht in cassatieprocedure geen twee aparte procedures en geen zwaarwegend belang voor aparte toevoeging</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:3661:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/7117</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 14 april 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , eiser</bridgehead>
+    <para>(gemachtigde: mr. J. van Weerden),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het bestuur van de Raad voor Rechtsbijstand, verweerder</bridgehead>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 juni 2019 (het primaire besluit) heeft verweerder de aanvraag voor toevoeging met kenmerk 3KK9552 afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 oktober 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard met wijziging van de gronden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft partijen gevraagd toestemming te geven voor het doen van een uitspraak zonder zitting. Partijen zijn hier beide mee akkoord gegaan, zodat de rechtbank op grond van artikel 8:57 van de Algemene wet bestuursrecht bepaalt dat het onderzoek ter zitting achterwege blijft. De rechtbank sluit het onderzoek.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser heeft op 1 mei 2019 een toevoeging aangevraagd voor een cassatieprocedure met betrekking tot een schuldsaneringsregeling. Deze aanvraag heeft kenmerk 3KK5067 gekregen. Op deze aanvraag is bij besluit van 5 juli 2019 positief beslist. </para>
+    <para>Op 15 mei 2019 heeft eiser de aanvraag voor toevoeging gedaan ter zake van verzet tegen heffing van het griffierecht in de cassatiezaak waarvoor op 1 mei 2019 toevoeging is aangevraagd. Deze aanvraag heeft kenmerk 3KK9552 gekregen en is bij het primaire besluit afgewezen.   </para>
+    <para />
+    <para>2. In het primaire besluit heeft verweerder de aanvraag afgewezen, omdat de advocaatkosten niet opwegen tegen het belang van rechtzoekende in deze zaak. Uit de aanvraag is volgens verweerder daarnaast niet gebleken dat sprake is van een zwaarwegend belang om bij uitzondering voor een toevoeging in aanmerking te komen op grond van artikel 12, tweede lid, sub b, van de Wet op de rechtsbijstand (Wrb) en artikel 4 Besluit rechtsbijstand- en toevoegcriteria (Brt).</para>
+    <para>3. In het bestreden besluit heeft verweerder het primaire besluit gehandhaafd, onder wijziging van de gronden. Verweerder stelt dat er, gelet op de feiten en omstandigheden die in bezwaar naar voren zijn gebracht, sprake is van zwaarwegende persoonlijke omstandigheden van de rechtzoekende die rechtvaardigen dat afgeweken wordt van de wettelijk bepaalde grens van € 500,- in het belang van een effectieve toegang tot het recht. </para>
+    <para>Ingevolge de werkinstructie ‘Bereik op de Kenniswijzer’ omvat de toevoeging voor de hoofdzaak tevens verzet. Hierdoor is er sprake van hetzelfde rechtsbelang, dan wel samenstel van belangen die zo nauw met elkaar samenhangen dat niet gesproken kan worden van zelfstandig rechtsbelang inzake het verzet tegen de heffing van het griffierecht in de cassatiezaak. Evenmin is er sprake van een diversiteit van procedures gezien de genoemde werkinstructie. De werkzaamheden voor de zaak met kenmerk 3KK9552 vallen volgens verweerder onder het bereik van de eerder afgegeven toevoeging met kenmerk 3KK5067.</para>
+    <para />
+    <para>4. Eiser voert in beroep aan dat verweerder ten onrechte heeft geoordeeld dat de werkzaamheden waarvoor onderhavige toevoeging is aangevraagd onder het bereik vallen van de eerste afgegeven toevoeging. Verweerder heeft niet onderkend dat het ene verzet het andere niet is. Het verzet in onderhavige zaak ziet op het rechtsmiddel dat krachtens de Wet griffierechten burgerlijk zaken openstaat tegen een ten onrechte geheven griffierecht. Het verzet tegen de vaststelling van het griffierecht leidt tevens een nieuwe procedure in. </para>
+    <parablock>
+      <para>Verweerder heeft daarnaast ten onrechte geoordeeld dat met beide zaken wordt beoogd de beschikking van rechtbank Limburg aan te kunnen vechten. De verzetzaak ziet enkel op de toegang tot de rechter die over de WSNP-zaak heeft te oordelen. De procedures worden beide bij de Hoge Raad behandeld, maar in verschillende hoedanigheden, namelijk de cassatierechter en de verzetrechter, waardoor niet van dezelfde instantie gesproken kan worden. Daarnaast zijn er bij beide procedures verschillende partijen betrokken, namelijk cliënte tegenover de bewindvoerder en cliënte en eiser tegenover de griffier van de Hoge Raad. </para>
+      <para>De aangehaalde beslissing van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 7 oktober 2015, ECLI:NL:RVS:2015:3097, is hier niet van belang, aangezien  die zaak ging over een wrakingsprocedure en daar het rechterlijk handelen de achtergrond vormde van desbetreffende toevoegingsvraag.</para>
+      <para>De overweging van verweerder dat het verzet slechts een tussenstap is om tot een verkorte looptijd van de schuldsanering te komen is rechtens onjuist en onbegrijpelijk. </para>
+      <para>In beroep heeft eiser een kopie van de beslissing van de Hoge Raad van 13 december 2019 overgelegd. De Hoge Raad heeft de bestreden beslissing vernietigd en het verzet gegrond verklaard. Hieruit blijkt ook dat wat verweerder in de brief van 16 december 2019 heeft geschreven juridisch gezien onjuist is. </para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank overweegt als volgt.  </para>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Zoals de Afdeling heeft overwogen in de door verweerder aangehaalde uitspraak van 7 oktober 2015 moet, gelet op artikel 28, eerste lid, aanhef en onder b, gelezen in samenhang met artikel 32 van de Wrb, in geval van verschillende rechtsbelangen ter zake waarvan rechtsbijstand is gevraagd, in beginsel meer toevoegingen worden verstrekt. Als er één rechtsbelang is, kan met één toevoeging worden volstaan, tenzij sprake is van behandeling van een procedure in meer dan één instantie. Het gaat derhalve om de vraag of het verzoek om een toevoeging op hetzelfde rechtsbelang betrekking heeft als een eerder verzoek. Als dat zo is, dient vervolgens te worden bezien of sprake is van behandeling van een procedure in meer dan één instantie.<?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Verweerder heeft op goede gronden bepaald dat er geen sprake is van een los van het cassatieverzoek staande procedure, aangezien het cassatieverzoek geleid heeft tot de heffing van het griffierecht in die zaak. Doordat in verzet het belang speelt om de zaak zonder financiële belemmering voor te kunnen leggen aan de cassatierechter is het niet los te zien van het onderliggende materiële rechtsbelang van de procedure over de verkorting van de termijn van de schuldsanering. Zonder de hoofdprocedure kan de verzetprocedure daarnaast niet bestaan. Verweerder heeft niet ten onrechte het standpunt ingenomen dat er sprake is van één rechtsbelang. Daarnaast worden beide procedures behandeld door de Hoge Raad en dat de procedures door verschillende rechters worden behandeld, maakt dat niet anders. Gezien de Afdelingsjurisprudentie heeft verweerder op goede gronden de aanvraag voor toevoeging met kenmerk 3KK9552 afgewezen.</para>
+      <para />
+      <para>6. Het beroep is ongegrond.</para>
+      <para />
+      <para>7. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.P. Kleijn, rechter, in aanwezigheid van mr. A.E. Maas, griffier. Deze uitspraak is gedaan op 14 april 2020. Als gevolg van maatregelen rondom het Corona virus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

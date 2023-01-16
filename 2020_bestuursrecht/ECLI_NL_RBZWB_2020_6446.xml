@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:6446</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-18T10:16:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">BRE 20/9626 en 20/9625</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:6446">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:6446</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-18T10:15:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:6446 Rechtbank Zeeland-West-Brabant , 18-12-2020 / BRE 20/9626 en 20/9625</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:6446:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Artikel 13b Opiumwet. Sluiting bedrijfsruimte voor 24 maanden vanwege aantreffen voorraad softdrugs van coffeeshops. </para>
+        <para>Achterdeurproblematiek. Noodzakelijkheid en evenredigheid. Wet experiment gesloten coffeeshopketen. </para>
+        <para>De burgemeester heeft niet in redelijkheid gebruik gemaakt van zijn bevoegdheid. Beroep gegrond.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:6446:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: BRE 20/9626 OPIUMW en BRE 20/9625 OPIUMW VV</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 18 december 2020 van de voorzieningenrechter in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoekster 1] en</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [naam verzoekster 2] .</emphasis>, </para>
+      <para>te [plaatsnaam] , verzoeksters,</para>
+      <para>gemachtigde: mr. S.T. Blom,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Tilburg, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para>Verzoeksters hebben op 17 november 2020 beroep ingesteld tegen het besluit van de burgemeester van 3 november 2020, verzonden 11 november 2020 (bestreden besluit), inzake de last onder bestuursdwang  tot sluiting van de bedrijfsruimtes aan [adres 1] en [adres 2] met ingang van 19 november 2020 om 12:00 uur. </para>
+    <para />
+    <parablock>
+      <para>Zij hebben tevens de voorzieningenrechter verzocht om schorsing van het bestreden besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De burgemeester heeft op 18 november 2020 aangegeven niet bereid te zijn om de begunstigingtermijn te verlengen totdat de voorzieningenrechter het verzoek op een zitting zou kunnen behandelen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter heeft daarom op 19 november 2020 het bestreden besluit geschorst voor onbepaalde tijd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft vervolgens plaatsgevonden in Breda op 26 november 2020. </para>
+      <para>Namens verzoekster [naam verzoekster 1] was aanwezig [naam 1] . Namens verzoekster [naam verzoekster 2] was aanwezig [naam 2] . Zij werden bijgestaan door de gemachtigde mr. S.T. Blom. </para>
+      <para>De burgemeester heeft zich laten vertegenwoordigen door [naam vertegenwoordiger 1] , </para>
+      <para>
+        [naam vertegenwoordiger 2] en [naam vertegenwoordiger 3] .</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para>1. <emphasis role="italic">Feiten en omstandigheden</emphasis></para>
+    <para />
+    <parablock>
+      <para>De bedrijfsruimtes aan [adres 1] en [adres 2] zijn eigendom van [naam verzoekster 1] en worden door [naam verzoekster 2] gehuurd. [naam verzoekster 2] is bestuurder van vier besloten vennootschappen die ieder voor zich een vestiging van coffeeshop ‘The Grass Company’ in Tilburg of Den Bosch exploiteren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 15 november 2019 heeft er een bestuurlijke controle plaatsgevonden door de politie Zeeland-West-Brabant en toezichthouders van de gemeente in het bedrijfsverzamelgebouw waar ook de bedrijfsruimtes aan [adres 1] en [adres 2] deel van uitmaken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de kelder van [adres 2] werden de volgende softdrugs aangetroffen:</para>
+    </parablock>
+    <para>- 121,88 kilogram gedroogde henneptoppen;</para>
+    <para>- 44,94 kilogram hasjiesj;</para>
+    <para>- 42,98 kilogram voorgedraaide joints;</para>
+    <para>- 14 stuks voorgedraaide joints;</para>
+    <para>- 114 kilogram hennep-/ hasjiesj-koekjes; en</para>
+    <para>- 1.050 stuks joint-tips voor e-smoker (met gemalen henneptoppen).</para>
+    <para>De voornoemde hoeveelheden zijn gewogen inclusief verpakkingsmateriaal.</para>
+    <para />
+    <parablock>
+      <para>Bij brief van 5 februari 2020 heeft de burgemeester verzoeksters medegedeeld voornemens te zijn een last onder bestuursdwang op te leggen tot sluiting van de bedrijfsruimtes aan [adres 1] en [adres 2] voor de duur van 12 maanden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeksters hebben hun zienswijze ten aanzien van dit voornemen naar voren gebracht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 20 mei 2020 heeft de burgemeester verzoeksters een gewijzigd voornemen medegedeeld. De burgemeester is voornemens de sluiting van de bedrijfsruimtes aan [adres 1] en [adres 2] te gelasten voor de duur van 24 maanden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 juni 2020 heeft de burgemeester aan [naam verzoekster 1] een last onder bestuursdwang opgelegd tot sluiting van de bedrijfsruimtes aan [adres 1] en [adres 2] met ingang van 24 juni 2020 voor de duur van 24 maanden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeksters hebben op 10 juni 2020 een bezwaarschrift ingediend. Daarnaast hebben zij een verzoek tot het treffen van een voorlopige voorziening gedaan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 21 juli 2020 heeft de voorzieningenrechter het verzoek om voorlopige voorziening van [naam verzoekster 1] afgewezen, wegens het ontbreken van spoedeisend belang, en het verzoek van [naam verzoekster 2] toegewezen. De voorzieningenrechter heeft vervolgens het besluit van 9 juni 2020 geschorst tot twee weken na de bekendmaking van de beslissing op bezwaar, doch uiterlijk tot 1 november 2020. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij het bestreden besluit heeft de burgemeester de bezwaren ongegrond verklaard en het besluit van 9 juni 2020 onder aanvulling van de motivering gehandhaafd. </para>
+    </parablock>
+    <para />
+    <para>2. <emphasis role="italic">Bodemprocedure</emphasis></para>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter is van oordeel dat nader onderzoek niet kan bijdragen aan de beoordeling van de hoofdzaak en doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    </parablock>
+    <para />
+    <para />
+    <para>3. <emphasis role="italic">Wettelijk kader</emphasis></para>
+    <para />
+    <parablock>
+      <para>De relevante wet- en regelgeving is, ten behoeve van de leesbaarheid, opgenomen in een bijlage bij deze uitspraak.</para>
+    </parablock>
+    <para />
+    <para>4. <emphasis role="italic">Beroepsgronden </emphasis></para>
+    <para />
+    <parablock>
+      <para>Verzoeksters hebben samengevat aangevoerd dat het bestaan van coffeeshops en de grote vraag naar de producten die in de coffeeshops worden verkocht, een maatschappelijke realiteit is. Zij menen dat er steeds meer maatschappelijke en politieke onvrede is over de zogenaamde achterdeurproblematiek, waarbij de verkoop van hennep(producten) in coffeeshops onder voorwaarden wordt gedoogd, maar de productie en aanvoer van hennep strafbaar is. Verzoeksters wijzen op ontwikkelingen in de strafrechtspraak en meer specifiek op een tweetal recente uitspraken van deze rechtbank en het gerechtshof ’s-Hertogenbosch waarin de strafrechter met toepassing van artikel 9a van het Wetboek van Strafrecht geen straffen heeft opgelegd aan [naam 2] en zijn medewerkers<footnote-ref linkend="_328ac2bb-112b-4844-8aea-02b43c947776" /> bij het aantreffen van een externe exploitatievoorraad. Zij wijzen ook op de Wet experiment gesloten coffeeshopketen van </para>
+      <para>1 juli 2020. Verzoeksters hebben in het verlengde hiervan de volgende beroepsgronden geformuleerd:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>de burgemeester heeft altijd aangegeven dat hij niet actief naar de externe voorraden softdrugs van coffeeshops op zoek zal gaan. Met de controle van [adres 1] en [adres 2] heeft hij in strijd met deze toezegging gehandeld. </para>
+      </listitem>
+      <listitem>
+        <para>er is geen sprake van een overtreding. De burgemeester heeft niets geregeld ten aanzien van de opslag en bevoorrading van coffeeshops, in de wetenschap dat de gedoogde 500 gram hennep in de coffeeshops volstrekt niet toereikend is. Een exploitant is daardoor gedwongen zijn voorraad buiten de coffeeshop te bewaren. In die zin is er sprake van een rechtvaardigingsgrond in de zin van artikel 5:5 van de Awb.</para>
+      </listitem>
+      <listitem>
+        <para>de besluitvorming is onzorgvuldig. De burgemeester stelt dat 300 kilogram softdrugs zou zijn aangetroffen en baseert dat op een bruto weging van de aangetroffen hennep inclusief verpakkingsmateriaal, bestaande uit onder andere plastic bakjes (met daarin </para>
+      </listitem>
+    </itemizedlist>
+    <para>0,75 tot 2,30 gram hennep), kartonnen doosjes met daarin voorgedraaide joints (met 0,25 gram hennep per joint) en koekjes met 0,15 gram hennep per koekje. Volgens verzoeksters was er netto circa 57 kilogram hennep aanwezig in de kelder van [adres 2] , een voorraad voor ongeveer 7 weken voor vier coffeeshops<footnote-ref linkend="_620f3d59-2b55-46dc-aff2-04e421bf2955" />. </para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>de burgemeester heeft ten onrechte geen onderscheid gemaakt tussen [adres 2] en [adres 1] . Er is geen enkele reden om [adres 1] te sluiten. Ter zitting heeft [naam 2] uitgelegd dat in [adres 1] de ICT-afdeling en de financiële en personeelsadministratie is gevestigd van [naam verzoekster 2] en de coffeeshops. </para>
+      </listitem>
+      <listitem>
+        <para>de bedrijfsruimtes [adres 1] en [adres 2] zijn geen ‘lokaal’ in de zin van artikel 13b van de Opiumwet. </para>
+      </listitem>
+      <listitem>
+        <para>er bestaat concreet zicht op legalisering, omdat de gemeente Tilburg en alle coffeeshops in Tilburg gaan deelnemen aan het landelijke wietexperiment. </para>
+      </listitem>
+      <listitem>
+        <para>ten tijde van de vorige twee overtredingen van de Opiumwet in 2014 en 2015 gold een recidivetermijn van twee jaren. Die twee jaren waren al voorbij toen de burgemeester op 9 mei 2018 de langere recidivetermijn van 5 jaar invoerde. Dat is in strijd met de rechtszekerheid. </para>
+      </listitem>
+    </itemizedlist>
+    <para>In het kader van artikel 4:84 van de Awb voeren verzoeksters aan: </para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>het gaat hier niet om een ernstig feit, maar om de handelsvoorraad van twee weken voor gedoogde coffeeshops.</para>
+      </listitem>
+      <listitem>
+        <para>er is geen sprake van verstoring van de openbare orde. [naam verzoekster 2] gebruikt dit pand al sinds 2008 voor het verwerken en opslaan van de handelsvoorraad en in al die tijd zijn er geen klachten of incidenten geweest.  </para>
+      </listitem>
+      <listitem>
+        <para>de sluiting is niet noodzakelijk. Er is ter plaatse geen sprake van overlast of feitelijke drugshandel. Het vervoer van de hennep van de leveranciers naar [adres 2] en van [adres 2] naar de coffeeshops wordt in eigen beheer gedaan met chauffeurs die in dienst zijn van [naam verzoekster 2] . </para>
+      </listitem>
+      <listitem>
+        <para>de coffeeshops moeten en mogen bevoorraad worden, dus met sluiting van dit pand bereikt de burgemeester alleen maar dat [naam verzoekster 2] een andere locatie moet huren of kopen om daar de hennep in te pakken en op te slaan. </para>
+      </listitem>
+      <listitem>
+        <para>de sluiting van twee jaar is niet afgestemd op de ernst van de overtreding, waardoor hier  niet langer sprake is van een herstelsanctie maar van een punitieve sanctie. De sluiting is niet evenredig of effectief.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para>5. <emphasis role="italic">De zitting</emphasis></para>
+    <para />
+    <parablock>
+      <para>Ter zitting is besproken dat de binnendeur op de begane grond tussen [adres 2] en de gemeenschappelijke bergruimte/fietsenstalling/containeropslag die wordt gedeeld met [adres 1] , kan worden afgesloten en verzegeld.<footnote-ref linkend="_d8edec98-b846-49ad-aaed-64296e37b758" /> Het is dan niet meer mogelijk om inpandig via [adres 1] in de bedrijfsruimte [adres 2] te komen. [naam 2] heeft verklaard mee te zullen werken aan controles namens de burgemeester - als het zover komt - om te kijken of deze binnendeur nog is afgesloten en verzegeld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar aanleiding hiervan heeft de burgemeester besloten dat de last onder bestuursdwang ten aanzien van [adres 2] (begane grond en kelder) onverkort blijft gelden, maar dat hij, om aan de bezwaren van verzoeksters tegemoet te komen, afziet van de last tot sluiting ten aanzien van [adres 1] . </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Nu de burgemeester gedeeltelijk is teruggekomen op zijn eerdere besluit, is het beroep sowieso gegrond en dient ten aanzien van [adres 1] het bestreden besluit te worden vernietigd, en het primaire besluit te worden herroepen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De verdere uitspraak heeft dus uitsluitend betrekking op de last onder bestuursdwang tot sluiting van de bedrijfsruimte aan [adres 2] voor de duur van 24 maanden.</para>
+    </parablock>
+    <para />
+    <para>6. <emphasis role="italic">Bevoegdheid burgemeester </emphasis></para>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter is van oordeel dat de burgemeester bevoegd is om tot sluiting van [adres 2] over te gaan. Op 15 november 2019 is in de kelder van deze bedrijfsruimte een grote hoeveelheid softdrugs gevonden, die bedoeld was voor verkoop in de vier coffeeshops van verzoekster [naam verzoekster 2] .</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter betwijfelt niet dat de bedrijfsruimte [adres 2] een ‘lokaal’ is als bedoeld in artikel 13b van de Opiumwet. Omdat het begrip ‘lokaal’ niet in artikel 13b van de Opiumwet en ook niet in de wetsgeschiedenis bij artikel 13b wordt gedefinieerd, zoekt de voorzieningenrechter daarvoor aansluiting bij artikel 174a van de Gemeentewet.<footnote-ref linkend="_849feb5c-550a-40b2-9faa-f8659ca5ae13" /> In de Memorie van Toelichting van artikel 174a van de Gemeentewet wordt opgemerkt: “Niet voor het publiek toegankelijke lokalen zijn bijvoorbeeld een hotelkamer (…) ook kantoor- en bedrijfsruimten kunnen onder dit begrip vallen”.<footnote-ref linkend="_afaf9ba1-dc09-4967-8fb1-3f1702369727" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dat er geen concrete verstoringen van de openbare orde zijn geweest op of omstreeks </para>
+      <para>15 november 2019, betekent niet de burgemeester niet bevoegd is om handhavend op te treden. Overlast wordt immers niet genoemd als ontstaansvoorwaarde voor de bevoegdheid in artikel 13b van de Opiumwet. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ook de stelling dat er sprake is van een rechtvaardigingsgrond in de zin van artikel 5:5 van de Awb, omdat de coffeeshopexploitant - gelet op de gedoogregels - nu eenmaal niet anders kan dan de exploitatievoorraad buiten de coffeeshop te bewaren, gaat niet op. Van een situatie van overmacht<footnote-ref linkend="_88c4452f-912b-487e-ab06-d2a397f0d91b" /> is immers geen sprake omdat de coffeeshopexploitant die met deze achterdeurproblematiek wordt geconfronteerd, er zelf voor kiest om een coffeeshop te exploiteren met alle risico’s van dien.<footnote-ref linkend="_cdd047e9-6f9b-4739-9eb0-69a3e0e5ac6b" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ten slotte overweegt de voorzieningenrechter dat ook het door verzoeksters gestelde gebrek in het gedoogbeleid als het gaat over de externe opslag- en inpakruimten voor coffeeshops, niet kan leiden tot de conclusie dat er geen sprake is van een overtreding. De Opiumwet verbiedt immers de handel in softdrugs. Artikel 13b van de Opiumwet geeft de burgemeester de bevoegdheid om daartegen op te treden. Het met betrekking tot coffeeshops gevoerde gedoogbeleid doet aan het bestaan van deze bevoegdheid niet af. Zulk beleid brengt slechts met zich dat toepassing van die bevoegdheid in een concreet geval, waarbij de gedoogcriteria worden nageleefd, onredelijk kan zijn en daarom achterwege moet blijven.<footnote-ref linkend="_42e36991-83d1-4a8f-a370-8c8855d61bb6" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Nu voldaan wordt aan alle voorwaarden (lokaal, middel lijst II en aanwezigheid ten behoeve van verkoop<footnote-ref linkend="_9655b61a-c3ad-46f2-bda9-0f799db3142f" />), is de burgemeester bevoegd een last onder bestuursdwang op te leggen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para>7. <emphasis role="italic">Concreet zicht op legalisering</emphasis></para>
+    <para />
+    <parablock>
+      <para>Verzoeksters hebben gesteld dat concreet zicht op legalisering bestaat, omdat de Wet </para>
+      <para>experiment gesloten coffeeshopketen inmiddels met ingang van 1 juli 2020 in werking is getreden. De gemeente Tilburg en de coffeeshops in Tilburg gaan meedoen met dit experiment.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar het oordeel van de voorzieningenrechter bestaat geen concreet zicht op legalisering van de externe handelsvoorraden van coffeeshops. Artikel 3 van de Wet experiment gesloten coffeeshopketen bepaalt weliswaar dat de artikelen 3B, 3C en 13b van de Opiumwet niet van toepassing zijn voor zover hennep wordt geteeld, bewerkt, verkocht, vervoerd en/of aanwezig gehouden in het kader van het experiment, maar de nadere invulling van het experiment in een algemene maatregel van bestuur, ministeriële regeling of beleidsregel van de burgemeester ontbreekt nog. Het is nog niet duidelijk of de maximale handelshoeveelheid van de deelnemende coffeeshops zal worden aangepast of dat het drogen, verwerken, inpakken en bewaren van hennep, joints en andere hennepproducten ergens anders zal worden belegd. </para>
+    </parablock>
+    <para />
+    <para>8. <emphasis role="italic">Gebruik maken van de bevoegdheid: het beleid</emphasis></para>
+    <para />
+    <parablock>
+      <para>Vervolgens is de vraag of de burgemeester in redelijkheid gebruik heeft mogen maken van deze bevoegdheid. Hierbij is van belang dat de burgemeester bij de uitoefening van zijn bevoegdheid over beleidsruimte beschikt. Dit betekent dat de bestuursrechter de invulling van die bevoegdheid met terughoudendheid moet toetsen. De voorzieningenrechter merkt daarbij op dat de bestuursrechter dus minder ruimte heeft bij de toetsing van besluiten die krachtens artikel 13b van de Opiumwet zijn genomen dan de strafrechter bij het beoordelen van de strafwaardigheid van gedragingen die in strijd met de Opiumwet komen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De burgemeester heeft de beleidsruimte ingevuld met beleid dat is neergelegd in de ‘Beleidsregels Artikel 13b Opiumwet’. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter stelt vast dat de AbRS al eerder heeft geoordeeld dat het in deze beleidsregels gemaakte onderscheid tussen coffeeshops, woningen en lokalen niet onredelijk of onduidelijk is.<footnote-ref linkend="_1b2be2f0-f279-46cb-bd33-01ddafb6a7c9" /> De AbRS heeft ook al eerder geoordeeld dat de met het gedoogbeleid van coffeeshops samenhangende achterdeurproblematiek niet noodzakelijkerwijs met zich brengt dat de burgemeester in zijn beleid de bevoorrading van coffeeshops met softdrugs zou moeten gedogen.<footnote-ref linkend="_1ceaba59-70c2-412a-a7ff-8fd996932ff6" /> Ten slotte is de voorzieningenrechter het niet eens met verzoeksters dat de langere terugkijktermijn van 5 jaar die de burgemeester sinds 9 mei 2018 in de beleidsregels heeft opgenomen in strijd is met de rechtszekerheid of het legaliteitsbeginsel. Bij een nieuwe constatering van een overtreding van de Opiumwet ontstaat immers opnieuw de bevoegdheid om op grond van artikel 13b een woning of lokaal te sluiten.<footnote-ref linkend="_ac002cdc-c562-4840-9784-1ad521b49750" /> Ter zitting heeft de burgemeester er nog op gewezen dat de beleidsregels er - ten voordele van de coffeeshops - niet toe strekken dat de externe handelsvoorraden worden aangemerkt als overtredingen van de coffeeshops. Het aantreffen van een handelsvoorraad buiten de openbare verkoopruimte van de coffeeshop leidt in Tilburg dus niet tot sluiting van de coffeeshop.<footnote-ref linkend="_7d2b1bad-fc17-4b19-a09a-510f6e733da8" /> De voorzieningenrechter ziet vooralsnog geen aanleiding om de beleidsregels onredelijk te achten. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De burgemeester heeft in overeenstemming met de beleidsregels besloten om een sluiting voor de duur van 24 maanden te gelasten. Het gaat hier immers om een handelsvoorraad softdrugs van meer dan 30 gram in een lokaal en de 3de constatering van een overtreding van de Opiumwet binnen vijf jaar na de 2e constatering. In het pand [adres 2] zijn op 4 juli 2014 en 21 mei 2015 ook grote hoeveelheden softdrugs gevonden ten behoeve van de coffeeshops. </para>
+    </parablock>
+    <para />
+    <para>9. <emphasis role="italic">Gebruikmaken van de bevoegdheid: artikel 4:84 van de Awb</emphasis></para>
+    <para />
+    <parablock>
+      <para>Dat de last tot sluiting voor de duur van 24 maanden in overeenstemming is met de beleidsregels, betekent echter niet zonder meer dat de burgemeester in redelijkheid daartoe heeft kunnen besluiten. Volgens vaste rechtspraak van de AbRS dient de burgemeester alle omstandigheden van het geval te betrekken in zijn beoordeling en te bezien of deze op zichzelf dan wel tezamen met andere omstandigheden, moeten worden aangemerkt als bijzondere omstandigheden in de zin van artikel 4:84 van de Awb die maken dat het handelen overeenkomstig de beleidsregels gevolgen heeft die onevenredig zijn in verhouding tot de met de beleidsregels te dienen doelen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze doelen heeft de burgemeester in de beleidsregels als volgt omschreven: drugshandel of voorbereidingshandelingen in of bij lokalen vormt een ernstige aantasting van de openbare orde, veiligheid en volksgezondheid en legt een zware druk op de omgeving. De aanwezigheid wordt als zeer belastend ervaren en vormt een bedreiging voor de veiligheid in de buurt en leidt vaak tot verloedering van het straatbeeld. Een zichtbare sluiting beoogt drugshandel tegen te gaan, verdere overtredingen in het pand te voorkomen (preventieve werking) en een signaal te geven aan drugscriminelen en gebruikers van panden in de directe omgeving dat de overheid optreedt tegen drugscriminaliteit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de eerste plaats dient daarom aan de hand van de ernst en omvang van de overtreding te worden beoordeeld in hoeverre sluiting van de bedrijfsruimte noodzakelijk is ter bescherming van het woon- en leefklimaat en het herstel van de openbare orde.<footnote-ref linkend="_d484b3ca-d90d-4cb2-b52e-2161982d8f0a" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar het oordeel van de voorzieningenrechter zijn de volgende omstandigheden van belang bij de afweging of het toepassen van de beleidsregels in dit concrete geval evenredig en noodzakelijk is.   </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>9.1</nr>
+      <para>
+        <emphasis role="italic">Het aantreffen van de hennep(producten)</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>De burgemeester heeft ter zitting bevestigd dat in Tilburg de bestendige gedragslijn geldt dat externe handelsvoorraden van coffeeshops niet actief worden opgespoord.<footnote-ref linkend="_cf14a12f-7663-4ae8-99fe-8426753e3ef6" /> Maar als een externe handelsvoorraad wordt aangetroffen, dan wordt de hennep in beslag genomen en vernietigd en het lokaal conform de beleidsregels gesloten, aldus de burgemeester. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In het besluit van 9 juni 2020 meldt de burgemeester dat de aanleiding voor de controle op 15 november 2019 een verdenking was dat in de bedrijfsruimtes [adres 3] een growshop was gevestigd. Deze bedrijfsruimtes zijn in hetzelfde bedrijfsverzamelgebouw gevestigd als [adres 2] . In hetzelfde besluit op pagina 5 stelt de burgemeester dat de bedrijfsruimtes [adres 3] <emphasis role="underline">niet</emphasis> een samenhangend geheel vormden met de bedrijfsruimtes [adres 1] en [adres 2] , maar dat het wel mogelijk was om via een binnendeur op de begane grond, die bedoeld was voor noodgevallen, de gemeenschappelijke bergruimte/fietsenstalling/containeropslag van de bedrijfsruimtes [adres 1] en [adres 2] te betreden. Toen in de bedrijfsruimtes [adres 3] niets werd aangetroffen, is - omdat uit eerdere controles bekend was dat in de kelder van [adres 2] een verborgen ruimte aanwezig is - besloten om ook de bedrijfsruimtes [adres 1] en [adres 2] te controleren. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter vindt dat de toezichthouders in strijd met de hiervoor weergegeven bestendige gedragslijn hebben gehandeld. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In plaats van de controle op het adres [adres 3] af te sluiten en het bedrijfsverzamelgebouw te verlaten, hebben de toezichthouders er voor gekozen om de controle uit te breiden naar een ander adres en een andere bedrijfsruimte. Zij wisten blijkbaar dat in 2014 en 2015 in een verborgen ruimte in de kelder van [adres 2] de stash van de coffeeshops van de Grass Company was aangetroffen en zijn met die wetenschap naar de verborgen ruimte gaan zoeken. De toezichthouders beschrijven in hun controleverslag dat zij in een ruimte kwamen met lege stellages met wandrekken. Zij wisten uit een eerdere controle dat daarachter een verborgen ruimte zat. Medewerkers van SEON hebben toen de planken van de achterste stellage verwijderd. Daarna is een gedeelte van het stalen frame verbogen (!). Hierachter zag één van de toezichthouders naden lopen in het beton. Een aanwezige politieagent wist dat de verborgen ruimte opengemaakt kon worden met een kastje met drukknoppen. De toezichthouder heeft toen een aantal bureaulades ‘doorzocht’ en trof drie zwarte kastjes aan met drukknoppen. Een medewerker van SEON heeft een stopcontact opengeschroefd en twee elektriciteitsdraden tegen elkaar gehouden. Toen kon met de drukknoppen de betonnen muur worden geopend. </para>
+        <para>De voorzieningenrechter stelt vast dat de overtreding van 15 november 2019 niet ‘toevallig’ is geconstateerd, maar het resultaat is van een bewuste keuze om de door [naam verzoekster 2] gehuurde bedrijfsruimtes te controleren, gevolgd door een doelgerichte en intensieve zoektocht naar de verborgen ruimte in de kelder van [adres 2] .<footnote-ref linkend="_ad61639f-91b3-46f9-a7c0-3938017574c7" /></para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>
+        <emphasis role="italic">De ernst en omvang van de overtreding </emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>In dit kader stelt de voorzieningenrechter voorop dat het hier gaat om middelen van lijst II (hennep) en dus niet om harddrugs. De softdrugs is aangetroffen in de kelder van een bedrijfspand (dus niet in een woning), gelegen in een wijk met een gemengd karakter: wonen en bedrijvigheid. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verzoeksters hebben in bezwaar en in beroep de door de burgemeester genoemde hoeveelheden inbeslaggenomen hennep uitdrukkelijk betwist. De burgemeester heeft in het bestreden besluit slechts gereageerd met de opmerking dat hij het niet aannemelijk acht dat van de totaal gewogen hoeveelheid van meer dan 300 kilogram slechts ongeveer 57 kilogram bestond uit hennep. Desgevraagd heeft de burgemeester ter zitting verklaard dat hij niet aan de politie heeft gevraagd om hierop te reageren. Ook heeft hij niet nagevraagd of de politie het netto gewicht van de inbeslaggenomen hennep heeft onderzocht. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Vast staat dat de politie alle aangetroffen hennep(producten) bruto heeft gewogen, inclusief verpakkingsmateriaal. Verzoekster [naam verzoekster 2] heeft op basis van haar administratie een reconstructie gemaakt van de in beslaggenomen spullen. Volgens verzoekster [naam verzoekster 2] ging het daarbij om:</para>
+      </parablock>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>36,71 kilo grondstof (hennep);</para>
+        </listitem>
+        <listitem>
+          <para>6803 kleine plastic bakjes, per stuk 9 gram met daarin 0,17 gram hennep;</para>
+        </listitem>
+        <listitem>
+          <para>3024 grotere plastic bakjes, per stuk 12 gram met daarin 2,30 gram hennep;</para>
+        </listitem>
+        <listitem>
+          <para>204.008 joints in verpakkingen, per stuk 4 gram met daarin 0,25 gram hennep;</para>
+        </listitem>
+        <listitem>
+          <para>1241 JackPods in verpakkingen, per stuk 6 gram met daarin 0,75 gram hennep;</para>
+        </listitem>
+        <listitem>
+          <para>4125 koekjes in verpakkingen, per stuk 24 gram met daarin 0,15 gram hennep. </para>
+        </listitem>
+      </itemizedlist>
+      <para />
+      <parablock>
+        <para>In een tabel weergegeven, betekent dat: </para>
+      </parablock>
+      <para />
+      <informaltable>
+        <tgroup cols="3">
+          <colspec colname="colA" />
+          <colspec colname="colB" />
+          <colspec colname="colC" />
+          <tbody>
+            <row>
+              <entry>
+                <para />
+              </entry>
+              <entry>
+                <para>bruto gewicht in kilo’s</para>
+              </entry>
+              <entry>
+                <para>netto gewicht hennep in kilo’s</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>nog niet verwerkte hennep</para>
+              </entry>
+              <entry>
+                <para>      36,71</para>
+              </entry>
+              <entry>
+                <para>     36,71</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>hennep in plastic bakjes</para>
+              </entry>
+              <entry>
+                <para>    110,46</para>
+              </entry>
+              <entry>
+                <para>     12,94</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>joints met verpakking</para>
+              </entry>
+              <entry>
+                <para>      96,03</para>
+              </entry>
+              <entry>
+                <para>       6,02</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>JackPods met verpakking</para>
+              </entry>
+              <entry>
+                <para>        7,45</para>
+              </entry>
+              <entry>
+                <para>       0,93</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>koekjes met verpakking</para>
+              </entry>
+              <entry>
+                <para>      99,00</para>
+              </entry>
+              <entry>
+                <para>       0,69</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>totaal</para>
+              </entry>
+              <entry>
+                <para>     349,65</para>
+              </entry>
+              <entry>
+                <para>     57,25</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter is van oordeel dat verzoeksters het standpunt dat er op </para>
+        <para>15 november 2019 netto slechts 57,25 kilogram softdrugs kan zijn aangetroffen, inzichtelijk en aannemelijk hebben gemotiveerd en onderbouwd. Op basis van de door verzoeksters verstrekte gegevens, stelt de voorzieningenrechter vast dat de burgemeester de inbeslaggenomen hoeveelheid softdrugs meer dan 5 keer te hoog heeft ingeschat. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Dit betekent in de eerste plaats dat de burgemeester de ernst en omvang van de overtreding grovelijk heeft overschat. De voorzieningenrechter vindt bovendien dat het bestreden besluit onzorgvuldig is voorbereid, nu de burgemeester daarin deze stelling van verzoeksters zonder nader onderzoek ter zijde heeft geschoven.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3</nr>
+      <para>
+        <emphasis role="italic">De noodzaak om handhavend op te treden</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>De burgemeester heeft in dit verband gewezen op de uitspraak van de AbRS van 1 juni 2016<footnote-ref linkend="_e18c2a77-8611-4b2d-a6b6-8f47acf9c549" /> naar aanleiding van het aantreffen van de externe handelsvoorraad in het pand [adres 1] - [adres 2] op 4 juli 2014, waarin de AbRS de beslissing toen om de bedrijfsruimtes gedurende zes maanden te sluiten, heeft bevestigd. De AbRS heeft daarbij overwogen dat de burgemeester in de achterdeurproblematiek geen grond hoeft te zien voor het oordeel dat toepassing van het beleid in dit geval gevolgen heeft die onevenredig zijn in verhouding tot de met het beleid te dienen doelen. </para>
+        <para>De burgemeester had zich toen op het standpunt gesteld, net als nu, dat zowel het bewaren en verwerken van grote hoeveelheden softdrugs in het pand, het vervoer van deze softdrugs naar het pand alsook het frequente vervoer van softdrugs van het pand naar de coffeeshops, veiligheidsrisico's en dus een verstoring van de openbare orde met zich brengt<emphasis role="italic">. </emphasis>De burgemeester stelde toen, net als nu, dat het aannemelijk is dat het pand bekend staat als drugspand, gelet op het aantal jaren dat het pand deze rol al vervuld. Sluiting is noodzakelijk om herhaling van de overtreding te voorkomen en een einde te maken aan de negatieve invloed van het pand op de directe omgeving. Dat de coffeeshops hun bevoorrading op een andere wijze zullen gaan regelen, laat onverlet dat het gebruik van het pand als centrale opslag en inpakafdeling van de coffeeshops onacceptabel is, aldus de burgemeester.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Naar het oordeel van de voorzieningenrechter heeft de burgemeester in deze zaak onvoldoende aannemelijk gemaakt dat sluiting van [adres 2] noodzakelijk is ter bescherming van het woon- en leefklimaat en het herstel van de openbare orde in de omgeving van [adres 1+2] . Er zijn geen meldingen van incidenten of overlast, ondanks het feit dat hier al jaren de externe handelsvoorraad van de coffeeshop ligt opgeslagen. Van feitelijke handel vanuit de bedrijfsruimte is geen sprake. Nergens blijkt uit dat het pand een negatieve invloed heeft op de directe omgeving. Als de openbare orde niet is geschaad, behoeft deze ook niet hersteld te worden. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In de eerdere procedures heeft de burgemeester steeds (kunnen) volstaan met het verwijzen naar algemene aannames over veiligheidsrisico’s en overlast. De voorzieningenrechter is van oordeel dat die fase voorbij is. In deze concrete situatie </para>
+      </parablock>
+      <para>- waarin al jaren bedrijfsruimten in het bedrijfsverzamelgebouw [adres 1+2] worden gehuurd ten behoeve van de inpak en opslag van de externe handelsvoorraad van de coffeeshops van verzoekster [naam verzoekster 2]<footnote-ref linkend="_837ce9b9-ec44-43f2-a5b8-5717349f2a07" />, </para>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>waarin inmiddels al weer een jaar geleden (november 2019) de externe handelsvoorraad van 4 gedoogde coffeeshops voor een periode van 7 weken is aangetroffen,</para>
+        </listitem>
+        <listitem>
+          <para>waarin de burgemeester de bestendige gedragslijn heeft dat de externe handelsvoorraden van coffeeshops niet actief worden opgespoord en gecontroleerd, welke gedragslijn de burgemeester niet zou hebben als rondom de stashpanden van gedoogde coffeeshops regelmatig problemen van veiligheid, overlast en openbare orde zouden spelen, </para>
+        </listitem>
+      </itemizedlist>
+      <para>zal de burgemeester met concrete feiten en omstandigheden moeten aantonen dat het noodzakelijk is om de bedrijfsruimte [adres 2] te sluiten uit redenen van veiligheid en openbare orde of ter voorkoming van overlast. </para>
+      <para />
+      <parablock>
+        <para>Anders dan de burgemeester vindt de voorzieningenrechter niet dat de uitspraak van de AbRS van 1 mei 2019<footnote-ref linkend="_fc1df5f6-2797-4a82-9f7a-bd49543eef92" /> één op één van toepassing op deze situatie. In die uitspraak ging het om het aantreffen van wapens en handelshoeveelheden hard- en softdrugs in een woning. In dat kader overwoog de AbRS dat aangenomen mag worden dat die woning een rol vervult binnen de keten van drugshandel, hetgeen op zichzelf al een belang bij sluiting oplevert, ook als ter plaatse geen overlast of feitelijke drugshandel is geconstateerd. In deze zaak gaat het over een bedrijfsruimte en niet over een woning. En ten tweede gaat het hier om hennep(producten) die zijn bedoeld voor verkoop in gedoogde coffeeshops, terwijl het in de uitspraak van de AbRS gaat over zware criminaliteit met wapens en harddrugs. Dat is een heel andere rol in de drugshandel. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verder speelt daarbij een rol dat verzoeksters stellen dat de bedrijfsruimte aan [adres 2] juist veilig is, onder andere omdat de opslag en inpak van de hennepproducten plaats vindt in de kelder in een verborgen ruimte en omdat de busjes en auto’s waarmee de hennep(producten) worden vervoerd via de garagedeur van het pand naar binnen kunnen rijden. Het vervoer van hennep(producten) gebeurt door eigen chauffeurs in dienst van [naam verzoekster 2] , er komen dus geen leveranciers aan de deur. De burgemeester is in het bestreden besluit niet ingegaan op deze stellingen van verzoeksters, anders dan het herhalen van de hiervoor omschreven algemeenheden. Zo heeft de burgemeester niet de moeite genomen om bijvoorbeeld bij de politie te informeren naar de veiligheidssituatie rondom het pand, of op een andere wijze de door verzoekster [naam verzoekster 2] genomen veiligheidsmaatregelen te evalueren. In de bestuurlijke rapportage van de politie wordt ook slechts in algemene termen benoemd dat ‘een dergelijke locatie zorgt voor een onveilig gevoel bij direct omwonenden’. </para>
+        <para>De voorzieningenrechter vindt dat de burgemeester ook op dit punt zorgvuldiger in zijn besluitvorming had moeten zijn. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De burgemeester heeft tenslotte aangegeven dat hij zich er van bewust is dat verzoekster [naam verzoekster 2] nu, om door te kunnen gaan met de exploitatie van haar gedoogde coffeeshops, een andere locatie zal moeten zoeken voor de inpak en opslag van de handelsvoorraad. Het probleem wordt dus verplaatst. De burgemeester heeft hierover verklaard dat deze achterdeurproblematiek voor rekening en risico van de coffeeshophouders dient te komen, die er immers zelf voor kiezen om een coffeeshop te exploiteren. Verzoeksters hebben bovendien in het verleden al aangetoond dat zij over voldoende professionaliteit, daadkracht en financiën beschikken om een oplossing voor deze situatie te vinden.<footnote-ref linkend="_464c9810-372a-4fe4-8aa8-e30db6cdb7cb" /> De burgemeester wijst er verder op dat de AbRS op </para>
+        <para>20 februari 2019<footnote-ref linkend="_0d62073e-cc12-4d24-81d6-613c93b056cb" /> heeft geoordeeld dat ‘coffeeshophouders worden geacht bekend te zijn met deze problematiek en daarmee rekening dienen te houden bij de exploitatie van een coffeeshop. De met het gedoogbeleid van coffeeshops samenhangende achterdeurproblematiek brengt niet noodzakelijkerwijs met zich dat de burgemeester in zijn beleid de bevoorrading van coffeeshops zou moeten gedogen’. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Naar het oordeel van de voorzieningenrechter betekenen al deze argumenten echter niet dat in het concrete geval zoals dat nu voorligt, voor de beoordeling of het noodzakelijk en evenredig is om - conform de beleidsregels - het pand [adres 2] voor 24 maanden te sluiten, dit aspect geen rol kan spelen. In de uitspraak van AbRS van 20 februari 2019 bewaarde de coffeeshophouder de handelsvoorraad in zijn eigen woning. Dat is een heel andere situatie dan hier speelt. Hiervoor heeft de voorzieningenrechter al overwogen dat de burgemeester niet aannemelijk heeft gemaakt dat de sluiting van [adres 2] nodig is voor de veiligheid en de openbare orde of ter voorkoming van overlast. In dat licht vraagt de voorzieningenrechter zich af waar de noodzaak in is gelegen om de opslag van de handelsvoorraad van de coffeeshops te verplaatsen naar een andere locatie, waar mogelijk wel overlast of onveiligheid aan de orde kan zijn. Het zijn niet de financiële of praktische consequenties voor verzoeksters die hier gewogen moeten worden, maar de consequenties voor de openbare orde.</para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>Al met al vindt de voorzieningenrechter dat de burgemeester de noodzaak van de sluiting voor 24 maanden van [adres 2] onvoldoende concreet en toegespitst op feitelijke situatie heeft gemotiveerd en onderbouwd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.4</nr>
+      <para>
+        <emphasis role="italic">De Wet experiment gesloten coffeeshopketen</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>Nu de Wet experiment gesloten coffeeshopketen is aangenomen en definitief vaststaat dat Tilburg aan dit experiment gaat deelnemen, is duidelijk dat voor de Tilburgse coffeeshops van verzoekster [naam verzoekster 2] in ieder geval gedurende de looptijd van het experiment gestreefd gaat worden naar een situatie, waarbij de aanvoer van hennep en hennepproducten voor de coffeeshops legaal kan plaatsvinden. Omdat het experiment nog in de opstartfase verkeert en er nog veel onduidelijkheden zijn, is het nu te vroeg om te spreken van een concreet zicht op legalisering van de externe opslag van de handelsvoorraad. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Desondanks vindt de voorzieningenrechter dat het feit dat deze wet nu is aangenomen en het experiment in gang is gezet, een rol speelt bij de vraag of de sluiting van [adres 2] voor een periode van 24 maanden evenredig is. Door het experiment zal in Tilburg in de nabije toekomst sowieso een onderscheid gaan ontstaan tussen de gereguleerde hennepkwekerijen en coffeeshops enerzijds en de illegale wiethandel anderzijds. Het doel om met een zichtbare sluiting van [adres 2] een signaal te geven dat de overheid optreedt tegen drugscriminaliteit, is door het experiment niet meer aan de orde. Gedurende het experiment zal immers ook het bewerken, inpakken en opslaan van de hennep voor de coffeeshops legaal zijn (mits op de afgesproken locatie). De urgentie (noodzaak en evenredigheid) om nu nog op te treden tegen externe handelsvoorraden van Tilburgse coffeeshops, op locaties waar de openbare orde en veiligheid vooralsnog niet in geding lijkt te zijn, is daardoor minder vanzelfsprekend. </para>
+        <para>De burgemeester heeft niet toegelicht waarom hij desondanks vindt dat [adres 2] nu nog gedurende 24 maanden gesloten moet worden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.5</nr>
+      <para>
+        <emphasis role="italic">Samenvatting</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>Hiervoor heeft de voorzieningenrechter geconcludeerd dat de constatering van de overtreding is geschied in strijd met de bestendige gedragslijn, dat het bestreden besluit onvoldoende zorgvuldig is voorbereid, dat de burgemeester de ernst van de overtreding onjuist heeft ingeschat en dat hij de noodzaak en evenredigheid van de last onvoldoende feitelijk en concreet heeft onderbouwd. De burgemeester heeft naar het oordeel van de voorzieningenrechter daarom niet in redelijkheid gebruik gemaakt van zijn bevoegdheid. </para>
+      </parablock>
+      <para />
+      <para>10. <emphasis role="italic"> Conclusie</emphasis></para>
+      <para />
+      <parablock>
+        <para>Gelet op hetgeen hiervoor in de overwegingen 5 en 9.5 is overwogen, zal het beroep gegrond worden verklaard. De voorzieningenrechter zal het bestreden besluit vernietigen en het primaire besluit herroepen. De sluiting van de bedrijfsruimte [adres 2] is daarmee van de baan. Gelet op deze beslissing op de hoofdzaak, hoeft in de zaak van de voorlopige voorziening geen uitspraak meer gedaan te worden. De schorsing van het bestreden besluit komt met deze uitspraak in de hoofdzaak van rechtswege te vervallen.<footnote-ref linkend="_f657eb90-46a6-4b8d-be3f-1dc80d1bbe40" /></para>
+      </parablock>
+      <para />
+      <para>11. <emphasis role="italic">Proceskosten en griffierecht</emphasis></para>
+      <para />
+      <parablock>
+        <para>Nu het beroep gegrond wordt verklaard en al eerder een voorlopige voorziening is getroffen,</para>
+        <para>dient de burgemeester aan verzoeksters het door hen betaalde griffierecht voor het beroep en </para>
+        <para>het verzoek om voorlopige voorziening te vergoeden. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter zal de burgemeester veroordelen in de door verzoeksters gemaakte proceskosten in bezwaar en beroep. Vanwege de uitkomst van de zaak heeft de proceskostenveroordeling ook betrekking op het verzoek om voorlopige voorziening.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op </para>
+        <para>€ 2.100,- (1 punt voor het indienen van het bezwaarschrift, 1 punt voor het verschijnen ter hoorzitting, 1 punt voor het indienen van het verzoekschrift om een voorlopige voorziening, 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525 en wegingsfactor 1). Omdat in de beroepsprocedure geen apart inhoudelijk beroepschrift is ingediend, heeft de voorzieningenrechter hiervoor geen punt gerekend.  </para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>herroept het primaire besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt de burgemeester op het betaalde griffierecht van € 708,- (2 x € 354,-) aan verzoeksters te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt de burgemeester in de proceskosten van verzoeksters tot een bedrag van</para>
+      </listitem>
+    </itemizedlist>
+    <para>€ 2.100,-.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.P. Hertsig, voorzieningenrechter, in aanwezigheid van mr. M.A. de Rooij, griffier, op 18 december 2020 en openbaar gemaakt door geanonimiseerde publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan - voor zover daarbij is beslist op het beroep - binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 3, aanhef en onder B en C, van de Opiumwet </emphasis>
+      </para>
+      <para>Het is verboden een middel als bedoeld in de bij deze wet behorende lijst II (…):</para>
+      <para>B. te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken </para>
+      <para>     of te vervoeren;</para>
+      <para>C. aanwezig te hebben.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op <emphasis role="underline">Lijst II bij de Opiumwet</emphasis> staat onder andere:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>hasjiesj: een gebruikelijk vast mengsel van de afgescheiden hars verkregen van planten van het geslacht Cannabis (hennep), met plantaardige elementen van deze planten;</para>
+      </listitem>
+      <listitem>
+        <para>hennep: elk deel van de plant van het geslacht Cannabis (hennep), waaraan de hars niet is onttrokken, met uitzondering van de zaden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 13b, eerste lid, aanhef en onder a, van de Opiumwet </emphasis>
+      </para>
+      <para>De burgemeester is bevoegd tot oplegging van een last onder bestuursdwang indien in een woning of lokaal of op een daarbij behorend erf een middel als bedoeld in lijst II (…) wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beleidsregels Artikel 13b Opiumwet van de burgemeester van de gemeente Tilburg</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">Signaalfunctie</emphasis>
+      </para>
+      <para>Een zichtbare sluiting beoogt drugshandel tegen te gaan, verdere overtredingen in het pand te voorkomen (preventieve werking) en een signaal te geven aan drugscriminelen en gebruikers van panden in de directe omgeving dat de overheid optreedt tegen drugscriminaliteit wat de aantrekkingskracht op andere criminele activiteiten tegengaat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Onderverdeling beleid</emphasis>
+      </para>
+      <para>Het beleid betreffende de bestuurlijke handhaving van artikel 13b Opiumwet wordt onderverdeeld in de volgende rubrieken:</para>
+      <para>I    Coffeeshops: de gedoogde verkooppunten van softdrugs;</para>
+      <para>II   Woningen en/of daarbij behorende erven: drugshandel/voorbereidingshandelingen;</para>
+      <para>III  Lokalen en/of daarbij behorende erven: drugshandel/voorbereidingshandelingen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Ad III Lokalen en/of daarbij behorende erven: drugshandel/ voorbereidingshandelingen</emphasis>
+      </para>
+      <para>Onder de in deze rubriek bedoelde panden vallen de voor publiek toegankelijke lokalen en bijbehorende erven (zoals winkels en horecabedrijven) en de niet voor publiek toegankelijke lokalen en bijbehorende erven (zoals loodsen, magazijnen en garages).</para>
+      <para>Drugshandel/voorbereidingshandelingen in of bij lokalen vormt eveneens een ernstige aantasting van de openbare orde, veiligheid en volksgezondheid en legt een zware druk op de omgeving. De aanwezigheid wordt als zeer belastend ervaren en vormt een bedreiging voor de veiligheid in de buurt en leidt vaak tot verloedering van het straatbeeld.</para>
+    </parablock>
+    <para />
+    <para>- <emphasis role="italic">softdrugs in lokalen en/of bij lokalen behorende erven</emphasis></para>
+    <parablock>
+      <para>Indien in lokalen en/of bij lokalen behorende erven drugshandel plaatsvindt ten aanzien van een middel als bedoeld in lijst II (softdrugs), met een handelsvoorraad van &gt; 5 </para>
+      <para>planten/stekken en/of &gt; 30 gram, volgt bij een 1ste constatering een sluiting van <emphasis role="bold">6 maanden</emphasis>. </para>
+      <para>Bij een 2de overtreding van de Opiumwet in een lokaal en/of bij lokalen behorende erven </para>
+      <para>binnen vijf jaar na de eerste constatering, vindt er een sluiting plaats van <emphasis role="bold">12 maanden</emphasis>. Bij een 3de constatering van overtreding van de Opiumwet binnen vijf jaar na de tweede constatering, vindt er een sluiting van <emphasis role="bold">24 maanden</emphasis> plaats. Bij een 4de constatering van overtreding van de Opiumwet binnen vijf jaar na de derde constatering, vindt er een sluiting voor <emphasis role="bold">onbepaalde tijd</emphasis> plaats.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 4:84 van de Algemene wet bestuursrecht (Awb)</emphasis>
+      </para>
+      <para>Het bestuursorgaan handelt overeenkomstig de beleidsregel, tenzij dat voor een of meer belanghebbenden gevolgen zou hebben die wegens bijzondere omstandigheden onevenredig zijn in verhouding tot de met de beleidsregel te dienen doelen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 5:5 van de Awb</emphasis>
+      </para>
+      <para>Het bestuursorgaan legt geen bestuurlijke sanctie op voor zover voor de overtreding een rechtvaardigingsgrond bestond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 1 van de Wet experiment gesloten coffeeshopketen</emphasis>
+      </para>
+      <para>In deze wet en de daarop berustende bepalingen wordt verstaan onder (…)</para>
+    </parablock>
+    <para>- gesloten coffeeshopketen: een keten waarin de teelt van hennep of hasjiesj voor recreatief gebruik en de aflevering aan en verkoop daarvan in een coffeeshop, dan wel enige andere in dat verband verrichte handeling, bedoeld in artikel 3, onderdelen B en C, van de Opiumwet, plaatsvindt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 2 van de Wet experiment gesloten coffeeshopketen</emphasis>
+      </para>
+      <para>Er vindt een experiment plaats met op kwaliteit gecontroleerde teelt van hennep en hasjiesj voor recreatief gebruik en de aflevering aan en verkoop daarvan in een coffeeshop in een gesloten coffeeshopketen, overeenkomstig de bij of krachtens deze wet gestelde regels, met als doel om te bezien of en hoe hennep en hasjiesj gedecriminaliseerd aan de coffeeshops kunnen worden afgeleverd en wat de effecten daarvan zijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 3 van de Wet experiment gesloten coffeeshopketen</emphasis>
+      </para>
+    </parablock>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Ten aanzien van de handelingen, bedoeld in artikel 3, onderdelen B en C, van de Opiumwet, geldt het in die artikelonderdelen omschreven verbod niet, voor zover die handelingen worden verricht in het kader van de voorbereiding, uitvoering en afbouw van het experiment en in overeenstemming met de eisen die aan die handelingen bij of krachtens artikel 6 of 7 van deze wet worden gesteld.</para>
+      </listitem>
+      <listitem>
+        <para>Artikel 13b van de Opiumwet is niet van toepassing voor zover de in het eerste lid van dat artikel genoemde handelingen worden verricht in het kader van de voorbereiding, uitvoering en afbouw van het experiment.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 6, derde lid, van de Wet experiment gesloten coffeeshopketen</emphasis>
+      </para>
+      <para>Bij algemene maatregel van bestuur kan worden bepaald ten aanzien van welke eisen de burgemeester van een gemeente bevoegd is tot het stellen van nadere regels over de uitvoering van het experiment in die gemeente.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 7, eerste lid, eerste zin, van de Wet experiment gesloten coffeeshopketen</emphasis>
+      </para>
+      <para>Bij algemene maatregel van bestuur worden regels gesteld over het experiment. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 7, tweede lid, van de Wet experiment gesloten coffeeshopketen</emphasis>
+      </para>
+      <para>Bij ministeriële regeling kunnen nadere regels worden gesteld over de uitvoering van het experiment.</para>
+    </parablock>
+  </section>
+  <footnote id="_328ac2bb-112b-4844-8aea-02b43c947776" label="1">
+    <para> Gerechtshof ’s-Hertogenbosch 12 november 2015, ECLI:NL:GHSHE:2015:4514 en rechtbank Zeeland-West-Brabant 10 februari 2020, ECLI:NL:RBZWB:2020:546. </para>
+  </footnote>
+  <footnote id="_620f3d59-2b55-46dc-aff2-04e421bf2955" label="2">
+    <para> De politierechter vermeldt dat een voorraad van ongeveer 13 kilogram softdrugs voor vier coffeeshops blijkens de overgelegde verkooplijsten voldoende is om de bedrijfsvoorraad van 500 gram van die coffeeshops gedurende anderhalve week op peil te houden.</para>
+  </footnote>
+  <footnote id="_d8edec98-b846-49ad-aaed-64296e37b758" label="3">
+    <para> Ter zitting is onbetwist gesteld dat de doorgang naar de bedrijfsruimtes [adres 3] inmiddels is afgesloten. </para>
+  </footnote>
+  <footnote id="_849feb5c-550a-40b2-9faa-f8659ca5ae13" label="4">
+    <para> Dat artikel 13b van de Opiumwet en artikel 174a van de Gemeentewet met elkaar verbonden zijn, volgt uit de Memorie van Toelichting bij artikel 13b, Kamerstukken II 2005/06, 30 515, nr. 3, p. 7-8. </para>
+  </footnote>
+  <footnote id="_afaf9ba1-dc09-4967-8fb1-3f1702369727" label="5">
+    <para> Kamerstukken II, 1995/96, 24 699, nr. 3, p. 5-6. Overigens heeft artikel 13b van de Opiumwet ook betrekking op wel voor het publiek toegankelijke lokalen.</para>
+  </footnote>
+  <footnote id="_88c4452f-912b-487e-ab06-d2a397f0d91b" label="6">
+    <para> Overmacht in de zin van ‘noodtoestand’ betekent dat van de betrokkene in redelijkheid niet mag worden gevraagd anders te handelen dan hij heeft gedaan, vanwege conflicterende belangen of plichten. </para>
+  </footnote>
+  <footnote id="_cdd047e9-6f9b-4739-9eb0-69a3e0e5ac6b" label="7">
+    <para> De verwijzing naar het strafrecht en de door verzoeksters genoemde vonnissen van strafrechters gaat niet op, omdat ook de strafrechters geen rechtvaardigingsgrond hebben aangenomen, maar deze argumenten hebben meegewogen in het kader van een strafmaatverweer.</para>
+  </footnote>
+  <footnote id="_42e36991-83d1-4a8f-a370-8c8855d61bb6" label="8">
+    <para> ECLI:NL:RVS:2019:486, overweging 6.2</para>
+  </footnote>
+  <footnote id="_9655b61a-c3ad-46f2-bda9-0f799db3142f" label="9">
+    <para> ECLI:NL:RVS:2013:2362</para>
+  </footnote>
+  <footnote id="_1b2be2f0-f279-46cb-bd33-01ddafb6a7c9" label="10">
+    <para> ECLI:NL:RVS:2016:1506, overweging 3.2</para>
+  </footnote>
+  <footnote id="_1ceaba59-70c2-412a-a7ff-8fd996932ff6" label="11">
+    <para> ECLI:NL:RVS:2016:1506, overweging 3.3</para>
+  </footnote>
+  <footnote id="_ac002cdc-c562-4840-9784-1ad521b49750" label="12">
+    <para> ECLI:NL:RVS:2018:4036</para>
+  </footnote>
+  <footnote id="_7d2b1bad-fc17-4b19-a09a-510f6e733da8" label="13">
+    <para> ECLI:NL:RVS:2019:486 waaruit blijkt dat in Eindhoven een externe handelsvoorraad van meer dan 500 gram hennep conform de beleidsregels leidt tot sluiting van de coffeeshop waarvoor de hennep is bedoeld. Dit beleid is door de AbRS bekrachtigd. </para>
+  </footnote>
+  <footnote id="_d484b3ca-d90d-4cb2-b52e-2161982d8f0a" label="14">
+    <para> ECLI:NL:RVS:2019:2912, overweging 4.1</para>
+  </footnote>
+  <footnote id="_cf14a12f-7663-4ae8-99fe-8426753e3ef6" label="15">
+    <para> Al eerder had de burgemeester aan de pers laten weten dat niet doelgericht naar softdrugs is gezocht, maar dat de politie en gemeente tijdens een controle bij toeval op de voorraad waren gestuit, BN De Stem 19 november 2019 ‘Tilburgse coffeeshops reageren op ruimen voorraad’. </para>
+  </footnote>
+  <footnote id="_ad61639f-91b3-46f9-a7c0-3938017574c7" label="16">
+    <para> Waarbij de toezichthouders de grenzen van hun controlerende bevoegdheden om plaatsen te betreden (artikel 5:15 van de Awb) en zaken te onderzoeken (artikel 5:18 van de Awb) vergaand hebben opgerekt richting het doorzoeken van het pand, hetgeen een opsporingsbevoegdheid is.  </para>
+  </footnote>
+  <footnote id="_e18c2a77-8611-4b2d-a6b6-8f47acf9c549" label="17">
+    <para> ECLI:NL:RVS:2016:1506</para>
+  </footnote>
+  <footnote id="_837ce9b9-ec44-43f2-a5b8-5717349f2a07" label="18">
+    <para> In november 2018 is de stash aangetroffen in de bedrijfsruimte [adres 4] en in 2014 en 2015 in de bedrijfsruimte [adres 1] - [adres 2] . </para>
+  </footnote>
+  <footnote id="_fc1df5f6-2797-4a82-9f7a-bd49543eef92" label="19">
+    <para> ECLI:NL:RVS:2019:1435</para>
+  </footnote>
+  <footnote id="_464c9810-372a-4fe4-8aa8-e30db6cdb7cb" label="20">
+    <para> ECLI:NL:RVS:2019:1875 over de externe handelsvoorraad van verzoekster [naam verzoekster 2] in de gemeente Waalwijk tijdens de vorige sluiting van [adres 2] . </para>
+  </footnote>
+  <footnote id="_0d62073e-cc12-4d24-81d6-613c93b056cb" label="21">
+    <para> ECLI:NL:RVS:2019:486</para>
+  </footnote>
+  <footnote id="_f657eb90-46a6-4b8d-be3f-1dc80d1bbe40" label="22">
+    <para> Gelet op artikel 8:85, tweede lid, van de Awb vervalt de voorlopige voorziening zodra de bestuursrechter uitspraak heeft gedaan.  </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

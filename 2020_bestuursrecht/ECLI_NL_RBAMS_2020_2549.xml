@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:2549</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-16T10:37:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/4696</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>PJ 2020/124</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2549">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2549</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-05T13:19:12</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:2549 Rechtbank Amsterdam , 04-05-2020 / AMS 19/4696</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:2549:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Werkloosheidsuitkering komt niet tot uitbetaling in verband met ontvangen prepensioen. Eisers situatie valt niet onder de uitzonderingsbepalingen als bedoeld in artikel 3:5 van het Algemeen Inkomensbesluit socialezekerheidswetten</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:2549:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/4696 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te Amsterdam, eiser</bridgehead>
+    <para>(gemachtigde: mr. J.P.J. van de Griend),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, </emphasis>verweerder</para>
+      <para>(gemachtigde: mr. J. Lam).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 februari 2019 (het primaire besluit) heeft verweerder bepaald dat eisers recht op een Werkloosheidswetuitkering (WW-uitkering) vanaf 1 januari 2019 niet tot betaling komt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 juli 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 6 februari 2020. </para>
+      <para>Eiser was aanwezig, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft op grond van artikel 8:64 van de Algemene wet bestuursrecht (Awb) het onderzoek ter zitting geschorst om eiser in de gelegenheid te stellen nadere informatie in te brengen. Eiser heeft bij brief van 12 maart 2019 gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 16 maart 2020 heeft de rechtbank aangekondigd dat uitspraak zal worden gedaan zonder nadere zitting, tenzij één van partijen binnen vier weken meedeelt mondeling op een nadere zitting te willen worden gehoord. Partijen hebben laten weten geen nadere zitting te willen, waarna de rechtbank het onderzoek heeft gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten en omstandigheden</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser is vanaf 21 april 2008 in deeltijd werkzaam bij het [bedrijf] voor zestien uur per week (hierna: dienstverband A). Vanaf 19 augustus 2015 is eiser daarnaast werkzaam bij het [bedrijf] voor achttien uur per week (hierna: dienstverband B). Eiser heeft pensioen opgebouwd bij [pensioenfonds] . </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Eiser heeft zijn bij [pensioenfonds] opgebouwde ouderdomspensioen met ingang van 1 november 2018 vervroegd laten uitbetalen (prepensioen). Dit prepensioen bedroeg vanaf die datum € 4.159,39 bruto per maand.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Eiser heeft op 16 november 2018 een WW-aanvraag ingediend. Eiser heeft daarbij, voor zover van belang, aangegeven dat hij vanaf 26 oktober 2018 werkloos is voor een gemiddeld aantal uren van 34 uur per week.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Verweerder heeft bij besluit van 2 januari 2019 eiser een WW-uitkering toegekend met ingang van 8 december 2018. Het dagloon is daarbij vastgesteld op € 200,27.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij het primaire besluit heeft verweerder bepaald dat eisers recht op WW-uitkering vanaf 1 januari 2019 niet tot betaling komt. Dit heeft als reden dat eiser vanaf 1 november 2018 prepensioen ontvangt en dit prepensioen hoger is dan eisers WW-uitkering. </para>
+      <para />
+      <para>2. Bij het bestreden besluit is het bezwaar van eiser ongegrond verklaard. Daartoe is samengevat overwogen dat inkomsten uit pensioen in mindering worden gebracht op de WW-uitkering, tenzij sprake is van een uitzondering. Eiser voldoet niet aan de voorwaarden voor de uitzondering(en), omdat eiser uit beide dienstverbanden gelijktijdig werkloos is geworden. Er is geen sprake van een dienstverband dat eerder is geëindigd dan het dienstverband waaruit eiser werkloos werd. Er kan dus ook geen sprake zijn van pensioen dat op een eerdere WW-uitkering in aanmerking is genomen, als WW zou zijn aangevraagd voor dit beëindigde dienstverband. Uit de aanvraag voor een WW-uitkering van 16 november 2018 blijkt dat voor 34 uur per week een WW-uitkering is aangevraagd. Indien en voor zover eisers ouderdomspensioen niet gekort had mogen worden op zijn WW-uitkering, wat niet aan de orde is, zouden eisers totale inkomsten uit pensioen en WW-uitkering hoger zijn dan zijn inkomsten voor pensionering. Dat is niet de bedoeling van de wetgever, aldus verweerder.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Standpunt eiser</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>3. Eiser voert aan dat verweerder ten onrechte zijn pensioen in mindering brengt op zijn WW-uitkering. Eiser stelt dat hij wel voldoet aan de voorwaarde voor de uitzondering die gemaakt is voor samenloop van een WW-uitkering met een pensioenuitkering. Door keuzes die hij heeft gemaakt is zijn prepensioen nu hoog, maar dit betekent niet dat het pensioen niet op één dienstverband gebaseerd kan zijn. Hij heeft er voor gekozen om het partnerpensioen en het flexpensioen te ruilen voor ouderdomspensioen. Eiser heeft de WW-uitkering aangevraagd voor 1 dienstverband, hij heeft niet zelf ingevuld dat het gaat om 34 uur. Ook is in de WW-toekenning niet gesproken over een gemiddeld aantal arbeidsuren van 34 uur. Aan hem had een WW-uitkering toegekend moeten worden op grond van dienstverband A met een gemiddeld aantal arbeidsuren van 16. De hoogte van het WW-dagloon is gebaseerd op het genoten loon in de referteperiode bij alle werkgevers. Hij is er dan ook terecht van uitgegaan dat verweerder voor de berekening van het WW-dagloon het gehele loon diende te nemen voor de berekening van eisers WW-uitkering. Verweerder stelt ten onrechte dat het eiser te wijten is dat hij geen bezwaar heeft gemaakt tegen de toekenning van de WW-uitkering.</para>
+      <para>
+        <?linebreak?>
+        <emphasis role="italic">Het oordeel van de rechtbank</emphasis>
+      </para>
+      <para />
+      <para>4. Voor het juridisch kader verwijst de rechtbank naar de bijlage die deel uitmaakt van deze uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>De rechtbank overweegt als volgt. Ter zitting is aan de orde gekomen of (de hoogte van) eisers prepensioen gebaseerd is op één of beide dienstverbanden. De rechtbank heeft het onderzoek geschorst en eiser in de gelegenheid gesteld om informatie bij [pensioenfonds] op te vragen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Bij brief van 12 maart 2020 heeft eiser, voor zover van belang, laten weten dat het pensioen dat aan hem betaald wordt het volledige pensioen is zoals dit door hem is opgebouwd tijdens zijn werkzame leven. Het pensioenfonds is hierbij op de hoogte van het feit dat eiser daarnaast ook nog werkzaamheden verricht. Eiser blijft van mening dat verweerder ten onrechte oordeelt dat het pensioen in mindering gebracht dient te worden op de WW-uitkering. Aan hem had een WW-uitkering toegekend moeten worden op grond van dienstverband A, voor zestien uur per week. Eiser ontving de pensioenuitkering al voordat hij een WW-uitkering heeft aangevraagd. Derhalve dient de prepensioenuitkering niet op de WW-uitkering in mindering gebracht te worden, aldus eiser. </para>
+      <para />
+      <parablock>
+        <para>6.	De rechtbank overweegt als volgt. Niet in geschil is dat dienstverband B is beëindigd per 31 oktober 2018 en dienstverband A per 8 december 2018. Eiser heeft feitelijk in de periode van 1 november 2018 tot en met 8 december 2018 ook gewerkt voor zestien uur per week. Vanaf 1 november 2018 is aan eiser een prepensioenuitkering toegekend. Met de brief van 12 maart 2020 is ook niet meer in geschil dat (de hoogte van) dit prepensioen is gebaseerd op eisers totale verdiensten.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Het gaat in dit geding om de vraag of verweerder op goede gronden met ingang van 1 januari 2019 het [pensioenfonds] -pensioen van eiser in mindering heeft gebracht op zijn WW-uitkering.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Vaststaat dat het [pensioenfonds] -pensioen dat eiser vanaf 1 november 2018 heeft ontvangen is aan te merken als inkomen in verband met arbeid in de zin van artikel 3:5, vierde lid, aanhef en onder a, van het Algemeen inkomensbesluit socialezekerheidswetten (AIB). Het geschil spitst zich toe op de vraag of eiser per 1 januari 2019 valt onder één van de uitzonderingen van artikel 3:5 van het AIB. De rechtbank overweegt dat als hoofdregel in het AIB is vastgelegd dat in beginsel alle pensioenen die uit een dienstbetrekking voortvloeien worden beschouwd als inkomen in verband met arbeid en dus volledig in mindering dienen te worden gebracht op een WW-uitkering. Uit rechtspraak van de Centrale Raad van Beroep (de Raad) volgt dat de uitzonderingsbepalingen op deze hoofdregel restrictief dienen te worden uitgelegd.<footnote-ref linkend="_2603346a-2329-45d3-af97-9a1246610fba" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>De rechtbank stelt vast dat de WW-toekenningsbeslissing van 2 januari 2019 (en dus eisers WW-uitkering) is gebaseerd op beide dienstverbanden voor een totaal aantal uren van 34 uur per week. Dit besluit staat in rechte vast. Het is de verantwoordelijkheid van eiser om bij zijn aanvraag te controleren of zijn gegevens juist zijn. Gelet op de hoogte van het toegekende WW-maandloon had het verweerder ook niet duidelijk kunnen of moeten zijn dat eiser bedoeld had voor één dienstverband een WW-uitkering aan te vragen. </para>
+      <para />
+      <para>8. Uit 7.3. volgt dat eisers situatie niet valt onder een van de uitzonderingsbepalingen in <?linebreak?>artikel 3:5 van het AIB. Overigens heeft eiser niet aangetoond welk deel van de pensioenuitkering aan welk dienstverband is verbonden.</para>
+      <para />
+      <para>9. Dit betekent dat het beroep ongegrond is. Eiser krijgt geen gelijk. Verweerder heeft terecht met ingang van 1 januari 2019 het [pensioenfonds] -pensioen van eiser in mindering gebracht op zijn WW-uitkering.</para>
+      <para />
+      <para>10. Voor een proceskostenveroordeling of vergoeding van het door eiser betaalde griffierecht bestaat geen aanleiding. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. T.L. Fernig-Rocour, rechter, in aanwezigheid van <?linebreak?>mr. L.C. Trommel, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Juridisch kader</title>
+    <para />
+    <parablock>
+      <para>In artikel 47, eerste lid, van de WW is bepaald op welke wijze de hoogte van de WW-uitkering wordt berekend en inkomen op de uitkering in mindering wordt gebracht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 47, tweede lid, van de WW wordt bij algemene maatregel van bestuur bepaald wat onder inkomen als bedoeld in het eerste lid wordt verstaan. Dit is gebeurd in het Algemeen inkomensbesluit socialezekerheidswetten (AIB).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In artikel 3:5, vierde lid, aanhef en onder a, van het AIB is bepaald dat als inkomen in verband met arbeid wordt beschouwd: een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In artikel 3:5, zevende lid, van het AIB is bepaald dat, In afwijking van het vierde lid, onderdeel a, niet tot het inkomen in verband met arbeid wordt gerekend een uitkering die door de uitkeringsgerechtigde reeds werd ontvangen voorafgaand aan het ontstaan van de dienstbetrekking waaruit het recht op uitkering op grond van de Werkloosheidswet is ontstaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In artikel 3:5, achtste lid, van het AIB is bepaald dat, in afwijking van het vierde lid, onderdeel a, niet tot het inkomen wordt gerekend het inkomen dat op grond van de Werkloosheidswet reeds in aanmerking is genomen voor een uitkering op grond van de Werkloosheidswet.</para>
+    </parablock>
+  </section>
+  <footnote id="_2603346a-2329-45d3-af97-9a1246610fba" label="1">
+    <para> Zie bijvoorbeeld de uitspraak van 19 februari 2020, ECLI:NL:CRVB:2020:374.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

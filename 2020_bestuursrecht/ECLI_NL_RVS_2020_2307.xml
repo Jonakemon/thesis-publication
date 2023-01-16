@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:2307</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-30T10:32:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">202001606/1/R4</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2307">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2307</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-30T10:16:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:2307 Raad van State , 30-09-2020 / 202001606/1/R4</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:2307:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 19 juni 2018 heeft het college van burgemeester en wethouders van Winterswijk omgevingsvergunning verleend aan [vergunninghouder] voor het realiseren van een opslagruimte ten behoeve van diefstalpreventie op het perceel [locatie 1] te Winterswijk. [vergunninghouder] exploiteert een landbouwmechanisatiebedrijf op het perceel. Zij heeft op het perceel een berging gerealiseerd waarin een stoomcleaner wordt gestald. Deze stoomcleaner wordt gebruikt bij het onderhoud van motoren. [appellant] woont aan de [locatie 2] te Winterswijk op ongeveer 40 m afstand van de berging. Hij is het niet eens met de verlening van de omgevingsvergunning, omdat hij daardoor nog meer overlast ervaart van de bedrijfsactiviteiten van [vergunninghouder].</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:2307:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>202001606/1/R4.</para>
+    <para>Datum uitspraak: 30 september 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant], wonend te Winterswijk Huppel, gemeente Winterswijk,</para>
+    <para>tegen de uitspraak van de rechtbank Gelderland van 10 februari 2020 in zaak nr. 19/2029 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Winterswijk.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 19 juni 2018 heeft het college omgevingsvergunning verleend aan [vergunninghouder] voor het realiseren van een opslagruimte ten behoeve van diefstalpreventie (hierna: de berging) op het perceel [locatie 1] te Winterswijk (hierna: het perceel).</para>
+    <para>Bij besluit van 26 februari 2019, verzonden op 5 maart 2019, heeft het college het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard en het besluit van 19 juni 2018 onder aanvulling van de motivering in stand gelaten.</para>
+    <para>Bij uitspraak van 10 februari 2020 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>Het college heeft een schriftelijke uiteenzetting gegeven.</para>
+    <para>Het college en [appellant] hebben nadere stukken ingediend.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 2 september 2020, waar [appellant], vertegenwoordigd door mr. F.J.M. Kobossen, advocaat te Twello, en het college, vertegenwoordigd door F. Zuijdweg, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>1.    [vergunninghouder] exploiteert een landbouwmechanisatiebedrijf op het perceel. Zij heeft op het perceel een berging gerealiseerd waarin een stoomcleaner wordt gestald. Deze stoomcleaner wordt gebruikt bij het onderhoud van motoren. [appellant] woont aan de [locatie 2] te Winterswijk op ongeveer 40 m afstand van de berging. Hij is het niet eens met de verlening van de omgevingsvergunning, omdat hij daardoor nog meer overlast ervaart van de bedrijfsactiviteiten van [vergunninghouder].</para>
+    <para>    Het bouwplan is in strijd met het ter plaatse geldende bestemmingsplan "Integrale herziening buitengebied Winterswijk" (hierna: het bestemmingsplan) omdat de berging buiten het bouwvlak ligt. Het college heeft hiervoor een omgevingsvergunning verleend op grond van artikel 2.12, eerste lid, aanhef, onder a, onder 1° van de Wet algemene bepalingen omgevingsrecht (hierna: de Wabo) gelezen in verbinding met artikel 4.3.1 van de planregels.</para>
+    <para>2.    Artikel 4.3.1 van de planregels luidt: "Bij omgevingsvergunning kan worden afgeweken van het bepaalde in artikel 4.2.1 onder a en toestaan dat gebouwd wordt buiten het bouwvlak, met inachtneming van tenminste de volgende voorwaarden:</para>
+    <para>[…]</para>
+    <para>c. geen onevenredige aantasting mag plaatsvinden van de belangen van eigenaren en gebruikers van omliggende gronden. "</para>
+    <para>    Partijen zijn verdeeld over de vraag of de rechtbank het college terecht bevoegd heeft geacht om met toepassing van artikel 4.3.1 van de planregels omgevingsvergunning te verlenen voor de berging. Tussen partijen is niet in geschil dat, indien aan de voorwaarde wordt voldaan dat er geen onevenredige aantasting plaatsvindt van de belangen van eigenaren en gebruikers van omliggende gronden, het college bevoegd is omgevingsvergunning te verlenen, omdat aan de overige voorwaarden van artikel 4.3.1. van de planregels wordt voldaan.</para>
+    <para>2.1.    [appellant] betoogt dat het college niet bevoegd was om op grond van artikel 4.3.1 van de planregels omgevingsvergunning te verlenen omdat hij als eigenaar en gebruiker van het nabijgelegen perceel onevenredig in zijn belangen wordt geraakt. [appellant] voert aan dat het college had moeten meewegen dat hij al lang overlast ervaart van het bedrijf van [vergunninghouder]. Het college had onderzoek moeten doen naar de gevolgen van het bouwplan en de aanwezigheid van het bedrijf voor de omgeving. [appellant] voert verder aan dat de berging elders op het perceel in overeenstemming met het bestemmingsplan kon worden gerealiseerd. Als de berging elders zou worden geplaatst, heeft hij er geen zicht op en zal hij minder geluidsoverlast ervaren van de berging. In dit verband merkt hij nog op dat de berging wordt gebruikt voor opslag en gebruik van de stoomcleaner.</para>
+    <para>2.2.    De Afdeling stelt voorop dat voor beantwoording van de vraag of de belangen van [appellant] onevenredig worden aangetast niet van belang is of [appellant] in het verleden veel overlast heeft ervaren van het bedrijf op het perceel. Dit omdat met deze vergunning het in werking hebben van het bedrijf niet mogelijk wordt gemaakt. Ook de bedrijfsactiviteiten worden niet gewijzigd door dit bouwplan. Het college hoefde de gestelde overlast als gevolg van de bedrijfsactiviteiten dan ook niet in zijn besluitvorming te betrekken. Bovendien is op grond van het bestemmingsplan een dergelijk bedrijf op het perceel toegestaan, zodat de beoordeling van de aanvaardbaarheid van die door [appellant] gestelde hinder al is beoordeeld. Als er bedrijfsactiviteiten plaatsvinden die niet zijn toegestaan, kan [appellant] het bevoegd gezag vragen om hiertegen handhavend op te treden. In deze zaak komt slechts de vraag aan de orde of de belangen van [appellant] door de bij het besluit van 19 november 2018 verleende omgevingsvergunning onevenredig worden aangetast. Met die omgevingsvergunning is mogelijk gemaakt dat ter plaatse een berging kan worden gerealiseerd die dient als opslagruimte. Gelet hierop zal de Afdeling uitsluitend de vraag beantwoorden of de belangen van [appellant] onevenredig worden aangetast door realisering van die berging.</para>
+    <para>2.3.    Vast staat dat de afstand van de berging tot aan de woning van [appellant] ongeveer 40 m is. De berging van 66 m² is 3,5 m hoog, heeft één bouwlaag en een plat dak. Tussen de woning van [appellant] en de berging ligt de Huppelseweg en en een deel bestaand opslagterrein van het bedrijf. Verder ligt er een groene afscheiding bestaande uit een hekwerk met hedera tussen de woning van [appellant]. Het gedeelte waar de groene afscheiding staat, heeft in het bestemmingsplan de bestemming "Groen". Voorts staat vast dat de berging dient als opslagruimte voor de al op het perceel aanwezige stoomcleaner.</para>
+    <para>    De rechtbank heeft terecht overwogen dat het college zich in redelijkheid op het standpunt heeft kunnen stellen dat er geen sprake is van een onevenredige aantasting. Anders dan [appellant] betoogt, heeft het college onderzocht wat de gevolgen van het realiseren van de berging zijn voor [appellant] en de omgeving. Het college heeft zich op het standpunt gesteld dat geen sprake is van een onevenredige aantasting van de belangen van [appellant]. Daarbij heeft het college gekeken naar de beperkte omvang van het bouwwerk en het beoogd gebruik ervan. Het college heeft verder gekeken naar de afstand tussen de berging en de woning van [appellant] en het daartussen gelegen planologisch geborgde groen en de Huppelseweg. Het college heeft ook rekening gehouden met het feit dat een deel van het perceel waarop de berging is gerealiseerd, al als opslagruimte werd gebruikt. Volgens het college is de situatie voor de realisering en na realisering van de berging vergelijkbaar. Geconstateerd is dat het bouwplan geen gevolgen heeft voor de milieusituatie van het bedrijf.</para>
+    <para>    Uit het voorgaande volgt dat het college, zoals de rechtbank terecht heeft overwogen, bevoegd was om met toepassing van artikel 4.3.1. van de planregels omgevingsvergunning te verlenen.</para>
+    <para>    Het betoog faalt.</para>
+    <para>3.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.</para>
+    <para>4.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para>Aldus vastgesteld door mr. P.H.A. Knol, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. S. de Koning, griffier.</para>
+    <para>Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.   </para>
+    <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    <para>Uitgesproken in het openbaar op 30 september 2020</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:1690</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-05T09:00:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 18/3454</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:1690">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:1690</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-27T10:26:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:1690 Rechtbank Rotterdam , 27-02-2020 / ROT 18/3454</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:1690:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Behandelingen kunnen leiden tot de ontwikkeling van arbeidsvermogen. Het niet beschikken over arbeidsvermogen is dus niet duurzaam. Beroep gegrond wegens motiveringsgebrek. Bestreden besluit vernietigd, rechtsgevolgen daarvan blijven in stand.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:1690:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 18/3454</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 27 februari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats eiser] , eiser,</bridgehead>
+    <para>gemachtigde: mr. A.C.C. ten Hoor,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen</emphasis>, verweerder,</para>
+      <para>gemachtigde: mr. W. Smith.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 december 2017 (het primaire besluit) heeft verweerder de aanvraag van eiser om een uitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Wajong) afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 mei 2018 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft een nader stuk ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 20 mei 2019. Eiser is verschenen, bijgestaan door zijn gemachtigde en moeder. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Ter zitting heeft de rechtbank het onderzoek gesloten. Op 4 juni 2019 heeft de rechtbank het onderzoek heropend en verweerder verzocht enkele vragen te beantwoorden. Verweerder heeft aan dit verzoek gehoor gegeven door een medische rapportage in beroep van 5 augustus 2019 te overleggen. Eiser heeft op </para>
+      <para>10 september 2019 hierop gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft het onderzoek ter zitting hervat op 11 december 2019. Eiser is verschenen bijgestaan door een kantoorgenoot van zijn gemachtigde, mr. J.G.H. Borgdorff en zijn moeder. Verweerder heeft zich laten vertegenwoordigen door [naam] . De rechtbank heeft het onderzoek ter zitting gesloten.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiser, bekend met lichamelijke en psychische klachten, is geboren op 23 augustus 1997 en heeft op 26 april 2015 een aanvraag Wajong ondersteuning bij werk en inkomen jonggehandicapten ingediend. Verweerder heeft deze aanvraag bij besluit van 8 oktober 2015 afgewezen en bij besluit van 25 juli 2016 eisers bezwaar ongegrond verklaard. Bij uitspraak van 23 augustus 2017 (zaaknummer ROT 16/5209) heeft deze rechtbank het daartegen ingestelde beroep ongegrond verklaard. De rechtbank heeft overwogen dat eiser door een multidisciplinaire aanpak in de toekomst mogelijk wel over arbeidsvermogen kan beschikken en dat niet is gebleken dat een dergelijke behandeling heeft plaatsgevonden. De Centrale Raad van Beroep (Raad) heeft bij uitspraak van 9 januari 2020 (ECLI:NL:CRVB:2020:39) de uitspraak van de rechtbank bevestigd. Daarbij heeft de Raad in 4.4.4. overwogen dat de over de beoordelingsdatum 23 augustus 2015 geuite verwachting dat behandeling zou kunnen leiden tot ontwikkeling van arbeidsvermogen, destijds reëel was.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Op 3 oktober 2017 heeft eiser een aanvraag beoordeling arbeidsvermogen ingediend. </para>
+      <para />
+      <para>2. Op 2 november 2017 heeft een geneeskundig onderzoek plaatsgevonden. In de rapportage van 29 november 2017 heeft de arts geconcludeerd dat eiser op zijn achttiende geen vier uur per dag belastbaar was, maar dat het ontbreken van arbeidsvermogen niet duurzaam is. Daarbij overweegt de arts dat er geen sprake is van een progressieve ziekte en de ernst van de aandoeningen van eiser niet dusdanig is dat er geen enkele toename van zijn bekwaamheden kan worden verwacht. Omdat de door eiser in 2016 gevolgde behandeling bij Rijndam Revalidatie niet overeenkomt met het op 30 september 2009 door het VermoeidheidCentrum Nederland b.v. (VermoeidheidCentrum) geadviseerde multidisciplinaire traject, resteren eiser nog (intensieve) behandelopties. Bovendien zijn niet alle mogelijkheden om externe factoren (meer structuur en regelmaat door werk of dagbesteding) te optimaliseren verkend of benut en kan de (niet eenduidig aanwijsbare) oorzaak die een verslechtering heeft veroorzaakt naar verwachting ook weer tot een verbetering leiden. Verweerders arts acht het daarom mogelijk dat eiser in de toekomst (weer) vier uur per dag beschikbaar is. De rapportage van de arts is ten grondslag gelegd aan het primaire besluit. </para>
+      <para />
+      <para>3. In het kader van de heroverweging heeft de verzekeringsarts bezwaar en beroep in de rapportage van 22 mei 2018 geconcludeerd dat er geen medische argumenten zijn om af te wijken van het oordeel van de primaire arts. Aan het bestreden besluit is de rapportage van de verzekeringsarts bezwaar en beroep ten grondslag gelegd.</para>
+      <para />
+      <para>4. Eiser voert in beroep aan dat verweerder heeft nagelaten de behandelend sector te raadplegen en gedurende de bezwaarfase een lichamelijk onderzoek te verrichten en daarmee het zorgvuldigheidsbeginsel heeft geschonden. Eiser stelt dat verweerder onvoldoende heeft gemotiveerd dat het ontbreken van arbeidsvermogen niet duurzaam is. Eiser stelt dat hij is uitbehandeld en ontwikkelmogelijkheden ontbreken en dat verweerder </para>
+      <para>- gelet op de reeds ondergane behandelingen - het tegendeel onvoldoende heeft gemotiveerd. Een multidisciplinaire behandeling met psychologische aspecten heeft al plaatsgevonden en is geen optie meer. Voor het volgen van een cognitief gedragsmatig en tijdcontingent traject ontbreken grondslag en noodzaak. Eiser stelt bovendien aan het tijdcontingente aspect al te hebben voldaan en dat de - volgens verweerder - daarvan deel uitmakende Graded Exercise Therapie hem verder zal invalideren. Eiser is van mening dat het niet volgen van cognitieve gedragstherapie geen reden kan zijn om hem een Wajong-uitkering te onthouden. Van het optimaliseren van externe factoren (meer structuur en regelmaat) verwacht eiser geen verbetering van zijn klachten. Eiser heeft tevergeefs een zinvolle dagbesteding gezocht. Stress en vermoeidheid veroorzaakt door de Wajong-aanvraag en een zware operatie zijn toegenomen. Tot slot stelt eiser dat hij ook bij functioneren op het niveau van weleer in aanmerking komt voor een Wajong-uitkering. </para>
+      <para />
+      <parablock>
+        <para>De rechtbank komt tot de volgende beoordeling.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Op grond van artikel 1a:1, eerste lid, aanhef en onder a, van de Wajong 2015 is jonggehandicapte de ingezetene die op de dag waarop hij achttien jaar wordt als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek zwangerschap of bevalling duurzaam geen mogelijkheden tot arbeidsparticipatie heeft. </para>
+      <para />
+      <parablock>
+        <para>Op grond van het vierde lid van dit artikel wordt onder duurzaam geen mogelijkheden tot arbeidsparticipatie hebben, de situatie verstaan waarin de mogelijkheden tot arbeidsparticipatie zich niet kunnen ontwikkelen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van het zesde lid van dit artikel wordt de beoordeling van de mogelijkheden tot arbeidsparticipatie gebaseerd op een verzekeringsgeneeskundig en voor zover nodig een arbeidskundig onderzoek. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van het achtste lid van dit artikel kunnen bij of krachtens algemene maatregel van bestuur met betrekking tot het eerste, vierde en zesde lid nadere regels worden gesteld. Deze regels zijn vastgesteld in het Schattingsbesluit arbeidsongeschiktheidswetten (het Schattingsbesluit).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Op grond van artikel 1a, eerste lid, van het Schattingsbesluit heeft de betrokkene geen mogelijkheden tot arbeidsparticipatie als bedoeld in (onder meer) artikel 1a:1, eerste lid, van de Wajong, indien hij:</para>
+      <para>a. geen taak kan uitvoeren in een arbeidsorganisatie;</para>
+      <para>b. niet over basale werknemersvaardigheden beschikt;</para>
+      <para>c. niet aaneengesloten kan werken gedurende ten minste een periode van een uur; of</para>
+      <para>d. niet ten minste vier uur per dag belastbaar is, tenzij hij ten minste twee uur per dag belastbaar is en in staat is per uur ten minste een bedrag te verdienen dat gelijk is aan het minimumloon per uur.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>In de Memorie van Toelichting (Kamerstukken II 2011/12, 33 161, nr. 3, par. 5.1) is met betrekking tot de duurzaamheid opgenomen: “iemand heeft geen perspectief op ontwikkeling; herstel is uitgesloten. Er is duurzaam verlies van mogelijkheden tot functioneren. Iemand kan ook op het moment van beoordeling tijdelijk geen arbeidsmogelijkheden hebben. De situatie is dus niet duurzaam. In dat geval kan iemand later alsnog aangemerkt worden als jonggehandicapte. Hij moet dan een aaneengesloten periode van tien jaar geen mogelijkheden tot arbeidsparticipatie hebben gehad. Eerst dan wordt aangenomen dat er duurzaam geen mogelijkheid tot arbeidsparticipatie is.”</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Op grond van vaste rechtspraak van de Raad brengt een zorgvuldige besluitvorming mee dat de inschatting van de verzekeringsarts en/of de arbeidsdeskundige van de ontwikkeling van de mogelijkheden tot arbeidsparticipatie moet berusten op een concrete en deugdelijke afweging van de feiten en omstandigheden die bij de betrokkene aan de orde zijn, voor zover die feiten en omstandigheden betrekking hebben op de situatie van de betrokkene op de datum in geding. In het geval de inschatting van de mogelijkheden tot ontwikkeling berust op een (ingezette) medische behandeling, is een onderbouwing vereist die ziet op het mogelijke resultaat daarvan voor de betrokkene (vergelijk de uitspraak van de Raad van 5 april 2018, ECLI:NL:CRVB:2018:1018).</para>
+      <para />
+      <parablock>
+        <para>6.	Tussen partijen is niet in geschil dat eiser niet beschikt over arbeidsvermogen. In geschil is of dit ook duurzaam het geval is. In het bijzonder ligt de vraag voor of de eerder over de beoordelingsdatum 23 augustus 2015 geuite verwachting dat behandeling zou kunnen leiden tot ontwikkeling van arbeidsvermogen, zoals blijkt uit de onder 1.1. genoemde uitspraak van de Raad, niet langer reëel is. Deze vraag moet ontkennend worden beantwoord.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Voor zover eiser stelt dat verweerder het zorgvuldigheidsbeginsel heeft geschonden door  de behandelend sector niet te raadplegen en gedurende de bezwaarfase geen lichamelijk onderzoek te verrichten, slaagt deze beroepsgrond niet. Bij zijn onderzoek heeft de verzekeringsarts bezwaar en beroep dossierstudie verricht en de gegevens, waaronder die van de behandelend sector, en observaties tijdens de hoorzitting betrokken. Er is geen reden om aan te nemen dat de verzekeringsarts bezwaar en beroep hiermee niet over voldoende informatie beschikte om de beperkingen van eiser vast te kunnen stellen. Dat er geen lichamelijk onderzoek is verricht, betekent volgens vaste rechtspraak van de Raad nog niet dat het medisch onderzoek onvoldoende zorgvuldig was (zie bijvoorbeeld de uitspraak van 26 april 2013, ECLI:NL:CRVB:2013:BZ9626). Verder heeft de verzekeringsarts bezwaar en beroep in zijn reactie op eisers beroep toereikend gemotiveerd dat gelet op de beschikbaarheid van meervoudige gegevens vanuit de behandelend sector contact met eisers behandelaars en lichamelijke onderzoek onnodig was. Hierdoor kan niet worden gezegd dat verweerder bij het nemen van het bestreden besluit mogelijk een onjuist beeld heeft gehad van de gezondheidstoestand van eiser.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>De verzekeringsarts bezwaar en beroep heeft in zijn rapportage van 22 mei 2018 gemotiveerd dat er geen sprake is van een situatie dat een verbetering van bekwaamheden van eiser niet meer te verwachten valt. Hij heeft daartoe beargumenteerd dat eiser van </para>
+        <para>19 oktober 2016 tot en met 22 december 2016 gedurende zes weken een vooral fysiotherapeutisch traject heeft gevolgd, maar niet een intensief multidisciplinair traject van circa een jaar, zoals eerder was aanbevolen. De verzekeringsarts bezwaar en beroep heeft verder overwogen dat door een verbetering van de externe factoren (zoals een opgelegde dagstructuur) ontwikkeling mogelijk is. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>In reactie op de beroepsgronden en de overgelegde stukken heeft de verzekeringsarts bezwaar en beroep nader toegelicht dat het revalidatietraject in 2009-2010 bij het VermoeidheidCentrum slechts een korte fysiotherapeutische begeleiding en geen cognitief-gedragsmatig en tijdcontingent traject betrof zoals bijvoorbeeld in het UMC-Radboud te Nijmegen, terwijl voor dat laatste traject nog alle aanleiding bestond. Hij heeft gemotiveerd dat het oplossen van externe factoren nadrukkelijk positief van invloed kan zijn op de ervaring van lichamelijke klachten en de invloed die eiser die laat hebben op zijn activiteitenpatroon. Verder heeft hij erop gewezen dat niet eisers behandelaars het aanbod voor dagbesteding hebben ingetrokken omdat het ongeschikt was, maar eisers moeder dat aanbod heeft afgewezen omdat zij het ongeschikt vond. De verzekeringsarts bezwaar en beroep heeft ten aanzien van het chronisch vermoeidheidssyndroom gemotiveerd dat dit een niet-progressieve ziekte is en eisers verklaring voor de toename van vermoeidheidsklachten onlogisch is nu de Wajong-aanvraag op de toename volgde en niet andersom. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <para>In de medische rapportage van 5 augustus 2019 die is opgesteld naar aanleiding van de vragen van de rechtbank heeft de verzekeringsarts bezwaar en beroep gemotiveerd uiteengezet dat een traject dat cognitief gedragsmatige, multidisciplinaire en tijdcontingente aspecten in zich draagt het meest effectief is en met name het tijdcontingente aspect uiterst relevant is. Hierdoor kan eiser ervaren dat de belastbaarheid ondanks de ervaren klachten, toch groter is dan in eerste instantie gedacht. De verzekeringsarts bezwaar en beroep heeft inzichtelijk toegelicht dat dit tijdcontingente aspect geen onderdeel van de door eiser gevolgde behandelingen is geweest en - nu van een psychologische behandeling niet is gebleken - eiser geen volwaardige multidisciplinaire behandeling heeft gevolgd. Door deze behandelingen is het mogelijk om arbeidsvermogen te ontwikkelen. Verder is niet gebleken dat niet van eiser verwacht kan worden om deze behandelingen te volgen. Eerdere behandelingen waren met name gericht op de verbetering van de fysieke belastbaarheid. De verzekeringsarts bezwaar en beroep heeft in deze rapportage toereikend gemotiveerd dat deze behandelmethoden de belastbaarheid van eiser kunnen vergroten en verder niet valt uit te sluiten dat eiser ook baat zou kunnen hebben bij cognitieve gedragstherapie. De reactie van eiser van 10 september 2019 en de medische stukken die eiser daarbij heeft overgelegd doen geen twijfel zaaien aan de juistheid van deze motivering. </para>
+      <para />
+      <para>7. Omdat verweerder eerst na het instellen van beroep afdoende heeft gemotiveerd welke medische behandeling voor eiser resteert en welk mogelijk resultaat hij daarvan kan verwachten, kleeft aan het bestreden besluit een motiveringsgebrek wegens strijd met artikel 7:12, eerste lid, van de Algemene wet bestuursrecht (Awb). Het beroep is daarom gegrond en het bestreden besluit komt voor vernietiging in aanmerking. Gelet echter op de nadere motivering in de medische rapportage van 5 augustus 2019 zal met toepassing van artikel 8:72, derde lid, aanhef en onder a, van de Awb worden bepaald dat de rechtsgevolgen van het bestreden besluit in stand blijven. Dit betekent dat verweerders afwijzing van eisers aanvraag om een Wajong-uitkering in stand blijft.</para>
+      <para />
+      <para>8. Omdat het beroep gegrond is, dient verweerder aan eiser het door hem betaalde griffierecht te vergoeden.</para>
+      <para />
+      <para>9. De rechtbank ziet voorts aanleiding verweerder te veroordelen in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1575,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, 0,5 punt voor de zienswijze op de beantwoording van de vragen en 0,5 punt voor het verschijnen ter nadere zitting anders dan na tussenuitspraak, met een waarde per punt van € 525,- en wegingsfactor 1). </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het besluit op bezwaar;</para>
+    <para>- bepaalt dat de rechtsgevolgen van het vernietigde besluit in stand blijven;</para>
+    <para>- bepaalt dat verweerder aan eiser het betaalde griffierecht van € 46,- vergoedt;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1575,-.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.G.L. de Vette, voorzitter, en mr. H. Bedee en </para>
+      <para>mr. I.S. Vreken-Westra, leden, in aanwezigheid van mr. drs. C.M. Steemers, griffier. De uitspraak is in het openbaar gedaan op 27 februari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

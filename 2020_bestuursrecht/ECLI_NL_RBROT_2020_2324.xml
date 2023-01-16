@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:2324</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-15T11:16:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/4612</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2324">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2324</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-15T11:15:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:2324 Rechtbank Rotterdam , 17-03-2020 / ROT 19/4612</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:2324:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wet handhaving consumentenbescherming - niet voldaan aan inlichtingenvordering - last onder dwangsom - verzoek om voorlopige voorziening afgewezen</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:2324:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/4612</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 17 maart 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">[Verzoekster], gevestigd te [plaatsnaam], verzoekster,</bridgehead>
+    <para>gemachtigden: mr. drs. S.M. Peek en mr. C.C. Rooijakkers,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Stichting Autoriteit Financiële Markten, verweerster (AFM),</bridgehead>
+    <para>gemachtigden: mr. A.J. Boorsma en mr. D.I. van Weerden.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 22 augustus 2019 (het bestreden besluit) heeft de AFM aan [verzoekster] een last onder dwangsom opgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>[verzoekster] heeft tegen dit besluit bezwaar gemaakt. Voorts heeft zij de voorzieningenrechter verzocht een voorlopige voorziening te treffen, inhoudende schorsing van het bestreden besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 oktober 2019 (het wijzigingsbesluit) heeft de AFM het bestreden besluit aangevuld met een beoordeling van de zienswijze van [verzoekster] op het opleggen van een last onder dwangsom aan haar. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft met gesloten deuren plaatsgevonden op 3 maart 2020. Namens [verzoekster] zijn haar gemachtigden verschenen, vergezeld door [naam 1] en [naam 2], respectievelijk directeur en medewerker van [verzoekster]. De AFM is ter zitting vertegenwoordigd door haar gemachtigde mr. A.J. Boorsma, vergezeld door zijn kantoorgenoot mr. M. Koppenol en L. Nguyen en R.S.S. Witvoet-IJff, medewerkers van de AFM.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.	[</nr>
+      <para>verzoekster] is een incassobureau dat zich onder meer bezighoudt met het incasseren van vorderingen van [onderneming 1]. Deze vorderingen vloeien voort uit leningen die consumenten in het verleden bij [onderneming 2] hebben afgesloten. Uit discussies op internetfora is de AFM gebleken dat verschillende consumenten de rechtsgeldigheid van deze vorderingen betwisten op grond van recente rechtspraak over de geldigheid van kredietovereenkomsten waarbij de consument wordt gedwongen een garantstelling bij een derde af te sluiten (ECLI:NL:RBROT:2018:5661 en ECLI:NL:RBDHA:2018:14636). Omdat op deze internetfora ook wordt aangegeven dat [verzoekster], ondanks dat de vorderingen worden betwist, volhardt in het incasseren van de vorderingen namens [onderneming 1], maakt [verzoekster] zich volgens de AFM mogelijk schuldig aan handelspraktijken (hardnekkig en ongewenst aandringen per telefoon, fax, e-mail of andere afstandsmedia), die op grond van artikel 6:193i, aanhef en onder c, van het Burgerlijk Wetboek (BW) als agressief worden aangemerkt, tenzij, voor zover wettelijk gerechtvaardigd, wordt beoogd een contractuele verplichting te doen naleven. Gelet hierop heeft de AFM bij brief van 5 maart 2019 van [verzoekster] inlichtingen gevorderd om te kunnen vaststellen in hoeverre [verzoekster] bij het incasseren van voormelde vorderingen de Wet handhaving consumentenbescherming (Whc) en de Wet oneerlijke handelspraktijken (Wohp, opgenomen in afdeling 3A van Titel 3 van Boek 6 van het BW) naleeft. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Op 3 april 2019 heeft [verzoekster] op deze inlichtingenvordering een reactie gegeven. Omdat [verzoekster] volgens de AFM hiermee niet volledig aan de inlichtingenvordering had voldaan, heeft de AFM [verzoekster] bij brief van 23 mei 2019 gerappelleerd dit alsnog te doen. Daarbij heeft de AFM van [verzoekster] ook aanvullende inlichtingen gevorderd. Hierop heeft [verzoekster] op 7 juni 2019 gereageerd. Daarbij heeft [verzoekster] volgens de AFM voldaan aan de aanvullende inlichtingenvordering, maar nog steeds niet volledig aan de inlichtingenvordering van 5 maart 2019. Bij brief van 3 juli 2019 heeft de AFM daarom opnieuw gerappelleerd. In reactie hierop heeft [verzoekster] de AFM bij brief van 16 juli 2019 te kennen gegeven dat zij van mening is de inlichtingen te hebben verstrekt die gezien het doel van het onderzoek redelijkerwijs van haar kunnen worden verlangd. Nu [verzoekster] nog steeds niet alle gevorderde inlichtingen heeft verstrekt, heeft de AFM geconcludeerd dat [verzoekster] de medewerkingsplicht van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht (Awb) heeft geschonden. </para>
+      <para />
+      <para>2. Bij het bestreden besluit heeft de AFM [verzoekster] op grond van artikel 3.4, zevende lid, van de Whc gelast binnen tien werkdagen na dagtekening van dit besluit alsnog volledig te voldoen aan de inlichtingenvordering door de volgende informatie schriftelijk aan de AFM te verstrekken: </para>
+      <para />
+      <para>- De volledige overeenkomst, inclusief eventuele bijlagen, die ten grondslag ligt aan de</para>
+      <para>incassodienstverlening die [verzoekster] namens [onderneming 1] verricht.</para>
+      <para>- Alle vorderingen die [verzoekster] sinds 5 maart 2018 namens [onderneming 1] incasseert of geïncasseerd heeft. Uit de vorderingen dienen, voor zover van toepassing, een aantal in het bestreden besluit genoemde gegevens herleidbaar te zijn. </para>
+      <para />
+      <parablock>
+        <para>Een en ander op straffe van verbeurte van een dwangsom van € 5.000,- voor iedere kalenderdag of gedeelte daarvan dat [verzoekster] na afloop van de haar geboden begunstigingstermijn niet een of meer van de hierboven gevorderde gegevens heeft verstrekt, met een maximum van € 50.000,-. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De AFM heeft de begunstigingstermijn na de indiening van het verzoek om voorlopige voorziening verlengd tot en met vijf werkdagen na de uitspraak op dit verzoek of na de intrekking daarvan.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verder heeft de AFM aanleiding gezien [verzoekster] op grond van artikel 4:8, eerste lid, van de Awb alsnog in de gelegenheid te stellen haar zienswijze op het opleggen van een last onder dwangsom aan haar naar voren te brengen. [verzoekster] heeft op 20 september 2019 een schriftelijke zienswijze ingediend. Met het wijzigingsbesluit heeft de AFM het bestreden besluit aangevuld met een beoordeling van deze zienswijze. </para>
+      </parablock>
+      <para>3.	[ verzoekster] betoogt onder verwijzing naar de uitspraak van de rechtbank Rotterdam van 30 augustus 2019 (ECLI:NL:RBROT:2019:8143) naar het oordeel van de voorzieningenrechter terecht dat de AFM op grond van artikel 4:8, eerste lid, van de Awb was gehouden haar voorafgaand aan het bestreden besluit in de gelegenheid te stellen haar zienswijze daarop naar voren te brengen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Het standpunt van de AFM dat zij daartoe niet was gehouden, nu de hoorplicht in dienst staat van de zorgvuldige feitenvergaring en over de feiten in dit geval, gezien de uitgebreide correspondentie met [verzoekster] over de inlichtingenvordering, reeds voldoende duidelijkheid bestond, volgt de voorzieningenrechter niet. De feiten waar de AFM op doelt zien op de inlichtingenvordering en niet op het opleggen van de last onder dwangsom, waarbij, zoals bijvoorbeeld bij het vaststellen van de lengte van de begunstigingstermijn en de hoogte van de dwangsom, ook andere feiten en belangen die [verzoekster] betreffen een rol zouden kunnen spelen. Met toepassing van artikel 4:8, eerste lid, van de Awb had de AFM daaromtrent voorafgaand aan het bestreden besluit, zoals ook volgt uit artikel 3:2 van de Awb, de nodige kennis moeten vergaren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <parablock>
+        <para>Dat de AFM dit heeft nagelaten geeft geen aanleiding om het verzoek om voorlopige voorziening toe te wijzen, nu zij [verzoekster] alsnog de gelegenheid heeft geboden haar zienswijze op het opleggen van een last onder dwangsom naar voren te brengen en zij het bestreden besluit met het wijzigingsbesluit heeft aangevuld met een beoordeling van de zienswijze van [verzoekster], waarmee het gebrek is hersteld (vergelijk de uitspraak van het College van Beroep voor het bedrijfsleven (CBb) van 23 juli 2019, ECLI:NL:CBB:2019:296). </para>
+        <para>Voor zover op door [verzoekster] in haar zienswijze naar voren gebrachte op- en aanmerkingen in het wijzigingsbesluit niet is ingegaan, zou dit eventueel kunnen leiden tot een motiveringsgebrek, maar niet, zoals [verzoekster] meent, tot de conclusie dat het gebrek niet is hersteld. Ook biedt dit geen grond om [verzoekster] te volgen in haar standpunt dat dit bijdraagt aan het vermoeden van tenminste een schijn van vooringenomenheid van de AFM. </para>
+        <para>Het standpunt van [verzoekster] dat het gebrek niet is hersteld, omdat zij door het niet naleven van de hoorplicht door de AFM werd gedwongen het verzoek om voorlopige voorziening in te dienen, volgt de voorzieningenrechter tot slot evenmin. Staan blijft dat [verzoekster] alsnog een zienswijze naar voren heeft kunnen brengen, die door de AFM is meegenomen in haar besluitvorming. Wel zou de handelwijze van de AFM met betrekking tot de hoorplicht eventueel aanleiding kunnen geven haar in de proceskosten te veroordelen en te bepalen dat de AFM aan [verzoekster] het door haar betaalde griffierecht vergoedt. Dit komt aan het eind van deze uitspraak aan de orde. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>4.	[verzoekster] betoogt dat de AFM haar bevoegdheid om van haar inlichtingen te vorderen onvoldoende heeft aangetoond. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>Op grond van artikel 3.1, eerste lid, van de Whc wordt de AFM aangewezen als bevoegde autoriteit voor inbreuken of inbreuken binnen de Unie op de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, voor zover de inbreuk of inbreuk binnen de Unie betrekking heeft op een financiële dienst of activiteit.</para>
+        <para>Op grond van het tweede lid van dit artikel wordt de AFM voorts aangewezen als bevoegde autoriteit voor inbreuken of inbreuken binnen de Unie op de wettelijke bepalingen bedoeld in onderdeel b van de bijlage bij deze wet.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 3.2, eerste lid, van de Whc zijn de bij besluit van de AFM aangewezen personen belast met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in de onderdelen a en b van de bijlage bij deze wet, voor zover de inbreuk of inbreuk binnen de Unie betrekking heeft op een financiële dienst of activiteit. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 1.1, aanhef en onder e, sub 1°, van de Whc, zoals dit luidde ten tijde van belang, wordt in deze wet en de daarop berustende bepalingen onder financiële dienst of activiteit verstaan: een financiële dienst als bedoeld in artikel 1:1 van de Wet op het financieel toezicht (Wft) (…), waarbij voor de toepassing van deze wet onder deze financiële diensten en activiteiten mede worden begrepen de overeenkomsten met betrekking tot een of meer financiële producten als bedoeld in artikel 1.1 van de Wft die rechtstreeks uit deze financiële diensten of activiteiten voortvloeien of daarvan het resultaat zijn.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 1:1 van de Wft wordt in deze wet en de daarop berustende bepalingen onder financieel product onder meer verstaan: krediet, en onder financiële dienst onder meer verstaan: aanbieden. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 5:13 van de Awb maakt een toezichthouder van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op grond van artikel 5:16 van de Awb is een toezichthouder bevoegd inlichtingen te vorderen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>De zinsnede “waarbij voor de toepassing van deze wet onder deze financiële diensten en activiteiten mede worden begrepen de overeenkomsten met betrekking tot een of meer financiële producten als bedoeld in artikel 1.1 van de Wet op het financieel toezicht die rechtstreeks uit deze financiële diensten of activiteiten voortvloeien of daarvan het resultaat zijn” is met ingang van 1 juli 2011 toegevoegd aan artikel 1.1, aanhef en onder e, sub 1°, van de Whc. De memorie van toelichting (TK, 2008-2009, 32 036, nr. 3, blz. 35) vermeldt daarover het volgende: </para>
+      <para />
+      <parablock>
+        <para>“De AFM is toezichthouder met betrekking tot oneerlijke handelspraktijken voor zover het de financiële sector betreft. Het toepassingsgebied van de regeling omtrent oneerlijke handelspraktijken zoals neergelegd in het Burgerlijk Wetboek strekt zich uit tot handelspraktijken van ondernemingen jegens consumenten voor, tijdens en na de totstandkoming van een commerciële transactie. In de Wet handhaving consumentenbescherming (Whc) is bepaald dat de AFM de bevoegde toezichthouder is ten aanzien van oneerlijke handelspraktijken voor zover deze betrekking hebben op de in artikel 1.1, onderdeel e, van de Whc bedoelde financiële diensten en activiteiten. Uit de woorden «betrekking hebben op» vloeit voort dat de toezichtbevoegdheid van de AFM conform de bedoeling van de wetgever niet beperkt is tot het moment waarop de in artikel 1, onderdeel e, onder 1°, Whc vermelde financiële diensten en activiteiten plaatsvinden (zoals bijvoorbeeld het aanbieden van effecten of andere financiële producten), doch dat deze zich uitstrekt tot oneerlijke handelspraktijken die zich in verband met die financiële diensten of activiteiten voordoen, zodat in lijn met de desbetreffende BW-bepalingen de toezichtbevoegdheden van de AFM zien op de periode voor, tijdens en na de totstandkoming van een commerciële transactie. Om te voorkomen dat vragen zouden rijzen over een vermeende discrepantie tussen de in artikel 1.1, onderdeel e, onder 1°, Whc gehanteerde terminologie uit de Wft en de bedoelde reikwijdte van de toezichtbevoegdheid van de AFM uit hoofde van de Whc, wordt voorgesteld om artikel 1.1, onderdeel e, onder 1°, Whc zodanig aan te passen dat over de toezichtbevoegdheid van de AFM geen misverstand kan ontstaan. Zoals uit de voorgestelde teksttoevoeging blijkt, gaat het om overeenkomsten die rechtstreeks uit de desbetreffende financiële diensten of activiteiten voortvloeien of daarvan het resultaat zijn.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Zoals de AFM terecht heeft opgemerkt, volgt uit voorgaande wettelijke bepalingen dat zij onder meer is belast met het toezicht op de naleving van de Whc en Wohp bij activiteiten die rechtstreeks uit kredietovereenkomsten voortvloeien of daarvan het resultaat zijn. Mede gelet op voormeld citaat uit de memorie van toelichting is daarvan in dit geval sprake, nu, zoals de AFM onweersproken heeft opgemerkt, de vorderingen die [verzoekster] namens [onderneming 1] incasseert voortvloeien uit de garantstellingovereenkomsten die consumenten verplicht moesten aangaan met [onderneming 1] toen zij een kredietovereenkomst met [onderneming 2] afsloten en waarvoor zij premiekosten waren verschuldigd die tot de totale kosten van het krediet moeten worden gerekend (zie de uitspraak van het CBb van 7 december 2016, ECLI:NL:CBB:2016:363, r.o. 4.3). Dat [verzoekster] de vorderingen niet heeft overgenomen maar namens [onderneming 1] incasseert, is, anders dan [verzoekster] meent, daarbij niet van belang, zoals overigens ook volgt uit de uitspraak van het CBb van 12 maart 2019 (ECLI:NL:CBB:2019:112, r.o. 4.3). Nu de AFM is belast met het toezicht op de naleving van de Whc en Wohp door [verzoekster] bij het incasseren van de vorderingen namens [onderneming 1], is zij in dat kader ook bevoegd inlichtingen van [verzoekster] te vorderen. Het betoog faalt.  </para>
+      <para />
+      <parablock>
+        <para>5.	[verzoekster] betoogt dat de door de AFM gestelde aanleiding geen concrete basis biedt voor het onderzoek van de AFM naar de naleving van de Whc en Wohp door haar bij het incasseren van de vorderingen namens [onderneming 1].</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Ook dit betoog faalt. De AFM en de bij haar werkzame toezichthouders beschikken teneinde adequaat toezicht te kunnen uitoefenen op de naleving van de bij en krachtens de Whc en Wohp gestelde regels over verschillende bevoegdheden die zij steeds en spontaan kunnen uitoefenen, zonder dat daartoe een daaraan voorafgaand en redengevend feit, signaal, grond of vermoeden is vereist (vergelijk de uitspraken van het CBb van 12 oktober 2017, ECLI:NL:CBB:2017:326, en 15 oktober 2019, ECLI:NL:CBB:2019:496). Overigens heeft de AFM in de discussies op internetfora over de rechtsgeldigheid van de vorderingen van [onderneming 1] en de volharding van [verzoekster] in het incasseren van deze vorderingen in redelijkheid aanleiding kunnen zien voor een onderzoek naar de naleving van de Whc en Wohp daarbij door [verzoekster]. </para>
+      <para />
+      <parablock>
+        <para>6.	Verder betoogt [verzoekster] dat zij de medewerkingsplicht van artikel van artikel 5:20, eerste lid, van de Awb niet heeft geschonden, nu een redelijke noodzaak voor het vorderen van de niet door haar verstrekte inlichtingen ontbrak.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <parablock>
+        <para>Dit betoog faalt. Zoals de AFM onder verwijzing naar de uitspraak van het CBb van 21 september 2015 (ECLI:NL:CBB:2015:288, r.o. 5.3) terecht heeft opgemerkt, staat het haar in het kader van haar toezichthoudende taken in beginsel vrij naar eigen inzicht en los van de wil van de onderzochte haar onderzoek in te richten. Mede in dat licht acht de voorzieningenrechter het zonder meer redelijk dat de AFM om een volledig beeld te verkrijgen van de activiteiten die [verzoekster] namens [onderneming 1] verricht, heeft gevraagd om de volledige incasso-overeenkomst en alle vorderingen die [verzoekster] sinds 5 maart 2018 namens [onderneming 1] incasseert of heeft geïncasseerd. Zoals de AFM terecht heeft opgemerkt, is inzicht in de volledige incasso-overeenkomst noodzakelijk om vast te kunnen stellen in hoeverre deze overeenkomst (prestatie)prikkels bevat die invloed kunnen hebben op de wijze van incasseren door [verzoekster]. De AFM wil terecht weten of proces-, resultaats- of prestatieafspraken zijn gemaakt, die oneerlijke of agressieve handelspraktijken kunnen uitlokken. Daarop krijgt zij geen zicht op grond van de door [verzoekster] verstrekte versie van de incasso-overeenkomst, waarin passages zijn weggelaten. Met de in de gronden van het verzoek geponeerde stelling dat de overeenkomst geen (prestatie)afspraken bevat ten aanzien van het bij de debiteuren te behalen resultaat, kan [verzoekster] evenmin volstaan. De AFM moet dit aan de hand van de door [verzoekster] aan haar te verstrekken volledige incasso-overeenkomst zelf kunnen vaststellen. Voor een volledig inzicht in de handelspraktijken van [verzoekster], de omvang daarvan en de duur van een eventuele overtreding heeft de AFM voorts in redelijkheid ook noodzakelijk kunnen achten dat alle vorderingen worden verstrekt die [verzoekster] sinds 5 maart 2018 namens [onderneming 1] incasseert of heeft geïncasseerd. Zoals de AFM terecht heeft opgemerkt, wordt dit inzicht niet verkregen met het beperkte overzicht van enkele vorderingen dat [verzoekster] heeft verstrekt.</para>
+        <para>Uit het voorgaande volgt dat [verzoekster], anders dan zij meent, de medewerkingsplicht van artikel van artikel 5:20, eerste lid, van de Awb wel degelijk heeft geschonden.</para>
+      </parablock>
+      <para />
+      <para>7. Nu op [verzoekster] de wettelijk plicht rust de volledige incasso-overeenkomst en alle vorderingen aan de AFM te verstrekken, faalt ook haar betoog dat de in deze overeenkomst opgenomen geheimhoudingsplicht jegens [onderneming 1] aan die verstrekking in de weg staat. De in de incasso-overeenkomst opgenomen geheimhoudingsplicht voorziet tenslotte in de uitzondering dat wel gegevens door [verzoekster] mogen worden verstrekt als daartoe een wettelijke plicht bestaat. Overigens kan de medewerkingsplicht van artikel 5:20, eerste lid, van de Awb alleen opzij worden gezet door een wettelijke uitzondering daarop, waarvan in het onderhavige geval geen sprake is. De medewerkingsplicht wijkt niet indien het vervullen daarvan leidt of kan leiden tot een schending van andere normen. Dat [verzoekster] ervoor heeft gekozen haar geheimhoudingplicht te laten prevaleren boven de wettelijke medewerkingsplicht is haar keuze en maakt niet dat zij deze medewerkingsplicht niet heeft geschonden (vergelijk de uitspraak van deze rechtbank van 9 juni 2011, ECLI:NL:RBROT:2011:BQ7633). </para>
+      <para />
+      <para>8. Tot slot faalt het betoog van [verzoekster] dat, nu de AFM niet met haar heeft willen kijken naar een oplossing die recht doet aan de belangen van hun beiden, het opleggen van de last onder dwangsom een onevenredig zwaar middel was. Geen rechtsregel dwong de AFM in te gaan op, laat staan genoegen te nemen met het door [verzoekster] gedane voorstel om voor de beeldvorming van de AFM over haar incassodienstverlening in een gesprek een nadere toelichting te geven op haar werkwijze en -processen (vergelijk de eerder genoemde uitspraak van het CBb van 21 september 2015). Ditzelfde geldt voor de in de gronden van het onderhavige verzoek door [verzoekster] gedane voorstellen waarbij al dan niet steekproefsgewijs een aantal vorderingen en de bijbehorende dossiers aan de AFM worden vertrekt. Op het daarbij tevens door [verzoekster] gedane voorstel uitsluitend de voorzieningenrechter kennis te laten nemen van de niet door haar verstrekte inlichtingen kan reeds gelet op wat in 6.1 is overwogen voorbij worden gegaan. </para>
+      <para />
+      <para>9. Gezien het voorgaande bestaat geen grond voor het treffen van een voorlopige voorziening en dient het verzoek daartoe te worden afgewezen. </para>
+      <para>10. De voorzieningenrechter ziet geen aanleiding te bepalen dat de AFM aan [verzoekster] het door haar betaalde griffierecht vergoedt en/of de AFM te veroordelen in de door [verzoekster] gemaakte proceskosten. Ook indien de AFM [verzoekster] voorafgaand aan het bestreden besluit wel in de gelegenheid had gesteld daarop haar zienswijze naar voren te brengen, had [verzoekster] een verzoek om voorlopige voorziening moeten indienen ter voorkoming van het verstrijken van de begunstigingstermijn en het verbeuren van dwangsommen. Ook in dat geval had [verzoekster] dus kosten voor het griffierecht en de rechtsbijstand moeten maken die, gezien de afwijzing van het verzoek, niet voor vergoeding in aanmerking komen.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.J. van Spengen, voorzieningenrechter, in aanwezigheid van mr. M.J.F.J. van Beek, griffier. De uitspraak is in het openbaar gedaan op 17 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier is buiten staat deze </emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">uitspraak mede te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

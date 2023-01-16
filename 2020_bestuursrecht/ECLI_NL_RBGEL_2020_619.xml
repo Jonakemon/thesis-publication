@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:619</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-06T15:41:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 2901</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JBP 2020/44</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:619">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:619</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-03T14:14:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:619 Rechtbank Gelderland , 04-02-2020 / AWB - 19 _ 2901</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:619:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verzoek om handhavend op te treden tegen derde partij op grond van de Algemene verordening gegevensbescherming omdat derde-partij het betalen met contant geld in de bus heeft afgeschaft. De rechtbank concludeert dat de vergroting van de veiligheid in bussen van derde-partij hiervoor een gerechtvaardigd doel oplevert. Ook concludeert de rechtbank dat de maatregel noodzakelijk en proportioneel is. Ten slotte concludeert de rechtbank dat er geen werkbaar alternatief is voor deze maatregel. Het beroep is ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:619:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para>Zittingsplaats Arnhem</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/2901</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van</bridgehead>
+    <para />
+    <parablock>
+      <para>in de zaak tussen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser], te [woonplaats], eiser,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Autoriteit Persoonsgegevens, verweerder.</bridgehead>
+    <para>(gemachtigden: mr. J.M.A. Koster en mr. W. van Steenbergen).</para>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: <emphasis role="bold">[derde partij]</emphasis> te [woonplaats]. </para>
+      <para>(gemachtigde: mr. E.P.C. Seijbel)</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 januari 2019 heeft verweerder een verzoek van eiser om handhavend op te treden tegen [derde partij] afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 14 mei 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Derde-partij heeft een schriftelijke uiteenzetting gegeven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 16 december 2019. Eiser is verschenen. Verweerder is vertegenwoordigd door haar gemachtigden. Derde-partij is vertegenwoordigd door haar gemachtigde en M.J.M. Piels.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Waarom honoreert de rechtbank het verzoek van eiser om aanhouding van de zaak niet?</emphasis>
+      </para>
+      <para>1. Eiser heeft verzocht om zijn zaak aan te houden in afwachting van het antwoord op prejudiciële vragen van het Grondwettelijk Hof van België en in afwachting van de uitspraak op het hoger beroep bij de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) in een eerder door hem gevoerde vergelijkbare zaak. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <parablock>
+        <para>De rechtbank ziet daartoe geen aanleiding. Het Grondwettelijk Hof van België heeft in zijn uitspraak van 17 oktober 2019 (arrest nr. 135/2019) prejudiciële vragen gesteld aan het Hof van Justitie van de Europese Unie. Deze vragen hebben betrekking op de nationale (Belgische) wet van 25 december 2016 betreffende de verwerking van passagiersgegevens. Bij deze wet zijn de richtlijnen (EU) 2016/681 van het Europees Parlement en de Raad van 27 april 2016, 2004/82/EG van de Raad van 29 april 2004 en 2010/65/EU van het Europees Parlement en de Raad van 20 oktober 2010 omgezet in (nationale) wetgeving. Richtlijn 2004/82/EG heeft tot doel de grenscontroles te verbeteren en de illegale immigratie te bestrijden en ziet op het beroepsmatige vervoer van personen door de lucht. Richtlijn 2010/65 heeft ten doel de administratieve procedures die van toepassing zijn op het zeevervoer te vereenvoudigen en te harmoniseren. Bij richtlijn 2016/681 worden voorschriften vastgesteld inzake de doorgifte door luchtvaartmaatschappijen van persoonsgegevens van passagiers (Passenger Name Record-PNR) van vluchten met als doel terroristische misdrijven en ernstige criminaliteit te voorkomen, op te sporen, te onderzoeken en te vervolgen.</para>
+        <para>Eén van de vragen van het Grondwettelijk Hof van België betreft de vraag of artikel 23 van de AVG van toepassing is op (deze) nationale wetgeving. Voor het overige hebben de vragen betrekking op richtlijn (EU) 2016/681. </para>
+        <para>De antwoorden van het Europese Hof op de gestelde vragen zijn naar het oordeel van de rechtbank niet van invloed op het beroep van eiser in deze zaak. De genoemde richtlijnen zijn niet aan de orde en de AVG is in deze zaak rechtstreeks toegepast en niet via nationale wetgeving.</para>
+        <para>Er is ook geen aanleiding om de uitspraak van de Afdeling in het hoger beroep van eiser tegen de uitspraak van deze rechtbank van 5 september 2019 in de zaken AWB 18/546 en 18/1487<footnote-ref linkend="_4cf451e1-d03a-4b9f-a483-a11f40857266" /> af te wachten. Het handhavingsverzoek waar deze zaak over gaat, ziet op andere feiten dan waar de uitspraak van 5 september 2019 op ziet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Waar gaat deze uitspraak over?</emphasis>
+        </para>
+      </parablock>
+      <para>2. In deze uitspraak beoordeelt de rechtbank de weigering van verweerder om handhavend op te treden tegen [derde partij] op grond van de Verordening (EU) 2016/679 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (Algemene Verordening Gegevensbescherming; AVG). Het gaat daarbij om de maatregel dat een reiziger die met ingang van 1 juli 2018 in de bus een kaartje wil kopen bij de buschauffeur, dit kaartje alleen nog maar kan betalen met een pinpas of creditcard en niet langer met contant geld. Eiser heeft verweerder verzocht de verplichting om met een pinpas of creditcard te betalen en de afschaffing van contante betaling in de bus te onderzoeken en vervolgens daartegen handhavend op te treden. </para>
+      <para>Voor de relevante wet- en regelgeving verwijst de rechtbank naar de bijlage. Deze bijlage maakt deel uit van de uitspraak<emphasis role="bold">.	</emphasis></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Hoe toetst de rechtbank het besluit van verweerder?</emphasis>
+        </para>
+      </parablock>
+      <para>3. In deze zaak speelt de toepassing van de artikelen 5 en 6, in het licht van overweging 39 van de considerans, van de AVG. Verweerder heeft voor de verwerking van de pin- en creditcardgegevens bij het kopen van een kaartje bij de buschauffeur een grondslag aangenomen in artikel 6, eerste lid, aanhef en onder b, van de AVG.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <parablock>
+        <para>De rechtbank toetst of verweerder heeft kunnen concluderen dat [derde partij] de AVG niet overtreedt. Is dat inderdaad niet het geval, dan is verweerder niet bevoegd om handhavend op te treden. </para>
+        <para>De rechtbank toetst daarvoor of artikel 6 van de AVG een grondslag biedt voor de verwerking van pin- en creditcardgegevens. Ook wordt bekeken of verweerder heeft kunnen stellen dat de verwerking van deze persoonsgegevens voldoet aan de eisen van artikel 5 van de AVG. Daarbij is relevant of de reden waarom [derde partij] alleen nog pinpas- en creditcardbetalingen in de bus toestaat, gerechtvaardigd is. Vervolgens toetst de rechtbank of bij de betaling met pinpas en creditcard is voldaan aan de vereisten van noodzakelijkheid en proportionaliteit en of er mogelijk een alternatief (subsidiariteit) bestaat (overweging 39 van de AVG). </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Is er een grondslag voor de gegevensverwerking?</emphasis>
+        </para>
+        <para>4. 	Eiser betoogt dat hij geen overeenkomst met [derde partij] aangaat bij gebruikmaking van de bus, omdat hij hiervoor geen toestemming heeft gegeven. Als wordt aangenomen dat hij wel toestemming heeft gegeven, heeft hij deze toestemming niet vrijelijk of ondubbelzinnig gegeven. Het vervoersbedrijf heeft een monopoliepositie en eiser is afhankelijk van het openbaar vervoer. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder terecht de grondslag voor de verwerking van de persoonsgegevens van de busreizigers gebaseerd op de vervoersovereenkomst. Zoals de rechtbank ook in haar uitspraak van 5 september 2019 heeft overwogen, gaat een reiziger, als hij gebruik maakt van het openbaar vervoer, een vervoersovereenkomst aan met een vervoersbedrijf. In deze zaak is dat eiser als busreiziger en Breng/[derde partij] als vervoerder. Aan de verwerking van pin- en creditcardgegevens ligt daarom een overeenkomst met [derde partij] als bedoeld in artikel 6, eerste lid, aanhef en onder b, van de AVG ten grondslag. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Deze beroepsgrond slaagt niet. De rechtbank zal daarom de gronden van eiser die betrekking hebben op andere, in artikel 6 van de AVG genoemde bepalingen over rechtmatigheid van verwerking van persoonsgegevens, zoals instemming van de betrokkene of een wettelijke plicht, niet bespreken.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Heeft [derde partij] een gerechtvaardigd doel om alleen pinpas of creditcardbetalingen in de bus toe te staan?</emphasis>
+        </para>
+        <para>5. 	Eiser betoogt dat het niet noodzakelijk is dat voor de veiligheid op alle buslijnen betaling met contant geld is afgeschaft. Een voldoende mate van veiligheid is alleen nodig op specifieke, risicovolle buslijnen. Een algemene aantasting van de privacy van alle reizigers op alle buslijnen is niet nodig. Verder kan veiligheid niet als noodzaak worden gezien voor gegevensverwerking, aldus eiser. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <parablock>
+        <para>De rechtbank is van oordeel dat verweerder het doel waarom [derde partij] als verwerkingsverantwoordelijke de contante betaling in de bus heeft afgeschaft en daarmee persoonsgegevens verwerkt, in redelijkheid gerechtvaardigd heeft kunnen achten. [derde partij] is tot zijn besluit gekomen naar aanleiding van het actieprogramma “Sociale Veiligheid in het Openbaar Vervoer”. Dit integrale actieprogramma is in 2016 opgesteld door partijen uit de OV-sector, vervoerders, vakbonden, politie, decentrale overheden en het Rijk. Daarbij is gekozen voor een integrale aanpak voor het hele openbaar vervoer om de veiligheid voor de reizigers en de werknemers in het openbaar vervoer te verbeteren. Eén van de maatregelen in dit rapport is het niet langer toestaan van cashgeld in de bus om diefstal en beroving tegen te gaan. </para>
+        <para>In dit actieprogramma is de navolgende tabel opgenomen, waarbij onder A-incidenten wordt verstaan: mishandeling, bedreiging (met een wapen), diefstal, drugsoverlast, vandalisme, vernieling en overtredingen zoals duwen/trekken en spugen:</para>
+        <para>
+          <emphasis role="italic">Tabel 1: geregistreerde A- incidenten streekvervoerders</emphasis>
+        </para>
+      </parablock>
+      <informaltable>
+        <tgroup cols="4">
+          <colspec colname="colA" />
+          <colspec colname="colB" />
+          <colspec colname="colC" />
+          <colspec colname="colD" />
+          <tbody>
+            <row>
+              <entry namest="colA" nameend="colB">
+                <para>
+                  <emphasis role="bold">A-incidenten totaal BUS + TREIN</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para />
+                <para>
+                  <emphasis role="bold">A-incidenten BUS</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para />
+                <para>
+                  <emphasis role="bold">A-incidenten TREIN</emphasis>
+                </para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2008</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>2238</para>
+              </entry>
+              <entry>
+                <para>1957</para>
+              </entry>
+              <entry>
+                <para>281</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2009</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>2361</para>
+              </entry>
+              <entry>
+                <para>2126</para>
+              </entry>
+              <entry>
+                <para>235</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2010</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>3114</para>
+              </entry>
+              <entry>
+                <para>2730</para>
+              </entry>
+              <entry>
+                <para>384</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2011</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>2758</para>
+              </entry>
+              <entry>
+                <para>2479</para>
+              </entry>
+              <entry>
+                <para>279</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2012</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>1996</para>
+              </entry>
+              <entry>
+                <para>1676</para>
+              </entry>
+              <entry>
+                <para>320</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2013</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>1404</para>
+              </entry>
+              <entry>
+                <para>1101</para>
+              </entry>
+              <entry>
+                <para>303</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2014</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>1469</para>
+              </entry>
+              <entry>
+                <para>1189</para>
+              </entry>
+              <entry>
+                <para>280</para>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <para>
+                  <emphasis role="bold">2015</emphasis>
+                </para>
+              </entry>
+              <entry>
+                <para>1637</para>
+              </entry>
+              <entry>
+                <para>1390</para>
+              </entry>
+              <entry>
+                <para>247</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para>Zoals [derde partij] op de zitting heeft toegelicht, wordt landelijk gestreefd naar het terugdringen van het aantal A-incidenten, waaronder overvallen. Bij [derde partij] hebben berovingen van buschauffeurs op hun buslijnen plaatsgehad en dit heeft een enorme impact op werknemers en reizigers gehad. Door het afschaffen van de contante betaling in de bussen is het aantal berovingen landelijk tot bijna nul gedaald. <?linebreak?>Gelet op dit rapport en de door [derde partij] gegeven toelichting heeft verweerder de invoering van pinpas- en creditcardbetalingen op de bussen een gerechtvaardigd doel kunnen achten. Daarbij acht de rechtbank aannemelijk dat alleen gekozen kan worden voor toepassing van deze landelijke maatregel op alle buslijnen van [derde partij] omdat er anders een verplaatsing van de berovingen zal gaan plaatsvinden. Deze beroepsgrond slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Is de verwerking van pin- en creditcardgegevens noodzakelijk en proportioneel voor de uitvoering van de vervoersovereenkomst met [derde partij]?</emphasis>
+        </para>
+        <para>6.	 Eiser heeft aangevoerd dat de bewijslast voor de noodzakelijkheid, proportionaliteit en subsidiariteit niet bij hem maar bij Breng/[derde partij] moet worden gelegd. Het gaat hem niet alleen om zijn bankgegevens maar ook om zijn pincode. Er bestaat gevaar van hacken en profilering, aldus eiser.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder zich in redelijkheid op het standpunt kunnen stellen dat de verwerking van persoonsgegevens bij een pinpas- of creditcardbetaling in de bus beperkt blijft tot wat noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt en is ook voldaan aan de eis van minimale gegevensverwerking. Zoals [derde partij] ter zitting heeft toegelicht, verloopt de betaling per pinpas of creditcard via een payment service provider (PSP). Bij het kopen van een kaartje in de bus worden de gegevens van de pinpas en creditcard van de reiziger gepseudonimiseerd en zijn voor de vervoerder alleen de laatste vier cijfers van de pinpas en creditcard zichtbaar. De PSP incasseert en verwerkt deze betalingen en stort periodiek de omzet door aan [derde partij]. [derde partij] ontvangt alleen periodiek een overzicht van het totaalbedrag. Op dit overzicht zijn uitsluitend de laatste vier cijfers van de pinpas- of creditcardbetalingen terug te vinden om, bij eventuele onduidelijkheden over betalingen, die terug te kunnen vinden. Andere gegevens ontvangt [derde partij] niet. Ook de pincode verloopt via de PSP en wordt niet bij [derde partij] opgeslagen. Daarmee is de inbreuk op de privacy van eiser door [derde partij] beperkt tot wat minimaal noodzakelijk is voor het kopen van een kaartje bij de buschauffeur in de bus. Deze beroepsgrond slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Is er een alternatief voor [derde partij]?</emphasis>
+        </para>
+        <para>7.	Eiser is van mening dat [derde partij] de maatregel niet voor alle buslijnen hoefde in te voeren en moet beperken tot de risicovolle buslijnen. [derde partij] kan een website maken waarop voor werknemers en reizigers te zien is op welke lijnen op dat moment niet meer met contant geld betaald kan worden, aldus eiser.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder zich in redelijkheid op het standpunt kunnen stellen dat [derde partij] het doel om de veiligheid in de bus voor werknemers en reizigers te verhogen redelijkerwijs niet kan bereiken door middel van een minder ingrijpende werkwijze. Het standpunt van [derde partij] dat een dergelijke website niet door iedereen geraadpleegd zal worden en tot verwarring en onduidelijkheid in de communicatie zal leiden bij reizigers en werknemers, is aannemelijk. [derde partij] kan ook worden gevolgd dat dit voorstel van eiser niet werkbaar is. Ook is van belang dat sprake is van een landelijke afspraak. [derde partij] kan worden gevolgd dat het niet wenselijk is om als enige daarvan af te wijken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Eiser kan er overigens voor kiezen om in de voorverkoop buskaartjes te kopen. Ook kan eiser met een niet op naam gestelde OV-chipkaart reizen die hij aan de automaat (anoniem) kan opladen. Dat daarbij sprake is van enig ongemak voor eiser, heeft verweerder niet tot een andere conclusie hoeven leiden. Deze beroepsgrond slaagt daarom niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overige beroepsgronden. Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>8. Eiser heeft nog meer beroepsgronden aangevoerd. Daaruit spreekt de vrees van eiser dat in toenemende mate sprake zal zijn van een samenleving waarin de privacy van de burger onder druk komt te staan. Deze gronden zien echter niet direct op het bestreden besluit en kunnen daarom niet afdoen aan de rechtmatigheid daarvan. Ook de overige beroepsgronden doen daaraan niet af.</para>
+      <para />
+      <para>9. Omdat de beroepsgronden niet slagen is het beroep ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="3">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <tbody>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Deze uitspraak is gedaan door mr. J.H. van Breda, voorzitter, mr. W.P.C.G. Derksen en </para>
+              <para>mr. S.E.M. Lichtenberg, rechters, in tegenwoordigheid van mr. M.G. Smeenk, griffier. </para>
+              <para>De beslissing is in het openbaar uitgesproken op: </para>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>voorzitter</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Afschrift verzonden aan partijen op:</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>
+                <emphasis role="bold">Rechtsmiddel</emphasis>
+              </para>
+              <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">AVG</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Considerans, overweging 39</para>
+      <para>(…) Persoonsgegevens mogen alleen worden verwerkt indien het doel van de verwerking niet redelijkerwijs op een andere wijze kan worden verwezenlijkt. (…)</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Artikel 4</para>
+      <para>Definities</para>
+      <para>Voor de toepassing van deze verordening wordt verstaan onder:</para>
+      <para>1) „persoonsgegevens”: alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon („de betrokkene”); als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische, psychische, economische, culturele of sociale identiteit van die natuurlijke persoon;</para>
+      <para>2) „verwerking”: een bewerking of een geheel van bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van gegevens;</para>
+      <para>5) „pseudonimisering”: het verwerken van persoonsgegevens op zodanige wijze dat de persoonsgegevens niet meer aan een specifieke betrokkene kunnen worden gekoppeld zonder dat er aanvullende gegevens worden gebruikt, mits deze aanvullende gegevens apart worden bewaard en technische en organisatorische maatregelen worden genomen om ervoor te zorgen dat de persoonsgegevens niet aan een geïdentificeerde of identificeerbare natuurlijke persoon worden gekoppeld;</para>
+      <para>7) „verwerkingsverantwoordelijke”: een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt; wanneer de doelstellingen van en de middelen voor deze verwerking in het Unierecht of het lidstatelijke recht worden vastgesteld, kan daarin worden bepaald wie de verwerkingsverantwoordelijke is of volgens welke criteria deze wordt aangewezen;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5</para>
+      <para>Beginselen inzake verwerking van persoonsgegevens</para>
+    </parablock>
+    <para>1. Persoonsgegevens moeten:</para>
+    <para>a. a) worden verwerkt op een wijze die ten aanzien van de betrokkene rechtmatig, behoorlijk en transparant is („rechtmatigheid, behoorlijkheid en transparantie”);</para>
+    <para>b) voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld en mogen vervolgens niet verder op een met die doeleinden onverenigbare wijze worden verwerkt; de verdere verwerking met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden wordt overeenkomstig artikel 89, lid 1, niet als onverenigbaar met de oorspronkelijke doeleinden beschouwd („doelbinding”);</para>
+    <para>c) toereikend zijn, ter zake dienend en beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt („minimale gegevensverwerking”);</para>
+    <para>(…)</para>
+    <para>f) door het nemen van passende technische of organisatorische maatregelen op een dusdanige manier worden verwerkt dat een passende beveiliging ervan gewaarborgd is, en dat zij onder meer beschermd zijn tegen ongeoorloofde of onrechtmatige verwerking en tegen onopzettelijk verlies, vernietiging of beschadiging („integriteit en vertrouwelijkheid”).</para>
+    <para />
+    <parablock>
+      <para>Artikel 6</para>
+      <para>Rechtmatigheid van de verwerking</para>
+    </parablock>
+    <para>1. De verwerking is alleen rechtmatig indien en voor zover aan ten minste een van de onderstaande voorwaarden is voldaan:</para>
+    <para>a (...)</para>
+    <para>b) de verwerking is noodzakelijk voor de uitvoering van een overeenkomst waarbij de betrokkene partij is, of om op verzoek van de betrokkene vóór de sluiting van een overeenkomst maatregelen te nemen;</para>
+    <para>c. (…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 25</para>
+      <para>Gegevensbescherming door ontwerp en door standaardinstellingen</para>
+    </parablock>
+    <para>1. Rekening houdend met de stand van de techniek, de uitvoeringskosten, en de aard, de omvang, de context en het doel van de verwerking alsook met de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van natuurlijke personen welke aan de verwerking zijn verbonden, treft de verwerkingsverantwoordelijke, zowel bij de bepaling van de verwerkingsmiddelen als bij de verwerking zelf, passende technische en organisatorische maatregelen, zoals pseudonimisering, die zijn opgesteld met als doel de gegevensbeschermingsbeginselen, zoals minimale gegevensverwerking, op een doeltreffende manier uit te voeren en de nodige waarborgen in de verwerking in te bouwen ter naleving van de voorschriften van deze verordening en ter bescherming van de rechten van de betrokkenen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 57</para>
+      <para>Taken</para>
+    </parablock>
+    <para>1. Onverminderd andere uit hoofde van deze verordening vastgestelde taken, verricht elke toezichthoudende autoriteit op haar grondgebied de volgende taken:</para>
+    <para>f) zij behandelt klachten van betrokkenen, of van organen, organisaties of verenigingen overeenkomstig artikel 80, onderzoekt de inhoud van de klacht in de mate waarin dat gepast is en stelt de klager binnen een redelijke termijn in kennis van de vooruitgang en het resultaat van het onderzoek, met name indien verder onderzoek of coördinatie met een andere toezichthoudende autoriteit noodzakelijk is; </para>
+    <para />
+    <parablock>
+      <para>Artikel 58</para>
+      <para>Bevoegdheden</para>
+    </parablock>
+    <para>1. Elk toezichthoudende autoriteit heeft alle volgende onderzoeksbevoegdheden om:</para>
+    <para>b) onderzoeken te verrichten in de vorm van gegevensbeschermingscontroles;</para>
+    <para />
+    <parablock>
+      <para>Artikel 77</para>
+      <para>Recht om klacht in te dienen bij een toezichthoudende autoriteit</para>
+    </parablock>
+    <para>1. Onverminderd andere mogelijkheden van administratief beroep of een voorziening in rechte, heeft iedere betrokkene het recht een klacht in te dienen bij een toezichthoudende autoriteit, met name in de lidstaat waar hij gewoonlijk verblijft, hij zijn werkplek heeft of waar de beweerde inbreuk is begaan, indien hij van mening is dat de verwerking van hem betreffende persoonsgegevens inbreuk maakt op deze verordening.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Uitvoeringswet Algemene verordening gegevensbescherming</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 6. Oprichting en aanwijzing als toezichthoudende autoriteit</para>
+    </parablock>
+    <para>1. Er is een Autoriteit persoonsgegevens. De Autoriteit persoonsgegevens bezit rechtspersoonlijkheid.</para>
+    <para>2. De Autoriteit persoonsgegevens is de toezichthoudende autoriteit, bedoeld in artikel 51, eerste lid, van de verordening.</para>
+    <para>3. Onverminderd artikel 57 van de verordening, heeft de Autoriteit persoonsgegevens tot taak toe te zien op de verwerking van persoonsgegevens overeenkomstig het bij en krachtens de verordening of de wet bepaalde.</para>
+    <para />
+    <parablock>
+      <para>Artikel 16. Last onder bestuursdwang</para>
+    </parablock>
+    <para>1. De Autoriteit persoonsgegevens kan een last onder bestuursdwang opleggen ter handhaving van de bij of krachtens de verordening of deze wet gestelde verplichtingen.</para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <footnote id="_4cf451e1-d03a-4b9f-a483-a11f40857266" label="1">
+    <para> ECLI:NL:RBGEL:2019:4014.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

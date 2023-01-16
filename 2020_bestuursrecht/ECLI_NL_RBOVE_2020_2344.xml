@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOVE:2020:2344</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-02T09:47:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel" scheme="overheid.RechterlijkeMacht">Rechtbank Overijssel</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ak_19_1794</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Zwolle</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:2344">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:2344</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-02T09:46:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOVE:2020:2344 Rechtbank Overijssel , 13-07-2020 / ak_19_1794</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOVE:2020:2344:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Omgevingsvergunning beperkte milieutoets voor het oprichten van een melkgeitenhouderij. De rechtbank is van oordeel dat verweerder in het bestreden besluit de aangevraagde activiteit had moeten toetsen aan artikel 2.1.7a van de Omgevingsverordening Overijssel 2017. Beroep gegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOVE:2020:2344:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK OVERIJSSEL</bridgehead>
+    <para>Zittingsplaats Zwolle</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/1794</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [maatschap 1] , [maatschap 2] en </bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [naam 1]
+        </emphasis>, gevestigd/wonende te [woonplaats] , eisers,</para>
+      <para>gemachtigde: mr. L. Zuurbier,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Zwartewaterland, verweerder.</bridgehead>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: <emphasis role="bold">[maatschap 3]</emphasis>, gevestigd te [woonplaats] , hierna te noemen: belanghebbende, </para>
+      <para>gemachtigde: drs. R.A.M. van Woerden.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 5 maart 2019 (het primaire besluit) heeft verweerder aan belanghebbende een omgevingsvergunning beperkte milieutoets (OBM) verleend voor het oprichten van een melkgeitenhouderij aan de [adres] in [woonplaats] .</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 21 augustus 2019 (het bestreden besluit) heeft verweerder het hiertegen door eisers gemaakte bezwaar ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen het bestreden besluit hebben eisers beroep ingesteld. </para>
+      <para>Verweerder heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 8 juni 2020 heeft de voorzieningenrechter van deze rechtbank het verzoek van eisers om het bestreden besluit te schorsen totdat uitspraak op het beroep is gedaan afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 1 juli 2020 is het beroep ter zitting behandeld. Namens eisers is verschenen [naam 1] , bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door </para>
+      <para>A.J. Boers en A.M. Zwiers. Namens belanghebbende zijn verschenen [naam 2] , [naam 3] en [naam 4] , bijgestaan door hun gemachtigde.  </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <para />
+    <para>1. Belanghebbende had een rundvee- en schapenhouderij, maar wil overschakelen naar een melkgeitenhouderij. Zij wil één van de bestaande stallen (stal A) inrichten voor het houden van 247 geiten ouder dan 1 jaar en 305 opfokgeiten. De andere bestaande stallen zullen niet meer worden gebruikt. Verder is op 27 mei 2015 aan belanghebbende een omgevingsvergunning verleend voor het bouwen van een vleeskalverenstal. Deze stal (stal B) wil zij inrichten voor het houden van 560 melkgeiten ouder dan 1 jaar.</para>
+    <para />
+    <para>2. Op 30 oktober 2018 heeft belanghebbende voor de activiteit die zij wil gaan verrichten een ‘Aanmeldingsnotitie mer-beoordeling’ (hierna: de aanmeldingsnotitie) bij verweerder ingediend. Op basis van deze notitie heeft verweerder bij besluit van 19 januari 2019 bepaald dat voor de voorgenomen omschakeling naar een geitenhouderij aan de [adres] in [woonplaats] geen milieueffectrapport (hierna: mer) hoeft te worden opgesteld.  </para>
+    <para />
+    <para>3. Op grond van artikel 2.2a, eerste lid, aanhef en onder d, van het Besluit omgevingsrecht (Bor) is voor de door belanghebbende gewenste activiteit een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onder i, van de Wet algemene bepalingen omgevingsrecht (Wabo) vereist. Op 4 februari 2019 heeft zij deze vergunning aangevraagd, die in het primaire besluit aan haar is verleend. </para>
+    <para />
+    <para>4. In het bestreden besluit heeft verweerder, met overneming van het advies van de commissie bezwaarschriften gemeente Zwartewaterland van 23 juli 2019, het primaire besluit ongewijzigd gehandhaafd. </para>
+    <para />
+    <para>5. De rechtbank stelt vast dat de gronden waarop de aangevraagde activiteiten zullen plaatsvinden volgens het bestemmingsplan “Buitengebied Zwartewaterland” (hierna: het bestemmingsplan) de bestemming ‘Agrarisch met waarden – Landschap’ hebben. Volgens artikel 4.1 van de regels van dit bestemmingsplan (hierna: de planregels), voor zover hier van belang, zijn gronden met deze bestemming bestemd voor de uitoefening van een agrarisch bedrijf met een in hoofdzaak grondgebonden agrarische bedrijfsvoering. </para>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 1.62 van de planregels wordt onder grondgebonden agrarische bedrijfsvoering verstaan een agrarische bedrijfsvoering die hoofdzakelijk niet in gebouwen plaatsvindt en waarbij het gebruik van agrarische gronden noodzakelijk is voor het functioneren van het bedrijf, waaronder in ieder geval melkrundvee, kalveren van melkvee tot 2 jaar, schapen, paarden en dieren die worden gehouden op biologische wijze (conform een regeling krachtens artikel 2 van de Landbouwkwaliteitswet) of in hoofdzaak ten behoeve van natuurbeheer.</para>
+    </parablock>
+    <para />
+    <para>6. Eisers hebben in beroep allereerst aangevoerd dat een geitenhouderij niet een grondgebonden agrarisch bedrijf is als bedoeld in het bestemmingsplan. Volgens hen moet een dergelijk bedrijf worden aangemerkt als een intensief veehouderijbedrijf, dat op grond van de geldende bestemming ter plaatse niet is toegestaan. Daarom had verweerder de bestreden vergunning niet mogen verlenen zonder ook een vergunning als bedoeld in artikel 2.1, eerste lid, onder c, van de Wabo te verlenen. Omdat sprake is van onlosmakelijke activiteiten in de zin van artikel 2.7, eerste lid, van de Wabo, had laatstgenoemde vergunning tegelijk met de OBM moeten worden aangevraagd. Nu dit niet is gebeurd, had de OBM niet mogen worden verleend, aldus eisers. In dit verband hebben zij tevens aangevoerd dat de omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onder c, van de Wabo niet meer kan worden verleend, omdat artikel 2.1.7a van de Omgevingsverordening Overijssel 2017 (hierna: de Omgevingsverordening) hieraan in de weg staat. </para>
+    <para />
+    <para>7. Verweerder heeft in het bestreden besluit geconcludeerd dat de aangevraagde geitenhouderij niet in strijd met de ter plaatse geldende bestemming is, omdat deze activiteit voldoet aan de ruimtelijke criteria voor een grondgebonden agrarisch bedrijf, zoals die zijn opgenomen in de toelichting bij het bestemmingsplan. </para>
+    <para />
+    <para>8. De rechtbank overweegt dat artikel 2.1, eerste lid, aanhef en onder c, van de Wabo, voor zover hier van belang, bepaalt dat het verboden is om zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan of met de regels gesteld krachtens artikel 4.1, derde lid, van de Wet ruimtelijke ordening (Wro).  </para>
+    <para />
+    <para>9. In de toelichting bij het bestemmingsplan is in hoofdstuk 4.3 vermeld dat in principe uitsluitend grondgebonden bedrijven worden toegestaan en dat omschakeling van grondgebonden naar niet-grondgebonden bedrijfsvoering niet is toegestaan. Verder is in de toelichting vermeld dat bedrijven die geiten houden niet op voorhand in één van beide categorieën te plaatsen zijn, maar per bedrijf moeten worden beoordeeld. Volgens de toelichting is een bedrijf meer grondgebonden naarmate het meer voldoet aan de volgende criteria:</para>
+    <para>- de mogelijkheid tot beweiding van vee: hoofdzakelijk op de huiskavel of nabijgelegen </para>
+    <para>en goed toegankelijke kavels van vergelijkbare aard. Het bedrijf moet de mogelijkheid tot beweiding ter plaatse hebben voor de dieren. Een indicatie van de weidegang is tussen minimaal 5 uur gedurende 100 dagen per jaar, of nog robuuster: 8 uur op 120 dagen per jaar. Daadwerkelijke beweiding kan niet worden afgedwongen (bij slecht weer in voor- en najaar staat ook “gewoon grondgebonden” melkvee meestal binnen). De mogelijkheid voor beweiding wordt daarom afgemeten aan een voldoende oppervlakte van de huiskavel. Deze huiskavel moet voldoende omvang hebben in verhouding tot het aantal dieren dat er loopt met een minimum van 0,125 Groot Vee Eenheden (GVE) per hectare.</para>
+    <para>- de mogelijkheid voor de afzet van mest van het eigen bedrijf hoofdzakelijk op eigen </para>
+    <para>grond ter plaatse en tot een evenredige verdeling naar landbouwkundige behoefte en/of milieu-wettelijke criteria over die gronden.</para>
+    <para>- het grotendeels voorzien in de voederbehoefte met producten van eigen grond ter </para>
+    <para>	plaatse.    </para>
+    <para />
+    <para>10. Bijlage 9 van de aanmeldingsnotitie bevat een berekening ter onderbouwing van de grondgebondenheid van de aangevraagde geitenhouderij. Op basis van deze berekening en de verklaringen van belanghebbende heeft verweerder geconcludeerd dat deze geitenhouderij een grondgebonden agrarische bedrijfsvoering in de zin van het bestemmingsplan heeft of zal krijgen. Ter zitting heeft belanghebbende haar (voorgestane) bedrijfsvoering nader toegelicht.</para>
+    <para />
+    <para>11. Uit de stukken en het verhandelde ter zitting blijkt onder meer dat belanghebbende voor haar bedrijfsvoering ongeveer 40 hectare grond nodig heeft, terwijl zij over ongeveer 59 hectare beschikt. Belanghebbende zal daarom 19 hectare van haar grond niet in eigen gebruik houden. De resterende grondpositie van belanghebbende is voldoende om het ruwvoer voor de geiten op te kunnen telen en de mestproductie op af te zetten. </para>
+    <para>Het krachtvoer zal worden aangevoerd. Verder heeft belanghebbende een huiskavel met een oppervlakte van 32 hectare en liggen de overige hectaren grond daar aansluitend omheen. Ook zullen de geiten worden beweid, wat nu ook al gebeurt.</para>
+    <para />
+    <para>12. Op basis van de stukken en het verhandelde ter zitting is de rechtbank van oordeel dat verweerder terecht heeft geconcludeerd dat de aangevraagde geitenhouderij een agrarisch bedrijf is met een in hoofdzaak grondgebonden agrarische bedrijfsvoering als bedoeld in het bestemmingsplan. Wat eisers inhoudelijk hiertegen hebben aangevoerd komt in hoofdzaak neer op de stelling dat geiten geen weidegang hebben. Deze enkele - en door belanghebbende weersproken - stelling is onvoldoende om te oordelen dat de aangevraagde geitenhouderij in strijd met de bestemming ‘Agrarisch met waarden – Landschap’ is. </para>
+    <parablock>
+      <para>Verder ziet de rechtbank niet in waarom verweerder bij de beoordeling of de geitenhouderij een agrarisch bedrijf met een in hoofdzaak grondgebonden agrarische bedrijfsvoering is, </para>
+      <para>de criteria uit de toelichting bij het bestemmingsplan niet mocht hanteren. Ook hierin volgt de rechtbank eisers dus niet.  </para>
+    </parablock>
+    <para />
+    <para>13. Uit het voorgaande volgt dat de rechtbank van oordeel is dat de geitenhouderij niet in strijd met het bestemmingsplan is. </para>
+    <para />
+    <para>14. De rechtbank stelt vast, en niet in geschil is, dat op 6 maart 2019 artikel 2.1.7a van de Omgevingsverordening in werking is getreden. Dit artikel bevat regels die krachtens </para>
+    <para>artikel 4.1, derde lid, van de Wro zijn gesteld en is bedoeld om een zogenoemde ‘geitenstop’ in te stellen. Ingevolge het tweede lid van artikel 2.1.7a van de Omgevingsverordening is het onder meer verboden om een geitenhouderij te vestigen of een veehouderij of veehouderijtak met andere landbouwhuisdieren geheel of gedeeltelijk te wijzigen in een geitenhouderij.</para>
+    <para />
+    <para>15. Verweerder heeft zich in het bestreden besluit onder meer op het standpunt gesteld dat het primaire besluit moet worden beoordeeld aan de hand van de situatie en van de wet- en regelgeving zoals die ten tijde van dat besluit was.    </para>
+    <para />
+    <para>16. Naar het oordeel van de rechtbank is dit standpunt van verweerder onjuist. In beginsel dient de heroverweging van een besluit waartegen bezwaar is gemaakt te geschieden met inachtneming van de wet- en regelgeving geldend op het moment van de heroverweging en alle feiten en omstandigheden zoals die zijn op dat tijdstip. De rechtbank ziet geen aanknopingspunten voor het oordeel dat in dit geval van deze hoofdregel moet worden afgeweken. Mede gelet op wat eisers in bezwaar hebben aangevoerd, betekent dit dat de rechtbank van oordeel is dat artikel 2.1.7a van de Omgevingsverordening ten tijde van het bestreden besluit op de door belanghebbende aangevraagde activiteit van toepassing was en dat verweerder deze activiteit aan dat artikel had moeten toetsen. Daarbij stelt de rechtbank vast dat de situatie van belanghebbende niet valt onder één van de uitzonderingssituaties die in artikel 2.1.7a, tweede lid, onder c en d, zijn opgenomen. Ten tijde van het bestreden besluit was daarom sprake van strijd met krachtens artikel 4.1, derde lid, van de Wro gestelde regels, zodat voor de activiteit waarvoor inmiddels een OBM was verleend, alsnog tevens een vergunning op grond van artikel 2.1, eerste lid, onder c, van de Wabo was vereist.  </para>
+    <para />
+    <para>17. De rechtbank stelt verder vast dat niet in geschil is dat het omzetten van de rundvee- en schapenhouderij naar een geitenhouderij en het in strijd met artikel 2.1.7a van de Omgevingsverordening gebruiken van gronden of bouwwerken voor de geitenhouderij onlosmakelijk met elkaar verbonden activiteiten zijn als bedoeld in artikel 2.7, eerste lid, van de Wabo. Partijen hebben dit ter zitting althans niet weersproken. </para>
+    <para>Omdat sprake is van onlosmakelijke activiteiten in de zin van de Wabo is de rechtbank van oordeel dat verweerder in het bestreden besluit de OBM niet in stand had mogen laten zonder dat ook tegelijkertijd een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, onder c, van de Wabo werd verleend. De rechtbank is van oordeel dat verweerder in het bestreden besluit het primaire besluit had moeten herroepen en belanghebbende de gelegenheid had moeten bieden om de aanvraag op zodanige wijze aan te vullen dat deze tevens betrekking had op het gebruiken van gronden of bouwwerken in strijd met artikel 2.1.7a van de Omgevingsverordening. Indien belanghebbende van die gelegenheid geen gebruik had gemaakt, had verweerder de aanvraag buiten behandeling moeten laten. Als belanghebbende wel van die gelegenheid gebruik had gemaakt, had op de aangevulde aanvraag moeten worden beslist. </para>
+    <para />
+    <para>18. Op grond van het voorgaande is de rechtbank van oordeel dat het beroep gegrond is. De rechtbank zal het bestreden besluit vernietigen en het primaire besluit herroepen. </para>
+    <para>Dit betekent dat verweerder opnieuw op de aanvraag van belanghebbende dient te beslissen, met inachtneming van het bepaalde in deze uitspraak.     </para>
+    <para />
+    <para>19. Ter zitting hebben partijen desgevraagd aangegeven ook over de laatste beroepsgrond van eisers een oordeel te willen. De rechtbank zal deze beroepsgrond daarom nu bespreken.</para>
+    <para />
+    <para>20. Ingevolge artikel 5.13b, eerste lid, van het Bor moet in dit geval de vergunning als bedoeld in artikel 2.1, eerste lid, onder i, van de Wabo (de OBM)  worden geweigerd indien verweerder op grond van artikel 7.17, eerste lid, van de Wet milieubeheer heeft beslist dat een milieueffectrapport (mer) moet worden gemaakt.  </para>
+    <para />
+    <para>21. Eisers zijn van mening dat verweerder had moeten concluderen dat in dit geval een mer moet worden gemaakt, omdat een geitenhouderij aanzienlijke gezondheidsrisico’s met zich kan brengen. Uit onderzoek is namelijk gebleken dat mensen die binnen een afstand van 2 km van een geitenhouderij wonen meer kans op een longontsteking hebben dan gemiddeld. Volgens eisers is onduidelijk hoe de nadelige effecten van de geitenhouderij op de volksgezondheid zullen worden beperkt. Daarbij hebben zij aangevoerd dat de provincie Overijssel juist om reden van de volksgezondheid en gelet op onderzoeken van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) een geitenstop heeft ingevoerd. Ter onderbouwing van deze beroepsgrond hebben eisers onder meer het rapport ‘Veehouderij en Gezondheid Omwonenden III, Longontsteking in de nabijheid van geiten- en pluimveehouderijen; actualisering van gegevens uit huisartsenpraktijken 2014-2016’ uit 2018 en het rapport ‘Veehouderij en Gezondheid Omwonenden III, Longontsteking in de nabijheid van geiten- en pluimveehouderijen in Gelderland, Overijssel en Utrecht’ uit november 2019 overgelegd. </para>
+    <para />
+    <para>22. De rechtbank constateert dat eisers de conclusie van verweerder, dat in dit geval geen mer hoeft te worden opgesteld, alleen bestrijden voor wat betreft de risico’s voor de menselijke gezondheid. </para>
+    <para />
+    <para>23. Bij de beantwoording van de vraag of het omzetten van de rundvee- en schapenhouderij in een geitenhouderij belangrijke nadelige gevolgen heeft voor het milieu, moet ook worden bekeken of het houden van geiten onaanvaardbare negatieve gezondheidsaspecten meebrengt. De rechtbank dient daarbij het bestreden besluit te beoordelen aan de hand van de situatie en de wet- en regelgeving zoals die ten tijde van het nemen van dat besluit was.  </para>
+    <para>Verder heeft verweerder hierbij beoordelingsruimte en dient de rechter het besluit van verweerder op dit punt terughoudend te toetsen. </para>
+    <para />
+    <para>24. De rechtbank is van oordeel dat verweerder zich in het bestreden besluit op het standpunt heeft kunnen stellen dat de risico’s van de aangevraagde geitenhouderij voor de volksgezondheid niet zodanig zijn dat er sprake is van belangrijke nadelige gevolgen voor het milieu. Hierbij stelt de rechtbank vast dat het door eisers overgelegde rapport uit november 2019 van ná het bestreden besluit is, zodat verweerder met dit rapport geen rekening kon en hoefde te houden. Daarnaast heeft verweerder naar het oordeel van de rechtbank kunnen besluiten dat het rapport uit 2018 geen reden vormt om te concluderen dat een mer moet worden opgesteld. In dit oordeel voelt de rechtbank zich gesteund door bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) van 7 augustus 2019, ECLI:NL:RVS:2019:2713, rechtsoverweging 4.2. In deze overweging oordeelde de Afdeling over het RIVM-rapport ‘Veehouderij en Gezondheid van Omwonenden’ uit 2016 dat dit geen algemeen aanvaarde wetenschappelijke inzichten bevat. Wat eisers ter onderbouwing van deze beroepsgrond voor het overige hebben aangevoerd, leidt niet tot een ander oordeel. </para>
+    <para />
+    <para>25. Omdat het beroep gegrond is, bestaat aanleiding voor een proceskostenveroordeling. Gebleken is dat de proceskosten van eisers uitsluitend bestaan uit kosten voor door een derde beroepsmatig verleende rechtsbijstand. Op grond van het Besluit proceskosten bestuursrecht stelt de rechtbank de vergoeding van deze kosten vast op € 2.100,- (1 punt voor het indienen van het bezwaar, 1 punt voor het indienen van het beroep, 1 punt voor het bijwonen van de hoorzitting van 9 juli 2019 en 1 punt voor het bijwonen van de rechtszitting van 1 juli 2020; waarde per punt € 525,-; wegingsfactor 1).</para>
+    <para>Ook moet verweerder het door eisers betaalde griffierecht aan hen vergoeden.   </para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>herroept het primaire besluit;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eisers tot een bedrag van € 2.100,-;</para>
+      </listitem>
+      <listitem>
+        <para>gelast verweerder het betaalde griffierecht van € 345,- aan eisers te vergoeden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.J.B. Cornelissen, voorzitter, en mr. R.J. van Lochem en mr. J.W.M. Bunt, leden, in aanwezigheid van mr. P.J.H. Bijleveld, griffier, op</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak wordt openbaar gemaakt op de eerstvolgende donderdag na deze datum.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								voorzitter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

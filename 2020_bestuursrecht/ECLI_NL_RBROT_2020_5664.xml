@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:5664</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-02T14:00:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 19/6113</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5664">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:5664</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-29T16:19:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:5664 Rechtbank Rotterdam , 02-07-2020 / ROT 19/6113</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:5664:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>ACM heeft KPN gelast om overtredingen van het Besluit Marktanalyse vaste en mobiele gespreksafgifte (Marktanalysebesluit FTA-MTA-5) te beëindigen en ongedaan te maken door binnen de dienst “Premium Transit Connect Service” (de dienst PTCS) voor het afwikkelen van het IP-verkeer naar mobiele bestemmingen van KPN met terugwerkende kracht vanaf 12 juli 2017 geen tarieven te rekenen die liggen boven het vastgestelde tariefplafond van 0,581 eurocent per minuut. Hoe KPN “achter de voordeur” de gespreksafgifte op haar mobiele netwerk heeft geregeld is niet relevant en mag in elk geval niet tot overschrijding van het tariefplafond leiden.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:5664:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/6113</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 2 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Koninklijke KPN N.V. en KPN B.V., te ‘s-Gravenhage, eiseressen,</bridgehead>
+    <para>gemachtigden: mr. T.D.O. van der Vijver, mr. A. Crespo van de Kooij en mr. M.S. Klijsen,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Autoriteit Consument en Markt (ACM), verweerster,</bridgehead>
+    <para>gemachtigden: mr. B.S. Jansen en mr. O. Schyns.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 15 februari 2019 (het primaire besluit) heeft de ACM KPN B.V. (KPN) gelast op verbeurte van een dwangsom van € 100.000 per dag met een maximum van € 1.000.000, binnen vier weken na dagtekening van dit besluit overtredingen van het Besluit Marktanalyse vaste en mobiele gespreksafgifte (Marktanalysebesluit FTA-MTA-5) te beëindigen en ongedaan te maken door binnen de dienst “Premium Transit Connect Service” (de dienst PTCS) voor het afwikkelen van het IP-verkeer naar mobiele bestemmingen van KPN met terugwerkende kracht vanaf 12 juli 2017 geen tarieven te rekenen die liggen boven het vastgestelde tariefplafond van 0,581 eurocent per minuut.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 oktober 2019 (het bestreden besluit) heeft de ACM het bezwaar van eiseressen gegrond verklaard voor zover het de hoogte van de dwangsom betreft, het primaire besluit in zoverre herroepen en de dwangsom vastgesteld op € 50.000 per dag met een maximum van € 500.000, eiseressen een vergoeding toegekend als bedoeld in artikel 7:15 van de Algemene wet bestuursrecht (Awb) en de bezwaren voor het overige ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseressen hebben tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De ACM heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben daarna gerepliceerd en gedupliceerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is ter zitting behandeld op 26 mei 2020. Namens eiseressen zijn verschenen: <?linebreak?>mrs. Crespo van de Kooij en Van der Vijver, bijgestaan door [Naam] , </para>
+      <para>A. Veldman en E. Wilpshaar. Namens de ACM zijn haar gemachtigden verschenen bijgestaan door drs. E.L. Klaassens.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Het Marktanalysebesluit FTA-MTA-5 is van kracht per 12 juli 2017. De dienst gespreksafgifte is noodzakelijk indien een beller op een netwerk van bijvoorbeeld aanbieder A iemand op een ander netwerk, bijvoorbeeld het netwerk van aanbieder B, wil bellen. Het gesprek kan dan niet door uitsluitend aanbieder A worden afgehandeld. Aanbieder A dient het gesprek te routeren naar een interconnectielocatie vanaf waar het gesprek verder wordt afgewikkeld door aanbieder B. Aanbieder B levert aanbieder A de afgiftedienst, die eruit bestaat dat aanbieder B het gesprek naar de bestemming brengt, zijnde een gebelde gebruiker of een bestemmingsnummer waarop een bepaalde dienst wordt geleverd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>De structuur van het netwerk van KPN is zodanig dat zij niet rechtstreeks voorziet in mobiele gespreksafgifte via IP-interconnectie. KPN biedt IP-interconnectie aan op haar vaste netwerk in combinatie met een doorgeleidingsdienst naar haar mobiele netwerk. <?linebreak?>Een van de diensten van KPN is de dienst PTCS. Onderdeel daarvan is dat een aanbieder gespreksverkeer dat is bestemd voor KPN’s mobiele en vaste netwerk en voor andere netwerken, aanlevert op de IP-interconnectie op het vaste netwerk van KPN, wat KPN het gemengd aanleveren van gespreksverkeer noemt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.	41</nr>
+      <para>kleinere telecomaanbieders maakten gebruik van de dienst PTCS. KPN bracht bij het aanbieden van de dienst PTCS tarieven tussen 0,61 en 3,048 eurocent per minuut in rekening, terwijl volgens de ACM op grond van het Marktanalysebesluit FTA-MTA-5 voor afgifte van gesprekken op het mobiele netwerk van KPN een tariefplafond van 0,581 eurocent per minuut geldt. Volgens de ACM is KPN vanaf 12 juli 2017 in overtreding door binnen de dienst PTCS voor afgifte van gesprekken op het mobiele netwerk van KPN hogere tarieven te vragen dan het tariefplafond. Partijen zijn in geschil over de vraag of dat deel van de dienst PTCS wordt gereguleerd door het Marktanalysebesluit FTA-MTA-5 en – indien dat zo is – of handhaving evenredig is nu KPN voor gespreksafgifte op haar mobiele netwerk ook een afzonderlijke dienst aanbiedt met inachtneming van het tariefplafond. Voorts in geschil of een last mag strekken tot het aanpassen van de tarieven met terugwerkende kracht. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wettelijk kader, Marktanalysebesluit, onderzoek en lastoplegging</emphasis>
+        </para>
+      </parablock>
+      <para>2. In de bijlage is het wettelijk kader en het relevante deel van het Marktanalysebesluit FTA-MTA-5 opgenomen.</para>
+      <para />
+      <para>3. Het College van Beroep voor het bedrijfsleven (het College) heeft op 11 september 2018 (ECLI:NL:CBB:2018:478) uitspraak gedaan over de rechtmatigheid van het Marktanalysebesluit FTA-MTA-5. Daarbij is het Marktanalysebesluit FTA-MTA-5 ten dele vernietigd, maar niet voor zover het ziet op de hier van belang zijnde toegangsverplichting en het tariefplafond.</para>
+      <para />
+      <para>4. Op 7 februari 2018 heeft de ACM schriftelijk vragen gesteld aan KPN, omdat zij aanwijzingen heeft dat KPN aanvullende vergoedingen rekent bovenop de maximaal toegestane afgiftetarieven. Vervolgens hebben partijen over en weer gecorrespondeerd. In dit verband heeft de ACM bij brief van 20 april 2018 ten aanzien van de dienst PTCS het volgende opgemerkt:</para>
+      <para />
+      <parablock>
+        <para>“KPN biedt de ‘KPN Premium Transit Connect Service’ aan waarbij verkeer voor vaste en mobiele gespreksafgifte gemengd wordt aangeboden op dezelfde IP-poort. Het verkeer dat bestemd is voor KPN mobiel is, naar de mening van KPN, een ongereguleerde dienst. Voor de dienst rekent KPN dan ook meer dan de vastgestelde tarieven voor een directe interconnectie voor mobiele gespreksafgifte. Dit betreft onder andere een transitvergoeding, IP/TDM conversiekosten en een afwijkend tarief voor de poortcapaciteit.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Uit het marktanalysebesluit FTA-MTA-5 blijkt dat zowel vaste als mobiele interconnectie op dezelfde interconnectielocatie plaats moet kunnen vinden en dat de gespreksafgifte start op de interconnectielocatie. In de situatie van KPN houdt dit in dat er geen sprake is van transit bij het verkeer voor KPN mobiel dat gemengd wordt aangeleverd op dezelfde IP-poort als verkeer voor KPN vast. KPN is dus verplicht de gereguleerde tarieven voor mobiele afgifte [te] rekenen en mag geen transitvergoeding en/of conversievergoedingen rekenen voor dit verkeer. Ook dient KPN de poorttarieven uit het marktanalysebesluit te hanteren voor de interconnectie van mobiele gespreksafgifte.”</para>
+      </parablock>
+      <para />
+      <para>5. Bij brief van 4 mei 2018 heeft KPN hierop gereageerd. Zij heeft daarbij onder meer aangevoerd dat het vaste netwerk en het mobiele netwerk van KPN zich ieder kenmerken als een Evident Kenbaar Afzonderlijk Netwerk (EKAN), dat de dienst PTCS waarbij gemengd verkeer eerst wordt gefilterd en vervolgens wordt doorgeleid naar KPN’s mobiele eindgebruikers ongereguleerd is en dat KPN reeds voldoet aan het Marktanalysebesluit FTA-MTA-5 met een afgiftedienst voor verkeer naar haar mobiele eindgebruikers tegen het gereguleerde afgiftetarief, waarbij de eis geldt dat de afnemer het afgifteverkeer bestemd voor KPN’s mobiele eindgebruikers ongemengd aanlevert.<?linebreak?></para>
+      <para>6. Nadat KPN desgevraagd de door haar afgesloten overeenkomsten en facturen aan de ACM heeft verstrekt, zijn partijen het niet eens geworden over de vraag of gespreksafgifte op het mobiele netwerk van KPN binnen de dienst PTCS al dan niet een gereguleerde dienst is. KPN heeft de ACM vervolgens gevraagd haar een last op te leggen zodat de toegang tot de rechter openstaat, wat de ACM heeft gedaan. KPN heeft tijdig aan de last voldaan en daarom geen dwangsommen verbeurd. Bij het bestreden besluit heeft de ACM de last gehandhaafd en de hoogte van de dwangsom verlaagd, omdat de omzet die is behaald met de dienst PTCS niet in verhouding stond met de hoogte van de oorspronkelijke dwangsom. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beoordeling</emphasis>
+        </para>
+      </parablock>
+      <para>7. Eiseressen hebben vijf beroepsgronden (A tot en met E) aangevoerd, die de rechtbank hieronder tezamen met de standpunten van de ACM zal bespreken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Eiseressen betogen dat het hanteren van een hoger tarief voor gespreksafgifte op haar mobiele netwerk binnen de dienst PTCS dan het tariefplafond van 0,581 eurocent per minuut geen overtreding van het Marktanalysebesluit FTA-MTA-5 oplevert, zodat de ACM niet bevoegd is tot handhaving. Eiseressen voeren in dit verband aan dat ook dit deel van de dienst PTCS – anders dan de afgiftedienst “PLMN Terminating Access Service” – niet wordt gereguleerd door het Marktanalysebesluit FTA-MTA-5. Een en ander hangt volgens eiseressen samen met de omstandigheid dat de ACM een verkeerde interpretatie van interconnectielocatie hanteert (beroepsgrond B) en miskent dat KPN’s mobiele netwerk en KPN’s vaste netwerk aparte EKAN’s vormen (beroepsgrond C). </para>
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>In dictumonderdeel VIII van het Marktanalysebesluit FTA-MTA-5 is onder meer bepaald dat voor aanbieders die zowel vaste als mobiele gespreksafgifte op basis van IP aanbieden, geldt dat op de locaties waar interconnectie via IP ten behoeve van vaste gespreksafgifte is gerealiseerd tevens interconnectie via IP ten behoeve van mobiele gespreksafgifte mogelijk moet zijn en vice versa. Volgens de ACM heeft het College in zijn uitspraak van 11 september 2018 het standpunt van de ACM gevolgd dat het aan KPN zelf is om te bepalen op welke wijze zij voldoet aan de toegangsverplichting die ertoe noopt dat zij mobiele gespreksafgifte via IP-interconnectie aanbiedt. Het College heeft in dit verband het volgende overwogen:</para>
+      <para />
+      <parablock>
+        <para>“5.2.1 Met beroepsgrond B wil KPN duidelijkheid verkrijgen over de vraag of voor haar dezelfde toegangsverplichting geldt als voor de andere aanbieders van gespreksafgifte. KPN betoogt voorts dat aan haar ten onrechte een toegangsverplichting is opgelegd om ook mobiele gespreksafgifte via IP-interconnectie te leveren. KPN stelt dat zij nu geen mobiele gespreksafgifte via IP aanbiedt, maar wel een volwaardig alternatief namelijk een IP-interconnectie met het vaste netwerk van KPN in combinatie met een doorgeleidingsdienst van het vaste naar het mobiele netwerk van KPN. Daarbij heeft KPN expliciet gesteld voor deze doorgeleidingsdienst geen extra kosten te rekenen. </para>
+      </parablock>
+      <para />
+      <paragroup>
+        <nr>5.2.2</nr>
+        <para>ACM heeft ter zitting verduidelijkt dat er geen sprake is van een asymmetrische toegangsverplichting. ACM heeft kostengeoriënteerde tariefplafonds opgelegd op basis van de pure BULRIC methodiek. In deze methodiek wordt geabstraheerd van de wijze waarop aanbieders concreet gespreksafgifte aanbieden. Als uitgangspunt voor de modellering is immers een hypothetisch efficiënte aanbieder genomen. ACM is uitgegaan van een hypothetisch efficiënte aanbieder die intern (al) volledig IP hanteert en interconnecteert via IP en TDM, omdat de verwachting is dat interconnectie op basis van IP deze reguleringsperiode de standaard interconnectietechniek zal worden. De kosten die zijn gemoeid met mobiele gespreksafgifte via IP-interconnectie zijn aldus verdisconteerd in het pure BULRIC model. Ter zitting heeft ACM eveneens verduidelijkt dat het KPN is toegestaan een IP-interconnectie met het vaste netwerk van KPN aan te bieden in combinatie met een doorgeleidingsdienst van haar vaste naar haar mobiele netwerk, indien en voor zover zij geen extra kosten waaronder doorgeleidingskosten in rekening brengt. Zou het KPN worden toegestaan om bovenop het kostengeoriënteerde tarief ook doorgeleidingskosten in rekening te brengen, dan zou dit namelijk neerkomen op omzeiling van de op pure BULRIC gebaseerde methodiek. Tevens heeft ACM ter zitting verduidelijkt dat KPN interconnectie via IP voor vaste en mobiele telefonie op één locatie, dat wil zeggen in één en hetzelfde gebouw, dient aan te bieden.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>5.2.3</nr>
+        <para>Het College volgt het verweer van ACM zoals verduidelijkt op de zitting. Het College heeft daarnaast op de zitting vastgesteld dat ACM en KPN het er over eens zijn dat het onder het bestreden besluit is toegestaan dat KPN haar huidige praktijk voortzet in de zin dat KPN een IP-interconnectie met het vaste netwerk van KPN in combinatie met een doorgeleidingsdienst van het vaste naar het mobiele netwerk van KPN in één en hetzelfde gebouw aanbiedt zonder daarvoor extra kosten, dat wil zeggen kosten bovenop het vastgestelde maximale tarief voor gespreksafgifte (waaronder doorgeleidingskosten), in rekening te brengen.</para>
+        <para />
+        <parablock>
+          <para>Beroepsgrond B van KPN faalt.”</para>
+        </parablock>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Uit deze uitspraak volgt dat het KPN onder het Marktanalysebesluit FTA-MTA-5 wordt toegestaan dat zij een IP-interconnectie met het vaste netwerk van KPN in combinatie met een doorgeleidingsdienst van het vaste naar het mobiele netwerk van KPN in één en hetzelfde gebouw aanbiedt zonder daarvoor extra kosten, dat wil zeggen kosten bovenop het vastgestelde maximale tarief voor gespreksafgifte (waaronder doorgeleidingskosten), in rekening te brengen. Dit betekent dat het standpunt van eiseressen, dat het vaste netwerk en het mobiele netwerk van KPN zich ieder voor zich kenmerken als een EKAN, in de door de rechtbank te beantwoorden vraag of gespreksafgifte op het mobiele netwerk van KPN binnen de dienst PTCS een dienst is die wordt gereguleerd door het Marktanalysebesluit FTA-MTA-5, geen relevantie heeft. Ook als het vaste netwerk en het mobiele netwerk van KPN zich ieder voor zich kenmerken als een EKAN, kan dit eiseressen namelijk niet baten in hun beroep, omdat KPN haar netwerk zo heeft ingericht dat gespreksafgifte op haar mobiele netwerk slechts kan plaatsvinden via het vaste netwerk van KPN. Zoals volgt uit het hiervoor opgenomen deel van de uitspraak van het College is dat KPN toegestaan omdat in het Marktanalysebesluit FTA-MTA-5 is geabstraheerd van de wijze waarop een aanbieder van gespreksafgifte die dienst precies heeft ingericht. Er is op basis van een hypothetisch efficiënte aanbieder een kostenplafond gesteld en voor maximaal dat tarief moeten aanbieders gespreksafgifte leveren. Zoals vermeld in het Marktanalysebesluit FTA-MTA-5 is gespreksafgifte “het afwikkelen van het gesprek vanaf de interconnectielocatie naar de gebelde”. Over hoeveel EKAN’s de gespreksafgifte concreet loopt is daarbij niet van belang. De aanbieder van het netwerk van de beller biedt, eenvoudig gezegd, bij de voordeur van KPN (de interconnectielocatie) gespreksdata aan ter afgifte op KPN’s vaste of mobiele netwerk of ter doorgeleiding naar het netwerk van een derde aanbieder. Hoe KPN “achter de voordeur” de gespreksafgifte op haar mobiele netwerk heeft geregeld is niet relevant en mag in elk geval niet tot overschrijding van het tariefplafond leiden. Het standpunt van KPN komt er in feite op neer dat zij binnen de dienst PTCS voor doorgeleiding van haar vaste naar haar mobiele netwerk een extra vergoeding mag rekenen, terwijl zij die doorgeleiding door de inrichting van haar netwerk zelf noodzakelijk heeft gemaakt. Tekenend in dit verband is dat eiseressen zich er ten aanzien van de afgiftedienst “PLMN Terminating Access Service’, waarbij vanwege de structuur van het netwerk van KPN eveneens sprake is van een doorgeleidingsdienst van het vaste naar het mobiele netwerk van KPN in één en hetzelfde gebouw, niet op beroepen dat het vaste netwerk en het mobiele netwerk van KPN zich ieder voor zich kenmerken als een EKAN en die dienst daarom niet zou vallen onder het tariefplafond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4.</nr>
+      <parablock>
+        <para>Uit het geciteerde deel van de uitspraak van het College volgt dat het KPN niet is toegestaan om bovenop het kostengeoriënteerde tarief ook doorgeleidingskosten in rekening te brengen, omdat dit zou neerkomen op omzeiling van de op pure BULRIC gebaseerde methodiek. Tevens dient KPN interconnectie via IP voor vaste en mobiele telefonie op één locatie, dat wil zeggen in één en hetzelfde gebouw, aan te bieden. </para>
+        <para>Gelet hierop geeft de ACM een juiste uitleg aan IP-interconnectie en moet gespreksafgifte op het mobiele netwerk van KPN binnen de dienst PTCS, net als de afgiftedienst “PLMN Terminating Access Service”, worden aangemerkt als afgiftedienst waarvoor het tariefplafond geldt. Dat de dienst PTCS erin voorziet dat verkeer voor vaste en mobiele gespreksafgifte en voor andere netwerken gemengd kan worden aangeboden op dezelfde <?linebreak?>IP-poort, betekent niet dat de afwikkeling van verkeer vanaf de interconnectielocatie naar het mobiele netwerk van KPN geen gereguleerde gespreksafgifte is. Eventuele kosten die KPN maakt om gespreksverkeer dat niet bestemd is voor haar mobiele netwerk af te scheiden, kan zij niet aan de afgiftedienst toerekenen voor zover dat leidt tot overschrijding van het tariefplafond. Overigens is niet in geschil dat gespreksdoorgifte van een telecomaanbieder naar een andere telecomaanbieder, waarbij de dienst PTCS fungeert als dienst voor gespreksdoorgifte, niet valt onder het tariefplafond.</para>
+      </parablock>
+      <para />
+      <para>9. Eiseressen betogen tevergeefs dat handhaving onevenredig is omdat KPN reeds voldoet aan het Marktanalysebesluit FTA-MTA-5, doordat zij de afgiftedienst “PLMN Terminating Access Service” aanbiedt (beroepsgrond A). Met de ACM is de rechtbank van oordeel dat de enkele omstandigheid dat KPN de afgiftedienst “PLMN Terminating Access Service” aanbiedt niet betekent dat KPN bij het aanbieden van andere afgiftediensten niet is gebonden aan het tariefplafond. Het Marktanalysebesluit FTA-MTA-5 is immers niet beperkt tot één aanbod; elke gespreksafgiftedienst die wordt geleverd dient te voldoen aan de verplichtingen uit het Marktanalysebesluit FTA-MTA-5. </para>
+      <para />
+      <para>10. Eiseressen betogen voorts tevergeefs dat de ACM met de lastoplegging KPN ten onrechte verplicht om de dienst PTCS naast “PLMN Terminating Access Service” te blijven leveren (beroepsgrond D). Gelet op dictumonderdeel IX in verbinding met randnummer 280 van het Marktanalysebesluit FTA-MTA-5 kan KPN niet zonder voorafgaande toestemming van de ACM een aanbod uit de markt halen en geldt daarvoor een overgangstermijn. In deze procedure ligt geen beslissing van de ACM op een dergelijk verzoek van eiseressen voor.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.1.</nr>
+      <para>Eiseressen betogen ten slotte dat de ACM niet bevoegd is om hen te gelasten met terugwerkende kracht de tarieven aan te passen, wat er op neerkomt dat zij de telecombedrijven die te veel hebben betaald het verschil dienen terug te betalen of te verrekenen (beroepsgrond E). Volgens eiseressen maakt de ACM met deze last een inbreuk op de civiele verhoudingen tussen hen en andere telecomdiensten, waarvoor het publiekrecht niet is bedoeld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2.</nr>
+      <para>Uit de artikelen 5:2, eerste lid, aanhef en onder b, in verbinding met artikel 5:31d, aanhef en onder a, van de Awb volgt dat de last onder dwangsom een herstelsanctie vormt, waarbij de last strekt tot geheel of gedeeltelijk herstel van de overtreding ofwel tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een overtreding. Indien de ACM, zoals in dit geval, heeft vastgesteld dat KPN vanaf 12 juli 2017 te hoge tarieven heeft gehanteerd voor gespreksafgifte, dan bieden de artikelen 5:2, eerste lid, aanhef en onder b, in verbinding met artikel 5:31d, aanhef en onder a, van de Awb de ACM in beginsel de bevoegdheid om te gelasten dat KPN met terugwerkende kracht haar tarieven aanpast.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.3.</nr>
+      <para>Evenwel is het de ACM naar vaste rechtspraak verboden om publiekrechtelijke handhavingsinstrumenten in te zetten die ertoe strekken dat zij treden in de bevoegdheid van de burgerlijke rechter of anderszins civielrechtelijke verbintenissen aantasten. Zo is het de ACM niet toegestaan KPN te gelasten dat zij telecomaanbieders die binnen de dienst PTCS gebruik hebben gemaakt van gespreksafgifte op het mobiele netwerk van KPN, binnen een bepaalde termijn een bedrag terugbetaalt of hun vordering verrekent (vergelijk de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 3 oktober 2018, ECLI:NL:RVS:2018:3221, de uitspraak van het College van 13 juli 2006, ECLI:NL:CBB:2006:AY3826 en de uitspraak van deze rechtbank van 28 januari 2016, ECLI:NL:RBROT:2016:569).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.4.</nr>
+      <para>Met de ACM is de rechtbank van oordeel dat de last niet verder strekt dan noodzakelijk is om de overtreding ongedaan te maken, terwijl de last niet strekt tot het aantasten van overeenkomsten tussen KPN en telecomaanbieders die gebruik hebben gemaakt van de dienst PTCS (vergelijk de uitspraak van het College van 7 april 2011, ECLI:NL:CBB:2011:BQ0538). De ACM wijst er in dit verband terecht op dat zij KPN niet heeft gelast om hetgeen te veel is betaald terug te storten of te verrekenen. Dat de last naar alle waarschijnlijkheid tot gevolg zal hebben dat de betreffende telecomaanbieders een claim bij KPN kunnen neerleggen en eventueel in rechte die vordering zullen kunnen effectueren, maakt dit niet anders. Onderhavige handhaving is immers gericht op naleving van een tariefplafond, zodat het in de rede ligt dat de last ertoe strekt dat de tarieven met terugwerkende kracht in overeenstemming worden gebracht met het Marktanalysebesluit FTA-MTA-5. Het betoog slaagt niet.</para>
+      <para />
+      <para>12. De beroepsgronden slagen niet. Het beroep is ongegrond. </para>
+      <para />
+      <para>13. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.C. Rop, voorzitter, en mr. E. Lunenberg en </para>
+      <para>mr. C.J. Wolswinkel, leden, in aanwezigheid van mr. R. Stijnen, griffier. De uitspraak is gedaan op 2 juli 2020 en openbaar gemaakt door middel van publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier en de voorzitter zijn verhinderd de uitspraak te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>De Algemene wet bestuursrecht luidt – voor zover hier van belang – als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 5:2 </para>
+      <para>1. In deze wet wordt verstaan onder:</para>
+      <para>(…)</para>
+      <para>b. herstelsanctie: een bestuurlijke sanctie die strekt tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een overtreding, tot het voorkomen van herhaling van een overtreding, dan wel tot het wegnemen of beperken van de gevolgen van een overtreding;</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:31d </para>
+      <para>Onder last onder dwangsom wordt verstaan: de herstelsanctie, inhoudende:</para>
+      <para>a. een last tot geheel of gedeeltelijk herstel van de overtreding, en</para>
+      <para>b. de verplichting tot betaling van een geldsom indien de last niet of niet tijdig wordt uitgevoerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:32 </para>
+      <para>1. Een bestuursorgaan dat bevoegd is een last onder bestuursdwang op te leggen, kan in plaats daarvan aan de overtreder een last onder dwangsom opleggen.</para>
+      <para>(…)”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Telecommunicatiewet (Tw) luidt – voor zover hier van belang – als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 15.1 </para>
+      <para>(…)</para>
+      <para>3. De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens andere bepalingen van deze wet dan bedoeld in het eerste en tweede lid en het bepaalde bij of krachtens de roamingverordening en de netneutraliteitsverordening. (…)</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 15.2</para>
+      <para>(…)</para>
+      <para>2. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen, gesteld bij of krachtens de in artikel 15.1, derde lid, bedoelde bepalingen. </para>
+      <para>(…)”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het Besluit Marktanalyse vaste en mobiele gespreksafgifte (MTA-FTA-5 besluit), dat zijn grondslag heeft in Hoofdstuk 6a. van de Tw, luidt – voor zover hier van belang – als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“3. De dienst gespreksafgifte wordt door aanbieders bij elkaar ingekocht, zodra een gebruiker van het ene netwerk een gebruiker op het ander netwerk wil bellen. Wanneer een eindgebruiker van vaste of mobiele telefonie die is aangesloten op het netwerk van aanbieder A, een andere eindgebruiker wil bellen die is aangesloten op het netwerk van een andere aanbieder B, dient het gesprek over zowel netwerk A als B te worden gerouteerd. Beide netwerken (A en B) moeten dan direct of indirect met elkaar zijn verbonden. Het routeren van het gesprek over het netwerk van aanbieder B naar de eindgebruiker die wordt gebeld, is de dienst gespreksafgifte. Die dienst wordt door aanbieder B aan aanbieder A geleverd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>4. Vaste en mobiele gespreksafgifte zijn dus diensten die aanbieders met een vast respectievelijk mobiel telefonienetwerk leveren om een inkomend gesprek te routeren naar een nummer dat via hun netwerk is aangesloten. De dienst wordt ingekocht door andere aanbieders van telefonie die zelf vaak ook gespreksafgifte leveren voor verkeer naar nummers aangesloten op hun netwerk. Het betreft dus diensten die wederzijds door aanbieders bij elkaar worden ingekocht. De tarieven die aanbieders elkaar over en weer in rekening brengen zijn thans door ACM vastgesteld in de marktanalyse vaste en mobiele gespreksafgifte van 8 augustus 2013 (hierna: het FTA-MTA-4-besluit).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>52. De dienst gespreksafgifte is noodzakelijk indien een gebruiker (hierna: beller) op een netwerk A van aanbieder A een andere gebruiker op een ander netwerk, netwerk B van aanbieder B, wil bellen. Het gesprek kan dan niet door uitsluitend aanbieder A worden afgehandeld. Aanbieder A dient het gesprek te routeren naar een interconnectielocatie vanaf waar het gesprek verder wordt afgewikkeld door aanbieder B. Aanbieder B levert aanbieder A de afgiftedienst, die er uit bestaat dat aanbieder B het gesprek naar de bestemming brengt, zijnde een gebelde gebruiker (hierna: gebelde) of een bestemmingsnummer waarop een bepaalde dienst wordt geleverd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>53. […] Gespreksafgifte is het afwikkelen van het gesprek vanaf de interconnectielocatie naar de gebelde. Aanbieder B levert de gespreksafgifte aan aanbieder A. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>255. Inmiddels wordt 70 procent van alle gespreksminuten vanaf vaste netten opgebouwd op basis van IP. Het overgrote deel van deze minuten is bestemd voor IP-aansluitingen. Circa 80 procent van de vaste telefonieaansluitingen betreft IP-aansluitingen. ACM verwacht daarom dat interconnectie op basis van IP deze reguleringsperiode de standaard interconnectietechniek zal worden. De respondenten verwachten dat deze omslag gedurende deze reguleringsperiode (2017-2019) zal plaatsvinden. Enkele respondenten hebben aangegeven te werken aan een volledige overstap naar IP-interconnectie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>280. Om de in hoofdstuk 6 geïdentificeerde potentiële mededingingsproblemen te voorkomen of op te lossen, verbindt ACM de voorschriften aan de toegangsverplichting. Aanbieders van gespreksafgifte dienen:</para>
+      <para>(…)</para>
+      <para>h. reeds verleende toegang niet in te trekken, tenzij de voortgezette verlening van toegang redelijkerwijs niet langer van de aanbieder van gespreksafgifte mag worden verlangd, in welk geval de aanbieder van de toegang het voornemen tot intrekking van de toegang aan ACM ter goedkeuring dient over te leggen, dat vervolgens door haar beoordeeld zal worden en uitsluitend kan worden gehonoreerd indien is voldaan aan in ieder geval:</para>
+      <para>i. een redelijke uitfaseringstermijn;</para>
+      <para>ii. de beschikbaarheid van gereguleerde redelijke alternatieven;</para>
+      <para>iii. een gelijke behandeling wat betreft de uitfasering van gerelateerde</para>
+      <para>door de aanbieder zelf gebruikte diensten binnen de toegang;</para>
+      <para>iv. heldere procedures voor de uitfasering; en</para>
+      <para>v. garantie van dienstverlening bij migratie;</para>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>283. Om vertragingen in de levering van toegang te voorkomen, waarbij inbegrepen</para>
+      <para>vertragingen in de continuïteit van de levering, legt ACM aan aanbieders van gespreksafgifte de verplichtingen en voorschriften genoemd onder randnummer 280 onderdelen f, g, h en i op. (…) Met de verplichting onder h, die is aangevuld met voorschriften, wordt de continuïteit van de levering van toegang gewaarborgd. Slechts in uitzonderlijke gevallen bestaat daar een mogelijkheid toe, maar niet eerder dan dat ACM daar een oordeel over heeft gevormd. (…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>8 Dictum</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>8.1.1</nr>
+      <para>Toegangsverplichting</para>
+      <para />
+      <parablock>
+        <para>VII. Op grond van artikel 6a.2, eerste lid, juncto artikel 6a.6, eerste lid, van de Tw legt ACM aan aanbieders van gespreksafgifte de verplichting op te voldoen aan redelijke verzoeken tot toegang. Deze verplichting houdt in dat aanbieders van gespreksafgifte:</para>
+        <para>a. toegang verlenen tot netwerkelementen of faciliteiten die noodzakelijk zijn voor het afnemen van gespreksafgifte;</para>
+        <para>b. co-locatie of andere vormen van gedeeld gebruik van bijbehorende faciliteiten</para>
+        <para>aanbieden;</para>
+        <para>c. voorzien in directe interconnectie (in de vorm van een directe fysieke koppeling, op verzoek van toegangsvragende partijen) opdat het netwerk van de toegangsverzoekende partij rechtstreeks gekoppeld kan worden aan het netwerk van de aanbieder van gespreksafgifte, hieronder wordt ook het uitvoeren van testen begrepen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>VIII. Aanbieders van gespreksafgifte mogen niet van afnemers van gespreksafgifte eisen dat zij op een groter aantal interconnectielocaties koppelen dan:</para>
+        <para>a. acht interconnectielocaties voor vaste gespreksafgifte op basis van TDM</para>
+        <para>b. twee interconnectielocaties voor vaste gespreksafgifte voor IP-interconnectie;</para>
+        <para>c. vier interconnectielocaties voor mobiele gespreksafgifte op basis van TDM; en</para>
+        <para>d. twee interconnectielocaties voor mobiele gespreksafgifte voor IP-interconnectie.</para>
+        <para>Voor aanbieders van vaste gespreksafgifte die interconnectie aanbieden via TDM en IP, geldt dat IP-interconnectie in ieder geval moet worden aangeboden op twee (van de maximaal acht) interconnectielocaties voor TDM. Voor aanbieders die zowel vaste als mobiele gespreksafgifte op basis van TDM aanbieden, geldt dat de maximaal vier locaties voor afgifte ten behoeve van mobiel overeenkomen met vier (van de maximaal acht) TDM-interconnectielocaties ten behoeve van vaste gespreksafgifte. Voor aanbieders die zowel vaste als mobiele gespreksafgifte op basis van IP aanbieden, geldt dat de locaties waar interconnectie via IP ten behoeve van vaste gespreksafgifte is gerealiseerd tevens interconnectie via IP ten behoeve van mobiele gespreksafgifte mogelijk moet zijn en vice versa. Voor aanbieders van mobiele gespreksafgifte die interconnectie aanbieden via zowel IP als TDM, geldt dat IP-interconnectie moet worden aangeboden op twee van de maximaal vier TDM-interconnectielocaties.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>IX. Op grond van artikel 6a.6, derde lid, van de Tw verbindt ACM aan de toegangsverplichting voorschriften. Hiervoor verwijst ACM naar randnummer 280. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Tariefregulering </para>
+      <para />
+      <parablock>
+        <para>X. Op grond van artikel 6a.2, eerste lid, juncto artikel 6a.7 van de Tw legt ACM aan alle aanbieders ten behoeve van het leveren van gespreksafgifte en bijbehorende faciliteiten, tariefregulering op.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>XI. Op grond van artikel 6a.7, eerste en tweede lid, van de Tw legt ACM aan alle aanbieders de verplichting op kostengeoriënteerde tarieven te hanteren. Dit betekent dat alle aanbieders voor gesprekken afkomstig uit de EER tarieven dienen te hanteren die niet boven de door ACM in Annex A op basis van pure BULRIC bepaalde tariefplafonds liggen. De tariefplafonds treden in werking op 1 juli 2017. De tarieven voor afgifte van verkeer van een aanbieder gevestigd buiten de EER mogen nooit hoger liggen dan de afgiftetarieven die de aanbieder van buiten de EER aan de in Nederland gevestigde aanbieder (direct of indirect) in rekening brengt (reciprociteit). Indien een aanbieder gevestigd buiten de EER lagere afgiftetarieven in rekening brengt dan de tarieven uit Annex A, gelden de tarieven uit Annex A als maximum.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Datum inwerkingtreding</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>XV. Dit besluit treedt in werking op 1 juli 2017.”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In Annex A zijn in tabel 13 maximumtarieven van 0,139 per minuut voor vaste gespreksafgifte (regionaal) en van 0,581 eurocent per minuut voor mobiele gespreksafgifte opgenomen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Bij het Besluit houdende de wijziging van de marktanalyse vaste en mobiele gespreksafgifte van 1 juni 2017, heeft de ACM het Besluit Marktanalyse vaste en mobiele gespreksafgifte (MTA-FTA-5 besluit) als volgt gewijzigd:</para>
+        <para>I. Dictumonderdeel XV wordt vervangen door: XV. Dit besluit treedt in werking op 1 juli 2017 met uitzondering van dictumonderdeel XI juncto Annex A, tabel 13, waarmee de tariefplafonds voor de diensten vaste en mobiele gespreksafgifte zijn vastgesteld. Deze tariefplafonds treden in werking op 12 juli 2017.</para>
+        <para>II. In de periode tussen 1 juli 2017 en 12 juli 2017 is het tariefplafond voor de dienst vaste gespreksafgifte 0,302 eurocent per minuut en is het tariefplafond voor de dienst mobiele gespreksafgifte 1,861 eurocent per minuut.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

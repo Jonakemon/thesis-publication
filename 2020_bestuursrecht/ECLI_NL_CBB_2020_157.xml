@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:157</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-10T12:50:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1508</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:157">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:157</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-06T08:13:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:157 College van Beroep voor het bedrijfsleven , 10-03-2020 / 18/1508</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:157:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>GLB, percelen</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:157:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/1508</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 10 maart 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">Maatschap [naam 1] , te [plaats] , appellante</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. R. van der Voort).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 februari 2018 (het primaire besluit) heeft verweerder op grond van de Uitvoeringsregeling rechtstreekse betalingen GLB (de Uitvoeringsregeling) beslist op de aanvraag van appellante om uitbetaling van de betalingsrechten (de basisbetaling) en de vergroeningsbetaling voor het jaar 2017. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 28 juni 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellante ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 10 december 2019. Appellante heeft zich laten vertegenwoordigen door [naam 2] en [naam 3] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Het College gaat uit van de volgende feiten en omstandigheden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Verweerder heeft op 4 mei 2017 de Gecombineerde opgave 2017 van appellante ontvangen. Met de Gecombineerde opgave heeft appellante om uitbetaling van de basis- en vergroeningsbetaling verzocht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Bij het primaire besluit heeft verweerder het bedrag dat appellante aan uitbetaling voor de basis- en vergroeningsbetaling ontvangt, vastgesteld. Verweerder heeft hierbij van de door appellante voor uitbetaling opgegeven oppervlakte van 71,92 hectare (ha) 69,10 ha in aanmerking genomen.</para>
+      <para />
+      <para>2. Bij het bestreden besluit heeft verweerder het bezwaar van appellante ongegrond verklaard. Desalniettemin heeft verweerder het primaire besluit herroepen en het bedrag dat appellante voor uitbetaling ontvangt verminderd, omdat volgens verweerder sprake was van een evidente onjuistheid. De percelen 23, 138 en 176 zijn naar de mening van verweerder ten onrechte aangemerkt als subsidiabel landbouwareaal. Voorts heeft verweerder zich op het standpunt gesteld dat (gedeeltes van) de percelen 20, 22, 33, 45, 48, 54, 55, 142, 143, 145, 153, 154, 156, 158, 159, 160, 161, 162, 166, 168, 169, 172, 186 en 188 terecht niet zijn aangemerkt als subsidiabele landbouwgrond.</para>
+      <para />
+      <para>3. In geschil is of verweerder de oppervlakte van de percelen 20, 22, 23, 33, 45, 48, 54, 55, 138, 142, 143, 145, 153, 154, 156, 158, 159, 160, 161, 162, 166, 168, 169, 172, 176, 186 en 188 juist heeft vastgesteld en of sprake is van het niet tijdig nemen van een beslissing op bezwaar.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Niet tijdig nemen van een beslissing op bezwaar</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>In beroep heeft appellante zich op het standpunt gesteld dat verweerder niet tijdig heeft beslist op haar bezwaar. Verweerder stelt zich op het standpunt dat appellante geen beroep niet tijdig beslissen op bezwaar heeft ingediend. Ook heeft appellante nagelaten verweerder in gebreke te stellen, aldus verweerder.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Uit de ontvangstbevestiging van het bezwaarschrift maakt het College op dat verweerder het bezwaar van appellante op 15 maart 2018 heeft ontvangen. Verweerder heeft op 28 juni 2018 beslist op het bezwaar van appellante. Het College stelt vast dat verweerder niet binnen de wettelijke beslistermijn op het bezwaar van appellante heeft beslist. Dit kan echter niet ertoe leiden dat het bestreden besluit onrechtmatig is. Ten aanzien van het niet tijdig beslissen op het bezwaar had appellante verweerder namelijk in gebreke kunnen stellen op grond van artikel 4:17 van de Algemene wet bestuursrecht (Awb) en vervolgens beroep kunnen instellen bij het College. Dit is niet gebeurd. De beroepsgrond van appellante slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De percelen algemeen</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <parablock>
+        <para>Voor de vaststelling van het bedrag aan basis- en vergroeningsbetaling is van belang dat het – kort gezegd – moet gaan om subsidiabele hectares. Onder 'subsidiabele hectare' wordt verstaan ieder landbouwareaal van het bedrijf dat wordt gebruikt voor een landbouwactiviteit of dat, indien het areaal ook voor niet-landbouwactiviteiten wordt gebruikt, overwegend voor landbouwactiviteiten wordt gebruikt (artikel 32, tweede lid, aanhef en onder a, van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van </para>
+        <para>17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid (Verordening 1307/2013)). Onder 'landbouwareaal' wordt – voor zover hier van belang – verstaan om het even welke grond die wordt gebruikt als blijvend grasland en blijvend weiland (artikel 4, eerste lid, aanhef en onder e, van Verordening 1307/2013). Onder blijvend grasland en blijvend weiland wordt – voor zover hier van belang – verstaan grond met een natuurlijke of ingezaaide vegetatie van grassen of andere kruidachtige voedergewassen die ten minste vijf jaar niet in de vruchtwisseling van het bedrijf is opgenomen; andere begraasbare soorten, zoals struiken en/of bomen, kunnen er deel van uitmaken, mits de grassen en andere kruidachtige voedergewassen overheersen (artikel 4, eerste lid, aanhef en onder h, van Verordening 1307/2013). Voor de toepassing van artikel 4, eerste lid, aanhef en onder h, van Verordening 1307/2013 worden grassen en andere kruidachtige voedergewassen als overheersend beschouwd als zij meer dan 50% van het subsidiabele areaal innemen op het niveau van het landbouwperceel (artikel 6 van Gedelegeerde Verordening (EU) nr. 639/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening 1307/2013). </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>De oppervlakte moet derhalve, om subsidiabel te zijn, landbouwareaal zijn, deel uitmaken van het bedrijf van de landbouwer en worden gebruikt voor landbouwdoeleinden of bij gelijktijdig ander gebruik overwegend worden gebruikt voor dergelijke doeleinden (vergelijk het arrest van het Hof van Justitie van de Europese Unie van 2 juli 2015, Demmer, C-684/13 (ECLI:EU:C:2015:439), punt 54).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Voorts worden arealen enkel als subsidiabel beschouwd indien zij gedurende het gehele kalenderjaar voldoen aan de definitie van subsidiabele hectare, tenzij sprake is van overmacht of uitzonderlijke omstandigheden (artikel 32, vierde lid, van Verordening 1307/2013).</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De door appellante overgelegde foto’s van de percelen</emphasis>
+        </para>
+        <para>6.	Appellante heeft ter ondersteuning van haar standpunten foto’s van de in het geding zijnde percelen overgelegd. Het College merkt op dat aan deze foto’s niet de waarde gehecht kan worden die appellante wenst, reeds omdat deze foto’s in 2019 zijn gemaakt, waardoor zij geen representatief beeld geven van hoe de percelen in het hier aan de orde zijnde jaar 2017 eruitzagen. Het College zal deze foto’s dan ook buiten beschouwing laten.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De percelen 20, 23, 166 en 176</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Verweerder heeft de percelen 20, 23, 166 en 176 geheel afgekeurd. Volgens verweerder zijn deze percelen verruigd en heeft appellante een berm ingetekend. Appellante voert aan dat bij perceel 20 sprake is van gras met veel riet, maar dat het perceel desalniettemin gemaaid wordt. Van verruiging is dan ook geen sprake. Ook zijn de percelen 23, 166 en 176 volgens appellante niet verruigd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Aan de hand van de door verweerder overgelegde en ter zitting getoonde luchtfoto’s (de luchtfoto’s) acht het College niet aannemelijk dat perceel 20 het gehele kalenderjaar als subsidiabel landbouwareaal kan worden aangemerkt. Uit de winterfoto’s valt, gelet op de kleur en structuur van het perceel, op te maken dat dit perceel in elk geval een gedeelte van het kalenderjaar verruigd is. Deze verruiging is niet beperkt tot slechts een gedeelte van het perceel, maar is zichtbaar op vrijwel het gehele perceel. Daarnaast valt uit de luchtfoto’s op te maken dat appellante een berm heeft ingetekend. Bermen tot een breedte van drie meter langs de weg worden echter aangemerkt als areaal dat overwegend voor niet-landbouwactiviteiten wordt gebruikt (artikel 2.10, tweede lid, aanhef en onder c, van de Uitvoeringsregeling). Gelet op het voorgaande heeft verweerder perceel 20 terecht geheel afgekeurd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>Ten aanzien van de percelen 23, 166 en 176 gaat het College ervan uit dat deze percelen in vergaande mate verruigd zijn, gelet op de uit de luchtfoto’s blijkende afwijkende kleur (bruinachtig) en structuur (veel reliëf) van deze percelen. Ook is op basis van de luchtfoto’s, waarop te zien is dat appellante de perceelgrens vrijwel aansluitend aan de weg heeft gelegd, aannemelijk dat appellante bij ieder van deze percelen een berm heeft ingetekend, en dat zij daarbij vorengenoemde grens van drie meter niet in acht heeft genomen. Verweerder heeft de percelen 23, 166 en 176 dan ook terecht geheel afgekeurd omdat zij niet als landbouwareaal kunnen worden aangemerkt dan wel overwegend voor niet-landbouwactiviteiten worden gebruikt.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De percelen 33 en 188</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Verweerder heeft de percelen 33 en 188 geheel afgekeurd. Verweerder stelt zich op het standpunt dat zich op deze percelen een bomenrij bevindt. Ter zitting heeft verweerder voorts betoogd dat appellante bij deze percelen tevens verruiging, een berm en een talud heeft ingetekend. Appellante betwist dit en stelt specifiek wat betreft de bomenrijen dat deze niet binnen de ingetekende perceelgrenzen staan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Uit de door verweerder gehanteerde 'Handleiding percelen, landbouwgrond of niet volgens het GLB' (de Handleiding) volgt dat bomenrijen die grenzen aan een perceel of op de buitengrens van een perceel staan, niet meetellen bij de oppervlakte landbouwgrond. Bij het tekenen van de perceelgrens dient een aanvrager 0,5 meter vanaf het midden van de boomstam aan te houden, waardoor de bomenrij een meter breed wordt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>Op grond van de luchtfoto’s, en de schaduw van de bomen in aanmerking nemend, gaat het College ervan uit dat appellante bij perceel 33 een bomenrij heeft ingetekend. Voorts heeft appellante de grens van het perceel dusdanig dicht op de weg gelegd, dat aannemelijk is dat zij de onder 7.2 bedoelde marge van drie meter voor bermen niet in acht heeft genomen. Gelet op het voorgaande heeft verweerder perceel 33 terecht afgekeurd omdat dit perceel niet als landbouwareaal kan worden aangemerkt dan wel overwegend voor niet-landbouwactiviteiten wordt gebruikt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <para>Het College is van oordeel dat verweerder met de (overwegend donkergekleurde en daardoor niet duidelijke) luchtfoto’s niet aannemelijk heeft gemaakt dat appellante bij perceel 188 eveneens een bomenrij dan wel een berm, verruiging of talud heeft ingetekend. In zoverre is het bestreden besluit niet deugdelijk gemotiveerd en komt het wegens strijd met artikel 7:12 van de Awb voor vernietiging in aanmerking. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Perceel 22</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <para>Verweerder heeft de subsidiabele oppervlakte van perceel 22 (in de Gecombineerde opgave 2017 opgenomen als grasland) kleiner vastgesteld dan door appellante is opgegeven omdat volgens verweerder bij perceel 22, aan de noordkant van het perceel, sprake is van een bomenrij. Appellante is van mening dat deze bomenrij, die volgens appellante 60 meter lang is, geen belemmering is voor de begrazing omdat de bomenrij niet aaneengesloten is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>In aanvulling op hetgeen onder 8.2 is overwogen, volgt uit de Handleiding tevens dat in geval van grasland de oppervlakte van een bomenrij van 50 meter of langer wel meetelt indien de bomenrij zich binnen een landbouwperceel bevindt en de onderlinge afstand van de bomen landbouwactiviteiten niet in de weg staat. Bomen moeten dusdanig ver uit elkaar staan, dat bijvoorbeeld dieren er tussendoor kunnen lopen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3</nr>
+      <para>Uit de luchtfoto’s blijkt naar het oordeel van het College onvoldoende dat de dieren van appellante niet tussen de bomen kunnen doorlopen. Op de luchtfoto’s lijken de bomen dusdanig ver uit elkaar te staan dat er tussen de bomen nog kan worden gegraasd. Verweerder heeft dan ook de afkeuring van perceel 22 in het bestreden besluit niet deugdelijk gemotiveerd. Het bestreden besluit komt in zoverre wegens strijd met artikel 7:12 van de Awb in aanmerking voor vernietiging.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De percelen 54, 143, 145 en 186</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Verweerder heeft de percelen 54, 143, 145 en 186 geheel afgekeurd. Verweerder stelt zich met betrekking tot deze percelen op het standpunt dat appellante hier bomen heeft ingetekend. Een perceel met bomen kan volgens verweerder als subsidiabel areaal worden gezien als er op vergelijkbare wijze landbouwactiviteiten kunnen worden verricht als op een ander perceel zonder bomen gelegen in hetzelfde gebied en er niet meer bomen staan dan 50 per hectare. Verweerder maakt uit de luchtfoto’s op dat de percelen voor een groot gedeelte uit (dicht begroeide) bosgrond bestaan en dat de met bomen begroeide delen niet geschikt zijn voor landbouwdoeleinden. Nu er in het geval van appellante naar rato ook meer dan 50 bomen per hectare staan, kunnen de percelen volgens verweerder niet worden aangemerkt als landbouwgrond. Voorts betreffen de uitgemeten randen van de percelen bermen die grenzen aan de openbare weg. Appellante betwist dit en stelt dat de bomen buiten de perceelgrenzen staan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2</nr>
+      <para>Uit artikel 9, derde lid, aanhef en onder b, van Gedelegeerde Verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 volgt dat een perceel met geïsoleerde bomen wordt aangemerkt als subsidiabel areaal als er landbouwactiviteiten kunnen worden verricht op een wijze die vergelijkbaar is met de landbouwactiviteiten op in hetzelfde gebied gelegen percelen zonder bomen, en het aantal bomen per hectare niet uitkomt boven een bepaalde maximumdichtheid. De maximumdichtheid wordt door de lidstaten gedefinieerd en gemeld op basis van traditionele teeltpraktijken, natuurlijke omstandigheden en milieuredenen. De maximumdichtheid mag niet meer bedragen dan 100 bomen per hectare. In artikel 2.2, vijfde lid, van de Uitvoeringsregeling is bepaald dat de maximumdichtheid 50 bomen per hectare is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.3</nr>
+      <para>Op de luchtfoto’s is te zien dat op de percelen 54, 143, 145 en 186 veel bomen staan. Het College acht aannemelijk dat appellante deze bomen heeft ingetekend. Omdat de percelen smal zijn, is voor deze percelen gelet op de hoeveelheid bomen naar het oordeel van het College niet aannemelijk geworden dat daarop landbouwactiviteiten kunnen worden verricht op een wijze die vergelijkbaar is met de landbouwactiviteiten op in hetzelfde gebied gelegen percelen zonder bomen. Daarnaast bevinden zich op de ingetekende percelen naar rato meer dan 50 bomen per hectare. Verweerder heeft de percelen dan ook terecht geheel afgekeurd omdat deze niet kunnen worden aangemerkt als landbouwareaal.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De percelen 45 en 55</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>11.1</nr>
+      <para>Verweerder heeft de percelen 45 en 55 geheel afgekeurd omdat ook bij deze percelen geldt dat zij gezien het aantal bomen niet geschikt zijn voor landbouwactiviteiten. In verhouding staan er bovendien meer dan 50 bomen per hectare op de percelen. Tevens is bij deze percelen volgens verweerder sprake van verruiging. Wat betreft perceel 45 heeft verweerder ter zitting ook nog gesteld dat appellante een berm en sloot heeft ingetekend. Appellante voert aan dat de bomen buiten het perceel staan en dat geen sprake is van verruiging. Ook stelt zij dat ze geen berm of sloot heeft ingetekend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2</nr>
+      <para>Op de luchtfoto’s van perceel 45 is door de schaal dan wel donkerte van de foto’s niet voldoende duidelijk te zien of appellante de bomen (naar rato meer dan 50 per hectare) daadwerkelijk heeft ingetekend. Uit de luchtfoto’s kan voorts niet worden opgemaakt dat appellante een berm dan wel een sloot heeft ingetekend. In zoverre is het bestreden besluit niet deugdelijk gemotiveerd en komt het wegens strijd met artikel 7:12 van de Awb voor vernietiging in aanmerking.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.3</nr>
+      <para>Ten aanzien van perceel 55 is het College van oordeel dat voldoende aannemelijk is dat op het perceel bomen staan die appellante heeft ingetekend. Gelet op de kleur en de structuur op de luchtfoto’s van het overige deel van het perceel, gaat het College ervan uit dat op het perceel sprake is van verruiging. Verweerder heeft dit perceel dan ook terecht geheel afgekeurd omdat dit niet kan worden aangemerkt als landbouwareaal.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Perceel 142</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>12.1</nr>
+      <para>Verweerder heeft een gedeelte van perceel 142 afgekeurd op de grond dat appellante een berm heeft ingetekend. Appellante voert aan dat het afgekeurde gedeelte van het perceel niet als berm wordt gebruikt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2</nr>
+      <para>Uit de luchtfoto’s valt op te maken dat appellante de perceelgrens direct naast de aangrenzende weg heeft gelegd. Zoals is overwogen onder 7.2 zijn bermen tot een breedte van drie meter van de weg op grond van artikel 2.10, tweede lid, aanhef en onder c, van de Uitvoeringsregeling uitgesloten als subsidiabele landbouwgrond. De stelling van appellante dat het afgekeurde gedeelte van het perceel niet als berm wordt gebruikt, doet daaraan niet af nu geen concrete beoordeling behoeft plaats te vinden of de bermen die hier in geschil zijn wel overwegend voor landbouwactiviteiten worden gebruikt. Het College verwijst naar zijn uitspraak van 12 maart 2018 (ECLI:NL:CBB:2018:65) onder 5.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De percelen 48, 138, 153, 154, 156, 158, 159, 160, 161, 162, 168, 169 en 172</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>13.1</nr>
+      <para>Verweerder heeft de percelen 48, 138, 153, 154, 156, 158, 159, 160, 161, 162, 168, 169 en 172 volledig afgekeurd, omdat deze percelen volgens verweerder verruigd zijn zodat het niet om subsidiabele landbouwgrond gaat. Appellante stelt dat deze percelen net zijn gemaaid, waardoor de kleur en structuur van de percelen er anders uitzien dan normaal.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.2</nr>
+      <para>Gelet op de kleur (grijs en bruinachtig) en structuur die zichtbaar zijn op de luchtfoto’s van vorengenoemde percelen gaat het College ervan uit dat op deze percelen sprake is van verruiging. Het College acht op basis van de luchtfoto’s niet aannemelijk (zoals appellante betoogt) dat de op de luchtfoto’s zichtbare kleur en structuur zijn ontstaan door het maaien van het gras. Verweerder heeft de onderhavige percelen terecht afgekeurd omdat zij niet kunnen worden aangemerkt als landbouwareaal.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Slotsom</emphasis>
+        </para>
+      </parablock>
+      <para>14. Het voorgaande leidt tot de conclusie dat het beroep van appellante gegrond is voor zover het betrekking heeft op de percelen 22, 45 en 188. Het College zal het bestreden besluit vernietigen. Het College beschikt niet over de gegevens die nodig zijn voor de finale beslechting van het geschil. Het College zal verweerder daarom opdragen een nieuw besluit te nemen op het bezwaar van appellante met inachtneming van deze uitspraak. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Proceskosten</emphasis>
+        </para>
+      </parablock>
+      <para>15. Van voor vergoeding in aanmerking komende proceskosten is niet gebleken. </para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 338,- aan appellante te vergoeden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.L. van der Beek, in aanwezigheid van mr. C.H.R. Mattheussens, griffier. De beslissing is in het openbaar uitgesproken op 10 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. H.L. van der Beek	w.g. C.H.R. Mattheussens</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

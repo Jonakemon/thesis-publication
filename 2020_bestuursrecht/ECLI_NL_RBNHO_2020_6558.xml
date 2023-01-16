@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:6558</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-31T18:00:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 4144</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6558">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6558</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-30T10:51:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:6558 Rechtbank Noord-Holland , 20-07-2020 / AWB - 19 _ 4144</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:6558:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>last onder dwangsom, uitleg begrip trekkershut bestemmingsplan.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:6558:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19 / 4144</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 20 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] B.V., te [vestigingsplaats] , eiseres </bridgehead>
+    <para>(gemachtigde: mr. L.R. de Groot),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Waterland</emphasis>, verweerder </para>
+      <para>(gemachtigden: U. Pinas en D. de Koning).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 juli 2019, verzonden op 25 juli 2019, (het bestreden besluit) heeft verweerder eiseres gelast om binnen vier weken na de verzenddatum de overtreding van  artikel 2.1, eerste lid, aanhef en onder a en c, en artikel 2.3 a, eerste lid, van de Wet algemene bepalingen omgevingsrecht (Wabo) op het adres [adres] in [vestigingsplaats] te beëindigen en beëindigd te houden, op straffe van verbeurte van een dwangsom van € 60.000,-. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit bezwaar gemaakt, en verweerder op grond van artikel 7:1a van de Algemene wet bestuursrecht (Awb) verzocht in te stemmen met een rechtstreeks beroep bij de rechtbank. Verweerder heeft hiermee ingestemd. De rechtbank heeft partijen vervolgens laten weten het bezwaarschrift als een beroepschrift te behandelen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 26 mei 2020. Eiseres is verschenen in de persoon van [naam 1] , bijgestaan door de gemachtigde en vergezeld door de heer [naam 2] van [naam 3] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Eiseres exploiteert een camping en jachthaven aan de [adres] in [vestigingsplaats] (het perceel). Op het perceel is het bestemmingsplan Camping-Jachthaven [vestigingsplaats] uit 2010 van toepassing. Het deel van het perceel waar het hier om gaat heeft de bestemming ‘Recreatie - 4’.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Verweerder heeft aan het bestreden besluit ten grondslag gelegd dat op 21 februari en op 14 mei 2019 is geconstateerd dat op het perceel een chalet is gebouwd met een oppervlakte van naar schatting 40 m2, exclusief luifel. De constructie bestaat uit een houtenframe met aan de onderzijde twee wielen, dat steun vindt met betontegels en menggranulaat als onderlegger. Het chalet is voorzien van twee bedden, een keuken, sanitair, wordt aangesloten op het riool, en is aan weerszijde van ramen voorzien. Het chalet is daarmee een luxe recreatieverblijf voor langdurig verblijf. Op grond van artikel 6.1 en 6.2 van het bestemmingsplan is dit niet toegestaan op de voor ‘Recreatie – 4’ aangewezen gronden. Er is sprake van overtreding van artikel 2.1, eerste lid, aanhef en onder a en c, van de Wabo en artikel 2.3 a, eerste lid, van de Wabo.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Verweerder heeft tijdens de zitting bevestigd dat de begunstigingstermijn 4 weken na de datum van deze uitspraak bedraagt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Verweerder heeft tijdens de zitting bovendien de gestelde overtreding van artikel 2.1, eerste lid, onder a, en artikel 2.3 a, eerste lid, van de Wabo als grondslag van het bestreden besluit laten vervallen. De rechtbank zal zich in het hierna volgende dan ook beperken tot hetgeen partijen hebben aangevoerd ten aanzien van de gestelde overtreding van artikel 2.1, eerste lid, onder c, van de Wabo.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Eiseres voert aan dat geen sprake is van overtreding van artikel 2.1, eerste lid, onder c, van de Wabo. Het is op grond van artikel 6.1 van het bestemmingsplan toegestaan om trekkershutten te plaatsen op gronden met de bestemming ‘Recreatie-4’. Het bouwwerk voldoet aan de definitie van een trekkershut in artikel 1.45 van het bestemmingsplan. Uit deze definitie volgt niet dat het niet is toegestaan dat het bouwwerk is uitgerust met alle voorzieningen. De oude trekkershutten waren dat ook. Het bestemmingsplan heeft niet beoogd dat te wijzigen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Verweerder stelt zich op het standpunt dat het bouwwerk een recreatiewoning (chalet) is en geen trekkershut. Een recreatiewoning is een woning bestemd voor recreatieve bewoning. Kenmerkend daarvoor is dat het beschikt over een verblijfsruimte voor slapen, een keuken, sanitair en dat het aangesloten is op het riool. Het bouwwerk voldoet aan deze kenmerken. De stelling dat de oude trekkershutten uitgerust waren met alle voorzieningen maakt dat niet anders. De vorige eigenaar heeft in 2012 (onnodig) een vergunning aangevraagd voor acht trekkershutten zonder voorzieningen. Dat moeten de trekkershutten zijn die eiseres bedoelt. Dat deze bouwwerken nu uitgerust zijn met alle voorzieningen is in strijd met het bestemmingsplan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Uit de jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) volgt dat de op de plankaart vermelde bestemming en de daarbij behorende voorschriften beslissend zijn voor het antwoord op de vraag of sprake is van strijd met het bestemmingsplan. De planregels dienen omwille van de rechtszekerheid letterlijk te worden uitgelegd. De toelichting heeft in dit verband in zoverre betekenis dat deze over de bedoeling van de planwetgever meer inzicht kan geven wanneer de bestemming en de bijbehorende voorschriften waaraan moet worden getoetst op zichzelf, noch in samenhang duidelijk zijn. Bij gebrek aan aanknopingspunten in het bestemmingsplan en de toelichting voor de wijze waarop een begrip uitgelegd moet worden, kan aansluiting gezocht worden bij het algemeen spraakgebruik.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Gronden met de bestemming ´Recreatie – 4´ zijn onder andere bestemd voor trekkershutten (artikel 6.1 van het bestemmingsplan). De definitie van een trekkershut in artikel 1.45 van het bestemmingsplan luidt: ‘<emphasis role="italic">een gebouw ten behoeve van kortdurend recreatief nachtverblijf, niet zijnde een recreatiewoning</emphasis>’. In het bestemmingsplan is geen definitie opgenomen van een recreatiewoning. Uit de tekst van artikel 1.45 van het bestemmingsplan blijkt dat een trekkershut specifiek voor kortdurend nachtverblijf is bedoeld en dat een trekkershut iets anders is dan een recreatiewoning. Uit deze tekst blijkt niet wat (b.v. qua voorzieningen) het verschil is tussen een trekkershut en een recreatiewoning. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Tijdens de zitting is gebleken dat partijen het eens zijn over het feit dat het bestemmingsplan ten aanzien van de trekkershutten een conserverend karakter heeft. De toelichting bij het bestemmingsplan onderstreept dit ook. Het is dan ook de vraag wat de situatie ten aanzien van de trekkershutten in 2010 ten tijde van het vaststellen van het bestemmingsplan was. Partijen verschillen daarover van mening. Eiseres stelt zich op het standpunt dat trekkershutten uitgerust waren met sanitaire voorzieningen. Verweerder stelt zich op het standpunt dat dat niet het geval was.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6</nr>
+      <para>De rechtbank is vanwege de volgende redenen van oordeel dat het niet aannemelijk is dat de trekkershutten toentertijd uitgerust waren met sanitaire voorzieningen. In de beschrijving van de toenmalige situatie op de camping op pagina 8 van de toelichting bij het bestemmingsplan staat dat er een aantal trekkershutten stond, er vaste staanplaatsen voor stacaravans waren, en dat er verspreid over het terrein enkele sanitairgebouwen stonden. Uitsluitend ten aanzien van de vaste staanplaatsen (en dus niet ten aanzien van de trekkershutten) is vermeld dat deze eigen sanitaire voorzieningen hebben. Daarbij komt dat de vorige eigenaar in 2012 een vergunning heeft aangevraagd voor trekkershutten, die niet waren uitgerust met sanitaire voorzieningen. Daarbij komt verder dat in artikel 6.1 van het bestemmingsplan ten aanzien van het gebruik van de gronden met de bestemming ‘Recreatie- 4’ collectieve sanitaire voorzieningen vermeld worden, terwijl dat niet het geval is in de bepalingen ten aanzien van de gronden waar de recreatiewoningen mogen staan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7</nr>
+      <para>Dit betekent dat (gezien het conserverende karakter van het bestemmingsplan) voor de beantwoording van de vraag of het bouwwerk in dit geval al dan niet een trekkershut is, bepalend is of het bouwwerk uitgerust is met sanitaire voorzieningen. Dat is het geval. Het bouwwerk is dan ook geen trekkershut. Er is door het bouwwerk te plaatsen sprake van een met artikel 6.1 van het bestemmingsplan strijdig gebruik van de gronden met de bestemming ‘Recreatie-4’. De beroepsgrond slaagt niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Eiseres voert subsidiair aan dat geen sprake is van overtreding van artikel 2.1, eerste lid, onder c, van de Wabo omdat voor het bouwwerk op grond van artikel 3, tweede lid, van Bijlage II bij het Besluit omgevingsrecht (Bor) geen omgevingsvergunning is vereist.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>De rechtbank is met verweerder van oordeel dat artikel 3, tweede lid, van Bijlage II bij het Bor niet van toepassing is. De categorieën van gevallen waarin voor gebruiksactiviteiten in strijd met het bestemmingsplan geen vergunning vereist is, staan in artikel 2 van Bijlage II bij het Bor. Het bouwwerk valt niet onder een van de daar genoemde categorieën. De beroepsgrond slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>4. Gelet op het voorgaande is voor het bouwwerk een vergunning vereist op grond van artikel 2.1, eerste lid, onder c, van de Wabo. Vaststaat dat aan eiseres een dergelijke vergunning niet is verleend. Dit betekent dat sprake is van een overtreding. Verweerder is dus bevoegd om handhavend op te treden. Het is dan nog de vraag of er bijzondere omstandigheden aanwezig zijn op basis waarvan verweerder daarvan had moeten afzien. Niet gesteld of gebleken is dat sprake is van concreet zicht op legalisatie of van bijzondere omstandigheden op grond waarvan handhavend optreden in dit geval zodanig onevenredig is in verhouding tot de daarmee te dienen belangen, dat verweerder daarvan had moeten afzien. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Eiseres voert ten slotte aan dat de opgelegde dwangsom onredelijk hoog is. Verweerder heeft zonder nadere motivatie de dwangsom uit het voorgenomen besluit van € 2.000,- per week, met een maximum van € 20.000,-, verhoogd naar een bedrag ineens van € 60.000,-.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Verweerder stelt zich op het standpunt dat er een dusdanige prikkel van de dwangsom uit moet gaan dat de opgelegde last wordt nagekomen en verbeuring van de dwangsom wordt voorkomen. Daarbij mag rekening worden gehouden met het te behalen voordeel bij het laten voortduren van de overtreding. Om die reden heeft verweerder de dwangsom gesteld op iets lager dan de verwachte verkoopprijs van het bouwwerk.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Bij het bepalen van de hoogte van de dwangsom komt verweerder een ruime mate van beleidsvrijheid toe. Een dwangsom mag zo hoog zijn als nodig is om te verzekeren dat de last wordt nagekomen en verbeurte ervan wordt voorkomen. Om dit doel te bereiken kan het bedrag worden afgestemd op het financiële voordeel dat een overtreder kan verwachten bij het niet naleven van de betreffende regel. Zie bijvoorbeeld de uitspraak van de Afdeling van 5 februari 2014, ECLI:NL:RVS:2014:328 Verweerder heeft de dwangsom bepaald op € 60.000,-. Dit bedrag heeft verweerder gebaseerd op de verwachte verkoopprijs. Het bedrijf van eiser houdt echter de verhuur (en niet de verkoop) in van onder meer trekkershutten. Verweerder heeft dan ook onvoldoende gemotiveerd waarom het bedrag van € 60.000,-, redelijk is. Dit te meer nu dit bedrag substantieel hoger is dan het in het voorgenomen besluit genoemde bedrag van € 2.000,- per week, met een maximum van € 20.000,-. De rechtbank is dan ook van oordeel dat het bestreden besluit op dit punt in strijd is met artikel 7:12 van de Algemene wet bestuursrecht (Awb). De beroepsgrond slaagt. </para>
+      <para />
+      <para>6. Het beroep van eiseres is gezien het gestelde in overweging 5.3 gegrond. De rechtbank zal het bestreden besluit voor wat betreft de hoogte van de dwangsom vernietigen. De rechtbank ziet aanleiding om zelf te voorzien en bepaalt de hoogte van de dwangsom op het in het voorgenomen besluit genoemde bedrag van € 2.000,- per week, met een maximum van € 20.000,-.</para>
+      <para />
+      <para>7. De rechtbank ziet aanleiding om verweerder te veroordelen in de kosten die eiseres in verband met het instellen van het beroep redelijkerwijs heeft moeten maken. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het bijwonen van de zitting, met een wegingsfactor van 1). De rechtbank bepaalt verder dat verweerder het door eiseres betaalde griffierecht aan eiseres dient te vergoeden. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit voor zover het de hoogte van de dwangsom betreft;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat deze uitspraak in de plaatst treedt van het bestreden besluit voor zover dat is vernietigd, hetgeen inhoudt dat de dwangsom € 2.000,- per week bedraagt, met een maximum van € 20.000,-;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat verweerder aan eiseres het door haar betaalde griffierecht van € 174,- vergoedt;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder tot vergoeding van de proceskosten van eiseres tot een bedrag van € 1051,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.H. Lange, rechter, in aanwezigheid van F. Voskamp, griffier. De uitspraak is gedaan op 20 juli 2020. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

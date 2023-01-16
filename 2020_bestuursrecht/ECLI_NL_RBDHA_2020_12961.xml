@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12961</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-24T09:00:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">SGR 19/1920</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12961">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12961</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-18T12:25:48</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12961 Rechtbank Den Haag , 10-12-2020 / SGR 19/1920</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12961:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bestuurlijke boete aan exploitant websites voor het zonder vergunning online aanbieden van kansspelen op de Nederlandse markt. Prioriteringsbeleid 2017. Geen gedoogbeleid. Openbaarmaking van het boetebesluit.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12961:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/1920</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 10 december 2020 in de zaak tussen</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de vennootschap naar buitenlands recht Corona Limited</emphasis>, gevestigd te Malta, eiseres</para>
+      <para>(gemachtigde: mr. E.M. Verheijen),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de raad van bestuur van de Kansspelautoriteit, verweerder</bridgehead>
+    <para>(gemachtigden: mr. I.M. Zuurendonk en mr. drs. T.F. Prins).</para>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 31 juli 2018 (hierna: het boetebesluit) heeft verweerder aan eiseres een bestuurlijke boete van € 300.000,- opgelegd wegens overtreding van de Wet op de kansspelen (hierna: Wok).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij afzonderlijk besluit van 31 juli 2018 (hierna: het openbaarmakingsbesluit) heeft verweerder besloten tot openbaarmaking van het boetebesluit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 februari 2019 (hierna: het bestreden besluit) heeft verweerder de bezwaren van eiseres tegen het boetebesluit en het openbaarmakingsbesluit ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben over en weer gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft de zaak verwezen naar een meervoudige kamer.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft op 16 oktober 2020 een aanvullend stuk ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 29 oktober 2020.</para>
+      <para>Eiseres heeft zich ter zitting laten vertegenwoordigen door mr. E.M. Verheijen, </para>
+      <para>mr. M. Robichon en mr. O. Brouwer. Voor eiseres was tevens aanwezig dr. [A] .</para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door mr. I.M. Zuurendonk en </para>
+      <para>mr. drs. T.F. Prins. Voor verweerder was tevens aanwezig mr. M. van Dalen. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De relevante wet- en regelgeving is opgenomen in een bijlage die deel uitmaakt van deze uitspraak.</para>
+    <para />
+    <para>2. Verweerder heeft aan eiseres, exploitant van de websites [website 1] en [website 2] , het boetebesluit opgelegd omdat eiseres zonder vergunning online kansspelen heeft aangeboden op de Nederlandse markt, hetgeen in strijd is met artikel 1, eerste lid, aanhef en onder a, van de Wok. Verweerder heeft het boetebesluit gebaseerd op onderzoeken van zijn toezichthouders, neergelegd in een op 18 januari 2018 opgesteld boeterapport over onder meer de aanbieder en het aanbod van kansspelen op die websites, de toegankelijkheid van die websites vanuit Nederland, de mogelijke betaalmethoden en het meedingen naar prijzen of premies. Daaruit blijkt volgens verweerder dat het aanbod van eiseres op Nederland was gericht, in ieder geval in de periode van 31 mei 2017 tot en met </para>
+    <parablock>
+      <para>2 augustus 2017. Daarnaast heeft verweerder het boetebesluit openbaargemaakt, omdat het algemeen belang van informatievoorziening en transparantie in dit geval openbaarmaking rechtvaardigen en zwaarder moeten wegen dan de belangen van eiseres.</para>
+      <para>In het bestreden besluit heeft verweerder het boetebesluit en het openbaarmakingsbesluit gehandhaafd conform het advies van 29 januari 2019 van de Adviescommissie bezwaarschriften van de Kansspelautoriteit.</para>
+    </parablock>
+    <para />
+    <para>3. Eiseres voert, samengevat weergegeven, aan dat het boetebesluit in strijd met het recht van de Europese Unie en de algemene beginselen van behoorlijk bestuur, in het bijzonder het vertrouwens-, het rechtszekerheids-, en het zorgvuldigheidsbeginsel, en het verbod van willekeur, is opgelegd. Eiseres verzoekt de rechtbank, mede gelet op haar belang bij vergunningverlening op grond van de Wet Kansspelen op afstand (hierna: Wet Koa), prejudiciële vragen te stellen aan het Hof van Justitie. Eiseres verwijst in dit verband naar een op haar verzoek geschreven opinie van prof. dr. S.C.G. van den Bogaert en </para>
+    <parablock>
+      <para>dr. [A] , beiden verbonden aan het Europa Instituut Leiden. Eiseres stelt dat zij het aanbod op haar websites in overeenstemming heeft gebracht met de door verweerder in 2012, in overleg met de marktpartijen waaronder eiseres, vastgestelde prioriteringscriteria en dat zij daarom erop mocht vertrouwen dat zij haar websites zonder boete kon blijven exploiteren. Gedurende vijf jaar werd door verweerder niet gehandhaafd tegen de voornoemde marktpartijen. Verweerder heeft de prioriteringscriteria in 2017 plotseling aangepast en de marktpartijen zijn daarvan, in strijd met eerder gedane toezeggingen, niet tijdig op de hoogte gesteld. Er is ten onrechte geen overgangsperiode gehanteerd. Voor het onderzoek naar de websites van eiseres zijn voorts subjectieve en niet-gepubliceerde criteria gebruikt en de daarbij toegepaste (invoer)gegevens zijn niet overgelegd, hetgeen strijd met artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: het EVRM) oplevert. Verweerder had van handhaving moeten afzien gelet op het destijds gevoerde overleg en gedane toezeggingen, het (hebben) bestaan van een gedoogbeleid, de verwachting dat de Wet Koa in 2013 in werking zou treden en eiseres dan over een vergunning zou beschikken, alsmede de onevenredige gevolgen van de boeteoplegging. </para>
+      <para>Met betrekking tot de openbaarmaking van het boetebesluit voert eiseres aan dat het openbaarmakingsbesluit onrechtmatig is en tot onevenredige en onomkeerbare (reputatie)schade voor haar leidt ten opzichte van andere kansspelaanbieders.</para>
+    </parablock>
+    <para />
+    <para />
+    <para>4. De rechtbank overweegt als volgt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Ten aanzien van het boetebesluit</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Het is niet in geschil dat eiseres in ieder geval op de data van de door de toezichthouders van verweerder verrichte onderzoeken (31 mei 2017, 2, 7 en 8 augustus 2017) zonder vergunning online kansspelen heeft aangeboden op haar voornoemde twee websites, en dat deze websites ten tijde van de onderzoeken vanuit Nederland toegankelijk waren. Verweerder heeft terecht vastgesteld dat de overtreding van artikel 1, eerste lid, aanhef en onder a, van de Wok hiermee is komen vast te staan, zodat verweerder in principe bevoegd is tot handhaving over te gaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De vragen die voorliggen zijn of verweerder in dit geval in redelijkheid gebruik heeft kunnen maken van zijn bevoegdheid om een bestuurlijke boete op te leggen en of de hoogte daarvan niet onevenredig is. De rechtbank overweegt hierover als volgt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Eiseres is gevestigd in een lidstaat van de Europese Unie en valt onder de reikwijdte van artikel 56 van het Verdrag betreffende de werking van de Europese Unie (hierna: VWEU). Eiseres heeft gesteld dat aan haar door meerdere lidstaten van de Europese Unie, volgens hun nationale wet- en regelgeving, een vergunning voor het aanbieden van online kansspelen is verleend. De rechtbank overweegt dat uit de jurisprudentie van het Hof van Justitie (onder meer het arrest van 15 september 2011, Dickinger en Ömer, ECLI:EU:C:2011:582) volgt dat de lidstaten binnen zekere grenzen de bevoegdheid hebben om op het gebied van de kansspelen hun eigen beschermingsniveau te bepalen en een eigen beleid te voeren. Dit betekent dat een door een andere lidstaat verleende kansspelvergunning niet door verweerder hoeft te worden erkend. Aan de omstandigheid dat eiseres in andere lidstaten over een vergunning voor het aanbieden van online kansspelen beschikt, komt daarom in het kader van dit beroep geen doorslaggevende betekenis toe. In rechtsoverweging 4.15 en 4.16 zal de rechtbank ingaan op het verzoek van eiseres om prejudiciële vragen te stellen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Gedoogbeleid?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>De rechtbank is van oordeel dat verweerder voldoende aannemelijk heeft gemaakt dat de omstandigheid dat hij tussen 2012 en 2017 niet jegens eiseres handhavend heeft opgetreden, niet het gevolg is van het voeren van een gedoogbeleid, maar van het stellen van prioriteiten in de handhaving. Verweerder heeft in 2012 een prioriteringsbeleid vastgesteld vanwege het grote aanbod van online kansspelen en zijn beperkte middelen en capaciteit voor handhaving. Het stellen van prioriteiten in de handhaving is ingevolge vaste jurisprudentie toegestaan (zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) van 28 juni 2017, ECLI:NL:RVS:2017:1719). Verweerder heeft in de loop van de jaren in algemene openbare berichten regelmatig te kennen gegeven dat aanbieders van online kansspelen nog steeds in overtreding zijn. De rechtbank verwijst in dit verband onder meer naar het nieuwbericht van 8 september 2013 <emphasis role="italic">‘Kansspelautoriteit legt online kansspelaanbieder Globalstars een boete op van 100.000 euro’</emphasis>, het nieuwsbericht van 12 februari 2014 ‘<emphasis role="italic">Handhaving online kansspelen, hoe doet de Kansspelautoriteit dat?’</emphasis> en het nieuwsbericht van 1 december 2016 <emphasis role="italic">‘Wijziging in aanpak illegale online kansspelen’</emphasis> (gepubliceerd op de website van verweerder). </para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het vertrouwensbeginsel</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>Bij uitspraak van 29 mei 2019 (ECLI:NL:RVS:2019:1694) heeft de Afdeling een (drie-)stappenplan uiteengezet voor de beoordeling van een beroep op het vertrouwensbeginsel. </para>
+      <para />
+      <paragroup>
+        <nr>4.5.1</nr>
+        <para>Ingevolge dit stappenplan is voor een geslaagd beroep op het vertrouwensbeginsel in de eerste plaats vereist dat de betrokkene aannemelijk maakt dat van de zijde van de overheid toezeggingen of andere uitlatingen zijn gedaan of gedragingen zijn verricht waaruit de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht afleiden of en zo ja, hoe het bestuursorgaan in een concreet geval een bevoegdheid zou uitoefenen (stap 1).</para>
+        <para />
+        <parablock>
+          <para>Eiseres heeft niet aannemelijk gemaakt dat er sprake is geweest van een toezegging, uitlating of gedraging als bedoeld in de voornoemde uitspraak, op grond waarvan zij er op mocht vertrouwen dat er niet handhavend zou worden opgetreden en zij haar websites zonder het risico op een boete kon (blijven) exploiteren. Uit de overgelegde stukken blijkt niet dat verweerder eiseres op enig moment in het vooruitzicht heeft gesteld dat hij bij een overtreding van de Wok geen gebruik zal maken van zijn bevoegdheid om een bestuurlijke boete op te leggen. De omstandigheid dat verweerder in 2012 in brieven naar eiseres toe heeft gecommuniceerd dat handhaving kan worden voorkomen door aanpassingen door te voeren aan de websites zodat niet langer wordt voldaan aan de prioriteringscriteria, betekent niet dat verweerder daarmee een gedoogstatus heeft verleend of toegezegd dat er in dat geval niet zal worden gehandhaafd. Uit de stukken blijkt juist dat verweerder (sedert zijn oprichting in 2012) naar de aanbieders van kansspelwebsites toe heeft gecommuniceerd dat het aanbieden van online kansspelen op de Nederlandse markt verboden is en dat daartegen handhavend zal worden opgetreden (zie bijvoorbeeld Kamerstukken II, 2013-2014, Aanhangsel van Handelingen 1287, en de onder rechtsoverweging 4.4 genoemde nieuwsberichten). Dit heeft verweerder ook aan eiseres medegedeeld bij brieven van </para>
+          <para>8 en 13 juni 2012. Daarbij heeft verweerder aangegeven dat gezien het grote aanbod van online kansspelen op het internet, hij een prioritering heeft gemaakt in de aanpak en bestrijding van illegale kansspelen die op de Nederlandse markt zijn gericht. Verder heeft verweerder in die brieven aangegeven welke prioriteringscriteria hij in dit verband hanteert en dat door hem handhavend zal worden opgetreden tegen een aanbieder die aan (één van) de prioriteringscriteria voldoet. De rechtbank is van oordeel dat uit de voornoemde brieven eiseres duidelijk had kunnen zijn dat verweerder – wat ook zij van het (gestelde) overleg met marktpartijen in de beginfase van zijn beleidsvorming en de verwachte inwerkingtreding van de Wet Koa in 2013 – niet zou afzien van handhavend optreden tegen aanbieders van online kansspelen op de Nederlandse markt. De conclusie die eiseres verbindt aan het prioriteringsbeleid in combinatie met de daarover gevoerde gesprekken, inhoudende dat aanpassing aan de prioriteringscriteria zonder meer als vrijwaring zou gelden voor handhavend optreden, kan daarom niet worden gevolgd. </para>
+          <para>Aan de brief van 6 mei 2013, waarin verweerder stelt dat de betreffende website voldoende is aangepast en daarmee (voorlopig) niet meer onder de focus van verweerder valt, komt niet de door eiseres gewenste betekenis toe, reeds omdat in die brief tevens is aangegeven dat de prioriteringscriteria in de loop der tijd kunnen worden aangescherpt. Ook deze brief kan daarom niet worden aangemerkt als een toezegging dat niet zou worden gehandhaafd bij overtreding van het wettelijke verbod op het aanbieden van online kansspelen.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.2</nr>
+        <para>Omdat uit het hiervoor overwogene volgt dat reeds aan de eerste stap van het voornoemde stappenplan niet is voldaan, behoeven de stappen 2 en 3 geen bespreking.</para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <parablock>
+        <para>Eiseres heeft gezien het voorgaande niet aannemelijk gemaakt dat zij er gerechtvaardigd op mocht vertrouwen dat verweerder jegens haar niet tot handhaving zal overgaan. De omstandigheid dat eiseres de prioriteringscriteria uit 2012 ten onrechte zo heeft geïnterpreteerd dat als zij zich eraan conformeert, zij haar aanbod op de Nederlandse markt mocht voortzetten, komt voor haar eigen rekening en risico. Door het blijven aanbieden van online kansspelen heeft eiseres het risico genomen dat zij op enig moment wel onder de focus van verweerder zou komen. </para>
+        <para>Dat eiseres investeringen heeft gedaan en verweerder daarvan op de hoogte zou zijn geweest, leidt niet tot een ander oordeel. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overgangstermijn</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <para>Eiseres betoogt voorts dat in strijd met het rechtszekerheidsbeginsel geen overgangstermijn is gegund om de overtreding te beëindigen. Zij wijst in dit verband op een mededeling van verweerder in de brief van 6 mei 2013 dat eiseres tijdig op de hoogte zal worden gesteld indien de prioriteringscriteria worden aangescherpt. Die brief moet echter worden gelezen tegen de achtergrond van het beleid in 2012 om aanschrijvingen met een termijn (in 2013 van twee maanden) aan de aanbieders te verzenden. Dit beleid is nadien gewijzigd. In het onder rechtsoverweging 4.4 genoemde nieuwsbericht van 1 december 2016 is op de website van verweerder te kennen gegeven dat verweerder per 1 januari 2017 geen individuele aanschrijvingsbrieven meer verstuurt. Dit is nogmaals gecommuniceerd in het nieuwsbericht van 31 maart 2017 ‘<emphasis role="italic">Onmiddellijke handhaving van kansspelen online’</emphasis>. Anders dan eiseres stelt, mag verweerder naar het oordeel van de rechtbank voor de bekendmaking van zijn beleid volstaan met het publiceren daarvan op zijn website. Eiseres had dus sedert 1 december 2016 kunnen weten dat aan de praktijk van het verzenden van aanschrijvingsbrieven een einde is gekomen per 1 januari 2017. Verweerder heeft zich daarom terecht op het standpunt gesteld dat eiseres aan de voornoemde brief van 6 mei 2013 niet het vertrouwen mocht ontlenen dat het daarna (op zijn website) voor eenieder gepubliceerde beleid, niet voor haar geldt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8</nr>
+      <parablock>
+        <para>Volledigheidshalve overweegt de rechtbank dat tussen de inwerkingtreding per </para>
+        <para>1 juni 2017 van de aangescherpte prioriteringscriteria van verweerder en het onderzoek op de websites van eiseres op 2 augustus 2017, een periode van twee maanden is gelegen, waarbinnen eiseres haar websites zodanig had kunnen aanpassen dat het aanbod daarop niet meer op de Nederlandse markt is gericht. Het feit dat de websites ook al op 31 mei 2017 zijn onderzocht, doet hier niet aan af.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Prioriteringsbeleid 2017</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.9</nr>
+      <para>Het prioriteringsbeleid maakt duidelijk op welke aanbieders van online kansspelen verweerder zich bij handhavend optreden richt. Aanbieders die aan één of meer dan één prioriteringscriterium voldoen, zullen volgens dat beleid (als eerste) aan handhavingsacties worden onderworpen. Eerder heeft de Afdeling overwogen (zie de uitspraak van 22 februari 2017, ECLI:NL:RVS:2017:484) dat zij dit beleid niet onredelijk acht, omdat in het bijzonder op Nederland gerichte illegale aanbieders veel schade aan Nederlandse consumenten kunnen berokkenen. </para>
+      <para />
+      <parablock>
+        <para>Per 1 juni 2017 heeft verweerder zijn aanpak uitgebreid door zich verder te concentreren op kansspelaanbieders die zich (nog) specifiek en onmiskenbaar richten op Nederlandse spelers. Daarbij is aangegeven dat ook al voldoet het kansspelaanbod niet (meer) aan de prioriteringscriteria, verweerder aanleiding kan hebben om nader onderzoek te doen binnen de kansspelmarkt of naar specifieke kansspelaanbieders. Verweerder kijkt hierbij vooral naar de schade aan en risico’s voor de publieke doelen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Deze rechtbank heeft bij uitspraak van 30 januari 2020 (ECLI:NL:RBDHA:2020:857, r.o. 4.7) geoordeeld dat de uitbreiding van het beleid zoals dat per 1 juni 2017 is gaan gelden, geen andere ratio dan het voorgaande beleid behelst en dat hierdoor niet kan worden gezegd dat niet (langer) van de redelijkheid van het beleid kan worden uitgegaan. </para>
+        <para>De rechtbank ziet geen reden hier thans anders over te oordelen. In hetgeen eiseres naar voren heeft gebracht ziet de rechtbank geen grond voor het oordeel dat verweerder per 1 juni 2017 een onredelijk beleid is gaan voeren. Het uitgangspunt van de Wok blijft dat het online aanbieden van kansspelen zonder vergunning verboden is en dat er een verplichting tot het staken van illegaal aanbod bestaat. De prioriteringscriteria scheppen per 1 juni 2017 – in het licht van dit totaalverbod – geen andere verplichtingen voor eiseres. De stelling van eiseres dat het prioriteringsbeleid van 2017 onrechtmatig is wegens strijdigheid met de algemene beginselen van behoorlijk bestuur, faalt derhalve.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.10</nr>
+      <para>De rechtbank is voorts van oordeel dat verweerder voldoende aannemelijk heeft gemaakt dat het prioriteringsbeleid – ten tijde hier van belang – op elke aanbieder van illegale online kansspelen wordt toegepast en dat van een willekeurige of discriminerende toepassing geen sprake is. De verklaring van verweerder dat de reden voor het beperkte aantal opgelegde bestuurlijke boetes per jaar voor overtredingen van de Wok is gelegen in beperkte handhavingscapaciteit en niet moet worden verklaard door gedoogbeleid of preferentiële behandeling van marktpartijen, komt de rechtbank niet onaannemelijk voor. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.11</nr>
+      <para>Voor zover eiseres stelt dat uit de prioriteringscriteria niet kon worden opgemaakt hoe een aanbieder zich na 1 juni 2017 voor handhaving kon ‘deprioriteren’, kan deze stelling niet slagen. In het nieuwsbericht van 27 mei 2017 <emphasis role="italic">‘Kansspelautoriteit zet nieuwe stap in bestrijden van kansspelen op afstand’</emphasis> is duidelijk aangegeven dat de aanpak van verweerder ziet op de online kansspelen die zich op de Nederlandse markt (blijven) richten. De keuze over hoe de gerichtheid van een website met kansspelen op de Nederlandse markt wordt beëindigd, ligt bij de aanbieder zelf. Het instellen van een zogeheten IP-blokkade is slechts een voorbeeld van één van de daartoe toe te passen middelen. De omstandigheid dat een IP-blokkade niet als indicator is vermeld in de prioriteringscriteria uit 2012 en in de op 12 juli 2019 door verweerder gepubliceerde concept-beleidsregel voor het verrichten van een betrouwbaarheidstoets ten aanzien van mogelijke vergunningsaanvragers onder de Wet Koa (nader belicht op de website van verweerder in het nieuwsbericht van 12 juli 2019 <emphasis role="italic">‘Vergunning online gokken? Alleen bij twee jaar niet specifiek op Nederland gericht aanbod’</emphasis>), doet aan de eigen verantwoordelijkheid van eiseres om de overtreding te beëindigen en de daartoe geëigende middelen te kiezen, niet af. De rechtbank merkt voorts op dat de voornoemde concept-beleidsregel van na het bestreden besluit dateert en reeds hierom niet tot het oordeel kan leiden dat verweerder ten tijde van de boeteoplegging een innerlijk tegenstrijdig beleid heeft gevoerd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Selectie voor onderzoek </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.12</nr>
+      <parablock>
+        <para>Eiseres betwist niet dat zij ten tijde van het onderzoek, aan één of meer van de in het nieuwsbericht van 27 mei 2017 opgenomen prioriteringscriteria voldeed. Ook bestrijdt eiseres niet de conclusie van verweerder dat zij zich met haar aanbod op de eerdergenoemde twee websites (actief) op de Nederlandse markt had gericht. Er is daarom geen grond voor het oordeel dat verweerder deze websites ten onrechte aan onderzoek heeft onderworpen.  Welke omstandigheden precies tot het verrichten van dat onderzoek hebben geleid – of dit nu meldingen zijn geweest of de aanscherping van het prioriteringsbeleid – is voor de uitoefening van de handhavende bevoegdheid van verweerder niet relevant. Dit geldt ook voor het eventueel gebruik maken door verweerder van aanvullende interne selectiecriteria bij het verrichten van onderzoek. Het al dan niet voldoen aan die criteria maakt immers niet dat de overtreding niet is begaan. Voor de stelling van eiseres dat verweerder eerst jegens de aanbieders die zich niet aan de prioriteringscriteria uit 2012 conformeren, handhavend had moeten optreden, is geen steun in de stukken te vinden. De prioriteringscriteria kennen geen recht op een rangorde bij handhaving toe, aangezien verweerder zijn toezicht- en handhavingsbevoegdheden spontaan (bijvoorbeeld naar aanleiding van een melding van een consument) kan uitoefenen. Het enige waar de criteria de mogelijkheid toe bieden is de kans op handhaving in voorkomende gevallen te verkleinen.</para>
+        <para>Gezien het voorgaande kan de omstandigheid dat verweerder de (invoer)gegevens voor de software waarmee de selectie van de websites van eiseres voor onderzoek is gemaakt, niet heeft overgelegd, niet tot het oordeel leiden dat de websites van eiseres ten onrechte voor onderzoek en handhaving zijn geselecteerd. Deze gegevens liggen niet ten grondslag aan het boetebesluit en het bestreden besluit, en zijn daarom geen op de zaak betrekking hebbende stukken die door verweerder overgelegd hadden moeten worden. Van schending van artikel 6 van het EVRM en het zorgvuldigheidsbeginsel doordat verweerder de voornoemde gegevens niet heeft overgelegd, is geen sprake. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Onevenredige gevolgen</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.13</nr>
+      <parablock>
+        <para>Eiseres heeft niet nader geconcretiseerd wat de gestelde onevenredige gevolgen van de boeteoplegging voor haar zijn. Verweerder heeft zich terecht op het standpunt gesteld dat gedane investeringen door eiseres geen reden kunnen zijn om van boeteoplegging af te zien. </para>
+        <para>Dat de reputatie van eiseres door de boete is beschadigd, is ook niet nader onderbouwd. Voor zover eiseres reputatieschade heeft, heeft verweerder terecht gesteld dat dit het gevolg van haar keuze is om illegaal online kansspelen voor de Nederlandse markt aan te bieden. </para>
+        <para>Ook de stelling van eiseres dat onduidelijk is wat de gevolgen van de boete zullen zijn voor vergunningverlening op grond van de Wet Koa, maakt niet dat verweerder niet tot boeteoplegging mocht overgaan. Verweerder heeft er terecht op gewezen dat – ten tijde hier van belang – geen zicht op legalisering bestaat en niet vooruit kan worden gelopen op de inwerkingtreding van de Wet Koa en de beoordeling of eiseres aan de vergunningsvereisten zal voldoen. De rechtbank merkt op dat tegen een eventuele afwijzing van een vergunningsaanvraag rechtsmiddelen open staan. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.14</nr>
+      <para>Gelet op al hetgeen hiervoor is overwogen is de rechtbank van oordeel dat verweerder van zijn bevoegdheid om aan eiseres een boete wegens overtreding van artikel 1, eerste lid, aanhef en onder a, van de Wok op te leggen, gebruik mocht maken.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Prejudiciële vragen</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.15</nr>
+      <para>De rechtbank ziet geen aanleiding om prejudiciële vragen te stellen zoals door eiseres verzocht en overweegt daartoe het navolgende. Het in artikel 1, eerste lid, aanhef en onder a, van de Wok neergelegde totaalverbod op het online aanbieden van kansspelen is een beperking van het vrij verkeer van diensten. Uit de jurisprudentie van het Hof van Justitie (onder meer het arrest van 3 juni 2010, Sporting Exchange Ltd, ECLI:EU:C:2010:307) volgt dat dwingende redenen van algemeen belang het stellen van nationale beperkingen op het terrein van kansspelen kunnen rechtvaardigen. De Afdeling heeft in de uitspraak van 22 februari 2017 (ECLI:NL:RVS:2017:484) geoordeeld dat artikel 1, eerste lid, aanhef en onder a, van de Wok een gerechtvaardigde beperking is, ter bescherming van het algemeen belang van het tegengaan van gokverslaving bij de consument en van criminaliteit, en daarom niet in strijd is met artikel 56 van het VWEU. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.16</nr>
+      <para>De rechtbank ziet geen aanleiding om af te wijken van het oordeel van de Afdeling in de voornoemde uitspraak. Het door eiseres aangevoerde doet geen twijfels rijzen over de uitleg van het Unierecht in deze zaak, zodat geen aanleiding bestaat tot het stellen van de door haar voorgestelde prejudiciële vragen. De aan het verzoek om het stellen van prejudiciële vragen ten grondslag liggende stelling, dat (de wijze van) handhaving in strijd is met het vrij verkeer tussen EU-lidstaten en de in het EU-recht geldende beginselen van rechtszekerheid en transparantie, omdat sinds vele jaren sprake is geweest van een beleid van gereguleerde niet-handhaving dat opeens op niet transparante wijze en zonder voldoende vooraankondiging wordt gewijzigd, is naar het oordeel van de rechtbank in dit geval niet van toepassing, zoals uit het hetgeen hiervoor is overwogen blijkt. Voor zover eiseres prejudiciële vragen wenst te stellen over de schending van het EU-recht omdat (toepassing van) de handhavingscriteria mogelijk tijdelijk of blijvende gevolgen hebben voor een toekomstige vergunningverlening onder de Wet Koa overweegt de rechtbank dat zodanige situatie thans niet aan de orde is. Eiseres kan dit desgewenst aan de orde stellen in een procedure ter zake (van de weigering) van een vergunning op grond van de Wet Koa. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De hoogte van de boete</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.17</nr>
+      <para>Volgens vaste jurisprudentie (vergelijk de uitspraak van de Afdeling van 26 september 2018, ECLI:NL:RVS:2018:3130) gaat het bij het opleggen van een boete wegens overtreding van artikel 1, aanhef en onder a, van de Wok om de aanwending door verweerder van een bevoegdheid met beleidsruimte. Verweerder moet bij de aanwending van deze bevoegdheid, ingevolge artikel 5:46, tweede lid, van de Algemene wet bestuursrecht (hierna: Awb), de hoogte van de boete afstemmen op de ernst van de overtreding en de mate waarin deze aan de overtreder kan worden verweten. Daarbij moet rekening worden gehouden met de omstandigheden waaronder de overtreding is gepleegd. De rechter toetst zonder terughoudendheid of het besluit van verweerder met betrekking tot de boete hieraan voldoet en dus leidt tot een evenredige sanctie.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.18</nr>
+      <para>In de Boetebeleidsregels aanbieden kansspelen online zonder vergunning (hierna: de Boetebeleidsregels) heeft verweerder de basisboete op tenminste € 100.000,- vastgesteld, welk bedrag kan oplopen tot de bij wet vastgestelde maximale boete. De basisboete wordt hoger als er sprake is van een of meer van de in de Beleidsregels vermelde omstandigheden. Voor zaken die in behandeling worden genomen op of na 1 augustus 2015, is het startbedrag van de basisboete € 150.000,-.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.19</nr>
+      <parablock>
+        <para>De Boetebeleidsregels, voor zover daarin wordt uitgegaan van een basisboete van </para>
+        <para>€ 100.000,- die onder omstandigheden kan worden verhoogd, is door de Afdeling niet onredelijk geacht (zie de hiervoor genoemde uitspraak van 26 september 2018). De rechtbank ziet geen aanleiding voor een ander oordeel bij een basisboete van € 150.000,-.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.20</nr>
+      <para>Verweerder heeft in het boetebesluit het startbedrag van € 150.000,- verhoogd aan de hand van de Beleidsregels gelet op het aanbod van het aantal websites, het aantal spellen, de hoogte van de te winnen jackpots, maximale inzetten en opnames en de aangeboden bonussen en promoties. De rechtbank is van oordeel dat verweerder de hoogte van de boete in het boetebesluit en het bestreden besluit deugdelijk heeft gemotiveerd. Eiseres heeft geen omstandigheden aangevoerd die aanleiding hadden moeten geven de (basis)boete te verlagen. Gezien de ernst van de overtreding acht de rechtbank de opgelegde boete passend en geboden en niet onevenredig hoog. De rechtbank volgt eiseres niet in haar standpunt dat verweerder bij de hoogte van de opgelegde boete rekening had moeten houden met de omstandigheid dat eiseres aanzienlijke investeringen heeft gedaan voor het verkrijgen van de domeinnamen van de websites en dat zij haar bedrijfsstrategie heeft gebaseerd op het prioriteringsbeleid uit 2012. Zoals reeds eerder is overwogen komt dit voor rekening en risico van eiseres zelf. Hetzelfde geldt voor de stelling van eiseres dat zij door de opgelegde boete zou worden benadeeld bij het in de toekomst verkrijgen van een vergunning en dat zij reputatieschade heeft opgelopen. Daarbij komt dat het wel of niet verlenen van een vergunning in de toekomst geen beloning of straf is, maar een kwestie van wel of niet voldoen aan de dan geldende voorschriften. De aanvrager van een vergunning zal getoetst worden aan vereisten van betrouwbaarheid en geschiktheid. Voorts heeft eiseres niet gemotiveerd waarom de hoogte van de opgelegde boete in strijd zou zijn met het gelijkheidsbeginsel. Er bestond voor verweerder dan ook geen aanleiding daarop in te gaan.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Ten aanzien van het openbaarmakingsbesluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.21</nr>
+      <para>Volgens vaste jurisprudentie van de Afdeling biedt artikel 8, eerste lid, van de Wet openbaarheid van bestuur (hierna: Wob), in zoverre het gaat om het openbaar maken van informatie neergelegd in documenten over een bestuurlijke aangelegenheid waarbij belangen als vermeld in artikel 10 van de Wob zijn betrokken, de grondslag voor het nemen van besluiten als bedoeld in artikel 1:3, eerste lid, van de Awb. Daartegen staat voor degenen die door dat besluit rechtstreeks in hun belang worden getroffen, dezelfde rechtsgang open als die welke beschikbaar is voor degene die rechtstreeks in zijn belang wordt getroffen door een besluit tot openbaarmaking van documenten dat is genomen op een verzoek als bedoeld in artikel 3 van de Wob. Voorts is ook in het geval van een voorgenomen spontane openbaarmaking ingevolge artikel 8, eerste lid, van de Wob, een nadere afweging van belangen geboden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.22</nr>
+      <para>Deze nadere afweging houdt in dit geval in dat het algemene belang dat door onverkorte openbaarmaking wordt gediend, wordt afgewogen tegen het belang van eiseres geen onevenredig nadeel te ondervinden als gevolg van de publicatie van het boetebesluit, waarbij aan het algemeen belang een groot gewicht moet worden toegekend. Van onevenredige benadeling in gevallen als de onderhavige kan volgens vaste jurisprudentie van de Afdeling sprake zijn als het boetebesluit uiteindelijk in rechte geen stand houdt en de betrokken rechtspersoon ten onrechte als overtreder kenbaar is gemaakt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.23</nr>
+      <parablock>
+        <para>In het kader van de toezichthoudende taak van een bestuursorgaan past het dat boetebesluiten worden gepubliceerd, zodat bekendheid wordt gegeven aan de wijze van uitvoering van deze taak, tenzij er sprake is van een onevenredige benadeling. Zoals de rechtbank reeds heeft overwogen, heeft verweerder zich terecht op het standpunt gesteld dat sprake was van een overtreding door eiseres. Niet gebleken is van feiten en omstandigheden op grond waarvan aanleiding bestond om niet tot openbaarmaking over te gaan. Verweerder heeft er daarbij terecht op gewezen dat in het boetebesluit de persoonsnamen en namen van bedrijven die niet als overtreder zijn aangemerkt, niet openbaar zijn gemaakt. Dat zij niet als overtreder worden aangemerkt is ook uitdrukkelijk opgenomen in het boetebesluit.</para>
+        <para>Verweerder heeft er terecht op gewezen dat de omstandigheid dat men na publicatie kan achterhalen om welke partijen het gaat, is te wijten aan de door hen gekozen ondernemingsstructuur. Voorts heeft verweerder er terecht op gewezen dat het moederbedrijf van eiseres zelf – en voor de publicatie door verweerder – bekend heeft gemaakt dat aan eiseres een bestuurlijke boete is opgelegd. Dat zij gehouden was dit als beursgenoteerde onderneming te doen, kan niet aan verweerder worden toegerekend. </para>
+        <para>De stelling van eiseres dat zij (onomkeerbare) schade lijdt door openbaarmaking van het boetebesluit en onevenredig benadeeld zou worden voor het verkrijgen van een vergunning, leidt niet tot het oordeel dat het boetebesluit niet openbaar mocht worden gemaakt. Alle aanbieders van kansspelen online die een vergunning aanvragen, zullen worden onderworpen aan een betrouwbaarheidstoets, ongeacht of zij in het verleden zijn beboet of niet. Openbaarmaking in het kader van speciale en generale preventie blijft noodzakelijk alsook met het oog op het informeren van consumenten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.24</nr>
+      <para>Gelet op het voorgaande heeft verweerder, mede gelet op de met openbaarmaking gediende doelen, het algemeen belang zwaarder mogen laten wegen dan het belang van eiseres en in redelijkheid tot het besluit tot openbaarmaking mogen overgaan.</para>
+      <para />
+      <para>5. Het beroep is ongegrond.</para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. drs. D. Biever, voorzitter, en mr. R.H. Smits en </para>
+      <para>mr. dr. M.K.G. Tjepkema, leden, in aanwezigheid van mr. I.N. Powell, griffier. De beslissing is in het openbaar uitgesproken op 10 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Verdrag betreffende de werking van de Europese Unie</emphasis>
+      </para>
+      <para>Artikel 56</para>
+      <para>In het kader van de volgende bepalingen zijn de beperkingen op het vrij verrichten van diensten binnen de Unie verboden ten aanzien van de onderdanen der lidstaten die in een andere lidstaat zijn gevestigd dan die, waarin degene is gevestigd te wiens behoeve de dienst wordt verricht.</para>
+      <para>[…].</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden </emphasis>
+      </para>
+      <para>Artikel 6<?linebreak?>[…].<?linebreak?>2. Een ieder tegen wie een vervolging is ingesteld, wordt voor onschuldig gehouden totdat zijn schuld in rechte is komen vast te staan</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemene wet bestuursrecht</emphasis>
+      </para>
+      <para>Artikel 5:46<?linebreak?>1. De wet bepaalt de bestuurlijke boete die wegens een bepaalde overtreding ten hoogste kan worden opgelegd.<?linebreak?>2. Tenzij de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, stemt het bestuursorgaan de bestuurlijke boete af op de ernst van de overtreding en de mate waarin deze aan de overtreder kan worden verweten. Het bestuursorgaan houdt daarbij zo nodig rekening met de omstandigheden waaronder de overtreding is gepleegd.<?linebreak?>[…].</para>
+      <para>
+        <?linebreak?>
+        <emphasis role="underline">De Wet op de Kansspelen</emphasis>
+      </para>
+      <para>Artikel 1<?linebreak?>1. Behoudens het in Titel Va van deze wet bepaalde is het verboden:<?linebreak?>a. gelegenheid te geven om mede te dingen naar prijzen of premies, indien de aanwijzing der winnaars geschiedt door enige kansbepaling waarop de deelnemers in het algemeen geen overwegende invloed kunnen uitoefenen, tenzij daarvoor ingevolge deze wet vergunning is verleend;<?linebreak?>[…].</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 35a<?linebreak?>1. De [kansspelautoriteit] kan een bestuurlijke boete opleggen wegens overtreding van de voorschriften vastgesteld bij of krachtens de artikelen 1, eerste lid, onder a […].<?linebreak?>2. De bestuurlijke boete die voor een overtreding als bedoeld in het eerste lid kan worden opgelegd bedraagt ten hoogste het bedrag van de zesde categorie, bedoeld in artikel 23, vierde lid, van het [Wetboek van Strafrecht] of, indien dat meer is, 10% van de omzet in het boekjaar voorafgaande aan de beschikking.<?linebreak?>[…].<?linebreak?></para>
+      <para>
+        <emphasis role="underline">Boetebeleidsregels aanbieden kansspelen online zonder vergunning </emphasis>
+      </para>
+      <para>(geldend voor zaken die in nader onderzoek zijn genomen tot 1 maart 2019)<?linebreak?>“[…]<?linebreak?>4. Overwegingen ten aanzien van het vaststellen van de basisboete<?linebreak?>De boete moet worden gesteld op een zodanige hoogte dat deze voldoende afschrikwekkend is voor zowel de overtreder (speciale preventie) als andere potentiële overtreders (generale preventie). Zoals hierboven aangegeven, wordt daartoe voor de boetetoemeting een bepaalde basisboete gehanteerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De basisboete is gerelateerd aan overwegingen omtrent de ernst van de overtreding en de inbreuk die de overtreding maakt op de door de overtreden bepaling beschermde belangen. Deze belangen zijn:<?linebreak?>1. Het belang van consumentenbescherming: De positie van deelnemers aan ongereguleerde kansspelen is niet geregeld. Er is geen enkele garantie voor de deelnemer dat het spel op eerlijke manier gespeeld wordt, het betalingsverkeer veilig verloopt, zijn persoonsgegevens veilig zijn en eventueel gewonnen prijzen ook daadwerkelijk worden uitgekeerd.<?linebreak?>2. Het belang van voorkomen van kansspelverslaving of onmatige deelneming: Kansspelverslaving of onmatige deelneming aan kansspelen kan leiden tot (grote) financiële problemen bij de speler en van groot effect zijn op diens omgeving.<?linebreak?>3. Het belang van voorkoming van fraude en criminaliteit: De kansspelmarkt is geen gewone economische markt. Omdat financieel gewin kan optreden zonder dat daar tegenover een evenredige inspanning staat, is deze markt extra gevoelig voor onder meer fraude en bedrog.<?linebreak?>[…]<?linebreak?>Bij de bepaling van de basisboete is voorts acht geslagen op boetes die zijn toegepast in zaken betreffende de wet Handhaving Consumentenbescherming en de wet Oneerlijke Handelspraktijken, aangezien consumentenbescherming een belangrijke rol speelt in het kansspelbeleid.</para>
+    </parablock>
+    <para>5. <?linebreak?>Vaststelling van de basisboete<?linebreak?>Alles afwegende stelt de Raad de basisboete op tenminste € 100.000,-, welk bedrag kan oplopen tot de bij wet vastgestelde maximale boete.<?linebreak?>De basisboete wordt hoger als er sprake is van een of meer van de volgende omstandigheden:<?linebreak?>- meer websites;<?linebreak?>- meer spellen;<?linebreak?>- een hogere maximale prijs;<?linebreak?>- een hogere eerste storting;<?linebreak?>- een hogere welkomstbonus;<?linebreak?>- een hogere deposit,</para>
+    <para />
+    <parablock>
+      <para>aangezien hierdoor de beschikbaarheid voor spelers wordt vergroot, spelers worden aangetrokken tot een bepaalde website en/of spelers worden verleid tot onverstandig of onmatig speelgedrag. Ook andere omstandigheden die hiertoe kunnen leiden, kunnen een hogere basisboete in een concrete zaak tot gevolg hebben.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gelet op de grote variatie in aanbod van kansspelen online, websites en spellen, acht de Raad het niet wenselijk om vaste basisboetes voor verschillende categorieën te bepalen, maar per geval de hoogte van de basisboete vast te stellen op basis van bovengenoemde criteria, waarbij een basisboete van € 100.000,- als minimum geldt.<?linebreak?></para>
+    </parablock>
+    <para>6. Boeteverhogende en boeteverlagende omstandigheden<?linebreak?>Een boete kan hoger of lager uitvallen door - voor de Kansspelautoriteit controleerbare - boeteverhogende of boeteverlagende omstandigheden.<?linebreak?></para>
+    <parablock>
+      <para>Boeteverhogende omstandigheden<?linebreak?>Als boeteverhogende omstandigheden worden aangemerkt:<?linebreak?>• een eerdere waarschuwing (door de Kansspelautoriteit, het openbaar ministerie of een andere met toezicht en handhaving belaste organisatie) &gt; + 25%; </para>
+      <para>• recidive (de aanbieder heeft eerder een boete gekregen voor een overtreding van de Wet op de kansspelen) &gt; + 100%; </para>
+      <para>• het door de aanbieder met de overtreding behaalde voordeel &gt; afromen; </para>
+      <para>• duur van de overtreding &gt; + 10% voor elke maand (afgerond op hele maanden); </para>
+      <para>• duaal karakter van het bedrijf &gt; + 100%; </para>
+      <para>• deelname door minderjarigen of andere kwetsbare groepen&gt; + 50%; </para>
+      <para>• bijzondere omstandigheden &gt; afhankelijk van de omstandigheden, maar in elk geval + 25%.<?linebreak?>[…]<?linebreak?>Aanvulling per 1 augustus 2015</para>
+      <para>Voor zaken die bij de Kansspelautoriteit in behandeling worden genomen op of na 1 augustus 2015 is het bedrag genoemd onder 5: € 150.000,-.<?linebreak?>[…].”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wet openbaarheid van bestuur</emphasis>
+      </para>
+      <para>Artikel 8 </para>
+    </parablock>
+    <para>1. Het bestuursorgaan dat het rechtstreeks aangaat, verschaft uit eigen beweging informatie over het beleid, de voorbereiding en de uitvoering daaronder begrepen, zodra dat in het belang is van een goede en democratische bestuursvoering.</para>
+    <para>2. Het bestuursorgaan draagt er zorg voor dat de informatie wordt verschaft in begrijpelijke vorm, op zodanige wijze, dat belanghebbende en belangstellende burgers zoveel mogelijk worden bereikt en op zodanige tijdstippen, dat deze hun inzichten tijdig ter kennis van het bestuursorgaan kunnen brengen.</para>
+    <para />
+    <parablock>
+      <para>Artikel 10 </para>
+    </parablock>
+    <para>1. Het verstrekken van informatie ingevolge deze wet blijft achterwege voor zover dit:</para>
+    <para>a. de eenheid van de Kroon in gevaar zou kunnen brengen;</para>
+    <para>b. de veiligheid van de Staat zou kunnen schaden;</para>
+    <para>c. bedrijfs- en fabricagegegevens betreft, die door natuurlijke personen of rechtspersonen vertrouwelijk aan de overheid zijn meegedeeld;</para>
+    <para>d. persoonsgegevens betreft als bedoeld in de artikelen 9, 10 en 87 van de Algemene verordening gegevensbescherming, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.</para>
+    <para>2. Het verstrekken van informatie ingevolge deze wet blijft eveneens achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen:</para>
+    <para>a. de betrekkingen van Nederland met andere staten en met internationale organisaties;</para>
+    <para>b. de economische of financiële belangen van de Staat, de andere publiekrechtelijke lichamen of de in artikel 1a, onder c en d, bedoelde bestuursorganen;</para>
+    <para>c. de opsporing en vervolging van strafbare feiten;</para>
+    <para>d. inspectie, controle en toezicht door bestuursorganen;</para>
+    <para>e. de eerbiediging van de persoonlijke levenssfeer;</para>
+    <para>f. het belang, dat de geadresseerde erbij heeft als eerste kennis te kunnen nemen van de informatie;</para>
+    <para>g. het voorkomen van onevenredige bevoordeling of benadeling van bij de aangelegenheid betrokken natuurlijke personen of rechtspersonen dan wel van derden.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

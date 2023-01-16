@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:9354</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T12:13:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.14750 en NL20.14751</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9354">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9354</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T12:12:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:9354 Rechtbank Den Haag , 02-09-2020 / NL20.14750 en NL20.14751</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:9354:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verweerder mocht de bekering tot het Christendom van een Iraanse man ongeloofwaardig achten</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:9354:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG					</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer:	NL20.14750 (beroep) en NL20.14751 (voorlopige voorziening) 		</para>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , eiser </bridgehead>
+    <parablock>
+      <para>V-nummer: [nummer] </para>
+      <para>(gemachtigde: mr. C.E. Stassen-Buijs), </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staatssecretaris van Justitie en Veiligheid, verweerder </bridgehead>
+    <para>(gemachtigde: mr. M. Dalhuisen). </para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Eiser heeft een verblijfsvergunning asiel voor bepaalde tijd aangevraagd. Verweerder heeft </para>
+      <para>die aanvraag bij besluit van 22 juli 2020 (het bestreden besluit) op grond van artikel 30b, </para>
+      <para>eerste lid, aanhef en onder c, van de Vreemdelingenwet 2000 (Vw) afgewezen als kennelijk </para>
+      <para>ongegrond.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. Daarnaast heeft hij de </para>
+      <para>voorzieningenrechter gevraagd om een voorlopige voorziening te treffen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 24 augustus 2020. Eiser en verweerder </para>
+      <para>hebben zich laten vertegenwoordigen door hun gemachtigden. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>Eiser heeft de Iraanse nationaliteit en is geboren op [geboortedatum] . Hij heeft </para>
+        <para>verweerder om internationale bescherming gevraagd omdat hij in Iran tot het christendom is </para>
+        <para>bekeerd. Hij vreest dat hij bij terugkeer naar Iran daarvoor zal worden vervolgd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <parablock>
+        <para>Eisers asielrelaas houdt samengevat het volgende in. Eiser is opgegroeid in een </para>
+        <para>streng islamitisch gezin. De geloofsdwang heeft hem tijdens zijn adolescentie doen afkeren </para>
+        <para>van de islam. In juli 2018 liep hij na vijftien jaar zijn jeugdvriend [de persoon] weer tegen het lijf. </para>
+        <para>In het gesprek dat zich toen ontspon, vertelde [de persoon] dat hij christen was. Een maand later </para>
+        <para>nam hij eiser mee naar een huiskerk en heeft hij hem een bijbel gegeven die eiser vervolgens </para>
+        <para>is gaan lezer. In de geboorte van zijn zoon zag eiser een wonder waardoor hij christen is </para>
+        <para>geworden. Eiser raakte in juli 2019 de problemen toen op zijn werk in zijn bureaulade de </para>
+        <para>bijbel werd gevonden die hij in de pauzes las. Hierop is politie zijn huis binnengevallen en  hebben agenten zijn vrouw ondervraagd. Eiser is hierop vertrokken uit Iran. Na eisers </para>
+        <para>vertrek is zijn vrouw nog twee maal ondervraagd.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het bestreden besluit  </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <parablock>
+        <para>Het asielrelaas van eiser bevat volgens verweerder de volgende relevante </para>
+        <para>elementen:  </para>
+        <para>1) identiteit, nationaliteit en herkomst van eiser;  </para>
+        <para>2) afwending van de islam;                                               </para>
+        <para>3) bekering tot het christendom;                                          </para>
+        <para>4) ontdekking van de bijbel op het werk van eiser; </para>
+        <para>5) problemen naar aanleiding van de ontdekking van de bijbel. </para>
+        <para>Verweerder acht elementen 1 en 2 wel geloofwaardig en elementen 3, 4 en 5 </para>
+        <para>ongeloofwaardig. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Omdat verweerder de bekering en de daaruit voortvloeiende problemen niet </para>
+        <para>geloofwaardig acht, heeft verweerder eiser een verblijfsvergunning asiel op grond van </para>
+        <para>artikel 29, eerste lid, aanhef en onder a en b, van de Vw geweigerd en de aanvraag als </para>
+        <para>kennelijk ongegrond afgewezen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De bekering tot het christendom </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <parablock>
+        <para>Verweerder heeft zijn oordeel dat eisers bekeringsrelaas ongeloofwaardig is onder </para>
+        <para>meer gebaseerd op het volgende. Verweerder trekt eisers kennismaking met het christelijk </para>
+        <para>geloof door zijn ontmoeting met jeugdvriend [de persoon] in twijfel. Verweerder acht niet </para>
+        <para>geloofwaardig dat [de persoon] eiser deelde in zijn christelijke geloof. Dat is niet plausibel omdat </para>
+        <para>
+          [de persoon] en eiser elkaar gedurende de voorafgaande vijftien jaar niet hebben gesproken, eiser </para>
+        <para>hem in dat gesprek vertelde dat hij bij de Iraanse overheid werkt en dit gesprek in de </para>
+        <para>openbare ruimte plaatsvond. In het licht van de repressie door de Iraanse overheid en de </para>
+        <para>geringe interesse voor het christendom die eiser toen nog aan de dag legde, ziet verweerder </para>
+        <para>niet in waarom [de persoon] toen al zo’n risico nam door aan eiser zijn christelijk geloof prijs te </para>
+        <para>geven, hem uit te nodigen om een maand later met hem een clandestiene huiskerk te </para>
+        <para>bezoeken, daar eiser uitvoeriger te vertellen over zijn geloof en hem een bijbel te geven.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank heeft verweerder aldus voldoende gemotiveerd </para>
+        <para>dat eisers verklaring over zijn eerste kennismaking met het christelijk geloof niet </para>
+        <para>geloofwaardig is. Uit eisers verklaring volgt weliswaar dat [de persoon] wist dat eiser als kind </para>
+        <para>moeite had met het belijden van zijn geloof en van de strenge opvoeding, maar dat betekent </para>
+        <para>nog niet dat die wetenschap voor [de persoon] voldoende waarborg bood om eiser over een </para>
+        <para>dergelijk gevoelig onderwerp in vertrouwen te nemen en hem vervolgens mee te nemen naar </para>
+        <para>een huiskerk. Eiser had immers nog geen interesse in het christelijk geloof getoond en </para>
+        <para>werkte bij de overheid. Verweerder mocht in dat oordeel ook betrekken dat niet valt in te </para>
+        <para>zien dat [de persoon] nadien vanuit zijn evangeliseringsbehoefte niet vaker heeft geprobeerd om </para>
+        <para>met eiser af te spreken.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>Daarnaast mocht verweerder zich op het standpunt stellen dat eiser tegenstrijdig </para>
+        <para>heeft verklaard over zijn behoefte om zijn christelijk geloof openlijk te uiten. Eiser heeft </para>
+        <para>verklaard dat hij Iran heeft verlaten omdat hij naar een veilige plek wilde waar hij naar de </para>
+        <para>kerk kan gaan om luid uit te kunnen spreken dat hij van Jezus houdt. Eiser verklaarde ook dat een van zijn doelen is dat hij tegenover zijn landgenoten kan vertellen over het </para>
+        <para>christelijk geloof en dat het christelijk geloof het enige geloof is dat mensen kan verlossen.<footnote-ref linkend="_46fdc30a-41f7-4911-981d-bda043f9d07e" /></para>
+        <para>Eiser heeft daarentegen bevestigd dat hij in Iran nimmer in een kerk is geweest en een </para>
+        <para>kerkbijeenkomst heeft bijgewoond.<footnote-ref linkend="_b6c1a17d-916c-43fe-b80e-1c4c1697ddc3" /> Als je God wil aanbidden, zo verklaarde eiser, hoeft dat </para>
+        <para>niet op een bepaald tijdstip of locatie te zijn. Verweerder heeft aan die verklaring de </para>
+        <para>betekenis mogen hechten dat eiser er geen behoefte aan had om zijn geloof met anderen te </para>
+        <para>delen. Eiser heeft verder verklaard dat hij, behalve door af en toe de Bijbel te lezen, niets </para>
+        <para>heeft gedaan om zich te verdiepen in het christendom. Ook heeft hij geen noemenswaardige </para>
+        <para>inspanningen verricht om opnieuw met [de persoon] af te spreken om langs die weg de huiskerk </para>
+        <para>opnieuw te bezoeken en met andere christenen in contact komen om zijn geloof met hen te </para>
+        <para>belijden. Op de vraag of hij [de persoon] niet gewoon had kunnen vragen om af te spreken en het </para>
+        <para>dan over de bekering te hebben, heeft eiser slechts geantwoord dat daartoe geen gelegenheid </para>
+        <para>is geweest.<footnote-ref linkend="_8553900c-d49f-4602-8bc9-36a896030c29" /> Die verklaring hoefde verweerder, in het licht van de omstandigheid dat de </para>
+        <para>eerdere afspraak met [de persoon] moeiteloos tot stand kwam, niet van betekenis te achten. De </para>
+        <para>rechtbank volgt eiser niet in zijn betoog dat angst hem ervan weerhield om </para>
+        <para>huiskerkbijeenkomsten te bezoeken, nu eiser dat in het nader gehoor niet als reden daarvoor </para>
+        <para>naar voren heeft gebracht en angst hem er kennelijk niet van weerhield om een bijbel op zijn </para>
+        <para>werk te lezen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <parablock>
+        <para>Verweerder mocht zich, wat er ook zij van wat eiser verder over zijn bekering heeft </para>
+        <para>verklaard, alleen al op grond van het bovenstaande op het standpunt stellen dat eiser een </para>
+        <para>diepgewortelde overtuiging ten aanzien van zijn bekering tot het christendom niet </para>
+        <para>aannemelijk heeft gemaakt. Een initiële kennismaking met een nieuw geloof dat men in het </para>
+        <para>land van herkomst niet mag belijden is van zo een wezenlijke betekenis dat, als die </para>
+        <para>kennismaking ongeloofwaardig wordt geacht, verweerder daaraan verregaande betekenis </para>
+        <para>mag toekennen voor de geloofwaardigheid van de algehele bekeringsrelaas. De gestelde </para>
+        <para>bekering bouwt immers op deze door eiser beschreven gebeurtenis voort. Daar komt bij dat </para>
+        <para>eiser, zoals hiervoor is overwogen, geen eenduidig inzicht heeft gegeven in zijn behoeften </para>
+        <para>die uit die bekering voortkwamen. Naar het oordeel van de rechtbank is eiser daarop in het </para>
+        <para>nader gehoor voldoende bevraagd en is hem voldoende ruimte geboden om daarover te </para>
+        <para>verklaren. Het was te verkiezen om de tegengeworpen tegenstrijdigheid in het nader gehoor </para>
+        <para>aan eiser voor te houden, maar eiser heeft in de correcties en aanvullingen, in de zienswijzen </para>
+        <para>en beroep daarop kunnen reageren.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <parablock>
+        <para>Wat eiser overigens over zijn bekering heeft verklaard kan de ongeloofwaardigheid </para>
+        <para>van de initiële kennismaking en de discrepantie over de uiting van zijn geloof dan ook niet </para>
+        <para>compenseren. Wat verweerder over die overige verklaringen heeft geoordeeld en wat eiser </para>
+        <para>daartegen heeft aangevoerd hoeft dan ook geen bespreking.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ontdekking van de bijbel op het werk van eiser </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <parablock>
+        <para>De beoordeling van de geloofwaardigheid van het relevant element ‘bekering’ kan </para>
+        <para>niet los worden gezien van de beoordeling van het relevante element ‘ontdekking van de </para>
+        <para>bijbel op het werk van eiser’. Door die ontdekking is eiser immers in de problemen geraakt </para>
+        <para>en heeft hij Iran verlaten. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <parablock>
+        <para>De rechtbank is van oordeel dat verweerder zich terecht op het standpunt heeft </para>
+        <para>gesteld dat eiser door op zijn werk bij een overheidsinstelling, waar van hem juist werd </para>
+        <para>verlangd een gelovig moslim te zijn, tijdens pauzes in een bijbel te lezen zich blootstelde </para>
+        <para>aan een reëel risico op ontdekking. Verweerder hoefde in de verklaring dat de bijbel in </para>
+        <para>krantenpapier was verpakt geen aanleiding te zien om het risico op ontdekking aanvaardbaar </para>
+        <para>of irreëel te achten. In het licht van eisers verklaring dat hij zich op zijn werk altijd heeft </para>
+        <para>ingespannen om zijn afvalligheid te verhullen, heeft verweerder terecht ongeloofwaardig </para>
+        <para>geacht dat eiser een risico heeft willen aanvaarden en in eisers bureau een bijbel is </para>
+        <para>gevonden.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Problemen naar aanleiding van  de ontdekking van de bijbel.  </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. Eiser heeft verklaard dat de problemen naar aanleiding van de ontdekking van de </para>
+      <parablock>
+        <para>bijbel bestaan uit de ondervragingen van zijn vrouw. Omdat verweerder zich op het </para>
+        <para>standpunt mocht stellen dat eiser niet aannemelijk heeft gemaakt dat op zijn werk is ontdekt </para>
+        <para>dat hij daar een bijbel bewaarde, heeft verweerder de daaruit voorvloeiende problemen ook </para>
+        <para>ongeloofwaardig mogen achten.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Geloofwaardigheid asielrelaas </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>6. De rechtbank komt tot de slotsom dat verweerder de bekering, de ontdekking van </para>
+      <parablock>
+        <para>de bijbel en de daaruit voortvloeiende problemen ongeloofwaardig mocht achten en heeft </para>
+        <para>om die reden terecht geen grond gezien om de gevraagde verblijfsvergunning asiel voor </para>
+        <para>bepaalde tijd te verlenen.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Kennelijk ongegrond  </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <parablock>
+        <para>Verweerder heeft eisers aanvraag op grond van artikel 30b, eerste lid, aanhef en </para>
+        <para>onder c, van de Vw als kennelijk ongegrond afgewezen omdat eiser verweerder heeft </para>
+        <para>misleid door omtrent zijn identiteit en nationaliteit valste informatie en of documenten die </para>
+        <para>een negatieve invloed op de beslissing hadden kunnen hebben. Verweerder heeft hieraan ten </para>
+        <para>grondslag gelegd dat hij bij aankomst bij de Nederlandse grens op Schiphol een vals </para>
+        <para>paspoort met valse personalia heeft getoond.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <parablock>
+        <para>Eiser betwist dat sprake is van misleiding omdat hij direct na het tonen van het </para>
+        <para>valse paspoort zijn eigen, originele en echt bevonden identiteitsdocumenten heeft </para>
+        <para>overgelegd en asiel heeft aangevraagd.  </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <parablock>
+        <para>Uit het proces-verbaal aanvraag asiel blijkt dat eiser bij aankomst bij de grens een </para>
+        <para>vals paspoort met valse personalia heeft getoond. Pas nadat bij de grensdoorlaatpost twijfel </para>
+        <para>was ontstaan over de echtheid van dat paspoort en eiser daarover werd verhoord, heeft eiser </para>
+        <para>zijn werkelijke identiteit opgegeven. Eiser betwist deze gang van zaken niet. In de uitspraak </para>
+        <para>van 1 april 2016, ECLI:NL:RVS:2016:955, heeft de Afdeling bestuursrechtspraak van de </para>
+        <para>Raad van State overwogen dat een vreemdeling die zich bedient van een vals </para>
+        <para>verblijfsdocument en die valsheid, hoewel hij daarvan op de hoogte was of had kunnen zijn, </para>
+        <para>achterhoudt, de staatssecretaris misleidt in de zin van artikel 30b, eerste lid, aanhef en onder </para>
+        <para>c, van de Vw. Verweerder mocht daarom toepassing geven aan artikel 30b, eerste lid, aanhef </para>
+        <para>en onder c, van de Vw.  </para>
+        <para>
+          <emphasis role="italic">Conclusie  </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>8.  	De aanvraag is terecht afgewezen als kennelijk ongegrond. Het beroep is </para>
+        <para>ongegrond. Omdat op het beroep is beslist is er geen aanleiding om een voorlopige </para>
+        <para>voorziening te treffen. Het verzoek om voorlopige voorziening wordt daarom afgewezen. </para>
+        <para>Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">In de zaak met nummer NL20.14750 </emphasis>
+      </para>
+      <para>De rechtbank verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">In de zaak met nummer NL20.14751 </emphasis>
+      </para>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.K. Mireku, rechter, in aanwezigheid van J.P. Braam, </para>
+      <para>griffier. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier										 rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op 2 september 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Rechtsmiddel </para>
+      <para>Tegen de uitspraak op het beroep kan hoger beroep worden ingesteld bij de Afdeling </para>
+      <para>bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking. </para>
+      <para>Tegen de uitspraak op het verzoek om voorlopige voorziening staat geen rechtsmiddel open. </para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_46fdc30a-41f7-4911-981d-bda043f9d07e" label="1">
+    <para>  Rapport Nader gehoor, p. 11. </para>
+  </footnote>
+  <footnote id="_b6c1a17d-916c-43fe-b80e-1c4c1697ddc3" label="2">
+    <para>  Rapport Nader gehoor, p. 34. </para>
+  </footnote>
+  <footnote id="_8553900c-d49f-4602-8bc9-36a896030c29" label="3">
+    <para> Rapport Nader gehoor, p.35.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

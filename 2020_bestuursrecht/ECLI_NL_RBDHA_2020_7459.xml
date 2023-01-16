@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:7459</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-06T09:49:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.14151</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7459">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7459</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-06T09:48:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:7459 Rechtbank Den Haag , 05-08-2020 / NL20.14151</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:7459:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Niet aangetoond dat getekende maatregel is uitgereikt; voorwaarden artikel 5.3, eerste lid, Vb. Beroep gegrond, opheffing maatregel.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:7459:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL20.14151</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , eiser</bridgehead>
+    <parablock>
+      <para>V-nummer: [#]</para>
+      <para>(gemachtigde: mr. F. Fonville),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. B. Berk).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <?linebreak?>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 juli 2020 (het bestreden besluit) heeft verweerder aan eiser de maatregel van bewaring op grond van artikel 59b, eerste lid, Vreemdelingenwet 2000 (Vw) opgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. Dit beroep moet tevens worden aangemerkt als een verzoek om toekenning van schadevergoeding.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 27 juli 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Het onderzoek is ter zitting gesloten. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 28 juli 2020 heeft de rechtbank het onderzoek heropend en verweerder in de gelegenheid gesteld aanvullende informatie te verstrekken. Verweerder heeft bedoelde informatie op 29 juli 2020 geüpload in het digitale dossier. Eiser heeft hierop op 30 juli 2020 schriftelijk gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft op 3 augustus 2020 het onderzoek gesloten en de uitspraak bepaald op heden. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser stelt de Tunesische nationaliteit te hebben en te zijn geboren op [geboortedatum] .</para>
+    <para />
+    <para>2. Eiser heeft, samengevat weergegeven, aangevoerd dat aan hem in strijd met artikel 5.3, eerste lid, Vreemdelingenbesluit 2000 (Vb), geen ondertekende maatregel van bewaring is uitgereikt. Een ondertekende maatregel kan logischerwijs alleen na ondertekening zijn uitgereikt. Verweerder heeft geen proces-verbaal overgelegd waaruit blijkt dat en wanneer de ondertekende maatregel aan eiser is uitgereikt. Een rechtsgeldige maatregel komt ingevolge artikel 5.3, eerste lid, Vb pas tot stand als deze is gedagtekend, ondertekend en met redenen omkleed en treedt pas in werking als deze is uitgereikt. Eiser wijst in dit verband op de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) van 12 juli 2018 (ECLI:NL:RVS:2018:2376). De onderhavige maatregel is nimmer in werking getreden en eisers bewaring is daarom van meet af aan onrechtmatig. </para>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Ter zitting heeft de gemachtigde van verweerder, samengevat, aangegeven dat het proces-verbaal met betrekking tot het opleggen van de maatregel op ambtseed is opgemaakt. De maatregel wordt opgemaakt na het gehoor in het systeem, maar niet afgesloten met een digitale handtekening. Eerst wordt de maatregel met een zogenoemde natte handtekening uitgereikt aan de vreemdeling, zodat de vreemdeling zo snel mogelijk kan worden doorgezonden naar een huis van bewaring. De maatregel is om 16.30 uur uitgereikt. Vervolgens is de maatregel in het systeem afgesloten met een handtekening om 18.29 uur. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De rechtbank heeft vastgesteld dat in het dossier geen (afschrift van de) aan eiser uitgereikte maatregel, voorzien van een ‘natte’ handtekening, is opgenomen. Verweerder is in de gelegenheid gesteld om, middels een aanvullend proces-verbaal, aan te tonen dat aan eiser een ondertekend exemplaar van de maatregel is uitgereikt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <parablock>
+        <para>In het op 29 juli 2020 geüploade aanvullend proces-verbaal van bevindingen is het volgende gerelateerd: </para>
+        <para>“De maatregel is opgelegd door hulpofficier van justitie, Adjudant onderofficier [naam onderofficier] . […] Collega [naam onderofficier] is met verlof tot 17 augustus 2020. Er is telefonische contact geweest met collega [naam onderofficier] op zijn vakantie adres. Ik, [naam verbalisant] , tevens HOVJ, verklaar u naar aanleiding van dit telefoongesprek dat op 16 juli 2020 collega [naam onderofficier] de maatregel van bewaring op grond van artikel 59b heeft opgelegd aan vreemdeling [eiser] . Collega [naam onderofficier] heeft op 16 juli 2020 om 16:30 de originele maatregel met “natte handtekening “ aan vreemdeling uitgereikt. Hierna is vreemdeling opgehaald vanaf de G-pier en overbracht voor intake naar de Maximakazerne te Badhoevedorp. Collega [naam onderofficier] is vergeten de maatregel met “natte handtekening” te uploaden in het proces van de inbewaringstelling in het systeem VBS (vreemdeling basis systeem). Zodra collega [naam onderofficier] terug is van verlof zal hij dit alsnog toevoegen aan het proces. </para>
+        <para>De werkwijze bij de Marechaussee op Schiphol is dat je pas de processen van de bewaring kunt afsluiten als alles gereed is. In een bewaringproces zitten 13 processtappen. Collega [naam onderofficier] heeft om 18:29:41 uur alle processen afgesloten. Pas dan krijgen alle processen de digitale handtekening en het bijbehorende tijdstip van collega [naam onderofficier] . Alles processen krijgen hetzelfde tijdstip. We kunnen dit niet afzonderlijk digitaal ondertekenen.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <parablock>
+        <para>Naar aanleiding van deze informatie heeft eiser aangevoerd dat volgens artikel 5.3 Vb aan de vreemdeling een afschrift van de maatregel wordt uitgereikt. De opsteller van het aanvullende proces-verbaal verklaart op basis van telefonisch contact met [naam onderofficier] dat hij het origineel van de maatregel aan eiser ter hand heeft gesteld. Dat zou betekenen dat verweerder niet meer beschikt over het origineel waarmee de inbewaringstelling kan worden aangetoond. Verweerder zal dan in ieder geval een kopie hebben gemaakt van de originele maatregel. Hij had tenminste de kopie van de originele maatregel in het dossier van de rechtbank moeten opnemen. Eiser constateert dat verweerder niet alsnog (een kopie van) de originele maatregel heeft geüpload.  </para>
+        <para>Verder wijst eiser er op dat de opsteller van het aanvullend proces-verbaal dit proces-verbaal ambtsedig heeft ondertekend, maar dat dit een verklaring van een derde behelst die niet op ambtseed is afgelegd. In weerwil van het proces-verbaal kan niet worden vastgesteld dat er onvoldoende (de rechtbank leest: voldoende) bewijs is van inbewaringstelling, althans sprake is van een rechtsgeldige inbewaringstelling. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>De rechtbank oordeelt als volgt. </para>
+      <para />
+      <paragroup>
+        <nr>2.5.1</nr>
+        <para>In artikel 5.3, eerste lid, Vb is bepaald dat de maatregel waarbij de bewaring op grond van artikel 59, 59a of 59b Vw wordt opgelegd, wordt gedagtekend en ondertekend en dat de maatregel met redenen wordt omkleed. Aan de vreemdeling op wie de maatregel betrekking heeft, wordt onmiddellijk een afschrift daarvan uitgereikt. De vreemdeling wordt daarbij schriftelijk, in een taal die hij verstaat of waarvan redelijkerwijs kan worden aangenomen dat hij deze verstaat, op de hoogte gebracht van de redenen van bewaring en van de in het nationale recht vastgestelde procedures om het bevel tot bewaring aan te vechten, alsook van de mogelijkheid om gratis rechtsbijstand en vertegenwoordiging aan te vragen.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.5.2</nr>
+        <para>In haar uitspraak van 28 november 2014 (ECLI:NL:RVS:2014:4512) en herhaald in haar uitspraak van 12 juli 2018 (ECLI:NL:RVS:2018:2278) heeft de Afdeling het volgende geoordeeld: “uit artikel 5.3, eerste lid, Vb volgt dat de bewaring niet ingaat dan nadat de maatregel op schrift is gesteld, is ondertekend en aan de vreemdeling is uitgereikt. Tot aan het moment dat de maatregel op schrift is gesteld, is ondertekend en aan de vreemdeling is uitgereikt, is met betrekking tot de vrijheidsontneming van de vreemdeling niet aan deze vereisten voldaan. […] Uit de uitspraak van 20 juli 2001 in zaak nr. 200102749/1 volgt dat een gebrek aan de vrijheidsontneming via welke de vreemdeling in de macht van de tot inbewaringstelling en uitzetting bevoegde autoriteiten is gebracht, de daarop aansluitende bewaring slechts onrechtmatig maakt, indien de daarmee gediende belangen niet in redelijke verhouding staan tot de ernst van het gebrek en de daardoor geschonden belangen”. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.5.3</nr>
+        <parablock>
+          <para>In het bestreden besluit is opgenomen dat de maatregel op 16 juli 2020 om 16.30 uur is opgelegd en dat een afschrift aan eiser is uitgereikt. Om 18.29 uur op diezelfde dag is de maatregel digitaal ondertekend. </para>
+          <para>De rechtbank stelt vast dat verweerder tot op heden geen (afschrift van) de gesteld aan eiser uitgereikte maatregel, voorzien van ‘natte handtekening’, heeft geüpload in het dossier. Verweerder heeft met het aanvullend proces-verbaal naar het oordeel van de rechtbank niet aangetoond dat een (afschrift van) de ondertekende maatregel aan eiser is uitgereikt. Hoewel het aanvullend proces-verbaal op ambtseed is opgemaakt, is hetgeen daarin is gerelateerd geen verklaring uit eigen wetenschap, maar informatie die is verkregen door de opsteller van het proces-verbaal na een telefoongesprek met de verbalisant die de maatregel aan eiser heeft opgelegd. Gelet op de gegevens die in het betreffende aanvullend proces-verbaal zijn vermeld, is de inhoud van dit proces-verbaal onvoldoende om op grond daarvan te kunnen vaststellen dat aan eiser een afschrift van de maatregel, voorzien van een ‘natte handtekening’ is uitgereikt op 16 juli 2020, om 16.30 uur. </para>
+          <para>Verder blijkt niet dat de digitaal ondertekende maatregel op enig moment is uitgereikt aan eiser. Daarom moet worden geoordeeld dat niet aan de vereisten van artikel 5.3, eerste lid, Vb is voldaan, zodat er een gebrek kleeft aan het bestreden besluit. </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>2.5.4</nr>
+        <para>De rechtbank ziet zich vervolgens gesteld voor de vraag of de maatregel, na afweging van alle belangen, onrechtmatig moet worden geacht. Verweerder heeft geen bijzondere of zwaarwegende belangen gesteld die kunnen opwegen tegen de ernst van het geconstateerde gebrek. Reeds hierom moet worden geoordeeld dat de maatregel van meet af aan onrechtmatig is. </para>
+        <para />
+        <parablock>
+          <para>De beroepsgrond slaagt. </para>
+        </parablock>
+        <para />
+        <para>3. Het beroep is gegrond en de maatregel van bewaring was vanaf het moment van opleggen daarvan onrechtmatig. De rechtbank beveelt de opheffing van de maatregel van bewaring met ingang van vandaag.</para>
+        <para />
+        <para>4. De rechtbank acht gronden aanwezig om een schadevergoeding toe te kennen voor 21 dagen onrechtmatige (tenuitvoerlegging van de) vrijheidsontnemende maatregel van 21 x € 80,- (verblijf detentiecentrum) = € 1.680,-.</para>
+        <para />
+        <para>5. De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het indienen van een schriftelijke reactie, met een waarde per punt van € 525,- en een wegingsfactor 1). Omdat aan eiser een toevoeging is verleend, moet verweerder de proceskostenvergoeding betalen aan de rechtsbijstandverlener.</para>
+        <para />
+        <para />
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- beveelt de opheffing van de maatregel van bewaring met ingang van 5 augustus 2020;</para>
+    <para>- veroordeelt de Staat der Nederlanden tot het betalen van een schadevergoeding aan eiser tot een bedrag van € 1.680,-, te betalen door de griffier en beveelt de tenuitvoerlegging van deze schadevergoeding;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiser tot een bedrag van €1.050,-.<?linebreak?></para>
+    <para>Deze uitspraak is gedaan door mr. E.J. van Keken, rechter, in aanwezigheid van mr. drs. S.R.N. Parlevliet, griffier.</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De rechter beveelt de tenuitvoerlegging van deze uitspraak voor het bedrag van de schadevergoeding en draagt de griffier van deze rechtbank, zittingsplaats Haarlem, op aan eiser € 1.680,- uit te betalen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gedaan op 5 augustus 2020, door mr. E.J. van Keken, rechter.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom Covid-19 is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>De uitspraak is bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling Bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

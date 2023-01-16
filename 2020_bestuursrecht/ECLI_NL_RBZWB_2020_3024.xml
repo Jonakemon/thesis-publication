@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:3024</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-28T11:42:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-09</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 19_3539</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:3024">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:3024</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-28T11:38:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:3024 Rechtbank Zeeland-West-Brabant , 09-07-2020 / AWB- 19_3539</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:3024:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>KADAST</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:3024:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Breda</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/3539 KADAST</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 9 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres], te [plaatsnaam], eiseres,</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de bewaarder van het kadaster en de openbare registers, verweerder.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In het besluit van 6 maart 2019 (primair besluit) heeft de bewaarder van het kadaster het verzoek van eiseres om registratie in het kadaster te herstellen afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In het besluit van 3 juni 2019 (bestreden besluit) heeft het kadaster het bezwaar van eiseres tegen het primaire besluit kennelijk ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. </para>
+      <para>De bewaarder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is besproken op de zitting van de rechtbank op 5 juni 2020.</para>
+      <para>Hierbij waren aanwezig eiseres en mr. L.J. Nijmeijer namens de bewaarder. Daarnaast waren [toehoorder1] en [toehoorder2] als toehoorders aanwezig. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiseres is eigenaresse van het pand plaatselijk bekend als [pand1] te Breda en de daarachter gelegen Tramremise, plaatselijk bekend als [pand2]. </para>
+    <para />
+    <parablock>
+      <para>In de leveringsakte van de Tramremise van 5 juni 1992 is de eigendom omschreven als “de werkplaats met ondergrond, gelegen achter het pand [pand1] te Breda met de naast en achter de werkplaats gelegen grond vanaf zeven meter en twintig centimeter vanuit de oostgevel van de werkplaats tot aan de westgrens van na te melden kadastraal perceel, uitmakende een ter plaatse kennelijk afgescheiden gedeelte ter grootte van ongeveer twee aren en twintig centiaren van het perceel kadastraal bekend als gemeente [gemeente] sectie I nummer [sectie nummer]</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Omdat bij deze akte een deel van een perceel is overgedragen, dienden de koper en de verkoper de ligging van de nieuwe grenzen aan de landmeter van het Kadaster aan te wijzen. Op basis van deze aanwijzing is de landmeter in staat de nieuwe kadastrale grenzen op te meten en te verwerken in de Basisregistratie Kadaster en op de kadastrale kaart. Op 11 februari 1993 zijn in het terrein de nieuwe grenzen aan de landmeter aangewezen. Hiervan is een relaas van bevindingen opgemaakt, bestaande uit een deel met administratieve gegevens, en een schets. Op basis van deze aanwijs zijn uiteindelijk de percelen gemeente [gemeente], Sectie I, nummers [sectienummer2] en [sectienummer3] gevormd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Tramremise ligt op het perceel met nummer [sectienummer2]. Het perceel met nummer [sectienummer3] maakt onderdeel uit van het adres [adres].</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 28 december 2018 heeft eiseres het Kadaster benaderd met klachten over inmetingen rondom de Tramremise die volgens eiseres onjuist en onzorgvuldig zijn uitgevoerd. Eiseres heeft daarbij onder meer gewezen op de aanwijs in 1993. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De bewaarder van het kadaster heeft de brief van eiseres begrepen als een verzoek om op grond van artikel 7t van de Kadasterwet de registratie in het kadaster te herstellen. De bewaarder heeft het verzoek bij het primaire besluit afgewezen omdat er geen sprake is van een onjuiste bijhouding van de Basisregistratie Kadaster. De gegevens op de kadastrale kaart komen overeen met de gegevens op het relaas van bevindingen, aldus de bewaarder.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft bezwaar gemaakt tegen het primaire besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij het bestreden besluit heeft de bewaarder van het kadaster het bezwaar van eiseres kennelijk ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <para>2. Voordat de rechtbank kan toekomen aan een inhoudelijke beoordeling van het beroep, moet de rechtbank eerst ambtshalve beoordelen of het beroep ontvankelijk is. Een beroep is niet ontvankelijk, wanneer het procesbelang daarbij voor de eiser ontbreekt. </para>
+    <para />
+    <parablock>
+      <para>Volgens vaste jurisprudentie is slechts sprake van voldoende procesbelang bij een beroep, wanneer het resultaat dat de indiener van het beroepschrift met het instellen van beroep nastreeft, ook daadwerkelijk kan worden bereikt en het resultaat voor deze indiener feitelijk betekenis kan hebben. </para>
+    </parablock>
+    <para />
+    <para>3. De rechtbank is van oordeel dat datgene wat eiseres met haar beroep wil bereiken, niet daadwerkelijk kan worden bereikt en overweegt daartoe als volgt.</para>
+    <para />
+    <parablock>
+      <para>Eiseres heeft zich in het bezwaar- en beroepschrift op het standpunt gesteld dat de kadastrale grens destijds tijdens de aanwijs juist is aangewezen, maar dat de landmeter de grens vervolgens verkeerd heeft weergegeven in de situatieschets behorend bij het relaas van bevindingen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ter zitting heeft eiseres nadrukkelijk verklaard dat zij de aanwijs en de kadastrale grens niet wil veranderen. Zij heeft bevestigd dat zij het daarmee eens is. Eiseres is het niet eens met de weergave van de administratieve gegevens, door eiseres “het relaas van bevindingen” genoemd. Volgens eiseres ontbreken relevante feiten en omstandigheden. Zo heeft de landmeter ten onrechte niet vermeld waarom eiseres met het plaatsen van de schutting is afgeweken van de eigendomsgrens en heeft de landmeter ook niet opgenomen dat eiseres heeft verklaard dat zij niet wilde dat zij als gevolg van de locatie van de schutting grond zou kwijtraken. Daarnaast had de informatie uit de leveringsakte vermeld moeten worden. Tot slot is ten onrechte niet vermeld dat ook eiseres aanwezig is geweest bij een groot deel van de aanwijs. Eiseres wil dat deze informatie alsnog wordt opgenomen in de administratieve gegevens.</para>
+      <para>Naar het oordeel van de rechtbank is het juridisch gezien niet mogelijk de administratieve gegevens in het relaas van bevindingen van 11 februari 1993 aan te vullen, zodat eiseres met het beroep niet kan bereiken wat zij wil bereiken. Niet in geschil is dat eiseres destijds bezwaar had kunnen maken tegen de bijwerking van de kadastrale gegevens. Hoewel eiseres heeft gesteld dat zij bezwaar heeft gemaakt, is de bewaarder daarmee niet bekend, en is eiseres er niet in geslaagd aannemelijk te maken dat zij (tijdig) bezwaar heeft gemaakt. De rechtbank neemt daarom aan dat de bijwerking van de kadastrale gegevens vast is komen te staan. Onder die omstandigheden kunnen de administratieve gegevens neergelegd in het relaas van bevindingen niet meer ter discussie staan. De rechtbank wijst op de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 11 april 2018 (kenmerk ECLI:NL:RVS:2018:1195). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank overweegt ten overvloede dat, ook gelet op de toelichting ter zitting, het verzoek van eiseres om de administratieve gegevens aan te vullen voortkomt uit een geschil met de eigenaar van het aangrenzende perceel [adres] over de vraag wie de eigenaar is van een strook grond. Zij verschillen van mening over de vraag naar de juridische grens tussen hun percelen. Aanvulling van de gegevens met de door eiseres gewenste gegevens kan echter niet leiden tot duidelijkheid over de juridische eigendomsgrens. De aanwijs heeft uitsluitend betrekking op het vastleggen van kadastrale grenzen. Dit betekent dat zelfs als de administratieve gegevens nog zouden kunnen worden aangevuld, in deze procedure de (civielrechtelijke) vraag naar de eigendom van de strook grond niet had kunnen worden beantwoord. Daarvoor dient eiseres zich tot de civiele rechter te wenden.</para>
+    </parablock>
+    <para />
+    <para>4. Omdat eiseres met het beroep niet daadwerkelijk kan bereiken, wat zij daarmee wil bereiken, heeft eiseres naar het oordeel van de rechtbank geen procesbelang bij het beroep. </para>
+    <para />
+    <parablock>
+      <para>De rechtbank zal het beroep daarom niet-ontvankelijk verklaren. De rechtbank komt niet toe aan een inhoudelijke beoordeling van het beroep.</para>
+    </parablock>
+    <para />
+    <para>5. Er is geen reden voor een proceskostenveroordeling. </para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep niet-ontvankelijk.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.A. Karsten-Badal, rechter, in aanwezigheid van </para>
+      <para>mr. W.J.C. Goorden, griffier, op 9 juli 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. De griffier is niet in de gelegenheid de uitspraak (mede) te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

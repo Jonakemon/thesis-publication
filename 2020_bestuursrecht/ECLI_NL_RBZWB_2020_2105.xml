@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:2105</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-14T11:41:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 4335</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Breda</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2105">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:2105</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-11T11:46:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:2105 Rechtbank Zeeland-West-Brabant , 08-05-2020 / AWB - 19 _ 4335</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:2105:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>GEMWT</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:2105:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para>Zittingsplaats Breda</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 19/4335 GEMWT</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 8 mei 2020 in de zaak tussen</bridgehead>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [eiser1] en [eiser2] , te [plaatsnaam] , eisers,</bridgehead>
+    <para>gemachtigde: mr. W. Krijger,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Loon op Zand, </emphasis>verweerder.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen:</para>
+      <para>
+        <emphasis role="bold">
+          [naam belanghebbende]
+        </emphasis>, huurder van de bedrijfswoning [adres] te [plaatsnaam] .</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In het besluit van 19 februari 2019 (primaire besluit) heeft het college een last onder dwangsom opgelegd aan eisers vanwege het als burgerwoning bewonen van de bedrijfswoning behorend bij het agrarisch bedrijf aan de [adres] in [plaatsnaam] .</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In het besluit van 2 juli 2019 (bestreden besluit) heeft het college het bezwaar van eisers tegen het primaire besluit ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 18 oktober 2019 hebben eisers de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In een uitspraak van 20 november 2019 heeft de voorzieningenrechter het verzoek om een voorlopige voorziening toegewezen en het bestreden en primaire besluit geschorst tot </para>
+      <para>17 december 2019 (BRE 19/5318 VV).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is besproken op de zitting van de rechtbank op 17 december 2019.</para>
+      <para>Hierbij waren aanwezig eiser [eiser2] met zijn gemachtigde mr. Krijger, die blijkens een ter zitting overgelegde machtiging tevens optreedt als gemachtigde van de derde partij. Namens het college is mr. N.J.P. Scheek verschenen. Ter zitting is het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In een beslissing van 28 januari 2020 heeft de rechtbank het onderzoek heropend en bepaald dat H. Gerlings van de Adviescommissie Agrarische Bouwaanvragen (AAB) als deskundige onderzoek zal verrichten en daarvan schriftelijk verslag zal uitbrengen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 27 februari 2020 heeft de rechtbank het schriftelijke verslag van de deskundige gedateerd 20 februari 2020 ontvangen. Op 26 maart 2020 is dit verslag ter kennisname doorgestuurd aan partijen. Op 23 april 2020 heeft de rechtbank het onderzoek (opnieuw) gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1.	<emphasis role="italic">Feiten</emphasis></para>
+    <para />
+    <parablock>
+      <para>
+        [eiser1] exploiteert twee intensieve veehouderijbedrijven in [plaatsnaam] . [eiser2] is directeur-groot aandeelhouder en bewoont de bedrijfswoning van het bedrijf aan [adres2] in [plaatsnaam] . De bedrijfswoning van het bedrijf aan de [adres] werd bewoond door de broer van [eiser2] . Vijf jaar geleden is deze broer overleden, waarna de bedrijfswoning leeg kwam te staan. Het is eisers niet gelukt om de bedrijfswoning te verhuren aan iemand die op het bedrijf werkzaam is. De woning wordt daarom inmiddels (sinds mei 2017) bewoond door [naam belanghebbende] . [naam belanghebbende] heeft een webshop die hij vanuit huis beheert. Bij het aangaan van de huur zijn partijen een lagere huur overeengekomen in ruil voor het houden van toezicht op de bedrijfslocatie. Op die locatie aan de [adres] worden ongeveer 177.000 vleeskuikens gehouden, alsmede ongeveer 100 zoogkoeien en jongvee. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tijdens een controle op 14 augustus 2018 is door een gemeentelijke toezichthouder geconstateerd dat de bedrijfswoning op het perceel [adres] te [plaatsnaam] wordt bewoond door [naam belanghebbende] en zijn gezin. Geen van de gezinsleden heeft een binding met het ter plaatse gevestigde agrarische bedrijf van [eiser1] , aldus de toezichthouder. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit heeft geleid tot het voornemen van 13 november 2018 van het college om [eiser1] te gelasten om dit met het bestemmingsplan strijdig gebruik te staken. Tegen dit voornemen hebben eisers op 7 december 2018 hun zienswijze ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij het primaire besluit van 19 februari 2019 heeft het college, onder weerlegging van de zienswijze, [eiser1] gelast om de burgerbewoning van de bedrijfswoning te beëindigen en beëindigd te houden. Daarbij is aangezegd dat een dwangsom wordt verbeurd van € 1.500,- per week dat niet aan de last wordt voldaan, tot een maximum van </para>
+      <para>€ 15.000,-. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben bezwaar gemaakt tegen dit besluit. Op 15 april 2019 heeft een hoorzitting plaatsgevonden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij het bestreden besluit heeft het college het bezwaar van eisers ongegrond verklaard. Daarbij heeft het college de begunstigingstermijn verlengd tot 16 weken na verzending van dit besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De begunstigingstermijn eindigde op 23 oktober 2019. Op 21 oktober 2019 hebben eisers een verzoek om voorlopige voorziening ingediend. Om te voorkomen dat eisers al dwangsommen gaan verbeuren is tussen partijen de afspraak gemaakt dat de toezichthouder niet ter plaatse gaat controleren totdat de voorzieningenrechter uitspraak heeft gedaan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In een uitspraak van 20 november 2019 heeft de voorzieningenrechter het verzoek om een voorlopige voorziening toegewezen en het bestreden en primaire besluit geschorst tot </para>
+      <para>17 december 2019 (BRE 19/5318 VV).</para>
+    </parablock>
+    <para />
+    <para>2. 		<emphasis role="italic">Beroepsgronden</emphasis></para>
+    <para />
+    <parablock>
+      <para>Eisers stellen primair dat het college niet bevoegd is om tot handhaving over te gaan omdat geen sprake is van strijd met het bestemmingsplan. Daarnaast hebben eisers – samengevat – aangevoerd dat het handhavend optreden in dit geval willekeurig en in strijd met het gelijkheidsbeginsel is. Tot slot stellen eisers dat de begunstigingstermijn te kort is.</para>
+    </parablock>
+    <para />
+    <para>3.	<emphasis role="italic">Wettelijk kader </emphasis></para>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 125, eerste lid, van de Gemeentewet is het gemeentebestuur</para>
+      <para>bevoegd tot oplegging van een last onder bestuursdwang. Op grond van het tweede lid wordt deze bevoegdheid uitgeoefend door het college, indien de last dient tot handhaving van regels welke het gemeentebestuur uitvoert.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5:32, eerste lid, van de Algemene wet bestuursrecht (Awb) bepaalt dat een bestuursorgaan dat bevoegd is een last onder bestuursdwang op te leggen, in de plaats daarvan aan de overtreder een last onder dwangsom kan opleggen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2.1, eerste lid, aanhef en onder c, van de Wet algemene bepalingen omgevingsrecht (Wabo) bepaalt, voor zover hier van belang, dat het verboden is om zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan.</para>
+    </parablock>
+    <para />
+    <para>4.	<emphasis role="italic">Bestemmingsplan</emphasis></para>
+    <para />
+    <parablock>
+      <para>Op grond van het ter plaatse geldende bestemmingsplan “Buitengebied 2011” heeft het perceel van eisers de enkelbestemming ‘agrarisch’, met de functieaanduiding “intensieve veehouderij”. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 3.1 van het bestemmingsplan zijn de voor ‘agrarisch’ aangewezen gronden, voor zover hier van belang, bestemd voor:</para>
+    </parablock>
+    <para>a. een agrarische bedrijfsuitoefening, in de vorm van agrarische bodemexploitatie met bijbehorende voorzieningen;</para>
+    <para>(..)</para>
+    <para>c. één bedrijfswoning waarbij geldt dat:</para>
+    <para>1. ter plaatse van de aanduiding “bedrijfswoning uitgesloten” geen bedrijfswoningen zijn toegestaan;</para>
+    <para>2. ter plaatse van de aanduiding “maximum aantal wooneenheden” het aantal bedrijfswoningen niet meer bedraagt dan is aangegeven;</para>
+    <para>(..)</para>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 1 van het bestemmingsplan wordt onder ‘bedrijfswoning/dienstwoning’ verstaan: een woning in of bij een gebouw of op een terrein, kennelijk slechts bedoeld voor (het huishouden van) een persoon, wiens huisvesting daar gelet op de bedrijfsvoering van het gebouw of het terrein noodzakelijk is. </para>
+    </parablock>
+    <para />
+    <para>5.	<emphasis role="italic">Beoordeling</emphasis></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">strijd met het bestemmingsplan</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Eisers hebben zich allereerst op het standpunt gesteld dat geen sprake is van strijd met het bestemmingsplan omdat het bewonen van de bedrijfswoning door [naam belanghebbende] noodzakelijk is gelet op de bedrijfsvoering van het gebouw en het terrein zoals bedoeld in artikel 1 van het bestemmingsplan.</para>
+      <para />
+      <parablock>
+        <para>Eisers stellen – samengevat – dat de aanwezigheid van [naam belanghebbende] noodzakelijk is vanwege de dieren, bijvoorbeeld voor het signaleren van een stroomstoring of een storing van het computergestuurde alarmsysteem. Daarnaast is de aanwezigheid van [naam belanghebbende] volgens eisers nodig om te voorkomen dat er criminele activiteiten plaatsvinden op het terrein. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In de brief van 4 december 2019 hebben eisers aangegeven dat [eiser1] een overeenkomst van opdracht is aangegaan met [naam belanghebbende] met ingangsdatum 15 november 2019. Op basis van deze overeenkomst is [naam belanghebbende] verplicht voor de duur van de overeenkomst (één jaar met de mogelijkheid tot verlengen) de navolgende werkzaamheden te verrichten: het houden van toezicht op en het handelen in geval van calamiteiten terzake van de agrarische bedrijfsvoering, agrarische bedrijfsgebouwen en toebehoren aanwezig op de locatie [adres] te [plaatsnaam] vanuit de bedrijfswoning behorende bij het betreffende bedrijf. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Het college heeft zich op het standpunt gesteld dat de huisvesting van [naam belanghebbende] in de bedrijfswoning, gelet op de agrarische bedrijfsvoering van het gebouw of het terrein, niet noodzakelijk is zoals bedoeld in artikel 1 van het bestemmingsplan. Voormelde overeenkomst van opdracht verandert daar volgens het college niets aan. Het college voert aan dat [naam belanghebbende] niet werkzaam is op het agrarische bedrijf en ook geen relatie heeft met de agrarische bedrijfsvoering. Ook betwist het college dat de aanwezigheid van [naam belanghebbende] noodzakelijk is ter voorkoming van criminele activiteiten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Om het geschil tussen partijen op dit punt te beslechten heeft de rechtbank besloten een deskundige in te schakelen. De rechtbank heeft de heer H. Gerlings van de AAB benoemd als deskundige en hem verzocht de volgende vraag te beantwoorden:</para>
+      <para />
+      <parablock>
+        <para>“Is het bewonen van de bedrijfswoning behorende bij het agrarische bedrijf aan de [adres] in [plaatsnaam] door de heer [naam belanghebbende] noodzakelijk gelet op de bedrijfsvoering van het gebouw of het terrein zoals bedoeld in artikel 1 van het ter plaatse geldende bestemmingsplan “Buitengebied 2011”?</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>De deskundige komt in zijn schriftelijke verslag tot de conclusie dat de aanwezigheid van [naam belanghebbende] aan de [adres] niet noodzakelijk is vanuit de optiek van de agrarische bedrijfsvoering.</para>
+      <para />
+      <parablock>
+        <para>Daartoe overweegt de deskundige dat [naam belanghebbende] niet werkzaam is op dit bedrijf en dat zijn rol hoofdzakelijk is het middels mobiele telefonie als back-up functioneren voor het geval de vaste telefoonlijn niet goed werkt. Nog afgezien van het gegeven dat een dergelijke wijze van alarmering afhankelijk is van de aanwezigheid van [naam belanghebbende] aan de [adres] , vervult [naam belanghebbende] geen rol bij het verhelpen van storingen. Hij functioneert enkel als doorgeefluik van berichten. Hij is niet werkzaam op het bedrijf en vanuit dien hoofde bekend met de aanwezige regelapparatuur, de wijze waarop deze dient te worden ingesteld om tot een goede werking van ventilatie- en voerapparatuur te komen, en hetgeen vereist is voor een goede verzorging van de vleeskuikens. De marginale rol van [naam belanghebbende] voor de bedrijfsvoering maakt dat de deskundige van oordeel is dat de noodzaak voor [naam belanghebbende] om de bedrijfswoning aan de [adres] te bewonen ontbreekt. Het verzorgen van een tweede alarmmelding kan daarbij eenvoudig worden geautomatiseerd en is dan niet afhankelijk van de aanwezigheid van [naam belanghebbende] aan de [adres] .</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <parablock>
+        <para>De rechtbank is van oordeel dat de deskundige op zorgvuldige wijze tot zijn standpunt is gekomen en zal het oordeel dat de aanwezigheid van [naam belanghebbende] niet noodzakelijk is voor de agrarische bedrijfsvoering dan ook overnemen en tot het hare maken. </para>
+        <para>Dat de aanwezigheid van [naam belanghebbende] noodzakelijk is ter voorkoming van criminele activiteiten is naar het oordeel van de rechtbank ook onvoldoende gebleken. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het voorgaande leidt tot de conclusie dat het bewonen van de bedrijfswoning door [naam belanghebbende] in strijd is met het bestemmingsplan, zodat het college in beginsel bevoegd was om handhavend op te treden. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">handhavend optreden</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6</nr>
+      <para>Volgens vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (AbRS) (bijvoorbeeld de uitspraak van 2 juli 2014, ECLI:NL:RVS:2014:2445) moet het bestuursorgaan in beginsel handhavend optreden tegen de overtreding van een wettelijk voorschrift, gelet op het algemeen belang dat met handhaving is gediend. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisatie bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen, dat van optreden in die concrete situatie behoort te worden afgezien.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.7</nr>
+      <para>Eisers hebben hun aanvankelijke standpunt dat sprake was van zicht op legalisatie ingetrokken toen uit onderzoek bleek dat niet aan artikel 5.2 van de Wet milieubeheer kon worden voldaan. Niet (langer) in geschil is dat daardoor niet kan worden voldaan aan de voorwaarden voor het omzetten van een bedrijfswoning naar een plattelandswoning, zodat geen zicht op legalisatie bestaat.  </para>
+      <para />
+      <parablock>
+        <para>Dat handhavend optreden in dit geval zodanig onevenredig is in verhouding tot de daarmee te dienen belangen dat van optreden had behoren te worden afgezien, is naar het oordeel van de rechtbank niet gebleken. Het college is dus gehouden om handhavend op te treden tegen deze overtreding.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.8</nr>
+      <para>De stelling van eisers dat onduidelijk is of het college zijn handhavingsbeleid, dat is neergelegd in de beleidsnota “Handhaving in de fysieke leefomgeving 2016-2019” en het “Uitvoeringsprogramma uitvoering en handhaving in de fysieke leefomgeving 2019”, ook daadwerkelijk conform dat beleid uitvoert, kan niet tot een ander oordeel leiden. </para>
+      <para />
+      <parablock>
+        <para>De rechtbank overweegt dat uit het beleid volgt dat de prioriteit van handhaving van “strijdig gebruik woonbestemming (illegale activiteiten)” hoog is en dat het toezicht daarop projectmatig zal plaatsvinden. Volgens het college volgde de controle van de bedrijfswoning aan de [adres] uit dit handhavingsbeleid, in combinatie met een verhuuradvertentie met betrekking tot de bedrijfswoning van begin 2017 en informatie uit het bedrijvenbestand en de Basisregistratie personen. Het college heeft gesteld dat er op 14 augustus 2018 veertien controles hebben plaatsgevonden, waarvan vier betrekking hadden op illegale bewoning van bedrijfswoningen. De rechtbank heeft geen aanleiding om hieraan te twijfelen. Mogelijk zijn er in de omgeving van Loon op Zand meer vergelijkbare gevallen van illegale bewoning van bedrijfswoningen waarin (nog) niet handhavend is opgetreden. Dat niet in alle gevallen onmiddellijk wordt opgetreden, maar daartoe gefaseerd wordt overgegaan, brengt echter niet mee dat sprake is van willekeur (zie bijvoorbeeld AbRS 28 november 2012, ECLI:NL:RVS:2012:BY4415). </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ook de omstandigheid dat het college via de Basisregistratie personen al langer op de hoogte was (of had kunnen zijn) van de bewoning van de bedrijfswoning door [naam belanghebbende] staat niet aan handhaving in de weg.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">gelijkheidsbeginsel </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.9</nr>
+      <para>Voor zover eisers met hun stellingen hebben bedoeld een beroep te doen op het gelijkheidsbeginsel is dit naar het oordeel van de rechtbank onvoldoende onderbouwd. Eisers hebben immers geen concrete vergelijkbare gevallen genoemd.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">begunstigingstermijn</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.10</nr>
+      <para>De rechtbank volgt eisers niet in de stelling dat de geboden begunstigingstermijn te kort was. Volgens vaste jurisprudentie van de AbRS dient een begunstigingstermijn er slechts toe dat de overtreder in de gelegenheid wordt gesteld de last uit te voeren zonder dat een dwangsom wordt verbeurd (ECLI:NL:RVS:2014:2303). De hier geboden begunstigingstermijn van ruim 8 maanden (19 februari 2019 tot (16 weken na 2 juli 2019 =) 23 oktober 2019) was naar het oordeel van de rechtbank toereikend om aan de last te kunnen voldoen. </para>
+      <para />
+      <parablock>
+        <para>Daarbij heeft het college op 17 december 2019 ter zitting toegezegd dat het gebruik van de bedrijfswoning niet zou worden gecontroleerd totdat de rechtbank einduitspraak heeft gedaan. De begunstigingstermijn is daarmee feitelijk verlengd tot de datum van deze uitspraak. Eisers hebben dus ruim voldoende tijd gehad om de strijdige situatie te beëindigen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	<emphasis role="italic">Conclusie</emphasis></para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het beroep is ongegrond.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Er is geen reden voor een proceskostenveroordeling. </para>
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. V.E.H.G. Visser, rechter, in aanwezigheid van </para>
+      <para>mr. C.F.E.M. Mes, griffier, op 8 mei 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De griffier is niet in de gelegenheid de uitspraak (mede) te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

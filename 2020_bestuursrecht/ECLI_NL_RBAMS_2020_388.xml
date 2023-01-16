@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:388</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-10T15:19:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 1250</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:388">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:388</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-10T15:18:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:388 Rechtbank Amsterdam , 24-01-2020 / AWB - 19 _ 1250</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:388:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WOZ-waarde 3 woningen. Overdrachtsfictie, woningen zijn niet gesplitst. Overdrachtsfictie in artikel 17, tweede lid, van de Wet WOZ is niet in strijd met artikel 1 van het EP bij EVRM. De heffingsambtenaar heeft de WOZ-waarde van de woningen voldoende aannemelijk gemaakt. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:388:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/1250 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 24 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eisers] , beiden te Amsterdam, eisers</bridgehead>
+    <para>(gemachtigde: mr. R.L.R. Hennuin),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de heffingsambtenaar van de gemeente Amsterdam, </bridgehead>
+    <para>(gemachtigde: A. van Beek).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>De heffingsambtenaar heeft in de beschikking van 28 februari 2018 de WOZ-waardes van de onroerende zaken [straat] 74-H (+1ste verdieping), 74-2 en 74-3 te Amsterdam (hierna ook: de woningen) voor het kalenderjaar 2018 vastgesteld op respectievelijk € 557.000,-, € 339.000,- en € 354.000,-. In hetzelfde document heeft de heffingsambtenaar ook de aanslag onroerende zaakbelasting 2018 bekendgemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben hiertegen bezwaar gemaakt. In de uitspraak op bezwaar van 18 januari 2019 (de bestreden uitspraak) heeft de heffingsambtenaar het bezwaar gegrond verklaard en de WOZ-waarde van [straat] 74-3 verlaagd naar € 339.000,- en de aanslag in verband met de verlaging verminderd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen de bestreden uitspraak beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De heffingsambtenaar heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op de zitting van 16 januari 2020. Eiseres hebben zich laten vertegenwoordigen door hun gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, vergezeld door [naam 1] , taxateur.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De aanleiding voor deze procedure</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eisers zijn eigenaar van de woningen. De woningen zijn niet gesplitst. De woning [straat] 74-H (hierna: de woning 74-H) is gelegen op de begane grond en de eerste verdieping en heeft een tuin en een berging. De oppervlakte van woning 74-H is ongeveer 102 m² en de oppervlakte van de tuin is 33 m². De woningen [straat] 74-2 en 74-3 (hierna: de woning 74-2 en de woning 74-3) zijn bovenwoningen. De woonoppervlakte van elk van deze woningen is ongeveer 51 m² en daarnaast is er een secundair woongedeelte van 14 m².  De woningen 74-H en 74-2 worden door eisers zelf bewoond. De woning 74-3 is verhuurd. </para>
+    <para />
+    <para>2. Partijen zijn het niet eens over de hoogte van de WOZ-waarde van de drie woningen. De waardepeildatum is in dit geval 1 januari 2017. Bepalend is de staat waarin de woningen op die datum verkeren.<footnote-ref linkend="_68e3b7ce-2a8c-4b0f-9276-8c42caeebb5c" /></para>
+    <para />
+    <para>3. Eisers vinden dat de heffingsambtenaar de WOZ-waarde van de woningen te hoog heeft vastgesteld. </para>
+    <para />
+    <para>4. De heffingsambtenaar vindt dat hij de waarde niet te hoog heeft vastgesteld. Hij heeft ter onderbouwing een taxatierapport ingediend. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wat vindt de rechtbank van deze zaak?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. De waarde die moet worden vastgesteld is de waarde in het economische verkeer. Dat is de prijs die zou zijn betaald door de meest biedende koper als de woning op de meest geschikte wijze en na de beste voorbereiding te koop is aangeboden.<footnote-ref linkend="_47e427c6-c1b2-4eb9-a35d-96746ecb2679" /> De heffingsambtenaar moet aannemelijk maken dat hij de waarde niet te hoog heeft vastgesteld. </para>
+    <para />
+    <para>6. Op de zitting is gebleken dat de objectafbakening niet in geschil is. Zo heeft de gemachtigde van eisers verklaard dat zij het met de heffingsambtenaar eens is dat ingevolge de Wet WOZ sprake is van drie onroerende zaken. Met partijen is de rechtbank van oordeel dat de heffingsambtenaar terecht een afzonderlijke WOZ-waarde heeft bepaald voor elk van de drie woningen.</para>
+    <para />
+    <para>7. Om te beoordelen of de heffingsambtenaar aannemelijk heeft gemaakt dat hij de WOZ-waarde van de woningen niet te hoog heeft vastgesteld, moet de rechtbank de volgende vragen beantwoorden:</para>
+    <parablock>
+      <para>1. Zijn de vergelijkingsobjecten voldoende vergelijkbaar met de woningen van eisers?</para>
+      <para>2. Zo ja, heeft de heffingsambtenaar voldoende rekening gehouden met de verschillen tussen de vergelijkingsobjecten en de woningen?</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Zijn de vergelijkingsobjecten voldoende vergelijkbaar?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>8. De heffingsambtenaar heeft ter onderbouwing van de vastgestelde WOZ-waardes overzichten taxatiewaarden ingediend. Die overzichten bevatten gegevens en recente verkoopcijfers van andere woningen (de vergelijkingsobjecten). Uit de overzichten volgt dat de woningen van eisers zijn vergeleken met verkochte woningen in dezelfde buurt. De taxateur heeft de woning 74-H vergeleken met verkopen van benedenwoningen. Verder heeft de taxateur de woningen 74-2 en 74-3 vergeleken met verkopen van bovenwoningen. </para>
+    <para />
+    <para>9. De rechtbank vindt de gehanteerde vergelijkingsobjecten, gelet op het geheel van kenmerken, voldoende vergelijkbaar met de woningen van eisers. Verder liggen de transactie-data van de vergelijkingsobjecten voldoende dicht bij de waardepeildatum. De verschillen tussen de woningen en de vergelijkingsobjecten zijn niet zo groot dat de vergelijkingsobjecten in het geheel niet bruikbaar zijn. De verkoopprijzen van de vergelijkingsobjecten zijn daarom een goed uitgangspunt bij het bepalen van de waardes van de woningen. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Heeft de heffingsambtenaar voldoende rekening gehouden met de verschillen?  </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>- De verschillen ten aanzien van niet gesplitst zijn en verhuurd zijn</para>
+    <para />
+    <para>10. Eisers hebben erop gewezen dat de woningen, anders dan de vergelijkingsobjecten, niet gesplitst zijn en dat het pand [straat] 74 uitsluitend in zijn geheel kan worden verkocht. Eisers realiseren zich dat op grond van de Wet WOZ bepaalde ficties worden gehanteerd om tot een waardevaststelling te komen, maar deze ficties mogen er volgens eisers niet toe leiden dat dit resulteert in niet realiseerbare fictieve meerwaardes. De som van de drie WOZ-waardes mag daarom niet meer bedragen dan de verkoopwaarde van het gehele pand (leeg), dan wel dient rekening te worden gehouden met te maken splitsingskosten. </para>
+    <para />
+    <para>11. De rechtbank overweegt dat de waarde van de woningen op grond van artikel 17, tweede lid, van de Wet WOZ moet worden vastgesteld alsof de woningen afzonderlijk overdraagbaar zijn. De omstandigheid dat de woningen niet gesplitst zijn, is voor de waardering op grond van de Wet WOZ dus geen relevant verschil ten opzichte van de vergelijkingsobjecten. Dit betekent ook dat de woningen van eisers elk afzonderlijk moeten worden gewaardeerd. De door eisers voorgestane benadering, dat de som van de drie WOZ-waardes niet meer zou mogen bedragen dan de verkoopwaarde van het gehele pand (leeg), miskent de wettelijke systematiek en de waarderingsficties. Voor die benadering van eisers is ook in de jurisprudentie geen steun te vinden. Datzelfde geldt voor te maken splitsingskosten.</para>
+    <para />
+    <para>12. Verder hebben eisers betoogd dat rekening moet worden gehouden met een leegwaarderatio voor de woning 74-3, omdat deze is verhuurd aan een scheefwoner. </para>
+    <para />
+    <para>13. Met de omstandigheid dat de woning 74-3 is verhuurd, wordt geen rekening gehouden bij de waardevaststelling in het kader van de Wet WOZ. De rechtbank verwijst ook in dit verband naar de in artikel 17 van de Wet WOZ opgenomen waarderingsficties. In het kader van de Wet WOZ is geen ruimte voor toepassing van een leegwaarderatio. Dat een leegwaarderatio mogelijk in het kader van de Inkomstenbelasting en/of de Successiewet kan worden toegepast, betekent niet dat die ook in het kader van de Wet WOZ kan worden toegepast. De toetssteen in het kader van de Wet WOZ blijft de waarde zoals omschreven in artikel 17, tweede lid, van de Wet WOZ.</para>
+    <para />
+    <para>14. Eisers hebben in dit verband ten slotte aangevoerd dat de wijze waarop de heffingsambtenaar de woningen heeft gewaardeerd in strijd is met hun eigendomsrecht. Door het hanteren van de ficties wordt belasting geheven over fictieve meerwaardes. Dat pakt ongunstig uit, omdat de WOZ-waardering ook wordt gebruikt als grondslag voor andere belastingen, aldus eisers. </para>
+    <para />
+    <para>15. Voor zover eisers hiermee een beroep hebben willen doen op bescherming van eigendom, zoals neergelegd in artikel 1 van het Eerste Protocol bij het EVRM is de rechtbank van oordeel dat dit beroep niet kan leiden tot een lagere waardering van de woningen. De bescherming van het eigendomsrecht neemt niet weg dat een Staat onder voorwaarden belasting mag heffen. Een op de wet gebaseerde belastingheffing, zoals hier aan de orde in de vorm van de aanslag onroerende zaakbelasting, is een toegestane inbreuk op het eigendomsrecht, mits de belastingheffing niet excessief is. Naar het oordeel van de rechtbank kan niet worden gezegd dat de WOZ-waarderingen van de woningen van eisers in dit geval leiden tot buitengewone of disproportionele belastingheffing.  </para>
+    <para />
+    <para>- De verschillen in onderhoud en kwaliteit</para>
+    <para />
+    <para>16. Eisers vinden dat onvoldoende rekening is gehouden met de verschillen in onderhoud en kwaliteit van de woningen enerzijds en de vergelijkingsobjecten anderzijds. De vergelijkingsobjecten verkeren volgens eisers zowel bouwkundig als qua onderhoudstaat in een veel betere staat. Eisers hebben verwezen naar een kostenraming van ing. [naam 2] waarin de kosten van groot onderhoud/renovatie ten behoeve van splitsing zijn opgenomen. Die kosten moeten volgens eisers in mindering strekken op de WOZ-waardes van de woningen.</para>
+    <para />
+    <para>17. Niet in geschil is dat kwaliteit en onderhoud van de woningen van eisers beduidend minder zijn dan kwaliteit en onderhoud van de vergelijkingsobjecten. Dat verschil is in de overzichten taxatiewaarden ook tot uitdrukking gebracht. Zo heeft de heffingsambtenaar de kwaliteit en onderhoud van de woning 74-H gekwalificeerd als matig, terwijl kwaliteit en onderhoud van de voor die woning gebruikte vergelijkingsobjecten als gemiddeld of goed is gewaardeerd. Kwaliteit en onderhoud van de woningen 74-2 en 74-3 zijn door de heffingsambtenaar aangemerkt als matig en slecht, terwijl die aspecten bij de voor die woningen gehanteerde vergelijkingsobjecten zijn aangemerkt als gemiddeld of goed.</para>
+    <para />
+    <para>18. Voor die verschillen in kwaliteit en onderhoud tussen de woningen van eisers en de vergelijkingsobjecten, heeft de heffingsambtenaar in de eerste plaats rekening gehouden door ook te kijken naar zogeheten geneutraliseerde m²-prijzen. Hierbij zijn de gerealiseerde m²-prijzen van de woningdelen van de vergelijkingsobjecten, voor zover de staat van kwaliteit en onderhoud beter is dan gemiddeld, gecorrigeerd met als uitgangspunt een gemiddelde staat van kwaliteit en onderhoud. In dit geval is die gemiddelde, geneutraliseerde m²-prijs van de vergelijkingsobjecten ongeveer 10% lager dan de gemiddelde, ongecorrigeerde m²-prijs. In zoverre is dus al deels rekening gehouden met verschillen in kwaliteit en onderhoud.</para>
+    <para />
+    <para>19. In de tweede plaats heeft de heffingsambtenaar rekening gehouden met de verdere verschillen in kwaliteit en onderhoud door voor de woning van eisers (aanzienlijk) lagere m²-prijzen te hanteren dan de gemiddelde, geneutraliseerde m²-prijs van de vergelijkingsobjecten. Concreet heeft de taxateur de volgende bedragen per m² gehanteerd: </para>
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>prijs per m2 woningdeel van de woningen</para>
+            </entry>
+            <entry>
+              <para>gemiddelde geneutraliseerde prijs per m² woningdeel van de vergelijkingsobjecten </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>74-H      € 5.235</para>
+            </entry>
+            <entry>
+              <para>€ 6.449 </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>74-2       € 5.612</para>
+            </entry>
+            <entry>
+              <para>€ 7.187 </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>74-3       € 5.612</para>
+            </entry>
+            <entry>
+              <para>€ 7.187 </para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para>20. Concreet betekent dit voor de woning 74-H een verschil van € 1.214,- per m² ten opzichte van de gemiddelde, geneutraliseerde m²-prijs van de vergelijkingsobjecten. Voor de gehele woning (102 m² primair woningdeel) betekent dit dus een verschil van (102 m² maal € 1.214,-) in totaal € 123.828,-. Voor de woningen 74-2 en 74-3 is er ten opzichte van de vergelijkingsobjecten een verschil van € 1.575,- per m² en daarmee een verschil van (51 m² maal € 1.575,-) in totaal € 80.325,- voor elk van beide woningen. Naar het oordeel van de rechtbank heeft de heffingsambtenaar daarmee voldoende rekening met de mindere kwaliteit en onderhoudstoestand van de woningen van eisers ten opzichte van die van de vergelijkingsobjecten. </para>
+    <para />
+    <para>21. Met het door eisers overgelegde calculatieoverzicht is onvoldoende onderbouwd dat de onderhoudstoestand en kwaliteit van de woningen een nog groter verschil in waarde met de vergelijkingsobjecten rechtvaardigt. Daarbij is van belang dat blijkens de toelichting van de opsteller van het calculatieoverzicht ook splitsingskosten in de berekening zijn opgenomen. Met dat soort kosten hoeft geen rekening te worden gehouden. Bovendien vertalen de kosten van investeringen voor kwaliteit en onderhoud zich niet één-op-één terug in een waardestijging. Volgens vaste rechtspraak wordt daarom aangenomen dat van dergelijke kosten slechts 60% in aanmerking wordt genomen.</para>
+    <para />
+    <para>22. De rechtbank komt tot de conclusie dat de heffingsambtenaar aannemelijk heeft gemaakt dat de waarde van de woningen niet te hoog is vastgesteld. De tegen de vaststelling van de WOZ-waardes gerichte beroepsgronden slagen dus niet.<?linebreak?></para>
+    <bridgehead role="italic">Proceskosten in bezwaar</bridgehead>
+    <para />
+    <para>23. Op de zitting heeft de gemachtigde naar voren gebracht dat in de uitspraak op bezwaar een proceskostenvergoeding had moeten worden toegekend. De gemachtigde heeft gesteld dat zij aan eisers (de volwassen zoons van de gemachtigde) beroepsmatig rechtsbijstand verleent en voor die rechtsbijstand ook kosten in rekening brengt aan eisers. </para>
+    <para />
+    <para>24. De heffingsambtenaar heeft ter zitting het standpunt gehandhaafd dat geen sprake is van beroepsmatig verleende rechtsbijstand. De heffingsambtenaar heeft daarbij verwezen naar een uitspraak van deze rechtbank van 13 augustus 2014, waarin de gemachtigde ook voor eisers optrad in een WOZ-procedure en waarin de rechtbank heeft geoordeeld dat geen sprake is van beroepsmatig verleende rechtsbijstand.</para>
+    <para />
+    <para>25. In artikel 1, aanhef en onder a, van het Besluit proceskosten bestuursrecht is bepaald dat een vergoeding van de kosten als bedoeld in artikel 7:15, tweede lid, van de Algemene wet bestuursrecht uitsluitend betrekking kan hebben op kosten van door een derde beroepsmatig verleende rechtsbijstand. Volgens vaste rechtspraak is vereist dat het verlenen van rechtsbijstand een vast onderdeel vormt van een duurzame, op het vergaren van inkomsten gerichte taakuitoefening om te kunnen spreken van beroepsmatig verleende rechtsbijstand. </para>
+    <para />
+    <para>26. De gemachtigde van eisers heeft voor het eerst op zitting naar voren gebracht dat zij beroepsmatig rechtsbijstand verleent. Zij heeft die stelling echter niet met verifieerbare gegevens onderbouwd. Op de zitting is verder gebleken dat de gemachtigde niet in dienstbetrekking werkt, geen eigen onderneming heeft, niet ingeschreven is bij de Kamer van Koophandel, geen website heeft en geen reclame maakt. De rechtbank is daarom van oordeel dat onvoldoende gebleken is dat de gemachtigde beroepsmatig rechtsbijstand verleent. In de uitspraak op bezwaar heeft de heffingsambtenaar dan ook geen proceskosten hoeven vergoeden. Ook de hiertegen gerichte beroepsgrond slaagt niet. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>27. Het beroep is ongegrond. Eisers krijgen dus geen gelijk.</para>
+    <para />
+    <para>28. Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding. </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.T. Kruis, rechter, in aanwezigheid van mr. R. Boerlage, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 24 januari 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kunt u binnen zes weken na de dag van verzending daarvan hoger beroep instellen bij het gerechtshof Amsterdam, Postbus 1312, 1000 BH Amsterdam.<?linebreak?></para>
+    <para />
+  </section>
+  <footnote id="_68e3b7ce-2a8c-4b0f-9276-8c42caeebb5c" label="1">
+    <para> Zie artikel 18, eerste en tweede lid, van de Wet Waardering onroerende zaken (Wet WOZ).</para>
+  </footnote>
+  <footnote id="_47e427c6-c1b2-4eb9-a35d-96746ecb2679" label="2">
+    <para> Zie de wetsgeschiedenis van artikel 17, tweede lid, van de Wet WOZ.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

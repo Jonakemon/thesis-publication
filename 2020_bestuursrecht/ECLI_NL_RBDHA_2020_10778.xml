@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:10778</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-28T15:00:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 20.858 VK</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10778">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10778</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-28T15:00:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:10778 Rechtbank Den Haag , 08-09-2020 / AWB 20.858 VK</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:10778:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Onduidelijke aanvraag vbt-r, gaandeweg procedure steeds meer en andere aanduidingen van elk van partijen, interpretatie verweerder ongemotiveerd, verweerder had zich beter moeten vergewissen van de aard van de aanvraag, beroep gegrond, vernietiging</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:10778:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para>
+      <?linebreak?>Zittingsplaats Amsterdam</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 20/858 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [V-nummer]</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer voor vreemdelingenzaken in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] ,</bridgehead>
+    <parablock>
+      <para>geboren op [geboortedatum] , van Armeense nationaliteit, eiseres</para>
+      <para>(gemachtigde: [naam] ),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de staatssecretaris van Justitie en Veiligheid, verweerder</para>
+      <para>(gemachtigde: [naam] ). </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 augustus 2019 (het primaire besluit) heeft verweerder de aanvraag van eiseres van 3 maart 2017 tot verlening van een reguliere verblijfsvergunning voor bepaalde tijd, althans wijziging van het verblijfsdoel, afgewezen. Het daartegen gemaakte bezwaar is bij besluit van 9 januari 2020 (het bestreden besluit) ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 4 februari 2020 heeft de rechtbank het beroepschrift van eiseres tegen dit besluit ontvangen. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 22 juni 2020. Partijen zijn vertegenwoordigd door hun gemachtigden. De rechtbank heeft het onderzoek ter zitting gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Over het beroep op betalingsonmacht</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eiseres heeft verzocht om te worden vrijgesteld van de verplichting tot het betalen van griffierecht. Eiseres heeft daartoe een verklaring omtrent inkomen en vermogen overgelegd. Gelet op vaste rechtspraak van de Centrale Raad van Beroep,<footnote-ref linkend="_7b8c7fa2-ce1e-4cc0-af40-aca65be87fc6" /> is de rechtbank van oordeel dat het beroep op betalingsonmacht dient te worden gehonoreerd. De rechtbank stelt eiseres daarom vrij van de verplichting tot het betalen van griffierecht. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Over het beroep</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De aanleiding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Eiseres heeft op 3 maart 2017 een aanvraag gedaan voor een verblijfsvergunning regulier ‘8 EVRM/humanitair’ met daarbij subsidiair een aanvraag om uitstel van vertrek op grond van artikel 64 van de Vreemdelingenwet 2000 (Vw). Bij brief van 16 maart 2017 heeft verweerder eiseres verzocht om haar aanvraag aan te vullen. Met ingang van 30 maart 2017 tot 30 maart 2019 heeft zij vervolgens het uitstel van vertrek gekregen. Op 5 maart 2019 heeft zij een aanvraag ingediend voor een verblijfsvergunning onder de beperking ‘medische behandeling’. Deze aanvraag is ingewilligd met toepassing van artikel 4:84 van de Algemene wet bestuursrecht op 17 juni 2019, met een looptijd van 3 april 2019 tot 3 april 2020. In juni en augustus 2019 heeft verweerder aan eiseres gevraagd of zij gelet op de verblijfsvergunning voor medische behandeling haar primaire aanvraag van 3 maart 2017 wenst in te trekken. Bij brief van 8 augustus 2019 heeft eiseres laten weten dat zij haar primaire aanvraag om een reguliere verblijfsvergunning onder de beperking ‘8 EVRM/humanitair’ van 3 maart 2017 handhaaft.</para>
+    <para />
+    <para>3. Verweerder heeft de aanvraag van eiseres in het primaire besluit vervolgens opgevat als een aanvraag voor een verblijfsvergunning ‘overige humanitaire redenen’ als bedoeld in artikel 3.36ba, eerste lid, van het Vreemdelingenbesluit 2000 (Vb), althans een aanvraag om wijziging van het huidige verblijfsdoel. Bij primair besluit, gehandhaafd in het bestreden besluit, heeft verweerder deze aanvraag afgewezen. Omdat eiseres in het bezit is van een verblijfsvergunning, bestaat er al geen grond om aan te nemen dat wegens bijzondere omstandigheden ambtshalve een verblijfsvergunning moet worden verleend. Volgens verweerder is een ambtshalve verlening vanwege schrijnende omstandigheden namelijk alleen aan de orde indien er anderszins geen oplossing is voor de vreemdeling, wat hier gegeven de aanwezige verblijfsvergunning niet speelt. Verweerder geeft aan in te zien dat de verlengingsprocedure stress veroorzaakt voor eiseres, maar stelt zich op het standpunt dat dit geen grond is voor verlening van de gevraagde verblijfsvergunning of wijziging van het verblijfsdoel. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Standpunt eiseres</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. Eiseres betoogt in beroep dat de afwijzing onzorgvuldig, ongemotiveerd en in strijd met de goede procesorde tot stand is gekomen. Een kenbare belangenafweging ontbreekt en verweerder verschuilt zich achter formalismen ten aanzien van de toetsingsvolgorde. Verweerder is namelijk te allen tijde bevoegd om al dan niet ambtshalve de verzochte vergunning te verlenen. Volgens eiseres is de onderhavige aanvraag toewijsbaar op grond van dezelfde bijzondere omstandigheden als waarvoor haar verblijfsvergunning voor medische behandeling is toegewezen op 17 juni 2019. Die verblijfsvergunning voor medische behandeling is niet toegewezen op grond van de normale voorwaarden, maar op grond van haar bijzondere omstandigheden. Eiseres betoogt daarom dat verweerder ten onrechte niet meegenomen heeft dat eiseres feitelijk niet aan de reguliere voorwaarden voldoet voor de verblijfsvergunning medische behandeling. Wat voor verweerder in de beschikking van 17 juni 2019 de doorslag gaf om bijzondere omstandigheden aan te nemen, is volgens eiseres altijd onduidelijk gebleven. Ook heeft verweerder onvoldoende de duur van de procedure meegewogen, alsook de stress die de verlengingsprocedure teweegbrengt bij eiseres. De banden met eiseres’ moeder en broer zijn daarnaast de laatste jaren alleen maar verstevigd. Eiseres verwijst voor de verdere bijzondere omstandigheden naar de weergave daarvan in de beslissing van 23 december 2016 ten aanzien van het uitstel van vertrek. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Oordeel van de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank stelt allereerst vast dat de omstandigheden waarnaar eiseres sinds 2017 verwijst niet bestreden worden door verweerder. Dit gaat om haar medische problematiek, de nauwe banden met haar broer en moeder, alsook de mantelzorg die door hen wordt verleend. Eiseres spreekt in een brief van 12 mei 2017 in het kader van deze aanvraag expliciet over ‘more than normal emotional ties’. Ook stelt de rechtbank vast dat eiseres sinds de aanvraag van 3 maart 2017 in haar correspondentie steevast heeft gesproken over deze omstandigheden, onder de noemer van een verblijfsvergunning ‘8 EVRM/humanitair’.</para>
+    <para />
+    <para>6. De rechtbank stelt daarnaast vast dat in de primaire beslissing van 26 augustus 2019 voor het eerst wordt gesproken over een aanvraag om een verblijfsvergunning om ‘overige humanitaire redenen’, althans om de wijziging van het oude verblijfsdoel naar dit nieuwe doel, onder verwijzing naar artikel 3.36ba van het Vb. Ook na deze kwalificatie door verweerder spreekt eiseres echter in bezwaar en beroep over ‘8 EVRM/humanitair’, maar noemt nu óók de wijziging van het verblijfsdoel, bijzondere omstandigheden en schrijnende omstandigheden. </para>
+    <para />
+    <para>7. Gevraagd naar de grondslag van de afwijzing op de zitting heeft verweerder aangegeven dat de verwijzing naar artikel 3.36ba van het Vb onjuist is, maar handhaaft hij de redenering van de afwijzing. Dat artikel ziet namelijk enkel op de huidige ambtshalve beoordeling van schrijnende omstandigheden na afschaffing van zijn zogenaamde discretionaire bevoegdheid op 1 mei 2019. Verweerder heeft aangegeven dat het hier gaat om de oude werkwijze van de discretionaire bevoegdheid, waarbij hij op aanvraag een verblijfsvergunning vanwege schrijnende omstandigheden kon toekennen. Eiseres heeft op de zitting niet bevestigd dat dit de beoogde aanvraag is.</para>
+    <para />
+    <para>8. De rechtbank herhaalt dat vanaf het moment van de aanvraag op 3 maart 2017 eiseres in ieder geval steeds heeft gesproken over een aanvraag ‘8 EVRM/humanitair’. De rechtbank merkt op dat dit op zichzelf al geen aanvraag is die onmiddellijk te categoriseren is in één van de beperkingen van artikel 3.4 van het Vb. Gaandeweg de procedure wordt de aanvraag echter steeds onduidelijker, waarbij de aanvraag van beide partijen steeds andere en meer aanduidingen krijgt zoals, de wijziging van het verblijfsdoel, ‘schrijnende omstandigheden’, ‘bijzondere omstandigheden’ en ‘overige humanitaire redenen’.</para>
+    <para />
+    <para>9. De rechtbank overweegt dat het in het licht van het zorgvuldigheidsvereiste op de weg van het bestuursorgaan ligt om in geval van twijfel of onduidelijkheid harerzijds over de aard van een aanvraag, hierover contact te zoeken met de aanvrager. Het bestuursorgaan dient zich ervan te vergewissen wat de aard van de aanvraag is, voordat zij deugdelijk onderzoek kan doen en deugdelijk op de aanvraag kan beslissen.<footnote-ref linkend="_275b13b4-1b67-4573-b03b-b1fea3cc6658" /> De aard van de aanvraag bepaalt immers de te vergaren feiten en het relevante toetsingskader. Zodoende kan de kwalificatie van de aanvraag grote gevolgen hebben voor de aanvrager.</para>
+    <para />
+    <para />
+    <para>10. Het is de rechtbank in deze onduidelijk waarom verweerder de aanvraag heeft gekwalificeerd als een aanvraag voor verlening, althans wijziging van het verblijfsdoel, van een verblijfsvergunning op grond van de oude discretionaire bevoegdheid van de staatssecretaris voor schrijnende gevallen. Dit is nooit verzocht of bevestigd door eiseres. Terwijl eiseres steeds spreekt van een verblijfsvergunning ‘8 EVRM/humanitair’, ziet de rechtbank in het bestreden besluit geen kenbare 8 EVRM-beoordeling van de door eiseres aangevoerde omstandigheden, noch heeft verweerder contact gezocht met eiseres over welke van de humanitaire gronden – tijdelijk of niet-tijdelijk – het haar precies gaat. Het bestreden besluit is daarom naar het oordeel van de rechtbank onzorgvuldig voorbereid, althans onvoldoende gemotiveerd.</para>
+    <para />
+    <para>11. Het beroep is gegrond. De rechtbank vernietigt het bestreden besluit en draagt verweerder op om opnieuw te beslissen met inachtneming van deze uitspraak. </para>
+    <para />
+    <para>12. De rechtbank ziet, gelet op de gegrondverklaring van het beroep, aanleiding om verweerder te veroordelen in de door eiseres redelijkerwijs gemaakte proceskosten, die zijn begroot op € 1.050,- op grond van het Besluit proceskosten bestuursrecht van door een derde beroepsmatig verleende rechtsbijstand (1 punt voor het beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde van € 525,- per punt en wegingsfactor 1). </para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen met inachtneming van deze uitspraak;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiseres in verband met het beroep tot een bedrag van € 1.050,-. </para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. B.C. Langendoen, rechter, in aanwezigheid van mr. G.J. Tingen, griffier. De beslissing is in het openbaar uitgesproken op </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>							rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Conc.: GJT</para>
+      <para>D: </para>
+      <para>VK</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para />
+    <parablock>
+      <para>Tegen deze uitspraak kunnen partijen binnen vier weken na de dag van verzending daarvan hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State (adres: Raad van State, Afdeling bestuursrechtspraak, Hoger beroep vreemdelingenzaken, Postbus 16113, 2500 BC 's-Gravenhage). Naast de vereisten waaraan het beroepschrift moet voldoen op grond van artikel 6:5 van de Awb (zoals het overleggen van een afschrift van deze uitspraak) dient het beroepschrift ingevolge artikel 85, eerste lid, van de Vw 2000 een of meer grieven te bevatten. Artikel 6:6 van de Awb (herstel verzuim) is niet van toepassing.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_7b8c7fa2-ce1e-4cc0-af40-aca65be87fc6" label="1">
+    <para> Zie bijvoorbeeld ECLI:NL:CRVB:2015:282.</para>
+  </footnote>
+  <footnote id="_275b13b4-1b67-4573-b03b-b1fea3cc6658" label="2">
+    <para> Zie bijvoorbeeld ECLI:NL:RVS:1996:AL5572.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

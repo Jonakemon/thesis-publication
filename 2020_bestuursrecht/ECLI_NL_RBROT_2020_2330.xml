@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:2330</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-25T09:00:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 457</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2330">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:2330</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-19T10:58:26</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:2330 Rechtbank Rotterdam , 18-03-2020 / AWB - 20 _ 457</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:2330:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>vovo, geen spoedeisend belang, geen contact meer met verzoekster, onduidelijk waar ze verblijft</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:2330:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/457</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 19 maart 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoekster] , zonder vaste woon of verblijfplaats, verzoekster,</bridgehead>
+    <para>gemachtigde: mr. F.S. Jansen,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Rotterdam</emphasis>, verweerder,</para>
+      <para>gemachtigde: mr. J.F. Jim.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 januari 2020 (het bestreden besluit) heeft verweerder verzoeksters recht op maatschappelijke opvang op grond van de Wet maatschappelijke ondersteuning 2015 (Wmo) met ingang van 13 januari 2020 beëindigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tegen dit besluit heeft verzoekster bezwaar gemaakt. Ook heeft verzoekster de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 12 februari 2020. Verzoekster en verweerder hebben zich laten vertegenwoordigen door hun gemachtigden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter heeft het onderzoek ter zitting geschorst om verweerder in de gelegenheid te stellen nadere stukken in de procedure in te brengen en de gemachtigde in de gelegenheid te stellen om contact op te nemen met verzoekster. Bij brieven van 12 februari 2020, 11 maart 2020 en 13 maart 2020 hebben partijen een nadere reactie gegeven. Vervolgens heeft de voorzieningenrechter het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Aan het bestreden besluit heeft verweerder ten grondslag gelegd dat verzoekster niet meewerkt aan uitstroom uit de nachtopvang. Verzoekster heeft twee maal een plaatsing in een doorstroomvoorziening van het CVD aan de Voorburgstraat geweigerd en zij weigert te reageren op woningen buiten de wijken Blijdorp, Kralingen, Centrum en Hillegersberg. </para>
+    <para />
+    <para>2. Indien voorafgaand aan een mogelijk beroep bij de rechtbank tegen een besluit bezwaar is gemaakt, kan de voorzieningenrechter van de rechtbank die bevoegd kan worden in de hoofdzaak op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb) op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist. Voor zover de daartoe uit te voeren toetsing meebrengt dat de rechtmatigheid van het bestreden besluit wordt beoordeeld, heeft het oordeel van de voorzieningenrechter een voorlopig karakter en is dat oordeel niet bindend voor de beslissing op bezwaar of in een eventuele beroepsprocedure.</para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Ter zitting is gebleken dat onduidelijk is waar verzoekster momenteel verblijft, dat zij geen contact meer onderhoudt met haar gemachtigde en dat het hem ook niet lukt om contact met haar te krijgen. Ook in de tijd dat de zaak na de zitting is aangehouden, is het de gemachtigde niet gelukt om contact te leggen met verzoekster of  haar verblijfplaats te achterhalen. Uit de brief van verweerder van 13 maart 2020 blijkt dat verzoekster zich ook niet bij verweerder heeft gemeld met een nieuwe opvangvraag. </para>
+        <para>Hieruit volgt naar het oordeel van de voorzieningenrechter al dat verzoekster momenteel geen spoedeisend belang heeft bij haar verzoek tot het treffen van een voorlopige voorziening. Het is onduidelijk waar zij momenteel verblijft en het is voor haar gemachtigde niet mogelijk om contact met haar te krijgen. De onzekere toekomstige gebeurtenis dat verzoekster zich opnieuw zal melden bij verweerder met een opvangvraag is onvoldoende om een spoedeisend belang aan te nemen. Het is helemaal niet zeker of en wanneer dit gaat gebeuren. Bovendien is niet uitgesloten dat, indien verzoekster zich opnieuw tot verweerder wendt met een opvangvraag, er opvang aan haar verleend zal worden. </para>
+      </parablock>
+      <para />
+      <para>3. Onder deze omstandigheden bestaat er geen aanleiding om in afwachting van de beslissing op bezwaar een voorlopige voorziening te treffen. De voorzieningenrechter wijst het verzoek tot het treffen van een voorlopige voorziening dan ook af.</para>
+      <para />
+      <para>4. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. I. Bouter, voorzieningenrechter, in aanwezigheid van mr. A. Hielkema, griffier. De uitspraak is gedaan op 19 maart 2020 en openbaar gemaakt door middel van publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De rechter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

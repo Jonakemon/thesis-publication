@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:383</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-02T12:23:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1349 en 18/1390</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:383">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:383</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-29T10:17:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:383 College van Beroep voor het bedrijfsleven , 02-06-2020 / 18/1349 en 18/1390</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:383:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Artikel 23 E-wet aansluitplicht</para>
+        <para>Stelsel van verbindingen dat ligt op een bedrijfsterrein kwalificeert als een net in de zin van artikel 1, aanhef en onder i, van de E-wet. Eén of meer verbindingen voor het transport van elektriciteit, waarop meerdere afnemers zijn aangesloten</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:383:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummers: 18/1349 en 18/1390 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 2 juni 2020 in de zaken tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">Zuivelcoöperatie Friesland Campina U.A. te Amersfoort, (ZFC), appellante</bridgehead>
+    <para>(gemachtigde: mr. M.R. het Lam),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Liander N.V. (Liander), appellante,</bridgehead>
+    <para>(gemachtigden: mr. R.W. de Vlam en mr. M.W.F. Oosterhuis)</para>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Autoriteit Consument en Markt, (ACM), verweerster </bridgehead>
+    <para>(gemachtigden: mr. W. Wolbers en mr. G.A.A.M. Zwagemakers).</para>
+    <para />
+    <parablock>
+      <para>Appellanten hebben als derde-partij aan elkaars geding deelgenomen.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 juni 2018 heeft ACM beslist in een geschil tussen ZFC en Liander over de weigering door Liander om een AC5-aansluiting te realiseren. Bij dit besluit heeft ACM vastgesteld dat Liander niet in strijd met artikel 23, eerste lid, van de Elektriciteitswet (E-wet) heeft gehandeld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ZFC en Liander hebben afzonderlijk beroep tegen dit besluit ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ACM heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ten aanzien van een aantal stukken die ACM verplicht is over te leggen, heeft zij medegedeeld dat uitsluitend het College daarvan kennis zal mogen nemen. Bij beslissing van 13 december 2018 heeft het College de gevraagde beperking van de kennisneming gerechtvaardigd geacht. Liander heeft het College toestemming verleend om mede op grondslag van die stukken uitspraak te doen. ZFC heeft deze toestemming niet gegeven. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 26 juni 2019. Partijen zijn verschenen bij hun gemachtigden. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>ZFC is een coöperatie opgericht door melkveehouders. ZFC houdt alle aandelen in FrieslandCampina Nederland B.V. (FCN). ZFC is eigenaar van een stelsel van verbindingen dat ligt op het bedrijfsterrein aan de [adres 1] in [plaats] . Op dit bedrijfsterrein staan een kaasfabriek, een melkontvangstinrichting, een tankpark, een utiliteitsgebouw en een kantoor. Het stelsel van verbindingen voorziet onder meer de kaasfabriek en het utiliteitsgebouw van elektriciteit. FCN exploiteert de kaasfabriek op het bedrijfsterrein. Het bedrijfsterrein is via een aansluiting van 2 MVA (AC5-aansluiting) aangesloten op het openbare net van Liander. FCN en Liander hebben daartoe een aansluit- en transportovereenkomst (ATO) gesloten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Na constatering door Liander van structurele overschrijding van het door FCN gecontracteerde vermogen hebben ZFC en FCN contact opgenomen met de gemeente [gemeente] over de objectafbakening van onroerende zaken op basis van de Wet waardering onroerende Zaken (Wet WOZ). Op 18 juli 2017 heeft de gemeente te kennen gegeven dat het WOZ-object aan de [adres 1] per 10 juli 2017 is gesplitst in twee adressen omdat het bedrijfsterrein en het utiliteitsgebouw zelfstandige onroerende zaken zijn in de zin van de Wet WOZ. Uit de WOZ-beschikking van 28 februari 2018 blijkt dat ZFC eigenaar is van het bedrijfsterrein aan de [adres 1] en eigenaar en gebruiker van het utiliteitsgebouw aan de [adres 2] . FCN is aangemerkt als gebruiker van het bedrijfsterrein aan de [adres 1] .</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>ZFC heeft Liander op 15 augustus 2017 verzocht om een aansluiting van 2 MVA (AC5-aansluiting) op het door Liander beheerde openbare net ten behoeve van haar utiliteitsgebouw aan de [adres 2] . Liander heeft dit geweigerd.</para>
+      <para />
+      <para>2. ACM is van oordeel dat Liander de gevraagde aansluiting terecht heeft geweigerd. Met inachtneming van de WOZ-beschikking van de gemeente concludeert ACM dat naast de eigenaar van het stelsel van verbindingen (ZFC) een derde, FCN, is aangesloten op dit stelsel. Vanaf 10 juli 2017 is het stelsel van verbindingen dus een net, als bedoeld in artikel 1, eerste lid, onderdeel i, van de E-wet. Daarvoor was het een installatie. Dat ZFC en FCN onderdeel zijn van dezelfde groep en/of sprake is van eigendomsverknochtheid is niet relevant voor die beoordeling. Voor dit net moet dus een netbeheerder worden aangewezen of een ontheffing worden gevraagd. Voor de beoordeling van dit geschil neemt ACM als uitgangspunt dat het stelsel van verbindingen op het bedrijfsterrein kwalificeert als een net. Uit de definitie van artikel 1, eerste lid, onderdeel b, van de E-wet volgt dat een verbinding tussen een net van Liander en een net dat wordt beheerd door een ander dan Liander, een aansluiting is. ACM stelt vast dat er al een verbinding bestaat tussen het openbare net van Liander en het net van ZFC. Deze verbinding is volgens ACM een aansluiting in de zin van artikel 1, eerste lid, onderdeel b, van de E-wet. Deze aansluiting voedt het net van ZFC. ZFC beschikt in die zin over de aansluiting op het net van Liander. ZFC distribueert de elektriciteit vervolgens via haar net aan ZFC en FCN. Dat FCN een ATO heeft gesloten met Liander, acht ACM niet relevant. De E-wet gaat namelijk in de eerste plaats uit van de feitelijke fysieke werkelijkheid. FCN heeft geen fysieke aansluiting op het net van Liander, maar op het net van ZFC. FCN is daarom geen afnemer op het net van Liander.</para>
+      <para>Nu ZFC over een aansluiting beschikt op het openbare net van Liander is Liander niet verplicht een tweede aansluiting te realiseren. De gevraagde aansluiting ten behoeve van het utiliteitsgebouw is er al. Het utiliteitsgebouw is aangesloten op het net van ZFC, dat weer is aangesloten op het openbare net van Liander. Een eigen fysieke aansluiting is niet nodig.</para>
+      <para />
+      <para>3. Liander betoogt kort samengevat, dat, ook al is zij door ACM in het gelijk gesteld, haar beroep ontvankelijk is. De kernoverweging van het besluit van ACM is namelijk dat achter de aansluiting sprake is van twee WOZ-objecten en ACM gaat in het besluit ten onrechte voorbij aan het standpunt van Liander dat zij de afbakening van het WOZ-object zelfstandig moet toetsen.</para>
+      <para />
+      <para>4. ZFC betoogt dat ACM zich ten onrechte bij het bestreden besluit op het standpunt heeft gesteld dat de ATO tussen Liander en FCN niet relevant is voor de beoordeling van dit geschil. De contractuele afspraken zijn bepalend voor de vraag welke partij kwalificeert als afnemer voor de aansluiting. Met inachtneming van de ATO is dat in dit geval FCN en niet ZFC. ZFC beschikt niet over de aansluiting. Dit blijkt ook uit de feitelijke situatie. De aansluiting dient immers primair om de door FCN geëxploiteerde kaasfabriek op het bedrijfsterrein van elektriciteit te voorzien. Bovendien blijkt door de wijziging in de objectafbakening in het kader van de Wet WOZ dat zowel FCN als ZFC over een aansluiting moeten kunnen beschikken. Dat ZFC de juridische eigendom heeft van het elektriciteitsnet dat door middel van een aansluiting is aangesloten op het openbare net van Liander is niet relevant. ZFC heeft immers niet het gebruik van dit elektriciteitsnet. Dat gebruik ligt bij FCN. </para>
+      <para />
+      <para>5. Ten aanzien van het beroep van Liander is het College van oordeel dat dit beroep niet-ontvankelijk is. Liander heeft geen belang bij de beoordeling van haar beroep. Het beroep is immers niet gericht tegen het dictum van het bestreden besluit, waarbij ACM heeft vastgesteld dat Liander niet in strijd met artikel 23, eerste lid, van de E-wet heeft gehandeld, maar tegen overwegingen van het besluit. Dit vormt in beginsel geen voldoende procesbelang. Dat volgens Liander ZFC gelijk heeft gekregen van ACM met betrekking tot haar stelling dat sprake is van verschillende WOZ-objecten achter de thans bestaande aansluiting, en dat FCN inmiddels om een aansluiting heeft verzocht zodat – nu Liander niet zal instemmen met een verzoek om aansluiting – een nieuwe geschilaanvraag in de lucht hangt, valt naar het oordeel van het College buiten het bestek van deze procedure. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Ten aanzien van het beroep van ZFC ziet het College zich gesteld voor de vraag of het stelsel van verbindingen kwalificeert als een net in de zin van artikel 1, eerste lid, onderdeel i, van de E-wet, zoals ACM bij het bestreden besluit heeft betoogd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Met inachtneming van zijn jurisprudentie, waarbij wordt verwezen naar de uitspraak van 29 augustus 2017 (ECLI:NL:CBB:2017:352), is het College van oordeel dat ACM zich terecht op het standpunt heeft gesteld dat het stelsel van verbindingen dat ligt op het bedrijfsterrein kwalificeert als een net in de zin van artikel 1, aanhef en onder i, van de E-wet. Immers, er is sprake van één of meer verbindingen voor het transport van elektriciteit, waarop meerdere afnemers - naast ZFC als eigenaar ook FCN - zijn aangesloten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Dat FCN een ATO heeft afgesloten met Liander en FCN daarom als afnemer dient te worden beschouwd en als degene die feitelijk de beschikking heeft over de aansluiting van 2MVA (en ZFC kennelijk niet contractueel is aangesloten op het net van Liander), kan aan het vorenstaande geen afbreuk doen. Uit de wetsgeschiedenis bij de E-wet (Kamerstukken II 1998-1999, 26 303, nr. 7, p. 20), waarnaar het College in zijn uitspraken van 17 juni 2015 (ECLI:NL:CBB:2015:214) en 23 juli 2012 (ECLI:NL:CBB:2012:BX4127) heeft verwezen, blijkt zonder meer dat met de term aansluiting in de E-wet de fysieke verbinding met het netwerk wordt bedoeld. Tussen partijen is niet in geschil dat het net op het bedrijfsterrein, waarvan ZFC eigenaar is, via een AC5-aansluiting is aangesloten op het openbare net van Liander. Hiermee staat dus vast dat ZFC over een aansluiting beschikt. Dat deze aansluiting volgens ZFC primair dient om de door FCN geëxploiteerde kaasfabriek op het bedrijfsterrein  van elektriciteit te voorzien maakt dit niet anders.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>Dat na 10 juli 2017 de objectafbakening van het bedrijfsterrein is veranderd en er sprake is van twee WOZ-beschikkingen waaruit blijkt dat het bedrijfsterrein moet worden gesplitst aangezien er twee verschillende gebruikers zijn (ZFC en FCN), die volgens ZFC beiden recht hebben op een eigen aansluiting, is in dit geval niet relevant. Zoals blijkt uit rechtsoverweging 6.2 is sprake van een net, waarop ZFC en FCN als afnemers zijn aangesloten. </para>
+      <para />
+      <parablock>
+        <para>7. 	Gelet op het vorenstaande zal het College het beroep van Liander niet-ontvankelijk verklaren en het beroep van ZFC ongegrond verklaren. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <para>- Het College verklaart het beroep van Liander niet-ontvankelijk.</para>
+    <para>- Het College verklaart het beroep van ZFC ongegrond.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.O. Kerkmeester, mr. H.S.J. Albers en mr. C.M. Wolters, in aanwezigheid van mr. P.M. Beishuizen, griffier. De beslissing is in het openbaar uitgesproken op 2 juni 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. H.O. Kerkmeester	w.g. P.M. Beishuizen <?linebreak?></para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

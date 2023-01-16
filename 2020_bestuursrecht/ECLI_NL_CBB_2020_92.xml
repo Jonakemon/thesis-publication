@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:92</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-15T11:05:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/161</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>ABkort 2020/119</rdf:li>
+          <rdf:li>NJB 2020/779</rdf:li>
+          <rdf:li>RF 2020/31</rdf:li>
+          <rdf:li>AB 2020/207 met annotatie van R. Stijnen</rdf:li>
+          <rdf:li>JONDR 2020/361</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:92">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:92</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-17T11:40:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:92 College van Beroep voor het bedrijfsleven , 18-02-2020 / 19/161</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:92:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Hoger beroep mededingingsrecht. Openbaarmaking besluiten ACM. Artikelen 12u-12w Instellingswet ACM. Artikel 12v heeft ook betrekking op een besluit waarbij ACM vaststelt dat een onderneming (bijvoorbeeld) het kartelverbod heeft overtreden, dat aan die onderneming op zichzelf daarvoor een (bepaalde) boete behoort te worden opgelegd, maar dat niettemin van het opleggen van een boete wordt afgezien. De rechtbank heeft ten onrechte artikel 12w van toepassing geacht. Volgt terugwijzing. Schorsing openbaarmaking boetebesluit. Zie ook ECLI:NL:CBB:2020:91.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:92:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 19/161</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de meervoudige kamer van 18 februari 2020 op het hoger beroep van:</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Autoriteit Consument en Markt (ACM), appellante,</bridgehead>
+    <para>(gemachtigden: mr. M.C.C. van Overbeek en mr. K. Hellingman)</para>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Rotterdam van 6 december 2018, kenmerk ROT 18/679, in het geding tussen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam 1] B.V. ( [naam 1] ), te [plaats]</bridgehead>
+    <para>(gemachtigde: mr. N.J. Linssen)</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">ACM </bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>ACM heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam (rechtbank) van 6 december 2018 (niet gepubliceerd) voor zover daarbij is beslist op het beroep van [naam 1] in de zaak met nummer ROT 18/679 (aangevallen uitspraak). </para>
+      <para>
+        <?linebreak?>
+        [naam 1] heeft een reactie op het hogerberoepschrift van ACM ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ten aanzien van een aantal stukken die ACM verplicht is over te leggen heeft zij medegedeeld dat uitsluitend het College daarvan kennis zal mogen nemen. Bij beslissing van 6 november 2019 heeft het College de gevraagde beperking van de kennisneming gerechtvaardigd geacht. [naam 1] heeft het College toestemming verleend om mede op grondslag van die stukken uitspraak te doen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ter uitvoering van de aangevallen uitspraak heeft ACM op 22 januari 2019 een nieuw besluit genomen ter vervanging van het door de rechtbank vernietigde besluit van 21 december 2017.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 26 november 2019. ACM heeft zich laten vertegenwoordigen door haar gemachtigden. Namens ACM is tevens verschenen mr. A.S.M.L. Prompers. [naam 1] heeft zich laten vertegenwoordigen door haar gemachtigde. Namens [naam 1] is tevens verschenen [naam 2] . </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>ACM is naar aanleiding van een clementieverzoek een onderzoek gestart naar een mogelijke overtreding van artikel 101, eerste lid, van het Verdrag betreffende de werking van de Europese Unie (VWEU) en/of artikel 6, eerste lid, van de Mededingingswet (Mw) door ondernemingen die actief zijn als verkoper en/of producent van […] in Nederland. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Naar aanleiding van het onderzoek heeft ACM vastgesteld dat enkele ondernemingen, waaronder [naam 3] B.V. ( [naam 3] ), een 100% deelneming van [naam 1] , zich schuldig hebben gemaakt aan overtreding van artikel 101, eerste lid, van het VWEU en artikel 6, eerste lid, van de Mw. In verband daarmee heeft ACM bij besluit van 17 februari 2017 (primair boetebesluit) boetes opgelegd. Aan [naam 3] is een boete opgelegd van € 2.798.000,-, waarbij [naam 3] hoofdelijk aansprakelijk is voor € 2.060.000,- en [naam 1] , de moedermaatschappij, voor het gehele bedrag. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Bij besluit van 13 maart 2017 (primaire publicatiebesluit) heeft ACM met toepassing van artikel 12v van de Instellingswet ACM (Instellingswet) besloten het primaire boetebesluit voor zover dat ziet op [naam 1] openbaar te maken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Bij besluit op bezwaar van 2 november 2017 (bestreden boetebesluit) heeft ACM, voor zover hier van belang, de boete voor [naam 3] verlaagd tot € 1.935.000,- en afgezien van het opleggen van een boete aan [naam 1] wegens het ontbreken van financiële draagkracht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij besluit van 21 december 2017 (bestreden publicatiebesluit) heeft ACM het bezwaar van [naam 1] tegen het primaire publicatiebesluit ongegrond verklaard en met toepassing van artikel 12v van de Instellingswet besloten het bestreden boetebesluit gecombineerd met het primaire boetebesluit te publiceren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>
+        [naam 1] heeft tegen het bestreden boetebesluit beroep ingesteld. Zij heeft in beroep, kort gezegd, primair betoogd dat geen sprake is van een overtreding en subsidiair dat de overtreding ten onrechte mede aan haar, als moedermaatschappij, is toegerekend. De rechtbank heeft, kort gezegd, overwogen dat het bestreden boetebesluit voor [naam 1] geen negatieve rechtsgevolgen heeft en heeft daarom het beroep niet-ontvankelijk verklaard wegens het ontbreken van procesbelang. [naam 1] heeft daartegen hoger beroep ingesteld. Bij uitspraak van vandaag (ECLI:NL:CBB:2020:91) heeft het College geoordeeld dat [naam 1] wel procesbelang heeft en met toepassing van artikel 8:115, eerste lid, aanhef en onder a, van de Algemene wet bestuursrecht (Awb) die zaak teruggewezen naar de rechtbank.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>
+        [naam 1] heeft ook tegen het bestreden publicatiebesluit beroep ingesteld. Tevens heeft zij daartegen bezwaar gemaakt voor zover dat ziet op de publicatie van het bestreden boetebesluit. ACM heeft het bezwaarschrift doorgezonden naar de rechtbank met het verzoek dit als beroepschrift tegen het bestreden publicatiebesluit in behandeling te nemen. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de rechtbank</title>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>De rechtbank heeft, met verwijzing naar haar uitspraak van 25 januari 2018 (ECLI:NL:RBROT:2018:375), vooropgesteld dat het bestreden publicatiebesluit ook voor zover dat ziet op de publicatie van het bestreden boetebesluit moet worden aangemerkt als een beslissing op bezwaar.</para>
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>De rechtbank heeft overwogen dat ACM bij het bestreden boetebesluit heeft afgezien van het opleggen van een boete aan [naam 1] , zodat geen sprake (meer) is van een beschikking tot het opleggen van een bestuurlijke sanctie als bedoeld in artikel 12v van de Instellingswet, die volgens die bepaling openbaar wordt gemaakt. De reden waarom ACM heeft afgezien van oplegging van een boete, in dit geval het ontbreken van financiële draagkracht, is daarbij niet relevant. Het bestreden publicatiebesluit is daarom genomen in strijd met artikel 12v van de Instellingswet. Dit neemt volgens de rechtbank niet weg dat ACM op grond van artikel 12w, eerste lid, van de Instellingswet andere besluiten dan beschikkingen tot het opleggen van een bestuurlijke sanctie openbaar kan maken. Publicatie op grond van deze bepaling geschiedt na een belangenafweging. De rechtbank heeft daarom - met bepalingen over griffierecht en proceskosten - het beroep tegen het bestreden publicatiebesluit gegrond verklaard, dat besluit vernietigd en bepaald dat ACM een nieuwe beslissing neemt op het bezwaar van [naam 1] tegen het primaire publicatiebesluit met inachtneming van de uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Verder heeft de rechtbank, met toepassing van artikel 8:72, vijfde lid, van de Awb, een voorlopige voorziening getroffen, inhoudende dat het primaire publicatiebesluit wordt geschorst tot zes weken nadat ACM opnieuw op het bezwaar van [naam 1] tegen het primaire publicatiebesluit heeft beslist.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para>3. <?linebreak?>De van belang zijnde wettelijke bepalingen zijn opgenomen in de bijlage bij deze uitspraak.</para>
+    <para />
+    <para>4. Het door ACM ter uitvoering van de aangevallen uitspraak genomen nieuwe publicatiebesluit op bezwaar van 22 januari 2019 maakt op grond van artikel 6:19 in verbinding met artikel 6:24 van de Awb deel uit van dit geding in hoger beroep. </para>
+    <para />
+    <para>5. ACM is het niet eens met het oordeel van de rechtbank dat artikel 12v van de Instellingswet niet de juiste grondslag is voor publicatie van het bestreden boetebesluit. ACM is van mening dat de rechtbank onvoldoende gewicht heeft toegekend aan het belang van de aard van de overtreding bij publicatie en het belang van gelijke behandeling ten aanzien van dezelfde kartelovertreding. De rechtbank doorkruist hiermee het wettelijke systeem van de verplichte openbaarmaking van overtredingen. Met de invoering van de Instellingswet is een uitputtend systeem voor publicatie van alle besluiten en documenten van ACM in het leven geroepen. De wetgever heeft een uitdrukkelijke keuze gemaakt voor een apart, streng en verplicht openbaarmakingsregime in de vorm van de artikelen 12u en 12v van de Instellingswet voor besluiten waarbij een overtreding wordt vastgesteld. Artikel 12v van de Instellingswet is van toepassing bij de meest ernstige overtredingen, waarbij een voorafgaande belangenafweging bij publicatie achterwege kan blijven. Met dit regime heeft de wetgever beoogd dat bij de meest ernstige overtredingen, zoals kartelovertredingen, het belang van waarschuwing van het publiek dient te prevaleren boven de belangen van partijen om niet te publiceren. Dit regime moet volgens ACM ook worden toegepast bij besluiten waar een overtreding van het kartelverbod is geconstateerd, maar waar vanwege geen of beperkte financiële draagkracht geen boete is opgelegd. Het belang van waarschuwing van het publiek is bij dit soort besluiten volgens ACM juist aan de orde. Het doel van publicatie van het geval van [naam 1] is gelijk aan dat van publicatie van de andere gevallen die zien op de desbetreffende overtreding van het kartelverbod. Het doel van publicatie verandert volgens ACM niet doordat zij op grond van hardheid heeft moeten besluiten tot het afzien van het opleggen van een sanctie.</para>
+    <para>6. [naam 1] stelt zich op het standpunt dat het betoog van ACM voorbijgaat aan de letterlijke tekst van artikel 12v van de Instellingswet. De publicatieplicht van artikel 12v van de Instellingswet geldt volgens [naam 1] slechts voor besluiten waarin een bestuurlijke sanctie is opgelegd. De wetgever spreekt in de toelichting ook uitdrukkelijk van besluiten tot het “opleggen” van een bestuurlijke sanctie. Daar waar de wetgever spreekt van “overtreding” en “kartelverbod” wordt dat louter genoemd in het kader van de bevoegdheid van ACM om een boete op te leggen, aldus [naam 1] . [naam 1] is verder van mening dat de regeling van de verplichte openbaarmaking, als uitzondering op de regel dat openbaarmaking geen automatisme is, gelet op de gevolgen voor de betrokkenen restrictief moet worden uitgelegd. Met betrekking tot de gelijke behandeling van eenzelfde kartelovertreding betoogt [naam 1] dat ACM niet motiveert op grond waarvan eenzelfde overtreding op eenzelfde wijze zou moeten worden behandeld. Voorts plaatst [naam 1] deze stellingname van ACM in het licht van het gelijkheidsbeginsel en voert zij aan dat er geen sprake is van gelijke gevallen. Aan [naam 1] is, anders dan aan haar dochter, geen boete opgelegd en [naam 1] heeft, anders dan haar dochter, de overtreding niet feitelijk begaan, aldus [naam 1] . Ook heeft ACM zelf de keuze gemaakt om geen separate boetebesluiten te nemen ten aanzien van de betrokken ondernemingen. </para>
+    <para />
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Het College is op grond van de volgende overwegingen tot het oordeel gekomen dat artikel 12v van de Instellingswet geacht moet worden ook betrekking te hebben op een besluit waarbij ACM vaststelt dat een onderneming (bijvoorbeeld) het kartelverbod heeft overtreden, dat aan die onderneming daarvoor op zichzelf een (bepaalde) boete behoort te worden opgelegd, maar dat niettemin van het opleggen van een boete wordt afgezien vanwege (onder andere) geen of beperkte financiële draagkracht of in verband met een clementieverzoek. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>De artikelen 12v, 12w en 12u zijn in de Instellingswet ingevoegd bij de Wet van 25 juni 2014 (Stb. 2014, 247), in werking getreden met ingang van 1 augustus 2014. Bij die wet is verder, voor zover nu van belang, artikel 62 van de Mw gewijzigd en artikel 65 van de Mw vervallen. De memorie van toelichting (Kamerstukken II, vergaderjaar 2012-2013, 33 622, nr. 3) bevat onder andere de volgende passages:</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“</emphasis>
+          <emphasis role="underline italic">2.2.3.4 Openbaarmaking</emphasis>
+        </para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">(…)</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">De voorgestelde artikelen 12u, 12v en 12w bevatten een regeling omtrent de openbaarmaking van alle besluiten van de ACM en van alle andere documenten die de ACM vervaardigt of laat maken ter uitvoering van haar wettelijke taken. De ACM wordt verplicht alle besluiten tot het opleggen van bestuurlijke sancties en het geven van bindende aanwijzingen openbaar te maken, waarbij een gedifferentieerd regime geldt dat onderscheid maakt naar de zwaarte van een overtreding. Uitgangspunt is dat deze besluiten openbaar worden gemaakt met uitzondering van de gegevens die op basis van artikel 10 van de Wet openbaarheid van bestuur (Wob) niet voor verstrekking in aanmerking komen (artikel 12u). Dit vergt een belangenafweging van de ACM. In het geval van de meest ernstige overtredingen geldt echter dat besluiten standaard en in beginsel integraal openbaar gemaakt worden (artikel 12v). Daar heeft de ACM derhalve geen afwegingsruimte behalve met betrekking tot – niet van de bedrijfsnaam deel uitmakende –persoonsgegevens. Ook geldt dat de vertrouwelijke bedrijfsgegevens uitgezonderd zijn van deze verscherpte openbaarmakingsplicht.” (blz. 13-14</emphasis>)</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“De ACM kan zelf bepalen of zij andere besluiten (waaronder de besluiten tot het </emphasis>
+          <emphasis role="underline italic">niet</emphasis>
+          <emphasis role="italic"> opleggen van een bestuurlijke sanctie of bindende aanwijzing) en genoemde andere documenten openbaar maakt (artikel 12w).” (blz. 14) </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“</emphasis>
+          <emphasis role="underline italic">Algemeen</emphasis>
+        </para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">(…)Ten aanzien van besluiten tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing is gekozen voor een gedifferentieerd regime (artikelen 12u en 12v). Voor deze besluiten geldt in beginsel een regime van verplichte openbaarmaking. (…). Dit regime sluit aan bij de huidige regeling van artikel 65 van de Mededingingswet. Voor sancties en bindende aanwijzingen die worden opgelegd voor de meest ernstige overtredingen wordt een systeem van vroegtijdige automatische openbaarmaking geïntroduceerd (beginselplicht tot openbaarmaking).” (blz. 57)</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“Door de beginselplicht tot openbaarmaking niet algemeen te maken voor besluiten tot het opleggen van bestuurlijke sancties en bindende aanwijzingen, maar te beperken tot de sanctie- en aanwijzingsbesluiten die vanwege een zeer ernstige overtreding worden opgelegd, komt duidelijker tot uitdrukking dat het doel van openbaarmaking niet is het straffen van de overtreder, maar het waarschuwen van consumenten en ondernemingen.” (blz. 57-58)</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“</emphasis>
+          <emphasis role="underline italic">Een gedifferentieerd openbaarmakingsregime voor sanctiebesluiten en bindende aanwijzingen</emphasis>
+        </para>
+        <para>
+          <?linebreak?>
+          <emphasis role="italic">(…)</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Voor besluiten tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing is uitgangspunt dat zij steeds openbaar gemaakt worden (voorgesteld artikel 12v, eerste lid, van de Instellingswet ACM). Dat geldt zowel voor besluiten in primo als beslissingen op bezwaar. Het doel daarvan is allereerst consumenten en marktorganisaties in een zo vroeg mogelijk stadium te waarschuwen voor marktorganisaties die de geldende regels overtreden. De consument loopt zo minder risico zelf het slachtoffer te worden van het optreden van een dergelijke marktorganisatie. Maar de openbaarmaking waarschuwt ook de (andere) marktorganisaties om dergelijke overtredingen niet te begaan maar zich aan de regels te houden (generale preventie). Openbaarmaking draagt zo ook bij aan de naleving van de door de ACM te handhaven normen. Door openbaarmaking worden consumenten voorts in staat gesteld zich te informeren over die normen, over de wijze waarop de normen door de ACM worden gehandhaafd en over de wijze waarop de ACM meer algemeen haar taken uitvoert. En ten slotte draagt openbaarmaking eraan bij transparant te maken hoe de ACM haar taken uitvoert.” (blz. 59) </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“Een belangrijke uitzondering op de regel dat openbaarmaking geen automatisme is doet zich voor indien een bestuurlijke sanctie of bindende aanwijzing wordt opgelegd vanwege een zeer ernstige overtreding (voorgesteld artikel 12v van de Instellingswet ACM). Om uitdrukking te geven aan wat een dergelijke overtreding is, is – net als bij voorgesteld artikel 12k – in de voorgestelde bepaling gekozen voor het objectieve criterium dat het gaat om overtredingen waarvoor een boete van ten hoogste 10% van de omzet kan worden opgelegd. Ingeval van de meest ernstige overtredingen geldt als uitgangspunt dat besluiten tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing automatisch, dat wil zeggen zonder voorafgaande afweging, openbaar worden gemaakt. De ACM is met andere woorden verplicht een dergelijk besluit openbaar te maken. </emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Te denken valt aan het kartelverbod, het verbod van misbruik van een economische machtspositie en concentratiecontrole uit de Mededingingswet, aanmerkelijke marktmacht uit de Telecommunicatiewet en bepalingen met betrekking tot de essentiële netbeheerderstaken uit de Elektriciteitswet 1998 en de Gaswet. De andere overtredingen hebben vaak een meer bijkomend of formeel karakter of spelen zich af in de relatie tussen ACM en marktorganisatie (zoals bijvoorbeeld het verbreken door de marktorganisatie van een door de toezichthouders van de ACM aangebrachte verzegeling of overtreding van de verplichting om inlichtingen te verschaffen) en raken doorgaans de belangen van consumenten minder direct. Bij de meest ernstige overtredingen is dat wel altijd het geval. Het belang van waarschuwing van de consument doet zich daar zeer sterk gevoelen, zodat bij dergelijke overtredingen het belang van waarschuwing van de consument dient te prevaleren.” (blz. 60)</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">“Besluiten tot het </emphasis>
+          <emphasis role="underline italic">niet</emphasis>
+          <emphasis role="italic"> opleggen van een bestuurlijke sanctie of bindende aanwijzing </emphasis>
+          <emphasis role="underline italic">kunnen</emphasis>
+          <emphasis role="italic"> door de ACM openbaar worden gemaakt. Deze besluiten vallen onder de reikwijdte van voorgesteld artikel 12w van de Instellingswet ACM.” (blz. 61)</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>Uit de memorie van toelichting komt aldus naar voren dat de wetgever bij de vormgeving van het stelsel van openbaarmaking als aanknopingspunt heeft willen nemen de aard en de ernst van de overtreding en niet de naar aanleiding daarvan (eventueel) gevolgde bestuurlijke sanctie of bindende aanwijzing. Dat blijkt ook uit de bewoordingen van de aanhef van artikel 12v, eerste lid, van de Instellingswet “indien voor de desbetreffende overtreding bij wettelijk voorschrift is bepaald dat een bestuurlijke boete kan worden opgelegd van ten hoogste 10% van de omzet van de overtreder”. De wetgever heeft aldus gewild dat een besluit waarbij een overtreding is vastgesteld openbaar wordt gemaakt, hetzij op grond van artikel 12u hetzij op grond van artikel 12v van de Instellingswet. In dat licht moet ook de aanduiding in de memorie van toelichting “besluiten tot het<emphasis role="italic"> niet</emphasis> opleggen van een bestuurlijke sanctie of bindende aanwijzing” worden begrepen. De wetgever heeft daarbij kennelijk het oog gehad op besluiten waarbij ACM (na een verzoek van een belanghebbende om handhaving) vaststelt dat geen sprake is van een overtreding, als gevolg waarvan geen bestuurlijke sanctie of bindende aanwijzing wordt opgelegd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4.</nr>
+      <para>Het College ziet er niet aan voorbij dat in de artikelen 12u en 12v van de Instellingswet de aanduiding “een (door haar genomen) beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing” voorkomt en in artikel 12w van de Instellingswet de aanduiding “andere besluiten dan beschikkingen tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing”. De memorie van toelichting laat echter zien dat de wetgever de term “opleggen” niet bewust reserveert voor het daadwerkelijk opleggen van (dat wil zeggen: het besluiten tot) een bestuurlijke sanctie of bindende aanwijzing. Zo bevat de toelichting (bij het gewijzigde artikel 62 van de Mw) de volgende passage (Kamerstukken II, vergaderjaar 2012-2013, 33 622, nr. 3, blz. 11):</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“</emphasis>
+          <emphasis role="underline italic">Opleggen van een boete</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">(…)</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Zo stroomlijnt dit wetsvoorstel de bepalingen ten aanzien van de beslistermijn voor het opleggen van een boete. De termijn voor het beslissen tot het opleggen van een boete sluit aan bij de standaardbeslistermijn van dertien weken uit artikel 5:51 van de Awb.”</emphasis>
+        </para>
+        <para>In artikel 5:51 van de Awb wordt echter gesproken van beslissen “omtrent” het opleggen van een bestuurlijke boete. Daaronder worden niet alleen verstaan besluiten waarbij daadwerkelijk een boete wordt opgelegd, maar ook besluiten waarbij, om welke reden ook, geen boete wordt opgelegd. In dit verband is verder niet zonder betekenis dat ook in de memorie van toelichting bij de Vierde tranche Algemene wet bestuursrecht in de toelichting bij artikel 5:51 van de Awb (Kamerstukken II, vergaderjaar 2003-2004, 29 702, nr. 3, blz. 150) de term “opleggen” wordt gebruikt, waar in dat artikel zelf de term “omtrent” voorkomt:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“Dit artikel regelt de beslistermijn bij het opleggen van bestuurlijke boeten</emphasis>.” </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5.</nr>
+      <para>Het College heeft verder vastgesteld dat de wetgever er nimmer blijk van heeft gegeven op dit punt het van meet af aan in de Mw geregelde stelsel te willen wijzigen. In artikel 62, eerste lid, van de Mw was bepaald dat de directeur-generaal (bij beschikking) beslist omtrent het opleggen van een boete of een last onder dwangsom. In artikel 65, eerste lid, van de Mw was bepaald dat een beschikking als bedoeld in artikel 62, eerste lid, van de Mw, nadat zij is bekendgemaakt, ter inzage wordt gelegd bij de mededingingsautoriteit. De verplichte terinzagelegging zag daarmee dus niet uitsluitend op besluiten waarbij daadwerkelijk een boete was opgelegd. Bij de Aanpassingswet vierde tranche Awb is (de inhoud van) het oorspronkelijke artikel 62 van de Mw vervallen en is in artikel 65, eerste lid, van de Mw de zinsnede “als bedoeld in artikel 62, eerste lid,” vervangen door: “waarbij een bestuurlijke boete of een last onder dwangsom (…) wordt opgelegd”. Het vervallen van het oorspronkelijke artikel 62 van de Mw wordt in de wetsgeschiedenis niet toegelicht. De wijziging van artikel 65 van de Mw wordt aangemerkt als een technische aanpassing. Uit de wetsgeschiedenis kan daarom niet worden afgeleid dat sprake is geweest van een gewijzigd inzicht met betrekking tot de (beoogde) reikwijdte van de verplichting tot terinzagelegging. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.6.</nr>
+      <para>In dit verband wijst het College ten slotte nog op de volgende passage in de memorie van toelichting bij de Wet van 25 juni 2014 (Kamerstukken II, vergaderjaar 2012-2013, 33 622, nr. 3, blz. 62):</para>
+      <para />
+      <parablock>
+        <para>	“<emphasis role="italic">Opgemerkt zij nog dat de voorgestelde artikelen 12u, vijfde lid, en 12v, derde lid, van de Instellingswet ACM buiten twijfel stellen dat beslissingen op bezwaar die strekken tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing ook vallen onder de beginselplicht tot openbaarmaking. Het gaat om beslissingen op bezwaar waarbij het primaire besluit tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing (deels) in stand wordt gelaten. (…) Gelet op de openbaarmakingsdoeleinden is het van belang dat ook openbaarmaking plaatsvindt van het heroverwogen besluit tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing, zodat duidelijk is of de heroverweging heeft geleid tot een gewijzigde sanctieoplegging.” </emphasis></para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Gelet op de uitspraak van het College van 30 juli 2019 (ECLI:NL:2019:329) moet worden vastgesteld dat deze situatie zich hier voordoet. Bij het bestreden boetebesluit wordt immers het primaire boetebesluit na de heroverweging in bezwaar deels in stand gelaten (namelijk voor zover ACM daarbij heeft vastgesteld dat [naam 1] het kartelverbod heeft overtreden en heeft geoordeeld dat daarvoor aan haar een boete van € 2.798.000,-, behoort te worden opgelegd) en deels herroepen (namelijk voor zover het betreft het daadwerkelijk opleggen van die boete).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.7.</nr>
+      <para>De conclusie is dat het hoger beroep slaagt. Het College zal de aangevallen uitspraak vernietigen en, met toepassing van artikel 8:115, eerste lid, aanhef en onder b, van de Awb, de zaak terugwijzen naar de rechtbank. Voor de goede orde wijst het College erop dat de vernietiging van de aangevallen uitspraak ook ziet op de bepalingen over griffierecht en proceskosten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.8.</nr>
+      <para>Met de vernietiging van de aangevallen uitspraak ontvalt de grondslag aan het ter uitvoering daarvan genomen besluit van 22 januari 2019. Het College zal dat besluit daarom vernietigen. De door [naam 1] daartegen aangevoerde gronden hoeven niet meer te worden besproken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.9.</nr>
+      <para>Het College ziet aanleiding het bestreden publicatiebesluit (dat met de vernietiging van de aangevallen uitspraak herleeft) te schorsen tot zes weken nadat de rechtbank opnieuw op het beroep van [naam 1] tegen het bestreden publicatiebesluit heeft beslist. Het College onderschrijft het oordeel van de rechtbank dat het bestreden publicatiebesluit ook voor zover dat ziet op de publicatie van het bestreden boetebesluit moet worden aangemerkt als een beslissing op bezwaar. Dit betekent dat de schorsing ziet op de publicatie van zowel het primaire als het bestreden boetebesluit. Aan de schorsing liggen de volgende overwegingen ten grondslag. De rechtbank heeft tot nu toe geen oordeel gegeven over de rechtmatigheid van het bestreden boetebesluit. Het College wil daarop in deze uitspraak ook niet vooruitlopen. Publicatie van het primaire en het bestreden boetebesluit is onomkeerbaar en kan onherstelbare negatieve gevolgen voor [naam 1] hebben. Dat belang weegt, in elk geval op dit moment, zwaarder dan het met publicatie gemoeide belang. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.10.</nr>
+      <para>Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College: <?linebreak?></para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt de aangevallen uitspraak; </para>
+      </listitem>
+      <listitem>
+        <para>wijst de zaak terug naar de rechtbank;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het besluit van 22 januari 2019;</para>
+      </listitem>
+      <listitem>
+        <para>schorst het bestreden publicatiebesluit tot zes weken nadat de rechtbank opnieuw op het beroep van [naam 1] tegen het bestreden publicatiebesluit heeft beslist. </para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. T.G.M. Simons, mr. J.L.W. Aerts en mr. J.L. Verbeek, in aanwezigheid van mr. C.H.R. Mattheussens, griffier. De beslissing is in het openbaar uitgesproken op 18 februari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para> w.g. T.G.M. Simons						w.g. C.H.R. Mattheussens<?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Instellingswet Autoriteit Consument en Markt</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 12u</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. De Autoriteit Consument en Markt maakt een door haar genomen beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing, niet zijnde een beschikking als bedoeld in artikel 12v, eerste lid, openbaar met dien verstande dat gegevens die ingevolge artikel 10 van de Wet openbaarheid van bestuur niet voor verstrekking in aanmerking komen, niet openbaar worden gemaakt.</para>
+    <para>2. De openbaarmaking van de beschikking geschiedt niet eerder dan nadat tien werkdagen zijn verstreken na de dag waarop de beschikking aan de overtreder bekend is gemaakt, tenzij de overtreder de beschikking zelf heeft openbaar gemaakt, heeft doen openbaar maken of heeft aangegeven geen bedenkingen te hebben tegen eerdere openbaarmaking.</para>
+    <para>3. Indien wordt verzocht om een voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt de openbaarmaking van de beschikking opgeschort totdat de voorzieningenrechter uitspraak heeft gedaan of het verzoek is ingetrokken.</para>
+    <para>4. Indien de openbaarmaking van de beschikking naar het oordeel van de Autoriteit Consument en Markt in strijd is of zou kunnen komen met het doel van het aan de Autoriteit Consument en Markt opgedragen toezicht op de naleving, blijft openbaarmaking achterwege.</para>
+    <para>5. Het eerste tot en met vierde lid zijn mede van toepassing op een door de Autoriteit Consument en Markt genomen beslissing op bezwaar strekkend tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 12v </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. De Autoriteit Consument en Markt maakt een door haar genomen beschikking tot het opleggen van een bestuurlijke sanctie of een bindende aanwijzing openbaar indien voor de desbetreffende overtreding bij wettelijk voorschrift is bepaald dat een bestuurlijke boete kan worden opgelegd van ten hoogste 10% van de omzet van de overtreder en met dien verstande dat:</para>
+    <para>a. gegevens als bedoeld in artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur niet openbaar worden gemaakt;</para>
+    <para>b. namen van betrokken natuurlijke personen niet openbaar worden gemaakt, indien het belang van openbaarmaking naar het oordeel van de Autoriteit Consument en Markt niet opweegt tegen het belang, bedoeld in artikel 10, tweede lid, onderdeel e of g, van de Wet openbaarheid van bestuur;</para>
+    <para>c. de naam van de overtredende marktorganisatie altijd openbaar wordt gemaakt, ook indien de naam van een natuurlijke persoon van die naam deel uitmaakt.</para>
+    <para>2. Artikel 12u, tweede tot en met vierde lid, zijn van toepassing.</para>
+    <para>3. Het eerste lid is mede van toepassing op een door de Autoriteit Consument en Markt genomen beslissing op bezwaar strekkend tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing. Artikel 12u, tweede tot en met vierde lid, is van toepassing<emphasis role="underline">.</emphasis></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Artikel 12w </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. De Autoriteit Consument en Markt kan door haar genomen andere besluiten dan beschikkingen tot het opleggen van een bestuurlijke sanctie of bindende aanwijzing openbaar maken, alsmede andere documenten die door haar of in haar opdracht zijn vervaardigd voor de uitvoering van de aan haar bij of krachtens de wet opgedragen taken.</para>
+    <para>2. Gegevens die ingevolge artikel 10 van de Wet openbaarheid van bestuur niet voor verstrekking in aanmerking komen, worden niet openbaar gemaakt.</para>
+    <para>3. Artikel 12u, tweede en derde lid, is van overeenkomstige toepassing indien de Autoriteit Consument en Markt op grond van het eerste lid besluit tot openbaarmaking van een besluit.</para>
+    <para>4. Artikel 12u, vierde lid, is van overeenkomstige toepassing.</para>
+    <para>5. Het eerste lid is niet van toepassing, voor zover een wettelijk voorschrift de openbaarmaking regelt.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

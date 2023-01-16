@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:2534</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-06T15:36:34</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">HAA 19/3160</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0015703&amp;g=2020-04-01">Wet werk en bijstand</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2534">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2534</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-06T15:35:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:2534 Rechtbank Noord-Holland , 30-03-2020 / HAA 19/3160</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:2534:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Participatiewet: opschorting en intrekking. Gebruik maken van bankrekening van zoon.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:2534:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/3160</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 30 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres</bridgehead>
+    <para>(gemachtigde: mr. J. Sprakel),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Haarlem, verweerder</bridgehead>
+    <para>(gemachtigde: mr. P. Thijssen).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 mei 2019 (het primaire besluit I) heeft verweerder het recht op een bijstandsuitkering van eiseres op grond van de Participatiewet (PW) per 24 mei 2019 opgeschort. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 juni 2019 (het primaire besluit II) heeft verweerder het recht op bijstand van eiseres vanaf 25 mei 2019 opgeschort. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 2 juli 2019 (het primaire besluit III) heeft verweerder het recht op een bijstandsuitkering van eiseres per 3 juli 2019 beëindigd en ingetrokken vanaf 24 mei 2019. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen de primaire besluiten bezwaar gemaakt en de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 22 juli 2019 (het bestreden besluit) heeft verweerder de bezwaren van eiseres gegrond verklaard. Het primaire besluit I is herroepen voor zover dit ziet op de opschorting. Het primaire besluit II is herroepen in die zin dat de bijstandsuitkering is opgeschort per 4 juni 2019. Het primaire besluit III is herroepen in die zin dat het recht op bijstand is ingetrokken per 4 juni 2019. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. De reeds door eiseres verzochte voorlopige voorzieningen zijn op grond van artikel 8:81, vijfde lid, van de Algemene wet bestuursrecht (Awb) geacht connex te zijn aan dit beroep.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 1 augustus 2019 (HAA 19/2934, HAA 19/2935 en HAA 19/2936) heeft de voorzieningenrechter van deze rechtbank de verzoeken afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 10 februari 2020. Eiseres is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>1.	Eiseres ontvangt al geruime tijd een bijstandsuitkering, laatstelijk van verweerder. Naar aanleiding van een melding van 28 november 2018 dat de moeder van eiseres bij haar zou inwonen is verweerder een onderzoek gestart naar de rechtmatigheid van de aan eiseres verstrekte bijstandsuitkering. Uit dit onderzoek is onder meer gebleken dat op de rekening van eiseres stortingen in contanten, van haar dochter en van het Uitvoeringsinstituut werknemersverzekeringen, hebben plaatsgevonden. Gebleken is dat de zoon van eiseres bij haar in huis woont en dat hij een Wajong-uitkering ontvangt. Deze uitkering werd gestort op de rekening van eiseres. Thans ontvangt haar zoon deze op zijn eigen rekening. Voorts heeft eiseres verklaard dat de huur- en zorgtoeslag op de rekening van haar zoon werd gestort en dat deze toeslagen eerder werden verrekend wegens een schuld bij de Belastingdienst. Thans ontvangt zij deze toeslagen op haar eigen rekening. Verder is gebleken dat eiseres zorg heeft verleend aan haar moeder, wat bekostigd wordt middels het persoonsgebonden budget van haar moeder. Dit is gestort op een eerder bij verweerder nog onbekende bankrekening. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Verweerder heeft eiseres naar aanleiding van de bevindingen van voornoemd onderzoek onder meer verzocht om rekeningafschriften van de rekening van haar zoon vanaf 1 januari 2017. De bijstandsuitkering van eiseres is per 1 maart 2019 opgeschort. Hiertegen heeft eiseres bezwaar gemaakt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Eiseres heeft de gevraagde gegevens tot twee keer toe niet overgelegd. Verweerder heeft desondanks de opschorting van de uitkering van eiseres bij hoge uitzondering ongedaan gemaakt en de uitkering van maart 2019 is aan eiseres uitbetaald. Per 1 april 2019 is de uitkering van eiseres opnieuw opgeschort. Ook deze opschorting heeft verweerder ongedaan gemaakt en de uitkering van april 2019 is betaalbaar gesteld. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Op 23 april 2019 is eiseres op gesprek geweest bij verweerder. Uit het hiervan opgemaakte door eiseres ondertekende gespreksverslag volgt – onder meer – het volgende. Eiseres heeft verklaard dat de stortingen op haar rekening afkomstig zijn van haar zoon en dochter. Voorts heeft zij verklaard niet gemachtigd te zijn om de rekening van haar zoon te beheren. De uitkering van haar zoon werd volgens eiseres gebruikt om kosten te betalen omdat zij kostendelers zijn. Zijn ziekenfonds, de huur, het gas, water en licht, de tandartsrekening en de telefoonrekening van haar en haar zoon werden daarmee betaald. Er wordt van hem € 700,- gestort op de rekening van eiseres. Daarvan maakt zij € 195,- over op zijn rekening om de zorgverzekering te betalen. De rest van het geld gebruikt eiseres voor boodschappen en de rekeningen. Eiseres gebruikt zijn bankpas om boodschappen te doen. Zij neemt ook contant geld op, niet alles, er blijft ook wat op zijn rekening staan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Op 24 april 2019 heeft verweerder eiseres meegedeeld dat de afschriften van de bankrekening van haar zoon eerder niet hadden mogen worden opgevraagd omdat haar zoon volwassen is en geen subject van bijstand. Verder is vermeld dat uit onderzoek is gebleken dat er op de rekening van eiseres vanaf 1 januari 2017 regelmatig kasstortingen te zien zijn. Eiseres is verzocht om voor 3 mei 2019 door middel van controleerbare en verifieerbare bewijsstukken aan te tonen waar het geld van deze kasstortingen vandaan komt. <?linebreak?>1.5	Eiseres heeft hierop bij brief van 1 mei 2019 gereageerd. Zij heeft – samengevat – het volgende vermeld. Zij krijgt bijstand naar de kostendelersnorm en deelt de kosten van de huishouding samen met haar zoon. Veel wordt van haar rekening betaald en daarvoor krijgt zij een bijdrage van haar zoon. Eiseres heeft een overzicht overgelegd waarin staat dat eiseres haar zoon helpt met het opladen van zijn OV-chipkaart, hij bijdraagt aan de kosten van de boodschappen en algemene rekeningen, de toeslagen tot begin 2019 op de rekening van de zoon van eiseres zijn gestort en de dochter van eiseres een lening heeft afgelost. Slechts een klein bedrag kan zij niet verklaren. Eiseres heeft geprobeerd de stortingen te linken aan betalingen. Omdat eiseres nog geen DigiD heeft kan zij de beschikkingen van de Belastingdienst (nog) niet overleggen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <para>Bij besluit van 24 mei 2019 heeft verweerder het bezwaar van eiseres gericht tegen de opschorting per 1 maart 2019 gegrond verklaard omdat verweerder er toen vanuit moest gaan dat eiseres geen gemachtigde was van de rekening van haar meerderjarige zoon en niet is gebleken dat eiseres redelijkerwijs kon beschikken over deze bankafschriften. Evenmin is gebleken dat eiseres tijdens de opschorting gebruik maakte van de rekening van haar zoon. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7</nr>
+      <parablock>
+        <para>Bij het primaire besluit I heeft verweerder het recht op uitkering van eiseres per </para>
+        <para>24 mei 2019 opgeschort. Voor zover van belang is eiseres daarbij, gelet op haar verklaring dat zij over de rekening van haar zoon kan beschikken, weer verzocht om de bankafschriften van haar zoon vanaf 1 oktober 2018 over te leggen. Tevens is gevraagd om beschikkingen van de Belastingdienst inzake de toeslagen over 2017, 2018 en 2019 en bewijsstukken waaruit blijkt dat de toeslagen zijn verrekend met een openstaande schuld. Eiseres dient deze gegevens tijdens een gesprek op 4 juni 2019 te overleggen. Hiertegen heeft eiseres bezwaar gemaakt en de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8</nr>
+      <para>Tijdens het gesprek op 4 juni 2019 heeft eiseres – onder meer – verklaard dat zij de bankafschriften van de rekening van haar zoon niet heeft overgelegd omdat deze volgens haar advocaat niet mogen worden opgevraagd. De beschikking van de Belastingdienst en een schuldenoverzicht van 2017 heeft zij overgelegd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9</nr>
+      <para>Bij het primaire besluit II is eiseres nogmaals om kopieën van bankafschriften van de rekening van haar zoon gevraagd. Tevens is gevraagd om aan te tonen wat er met haar toeslagen is gebeurd, op welke rekening deze zijn gestort en/of aan te tonen dat deze zijn verrekend. Verweerder heeft het recht op bijstand van verzoekster vanaf 25 mei 2019 opgeschort. Hiertegen heeft eiseres eveneens bezwaar gemaakt en de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10</nr>
+      <parablock>
+        <para>Verweerder heeft vervolgens het recht op bijstand van eiseres bij het primaire besluit III op grond van artikel 54, vierde lid, van de PW, ingetrokken met ingang van </para>
+        <para>24 mei 2019 omdat eiseres, nu zij de gevraagde gegevens niet binnen de daarvoor gestelde termijn heeft overgelegd, niet aan haar inlichtingenverplichting heeft voldaan. Hiertegen heeft eiseres bezwaar gemaakt en de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>De Adviescommissie voor bezwaarschriften heeft als volgt geadviseerd. Verweerder is op grond van artikel 53a, van de PW bevoegd om een onderzoek in te stellen naar de juistheid en volledigheid van de verstrekte gegevens en zo nodig naar andere gegevens die noodzakelijk zijn voor de verlening dan wel voortzetting van de bijstand. Deze bevoegdheid kan steeds en spontaan worden uitgeoefend ten aanzien van alle bijstandsgerechtigden. Gelet op de verklaringen van eiseres heeft zij de beschikking gehad over de bankpas en de pincode van haar zoon. Zij heeft hiermee onbeperkt toegang gehad tot zijn rekening en de hierop staande tegoeden en heeft hiervan ook daadwerkelijk gebruik gemaakt. Er zijn in het dossier geen aanwijzingen te vinden om eiseres niet aan deze door haar ondertekende verklaringen te houden. Door het storten van de zorg- en huurtoeslag op de bankrekening van haar zoon en door het gebruik van de bankrekening en de hierop staande tegoeden was het voor verweerder niet mogelijk om het recht op bijstand vast te stellen. Gelet hierop was verweerder bevoegd de bankafschriften van de zoon van eiseres op te vragen. Anders dan ten tijde van het tot stand komen van het besluit tot opschorting van de bijstandsuitkering per      1 maart 2019 is nu wel sprake van een grondslag om de bankafschriften op te vragen. Immers, gebleken is dat eiseres wel de beschikking had over de pinpas en de bankrekening van haar zoon. Verder is de commissie van oordeel dat de gevraagde beschikkingen en bewijsstukken van de Belastingdienst van belang zijn om het recht op bijstand vast te kunnen stellen omdat eiseres is gevraagd om een toelichting te geven op de hoge bedragen aan kasstortingen op haar rekening. Eiseres heeft verklaard dat de toeslagen op de rekening van haar zoon werden gestort. Onduidelijk blijft op welke bankrekening de huur- en zorgtoeslag wordt gestort, hoe deze verrekend is met een openstaande schuld en hoe dit strookt met de verklaringen van eiseres over de kasstortingen op haar rekening. Echter, de bijstandsuitkering van eiseres had niet per 24 mei 2019 opgeschort mogen worden nu zij op dat moment nog niet in verzuim was. Het primaire besluit I moet dat ook worden beschouwd als het opvragen van informatie bij eiseres. Bij het primaire besluit II had de bijstandsuitkering van eiseres pas per 4 juni 2019 mogen worden opgeschort, nu zij toen pas in verzuim was. Eiseres heeft de gevraagde gegevens niet binnen de geboden termijn overgelegd zodat verweerder het recht op bijstand bij het primaire besluit III pas per 4 juni 2019 heeft mogen intrekken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Verweerder heeft vervolgens onder verwijzing naar voornoemd advies het bestreden besluit genomen. Hiertegen heeft eiseres beroep ingesteld.</para>
+      <para />
+      <para>3. Eiseres heeft zich in beroep – samengevat – op het standpunt gesteld dat verweerder het recht op bijstand ten onrechte heeft opgeschort en ingetrokken. De bankgegevens van de zoon van eiseres hadden niet mogen worden opgevraagd. Eiseres beschikt niet over de rekening als ware het haar eigen rekening. Zij helpt haar zoon met financiën in verband met zijn beperking en voert met hem een huishouding waar de kostendelersnorm op van toepassing is. In dat kader gaat er geld van haar zoon naar eiseres die daarvan de rekeningen betaalt. De zoon van eiseres valt niet onder de reikwijdte van de inlichtingenplicht. Hij is geen subject van bijstand en heeft recht op privacy. Uit het bestreden besluit volgt verder dat de bankgegevens worden opgevraagd omdat verweerder wil controleren of daarop inderdaad toeslagen zijn gestort. Toeslagen zijn echter geen middelen in de zin van de bijstand, zodat het doel om deze gegevens te krijgen onduidelijk is. Over de stortingen op haar rekening heeft eiseres duidelijkheid verschaft. De heroverweging van 22 mei 2019 omvat voorts wel degelijk het gespreksverslag van 23 april 2019. Er is dan ook geen sprake van een gewijzigde situatie. Verweerder weegt tot slot de informatie die eiseres wel heeft geleverd ten onrechte niet mee bij de besluitvorming. Ook de gevolgen van de besluitvorming voor eiseres blijven ten onrechte buiten beschouwing. 	<?linebreak?></para>
+      <para>
+        <emphasis role="italic">Opschorting</emphasis>
+      </para>
+      <para />
+      <para>4. Op grond van artikel 54, eerste lid, van de PW heeft het bijstandverlenend orgaan de bevoegdheid tot opschorting van het recht op bijstand indien de betrokkene de voor de verlening van bijstand van belang zijnde gegevens of de gevorderde bewijsstukken niet, niet tijdig of onvolledig heeft verstrekt en hem dit te verwijten valt, of indien de betrokkene anderszins onvoldoende medewerking verleent. De verwijtbaarheid kan ontbreken indien het gaat om gegevens of gevorderde bewijsstukken die niet van belang zijn voor de verlening van bijstand of om gegevens waarover betrokkene niet binnen de hersteltermijn redelijkerwijs heeft kunnen beschikken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>De voorzieningenrechter van deze rechtbank heeft in de uitspraak van 1 augustus 2019 overwogen dat uit het bestreden besluit volgt dat verweerder de bankafschriften van de zoon van eiseres niet enkel heeft opgevraagd om duidelijkheid te krijgen over de door de Belastingdienst verstrekte toeslagen. Uit het advies van de commissie voor bezwaarschriften volgt dat de bankafschriften van haar zoon mede zijn opgevraagd om duidelijkheid te krijgen over de financiële situatie van eiseres, nu zij – onder meer – heeft verklaard van zijn rekening gebruik te maken en hiervan geld op haar eigen rekening te storten. De voorzieningenrechter heeft verder overwogen dat, hoewel eiseres terecht stelt dat de zorg- en huurtoeslag geen middelen zijn waarmee in de bijstand rekening moet worden gehouden, van oordeel te zijn dat de door verweerder opgevraagde informatie van de Belastingdienst en de bankafschriften van de zoon van eiseres in dit geval onmiskenbaar van belang zijn voor de vaststelling van het recht op bijstand. Anders dan eiseres stelt zijn de gegevens niet alleen dan van belang als zij de bankrekening van haar zoon gebruikt als ware het haar eigen rekening, nog daargelaten de vraag of hiervan in het geval van eiseres al dan niet sprake is. De verklaring van eiseres dat de toeslagen op de bankrekening van de zoon van eiseres werden gestort en dat eiseres geld op eigen rekening heeft gestort, afkomstig van de bankrekening van haar zoon, is reeds voldoende voor het oordeel dat deze gegevens noodzakelijk zijn om inzicht te verkrijgen in de financiële situatie van eiseres. De rechtbank overweegt daarbij dat uit rechtspraak van de Centrale Raad van Beroep (CRvB) volgt dat omdat eiseres gebruik maakte van de bankrekening van haar zoon, verweerder deze bankafschriften mocht opvragen (zie de uitspraak van de CRvB van 30 juni 2015, ECLI:NL:CRVB:2015:2129). De rechtbank ziet dat de gang van zaken voor eiseres belastend is geweest, maar niet is gebleken van ontoelaatbare druk die op eiseres zou zijn uitgeoefend en dat zij anders heeft verklaard dan in het verslag is opgenomen. Dat eiseres ter zitting heeft verklaard dat zij samen met haar zoon ging pinnen, maakt het voorgaande niet anders, omdat het geld ook toekwam aan haar, zoals ook in de eerdergenoemde uitspraak van de voorzieningenrechter is overwogen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De voorzieningenrechter heeft verder geoordeeld dat eiseres kan worden gevolgd in haar standpunt dat haar zoon geen subject van bijstand is, maar dat verweerder gelet op de feitelijke situatie de gegevens van de bankrekening van haar zoon in het onderhavige geval wel van eiseres heeft mogen verlangen. Daarbij heeft de voorzieningenrechter van belang geacht dat de financiën van eiseres en haar zoon met elkaar verwikkeld zijn. Dit volgt bijvoorbeeld uit de door eiseres afgelegde verklaring dat zij af en toe boodschappen doet met de bankpas van haar zoon, dat hij bijdraagt aan de kosten van algemene rekeningen en dat zij aan haar zoon uitgekeerde toeslagen op haar rekening stort. Dat dit in het kader van de kostendelersnorm gebruikelijk is moge zo zijn, maar dit doet niet af aan het feit dat de financiële situatie van een bijstandsgerechtigde wel inzichtelijk moet zijn. Het door eiseres overgelegde overzicht heeft de voorzieningenrechter daartoe bij gebrek aan objectiveerbare en verifieerbare onderbouwing, onvoldoende geacht. Verweerder was dan ook bevoegd om de gegevens bij eiseres op te vragen. Dat verweerder bij beslissing op bezwaar van 24 mei 2019 ten aanzien van de opschorting per maart 2019 anders heeft geoordeeld doet aan het voorgaande niet af. Niet in geschil is dat de geboden hersteltermijn redelijk was en dat eiseres de gevraagde gegevens niet binnen deze termijn heeft overgelegd. Voorts is niet gebleken dat eiseres niet over deze gegevens heeft kunnen beschikken. Daarbij heeft de voorzieningenrechter van belang geacht dat eiseres de pinpas van haar zoon heeft en hiermee daadwerkelijk geld heeft opgenomen en overboekingen heeft kunnen verrichten. Daarbij komt dat door gemachtigde van eiseres op de hoorzitting is verklaard dat de rekening van de zoon door hem is ingezien. Verweerder was gelet op het voorgaande bevoegd om het recht op bijstand op grond van artikel 54, eerste lid, van de PW, met ingang van 4 juni 2019 op te schorten, aldus het voorlopig oordeel van de voorzieningenrechter.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De rechtbank is van oordeel dat, nu eiseres na de uitspraak van de voorzieningenrechter van 1 augustus 2019 geen gronden heeft ingediend of nieuwe feiten ingebracht, er geen ander licht is geworpen op de feiten. De rechtbank sluit zich daarom aan bij de overwegingen en het oordeel van de voorzieningenrechter en maakt deze tot de hare. De rechtbank is met verweerder van oordeel dat eiseres over de gegevens kan beschikken omdat zij beschikte over de bankpas van haar zoon en hiermee daadwerkelijk geld heeft opgenomen (zie de uitspraken van de CRvB van 7 juni 2017, ECLI:NL:CRVB:2016:2159 en 25 juni 2019, ECLI:NL:CRVB:2019:2121). Niet gebleken is dat eiseres binnen de geboden uiterste hersteltermijn niet redelijkerwijs over de bankafschriften heeft kunnen beschikken. Dat het technisch niet mogelijk was om bankafschriften te overleggen heeft zij voorts niet met verifieerbare stukken onderbouwd. Eiseres heeft zich steeds op het standpunt heeft dat zij de bankafschriften niet hoefde te overleggen, maar niet is gebleken dat zij om uitstel van de hersteltermijn heeft verzocht (zie de uitspraak van de CRvB van 7 juni 2016, ECLI:NL:CRVB:2016:2159). </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Intrekking </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5.	Bij de beantwoording van de vraag of verweerder na opschorting bevoegd is tot intrekking van bijstand met toepassing van artikel 54, vierde lid, van de PW, staat ter beoordeling of eiseres verzuimd heeft binnen de daartoe gestelde termijn de bij het opschortingsbesluit gevraagde gegevens te verstrekken. Indien dat het geval is, dient vervolgens te worden nagegaan of eiseres van dat verzuim een verwijt kan worden gemaakt. De verwijtbaarheid kan ontbreken indien het gaat om gegevens of gevorderde bewijsstukken die niet van belang zijn voor de verlening van bijstand of om gegevens waarover de betrokkene niet binnen de gestelde termijn redelijkerwijs heeft kunnen beschikken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>De voorzieningenrechter van deze rechtbank heeft in voornoemde uitspraak van                                1 augustus 2019 overwogen dat verweerder bevoegd was de bijstand van eiseres per 4 juni 2019 in te trekken. In dat verband heeft de voorzieningenrechter overwogen dat niet in geschil is dat eiseres niet voor 27 juni 2019 de gevraagde gegevens heeft overgelegd, terwijl al is overwogen dat deze gegevens van belang waren voor het recht op bijstand en dat eiseres binnen voornoemde termijn heeft kunnen overleggen. De voorzieningenrechter heeft overwogen dat het niet tijdig herstellen van het verzuim haar dan ook kan worden verweten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>De rechtbank sluit zich ook aan bij deze overwegingen en het oordeel van de voorzieningenrechter en maakt deze tot de hare. Van dringende reden om van opschorting danwel intrekking af te zien is de rechtbank niet gebleken. Nu eiseres de gevraagde gegevens niet heeft ingeleverd, kan verweerder het recht op bijstand niet beoordelen en is een afweging van de belangen van eiseres niet goed mogelijk (zie de uitspraak van de CRvB van 23 juli 2019, ECLI:NL:CRVB:2019:2503).</para>
+      <para />
+      <parablock>
+        <para>6.	Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 30 maart 2020 door mr. L. Boonstra, rechter, in aanwezigheid van mr. M.H. Boomsma, griffier. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

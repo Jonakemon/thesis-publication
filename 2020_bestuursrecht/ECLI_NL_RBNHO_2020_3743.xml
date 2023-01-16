@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:3743</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-25T15:00:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-19</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">HAA 20/172</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Alkmaar</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:3743">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:3743</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-25T11:47:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:3743 Rechtbank Noord-Holland , 08-05-2020 / HAA 20/172</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:3743:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>beroep niet tijdig beslissen gegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:3743:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para>Zittingsplaats Alkmaar</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 20/172</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 8 mei 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. J.H. Gerritsen),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het ministerie van Justitie en Veiligheid, Detentiecentrum Schiphol, DJI</emphasis>, verweerder.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <parablock>
+      <para>Bij brief van 10 januari 2020 heeft eiser bij de rechtbank beroep ingesteld in verband met het niet tijdig nemen van een besluit op bezwaar van 28 november 2018 betreffende de salarisstrook november 2018.</para>
+      <para>De rechtbank heeft verweerder bij brieven van 5 februari 2020 en 26 februari 2020 verzocht op de zaak betrekking hebbende stukken en een verweerschrift in te dienen. Verweerder heeft niet gereageerd.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>Ingevolge artikel 8:54, eerste lid, van de Algemene wet bestuursrecht (Awb) kan de rechtbank, totdat partijen zijn uitgenodigd om op een zitting te verschijnen, het onderzoek sluiten indien voortzetting van het onderzoek niet nodig is, omdat zij kennelijk onbevoegd is dan wel het beroep kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond is.</para>
+      </listitem>
+      <listitem>
+        <para>Ingevolge artikel 8:55b, eerste lid, van de Awb doet de rechtbank, indien het beroep is gericht tegen het niet tijdig nemen van een besluit, binnen acht weken nadat het beroepschrift is ontvangen en aan de vereisten van artikel 6:5 van de Awb is voldaan, uitspraak met toepassing van artikel 8:54 van de Awb, tenzij de rechtbank een onderzoek ter zitting noodzakelijk acht. </para>
+      </listitem>
+      <listitem>
+        <para>Ingevolge artikel 6:2, aanhef en onder b, van de Awb wordt voor de toepassing van wettelijke voorschriften over bezwaar en beroep, het niet tijdig nemen van een besluit met een besluit gelijkgesteld. Tegen het niet tijdig beslissen staat dan ook beroep bij de rechtbank open.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <para>4. Ingevolge artikel 6:12, tweede lid, van de Awb, kan het beroepschrift worden ingediend zodra:	<?linebreak?>a.	het bestuursorgaan in gebreke is tijdig een besluit te nemen, en	<?linebreak?>b.	twee weken zijn verstreken na de dag waarop belanghebbende het bestuursorgaan schriftelijk heeft medegedeeld dat het in gebreke is.</para>
+    <para>5. Ingevolge artikel 7:10, eerste lid, van de Awb beslist het bestuursorgaan binnen zes weken of – indien een commissie als bedoeld in artikel 7:13 van de Awb is ingesteld – binnen twaalf weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.</para>
+    <para>6. Eiser heeft op 28 november 2018 bezwaar gemaakt tegen de salarisstrook november 2018. Verweerder heeft de ontvangst van het bezwaar bij bericht van 28 december 2018 aan eiser bevestigd. De rechtbank stelt vast dat deze beslistermijn is verstreken. </para>
+    <para>7. De rechtbank stelt voorts vast dat eiser verweerder bij brieven van 21 mei 2019 en 11 december 2019 heeft meegedeeld dat hij in gebreke is en dat sindsdien twee weken zijn verstreken.</para>
+    <para>8. Het beroep is kennelijk gegrond. </para>
+    <para>9. In artikel 8:55d, eerste lid, van de Awb is bepaald dat indien het beroep gegrond is en nog geen besluit bekendgemaakt is, de rechtbank bepaalt dat het bestuursorgaan binnen twee weken na de dag waarop de uitspraak wordt verzonden alsnog een besluit bekendmaakt. In het tweede lid is neergelegd dat de rechtbank aan haar uitspraak een nadere dwangsom verbindt voor iedere dag dat het bestuursorgaan in gebreke blijft de uitspraak na te leven. </para>
+    <para>10. Gelet op het bepaalde in artikel 8:55d, eerste lid, van de Awb zal de rechtbank verweerder opdragen binnen een termijn van twee weken na verzending van deze uitspraak alsnog een besluit op bezwaar te nemen.</para>
+    <para>11. De rechtbank bepaalt voorts met toepassing van artikel 8:55d, tweede lid, van de Awb dat verweerder een dwangsom van € 100,- verbeurt voor elke dag waarmee de hiervoor genoemde termijn wordt overschreden, met een maximum van € 15.000,-.</para>
+    <para>12. Ingevolge artikel 8:55c van de Awb stelt de rechtbank indien het beroep gegrond is desgevraagd tevens de hoogte van de ingevolge afdeling 4.1.3 verbeurde dwangsom vast. </para>
+    <para>13. In artikel 4:17, eerste lid, van de Awb is bepaald dat indien een beschikking op aanvraag niet tijdig wordt gegeven, het bestuursorgaan een dwangsom verbeurt voor elke dag dat het in gebreke is, doch voor ten hoogste 42 dagen. De Algemene termijnenwet is op laatstgenoemde termijn niet van toepassing. Ingevolge  het tweede lid bedraagt de dwangsom de eerste veertien dagen € 23 per dag, de daarop volgende veertien dagen € 35 per dag en de overige dagen € 45 per dag.  Ingevolge het derde lid is de eerste dag waarover de dwangsom verschuldigd is, de dag waarop twee weken zijn verstreken na de dag waarop de termijn voor het geven van de beschikking is verstreken en het bestuursorgaan van de aanvrager een schriftelijke ingebrekestelling heeft ontvangen. </para>
+    <para />
+    <parablock>
+      <para>14. Ingevolge artikel 4:18, eerste lid, van de Awb stelt het bestuursorgaan de verschuldigdheid en de hoogte van de dwangsom bij beschikking vast binnen twee weken na de laatste dag waarover de dwangsom verschuldigd was. In het beroepschrift van 10 januari 2020 is de rechtbank verzocht de hoogte van deze dwangsom vast te stellen.</para>
+      <para>14. De rechtbank stelt vast dat verweerder na de ingebrekestelling niet binnen twee weken nadien een besluit heeft genomen op het bezwaar en dat inmiddels meer dan 42 dagen zijn verstreken. Ook de termijn van artikel 4:18, eerste lid van de Awb is inmiddels verstreken. De rechtbank oordeelt dan ook dat verweerder inmiddels het maximale bedrag van € 1.442,- heeft verbeurd.</para>
+      <para>14. Op grond van artikel 3 van het Besluit worden samenhangende zaken voor de toepassing van het Besluit beschouwt als één zaak. Gelet hierop beschouwt de rechtbank de zaak als samenhangend, nu de werkzaamheden van gemachtigde in de tegelijk behandelde procedure HAA 20/171 nagenoeg identiek waren. Daarom blijft de hoogte van de vergoeding beperkt tot het bedrag dat in de procedure HAA 20/171 is toegekend. </para>
+      <para>14. Uit de gegrondverklaring volgt dat verweerder het betaalde griffierecht ten bedrage van € 178,- dient te vergoeden.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>De rechtbank:	<?linebreak?>-	verklaart het beroep in verband met het niet tijdig nemen van een besluit op bezwaar 	gegrond;<?linebreak?>-	vernietigt het met een besluit gelijk te stellen niet tijdig nemen van een besluit;	<?linebreak?>-	draagt verweerder op alsnog een besluit te nemen binnen twee weken na de dag van 	verzending van deze uitspraak;	<?linebreak?>-	bepaalt dat verweerder aan eiser een dwangsom van € 100,- verbeurt voor elke dag 	waarmee hij de hiervoor genoemde termijn overschrijdt, met een maximum van <?linebreak?>	€ 15.000,-;	<?linebreak?>-	stelt vast dat verweerder als gevolg van het niet tijdig beslissen op het bezwaar een 	dwangsom als bedoeld in artikel 4:17 van de Awb heeft verbeurd van in totaal <?linebreak?>	€ 1.442,-;<?linebreak?>-	draagt verweerder op het betaalde griffierecht van € 178,- aan eiser te vergoeden.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door L.M. Kos, rechter, in aanwezigheid van A.C. Karels, griffier. Deze uitspraak is gedaan op 8 mei 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel </title>
+    <parablock>
+      <para>Tegen deze uitspraak kan verzet worden gedaan bij deze rechtbank. </para>
+      <para>Het verzet dient gedaan te worden door het indienen van een verzetschrift binnen zes weken na de dag van verzending van de uitspraak door de griffier. De indiener van het verzetschrift kan daarbij vragen in de gelegenheid te worden gesteld over het verzet te worden gehoord.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2119</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-12T15:49:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-09</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/2444</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2119">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2119</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-12T15:44:54</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2119 Rechtbank Midden-Nederland , 09-06-2020 / 18/2444</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2119:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wob, verzoek gaat over gegevens luchtkwaliteit, eiser wil berekeningen kunnen checken, verweerder hoefde n.a.v. het verzoek niet in die specifieke info te voorzien, Hij heeft de juiste zoekslag gemaakt. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2119:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Utrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 18/2444</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 9 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: drs. C. van Oosten),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Utrecht, verweerder</bridgehead>
+    <para>(gemachtigde: mr. A. Braxhoven).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Op 2 juni 2017 heeft eiser bij verweerder op grond van de Wet openbaarheid van bestuur </para>
+      <para>(Wob) een verzoek om openbaarmaking van informatie ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 6 juli 2017 (het primaire besluit) heeft verweerder zich op het standpunt gesteld dat eisers verzoek geen verzoek op grond van de Wob is, maar een verzoek tot het verrichten van een feitelijke handeling.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 mei 2018 (het bestreden besluit) heeft verweerder het bezwaar van eiser </para>
+      <para>gegrond verklaard en op grond van de Wob nadere documenten openbaar gemaakt. Verweerder heeft bij het bestreden besluit ook een dwangsom aan eiser toegekend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluiten beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 19 december 2018. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 6 maart 2019 heeft verweerder de rechtbank geïnformeerd over de inhoud van een mailbericht van 19 december 2018 aan eiser. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft bij brief van 6 maart 2019 het onderzoek heropend. </para>
+      <para>Op 31 oktober 2019 heeft, op verzoek van eiser, een nadere zitting plaatsgevonden. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Vooraf</emphasis>
+      </para>
+    </parablock>
+    <para>1. De rechtbank merkt op dat in de stukken verschillende data worden genoemd. In de gedingstukken zoals door verweerder ingezonden en met partijen ter zitting besproken bevindt zich het verzoek van 2 juni 2017 (waar in stukken ook wordt gesproken van het Wob-verzoek van 15 augustus 2017). Verder bevindt zich in het dossier de brief van 6 juli 2017, door partijen het primaire besluit genoemd (in de stukken wordt ook gesproken van het primaire besluit van 9 oktober 2017 respectievelijk 4 november 2017). De rechtbank heeft de zaak beoordeeld aan de hand van het dossier zoals dat door verweerder in deze procedure aan de rechtbank en eiser is toegezonden. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het Wob-verzoek</emphasis>
+      </para>
+    </parablock>
+    <para>2. Op 2 juni 2017 heeft eiser, namens de Stichting Stop Luchtverontreiniging Utrecht, bij verweerder op grond van de Wob een verzoek ingediend om openbaar making van de berekeningen die over 2014, 2015 en 2016 zijn gemaakt inzake de jaarlijkse CO2-uitstoot in de gemeente Utrecht. Eiser verzoekt verder om openbaarmaking van de berekening waaruit blijkt dat de gemeente de klimaatdoelen 2020 uit het Energieakkoord gaat halen en zijn ambitie gaat waarmaken om in 2030 geheel klimaatneutraal te zijn.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De besluitvorming</emphasis>
+      </para>
+    </parablock>
+    <para>3. Verweerder heeft eiser eerst geïnformeerd dat de gevraagde informatie reeds openbaar is, onder verwijzing naar de vindplaatsen van verschillende documenten. Nadat eiser er in bezwaar op heeft gewezen dat de door verweerder genoemde documenten slechts de uitkomst weergeven van de berekeningen die hebben plaatsgevonden en niet de berekeningen zelf, waar eiser om heeft gevraagd, heeft verweerder besloten nadere gegevens te verstrekken. Het gaat om een e-mailbericht van Eneco met onderwerp ‘Gemeenteverbruiken Utrecht’ van 5 april 2017 (e-mailbericht van Eneco). In het e-mailbericht van Eneco staan de getallen die volgens verweerder ten grondslag hebben gelegen aan de berekeningen die door verweerder zijn gegenereerd met het Excel-bestand getiteld “Baseline study CO2-uitstoot gemeente Utrecht” (Baseline study). Verder heeft verweerder opgemerkt dat de output van dit Excel-bestand op zijn beurt heeft gediend als input voor de door eiser genoemd grafiek zoals weergegeven op pagina 8 van de nota ‘Energie van de Stad 2016’ (grafiek 1) uit de voortgangsrapportage. </para>
+    <para>Verweerder stelt hiermee volledig aan eisers Wob-verzoek tegemoet te zijn gekomen en geen reden te zien om daarnaast de al openbaar gemaakte verkeersmodellen te verstrekken. Hierbij merkt verweerder op dat de verkeersmodellen via de website van verweerder kunnen worden ingezien en bovendien geen onderdeel uitmaken van de informatie waar eiser in eerste instantie om heeft verzocht. Verweerder heeft het bezwaar gegrond verklaard en eiser een dwangsom van € 1.260,- toegekend wegens het niet tijdig beslissen op het Wob-verzoek.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het geschil </emphasis>
+      </para>
+    </parablock>
+    <para>4. Eiser voert aan dat de bij het bestreden besluit verstrekte informatie nog steeds onvoldoende is om te begrijpen hoe grafiek 1 tot stand is gekomen en dat dus geen sprake is van een volledig tegemoet komen aan het Wob-verzoek. De genoemde grafiek ziet op 6 jaren en 6 categorieën van CO2-uitstoot, waarmee zij in totaal op 36 getallen is gebaseerd. Van die 36 getallen zijn er 24 niet te verifiëren. De gegevens in de Baseline study zijn niet terug te voeren op de bronnen waarop dat bestand volgens verweerder is gebaseerd, namelijk ‘Stedin Energie in Beeld + CBS’. Hoewel in de Baseline study een onderscheid is gemaakt tussen zakelijk en particulier, maakt Stedin dit onderscheid op zijn website niet. Verder geven de cijfers in de Baseline study over de jaren 2010 en 2015 blijk van een veel grotere afname van het energieverbruik dan de kleinverbruikcijfers van Stedin. Naar men mag aannemen komt dit doordat in de Baseline study het verbruik van (grote) bedrijven is meegenomen. Waarop de verbruiksdata van deze bedrijven is gebaseerd is echter niet duidelijk. Op de website energieinbeeld.nl zijn de verbruiksgegevens van grote bedrijven in elk geval niet (meer) terug te vinden. Verder blijkt uit de door verweerder vrijgegeven documenten niet hoe in de Baseline study de splitsing tussen particulier en (groot) zakelijk verbruik tot stand is gekomen. Verder telde Utrecht in 2014 volgens het CBS 169.510 huishoudens in 146.329 woningen, terwijl er volgens de Baseline study in 2014 107.867 particuliere aansluitingen waren. Ook dit komt niet overeen. Daarnaast zijn ook de brongegevens van elektriciteit en gas niet te herleiden tot de bronnen die zijn opgegeven. De verbruiksgegevens in het door verweerder bij het bestreden besluit overgelegde e-mailbericht van Eneco wijken steeds met een ander percentage af van de getallen in de Baseline study. Dit wekt de indruk dat het e-mailbericht van Eneco niet de brongegevens bevat die voor de Baseline study zijn gebruikt en er dus nog andere documenten met gegevens bij verweerder moeten zijn waarop die berekening is gebaseerd. </para>
+    <para>Verder betoogt eiser dat het Wob-verzoek wel degelijk ook op verkeersgegevens ziet. In grafiek 1 wordt ook weergegeven wat de CO2-uitstoot zou zijn in verband met mobiliteit. De Baseline study laat zien dat die uitstoot wordt berekend op basis van het aantal autokilometers. Hoe dat aantal berekend wordt is volstrekt onduidelijk en valt noch uit de al openbare, noch uit de naar aanleiding van het Wob-verzoek openbaar gemaakte documenten op te maken.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Beoordeling door de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para>5. Om te kunnen beoordelen of verweerder op een juiste wijze uitvoering heeft gegeven aan het Wob-verzoek, zal de rechtbank eerst de reikwijdte van het Wob-verzoek bespreken. Aan de hand van de reikwijdte van het Wob-verzoek zal de rechtbank vervolgens beoordelen of met verweerders besluit gelet op de bepalingen in de Wob voldoende uitvoering aan het verzoek is gegeven. Hierbij zal de rechtbank ingaan op het betoog van eiser dat er meer gegevens bij verweerder aanwezig zijn dan nu openbaar zijn gemaakt. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Reikwijdte van het verzoek</emphasis>
+      </para>
+    </parablock>
+    <para>6. Eiser heeft in zijn verzoek van 2 juni 2017 gevraagd om inzage te verschaffen in de berekeningen die over 2014, 2015 en 2016 zijn gemaakt inzake de jaarlijkse CO2-uitstoot in de gemeente Utrecht en om een berekening te verstrekken waaruit blijkt dat de gemeente de klimaatdoelen 2020 en de ambitie in 2030 geheel klimaatneutraal te zijn gaat halen. De rechtbank is van oordeel dat gelet op de artikelen 1, aanhef en onder a, en 3, eerste lid, van de Wob, verweerder ter uitvoering van het verzoek in beginsel die documenten die onder hem berusten en gaan over de <emphasis role="italic">berekening</emphasis> van jaarlijkse CO2-uitstoot in de gemeente Utrecht in de genoemde jaren en documenten die gaan over het behalen van de klimaatdoelen en klimaatambitie openbaar moet maken. Uiteraard voor zover documenten niet al eerder openbaar gemaakt zijn. Documenten die al openbaar zijn (gemaakt), kunnen immers volgens vaste rechtspraak niet nogmaals openbaar gemaakt worden.<footnote-ref linkend="_5efcfda3-74b8-4aa9-b0bc-33868637609b" /></para>
+    <para />
+    <para>7. In bezwaar heeft eiser aangevoerd dat met de openbare documenten niet inzichtelijk is gemaakt hoe verweerder aan de berekening in grafiek 1 komt. Er moeten volgens hem meer documenten beschikbaar zijn die de basis vormen voor de al openbaar gemaakte berekening. Anders dan eiser lijkt te veronderstellen, heeft verweerder het verzoek om openbaarmaking zo mogen begrijpen dat het eiser gaat om documenten die de gemaakte berekeningen van CO2-uitstoot in de betreffende jaren weergeven en niet ieder document dat inzicht geeft in de in de grafiek genoemde categorieën. Verder is de rechtbank van oordeel dat verweerder het verzoek van eiser zo heeft mogen begrijpen dat niet is gevraagd om verkeersmodellen of verkeersgegevens over de genoemde jaren, anders dan waar deze in documenten voor de genoemde berekeningen van CO2-uitstoot in de betreffende jaren zijn gebruikt. De rechtbank begrijpt dat het voor het kunnen reconstrueren van berekeningen die hebben geresulteerd in de tabel relevant is welke gegevens als input zijn gebruikt. Dit betekent naar het oordeel van de rechtbank echter niet dat verweerder gehouden is om documenten te vervaardigen<footnote-ref linkend="_006873fc-1a1e-4084-9da0-3b465be486ef" /> of documenten die buiten de reikwijdte van het verzoek vallen te verstrekken om de grafiek inzichtelijk(er) te maken. </para>
+    <para />
+    <para>8. Hierbij overweegt de rechtbank dat de reikwijdte van het Wob-verzoek in bezwaar verduidelijkt kan worden ten behoeve van de heroverweging die verweerder moet maken. De rechtbank acht het in dat stadium uitbreiden van het verzoek naar “alle documenten met gegevens over de genoemde categorieën en verkeersmodellen of verkeersgegevens anders dan gebruikt in documenten aangaande de berekening” echter ongeoorloofd. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Uitvoering van het verzoek</emphasis>
+      </para>
+    </parablock>
+    <para>9. Volgens vaste jurisprudentie van de ABRvS is het, wanneer een bestuursorgaan stelt dat na onderzoek is gebleken dat een bepaald document niet of niet meer onder hem berust en een dergelijke mededeling niet ongeloofwaardig voorkomt, in beginsel aan degene die om informatie verzoekt om aannemelijk te maken dat, in tegenstelling tot het onderzoek door het bestuursorgaan, een bepaald document toch onder dat bestuursorgaan berust.<footnote-ref linkend="_c0d87228-b45f-48e8-af02-929d48e2eb75" /></para>
+    <para />
+    <para>10. Verweerder stelt zich op het standpunt dat de relevante documenten deels al openbaar zijn. In het primaire besluit heeft verweerder de betreffende documenten genoemd en daarbij de vindplaats op de website weergegeven. Verder is er alleen het e-mailbericht van Eneco dat gaat over de berekening van CO2-uitstoot in de gemeente Utrecht.  Verweerder heeft ter zitting erkend dat de cijfers in de Baseline study en grafiek 1 niet kunnen worden geduid met bij verweerder berustende documenten. Hoewel de specialist die de berekeningen heeft gemaakt eisers vragen daarover mogelijk kan beantwoorden, staan deze berekeningen volgens verweerder niet op papier. Volgens verweerder is na de zoekslag gebleken dat niet in documenten is vervat welke input heeft geleid tot de berekeningen en uitkomsten. </para>
+    <para />
+    <para>11. De rechtbank acht geloofwaardig dat verweerder over de (de berekening van) de cijfers in grafiek 1, die gaan over zakelijk en particulier gas- en elektriciteitsgebruik en warmte, niet meer documenten heeft dan die al openbaar zijn gemaakt en aan eiser zijn verstrekt. Hoewel de rechtbank met eiser van mening is dat het onwenselijk is dat de berekeningen die aan de genoemde cijfers in grafiek 1 ten grondslag liggen kennelijk niet in documenten zijn vervat en daardoor niet controleerbaar en verifieerbaar zijn, komt dit de rechtbank met de toelichting van verweerder niet ongeloofwaardig voor. Het is daarom aan eiser om aannemelijk te maken dat verweerder meer documenten over de berekeningen onder zich heeft. Eiser is hierin niet geslaagd. Hij heeft ter zitting aangevoerd dat als je een berekening maakt, je daarvoor ook materiaal nodig hebt, en dat als de specialist in een gesprek helderheid kan geven, dit ook schriftelijk kan. Dit volgt de rechtbank: er is ongetwijfeld materiaal gebruikt bij de berekening(n). Niet ongeloofwaardig is echter dat niet in documenten is vervat welk materiaal dat is en op welke wijze dat materiaal is gebruikt. Zoals hierboven al is weergegeven bevat de Wob geen verplichting om gegevens te vervaardigen die niet in bestaande documenten zijn neergelegd, noch om documenten elders te vergaren. Eisers betoog ter zitting leidt daarom niet tot een ander oordeel. De beroepsgronden van eiser slagen dus niet.</para>
+    <para />
+    <para>12. Ten aanzien van de cijfers in grafiek 1 over mobiliteit overweegt de rechtbank als volgt. Eiser heeft ter zitting aangevoerd dat het verkeersmodel dat volgens verweerder aan deze cijfers ten grondslag ligt en waarnaar verweerder daarom heeft verwezen, niet meer is dan een soort rekenmachine. Hoewel verweerder eiser in eerdere jaren (in het kader van andere procedures) wel de invoergegevens (zoals de hoeveel auto’s, de hoeveelheid auto’s per huishouden en de afgelegde afstanden) heeft verstrekt, heeft verweerder dat in het kader van het nu voorliggende Wob-verzoek niet gedaan. </para>
+    <para />
+    <para>13. Verweerder heeft hierover uiteengezet dat de dag na de zitting in het e-mailbericht van 19 december 2018 (onder meer) de vindplaats van de inputgegevens van het verkeersmodel aan eiser is gestuurd. Het gaat om diverse rapportages/bijlagen die als achtergrondstukken bij het verkeersmodel beschikbaar zijn in het webarchief. Ter zitting heeft verweerder toegelicht dat deze vindplaats wel in het bestreden besluit had moeten worden genoemd, maar niet is aan te merken als een Wob-besluit waartegen eiser kan opkomen omdat het gaat om al openbaar gemaakte documenten. Verweerder stelt zich op het standpunt dat sprake is van openbaarmaking door plaatsing van de documenten in het webarchief. </para>
+    <para />
+    <para>14. Eiser stelt zich op het standpunt dat het hier gaat om zeer veel stukken, omdat de documenten meerdere bijlagen bevatten. Verder gaat het hier om een opsomming, het webarchief is niet goed doorzoekbaar en het is daarmee niet duidelijk welke gegevens verweerder daaruit heeft aangeleverd aan Gouappel Coffeng, de partij die het verkeersmodel levert en voor input afhankelijk is van verweerder. </para>
+    <para />
+    <para>15. De rechtbank is van oordeel dat met het plaatsen van de documenten, de gegevens, in het webarchief sprake is (geweest) van openbaarmaking. De documenten en gegevens zijn via de website van verweerder direct raadpleegbaar. Dit betekent naar het oordeel van de rechtbank dat de brief van verweerder met de daarin genoemde link niet is aan te merken als een Wob-besluit waartegen eiser in rechte kan opkomen. Wat eiser over de (omvang) van gegevens heeft aangevoerd en de onduidelijkheid welke gegevens hebben gediend als input voor het verkeersmodel laat de rechtbank daarom onbesproken.</para>
+    <para>Daarbij acht de rechtbank van belang dat eiser niet aannemelijk heeft gemaakt dat er stukken berusten onder verweerder die een overzicht inhouden van de inputgegevens die zijn aangeleverd aan Gouappel Coffeng. Wat eiser hierover heeft aangevoerd is onvoldoende om te twijfelen aan de mededeling en toelichting die verweerder heeft gegeven over de zoekslag die hij heeft uitgevoerd op zoek naar zo’n document. Dit betekent dat het bestreden besluit ook op dit punt niet onrechtmatig is. Het beroep slaagt dan ook niet.</para>
+    <para />
+    <para>16. Het beroep is ongegrond. Eiser krijgt geen gelijk en daarom ook geen vergoeding van zijn proceskosten.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 9 juni 2020 door mr. V.E. van der Does, rechter, in aanwezigheid van mr. M.E.C. Bakker, griffier. Als gevolg van maatregelen rondom het Corona virus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+  </section>
+  <footnote id="_5efcfda3-74b8-4aa9-b0bc-33868637609b" label="1">
+    <para> De rechtbank wijst als voorbeeld op de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (ABRvS) van 7 november 2012, ECLI:NL:RVS:2012:BY2513</para>
+  </footnote>
+  <footnote id="_006873fc-1a1e-4084-9da0-3b465be486ef" label="2">
+    <para> De rechtbank vindt steun voor dit standpunt in bijvoorbeeld uitspraken van de ABRvS van 5 juni 2013, ECLI:NL:RVS:2013:CA2102, en 20 april 2016, ECLI:NL:RVS:2016:1029).</para>
+  </footnote>
+  <footnote id="_c0d87228-b45f-48e8-af02-929d48e2eb75" label="3">
+    <para> Zie bijvoorbeeld de uitspraak van de ABRvS van 2 oktober 2013, ECLI:NL:RVS:2013:1376.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

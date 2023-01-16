@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:2012</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-12T09:26:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 20/1370 en LEE 20/1371</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JOM 2020/323</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:2012">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:2012</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-02T10:43:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:2012 Rechtbank Noord-Nederland , 02-06-2020 / LEE 20/1370 en LEE 20/1371</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:2012:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De burgemeester is bevoegd tot inbeslagname en herplaatsing van de hond. De burgemeester is echter niet bevoegd tot het euthanaseren van de hond omdat dit een onomkeerbare maatregel is met een zeer vergaande inbreuk op het eigendomsrecht. Dit valt niet binnen de lichte bevelsbevoegdheid van artikel 172, derde lid, van de Gemeentewet.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:2012:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">VOORZIENINGENRECHTER NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: LEE 20/1370 en LEE 20/1371</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 2 juni 2020 op het beroep en het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eisers] , te Emmen, eisers</para>
+      <para>(gemachtigde: mr. J. Biemond),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de burgemeester van de gemeente Emmen</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. J.T. Oosterhoff).</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 augustus 2019 (het primaire besluit) heeft verweerder besloten tot inbeslagname van de hond van eisers.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 23 april 2020 (het bestreden besluit) heeft verweerder het bezwaar van eisers gegrond verklaard. Verweerder heeft daarbij het primaire besluit herroepen en beslist tot het in bewaring houden van de hond gedurende één jaar, tot herplaatsing van de hond onder voorwaarden bij een derde en tot euthanasie van de hond indien binnen één jaar geen herplaatsing plaatsvindt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld. Zij hebben verder de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 2, eerste lid, van de Tijdelijke wet COVID-19 Justitie en Veiligheid heeft het onderzoek ter zitting op 19 mei 2020 plaatsgevonden middels Skype for Business. Eisers zijn verschenen, bijgestaan door hun gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Na afloop van de zitting is de voorzieningenrechter tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) zowel uitspraak op het verzoek om voorlopige voorziening, als op het beroep.</para>
+    <para />
+    <para>2. Bij de beoordeling wordt uitgegaan van de volgende feiten.</para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>De hond van eisers is een middelgrote hond met de naam [naam 1] (hierna: de hond). Inmiddels is de hond ongeveer vier jaar oud. Eisers waren ten tijde van het primaire besluit woonachtig in de Emmense wijk [naam 2] .</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Blijkens de stukken is de hond op de volgende data bij incidenten betrokken geweest:</para>
+        <para>31 maart 2017		hond bijt persoon</para>
+        <para>13 juni 2017			hond loopt los en veroorzaakt blafoverlast</para>
+        <para>22 juli 2017			hond bijt herhaaldelijk katten</para>
+        <para>28 juli 2018			hond bijt persoon</para>
+        <para>2 augustus 2018		blafoverlast</para>
+        <para>16 februari 2019		hond bijt persoon</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Bij besluit van 9 april 2019 heeft verweerder de hond tot gevaarlijke hond verklaard en aan eisers voor de hond een aanlijngebod en een muilkorfgebod opgelegd. Tegen dit besluit zijn geen rechtsmiddelen ingesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Op 6 augustus 2019 is de hond aan de aandacht van eisers ontsnapt en naar buiten gerend zonder muilkorf. Buiten is een confrontatie ontstaan met een andere - aangelijnde- hond. De aangelijnde hond heeft de hond hierbij gebeten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Bij het primaire besluit heeft verweerder de hond tegen de wil van eisers in beslag genomen. Eisers hebben bezwaar ingesteld tegen dit besluit.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.6.</nr>
+      <para>Bij uitspraak van 13 september 2019 heeft de voorzieningenrechter van deze rechtbank een verzoek van eisers tot het treffen van een voorlopige voorziening, geregistreerd als LEE 19/3083, afgewezen. Bij uitspraak van 6 november 2019 heeft de voorzieningenrechter van deze voorzieningenrechter een tweede verzoek van eisers tot het treffen van een voorlopige voorziening, geregistreerd als LEE 19/3634, afgewezen. Bij uitspraak van 8 januari 2020 heeft deze voorzieningenrechter het beroep van eisers tegen het niet tijdig nemen van hun besluit op bezwaar, geregistreerd als LEE 20/4, gegrond verklaard.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.7.</nr>
+      <para>Op 30 oktober 2019 is het bezwaar van eisers behandeld op de hoorzitting van de Commissie van advies voor de bezwaarschriften van de gemeente Emmen (commissie). Bij advies van 17 december 2019 heeft de commissie geadviseerd het bezwaar gegrond te verklaren, het primaire besluit te herroepen en de hond zo spoedig mogelijk aan eisers terug te geven.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.8.</nr>
+      <parablock>
+        <para>Op verzoek van verweerder heeft het Riskassessmentteam Universiteit Utrecht (assessmentteam) een risicoanalyse van de hond uitgevoerd. In het verslag van 5 december 2019 wordt onder meer beschreven welke tests zijn uitgevoerd en wat hiervan de uitkomsten zijn geweest. Het verslag leidt tot de risico-inschatting dat de hond, zonder aanvullende maatregelen, een zeer hoog risico meebrengt voor mensen in het algemeen, voor kinderen en voor andere honden. Het assessmentteam stelt, samengevat, ook dat de hond niet terug kan naar de eigenaar omdat deze het gedragsprobleem en het welzijnsprobleem van de hond veroorzaakt heeft. Het assessmentteam adviseert om de mogelijkheden te bekijken om de eigenaar een houdverbod op te leggen.</para>
+        <para>Het verslag sluit af met de volgende aanbeveling:</para>
+        <para>‘Poging tot herplaatsen tot max. 2 maanden onder de volgende voorwaarden:</para>
+        <para>o Eigenaar heeft veel ervaring met honden met probleemgedrag c.q. getraumatiseerde honden;</para>
+        <para>o Eigenaar woont in een rustige en stabiele leefomgeving (zonder honden, zonder kinderen);</para>
+        <para>o Een eigenaar die rustig gaat trainen met deze hond om structuur neer te zetten, hetgeen de nodige rust kan gaan bieden aan de hond;</para>
+        <para>o In de openbare ruimte aangelijnd en met muilkorf om uitlaten;</para>
+        <para>o Eerste kennismaking laten begeleiden door opslaghouder. Hiervoor moet even de tijd worden genomen, want deze hond is het vertrouwen in mensen kwijt.</para>
+        <para>Indien dit binnen 2 maanden niet lukt dan dient de hond te worden geëuthanaseerd’.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.9.</nr>
+      <para>In het bestreden besluit heeft verweerder het bezwaar gegrond verklaard en het primaire besluit herroepen. In afwijking van het advies van de commissie heeft verweerder niet besloten tot teruggave van de hond maar tot het in bewaring houden van de hond tot een jaar na de datum van inbeslagname (13 augustus 2019) met de mogelijkheid om de hond onder voorwaarden te herplaatsen bij een derde. Deze voorwaarden zijn:</para>
+      <para>1. De nieuwe eigenaar heeft ervaring met honden met probleemgedrag c.q. getraumatiseerde honden.</para>
+      <para>2. De nieuwe eigenaar woont in een rustige en stabiele omgeving.</para>
+      <para>3. De nieuwe eigenaar is in staat structuur neer te zetten en rust te bieden aan de hond.</para>
+      <para>4. De hond wordt in de openbare ruimte aangelijnd en met muilkorf om uitgelaten.</para>
+      <para>5. Een eerste begeleiding door opslaghouder.</para>
+      <para>Mocht blijken dat na afloop van de termijn herplaatsing niet is gelukt, dan dient de hond te worden geëuthanaseerd.</para>
+      <para />
+      <para>3. Over de beroepsgronden wordt als volgt overwogen. De genoemde regelgeving is opgenomen in een bijlage bij deze uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Eisers voeren aan dat in de bezwaarfase artikel 7:9 van de Awb is geschonden doordat met het bestreden besluit stukken zijn toegezonden die zij niet kenden. De voorzieningenrechter begrijpt dat het (onder meer) gaat om het verslag van de assessment en een proces-verbaal. De bezwaarschriftencommissie heeft deze stukken, die dateren van ná het advies, niet gezien, en niet weersproken is dat eisers niet op de stukken hebben kunnen reageren. Terecht is aangevoerd dat artikel 7:9 van de Awb hiermee is geschonden. In beroep hebben eisers echter alsnog voldoende kunnen reageren op de stukken. Gelet hierop passeert de voorzieningenrechter het gebrek met toepassing van artikel 6:22 van de Awb. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>De voorzieningenrechter begrijpt het bestreden besluit aldus dat de beslissing tot in bewaring houden strekt tot inbeslagname en het (tijdelijk) in beslag houden van de hond. Het feit dat het besluit een bredere inhoud heeft dan het primaire besluit betekent niet dat het in strijd is met artikel 7:11 van de Awb. Aan verweerder kwam, ook buiten de bezwaarprocedure, de bevoegdheid toe om beslissingen over de hond te nemen, zij het met de hierna te bespreken restrictie. Uit het verslag van de hoorzitting bij de commissie blijkt dat eisers ook nadrukkelijk is voorgehouden dat het vervolg van de inbeslagname afhankelijk was van de gedragstest van de hond en dat teruggave van de hond alleen mogelijk zou zijn onder strikte voorwaarden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Het besluit is gebaseerd op artikel 2:34 van de APV, de Beleidsregel bijtincidenten honden gemeente Emmen 2016, en hoofdstuk 5 van de Awb. Deze bepalingen vormen naar het oordeel van de voorzieningenrechter echter geen deugdelijke grondslag voor de genomen beslissingen. De APV biedt, kort gezegd, een grondslag voor het muilkorven, aanlijnen en het geven van een opdracht aan de eigenaar voor het laten afnemen van een gedragstest. De beleidsregels van verweerder en hoofdstuk 5 van de Awb kunnen een onvrijwillige inbeslagname en in bewaring houden, een herplaatsing en euthanaseren van de hond niet zelfstandig dragen. Gelet hierop is het besluit naar het oordeel van de voorzieningenrechter onvoldoende gemotiveerd. Nu geen sprake was van spoedbestuursdwang, hebben eisers bovendien terecht aangevoerd dat zij niet overeenkomstig artikel 4:8 van de Awb voorafgaand aan het primaire besluit de gelegenheid hebben gekregen hun zienswijze naar voren te brengen. Het beroep treft op dit punt doel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>De voorzieningenrechter zal onderzoeken of er aanleiding bestaat om de rechtsgevolgen van het te vernietigen besluit niettemin in stand te laten (artikel 8:72, derde lid, van de Awb). De voorzieningenrechter overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>Ingevolge artikel 172, eerste lid, van de Gmw is de burgemeester belast met de handhaving van de openbare orde. Ingevolge het derde lid is de burgemeester bevoegd bij verstoring van de openbare orde of bij ernstige vrees voor het ontstaan daarvan, de bevelen te geven die noodzakelijk te achten zijn voor de handhaving van de openbare orde. Het betreft de zogenoemde lichte bevelsbevoegdheid van de burgemeester.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <para>In de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (AbRS) van 28 februari 2018, ECLI:NL:RVS:2018:644, over een besluit tot inbeslagname van een hond, is overwogen:</para>
+      <para />
+      <parablock>
+        <para>"Zoals de voorzieningenrechter terecht onder verwijzing naar rechtspraak van de Afdeling heeft overwogen (uitspraak van 2 december 2015, ECLI:NL:RVS:2015:3689), heeft artikel 172, derde lid, van de Gemeentewet volgens de geschiedenis van de totstandkoming ervan betrekking op situaties waarin enerzijds geen overtreding van wettelijke voorschriften ter bewaring van de openbare orde plaatsvindt, terwijl anderzijds sprake is van een zodanige inbreuk op orde en rust dat niet meer van een aanvaardbaar niveau daarvan gesproken kan worden. Daartegen moet kunnen worden opgetreden. De bepaling dient er toe de burgemeester ook in dergelijke gevallen bevoegd te verklaren tot handelen. De burgemeester kan echter op basis van deze bepaling niet naar willekeur maatregelen ter bewaring van de openbare orde nemen. Er moet zich een verstoring van die orde of ernstige vrees daarvoor voordoen en de bevelen moeten noodzakelijk zijn voor de handhaving van de openbare orde. Voorts mogen de bevelen niet van wettelijke voorschriften afwijken en moeten ze proportioneel en subsidiair zijn (<emphasis role="italic">Kamerstukken I</emphasis> 1990/91, 19403, 64b, p. 16-17)."</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7.</nr>
+      <para>In deze uitspraak heeft de AbRS in rechtsoverweging 7 ook overwogen dat, in de bijzondere omstandigheden van die zaak, de burgemeester bij eventuele terugkeer van de hond in kwestie op grond van artikel 172, derde lid, van de Gmw bevoegd is maatregelen te nemen ter voorkoming van verstoring van de openbare orde.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8.</nr>
+      <para>Uit het bovenstaande volgt dat een inbeslagname van een hond op artikel 172, derde lid, van de Gmw kan worden gebaseerd. In het verlengde hiervan geldt hetzelfde voor een (tijdelijk) in bewaring houden na inbeslagname. Een herplaatsing van een hond acht de voorzieningenrechter, gelet op de genoemde rechtsoverweging 7 van de uitspraak van de Afdeling, eveneens mogelijk op deze grondslag. Het euthanaseren van een hond is echter een onomkeerbare maatregel met een zeer verregaande inbreuk op het eigendomsrecht die, gelet op het karakter van de lichte bevelsbevoegdheid, buiten de reikwijdte ervan valt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.9.</nr>
+      <para>Aan het vereiste van een (ernstige vrees voor) verstoring van de openbare orde is naar het oordeel van de voorzieningenrechter voldaan en een inbeslagname/in bewaring houden en herplaatsing van de hond is daarnaast proportioneel, subsidiair en niet willekeurig, en niet in strijd met artikel 1 van het Eerste Protocol bij het EVRM.</para>
+    </paragroup>
+    <paragroup>
+      <nr>3.10.</nr>
+      <para>Op 9 april 2019 is de hond na een reeks incidenten gevaarlijk verklaard, met het opleggen van een aanlijngebod en een muilkorfgebod (zie 2.3). De geboden zijn niet nageleefd en het gevaar heeft zich opnieuw verwezenlijkt. Dit blijkt uit het incident van 6 augustus 2019 (2.4) en tevens uit het proces-verbaal van bevindingen, opgemaakt op 23 april 2020, van Buitengewoon Opsporingsambtenaar [naam 3]. De ambtenaar vermeldt hierin onder meer dat buurtbewoners hebben gezien dat eisers meerdere malen met de hond buiten liepen zonder dat deze aangelijnd en gemuilkorfd was. Hoewel de vastlegging van deze voorvallen bij voorkeur eerder en nauwkeuriger had kunnen gebeuren, ziet de voorzieningenrechter geen aanleiding om aan de juistheid van de vermelding te twijfelen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.11.</nr>
+      <para>Het assessmentteam van de Universiteit van Utrecht heeft de hond na inbeslagname uitgebreid onderzocht en adviseert tot herplaatsing. Uit het verslag van de assessment blijkt dat de hond een hoog risico oplevert voor zijn omgeving en dat eisers ongeschikt zijn om de hond te houden. In het verslag is onder meer te lezen:</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">"Het risico van deze hond is ingeschat als zeer hoog t.a.v. mensen, kinderen en honden. Mocht deze hond worden teruggegeven aan de huidige eigenaar zonder maatregelen dan kunnen wij met vrij grote zekerheid zeggen dat er weer verschillende incidenten gaan gebeuren gericht op mens en dier. De hond kan om je heen gaan cirkelen en vanuit de cirkel meerdere korte uitvallen doen. De schade bij volwassen mensen is huidpenetratie door snappen en blauwe plekken door aanstoten en de hond lijkt zich te richten op benen."</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">"Deze hond geeft sterk de indruk de weg kwijt te zijn en weet niet hoe met omgevingsprikkels om te gaan. Dit blijkt ook uit de verschillende omschrijvingen uit de PV’s, waar de hond al blaffend los over straat loopt. Dit soort gedragsproblemen, zoals vertoont door deze hond, herkennen wij van honden die onder extreem onvoorspelbare en oncontroleerbare leefomgevingen leven, bijv. bij fysieke en mentale verwaarlozingen, veel ruzies en woordenwisselingen in de leefomgeving, en ook bij verslavingsproblematieken, waarbij de eigenaar dan weer eens wel en dan weer eens niet ontvankelijk is. Doordat de hond totaal geen aansturing heeft gekregen en inzicht in wat van hem wordt verwacht, is deze hond, die angstig is in aanleg, zelf zijn problemen gaan oplossen. Hiermee heeft hij zichzelf aangeleerd dat agressie vertonen naar allerlei prikkels die hij spannend vindt een oplossing kan zijn, althans vanuit zijn perspectief. Zo is het gedragsprobleem uitgebreid en is nu gericht op allerlei prikkels. Een dergelijke gedragsprobleem is heel stresserend voor een hond, want deze hond kan zich nooit ontspannen. Hier hebben we dus ook te maken met een welzijnsprobleem."</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">"De hond kan niet terug naar de eigenaar, want deze heeft het gedragsprobleem en het welzijnsprobleem van de hond veroorzaakt. Wij zouden adviseren om de mogelijkheden te bekijken om deze eigenaar een houdverbod op te leggen, zodat niet weer een hond op korte termijn wordt aangeschaft, waarbij waarschijnlijk vergelijkbare problemen zullen ontstaan."</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.12.</nr>
+      <para>Het verslag maakt inzichtelijk hoe het assessmentteam tot zijn conclusies en aanbevelingen is gekomen. Hoewel de onderzoekers niet met eisers gesproken hebben, brengt dat gezien de deskundigheid van de onderzoekers en de omvang en inhoud van het onderzoek niet met zich dat de conclusies van het onderzoek terzijde moeten worden gelegd. De conclusies van het assessmentteam vinden ook steun in verschillende processen-verbaal. Hieruit blijkt dat eisers de hond in een groot aantal gevallen niet onder controle hadden, dat het dier zich, gezien het langdurig blaffen, niet op het gemak voelde als hij thuis werd gelaten en dat het dier bij de inbeslagname werd aangetroffen in een <emphasis role="italic">bench</emphasis> die klein is voor een volwassen hond van deze grootte. Verweerder heeft terecht, in het kader van de vergewisplicht van artikel 3:9 van de Awb, geconcludeerd dat het onderzoek op zorgvuldige wijze heeft plaatsgevonden. Verweerder heeft daarom de besluitvorming kunnen baseren op het verslag van het assessmentteam.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.13.</nr>
+      <para>Eisers hebben niet aannemelijk gemaakt of onderbouwd dat en hoe zij bij een terugkeer van de hond alsnog goede zorg zullen kunnen geven. Dat zij contact hebben gehad met een hondenspecialist is niet voldoende. Er is niet gebleken van een plan van aanpak op grond waarvan kan worden aangenomen dat de hond, met behulp van een deskundige, kan worden getraind, en eisers zo kunnen worden opgeleid dat zij de hond op een veilige manier kunnen houden, en, tevens, hoe dit alles kan worden bekostigd. Ook enig ander concreet vooruitzicht ontbreekt dat de situatie bij terugkeer beter is voor de omgeving dan ten tijde van de inbeslagname. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.14.</nr>
+      <para>De voorzieningenrechter komt tot de conclusie dat verweerder bevoegd was om het besluit te nemen voor zover daarin is beslist dat de hond in beslag wordt genomen/in bewaring wordt gehouden en wordt herplaatst, en dat hij dit besluit ook in redelijkheid heeft kunnen nemen. Voor zover is beslist tot euthanasie van de hond als herplaatsing niet mogelijk is, kan het besluit geen stand houden.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">dwangsom en kosten bestuursdwang</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. In het beroepschrift stellen eisers, samengevat, dat de hoogte van de dwangsom die is verbonden aan de uitspraak van 8 januari 2020 vast staat, dat niet is beslist op de aangezegde bestuurlijke dwangsom, en dat eisers geen kosten van bestuursdwang zijn verschuldigd omdat hoofdstuk 5 van de Awb niet is en kan zijn toegepast. Verweerder dient deze stellingen bij de nieuwe heroverweging op bezwaar te betrekken, zie hieronder. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">oordeel en vervolg</emphasis>
+        </para>
+      </parablock>
+      <para>5. Uit het bovenstaande volgt dat het beroep gegrond is. De voorzieningenrechter vernietigt het bestreden besluit. De voorzieningenrechter laat de rechtsgevolgen van het vernietigde besluit in stand wat betreft de deelbeslissingen tot in bewaring houden en herplaatsing. Verweerder zal een nieuw besluit moeten nemen met inachtneming van deze uitspraak. In afwachting daarvan is er geen aanleiding een voorlopige voorziening te treffen, omdat het bestreden besluit voor het overige in stand is gebleven.</para>
+      <para />
+      <para>6. Omdat het beroep gegrond is, bepaalt de voorzieningenrechter dat verweerder aan eisers het door hen betaalde griffierecht voor het beroep vergoedt. Vanwege de uitkomst van de zaak ziet de voorzieningenrechter ook aanleiding te bepalen dat verweerder aan eisers het door hen betaalde griffierecht voor het verzoek om voorlopige voorziening vergoedt.</para>
+      <para />
+      <para>7. De voorzieningenrechter veroordeelt verweerder in de door eisers gemaakte proceskosten. Vanwege de uitkomst van de zaak heeft die proceskostenveroordeling ook betrekking op het verzoek om voorlopige voorziening. Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.575,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het indienen van het verzoekschrift om een voorlopige voorziening, 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1).</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- bepaalt dat de rechtsgevolgen van het vernietigde bestreden besluit in stand blijven wat betreft de inbeslagname en herplaatsing;</para>
+    <para>- draagt verweerder op een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+    <para>- wijst het verzoek om voorlopige voorziening af;</para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 356,- aan eisers te vergoeden;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eisers tot een bedrag van € 1.575,-.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. S. Dijkstra, rechter, in aanwezigheid van mr. H.A. Hulst, griffier. Deze uitspraak is gedaan op 2 juni 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier											voorzieningenrechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan voor zover daarbij is beslist op het beroep binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening. </para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage regelgeving</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden</emphasis>
+      </para>
+      <para>Artikel 1</para>
+      <para>Iedere natuurlijke of rechtspersoon heeft recht op het ongestoord genot van zijn eigendom. Aan niemand zal zijn eigendom worden ontnomen behalve in het algemeen belang en onder de voorwaarden voorzien in de wet en in de algemene beginselen van internationaal recht.</para>
+      <para>De voorgaande bepalingen tasten echter op geen enkele wijze het recht aan, dat een Staat heeft om die wetten toe te passen, die hij noodzakelijk oordeelt om het gebruik van eigendom te reguleren in overeenstemming met het algemeen belang of om de betaling van belastingen of andere heffingen of boeten te verzekeren.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemene wet bestuursrecht</emphasis>
+      </para>
+      <para>Artikel 4:8, eerste lid </para>
+    </parablock>
+    <para>1. Voordat een bestuursorgaan een beschikking geeft waartegen een belanghebbende die de beschikking niet heeft aangevraagd naar verwachting bedenkingen zal hebben, stelt het die belanghebbende in de gelegenheid zijn zienswijze naar voren te brengen indien: </para>
+    <para>a. de beschikking zou steunen op gegevens over feiten en belangen die de belanghebbende betreffen, en </para>
+    <para>b. die gegevens niet door de belanghebbende zelf ter zake zijn verstrekt.</para>
+    <para />
+    <parablock>
+      <para>Artikel 5:31, tweede lid</para>
+    </parablock>
+    <para>2 Indien de situatie zo spoedeisend is, dat een besluit niet kan worden afgewacht, kan terstond bestuursdwang worden toegepast, maar wordt zo spoedig mogelijk nadien alsnog een besluit als bedoeld in het eerste lid bekendgemaakt.</para>
+    <para />
+    <parablock>
+      <para>Artikel 6:22 </para>
+      <para>Een besluit waartegen bezwaar is gemaakt of beroep is ingesteld, kan, ondanks schending van een geschreven of ongeschreven rechtsregel of algemeen rechtsbeginsel, door het orgaan dat op het bezwaar of beroep beslist in stand worden gelaten indien aannemelijk is dat de belanghebbenden daardoor niet zijn benadeeld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7:9 </para>
+      <para>Wanneer na het horen aan het bestuursorgaan feiten of omstandigheden bekend worden die voor de op het bezwaar te nemen beslissing van aanmerkelijk belang kunnen zijn, wordt dit aan belanghebbenden meegedeeld en worden zij in de gelegenheid gesteld daarover te worden gehoord. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 7:11 </para>
+    </parablock>
+    <para>1. Indien het bezwaar ontvankelijk is, vindt op grondslag daarvan een heroverweging van het bestreden besluit plaats. </para>
+    <para>2 Voor zover de heroverweging daartoe aanleiding geeft, herroept het bestuursorgaan het bestreden besluit en neemt het voor zover nodig in de plaats daarvan een nieuw besluit.</para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Gemeentewet</emphasis>
+      </para>
+      <para>Artikel 172 </para>
+    </parablock>
+    <para>1. De burgemeester is belast met de handhaving van de openbare orde. </para>
+    <para>(…)</para>
+    <para>3 De burgemeester is bevoegd bij verstoring van de openbare orde of bij ernstige vrees voor het ontstaan daarvan, de bevelen te geven die noodzakelijk te achten zijn voor de handhaving van de openbare orde. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemene Plaatselijke Verordening gemeente Emmen 2017</emphasis>
+      </para>
+      <para>Artikel 2:34 Gevaarlijke honden</para>
+    </parablock>
+    <para>1. Indien de burgemeester een hond in verband met zijn gedrag gevaarlijk of hinderlijk acht, kan hij de eigenaar of houder van die hond een aanlijngebod of een aanlijn- en muilkorfgebod opleggen voor zover die hond verblijft of loopt op een openbare plaats of op het terrein van een ander.</para>
+    <para>2. Een aanlijngebod houdt in dat de eigenaar of houder verplicht is de hond aangelijnd te houden met een lijn met een lengte, gemeten van hand tot halsband, van ten hoogste 1.50 meter.</para>
+    <para>3. Een muilkorfgebod houdt in dat de eigenaar of houder verplicht is de hond voorzien te houden van een muilkorf die:</para>
+    <para>a. vervaardigd is van stevig kunststof, van stevig leer of van beide stoffen;</para>
+    <para>b. door middel van een stevige leren riem zodanig rond de hals is aangebracht dat verwijdering zonder toedoen van de mens niet mogelijk is; en</para>
+    <para>c. zodanig is ingericht dat de hond niet kan bijten, dat de afgesloten ruimte binnen de korf een geringe opening van de bek toelaat en dat geen scherpe delen binnen de korf aanwezig zijn.</para>
+    <para>4. Onverminderd artikel 2:32, eerste lid, aanhef en onder b, dient een hond als bedoeld in het eerste lid voorzien te zijn van een door de bevoegde minister op aanvraag verstrekt uniek identificatienummer door middel van een microchip die met een chipreader afleesbaar is.</para>
+    <para>5. In aanvulling op het in lid 1 bepaalde geldt dat de burgemeester de eigenaar of houder van die hond kan opdragen bij de hond een gedragstest (risico-assessment) te laten afnemen om zicht te krijgen op het karakter en het gedrag van de hond.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beleidsregel bijtincidenten honden gemeente Emmen 2016</emphasis>
+      </para>
+      <para>Artikel 1 Begrippen</para>
+    </parablock>
+    <para>1. Bijtincident: van een bijtincident is sprake wanneer een hond een persoon of een ander dier bijt en het bijten lichamelijk letsel bij personen of ernstig letsel bij andere dieren tot gevolg heeft.</para>
+    <para>2. Hinderlijke hond: het college acht een hond hinderlijk in de zin van artikel 2:28 APV als een hond schade veroorzaakt aan roerende zaken of een persoon of ander dier bijt, maar daarbij geen sprake is van een bijtincident zoals bedoeld in lid 1.</para>
+    <para>3. Gevaarlijke hond: het college acht een hond gevaarlijk in de zin van artikel 2:28 APV als een hond een persoon of ander dier bijt zoals bedoeld in lid 1.</para>
+    <para>4. Kort aanlijnen: aanlijnen van een hond met een lijn met een lengte, gemeten van hand tot halsband, die niet langer is dan 1,50 meter.</para>
+    <para>5. Muilkorf: een muilkorf vervaardigd van stevige kunststof, of van stevig leer of van beide stoffen, die door middel van een stevige leren riem rond de hals zodanig is aangebracht dat verwijdering zonder toedoen van de mens niet mogelijk is en die zodanig is ingericht dat de drager geen mens of dier kan bijten, waarbij de afgesloten ruimte binnen de korf een geringe opening van de bek toelaat en er geen scherpe delen binnen de korf aanwezig zijn.</para>
+    <para />
+    <parablock>
+      <para>Artikel 3 Gevaarlijke hond</para>
+    </parablock>
+    <para>1. Het college kan de eigenaar/houder van een gevaarlijke hond een kort aanlijngebod en een muilkorfgebod opleggen. Hierbij geldt tevens dat de hond moet zijn voorzien van een optisch leesbaar, niet-verwijderbaar identificatiekenmerk in het oor of in de buikwand.</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 4 Risico-assessment (gedragstest)</para>
+      <para>In opdracht en voor rekening van de eigenaar/houder van de hond kan bij de hond een gedragstest worden afgenomen om aan te tonen dat de hond niet hinderlijk of gevaarlijk is. Een gedragstest dient te worden afgenomen door een bij een beroepsvereniging erkende gedragstherapeut/-keurmeester.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 5 Niet nakoming</para>
+    </parablock>
+    <para>1. Aan de eigenaar/houder van een hond, die zich niet houdt aan een opgelegde maatregel zoals bedoeld in artikel 2 en 3, kan een boete en/of een last onder dwangsom worden opgelegd.</para>
+    <para>2. Aan de eigenaar/houder van een hond, die zich niet houdt aan een opgelegde maatregel, zoals bedoeld in artikel 3, en wanneer sprake is van een nieuw bijtincident met ernstig letsel bij personen of zeer ernstig letsel bij dieren, wordt gevraagd om vrijwillig afstand te doen van zijn hond.</para>
+    <para>3. Het college kan besluiten tot onvrijwillige inbeslagname van een hond op grond van artikel 5:31, lid 2 Awb:</para>
+    <para>a. als de in lid 2 genoemde situatie zich heeft voorgedaan, de eigenaar/houder van de hond hierop niet vrijwillig afstand doet van de hond en het college vreest dat de kans op bijtrecidive aanwezig is; of</para>
+    <para>b. bij (ernstige vrees voor het ontstaan van) een ernstig bijtincident.</para>
+    <para>4. Bij het in lid 3 omschreven onvrijwillig in beslag nemen van de hond kan in opdracht van de eigenaar/houder van de hond een gedragstest als bedoeld in artikel 4 worden afgenomen.</para>
+    <para>5. Wanneer uit de uitgevoerde gedragstest blijkt dat de hond niet kan worden terug geplaatst, niet resocialiseerbaar of elders herplaatsbaar is, dan wel anderszins het risico op bijtincidenten kan worden voorkomen, wordt door het college besloten deze hond te laten euthanaseren. Euthanaseren wordt uitsluitend gedaan door een daar toe bevoegde dierenarts.</para>
+    <para>6. De kosten van vervoer, opvang/verblijf, het testen van de hond en eventueel de kosten van het laten uitvoeren van euthanasie komen volledig voor rekening van de eigenaar/houder van de hond.</para>
+    <para />
+    <parablock>
+      <para>Artikel 7 Uitzonderingen</para>
+      <para>In uitzonderlijke gevallen of zeer ernstige situaties is het mogelijk om van deze beleidsregel af te wijken:</para>
+    </parablock>
+    <para>a. het college kan overgaan tot het toepassen van (spoed)bestuursdwang op grond van artikel 5:31 lid 2 Awb; of</para>
+    <para>b. de burgemeester kan besluiten op grond van artikel 172 lid 3 Gemeentewet direct over te gaan tot onvrijwillige inbeslagname van een hond.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

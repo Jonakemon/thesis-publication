@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2088</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-11T08:19:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">UTR - 19 _ 1736</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2088">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2088</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-11T08:19:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2088 Rechtbank Midden-Nederland , 29-05-2020 / UTR - 19 _ 1736</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2088:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>aanvraag om urgentie, medische situatie van eiseres en haar kinderen, hardheidsclausule, verweerder heeft zich niet kunnen baseren op het rapport van de arts, het beroep is gegrond, verweerder moet een nieuw besluit nemen</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2088:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Utrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 19/1736</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 29 mei 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres</bridgehead>
+    <para>(gemachtigde: mr. M.E. Beukers),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Hilversum</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. R. Schmidt).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 17 oktober 2018 (het primaire besluit) heeft verweerder de aanvraag van eiseres om urgentie afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 5 april 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 1 oktober 2019. Eiseres is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft het onderzoek ter zitting geschorst om verweerder in de gelegenheid te stellen een aanvullend medisch onderzoek op te vragen en in te dienen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft op 9 januari 2020 een aanvullend medisch onderzoek ingediend. Eiseres heeft hierop op 3 februari 2020 gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Partijen hebben niet te kennen gegeven prijs te stellen op een nadere zitting. Vervolgens heeft de rechtbank het onderzoek gesloten en doet zij vandaag uitspraak. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiseres woont met haar drie kinderen, waarvan de jongste nog geen twee jaar is, in een tweekamerappartement. Het appartement bevindt zich boven een coffeeshop en naast een kroeg. Eiseres en haar kinderen ervaren veel overlast en medische klachten. Om snel een andere woning te kunnen vinden, heeft eiseres bij de gemeente Hilversum een aanvraag ingediend om woningurgentie. </para>
+    <para />
+    <para>2. Verweerder heeft de aanvraag afgewezen, omdat eiseres niet aan de zogenoemde randvoorwaarden voldoet. Zo is de situatie waarin eiseres zich bevindt geen noodsituatie die vergt dat er direct (of uiterlijk binnen drie maanden) een woning beschikbaar komt. Immers, er is geen twijfel dat zij last ervaart van de wietdamp, maar uit de Huisvestingsverordening Gooi en Vechtstreek 2015 (Huisvestingsverordening) volgt dat een woningzoekende een eigen verantwoordelijkheid heeft voorafgaand aan het ontstaan van de noodsituatie. Hierbij wordt meegewogen wat eiseres heeft gedaan om andere woonruimte te vinden en ook wat zij heeft ondernomen om de overlast te beperken. Eiseres heeft er niet alles aan gedaan om zelf het probleem op te lossen. Daarnaast heeft verweerder geen aanleiding gezien om eiseres, ondanks dat zij niet aan de voorwaarden voldoet, alsnog urgentie te verlenen op grond van de hardheidsclausule. Verweerder heeft zijn besluit gebaseerd op het door hem ingewonnen medisch advies van 26 februari 2019. In het aanvullend medisch advies van 3 januari 2020 heeft verweerder geen aanleiding gezien om het bestreden besluit te wijzigen. </para>
+    <para />
+    <para>3. Eiseres stelt zich op het standpunt dat zij voldoet aan de randvoorwaarden. </para>
+    <para>Eiseres voert aan dat sprake is van een noodsituatie, omdat de huidige woonsituatie niet goed is voor het welzijn van eiseres en haar kinderen. De wietdampen, slechte ventilatie en de kleine ruimte hebben een negatieve werking op eiseres en haar kinderen. Hierdoor worden de kinderen in hun lichamelijke en geestelijke ontwikkeling geremd. Verder heeft het gezin vanwege de huidige woonsituatie medische klachten. De kinderen hebben continu ademhalingsproblemen en bovenste luchtweginfecties. Ter onderbouwing van de medische situatie verwijst eiseres naar de eerder door haar ingebrachte verklaringen van de huisarts en haar consulent van [naam organisatie] . Volgens eiseres is in het eerste en aanvullend medisch advies onvoldoende rekening gehouden met deze verklaringen en heeft verweerder zijn besluit hier niet op kunnen baseren. Verder voert eiseres aan dat zij er alles aan heeft gedaan om het probleem zelf op te lossen. Zij heeft gereageerd op allerlei woningen, maar vist altijd achter het net. De vrije sector is voor eiseres geen optie, omdat zij moet rond komen van een bijstandsuitkering. Ook heeft zij de verhuurder aangesproken op de huidige woonsituatie, maar hij heeft duidelijk gemaakt dat eiseres en haar gezin op straat komen te staan als zij verdere stappen tegen hem onderneemt. </para>
+    <para />
+    <para>4. De rechtbank is van oordeel dat verweerder zich op het standpunt heeft mogen stellen dat eiseres niet voldoet aan alle randvoorwaarden om voor urgentie in aanmerking te komen. Een van de randvoorwaarden is dat sprake moet zijn van een <emphasis role="italic">noodsituatie</emphasis> die het (dringend) noodzakelijk maakt dat direct of op zeer korte termijn -uiterlijk binnen drie maanden- een (andere) woning beschikbaar komt. Een en ander ter voorkoming van ernstige schade voor het welzijn van de aanvrager, dat rechtstreeks het gevolg is van de woonsituatie. De rechtbank begrijpt heel goed dat een kleine woning waar de wietdampen binnenkomen van de coffeeshop die onder de woning zit niet goed is voor kleine kinderen. Dit betekent alleen nog niet dat om die reden sprake is van een noodsituatie, omdat eiseres er mogelijk niet alles aan heeft gedaan om dit probleem op te lossen. Zo blijkt uit de stukken en – meer belangrijk – uit de verklaringen van eiseres dat de woning geen goede ventilatie heeft. De rechtbank sluit niet uit dat het mogelijk is dat de wietdampen in de woning met een betere (technische) ventilatie voorkomen kunnen worden. De rechtbank volgt eiseres niet in haar stelling dat zij dit heeft aangekaart bij de verhuurder en dat deze haar niet wil helpen. Om dit te kunnen volgen, heeft de rechtbank enige vorm van onderbouwing nodig. Die heeft eiseres echter niet gegeven. Voorts komt het voor haar eigen rekening en risico dat zij ervoor heeft gekozen om verder geen actie te ondernemen. Verweerder heeft zich aldus terecht op het standpunt gesteld dat niet is gebleken dat eiseres er alles aan heeft gedaan om het probleem met haar woonsituatie op te lossen. </para>
+    <para />
+    <para>5. Gelet op het voorgaande voldoet eiseres dus niet aan de randvoorwaarde van artikel 2.2, tweede lid, van de Huisvestingsverordening dat zij kan aantonen dat zij getracht heeft het probleem zelf op te lossen. Omdat eiseres niet voldoet aan deze randvoorwaarde heeft verweerder de aanvraag dan ook kunnen afwijzen, nu de opsomming van voorwaarden waaraan voldaan moet worden bij urgentieverlening cumulatief is. Dit betekent dat in beginsel niet wordt toegekomen aan een beoordeling van de inhoudelijke criteria (medische en sociale gronden) die gelden om in aanmerking te komen voor urgentie<footnote-ref linkend="_1ade0a40-6b08-43b6-af1e-5645dd7c8e97" /> en welke genoemd staan in artikel 2.3. van de Huisvestingsverordening. Wat eiseres hierover heeft aangevoerd, zal de rechtbank in dat kader dan ook niet bespreken. De beroepsgrond slaagt niet. </para>
+    <para />
+    <para>6. Tot slot doet eiseres een beroep op de hardheidsclausule en vindt dat haar individuele omstandigheden het rechtvaardigen dat zij urgentie moet krijgen. Zij verwijst hiervoor naar alles wat zij hiervoor heeft aangevoerd. </para>
+    <para />
+    <para>7. De rechtbank stelt vast dat verweerder de medische situatie in het kader van de hardheidsclausule heeft beoordeeld. Hij heeft zich daarbij gebaseerd op de medische adviezen op grond waarvan hij zich op het standpunt heeft gesteld dat er geen sprake is van een situatie die tot niet gerechtvaardigde hardheid leidt. Ter beoordeling ligt voor of verweerder zich bij de besluitvorming in dit kader op deze medische adviezen heeft mogen baseren. Daarbij is van belang de vraag of de adviezen zorgvuldig tot stand zijn gekomen, inzichtelijk en concludent zijn. De rechtbank is van oordeel dat dit voor beide medische adviezen niet het geval is en overweegt daartoe als volgt.</para>
+    <para />
+    <para>8. In de medische rapportage van 26 februari 2019 staat de volgende conclusie. Er is wel sprake van medische problematiek gerelateerd aan de huidige woning die maakt dat het medisch wenselijk is om te verhuizen, maar er is geen sprake van een medische noodsituatie waardoor verhuizen op hele korte termijn noodzakelijk is. </para>
+    <para>Ter zitting is reeds geconstateerd dat niet duidelijk is of de informatie uit de behandelend sector, te weten de brief van de huisarts en informatie van de KNO arts, bij de totstandkoming van dit medische advies is betrokken. Daarom heeft verweerder een aanvullend medisch advies laten opstellen waarbij deze informatie wel is betrokken. Het voorgaande maakt dat het medisch advies van 26 februari 2019 niet zorgvuldig tot stand is gekomen.</para>
+    <para />
+    <para>9. In de aanvullende medische rapportage van 3 januari 2020 staat - samengevat - het volgende:</para>
+    <para />
+    <parablock>
+      <para>De bij de huisarts en KNO arts opgevraagde informatie geeft geen aanleiding tot een wijziging van de conclusie van de rapportage van 26 februari 2019. Er is sprake van medische problematiek van betrokkene en haar kinderen. Die is objectief vast te stellen. Het leggen van een relatie tussen deze objectief vastgestelde medische problematiek en de oorzaak daarvan betreft in deze situatie geen taak van de adviserend arts. Ik ben immers niet opgeleid om geuroverlast of ventilatieproblematiek in een woning vast te stellen en oplossingsmogelijkheden daarvoor te bezien. Ik volg de huisarts dan ook niet in zijn standpunt dat de medische problematiek met zekerheid voortkomt uit, niet oplosbare, geuroverlast in de woning. Daarmee is een noodzaak voor een medische urgentie voor andere woonruimte op dit moment niet te stellen. Als de medische situatie een kernaspect vormt, is nader onderzoek aan de orde. Een volgende onderzoek stap is een noodzakelijke stap, omdat er vanuit de dossiergegevens een mogelijk duurzame gezondheidsbelastende situatie blijkt door omgevingsfactoren. Als die aanwezig blijkt, is sprake van een situatie van wonen leidend tot schade aan gezondheid. Daarmee is, gezien de jonge leeftijd van de kinderen, een medische noodzaak voor andere woonruimte aanwezig. Er is vanuit de opgevraagde informatie geen reden om de conclusie van de rapportage van 26 februari 2019 te wijzigen.</para>
+    </parablock>
+    <para />
+    <para>10. Uit het voorgaande leidt de rechtbank af dat de medisch adviseur zich niet achter het oordeel van de huisarts wil scharen omdat deze uitgaat van niet oplosbare geuroverlast in de woning, waarvan de medisch adviseur zegt dat hij dat gegeven niet kan beoordelen omdat hij daarvoor niet is opgeleid. De rechtbank kan deze redenering niet volgen aangezien niet uit de brief van de huisarts volgt dat deze uitgaat van niet oplosbare geuroverlast. De huisarts gaat uit van de thans aan de orde zijnde situatie dat er geuroverlast is. Vervolgens zegt de adviseur dat - nu hij de huisarts niet volgt - de noodzaak voor een medische urgentie op dit moment niet te stellen is, maar dat als de medische situatie een kernaspect vormt er nader onderzoek noodzakelijk is. Nu verweerder zich in het kader van het al dan niet van toepassing zijn van de hardheidsclausule op het standpunt heeft gesteld dat de medische situatie niet tot niet gerechtvaardigde hardheid leidt, betreft de medische situatie de grondslag voor het niet van toepassing verklaren daarvan. Gelet daarop is de rechtbank van oordeel dat, ook al ligt de medische situatie niet in het kader van artikel 2.3. van de Huisvestingsverordening ter beoordeling voor, de medische situatie in zoverre toch een kernaspect vormt in deze zaak in het kader van de beoordeling van de hardheidsclausule. Nader onderzoek is daarom noodzakelijk om de medische noodzaak voor andere woonruimte te kunnen beoordelen. De medisch adviseur heeft zich gelet op het voorgaande dus weliswaar alsnog kenbaar uitgelaten over de informatie van de behandelend sector, maar zegt tevens dat als het aankomt op de medische beoordeling nader onderzoek noodzakelijk is. </para>
+    <para />
+    <para>11. De rechtbank is dan ook van oordeel dat verweerder zich bij de besluitvorming niet het medisch advies heeft mogen baseren en zich zonder nader onderzoek niet op het standpunt heeft kunnen stellen dat de medische situatie niet tot niet gerechtvaardigde hardheid leidt. Dit omdat de reden waarom de medisch adviseur de huisarts niet volgt, niet navolgbaar is en de conclusie evenmin. En ook gelet op wat in het advies over het doen van nader onderzoek staat beschreven, namelijk dat als er sprake is van een duurzame gezondheids-belastende situatie, de woonsituatie kan leiden tot gezondheidsschade, wat maakt dat gelet op de jonge leeftijd van de kinderen een medische noodzaak voor andere woonruimte aanwezig is. </para>
+    <para />
+    <para>12. Ondanks dat nader onderzoek nodig is, volgt de rechtbank eiseres niet in haar stelling dat de medisch adviseur van de aanvullende medische rapportage zich bij de KNO-arts heeft laten afwimpelen met informatie over schade aan het gehoor van de zoon van eiseres en dat daarom nader onderzoek dient te volgen naar de juiste informatie. Eiseres heeft op de zitting verklaard dat haar middelste zoon onder behandeling is bij de KNO-arts vanwege problemen aan zijn gehoor. Het is dan ook niet vreemd dat de arts alleen hierover informatie ontvangt. Als eiseres van mening is dat de KNO-arts meer relevante informatie heeft, had zij die informatie ook kunnen opvragen en indienen. Dat heeft zij niet gedaan. </para>
+    <para />
+    <para>13. Het voorgaande betekent dat de beroepsgrond slaagt. Het bestreden besluit is dus in strijd met artikel 3:2 en 7:12 van de Algemene wet bestuursrecht. </para>
+    <para />
+    <para>14. Het beroep is gegrond en de rechtbank vernietigt het bestreden besluit. De rechtbank ziet geen aanleiding zelf in de zaak te voorzien omdat nader onderzoek aangewezen is. De rechtbank ziet evenmin aanleiding om een bestuurlijke lus toe te passen. Dit omdat dat naar het zich laat aanzien geen doelmatige en efficiënte afdoeningswijze zou inhouden. Er heeft namelijk al een informele bestuurlijke lus plaatsgevonden. Verweerder moet daarom een nieuw besluit nemen met inachtneming van deze uitspraak. De rechtbank stelt hiervoor een termijn van zes weken na de dag van verzending van deze uitspraak. </para>
+    <para />
+    <para>15. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiseres het door haar betaalde griffierecht vergoedt. </para>
+    <para />
+    <para>16. De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.312,50 (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting en 0,5 punt voor het indienen van een schriftelijke zienswijze na een (informele) bestuurlijke lus met een waarde per punt van € 525,- en een wegingsfactor 1). </para>
+    <bridgehead role="bold">Beslissing</bridgehead>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 174,- te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.312,50.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 29 mei 2020 door mr. L.A. Banga, rechter, in aanwezigheid van mr. S. Westerhof, griffier. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+  </section>
+  <footnote id="_1ade0a40-6b08-43b6-af1e-5645dd7c8e97" label="1">
+    <para> Zie de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 11 mei 2016 (ECLI:NL:RVS:2016:1253).</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

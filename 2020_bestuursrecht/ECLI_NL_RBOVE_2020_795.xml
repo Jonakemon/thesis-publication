@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOVE:2020:795</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-24T14:48:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel" scheme="overheid.RechterlijkeMacht">Rechtbank Overijssel</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-24</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">Awb 20/131, 20/165 en 20/363</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Zwolle</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:795">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:795</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-24T14:47:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOVE:2020:795 Rechtbank Overijssel , 24-02-2020 / Awb 20/131, 20/165 en 20/363</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOVE:2020:795:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Afwijzing voorlopige voorziening omdat verzoeker de gevraagde DHW-vergunning niet kan effectueren in verband met opgelegde bouwstop.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOVE:2020:795:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK OVERIJSSEL</bridgehead>
+    <para>Zittingsplaats Zwolle</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: AWB 20/131, 20/165 en 20/363</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter op het beroep en de verzoeken om voorlopige voorziening in de geschillen tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [eiser]
+        </emphasis>, te [plaats] , </para>
+      <para>eiser in de procedures 20/131 en 20/165 en verzoeker in de procedure 20/363,</para>
+      <para>gemachtigde: J.E. Eshuis,</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de burgemeester van Hengelo</emphasis>, verweerder,</para>
+      <para>gemachtigde: B.J.A. Leferink.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>De aanvraag</para>
+      <para />
+      <parablock>
+        <para>
+          [eiser] heeft verweerder op 5 april 2019 gevraagd hem een vergunning ingevolge de Drank- en Horecawet (DHW) te verlenen voor de vestiging van [naam 1] te Hengelo (verder: de aanvraag). Daarbij heeft hij op verzoek van verweerder, berustend op de beleidsregels Wet Bibob gemeente Hengelo, op grond van artikel 30 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (de Wet Bibob) een ingevuld vragenformulier gevoegd (gedateerd 28 maart 2019).</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op 13 juni 2019 heeft verweerder [eiser] medegedeeld via het Regionaal Informatie en Expertisecentrum (RIEC) een onderzoek te doen instellen door het Landelijk Bureau Bibob (LBB). Het LBB heeft op 26 augustus 2019 advies aan verweerder uitgebracht. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Het voornemen</para>
+      <para />
+      <parablock>
+        <para>Op 16 oktober 2019 heeft verweerder [eiser] medegedeeld voornemens te zijn om de DHW-vergunning te weigeren. Verweerder heeft hem in de gelegenheid gesteld om daartegen een zienswijze in te dienen, van welke gelegenheid hij op 24 oktober 2019 gebruik heeft gemaakt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Niet tijdig beslissen (procedures 20/131 en 20/165)</para>
+      <para />
+      <parablock>
+        <para>Bij brief van 12 december 2019 heeft [eiser] verweerder op grond van de artikelen 4:17 juncto 6:12 van de Algemene wet bestuursrecht (Awb) in gebreke gesteld voor het niet tijdig nemen van een beslissing op de aanvraag.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op 15 januari 2020 heeft [eiser] beroep ingesteld tegen het niet tijdig beslissen op de aanvraag (Awb 20/165). Tegelijkertijd heeft hij de voorzieningenrechter (Awb 20/131) gevraagd om verweerder:</para>
+      </parablock>
+      <para>- op te dragen een besluit op [eiser] aanvraag te nemen,</para>
+      <para>- daarvoor een termijn te stellen, en</para>
+      <para>- een dwangsom op te leggen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>De beslissing op de aanvraag (procedure 20/363)</para>
+      <para />
+      <parablock>
+        <para>Op 20 januari 2020 heeft verweerder geweigerd de DHW-vergunning te verlenen (verder: de beschikking). In de beschikking heeft verweerder vermeld dat gemachtigde van [eiser] de DHW-vergunning heeft aangevraagd en dat die aanvraag is afgewezen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Op 5 februari 2020 heeft [eiser] bij verweerder bezwaar gemaakt tegen de beschikking. Tegelijkertijd heeft hij de voorzieningenrechter verzocht om bij wijze van voorlopige voorziening:</para>
+      </parablock>
+      <itemizedlist mark="-">
+        <listitem>
+          <para>de beschikking te vernietigen;</para>
+        </listitem>
+        <listitem>
+          <para>de gevraagde DHW-vergunning te verlenen, en </para>
+        </listitem>
+        <listitem>
+          <para>verweerder te veroordelen in de proceskosten.</para>
+        </listitem>
+      </itemizedlist>
+      <para />
+      <parablock>
+        <para>Van deze procedure is op 17 februari 2020, naar aanleiding van hetgeen is besproken ter zitting, procesdossier 20/363 aangelegd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>Het verdere procesverloop</para>
+      <para />
+      <parablock>
+        <para>Als verweer in de voornoemde procedures heeft verweerder verwezen naar de inhoud van de beschikking.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het onderzoek ter zitting heeft plaatsgevonden op 17 februari 2020. In het onderzoek zijn alle voornoemde procedures betrokken. [eiser] is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde, bijgestaan door S.W.A. Prinsen en L.M. Davina.</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De procedures 20/131 en 20/165</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Na afloop van de zitting is de voorzieningenrechter in deze procedures tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de (Awb niet alleen uitspraak op het verzoek om voorlopige voorziening 20/131, maar ook op het beroep 20/165. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter ziet zich in deze procedures allereerst ambtshalve gesteld voor de vraag of [eiser] – nadat verweerder op 20 januari 2020 hangende deze procedures alsnog daadwerkelijk op zijn aanvraag heeft beslist – nog een procesbelang heeft bij de beoordeling van het beroep tegen het niet tijdig nemen van de beschikking. Die vraag beantwoordt de voorzieningenrechter bevestigend, nu [eiser] heeft verzocht om vast te stellen of verweerder naar aanleiding van zijn ingebrekestelling aan hem dwangsommen is verschuldigd. De voorzieningenrechter beperkt zich hiertoe.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 4:17, derde lid van de Awb is de eerste dag waarover de dwangsom verschuldigd is, de dag waarop twee weken zijn verstreken na de dag waarop de termijn voor het geven van de beschikking is verstreken en het bestuursorgaan van de aanvrager een schriftelijke ingebrekestelling heeft ontvangen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 4:13, eerste lid van de Awb dient een beschikking te worden gegeven binnen de bij wettelijk voorschrift bepaalde termijn of, bij het ontbreken daarvan, binnen een redelijke termijn na ontvangst van de aanvraag. Die redelijke termijn is op grond van het tweede lid van dit artikel in ieder geval verstreken als het bestuursorgaan binnen acht weken na ontvangst van de aanvraag geen beschikking heeft gegeven, noch een mededeling als bedoeld in artikel 4:14, derde lid, heeft gedaan. Ingevolge artikel 4:15 van de Awb kan die termijn op de daarin gegeven voorwaarden worden opgeschort.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de DHW is geen wettelijke termijn gesteld waarbinnen het bestuursorgaan op de aanvraag dient te beslissen, zodat op [eiser] aanvraag de redelijke termijn van acht weken als bepaald in artikel 4:13 van de Awb van toepassing is. Nu gesteld noch gebleken is, dat verweerder een mededeling als bedoeld in artikel 4:14, derde lid heeft gedaan of die termijn met inachtneming van de voorwaarden als gegeven in artikel 4:15 van de Awb heeft opgeschort, stelt de voorzieningenrechter vast, dat de termijn om op de aanvraag te beslissen loopt tot en met 31 mei 2019. De voorzieningenrechter stelt voorts vast dat verweerder niet uiterlijk op die datum op [eiser] aanvraag heeft beslist.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voorzover verweerder meent dat de beslistermijn op grond van het bepaalde in artikel 15 van de wet Bibob is verlengd en/of opgeschort, doordat verweerder met toepassing van artikel 27, vierde lid van de wet Bibob op 13 juni 2019 een bibob-advies heeft gevraagd aan het LBB, volgt de voorzieningenrechter verweerder daarin niet. Een eenmaal verstreken beslistermijn kan naar vaste rechtspraak immers niet worden verlengd of opgeschort (vergelijk: de uitspraken van de Afdeling Bestuursrechtspraak van de Raad van State van 1 juli 2015 en 16 december 2015; ECLI:NL:RVS:2015:2049 en ECLI:NL:RVS:2015:3891).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eiser] heeft verweerder op de grond van artikel 4:17 van de Awb op 12 december 2019 in gebreke gesteld voor het niet tijdig nemen van een beslissing op de aanvraag. Gelet op het bepaalde in dit artikel bepaalt de voorzieningenrechter dat verweerder vanaf 26 december 2019 tot en met 19 januari 2019 dwangsommen heeft verbeurd van totaal € 672 (zijnde 14 x € 23 van 16 december tot en met 9 januari 2020 en 10 x € 35 van 10 januari 2020 tot en met 19 januari 2019).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is gegrond. De voorzieningenrechter wijst het verzoek om voorlopige voorziening af. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Omdat de voorzieningenrechter het beroep gegrond verklaart, bepaalt hij dat verweerder aan [eiser] het door hem betaalde griffierecht van € 354 vergoedt. De voorzieningenrechter veroordeelt verweerder voorts in de door [eiser] gemaakte proceskosten. Deze kosten stelt hij op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 525 (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting, tegen een waarde per punt van € 525 en, omdat het beroep slechts ziet op het niet tijdig beslissen, de wegingsfactor 0,5). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De procedure 20/363</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter ziet zich in deze procedure allereerst ambtshalve gesteld voor de vraag of [eiser] – in afwachting van verweerders beslissing op zijn bezwaar tegen de beschikking – een spoedeisend belang heeft tot het treffen van een voorlopige voorziening. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter oordeelt als volgt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Niet in geschil, is dat [eiser] een horecabedrijf genaamd [naam 1] gaan exploiteren op het adres [adres] te Hengelo. Het betreffende pand, bekend als Uitgaanscentrum [naam 3] , is eigendom van [naam 4] [naam 2] te Deurningen), met wie [eiser] voornemens is een huurovereenkomst aan te gaan tot en met 31 maart 2024, zodra de DHW-vergunning is verleend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ter zitting is door verweerder gesteld, dat (in opdracht van) de verhuurder in het pand bouwwerkzaamheden (worden) verricht, die nog niet zijn voltooid en waarvan het nog onduidelijk is wanneer dat wel het geval zal zijn. Onweersproken is immers, dat die werkzaamheden op last van Burgemeester en wethouders van Hengelo reeds twee keer onder het opleggen van een last onder dwangsom en het toepassen van bestuursdwang zijn stilgelegd en dat de bouwstop onverkort voortduurt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit heeft tot gevolg dat [eiser] de door hem gevraagde DHW-vergunning zolang de bouwstop voortduurt en de werkzaamheden niet zijn voltooid, niet kan effectueren. Het treffen van een voorlopige voorziening maakt dat niet anders. Daarmee wordt immers beoogd om onevenredig nadeel te voorkomen in afwachting van nadere besluitvorming, maar dat kan daarmee in het onderhavige geval niet worden bereikt, ook al zou een voorlopige voorziening (kunnen) worden getroffen als ware de DHW-vergunning verleend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hieruit volgt, dat voor het treffen van een voorlopige voorziening zoals [eiser] die voorstaat geen grond bestaat. De voorzieningenrechter wijst het verzoek daartoe dan ook af. De voorzieningenrechter wijst [eiser] er op dat hij, in het geval de bouwstop vervalt en de bouwwerkzaamheden in het door hem te huren pand zijn voltooid voordat verweerder op zijn bezwaar heeft kunnen beslissen, een nieuw verzoek om een voorlopige voorziening kan indienen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de procedures 20/131 en 20/165</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>wijst het verzoek om voorlopige voorziening af;</para>
+      </listitem>
+      <listitem>
+        <para>stelt de dwangsom wegens niet tijdig beslissen vast op € 672;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 354 aan eiser te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 525.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>In de procedure 20/363</para>
+    </parablock>
+    <para>- wijst het verzoek om voorlopige voorziening af.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.F. Bijloo, voorzieningenrechter, in aanwezigheid van R.K. Witteveen, griffier. De beslissing is in het openbaar uitgesproken op</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan voor zover daarbij is beslist op het beroep 20/165 binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

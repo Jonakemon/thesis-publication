@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBLIM:2020:6057</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-14T11:46:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Limburg" scheme="overheid.RechterlijkeMacht">Rechtbank Limburg</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 19/2779</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Roermond</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:6057">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBLIM:2020:6057</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-10T12:05:00</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBLIM:2020:6057 Rechtbank Limburg , 14-08-2020 / AWB 19/2779</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBLIM:2020:6057:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Weigering exploitatievergunning. Naar het oordeel van de rechtbank heeft verweerder zich – onder verwijzing naar de adviezen van het Bureau Bibob – op het standpunt kunnen stellen dat een ernstig gevaar bestaat dat de aangevraagde vergunning mede zal worden gebruikt om strafbare feiten te plegen</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBLIM:2020:6057:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">RECHTBANK limburg</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Roermond</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummer: AWB 19/2779  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer van 14 augustus 2020 in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [eiseres sub 1]
+        </emphasis>, eiseres 1</para>
+      <para>
+        <emphasis role="bold">
+          [eiser sub 2]
+        </emphasis>, eiser</para>
+      <para>
+        <emphasis role="bold">
+          [eiseres sub 3] ,</emphasis> eiseres 2</para>
+      <para>gezamenlijk te noemen: eisers</para>
+      <para>(gemachtigde: mr. I.P. Sigmond),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de burgemeester van de gemeente Kerkrade</emphasis>, verweerder</para>
+      <para>(gemachtigde: mr. K. Heijens en S.M.L. Vullers).</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Procesverloop </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 september 2018 (hierna: het primaire besluit) heeft verweerder de aanvraag van [eiseres sub 1] (hierna: [eiseres sub 1] ) tot verlening van een vergunning ten behoeve van het exploiteren van een broodjeszaak ( [bedrijfsnaam] ) in de horeca-inrichting aan de [adres] te [vestigingsplaats] , geweigerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 september 2019 (hierna: het bestreden besluit) heeft verweerder het bezwaar van eiser<emphasis role="bold">s</emphasis> tegen het primaire besluit ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 23 juni 2020. [eiseres sub 1] heeft zich laten vertegenwoordigen door haar gemachtigde. De heer [eiser sub 2] (hierna: [eiser sub 2] ) en mevrouw [eiseres sub 3] (hierna: [eiseres sub 3] ) zijn in persoon verschenen, bijgestaan door hun gemachtigde.   </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Overwegingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Formeel punt</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De rechtbank overweegt allereerst ambtshalve als volgt.</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Op 17 juni 2020 heeft verweerder een nader stuk ingediend. Op 22 juni 2020 heeft de gemachtigde van eisers in reactie hierop nog een stuk ingediend. Beide stukken zijn binnen de in artikel 8:58 van de Algemene wet bestuursrecht vermelde termijn van tien dagen  ingediend. Gelet op de lengte en inhoud van de stukken ziet de rechtbank geen aanleiding deze tardief te verklaren wegens strijd met de beginselen van een goede procesorde. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Inhoudelijke beoordeling</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>2. De rechtbank gaat bij haar beoordeling uit van het navolgende. [eiseres sub 1] heeft op 13 september 2016 de hiervoor vermelde aanvraag ingediend. [naam bv 1] , waarvan [eiser sub 2] optreedt als enig aandeelhouder en enig bestuurder, is de enig aandeelhouder en bestuurder van [eiseres sub 1] . Op 14 juli 2016 heeft [naam bv 1] [bedrijfsnaam] overgenomen van mevrouw [naam] . Op het aanvraagformulier zijn, onder andere, [eiser sub 2] en [eiseres sub 3] als leidinggevenden vermeld van [bedrijfsnaam] . Op 3 april 2017 heeft verweerder [eiser sub 2] schriftelijk in kennis gesteld van het feit dat hij naar aanleiding van een tip van het Openbaar Ministerie (hierna: het OM) heeft besloten een advies aan te vragen bij het Landelijk Bureau Bibob (hierna: het LBB). </para>
+      <para />
+      <para>3. Op 28 juli 2017 heeft het LBB advies uitgebracht. Volgens het advies bestaat er een ernstig gevaar dat de aangevraagde vergunning mede zal worden gebruikt om strafbare feiten te plegen als bedoeld in artikel 3, eerste lid, aanhef en onder b, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (de Wet Bibob). Het oordeel in het advies is gebaseerd op een ernstig vermoeden dat [eiser sub 2] als middellijk enig aandeelhouder en bestuurder van [bedrijfsnaam] zich schuldig heeft gemaakt aan witwassen in de periode van 17 mei 2010 en 24 november 2010 tot en met heden (datum advies). Verder is er een redelijk ernstig vermoeden van betrokkenheid van [eiser sub 2] bij het overtreden van de Opiumwet op of omstreeks 31 maart 2012, op of omstreeks 14 september 2014 en omstreeks april 2017. Ten aanzien van [eiseres sub 3] die in een zakelijk samenwerkingsverband staat tot [bedrijfsnaam] en [eiser sub 2] , bestaat een ernstig vermoeden dat zij zich schuldig heeft gemaakt aan valsheid in geschrifte en witwassen in de periode van 10 januari 2017 tot en met heden (datum advies).</para>
+      <para />
+      <para>4. Naar aanleiding van dit Bibob-advies heeft verweerder op 6 september 2017 een voornemen uitgebracht dat strekte tot weigering van de gevraagde vergunning. Eisers hebben hiertegen een zienswijze ingediend. In de zienswijze is – samengevat weergegeven – aangevoerd en met stukken onderbouwd dat in het advies onvoldoende is geconcretiseerd dat er van de kant van [eiser sub 2] sprake is van witwassen en betrokkenheid bij Opiumwetdelicten. Verder is aangevoerd dat ten aanzien van [eiseres sub 3] onvoldoende is onderbouwd dat er sprake is van witwassen. Verweerder heeft naar aanleiding van de zienswijze aanleiding gezien een aanvullend advies in te winnen bij het LBB. </para>
+      <para />
+      <para>5. Op 19 april 2018 heeft het LBB een aanvullend advies uitgebracht. Na een nadere bestudering van de informatie van de Belastingdienst en de door de gemachtigde van eisers overgelegde stukken komt het LBB terug van zijn standpunt dat ten aanzien van [eiser sub 2] het ernstig vermoeden bestond dat hij zich schuldig heeft gemaakt aan witwassen in de periode van 17 mei 2010 en 24 november 2010 tot en met heden (datum advies 28 juli 2017). Het standpunt dat [eiser sub 2] zich vermoedelijk schuldig heeft gemaakt aan witwassen in de hiervoor vermelde periode komt daarom te vervallen. Ten aanzien van de betrokkenheid van [eiser sub 2] bij Opiumwetdelicten stelt het LBB dat niet relevant is of [eiser sub 2] als verdachte is aangemerkt of dat er opsporingshandelingen jegens hem zijn verricht. Bij de beoordeling of er sprake is van een vermoeden van een strafbaar feit is het LBB niet gebonden aan het oordeel van een opsporingsinstantie. Dat de term redelijk ernstig vermoeden niet zou volgen uit de wet Bibob of de jurisprudentie, volgt het LBB niet. De ernst van het vermoeden moet beoordeeld worden en de wetgever heeft de daarbij te hanteren bewijsmaatstaven niet verder vastgesteld. Er zijn verschillende gradaties van vermoedens en de aanname dat redelijke ernstige vermoedens geheel buiten beschouwing moeten worden gelaten bij de vaststelling van een ernstig gevaar, vindt volgens het LBB geen grond in het recht. Deze redelijk ernstige vermoedens heeft het LBB wel minder zwaar laten meewegen bij de beoordeling van de mate van het gevaar. Ten aanzien van [eiseres sub 3] blijft het LBB bij zijn conclusie dat [eiseres sub 3] door gebruik te maken van een vermoedelijk valselijk opgemaakte werkgeversverklaring een hypothecaire geldlening heeft verkregen voor de (volledige) eigendomsoverdracht van een woning en dat zij wist of redelijkerwijs moest weten dat de ontvangst van deze lening afkomstig was uit dit misdrijf. Daarom blijft er sprake van een ernstig vermoeden dat [eiseres sub 3] zich schuldig heeft gemaakt aan witwassen in de periode van 10 januari 2017 tot en met heden. </para>
+      <para />
+      <para>6. Bij het primaire besluit heeft verweerder de gevraagde vergunning geweigerd. Verweerder heeft hieraan – samengevat weergegeven – ten grondslag gelegd dat er een ernstig vermoeden bestaat dat [eiseres sub 3] zich schuldig zou hebben gemaakt aan valsheid in geschrifte en witwassen van 10 januari 2017 tot en met heden (datum advies). Verder bestaat er een redelijk ernstig vermoeden dat [eiser sub 2] betrokken is bij overtreding van de Opiumwet op of omstreeks 31 maart 2012, op of omstreeks 14 september 2014 en omstreeks april 2017. Gelet hierop is verweerder tot de conclusie gekomen dat er een ernstig gevaar bestaat dat de aangevraagde vergunning mede zal worden gebruikt om strafbare feiten te plegen. Verwezen wordt naar de adviezen van het LBB van 28 juli 2017 en </para>
+      <para>19 april 2018. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>7</nr>Eisers hebben tegen het primaire besluit bezwaar ingediend.</title>
+    <para />
+    <para>8. Verweerder heeft naar aanleiding van het bezwaarschrift aanleiding gezien nogmaals advies in te winnen bij het LBB. </para>
+    <para />
+    <para>9. Het LBB heeft op 21 maart 2019 opnieuw een aanvullend advies uitgebracht. Hierin heeft het LBB opgenomen dat er nog steeds sprake is van een actueel zakelijk samenwerkingsverband tussen [bedrijfsnaam] , vertegenwoordigd door [eiser sub 2] , en [eiseres sub 3] . </para>
+    <para />
+    <para>10. Bij het bestreden besluit heeft verweerder het bezwaar van eisers tegen het primaire besluit ongegrond verklaard. </para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>11</nr>Eisers hebben beroep ingesteld op de hierna te bespreken gronden.</title>
+    <para />
+    <para>12. De rechtbank ziet zich gesteld voor de vraag of verweerder de aanvraag van [eiseres sub 1] tot verlening van een exploitatievergunning op goede gronden heeft afgewezen. Bij haar beoordeling acht de rechtbank de navolgende bepalingen van belang.</para>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 2:36, eerste lid, van de Algemene Plaatselijke Verordening van de gemeente Kerkrade 2018 (hierna: de APV) is het verboden een openbare inrichting te exploiteren zonder vergunning van de burgemeester.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 2:40, eerste lid, onder d, van de APV wordt een vergunning door het bevoegd orgaan geweigerd indien er sprake is van toepassing van de Wet Bibob in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 3, eerste lid, onder b, van de Wet Bibob kunnen bestuursorganen voor zover zij bij of krachtens de wet daartoe de bevoegdheid hebben gekregen, weigeren een aangevraagde beschikking te geven indien ernstig gevaar bestaat dat de beschikking mede zal worden gebruikt om strafbare feiten te plegen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 3, derde lid, van de Wet Bibob wordt de mate van gevaar, voor zover het ernstig gevaar als bedoeld in het eerste lid, aanhef en onderdeel b betreft, vastgesteld op basis van:</para>
+    </parablock>
+    <para>a. feiten en omstandigheden die erop wijzen of redelijkerwijs doen vermoeden dat de betrokkene in relatie staat tot strafbare feiten die zijn gepleegd bij activiteiten die overeenkomen of samenhangen met activiteiten waarvoor de beschikking wordt aangevraagd dan wel is gegeven,</para>
+    <para>b. ingeval van vermoeden de ernst daarvan,</para>
+    <para>c. de aard van de relatie en</para>
+    <para>d. het aantal van de gepleegde strafbare feiten.</para>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 3, vierde lid, van de Wet Bibob, staat de betrokkene in relatie tot strafbare feiten als bedoeld in het tweede en derde lid, indien:</para>
+    </parablock>
+    <para>a. hij deze strafbare feiten zelf heeft begaan,</para>
+    <para>b. hij direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over of vermogen verschaft dan wel heeft verschaft aan een rechtspersoon in de zin van artikel 51 van het Wetboek van Strafrecht die deze strafbare feiten heeft begaan, of</para>
+    <para>c. een ander deze strafbare feiten heeft gepleegd en deze persoon direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over, vermogen verschaft dan wel heeft verschaft aan betrokkene, of in een zakelijk samenwerkingsverband tot hem staat of heeft gestaan.</para>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 3, vijfde lid, van de Wet Bibob vindt de weigering dan wel intrekking, bedoeld in het eerste lid, slechts plaats indien deze evenredig is met:</para>
+    </parablock>
+    <para>a. de mate van het gevaar en</para>
+    <para>b. voor zover het ernstig gevaar als bedoeld in het eerste lid, onderdeel b, betreft, de ernst van de strafbare feiten.</para>
+    <para />
+    <parablock>
+      <para>Bij de beoordeling of zich een ernstig gevaar als bedoeld in artikel 3, eerste lid, aanhef en onder b, van de Wet Bibob (de b-grond) voordoet, worden op grond van het derde artikellid feiten en omstandigheden betrokken die erop wijzen of redelijkerwijs doen vermoeden dat de betrokkene in relatie staat tot strafbare feiten die zijn gepleegd bij activiteiten die overeenkomen of samenhangen met activiteiten waarvoor de beschikking wordt aangevraagd dan wel is gegeven. Verweerder mag daarbij, gelet op de jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling), zoals de uitspraak van 17 november 2010 (ECLI:NL:RVS:2010:BO4230), afgaan op de expertise van het LBB.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Bewijsmaatstaf </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>13. Eisers hebben betoogd dat in het onderliggende geval de vraag voorligt of de door het LBB gestelde feiten als een delict kunnen worden aangemerkt en of hiervoor voldoende bewijs is. Vervolgens gaat het om de kwalificatie van de relatie tussen [eiseres sub 1] en de strafbare feiten en of op feitelijk niveau die relatie bewezen is. De vraag of feiten bewezen zijn en de juridische kwalificatie hiervan kan door een rechter niet op het bordje worden gelegd van het LBB. Dit is bij uitstek het werk van een rechter. Miskenning daarvan levert strijd op met het bepaalde in artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. Volgens [eiseres sub 1] is de motivering van het begrip ernstig gevaar in de adviezen van het LBB steeds ondeugdelijk geweest. Strafbare feiten die ten grondslag worden gelegd aan een gevaar conclusie moeten voldoen aan een bepaalde bewijsmaatstaf. Het moet aannemelijk zijn. Het advies en het besluit kenmerken zich op dit punt door vaagheid en abstractheid. Het LBB kan de bewijsmaatstaf invullen met objectieve feiten die blijken uit strafrechtelijke stukken maar zal op basis hiervan een oordeel moeten geven over de aannemelijkheid. </para>
+    <para />
+  </section>
+  <section>
+    <title>
+      <nr>14</nr>Volgens vaste jurisprudentie van de Afdeling, zoals de uitspraak van </title>
+    <para>20 december 2017 (ECLI:NL:RVS:2017:3500), mag een bestuursorgaan, gelet op de deskundigheid van het LBB, in beginsel van diens advies uitgaan. Dit neemt niet weg dat het zich ervan moet vergewissen dat het aan het advies ten grondslag liggende onderzoek naar de feiten op zorgvuldige wijze is verricht en dat de feiten de conclusies kunnen dragen. Dat is bijvoorbeeld niet het geval indien de feiten voor de conclusies te weinig of te weinig directe aanwijzingen bieden of omdat ze in verschillende richtingen wijzen, onderling tegenstrijdig zijn of niet stroken met hetgeen overigens bekend is. Van belang is in dit verband dat het bestuursorgaan in beginsel geen inzage heeft in de onderliggende broninformatie van het advies van het LBB, zodat eigen verificatie veelal niet mogelijk is. Dit betekent dat het bestuursorgaan in de regel op de weergave van de broninformatie door het LBB en de daaraan gegeven kwalificatie mag afgaan. Wel dient het bestuursorgaan zich ervan te vergewissen dat de gestelde vragen op zodanige wijze zijn beantwoord dat op basis van het advies op zorgvuldige wijze en voldoende gefundeerd kan worden beslist.</para>
+    <para />
+    <paragroup>
+      <nr>14.1.</nr>
+      <para>Volgens de uitspraak van de Afdeling van 6 februari 2019 (ECLI:NL:RVS:2019:350) dient het LBB op grond van de Wet Bibob een advies uit te brengen en daarin in te gaan op de vraag of een ernstig gevaar als bedoeld in artikel 3, eerste lid, van de Wet Bibob aanwezig is. Daarbij dient het zich te beperken tot het verzamelen en analyseren van de in artikel 12, tweede lid, van de Wet Bibob, bedoelde persoonsgegevens. Zoals eisers terecht stellen moeten deze strafbare feiten als zodanig aannemelijk worden gemaakt. Vervolgens moet het gaan om een redelijk vermoeden van het plegen van het strafbaar feit door degene die is genoemd in artikel 3, vierde lid, van de Wet Bibob. De rechtbank zal in het navolgende hierop nader ingaan. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De betrokkenheid van [eiser sub 2] bij de Opiumwetdelicten</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>15.	Eisers hebben betoogd dat verweerder met de vage niet op de wet gebaseerde term <emphasis role="italic">betrokkenheid </emphasis>niet heeft geconcretiseerd wat de relatie zou zijn tussen [eiseres sub 1] als zijnde de betrokkene en de gepleegde Opiumwetdelicten, te weten de geconstateerde hennepplantages. Heeft [eiser sub 2] de Opiumwetdelicten zelf gepleegd en bestaat er een relatie tussen [eiseres sub 1] en [eiser sub 2] of zijn deze gepleegd door een ander en staat deze in relatie tot [eiseres sub 1] ? Het LBB draait ten onrechte hieromheen in zijn advies. Op zich is het aannemelijk dat in 2012 en 2014 strafbare feiten zijn gepleegd, nu in de onroerende zaak van de ouders van [eiser sub 2] op verschillende momenten en door verschillende personen hennepplantages zijn aangelegd. Het LBB baseert dit op justitiële gegevens. Vaststaat dat in alle gevallen de hennepplantages zijn aangelegd door derden. Gesteld noch gebleken is dat [eiser sub 2] direct of indirect een eigen hand heeft gehad in enige hennepplantage. Met de vage term <emphasis role="italic">betrokkenheid </emphasis>wordt op zijn hoogst een bepaalde relatie met die hennepplantages gesuggereerd. Dergelijke termen halen niet eens de bewijsmaatstaf redelijk vermoeden omdat er geen enkel begin van bewijs is. Het heeft er alle schijn van dat een deskundige met juridische toverspreuken handen en voeten probeert te geven aan kenbare onderbuikgevoelens. Het LBB interpreteert feiten en dat is bij uitstek het formuleren van een vermoeden. Dat is ruimschoots onvoldoende voor de in dit geval geldende bewijsmaatstaf aannemelijkheid of redelijk vermoeden. Volgens eiseres wordt het advies op dit punt al helemaal onnavolgbaar omdat verweerder stelt dat hij een redelijk ernstig vermoeden heeft van die betrokkenheid, maar dat dit niet echt een rol speelt voor de conclusie van een ernstig gevaar. Dit omdat de door [eiseres sub 3] gepleegde strafbare feiten voldoende zijn. Hiermee is niet helder of de Opiumwetdelicten wel of niet meetellen bij de gevaarconclusie. Wanneer deze niet meetellen dienen zij evenmin te worden meegenomen in de besluitvorming, aldus eisers.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>15.1.</nr>
+      <parablock>
+        <para>Uit het Bibob-advies van 28 juli 2017 volgt dat op 31 maart 2012 in een pand, waarvan de ouders van [eiser sub 2] formeel de eigenaars zijn, een hennepplantage is aangetroffen. Uit de stukken van de politie blijkt dat [eiser sub 2] het huurcontract met de desbetreffende huurder heeft afgesloten. [eiser sub 2] woonde op dat moment in een pand dat op hetzelfde terrein lag. Volgens de stukken was een penetrante hennepgeur waarneembaar op het terrein. Op </para>
+        <para>14 september 2014 is een hennepplantage aangetroffen in een pand waarvan [eiser sub 2] op dat moment de eigenaar was. Het pand werd op dat moment verhuurd. Op 26 april 2017 werd [eiser sub 2] en een ander persoon bij een onbemand tankstation staande gehouden door de politie. In de door de andere persoon bestuurde vrachtauto werden potgrondresten aangetroffen van een hennepplantage. Deze andere persoon was bovendien de bestuurder van het bedrijf waar [eiseres sub 3] in loondienst zou werken en die de werkgeversverklaring zou hebben verstrekt. Tot slot is uit een TCI proces-verbaal van de politie gebleken dat een informant heeft verklaard dat [eiser sub 2] “in wiethokken investeert”. Door eisers is niet betwist dat het aannemelijk is dat er strafbare feiten in de zin van Opiumwetdelicten hebben plaatsgevonden. </para>
+        <para>Naar het oordeel van de rechtbank volgt uit artikel 3, derde lid, van de Wet Bibob in samenhang met artikel 3, vierde lid, van de Wet Bibob dat er sprake moet zijn van een redelijk vermoeden dat [eiser sub 2] , als bestuurder/leidinggevende van [eiseres sub 1] , betrokken is bij de aannemelijk geachte Opiumwetdelicten. Gelet op hetgeen daartoe is aangevoerd door het LBB heeft verweerder dit vermoeden kunnen aannemen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De betrokkenheid van [eiseres sub 3] bij de delicten valsheid in geschrifte en witwassen</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>16.	Eisers hebben betwist dat er ten aanzien van [eiseres sub 3] sprake zou zijn van een ernstig vermoeden dat zij valsheid in geschrifte heeft gepleegd door met een valselijk opgemaakte werkgeversverklaring de hypotheekverstrekker ertoe te bewegen tot het geven van groen licht voor een ontslag uit hoofdelijkheid van haar ex-partner. Hierdoor konden [eiseres sub 3] en haar ex-partner uit de onverdeeldheid raken van de tussen hen nog bestaande onverdeelde huwelijksgemeenschap doordat zij van mede-eigenaar eigenaar werd. Ook hier hanteert het LBB met het begrip ernstig vermoeden een onjuiste bewijsmaatstaf, aangezien er sprake moet zijn van aannemelijkheid. Het LBB heeft enkel inzicht gekregen in de werkgeversverklaring en bankafschriften via de Belastingdienst. Er ligt geen enkele getuigenverklaring, nu het OM geen opsporingsactie heeft ingesteld en ook de Belastingdienst verder niets heeft gedaan met de opgevraagde gegevens. Evenmin ligt er een aangifte van de bank dat zij tot het verstrekken van de verklaring werd bewogen. Er ligt een ontkenning van [eiseres sub 3] en een niet weerlegd relaas over het ontstaan en verloop van de arbeidsrelatie. [eiseres sub 3] heeft een arbeidsovereenkomst en een beëindigingsovereenkomst overgelegd. [eiseres sub 3] heeft daadwerkelijk gewerkt als officemanager bij [naam bv 2] Zij heeft ook meegewerkt aan de beëindigingsovereenkomst omdat het loon onregelmatig en uiteindelijk niet werd uitbetaald. Verweerder erkent dat er loon is betaald. [naam bv 2] had dit loon niet opgegeven voor de loonbelasting en had [eiseres sub 3] niet aangemeld als werkneemster. [eiseres sub 3] heeft vervolgens het ontvangen loon niet opgegeven in haar aangifte inkomstenbelasting. Dit leidt tot de mogelijke conclusie dat [naam bv 2] en [eiseres sub 3] niet hebben voldaan aan hun fiscale verplichtingen en daarmee een beboetbaar of strafbaar feit hebben gepleegd. Deze feiten zijn echter niet ten grondslag gelegd aan de conclusie dat er sprake is van ernstig gevaar. In het advies van 21 maart 2019 komt het LBB terug van zijn standpunt dat er sprake zou zijn van een gefingeerd dienstverband. Volgens het LBB volgt de valsheid in geschrifte nu uit het feit dat [eiseres sub 3] wist dat zij geen jaarsalaris zou ontvangen. Deze stelling is niet onderbouwd. Wat het witwassen betreft is reeds gesteld dat er geen financiering en legaal eigendomsrecht is verkregen door middel van de werkgeversverklaring. Bij de beoordeling van artikel 3, eerste lid, onder b, van de Wet Bibob heeft verweerder geen enkele invulling gegeven aan het ver verwijderde verband tussen enerzijds het aanvankelijk fungeren als leidinggevende in de Subway en anderzijds de afwikkeling van de huwelijksgemeenschap. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>16.1.</nr>
+      <parablock>
+        <para>De rechtbank overweegt hierover als volgt. Uit het Bibob-advies volgt dat [eiseres sub 3] een werkgeversverklaring heeft verstrekt aan de SNS Bank (hierna: de bank) teneinde haar voormalige partner te laten ontslaan uit de hoofdelijkheid voor de gezamenlijke hypotheekschuld met betrekking tot de voormalige woning. Naar het oordeel van de rechtbank heeft verweerder mogen concluderen dat het aannemelijk is dat er sprake is van valsheid in geschrifte en dat er een redelijk vermoeden is dat [eiseres sub 3] hierbij betrokken is geweest. Daarbij heeft verweerder van belang mogen achten dat het bedrijf [naam bv 2] op naam staat van een persoon die een woning huurde van [eiser sub 2] en die tevens een oude bekende van hem is. Verder heeft verweerder het niet aannemelijk hoeven achten dat [eiseres sub 3] in dienstverband heeft gestaan tot het desbetreffende bedrijf. Volgens gegevens van de Belastingdienst heeft [eiseres sub 3] over de jaren 2013 tot en met 2016 slechts drie keer een bedrag ontvangen met de omschrijving ‘salaris’. Ook [eiseres sub 3] zelf heeft in haar aangifte inkomstenbelasting over 2016 geen looninkomsten opgegeven. Ook [naam bv 2] heeft over 2016 en 2017 geen aangiften loonbelasting ingediend. Daarnaast heeft [naam bv 2] [eiseres sub 3] , volgens gegevens van de Belastingdienst, nooit aangemeld als werknemer en staat er bij het Uitvoeringsinstituut Werknemers Verzekeringen geen inkomstenverhouding geregistreerd van [eiseres sub 3] met [naam bv 2] Het overgelegde e-mailbericht van 15 maart 2020 van heer [naam aandeelhouder] , enig aandeelhouder en bestuurder van [naam bv 2] , kan hier niet aan afdoen. In dit e-mailbericht geeft hij aan dat zijn bedrijf in financiële problemen verkeerde waardoor hij geen aangiften en afdrachten loonbelasting heeft gedaan, maar voorrang heeft gegeven aan het uitbetalen van de salarissen van zijn personeel. Verweerder heeft kunnen stellen dat [eiseres sub 3] de werkgeversverklaring heeft gebruikt terwijl zij wist dat zij geen jaarinkomen ontving van [naam bv 2] Opvallend in dat kader is dat de beëindigingsovereenkomst vanwege het uitblijven van de salarisbetalingen dateert van </para>
+        <para>27 januari 2017, terwijl de akte waarmee [eiseres sub 3] de volledige eigendom van de woning verkreeg gepasseerd is op 10 januari 2017. Naar aanleiding hiervan heeft verweerder kunnen stellen dat ten aanzien van [eiseres sub 3] het ernstige vermoeden bestaat dat zij 50% van het eigendom van de voormalige partner van de gezamenlijke woning heeft verkregen op grond van een misdrijf, te weten valsheid in geschrifte. De link met het witwassen heeft verweerder mogen baseren op de omstandigheid dat het aannemelijk is dat de bank door het overleggen van de werkgeversverklaring (de valsheid in geschrifte) door [eiseres sub 3] heeft ingestemd met het ontslag uit (hoofdelijke) aansprakelijkheid van de voormalige partner van [eiseres sub 3] voor de hypothecaire schuld. Daarbij is het tevens aannemelijk dat de voormalige partner hiermee heeft ingestemd, nu hij door de bank is ontslagen uit zijn hoofdelijke aansprakelijkheid en [eiseres sub 3] zowel zijn deel van de schuld als de aansprakelijkheid volledig op zich heeft genomen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>17. Eisers hebben betoogd dat verweerder bij het aantal strafbare feiten geen enkele aandacht heeft besteed aan het feit dat het slechts gaat om een enkel gesteld strafbaar feit en dat [eiseres sub 3] het pand in maart 2018 met verlies heeft verkocht. De redenering van het LBB dat het bij witwassen gaat om een voortdurend delict is onjuist. Het samenhangcriterium wordt ten onrechte enkel ingevuld met het veronderstelde gevoelige karakter van de branche, terwijl het in aanmerking genomen feit heeft plaatsgevonden in het kader van de afwikkeling van de echtscheiding. Dit valt niet onder het gestelde in artikel 3, derde lid, van de Wet Bibob. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>17.1.</nr>
+      <para>Verweerder heeft in dat kader mogen stellen dat het feit dat het pand met verlies is verkocht, niet relevant is voor de afweging of [eiseres sub 3] zich schuldig zou hebben gemaakt aan valsheid in geschrifte/witwassen. Voor het delict witwassen is geen vereiste dat er financiële voordelen zijn. Daar komt bij dat verweerder het bestreden besluit heeft gebaseerd op artikel 3, eerste lid, onder b, van de Wet Bibob en op grond van dit artikel is het, in tegenstelling tot artikel 3, eerste lid, onder a, van de Wet Bibob, niet vereist dat er financiële voordelen zijn verkregen uit de vermoedelijk gepleegde strafbare feiten. De rechtbank is verder van oordeel dat eisers, voor wat betreft het criterium genoemd in artikel 3, derde lid, onder d, van de Wet Bibob, miskennen dat het aantal van de gepleegde strafbare feiten niet beperkt blijft tot witwassen. Met betrekking tot het samenhangcriterium begrijpt de rechtbank deze beroepsgrond van eisers aldus dat er sprake zou moeten zijn van een samenhang tussen de vermoedelijk in het verleden gepleegde strafbare feiten en de daadwerkelijke exploitatie van de broodjeszaak. Verweerder heeft in dit kader terecht gesteld dat dit een onjuiste interpretatie is van het samenhangcriterium. Het gaat erom dat met de aangevraagde exploitatievergunning de mogelijkheid bestaat om strafbare feiten te plegen zoals valsheid in geschrifte en witwassen.  Onder verwijzing naar de uitspraak van de Afdeling van 1 juni 2016 (ECLI:NL:RVS:2016:1525) heeft verweerder, onder meer, kunnen stellen dat witwassen dermate verweven is met de exploitatie van een horeca-onderneming dat dit samenhangt met de activiteiten waarvoor de vergunning is aangevraagd. De rechtbank onderschrijft verweerders standpunt dat de aangevraagde vergunning het plegen van deze strafbare feiten zou kunnen faciliteren. Gelet hierop is voldaan aan artikel 3, derde lid, onder a, van de Wet Bibob. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Zakelijk samenwerkingsverband</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>18. Volgens eisers is er geen sprake meer van een zakelijk samenwerkingsverband tussen [eiseres sub 1] en [eiseres sub 3] . [eiseres sub 3] is niet langer meer leidinggevende van [bedrijfsnaam] . Zij is met derden filialen aan het opzetten van [naam bedrijf] in Marokko. Zij verblijft veelvuldig in Marokko en kan daarmee geen invloed hebben op de exploitatie van [bedrijfsnaam] . Een relatie met [eiseres sub 1] is er niet meer. Uit berichtgeving op social media leidt het LBB af dat er nog steeds sprake zou zijn van een zakelijk samenwerkingsverband omdat [eiser sub 2] als leidinggevende van [eiseres sub 1] Chief Financial Officer van de onderneming van [eiseres sub 3] zou zijn. [eiser sub 2] en [eiseres sub 3] hebben nog steeds een relatie en voor de Nederlandse aandeelhouders controleert [eiser sub 2] de boeken van de onderneming van [eiseres sub 3] . Dit levert geen duurzaam en structureel samenwerkingsverband op tussen [eiseres sub 3] en [eiseres sub 1] , ook al onderhouden [eiser sub 2] en [eiseres sub 3] een lange afstandsrelatie en hebben zij in het verleden geld naar elkaar overgeboekt in het kader van hun relatie. [eiser sub 2] wordt kennelijk vereenzelvigd met [eiseres sub 1] . </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.1.</nr>
+      <para>De rechtbank overweegt dat volgens vaste jurisprudentie van de Afdeling, zoals de uitspraak van 25 maart 2020 (ECLI:NL:RVS:2020:837), voor het aannemen van een zakelijk samenwerkingsverband een zakelijke relatie moet bestaan die is gericht op samenwerking en een zeker duurzaam en structureel karakter heeft. Ook zakelijke samenwerkingsverbanden uit het verleden kunnen in de beoordeling van de mate van het gevaar als bedoeld in artikel 3 van de Wet Bibob worden betrokken. Het is in dat geval aan het bestuursorgaan om te motiveren dat een zakelijk samenwerkingsverband uit het verleden voor de toekomst een ernstig gevaar als bedoeld in artikel 3 van de Wet Bibob kan opleveren. Zie de uitspraak van de Afdeling van 28 maart 2018 (ECLI:NL:RVS:2018:1028).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.2.</nr>
+      <parablock>
+        <para>De rechtbank overweegt als volgt. Ingevolge artikel 3, vierde lid, onder c, van de Wet Bibob, voor zover hier van belang, staat de betrokkene in relatie tot strafbare feiten als bedoeld in het tweede en derde lid, indien een ander die strafbare feiten heeft gepleegd en in een zakelijk samenwerkingsverband tot hem staat of heeft gestaan. </para>
+        <para>Naar het oordeel van de rechtbank heeft verweerder zich op het standpunt kunnen stellen dat er sprake is van een zakelijk samenwerkingsverband tussen [eiseres sub 1] en [eiseres sub 3] . Verweerder heeft in dat kader gewicht mogen toekennen aan het feit dat [eiser sub 2] en [eiseres sub 3] beiden betrokken zijn bij [naam bedrijf] in Marokko. Ter zitting heeft [eiser sub 2] verklaard dat hij maandelijks ten behoeve van alle aandeelhouders, dus ook [eiseres sub 3] , de financiën controleert van [naam bv 3] [eiser sub 2] geeft aan dat hij een soort interim financieel directeur is van [naam bv 3] Uit het overgelegde organogram van de bedrijfsstructuren leidt de rechtbank af dat [naam bv 3] wordt bestuurd door [naam bv 4] , waar [eiseres sub 3] 100% aandeelhouder van is. Ook hieruit kan aldus worden afgeleid dat er een zakelijk samenwerkingsverband bestaat tussen [eiser sub 2] en [eiseres sub 3] . Verder heeft verweerder mogen stellen dat nu [eiser sub 2] indirect via [naam bv 1] enig aandeelhouder en bestuurder is van [eiseres sub 1] , hij als zodanig vereenzelvigd kan worden met [eiseres sub 1] . In het licht daarvan heeft verweerder mogen stellen dat daar waar sprake is van een zakelijke samenwerking tussen [eiser sub 2] en [eiseres sub 3] tevens een zakelijk samenwerkingsverband is tussen [eiseres sub 3] en [eiseres sub 1] . </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het evenredigheidsbeginsel</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>19. Tot slot doen eisers een beroep op de evenredigheid en stellen daartoe dat de broodjeszaak al drie jaar draait op basis van een nauwgezette en strak gecontroleerde franchiseformule. De franchisegever controleert dagelijks en komt regelmatig langs voor audits. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>19.1.</nr>
+      <para>De rechtbank is van oordeel dat een beroep op het evenredigheidsbeginsel niet kan slagen. Naar het oordeel van de rechtbank is het bestreden besluit niet in strijd met de eisen van proportionaliteit en subsidiariteit, die onderdeel uitmaken van het evenredigheidsbeginsel. Tijdens de aanvraagfase heeft verweerder een tip ontvangen van het OM en naar aanleiding hiervan heeft verweerder advies ingewonnen bij het LBB. De bevindingen in het advies waren zodanig dat verweerder niet anders kon dan de vergunningaanvraag afwijzen, hetgeen ook is gebeurd. De omstandigheid dat de zaak al enige jaren in bedrijf was, laat onverlet dat het niet beschikte over de daartoe vereiste vergunning. Van een schending van het evenredigheidsbeginsel is naar het oordeel van de rechtbank dan ook geen sprake. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>20. Naar het oordeel van de rechtbank kan het bestreden besluit de toets in rechte doorstaan. Het beroep is daarom ongegrond. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>21</nr>Voor een proceskostenveroordeling bestaat geen aanleiding. </title>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Beslissing</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.A.H. Span-Henkens, rechter, in aanwezigheid van </para>
+      <para>J.W.J.M. van Rijt, griffier op 14 augustus 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is wordt, voor zover nodig, deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier is buiten staat de uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>			rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: 14 augustus 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

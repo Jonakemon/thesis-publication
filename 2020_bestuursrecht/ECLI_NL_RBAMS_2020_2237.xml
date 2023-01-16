@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:2237</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-24T10:07:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 17/2805</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>RSV 2020/141</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2237">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2237</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-11T11:53:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:2237 Rechtbank Amsterdam , 20-03-2020 / AMS 17/2805</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:2237:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Meervoudige kamer. Berekening hoogte WIA-uitkering. Artikel 1 EP, 26 IVBPR, VN-Gehandicaptenverdrag. Toepassing Dagloonbesluit niet zodanig onredelijk dat verweerder het Dagloonbesluit buiten toepassing dient te laten.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:2237:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 17/2805</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 20 maart 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te Amsterdam, eiseres</bridgehead>
+    <para>(gemachtigde: mr. T.A. Vetter),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, </emphasis>verweerder</para>
+      <para>(gemachtigde: A.P. Prinsen).</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 oktober 2016 (het primaire besluit 1) heeft verweerder aan eiseres een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen (Wet WIA) toegekend per 11 november 2014.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 oktober 2016 (het primaire besluit 2) heeft verweerder bepaald dat de loongerelateerde Werkhervatting Gedeeltelijk Arbeidsgeschikten (WGA)-uitkering van eiseres per 2 oktober 2015 wordt omgezet in een WGA-loonaanvullingsuitkering.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 november 2016 (het primaire besluit 3) heeft verweerder de primaire besluiten 1 en 2 gewijzigd. De berekening van de hoogte van de uitkering is gewijzigd met ingang van 11 november 2014 en met ingang van 2 oktober 2015.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 november 2016 (het primaire besluit 4) heeft verweerder de hoogte van de uitkering opnieuw berekend en vanaf 1 november 2016 vastgesteld op € 2.318,74 bruto per maand inclusief vakantiegeld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 7 november 2016 (het primaire besluit 5) heeft verweerder de hoogte van de uitkering berekend en vanaf 1 december 2016 vastgesteld op € 3.103,62 bruto per maand inclusief vakantiegeld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 maart 2017 (het bestreden besluit 1) heeft verweerder de bezwaren van eiseres gegrond verklaard en de hoogte van de uitkering aangepast.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 december 2017 (het bestreden besluit 2) heeft verweerder de berekening van de hoogte van de uitkering gedeeltelijk aangepast.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 25 februari 2020. Eiseres was aanwezig samen met haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiseres is op 11 november 2014 uitgevallen wegens ziekte vanuit een situatie waarin zij een uitkering op grond van de Werkloosheidswet (WW) ontving.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Verweerder heeft eiseres bij het primaire besluit 1 een loongerelateerde WGA-uitkering toegekend per 11 november 2014. Deze is direct per de eerste ziektedag toegekend, omdat eiseres de wachttijd al had doorlopen en binnen vijf jaar na beëindiging van de WIA-uitkering door dezelfde oorzaak weer ziek was geworden. Zolang eiseres een Ziektewet (ZW)- uitkering ontvangt (die even hoog is als de WIA-uitkering) komt de WIA-uitkering niet tot uitbetaling. De WIA-uitkering komt daardoor pas per 8 november 2016 tot uitbetaling. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Bij het primaire besluit 2 heeft verweerder bepaald dat de loongerelateerde WGA-uitkering van eiseres vanaf 2 oktober 2015 wordt omgezet in een WGA-loonaanvullingsuitkering.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Vervolgens heeft verweerder bij besluit van 21 oktober 2016 bepaald dat de hoogte van de uitkering van eiseres wijzigt, omdat haar inkomsten zijn gewijzigd. De ZW-uitkering is niet meer even hoog als de WIA-uitkering. De uitkering is per 1 november 2016 berekend door het WIA-maandloon te verminderen met het ZW-maandloon en dat bedrag te vermenigvuldigen met 70%. De uitkering is per 1 december 2016 berekend enkel op basis van het WIA-maandloon vermenigvuldigd met 70%. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Daarna heeft verweerder een aantal besluiten afgegeven waarmee de hoogte van de uitkering is aangepast. Bij het primaire besluit 3 heeft verweerder de primaire besluiten 1 en 2 gewijzigd. De berekening van de hoogte van de uitkering is aangepast met ingang van 11 november 2014 en met ingang van 2 oktober 2015. Bij het primaire besluit 4 heeft verweerder de hoogte van de uitkering opnieuw berekend per 1 november 2016. In aansluiting hierop heeft verweerder bij het primaire besluit 5 de inhoud van het primaire besluit 4 herhaald en de berekening van de uitkering vanaf 1 december 2016 nieuw opgenomen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Eiseres heeft tegen de primaire besluiten 1 tot en met 5 bezwaar gemaakt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Bij het bestreden besluit 1 heeft verweerder het bezwaar van eiseres gegrond verklaard. De reden is dat de berekening van de uitkering op bepaalde aspecten is gewijzigd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>Eiseres heeft beroep ingesteld tegen het bestreden besluit 1, omdat ook deze vaststelling van de uitkering volgens haar onjuist is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <parablock>
+        <para>Bij het bestreden besluit 2 heeft verweerder de berekening van de uitkering gedeeltelijk aangepast. De aanpassing heeft betrekking op de berekening van de verdiensten in de referteperiode. Op grond van artikel 6:19, eerste lid, van de Algemene wet bestuursrecht (Awb) heeft het beroep van rechtswege mede betrekking op het bestreden besluit 2.</para>
+        <para>
+          <emphasis role="italic">Standpunt van eiseres </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Namens eiseres is, samengevat weergegeven, het volgende naar voren gebracht. Toepassing van artikel 16, vierde lid, van het toepasselijk Dagloonbesluit werknemersverzekeringen (hierna: Dagloonbesluit) pakt in haar specifieke situatie zodanig onredelijk uit, dat de besluitgever gehouden is om een specifieke regeling voor haar te treffen. Doordat artikel 16, vierde lid, van het Dagloonbesluit de genoten WW-uitkering herleid tot een bepaald loonbedrag, dat is afgeleid van het maximum WW-dagloon in plaats van het ongemaximeerde WW-dagloon, worden de belangen van eiseres geschaad. Eiseres heeft ruim tweeënhalf jaar een hoger, ongemaximeerd, dagloon gehad, en dit is enkel wegens sfeerovergang van respectievelijk WW en ZW enerzijds en WIA anderzijds tot een eind gekomen. Omdat het hier een Amber-situatie betrof, acht eiseres het verdedigbaar dat niet de WW-uitkering het object van verzekering ingevolge de WIA moet zijn, maar haar laatst verrichte arbeid en het hieruit voortvloeiende dagloon. Verweerder handelt in strijd met de redelijkheid en de bedoelingen van de besluitgever doordat eiseres de prikkel wordt ontnomen om te blijven werken.</para>
+        <para>Verder stelt eiseres dat verweerder handelt in strijd met artikel 1 van het Eerste Protocol (EP) bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM). De verlaging van het ongemaximeerde dagloon voldoet niet aan het voorzienbaarheidsvereiste. De inbreuk ontbeert een legitiem doel en is niet noodzakelijk. Er wordt een onevenredige last op eiseres gelegd. Door het WIA-dagloon thans (deels) af te leiden van een gemaximeerd WW-dagloon zijn de beginselen van proportionaliteit niet in acht genomen. </para>
+        <para>Tot slot is namens eiseres aangevoerd dat de verlaging van het ongemaximeerde dagloon op grond van de WIA strijdig is met artikel 26 van het Internationaal Verdrag inzake burgerrechten en politieke rechten (IVBPR). Werknemers met een WIA-uitkering worden anders behandeld dan werknemers met een ZW-uitkering. Niet inzichtelijk is waarom een ZW-gerechtigde wel inkomensbescherming geniet, doordat zijn ZW-dagloon gelijk is aan het WW-dagloon, terwijl een WIA-gerechtigde het moet doen met een veel lager dagloon. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Daarnaast heeft eiseres zelf, samengevat weergegeven, nog het volgende naar voren gebracht. Eiseres voert aan dat het Dagloonbesluit tot gevolg heeft dat de chronisch zieke, de persoon met langer dan twee jaar durende verminderde arbeidsongeschiktheid die een WIA-uitkering geniet, minder inkomsten behoudt bij gelijke verdiensten dan de persoon die een ZW-uitkering ontvangt. Dit is strijdig met het Verdrag inzake de rechten van personen met een handicap (VN-Gehandicaptenverdrag). Verder voert eiseres aan dat de minister - bij de vaststelling van het Dagloonbesluit - buiten zijn bevoegdheid is getreden door de (hoogte van de) WIA-uitkering te baseren op de hoogte van de WW/ZW-uitkering in plaats van op de waarde van het verzekerde risico, te weten de verrichte arbeid. Hiermee heeft de minister de verzekerde grondslag aangetast, terwijl hij uitsluitend bevoegd was om wegens uitvoeringsredenen het Dagloonbesluit vast te stellen. Tot slot stelt eiseres dat per 1 november 2016 een nieuw, tweede WIA-recht is ontstaan en dat de eerste twee maanden recht op 75% uitkering bestaat. Indien de stelling van verweerder juist is dat geen tweede WIA-recht is ontstaan, dan had het WIA-recht vanaf 11 november 2014 de eerste twee maanden 75% van het dagloon moeten bedragen. Weliswaar moet hierop ook de WW-uitkering naar het eigen dagloon in mindering worden gebracht, maar dan resteert wel 5% WIA-uitkering over die twee maanden.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Standpunt van verweerder</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>3. Verweerder stelt zich op het standpunt dat de berekening van de (hoogte van de) WIA-uitkering voortvloeit uit de wet in combinatie met het Dagloonbesluit. Het Dagloonbesluit biedt geen ruimte om af te wijken. De situatie van eiseres is niet uitzonderlijk, want deze berekeningswijze geldt voor iedereen die vanuit de WW in de WIA terechtkomt, als het ongemaximeerde dagloon hoger is dan het gemaximeerde dagloon. De wetgever heeft welbewust gekozen voor de wijze waarop een WW-uitkering dient te worden meegenomen in het WIA-dagloon. Verweerder verwijst naar een uitspraak van de Centrale Raad van Beroep (de Raad) van 11 maart 2015 (ECLI:NL:CRVB:2015:964).</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De beoordeling door de rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. Gelet op het bepaalde in artikel 6:19 van de Awb, heeft het beroep gericht tegen het bestreden besluit 1, van rechtswege mede betrekking op bestreden besluit 2. Nu het bestreden besluit 1 door verweerder is gewijzigd door het bestreden besluit 2 en niet is gebleken dat eiseres nog belang heeft bij inhoudelijke beoordeling van dat eerste besluit, zal de rechtbank het beroep tegen het bestreden besluit 1 niet-ontvankelijk verklaren.</para>
+      <para />
+      <para>5. De in deze uitspraak aangehaalde regelgeving is opgenomen in de bijlage, die deel uitmaakt van deze uitspraak.</para>
+      <para />
+      <para>6. De rechtbank overweegt als volgt. Kern van deze procedure betreft de hoogte van het dagloon bij de berekening van de WIA-uitkering van eiseres. Verweerder is in de besluitvorming (uiteindelijk) uitgegaan van een dagloon van € 211,08. Dit bedrag is gebaseerd op de totale inkomsten over de referteperiode 20 oktober 2013 tot en met 19 oktober 2014. Deze inkomsten bestonden uit loon en het ontvangen van een WW-uitkering. Volgens eiseres moet haar WIA-dagloon gebaseerd worden op haar ongemaximeerde dagloon. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>De rechtbank stelt voorop dat uit de hiervoor genoemde uitspraak van de Raad van 11 maart 2015 volgt dat er geen mogelijkheid is het Dagloonbesluit op grond van de redelijkheid en billijkheid buiten toepassing te laten, omdat het de rechter niet vrij staat af te wijken van dwingendrechtelijke voorschriften. De rechter moet de keuze van de wetgever voor de met artikel 61 van de Wet WIA gegeven berekeningsformule, en in het verlengde daarvan de keuze voor de berekeningswijze van het dagloon zoals bepaald in artikel 13, eerste lid, van de Wet WIA, respecteren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Eiseres heeft aangevoerd dat ná de uitspraak van 11 maart 2015 diverse keren is geoordeeld dat in bijzondere omstandigheden het Dagloonbesluit buiten toepassing gelaten moest worden, en dat afwijken van de regels dus mogelijk is. Dat is op zichzelf juist, maar de situaties waarbij de Raad tot een afwijking van de dagloonregels is gekomen, verschillen wezenlijk van de situatie van eiseres. In de situatie en omstandigheden van eiseres ziet de rechtbank geen reden te oordelen dat toepassing van het Dagloonbesluit zodanig onredelijk is dat verweerder het Dagloonbesluit buiten toepassing dient te laten. De rechtbank weegt daarbij mee dat het verschil tussen toepassing van het Dagloonbesluit en het door eiseres gewenste resultaat, zoals eiseres zelf stelt, ongeveer 6% bedraagt. </para>
+      <para />
+      <para>8. Eiseres stelt ook dat door de berekeningswijze die is toegepast, sprake is van ontneming van eigendom en daarmee strijd met artikel 1 van het EP bij het EVRM. De rechtbank is dat niet eens met eiseres. Er kan alleen sprake zijn van ‘ontneming’ als er eerst sprake is geweest van eigendom. De hoogte van de uitkering wordt berekend met inachtneming van artikel 61 van de Wet WIA, het uiteindelijk toegekende bedrag is het resultaat daarvan. Kritiek op de geldende berekeningswijze kan dan ook niet leiden tot de conclusie dat sprake is van eigendom dat wordt ontnomen. </para>
+      <para />
+      <para>9. Eiseres vindt ook dat verweerder in strijd met artikel 26 van het IVBPR handelt, omdat een ZW-gerechtigde meer inkomensbescherming geniet dan een WIA-gerechtigde. De rechtbank is van oordeel dat hier geen sprake is van gelijke gevallen. Er is immers sprake van een verschillend wettelijk regime. Reeds daarom is geen sprake van strijd met artikel 26 van het IVBPR.</para>
+      <para />
+      <para>10. Daargelaten dat eiseres niet heeft gespecificeerd welke bepalingen van het <?linebreak?>VN-Gehandicaptenverdrag volgens haar worden geschonden, geldt in het algemeen dat aan de bepalingen in dit verdrag geen rechtstreekse werking toekomt. Het beroep van eiseres op het VN-Gehandicaptenverdrag slaagt daarom niet.</para>
+      <para />
+      <para>11. Artikel 13, derde lid, van de Wet WIA geeft de bevoegdheid tot het stellen van nadere en zo nodig afwijkende regels met betrekking tot de vaststelling van het dagloon. Dit is gebeurd in het Dagloonbesluit. In de situatie van eiseres gaat het om artikel 16, vierde lid, van het Dagloonbesluit. Op geen enkele wijze valt in te zien dat de minister bij het vaststellen van voornoemd artikel buiten zijn bevoegdheid is getreden.</para>
+      <para />
+      <para>12. De rechtbank overweegt dat op grond van artikel 61, negende lid, van de Wet WIA geen tweede recht op een WGA-uitkering kan ontstaan, indien de eerste dag van de wachttijd is gelegen op een dag dat al recht bestond op een WGA-uitkering. Dit artikel voorziet erin dat indien het niet ontstane (fictieve) tweede uitkeringsrecht hoger zou zijn dan het eerste dit gecompenseerd wordt. Deze situatie doet zich in het geval van eiseres echter nu niet voor. Dit (fictieve) tweede recht is al eerder ontstaan, namelijk vanaf 11 november 2014. Het uitkeringspercentage heeft toen de eerste twee maanden ook 75% bedragen. Dat het (fictieve) tweede WIA-recht destijds niet tot uitbetaling is gekomen, maakt niet dat nu opnieuw sprake is van een (fictief) tweede WIA-recht.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. Verweerder heeft geheel in overeenstemming met de dagloonregels de hoogte van het dagloon vastgesteld op € 211,08. Er is geen reden deze dagloonregels in het geval van eiseres buiten toepassing te laten. Het beroep tegen het bestreden besluit 2 is daarom ongegrond.</para>
+      <para />
+      <para>14. De rechtbank ziet aanleiding te bepalen dat verweerder aan eiseres het door haar betaalde griffierecht vergoedt, omdat verweerder tijdens deze beroepsprocedure het bestreden besluit 1 heeft gewijzigd met het bestreden besluit 2. Dat betekent dat eiseres terecht beroep heeft ingesteld. Daarnaast veroordeelt de rechtbank verweerder ook in de door eiseres gemaakte proceskosten in relatie tot het bestreden besluit 1. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 525,- (1 punt voor het indienen van het beroepschrift met een waarde per punt van € 525,- en een wegingsfactor 1). De rechtbank ziet geen aanleiding om het verschijnen ter zitting in aanmerking te nemen, omdat de gewijzigde beslissing op bezwaar reeds voor de zitting was genomen en het beroep tegen het bestreden besluit 2 ongegrond is.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep tegen het bestreden besluit 1 niet-ontvankelijk;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep tegen het bestreden besluit 2 ongegrond;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 46,- aan eiseres te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 525,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. S.E. Reichert, voorzitter, mr. M.A. Broekhuis en <?linebreak?>mr. J.T. Kruis, leden,in aanwezigheid van mr. L.C. Trommel, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 20 maart 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>voorzitter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage met juridisch kader</title>
+    <para />
+    <parablock>
+      <para>Artikel 13, eerste lid, van de Wet werk en inkomen naar arbeidsvermogen (WIA) bepaalt dat voor de berekening van een uitkering waarop op grond van deze wet recht bestaat, als dagloon wordt beschouwd 1/261 deel van het loon dat de werknemer verdiende in de periode van één jaar, die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ziekte, het gebrek, de zwangerschap of de bevalling, die tot volledig en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid heeft geleid, is ingetreden doch ten hoogste het in artikel 17, eerste lid, van de Wet financiering sociale verzekeringen bedoelde bedrag met betrekking tot een loontijdvak van een dag.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 13, derde lid, van de WIA bepaalt dat bij algemene maatregel van bestuur met betrekking tot de vaststelling van het dagloon, bedoeld in het eerste lid, en de herziening ervan nadere en zonodig afwijkende regels worden gesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze nadere regels zijn vastgesteld in het Dagloonbesluit werknemersverzekeringen (Dagloonbesluit).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 13, eerste lid, van het Dagloonbesluit bepaalt dat onder referteperiode in dit hoofdstuk wordt verstaan de periode van één jaar die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de arbeidsongeschiktheid is ingetreden, of die eindigt, in geval de arbeidsongeschiktheid is ingetreden in gelijktijdige dienstbetrekkingen, op de laatste dag van het aangiftetijdvak dat het eerst voor het intreden van de arbeidsongeschiktheid is geëindigd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 16, eerste lid, van het Dagloonbesluit luidt als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het dagloon van uitkeringen op grond van de Wet WIA en de WAO is de uitkomst van de volgende berekening:</para>
+      <para>[(A–B) x 108/100 + C] / D</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>waarbij:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>A staat voor het loon dat de werknemer in de referteperiode heeft genoten bij een werkgever die vakantiebijslag reserveert;</para>
+      <para>B staat voor de bedragen aan vakantiebijslag die de werknemer in de referteperiode heeft genoten;</para>
+      <para>C staat voor het loon dat de werknemer in de referteperiode heeft genoten bij een werkgever die geen vakantiebijslag reserveert; en</para>
+      <para>D staat voor 261.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 16, vierde lid, van het Dagloonbesluit bepaalt het volgende:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Indien het loon in de referteperiode geheel of gedeeltelijk heeft bestaan uit een uitkering wordt voor de toepassing van het eerste lid het bedrag van de uitkering gesteld op de uitkomst van de volgende berekening:</para>
+      <para>((100 x E) / F)</para>
+      <para>waarbij:</para>
+      <para>E staat voor de uitkering; en</para>
+      <para>F staat voor:</para>
+    </parablock>
+    <para>a. 70, dan wel</para>
+    <para>b. indien het uitkeringspercentage op grond van de ZW, de WAO, hoofdstuk 6 van de Wet WIA of van hoofdstuk 3, afdeling 2, paragraaf 1, van de Wazo hoger is dan 70, het uitkeringspercentage waarnaar de uitkering is berekend; of</para>
+    <para>c. 100, indien artikel 53 of 63 van de Wet WIA van toepassing is, dan wel</para>
+    <para>d. indien de teller van de factor, bedoeld in artikel 53 of 63 van de Wet WIA lager is, de waarde van die teller.</para>
+    <para />
+    <parablock>
+      <para>Artikel 61, negende lid, van de Wet WIA luidt als volgt:</para>
+      <para>De hoogte van de loonaanvullingsuitkering van de WGA-uitkering wordt voor de verzekerde:</para>
+    </parablock>
+    <para>a. die na het ontstaan van het recht op uitkering op grond van dit hoofdstuk ziek is geworden, en</para>
+    <para>b. voor wie als gevolg van de toepassing van artikel 43, onderdeel a, onder 1°, geen tweede recht op een uitkering op grond van dit hoofdstuk ontstaat omdat de eerste dag van de wachttijd is gelegen op een dag dat al recht op een uitkering op grond van deze wet bestaat of indien op die eerste dag het recht op een uitkering herleeft;</para>
+    <para />
+    <parablock>
+      <para>gedurende de periode dat, in het geval hij wel recht zou hebben gehad op een loongerelateerde uitkering en in het geval de hoogte van de loongerelateerde uitkering hoger zou zijn geweest dan de hoogte van de loonaanvullingsuitkering van de WGA-uitkering zoals die op grond van het tweede, vierde, vijfde of zevende lid is vastgesteld, vastgesteld op de hoogte van die loongerelateerde uitkering.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In artikel 1 van het Eerste Protocol bij het EVRM is bepaald dat, voor zover hier van belang, iedere natuurlijke of rechtspersoon recht heeft op het ongestoord genot van zijn eigendom.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 26 van het Internationaal Verdrag inzake burgerrechten en politieke rechten luidt als volgt: Allen zijn gelijk voor de wet en hebben zonder discriminatie aanspraak op gelijke bescherming door de wet. In dit verband verbiedt de wet discriminatie van welke aard ook en garandeert een ieder gelijke en doelmatige bescherming tegen discriminatie op welke grond ook, zoals ras, huidskleur, geslacht, taal, godsdienst, politieke of andere overtuiging, nationale of maatschappelijke afkomst, eigendom, geboorte of andere status.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

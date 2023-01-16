@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12319</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-04T14:16:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.19004 (beroep) en NL20.19005 (voorlopige voorziening)</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12319">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12319</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-04T11:01:00</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12319 Rechtbank Den Haag , 30-11-2020 / NL20.19004 (beroep) en NL20.19005 (voorlopige voorziening)</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12319:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De IND mocht de asielaanvraag van een Oegandese vrouw afwijzen, omdat het niet geloofwaardig is dat de vrouw door haar lesbische geaardheid problemen heeft ondervonden.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12319:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: NL20.19004 (beroep) en NL20.19005 (voorlopige voorziening)</para>
+      <para>
+        <?linebreak?>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer en de voorzieningenrechter in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <bridgehead role="bold">
+      [eiseres] , eiseres/verzoekster (hierna: eiseres),</bridgehead>
+    <parablock>
+      <para>V-nummer: [nummer]</para>
+      <para>(gemachtigde: mr. I.M. Borggreve),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. M.P. de Boo).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <?linebreak?>Procesverloop <?linebreak?>Bij besluit van 22 oktober 2020 (het bestreden besluit) heeft verweerder de aanvraag van eiseres tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in de algemene procedure afgewezen als kennelijk ongegrond. </title>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld en de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 12 november 2020. Eiseres is verschenen, bijgestaan door haar gemachtigde. Tevens is een tolk Engels verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten en asielrelaas</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1.	Eiseres stelt van Ugandese nationaliteit te zijn en te zijn geboren op [geboortedag] 1978. Naar eigen zeggen is eiseres op 30 mei 2018 Nederland ingereisd. Op 9 oktober 2018 heeft zij in Nederland aangifte gedaan van mensenhandel. Eiseres is met ingang van die dag in het bezit gesteld van een verblijfsvergunning regulier voor bepaalde tijd op grond van de regelgeving voor slachtoffers van mensenhandel. Op 26 november 2018 is het onderzoek naar de mensenhandel geseponeerd, omdat geen nadere aanknopingspunten waren voor strafrechtelijk onderzoek. Vervolgens heeft verweerder bij besluit van 24 december 2018 deze verblijfsvergunning ingetrokken. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Op 4 januari 2019 heeft eiseres een aanvraag tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd ingediend. Eiseres heeft aan haar asielaanvraag – samengevat – ten grondslag gelegd dat zij uit Uganda is gevlucht, omdat zij lesbisch is. Eiseres heeft in Uganda vier relaties gehad. Zij heeft een relatie gehad met [naam 1] toen zij veertien was. Eiseres heeft verklaard dat ze op school werden gevraagd om schaamlippen te gaan trekken. Elk meisje moest een ander meisje kiezen met wie ze dat wilde doen. Eiseres heeft [naam 1] toen gekozen. [naam 1] kwam elke zaterdag naar eiseres om naar het bos te gaan om aldaar de seksuele handelingen te verrichten. Op een dag zijn zij en [naam 1] betrapt door de moeder van eiseres, waarnaar eiseres en [naam 1] stopten met de handelingen. Toen eiseres negentien was kreeg ze een relatie met [naam 2] . Eiseres is op school betrapt door een medestudent toen zij en [naam 2] seks hadden met elkaar. De student heeft dit doorverteld aan de conciërge en de conciërge heeft het verteld aan de directeur. Eiseres werd vervolgens naar huis gestuurd, maar mocht wel terugkomen om haar examen af te maken. Enige tijd daarna heeft eiseres een relatie met een jongen gehad. Sinds 2006 tot aan het vertrek uit Uganda heeft eiseres een relatie met [naam 3] gehad. Eiseres is op haar werk, Kawacom Uganda Limited, betrapt toen zij een foto van haar en [naam 3] bekeek. Op de foto waren zij aan het zoenen. Zij had de foto ontvangen op haar telefoon en zij probeerde de foto op te slaan op een USB-stick. Eiseres had de foto open staan op haar computerscherm toen een collega, belastingadviseur, binnenkwam. De collega heeft vervolgens hun baas erbij gehaald die de foto ook heeft gezien. Daaropvolgend is eiseres naar een kamer gebracht door de beveiliging en de politie is erbij gehaald. Eiseres werd opgepakt en naar het politiebureau gebracht. Haar telefoon en USB-stick zijn aan de politie meegegeven. Eiseres is op het politiebureau mishandeld en seksueel misbruikt. Zij heeft weten te ontsnappen uit de gevangenis, doordat een agent eiseres om geld vroeg, een miljoen shilling, in ruil waarvoor hij de ontsnapping zou regelen. Eiseres heeft de telefoon van deze agent mogen gebruiken om een vriendin te bellen. Deze vriendin heeft het geld geregeld. Na haar ontsnapping is zij in de nacht opgehaald door een vrouwelijke agent en vervolgens naar buiten gebracht. Daarna heeft eiseres ondergedoken in Nkumba en is zij vertrokken uit Uganda, aldus eiseres.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Het asielrelaas van eiseres bevat volgens verweerder de volgende relevante elementen:</para>
+      <para>- nationaliteit, identiteit en herkomst;</para>
+      <para>- lesbische gerichtheid;</para>
+      <para>- problemen ten gevolge van de lesbische gerichtheid.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Bestreden besluit</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>2. Bij het bestreden besluit heeft verweerder de asielaanvraag van eiseres afgewezen als kennelijk ongegrond. Verweerder volgt eiseres in haar nationaliteit, identiteit en herkomst. Verweerder is echter van mening dat eiseres haar lesbische gerichtheid niet aannemelijk heeft gemaakt. Zo heeft eiseres geen inzicht gegeven in haar gevoelens en gedachten over hoe zij zich heeft gerealiseerd dat zij lesbisch is. Ook heeft zij niet inzichtelijk gemaakt hoe zij haar geaardheid persoonlijk heeft beleefd in Uganda. Verweerder heeft evenmin de problemen vanwege de lesbische gerichtheid van eiseres geloofwaardig geacht. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Gronden eiseres</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>2. Eiseres voert – samengevat – aan dat van haar, een Ugandese asielzoeker met een LHBTI-achtergrond, niet verwacht kan worden om de Nederlandse directheid toe te passen tijdens het gehoor. Het is daarom logisch dat zij terughoudend is geweest tijdens het gehoor. Eiseres heeft verder betoogd dat verweerder geen maatwerk heeft geleverd en dat hij het bestreden besluit onvoldoende deugdelijk heeft gemotiveerd. Eiseres heeft consistent, concludent en concreet aangegeven dat zij vanwege haar seksuele geaardheid bij terugkeer naar Uganda te vrezen heeft voor vervolging. Aan eiseres dient daarbij het voordeel van de twijfel gegeven te worden. Eiseres loopt bij terugkeer enkel en alleen door haar aanwezigheid aldaar risico om slachtoffer te worden van geweld. Eiseres verwijst ter onderbouwing van haar betoog onder meer naar een uitspraak van deze rechtbank, zittingsplaats Arnhem van 2 november 2020<footnote-ref linkend="_cd51d475-ecb2-42d3-9dda-506ad3441aa9" />.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Oordeel rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>3. Naar het oordeel van de rechtbank maakt het betoog van eiseres dat van haar, als Ugandese asielzoeker, geen Nederlandse directheid verlangd kan worden tijdens het nader gehoor niet dat niet van de zorgvuldigheid van het nader gehoor en het bestreden besluit kan worden uitgegaan. Indien tijdens het gehoor problemen zouden zijn geweest tussen de gehoormedewerker en eiseres , had het op de weg van eiseres gelegen om dit reeds tijdens het gehoor of in de correcties en aanvullingen daarop kenbaar te maken. In de correcties en aanvullingen op het gehoor is hierover niets vermeld. Ook wordt in de beroepsgronden geen verklaring gegeven voor de omstandigheid dat deze gestelde vertrouwensproblemen niet eerder naar voren zijn gebracht. Daarnaast blijkt uit het rapport van het nader gehoor dat eiseres tevreden was over de manier waarop het gehoor heeft plaatsgevonden. De beroepsgrond slaagt daarom niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Geloofwaardigheid lesbische geaardheid en de problemen als gevolg daarvan</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. De rechtbank is verder van oordeel dat verweerder zowel de gestelde lesbische geaardheid van eiseres als de problemen die zij als gevolg daarvan betoogt te hebben gehad niet ten onrechte ongeloofwaardig heeft geacht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Verweerder heeft op goede gronden gesteld dat eiseres onvoldoende inzicht heeft verschaft over haar gevoelens en gedachten toen zij zich zou hebben gerealiseerd dat zij lesbisch was. Zo heeft eiseres verklaard dat zij lesbisch is doordat zij voor [naam 2] (haar tweede vriendin) dezelfde gevoelens heeft gekregen als voor [naam 1] (haar eerste vriendin). Eiseres heeft – ook nadat de gehoormedewerker hierop heeft doorgevraagd – niet kunnen duiden welke concrete gevoelens zij heeft gehad en waarom dit tot gevolg heeft gehad dat eiseres zich realiseerde dat zij lesbisch was. Ook heeft verweerder aan eiseres kunnen tegenwerpen dat zij blijft steken in algemene bewoordingen over hoe zij haar geaardheid voor zichzelf heeft geaccepteerd en beleefd in Uganda. Zo heeft eiseres verklaard dat zij blij was, maar haar gevoelens niet kon uiten, omdat zij alles geheim moest doen. Dit is een kort, vaag en summier antwoord en verschaft geen inzicht in hoe zij in Oeganda met haar geaardheid is omgegaan en ook biedt dit antwoord geen inzicht in haar gevoelens en gedachten. Eiseres heeft haar verklaring dat de kerk en de maatschappij tegen homoseksualiteit zijn, niet nader kunnen toelichten noch nader kunnen uitleggen wat dat voor haar persoonlijk moeilijk en lastig heeft gemaakt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Verweerder heeft verder terecht gesteld dat eiseres met weinig diepgang heeft verklaard over het ontstaan en de kern van haar gestelde relaties met [naam 1] , [naam 2] en [naam 3] . Zo heeft eiseres over haar relatie met [naam 1] verklaard dat ze in het bos afspraken, seksuele handelingen verrichten, alles geheim deden en tegen elkaar zeiden dat ze van elkaar hielden. Eiseres heeft hiermee niet inzichtelijk gemaakt hoe de relatie is begonnen. Eiseres heeft ook vaag en summier verklaard over hoe de relatie tussen haar en [naam 3] is ontstaan. Voordat eiseres een romantische relatie heeft gekregen met [naam 3] hadden zij een vriendschapsrelatie. Eiseres heeft in onvoldoende mate kunnen verklaren hoe de relatie zich van vriendschap naar een liefdesrelatie heeft ontwikkeld. Dat eiseres en [naam 3] tegen elkaar hebben uitgesproken dat zij gevoelens hebben voor vrouwen is onvoldoende. Dit geeft immers geen uitleg over deze ontwikkeling. Verder heeft eiseres kort, vaag en summier verklaard over hoe de omgang tussen haar en [naam 3] is veranderd nadat zij een liefdesrelatie hebben gekregen. De verklaring van eiseres dat zij in elkaars bed gingen slapen en dat zij close zijn geworden geeft onvoldoende weer wat in hun omgang is veranderd. In het bestreden besluit is genoegzaam toegelicht dat eiseres daarbij blijft steken in algemene bewoordingen over haar gevoelens voor [naam 1] , [naam 2] en [naam 3] en de invulling van de gestelde relaties met hen. Over haar gevoelens voor [naam 2] bijvoorbeeld heeft eiseres verklaard dat zij sterke gevoelens had voor haar, dat zij van haar heeft gehouden, dat zij haar aantrekkelijk heeft gevonden en dat zij de liefde goed konden begrijpen. Dit maakt niet inzichtelijk welke concrete gevoelens zij voor [naam 2] heeft gehad. Over haar gevoelens voor [naam 3] en de invulling van de gestelde relatie heeft eiseres verklaard dat zij goede tijden hadden samen, samen films keken, samen hebben gespaard en naar begraafplaats van haar moeder zijn geweest. Verweerder heeft dit onvoldoende kunnen vinden. Eiseres heeft een relatie van twaalf jaar met [naam 3] gehad in een land waar homoseksualiteit verboden is. Van eiseres kan dan ook worden verwacht dat zij gezien de lengte van haar relatie en het klimaat waarin zij haar relatie moest onderhouden, in meer detail over haar relatie met [naam 3] kan verklaren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Verweerder heeft verder niet ten onrechte overwogen dat eiseres vage en wisselende verklaringen heeft afgelegd over haar betrapping met [naam 2] . Verweerder heeft aan eiseres kunnen tegenwerpen dat het bevreemding wekt dat eiseres, ondanks haar eerdere ervaringen (de betrapping met [naam 1] ), geringe voorzorgmaatregelen heeft genomen om een betrapping met [naam 2] te voorkomen. Eiseres heeft moeten weten dat de kans op een betrapping groot is als je in het openbaar, op school, gemeenschap hebt. Enkel een laken binden om een bed maakt het bed niet geluidsdicht. Dat het bed in een hoek stond, maakt dit niet anders. De verschoning van eiseres dat zij geen controle had over haar lichaam wordt als onvoldoende beschouwd nu eiseres heeft moeten weten wat een dergelijke betrapping met zich brengt. Verweerder heeft daarbij mogen overwegen dat het ongeloofwaardig is dat in Uganda, een land waarbij homoseksualiteit strafbaar is en op homoseksuele handelingen zware straffen staan, een scholier na een publiekelijke betrapping waarbij zowel de medestudenten, als de conciërge als ook de schooldirecteur op de hoogte is gesteld, wel nog de gelegenheid wordt geboden om haar school af te maken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder de betrapping van eiseres op haar werk en de daaruit voortvloeiende gebeurtenissen op het politiebureau eveneens op goede gronden ongeloofwaardig geacht. Eiseres heeft hierover namelijk bevreemdende en onaannemelijke verklaringen aflegt. Na haar eerdere ervaringen kan van eiseres, als een volwassen en zelfstandige vrouw, worden verwacht dat zij voorzorgmaatregelen treft en risico’s vermijdt om problemen door betrappingen te voorkomen. Verweerder heeft het gelet hierop onwaarschijnlijk en onaannemelijk kunnen vinden dat eiseres onthullende foto’s opent en verplaatst van haar telefoon naar haar computer op het werk, wetende dat er een aanzienlijke kans bestaat dat deze foto’s gezien kunnen worden door personen op het werk. Kawacom Uganda Limited is een groot bedrijf, wat met zich meebrengt dat het ook veel werknemers heeft. Het is dan niet ondenkbaar dat mensen tijdens lunchtijd de werkvloer op lopen. Eiseres was immers zelf ook tijdens lunchtijd aan het werk. Dat eiseres door haar collega was verrast en hierdoor geen voorzorgmaatregel had getroffen heeft verweerder niet hoeven volgen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Verder heeft verweerder kunnen overwegen dat het niet geloofwaardig is dat eiseres naar het politiebureau is overgebracht en na vier dagen is ontsnapt. Niet wordt ingezien hoe de vriendin van eiseres binnen één dag aan een bedrag van 1 miljoen shilling is gekomen. Het minimum loon in Oeganda is 6.000 shilling per maand en het gemiddelde salaris is rond 2.6 miljoen shilling. Daarom kan ook niet worden ingezien dat de vriendin van eiseres een dergelijk groot bedrag binnen een dag ter beschikking had en dit ook heeft kunnen betalen. Daarnaast kan ook niet worden ingezien hoe eiseres ongezien onder begeleiding van een politieagent het politiebureau heeft kunnen verlaten. Het politiebureau wordt immers ook gebruikt voor detenties van langere duur en het is daarom niet aannemelijk dat je er zomaar uit komt. Dat eiseres het politiebureau heeft kunnen verlaten omdat zij andere kleding aan heeft gedaan en niemand onderweg is tegengekomen wordt eveneens niet aannemelijk geacht. Eiseres heeft niet nader geconcretiseerd waarom het dragen van andere kleding ervoor heeft gezorgd dat zij ongezien heeft kunnen ontsnappen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6.</nr>
+      <parablock>
+        <para>De verwijzing naar de uitspraak van deze rechtbank, zittingsplaats Arnhem van </para>
+        <para>2 november 2020, maakt het voorgaande niet anders. Deze zaak is niet zonder meer vergelijkbaar met deze zaak. Gesteld noch gebleken is immers (bijvoorbeeld met voorbeelden) dat, zoals in die zaak wel het geval was, door verweerder niet alle verklaringen van eiseres kenbaar in de beoordeling zijn betrokken. Evenmin is gebleken dat verweerder onvoldoende heeft doorgevraagd op de door eiseres gegeven antwoorden tijdens het nader gehoor. De aanvraag van de vreemdeling moet daarbij op zijn eigen merites worden beoordeeld en het is de rechtbank niet gebleken dat dit onvoldoende is gebeurd. De beroepsgrond slaagt derhalve niet.</para>
+      </parablock>
+      <para />
+      <para>5. Eiseres voldoet naar het oordeel van de rechtbank gelet op het voorgaande niet aan de voorwaarden van artikel 4, vijfde lid, van de Kwalificatierichtlijn<footnote-ref linkend="_cf609a86-710c-4145-b590-1b207c988c3f" />. De verklaringen van eiseres zijn niet aannemelijk of in grote lijnen geloofwaardig bevonden, daarom voldoet eiseres niet aan deze voorwaarden en is de voordeel van de twijfeltoets niet van eiseres van toepassing. </para>
+      <para />
+      <para>6. Anders dan eiseres heeft betoogd kan gelet op het voorgaande niet worden geconcludeerd dat eiseres bij terugkeer enkel en alleen door haar aanwezigheid in Oeganda risico loopt om slachtoffer te worden van geweld. </para>
+      <para />
+      <para>7. Verweerder heeft de aanvraag van eiseres dan ook kunnen afwijzen als ongegrond. De reden dat verweerder de aanvraag ook als kennelijk ongegrond heeft beoordeeld, is dat eiseres zich niet zo snel mogelijk bij een ambtenaar, belast met de grensbewaking of het toezicht op vreemdelingen heeft aangemeld, en daar kenbaar heeft gemaakt dat zij internationale bescherming wenst. Naar het oordeel van de rechtbank heeft verweerder dit niet ten onrechte aan eiseres tegengeworpen nu zij op 24 december 2018 de beschikking heeft ontvangen dat haar verblijfsvergunning op grond van de Verblijfsregeling mensenhandel was ingetrokken, en zij (pas) op 4 januari 2019 kenbaar heeft gemaakt dat zij internationale bescherming wenst. Dit heeft eiseres als zodanig ook niet bestreden.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>8. Het beroep is ongegrond. Omdat de rechtbank op het beroep heeft beslist, is geen aanleiding een voorlopige voorziening te treffen. Ook voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">In de procedure met nummer NL20.19004: </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaard het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">In de procedure met nummer NL20.19005:</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om een voorlopige voorziening af. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. A.K. Mireku, (voorzieningen)rechter, in aanwezigheid vanmr. L.A. Super, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is uitgesproken in het openbaar en bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak op het beroep kan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking. </para>
+    </parablock>
+  </section>
+  <footnote id="_cd51d475-ecb2-42d3-9dda-506ad3441aa9" label="1">
+    <para> Zaaknummer: NL19.31635.</para>
+  </footnote>
+  <footnote id="_cf609a86-710c-4145-b590-1b207c988c3f" label="2">
+    <para> Richtlijn 2011/95/EU.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

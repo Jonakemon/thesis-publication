@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:9690</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-06T14:02:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/7764 en 18/7464</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9690">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9690</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-06T14:02:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:9690 Rechtbank Den Haag , 11-09-2020 / 18/7764 en 18/7464</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:9690:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Exploitatievergunning niet in strijd met bestemmingsplan en de woon- en leefsituatie in de omgeving wordt niet op ontoelaatbare wijze nadelig beïnvloed. Verweerder heeft nadere voorschriften aan de vergunning mogen verbinden</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:9690:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: SGR 18/7464 en SGR 18/7764</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 11 september 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">V.O.F. Restaurant Middeninn Maasland, te Maassluis, eiseres</bridgehead>
+    <para>(gemachtigde: mr. A. de Groot),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser, sub 2] , [eiser, sub 3] en [eiseres, sub 4] , te [woonplaats] , eiseres</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Midden-Delfland, verweerder</bridgehead>
+    <para>(gemachtigde: mr. J.B. van Doorn).</para>
+    <para />
+    <parablock>
+      <para>Eisers hebben zich tevens als derde-partij gemeld in de zaak tussen eiseres en verweerder (SGR 18/7464). </para>
+      <para>Eiseres heeft zich als derde-partij gemeld in de zaak tussen eisers en verweerder (SGR 19/7764).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Na toepassing van de uniforme openbare voorbereidingsprocedure, waarbij eisers elk voor zich een zienswijze hebben ingediend, heeft verweerder bij besluit van 4 oktober 2018 (het bestreden besluit) aan [h.o.d.n.] h.o.d.n. Restaurant Middeninn Maasland voor het exploiteren van een openbare inrichting met terras een vergunning onder voorschriften verleend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres en eisers hebben tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft een reactie ingediend op het beroepschrift van eisers.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers en verweerder hebben nadere stukken ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting van beide zaken heeft gelijktijdig plaatsgevonden op 17 augustus 2020. Eiseres heeft zich laten vertegenwoordigen door [h.o.d.n.] , bijgestaan door haar gemachtigde. [eiser, sub 2] is verschenen, mede als gemachtigde van de andere twee eisers. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. [h.o.d.n.] heeft op 7 februari 2018 een exploitatievergunning aangevraagd ten behoeve van Restaurant Middeninn Maasland. Bij het bestreden besluit heeft verweerder de gevraagde vergunning verleend, maar daarbij wel de voorwaarden aangescherpt. Zo dient het terras te worden gesloten om 21:30 uur, in plaats van om 22:30 uur. Ook geldt er een rookverbod op het terras en dienen de ramen en deuren in de gevel gesloten te zijn, behalve tijdens het doorlaten van personen en goederen. Verder mogen er geen incidentele festiviteiten worden georganiseerd die leiden tot een hoger geluidsniveau.</para>
+    <para />
+    <para>2. Eisers zijn bewoners van het gebouw, plaatselijk bekend [adres 1] [huisnummer 1] , [adres 2] [huisnummer 2] en [huisnummer 3] in [plaats] (hierna: gebouw) waarin Restaurant Middeninn Maasland is gevestigd. Zij vrezen hinder van de inrichting door verlening van de exploitatievergunning. </para>
+    <para />
+    <para>3. In artikel 1:4, eerste lid, van de Algemene plaatselijke verordening Midden-Delfland 2010 (hierna: APV) staat dat aan een vergunning of ontheffing voorschriften of beperkingen kunnen worden verbonden. Deze voorschriften en beperkingen strekken slechts tot bescherming van het belang of de belangen in verband waarmee de vergunning of ontheffing is vereist.</para>
+    <para />
+    <parablock>
+      <para>In artikel 2:28, eerste tot en met vierde lid, van de APV staat:</para>
+    </parablock>
+    <para>1. Het is verboden een openbare inrichting te exploiteren zonder vergunning van de burgemeester.</para>
+    <para>2. De burgemeester weigert de vergunning indien de vestiging of exploitatie van de openbare inrichting in strijd is met een geldend bestemmingsplan.</para>
+    <para>3. In afwijking van artikel 1:8 kan de burgemeester de vergunning geheel of gedeeltelijk weigeren, indien naar zijn oordeel moet worden aangenomen dat de woon- en leefsituatie in de omgeving van de openbare inrichting of openbare orde op ontoelaatbare wijze nadelig wordt beïnvloed.</para>
+    <para>4. Bij de toepassing van de in het derde lid genoemde weigeringsgrond houdt de burgemeester rekening met het karakter van de straat en de wijk, waarin de openbare inrichting is gelegen of zal zijn gelegen, de aard van de openbare inrichting en de spanning, waaraan het woonmilieu ter plaatse reeds blootstaat of bloot zal komen te staan door de exploitatie.</para>
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 2:29, derde lid, van de APV kan de burgemeester door middel van een vergunningvoorschrift andere sluitingstijden vaststellen voor een afzonderlijke openbare inrichting of een daartoe behorend terras.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In de Nota Horecabeleid Midden-Delfland 2010 staat onder het kopje ‘Deregulering exploitatievergunningen’: “Indien er evenwel naar het oordeel van de burgemeester vooraf aanwijzingen of bedenkingen zijn bij een aanvraag om een exploitatievergunning, al dan niet ingegeven door reacties van belanghebbenden, door het ondernemersplan of gegevens over het gedrag van exploitant of personeel, kan hij een “proefvergunning” afgeven. Dat is een volledige exploitatievergunning die niet geldt voor onbepaalde tijd, maar voor een door de burgemeester vastgestelde proefperiode. Als de proefperiode succesvol verloopt, kan de exploitant rekenen op een verlenging van de vergunning voor onbepaalde tijd. Is er sprake van een minder succesvol verloop met verbetermogelijkheden, dan kan ook eerst een nieuwe proefperiode met bijstelling van vergunningvoorwaarden volgen.”</para>
+      <para>	Onder het kopje ‘Sluitingstijden/terrastijden’ staat: “Op grond van het derde lid van artikel 2:29 kunnen door de burgemeester in de exploitatievergunning afwijkende tijden (afwijkend van sluitingstijden als bedoeld in artikel 2:29, leden 1 en 2 van de APV 2010) worden opgenomen indien beperkingen ten opzichte van de algemene tijden nodig zijn, indien naar zijn oordeel moet worden aangenomen, dat anders de woon- en leefsituatie in de omgeving van het horecabedrijf of openbare orde en veiligheid, of het milieu op ontoelaatbare wijze nadelig wordt beïnvloed. (…) De burgemeester kan voor een bij de horecagelegenheid behorend terras in de exploitatievergunning een ander sluitingsuur vaststellen, afgestemd op de specifieke omstandigheden. Ook hier geldt weer de woon- en leefsituatie in de omgeving van het horecabedrijf of de openbare orde en veiligheid, of het milieu als toetsingsgronden.”</para>
+      <para>	Onder het kopje ‘Overige vergunningvoorwaarden’ staat: “Aan de exploitatievergunning kunnen voorschriften en beperkingen worden verbonden. Deze voorschriften en beperkingen strekken slechts tot bescherming van het belang of de belangen in verband waarmee de vergunning of ontheffing is vereist.”</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Het beroep van [eiser, sub 2] , [eiser, sub 3] en [eiseres, sub 4] (SGR 18/7764).</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>4. Eisers betogen dat de verleende vergunning in strijd is met het bestemmingsplan ‘’t Spreeuwennest’. Zij voeren daartoe aan dat met de vergunningverlening aan onder meer Middeninn Maasland het uit het bestemmingsplan te herleiden percentage van 30% voor de ruimten op de eerste bouwlaag dat mag worden gebruikt voor horeca wordt overschreden. Verder voeren zij aan dat zij meer dan ‘slechts beperkte hinder’ ondervinden van Restaurant Middeninn Maasland en dat er alcohol wordt geschonken. Deze inrichting kwalificeert daarom niet als ‘Lichte horeca’ zoals beschreven in het bestemmingsplan.</para>
+    <parablock>
+      <para>	Voorts betogen eisers dat de vergunning op grond van artikel 2.28, derde lid, van de APV geweigerd had moeten worden, omdat de woon- en leefsituatie op ontoelaatbare wijze nadelig wordt aangetast. Zij stellen dat er ten onrechte geen geur- en geluidsonderzoek is uitgevoerd. Uit rapporten van Keurhuis Nederland blijkt evenwel dat het gebouw niet voldoet aan de meest voorkomende ambitie van luchtdichting en luchtgeluid. Het gebouw is op onjuiste wijze gebouwd. Voorts vrezen eisers voor geluidsoverlast als gevolg van bezoekers met auto’s en nachtelijke schoonmaakwerkzaamheden en voor parkeeroverlast. </para>
+      <para>	Verder wijzen eisers erop dat uit de stukken niet is gebleken dat de aanvrager van de vergunning een Verklaring omtrent het gedrag (hierna: VOG) heeft overgelegd.</para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank overweegt als volgt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Strijdigheid met het bestemmingsplan?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Bij besluit van 30 augustus 2016 heeft het college van burgemeester en wethouders van Midden-Delfland een omgevingsvergunning verleend voor planologisch strijdig gebruik van een aantal units in het gebouw van detailhandel naar horecabestemming. Dit besluit staat in rechte vast. Verweerder heeft zich terecht op het standpunt gesteld dat hiermee de strijdigheid met het bestemmingsplan voor wat betreft het toegestane percentage horeca op de eerste bouwlaag is opgeheven. Bij besluit van 19 juli 2018 heeft het college van burgemeester en wethouders van Midden Delfland een omgevingsvergunning verleend voor het realiseren van het terras. Daarmee is strijdigheid met het bestemmingsplan opgeheven. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <parablock>
+        <para>Ingevolge artikel 1.21, eerste lid, van het bestemmingsplan wordt onder ‘Lichte horeca’ verstaan: bedrijven die in beginsel alleen overdag en ’s avonds behoeven te worden geopend en zich in hoofdzaak bezig houden met verstrekking van etenswaren en maaltijden, en daardoor slechts beperkte hinder voor omwonenden veroorzaken.</para>
+        <para>	Niet in geschil is dat Middeninn Maasland zich in hoofdzaak bezig houdt met verstrekking van etenswaar en maaltijden en dat het restaurant alleen overdag en ’s avonds geopend is. Bij dergelijke inrichtingen wordt aangenomen dat zij slechts beperkte hinder voor omwonenden veroorzaken. De rechtbank ziet in de gestelde werkelijke mate van hinder geen aanleiding voor het oordeel dat Middeninn Maasland daarom niet meer gekwalificeerd dient te worden als ‘Lichte horeca’. De vraag of er in de praktijk sprake is van meer dan beperkte hinder, maakt niet dat de vergunningverlening in zoverre in strijd is met het bestemmingsplan. De omstandigheid dat er in het restaurant en op het terras alcohol wordt geschonken doet daar niet aan af.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Gelet op voorgaande heeft verweerder zich terecht op het standpunt gesteld dat de vergunningverlening niet in strijd is met het bestemmingsplan en dat artikel 2:28, tweede lid, van de APV dan ook niet aan de vergunningverlening in de weg staat.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Ontoelaatbare nadelige beïnvloeding van de woon- en leefsituatie?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <parablock>
+        <para>Het is vaste rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: Afdeling; zie de uitspraak van 21 augustus 2013, ECLI:NL:RVS:2013:822) dat de uit de Wet milieubeheer en het op basis daarvan vastgestelde Activiteitenbesluit milieubeheer voortvloeiende geluidsnormen niet met zich brengen dat verweerder bij de beoordeling van een aanvraag om een horeca-exploitatievergunning aan geluidshinderaspecten voorbij kan gaan. Geluid maakt deel uit van de uitstraling van de inrichting en is dus mede bepalend voor de woon- en leefsituatie in de omgeving. Zoals de Afdeling echter eveneens in de uitspraak van 21 augustus 2013 heeft overwogen, zijn de uit de Wet milieubeheer en het Activiteitenbesluit milieubeheer voortvloeiende geluidsnormen een gegeven en zal bij de beoordeling van een aanvraag om een horeca-exploitatievergunning ervan uit moeten worden gegaan dat aan die normen wordt voldaan. Als niet aan die normen wordt voldaan, dan zal gebruik moeten worden gemaakt van de aan de milieuwetgeving te ontlenen bevoegdheden van het college van burgemeester en wethouders om aan een schending van de normen een einde te maken. Hetzelfde geldt naar het oordeel van de rechtbank ten aanzien van geurhinderaspecten.</para>
+        <para>	De rechtbank heeft ten aanzien van de door eisers aangevoerde geluids- en geurhinder in haar uitspraak van 10 september 2019 (ECLI:NL:RBDHA:2019:9423; rechtsoverwegingen 6.4 tot en met 7.12) met betrekking tot de omgevingsvergunning van 19 juli 2018 ten aanzien van de terrassen reeds overwogen dat verweerder aannemelijk heeft gemaakt dat geen sprake is van een onaanvaardbare achteruitgang van het woon- en leefklimaat. Uit die uitspraak blijkt voorts dat verweerder in die procedure een akoestisch onderzoek en geuronderzoek heeft laten uitvoeren. De rechtbank ziet geen aanleiding in deze procedure anders te oordelen met betrekking tot het restaurant Middeninn Maasland. Derhalve bieden de door eisers aangevoerde geluids- en geurhinder geen grond voor weigering van de door Middeninn Maasland gevraagde vergunning. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Voor zover uit de door eisers overgelegde rapportages geluidsmeting en luchtdichtheidsonderzoek van Keurhuis Nederland (P. Beumer) volgt dat de luchtdichtheid van eisers woningen niet voldoen aan de meest voorkomende luchtdichtingsambitie respectievelijk het gemeten luchtgeluid niet in overeenstemming is met het bepaalde in artikel 3.16. eerste lid, van het Bouwbesluit 2012, ligt het op de weg van eisers de verhuurder dan wel de bouwer van het gebouw daarop aan te spreken. Hierin is geen reden gelegen om de vergunning aan Middeninn Maasland te weigeren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Gelet op voorgaande is de rechtbank van oordeel dat verweerder in redelijkheid mocht aannemen dat de woon- of leefsituatie in de omgeving van Middeninn Maasland niet op ontoelaatbare wijze nadelig wordt beïnvloed door de verlening van de exploitatievergunning. Verweerder mocht daar bij betrekken dat het betrokken gebouw is gelegen in het centrumgebied van het dorp Maasland, dat om die reden onrustiger is dan een woongebied buiten het centrum. Voorts mocht verweerder bij zijn beoordeling van de woon- en leefsituatie betrekken dat het hier gaat om lichte horeca. Verder heeft verweerder mogen betrekken dat hij in de vergunning voorschriften heeft opgenomen om de nadelige beïnvloeding – die er in enige mate wel is – te beperken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>In het betoog van eisers dat zij parkeeroverlast ervaren doordat er regelmatig wordt geparkeerd op plekken die niet zijn ingericht als parkeerplaatsen is geen grond gelegen om de exploitatievergunning te weigeren. Daartegen kan handhavend worden opgetreden. Eisers hebben niet aannemelijk gemaakt dat het feit dat het regelmatig voor hen lastig is om een parkeerplaats te vinden wordt veroorzaakt door de verleende vergunning en dat dit leidt tot een ontoelaatbare nadelige beïnvloeding van de woon- en leefomgeving. Ook ten aanzien van geluidsoverlast door schoonmaakwerkzaamheden wordt overwogen dat eisers daartoe een handhavingsverzoek kunnen indienen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Overig</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Het betoog van eisers dat niet is gebleken dat bij de aanvraag voor de exploitatievergunning een VOG is overgelegd die uiterlijk drie maanden voor de indiening van de aanvraag is afgegeven kan, gelet op artikel 8:69a van de Algemene wet bestuursrecht, niet tot gegrondverklaring van het beroep leiden, omdat het overleggen van een recente VOG beoogt het algemeen belang te bescherming en eisers belangen niet zodanig verweven zijn met dit algemeen belang dat vereiste van het overlegging van een VOG ook moet worden geacht te strekken tot bescherming van hun belangen.</para>
+      <para />
+      <para>8. Het beroep van eisers is ongegrond.</para>
+      <para />
+      <para>9. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Het beroep van V.O.F. Restaurant Middeninn Maasland (SGR 18/7464).</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>10. De rechtbank heeft op 10 augustus 2020 nadere stukken ontvangen van eisers. Dit is binnen de daarvoor geldende termijn van tien dagen voor de zitting. Met verweerder is de rechtbank van oordeel dat de goede procesorde zich ertegen verzet dat deze stukken bij de beoordeling van het beroep worden betrokken. De rechtbank heeft ter zitting dan ook geoordeeld dat deze stukken niet aan het procesdossier zullen worden toegevoegd.</para>
+      <para />
+      <para>11. Eiseres betoogt dat verweerder ten onrechte de voorwaarden heeft aangescherpt. Zij voert daartoe aan dat het terras met deze voorwaarden in het terrasseizoen niet in redelijkheid en naar objectieve maatstaven niet adequaat is te exploiteren. Een gemiddeld diner is in het terrasseizoen om 21:30 uur nog niet ten einde. Voorts betekent de sluitingstijd dat feitelijk om 21:00 uur geen drankjes meer op het terras mogen worden verstrekt. Voorts is een rookvrij terras geen wettelijke verplichting. Tijdens maaltijden wordt bovendien niet of heel weinig gerookt. Een ontmoedigingsbeleid of een rookplek is meer aangewezen. Ook het gesloten houden van ramen en deuren is in de praktijk illusoir. Bovendien moeten er dan onevenredig hoge kosten worden gemaakt ten behoeve van de klimaatbeheersing in het pand. Ook wijst eiseres erop dat zij de reguliere ruimte wil hebben voor het organiseren van incidentele evenementen. Deze moeten bovendien ook per aanvraag worden beoordeeld.</para>
+      <para>	Eiseres voert voorts aan dat het verweerder niet vrij staat om zelf, al dan niet in voorspraak met eisers, af te wijken van de aanvraag. Het bestreden besluit, voor zover daarbij een terrasvergunning is verleend, is dan ook niet zorgvuldig voorbereid. Voorts voert eiseres aan dat niet is gebleken en niet is onderbouwd dat het woonmilieu ter plaatse negatief wordt beïnvloed door het terras, dan wel dat deze nadelig is voor de openbare orde. Het restaurant en terras liggen in het centrum en hebben een planologische horecabestemming, hetgeen reeds bij de verhuur van de bovengelegen woningen bekend was. De door de eisers ondervonden hinder dienen zij civielrechtelijk in de vereniging van eigenaren aan de orde te stellen. Verweerder heeft ten onrechte de belangen van Restaurant Middeninn Maasland en de mogelijke positieve bijdrage van een terras ter plaatse aan het woon- en leefklimaat niet bij de beoordeling betrokken. Verder wijst eiseres erop dat verweerder, indien nodig, met regulier toezicht eventueel kan optreden.</para>
+      <para />
+      <para>12. De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.1</nr>
+      <para>Vooraleerst verwijst de rechtbank naar de genoemde jurisprudentie in rechtsoverweging 6.1. In de daar genoemde uitspraak van 21 augustus 2013 heeft de Afdeling voorts overwogen dat de burgemeester ook bij het nemen van een besluit op een aanvraag om een exploitatievergunning moet afwegen of een terras op een bepaalde plaats toelaatbaar is, gelet op de kwaliteit van het woon- en leefmilieu aldaar. De burgemeester betrekt bij die afweging het karakter van de omgeving waar het terras moet worden gevestigd, evenals de uitstraling van het terras in zijn totaliteit op die omgeving. Het geluid, voor zover dit valt binnen de volgens de milieuwetgeving gestelde normen, maakt deel uit van de uitstraling van een terras in zijn totaliteit op de omgeving en moet in aanmerking worden genomen bij de te verrichten beoordeling of de kwaliteit van het woon- en leefklimaat door het vergunnen van het terras niet te zeer wordt aangetast. Hetzelfde geldt naar het oordeel van de rechtbank ten aanzien van geurhinderaspecten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2</nr>
+      <para>Op grond van artikel 1:4, eerste lid, en artikel 2:29, derde lid, van de APV, gelezen in samenhang met de Nota Horecabeleid is verweerder bevoegd ten behoeve van de woon- en leefsituatie in de omgeving van het horecabedrijf nadere sluitingstijden voor het terras en voorschriften aan de exploitatievergunning te verbinden. Dat verweerder daarmee afwijkt van de aanvraag, doet er niet toe, nu het de bevoegdheid van het stellen van nadere voorschriften in zoverre anders illusoir zou maken. Verweerder is bij het vaststellen van de openingstijden en andere voorschriften bovendien niet gehouden rekening te houden met de economische belangen van de vergunninghouder. De bepalingen van de APV zien immers op het voorkomen van op ontoelaatbare wijze nadelige beïnvloeding van de woon- en leefsituatie in de omgeving van de openbare inrichting of de openbare orde. Voorts is het de rechtbank niet gebleken dat het stellen van een rookverbod in openbare ruimte uitputtend in de Tabakswet is geregeld en daarmee aan het verbinden van dit voorschrift aan de exploitatievergunning in de weg staat, zoals door eiseres ter zitting is gesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.3</nr>
+      <para>Met betrekking tot de aan de exploitatievergunning verbonden voorschriften en openingstijden van het terras heeft eiseres er terecht op gewezen dat de openbare inrichting is gelegen in het centrumgebied van Maasland, dat dit naar zijn aard een “onrustiger” gebied is dan een woongebied en dat het betrokken gebouw en aangrenzende grond planologisch gezien is bestemd voor lichte horeca. Dit wordt door verweerder ook onderkend en deze omstandigheden zijn door verweerder meegewogen in zijn beoordeling. Verweerder heeft overwogen dat de woon- en leefsituatie in de omgeving van de openbare inrichting dan ook niet op ontoelaatbare wijze nadelig wordt beïnvloed. Zie daarvoor ook hetgeen hiervoor onder rechtsoverweging 6.1 tot en met 6.4 is overwogen. Nu de balkons van eisers direct boven het terras van eiseres zitten, heeft verweerder naar het oordeel van de rechtbank mogen aannemen dat eisers enige mate van hinder ondervinden als gevolg van de exploitatievergunning. Verweerder heeft met het oog daarop voorschriften aan de vergunning mogen verbinden om deze hinder enigszins te beperken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.4</nr>
+      <para>Voor zover eiseres nog heeft gewezen op minder vergaande opties, zoals een ontmoedigingsbeleid ten aanzien van het roken op het terras of de mogelijkheid van een proefvergunning, wordt overwogen dat dit discretionaire bevoegdheid van verweerder betreft en dat het al dan niet gebruik maken hiervan in deze zaak niet ter toetsing voorligt. Voorts zijn eventuele civielrechtelijke mogelijkheden van eisers niet relevant voor de vraag of verweerder de gestelde voorschriften aan de exploitatievergunning heeft mogen verbinden.</para>
+      <para />
+      <para>13. Het beroep is ongegrond.</para>
+      <para />
+      <para>14. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para>- verklaart het beroep van eisers in zaaknummer 18/7764 ongegrond;</para>
+    <para>- verklaart het beroep van eiseres in zaaknummer 18/7464 ongegrond.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.P. Kleijn, rechter, in aanwezigheid van mr. A. Nobel, griffier. De beslissing is in het openbaar uitgesproken op 11 september 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

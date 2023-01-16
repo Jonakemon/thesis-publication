@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:10797</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-04T10:32:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 1535</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10797">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:10797</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-04T10:31:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:10797 Rechtbank Den Haag , 13-05-2020 / AWB - 20 _ 1535</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:10797:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>vovo, weigering exploitatie en dhw vergunning, bibob</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:10797:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">REchtbank DEN Haag</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 20/1535 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 13 mei 2020 op het verzoek om een voorlopige voorziening van</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">De GrootMeister Horeca B.V., te Leiden, verzoekster</bridgehead>
+    <para>(gemachtigde: mr. S.R.A. Drieshen),</para>
+    <para />
+    <parablock>
+      <para>tegen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Leiden, verweerder</bridgehead>
+    <para>(gemachtigde: mr. I.M. van der Heijden).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 februari 2020 (het primaire besluit) heeft verweerder de aanvraag van verzoekster om een exploitatie- en drank- en horecavergunning voor horeca-inrichting ‘De Bruine Boon’ aan de Stationsweg 1 te Leiden geweigerd. </para>
+      <para>Daarnaast heeft verweerder de door verzoekster aangevraagde aanwezigheidsvergunning voor twee kansspelautomaten in ‘Café Oma Rietje’ aan de 2e Binnenvestgracht 2 te Leiden geweigerd. Tevens heeft verweerder de drank- en horecavergunning welke eerder is verleend voor de exploitatie van ‘Café Oma Rietje’ ingetrokken. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen het primaire besluit bezwaar gemaakt. Zij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft bij email van 26 februari 2020 de gevolgen van het primaire besluit opgeschort tot dat de voorzieningenrechter uitspraak heeft gedaan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft, met instemming van partijen, met een videoverbinding plaatsgevonden op 1 mei 2020. Verzoekster heeft zich laten vertegenwoordigen door haar gemachtigde en kantoorgenoot mr. P. Huisman. Voor verzoekster is tevens verschenen de heer [A] , mede-eigenaar.</para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en </para>
+      <para>mr. E.F. Binnendijk.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <para>2. De voorzieningenrechter acht in beginsel spoedeisend belang als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht (Awb) bij de gevraagde voorziening aanwezig. De voorzieningenrechter zal beoordelen aan de hand van een voorlopig rechtmatigheidsoordeel en zo nodig een belangenafweging of er ook voldoende spoedeisend belang is om het treffen van een voorlopige voorziening te rechtvaardigen.</para>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter overweegt dat de onderhavige voorzieningenprocedure zich, gelet op de aard en de complexiteit van de zaak, niet leent voor een uitgebreide beoordeling van alle door partijen ingenomen standpunten. Daarvoor is plaats in de bezwaarprocedure. </para>
+    </parablock>
+    <para />
+    <para>3. Voor het procesverloop verwijst de voorzieningenrechter naar het primaire besluit. </para>
+    <para />
+    <para>4. Verweerder heeft aan het primaire besluit ten grondslag gelegd dat de aangevraagde vergunningen voor ‘De Bruine Boon’ en ‘Café Oma Rietje’ zijn geweigerd en de bestaande vergunning is ingetrokken, omdat er een ernstig gevaar bestaat dat de vergunningen mede zullen worden gebruikt om uit strafbare feiten verkregen of te verkrijgen op geld waardeerbare voordelen te benutten als bedoeld in artikel 3, eerste lid, aanhef en onder a, van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Wet Bibob). </para>
+    <para />
+    <parablock>
+      <para>Verweerder heeft daarbij verwezen naar adviezen van het Landelijk Bureau Bibob (LBB) van 24 juni 2019 en 15 juli 2019.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Uit het onderzoek van het LBB zijn feiten en omstandigheden naar voren gekomen die doen vermoeden dat de heer J. Verbaan (hierna: V) in de periode 2011 tot en met enig moment tussen 1 maart 2017 en 1 mei 2017 heeft gehandeld in strijd met de belastingwetgeving waardoor te weinig belasting is geheven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het LBB is verweerder van oordeel dat het vermoeden dat verzoekster in relatie</para>
+      <para>tot strafbare feiten staat, ernstig is, omdat verzoekster in relatie staat tot V en er feiten en omstandigheden zijn die ernstig doen vermoeden dat V voornoemde strafbare feiten heeft gepleegd. In dit verband acht verweerder ook van belang dat V in het strafrechtelijk onderzoek van de FIOD is aangemerkt als verdachte van overtredingen van de AWR.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder is met het LBB van oordeel dat verzoekster in relatie staat tot de strafbare feiten van V omdat hij indirect vermogensverschaffer is van verzoekster (artikel 3, vierde</para>
+      <para>lid, aanhef en onder c, van de Wet Bibob). Verzoekster heeft ‘De Bruine Boon’ gekocht van Leids College II BV (Leids College), waarbij is overeengekomen dat de koopprijs van €700.000 over een periode van april 2018 tot mei 2021 in drie ongelijke delen wordt betaald (financieringsconstructie). V is enig aandeelhouder van Leids College. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het LBB onderschrijft verweerder dat het door V verkregen financieel voordeel zeer groot is. Fiscale delicten zoals belastingontduiking zijn naar haar aard gericht op het verkrijgen van voordeel. Volgens het LBB bedraagt het fiscale nadeel €1.939.653. Uit de adviezen volgt dat de door de Belastingdienst opgelegde (navorderings)aanslagen, die invorderbaar zijn, nog niet zijn betaald en dat evenmin anderszins betalingen zijn verricht die het belastingnadeel verminderen. Er moet dan ook van worden uitgegaan dat het verkregen voordeel nog steeds deel uitmaakt van het vermogen van V, aldus verweerder.</para>
+    </parablock>
+    <para />
+    <para>5. Verzoekster betwist de rechtmatigheid van het primaire besluit en voert daartoe – kort samengevat – het volgende aan. </para>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft ten behoeve van ‘De Bruine Boon’ een koopovereenkomst gesloten met Leids College. Daarbij is Leids College vertegenwoordigd door haar bestuurder en enig aandeelhouder J. Scharloo (hierna S). Naar aanleiding van verweerders voornemen tot weigering van de gevraagde vergunningen en intrekking van de bestaande vergunning is verzoekster er achter gekomen dat Leids College op enig moment na de koopovereenkomst is overgedragen aan V. Doordat S zich is blijven presenteren als vertegenwoordiger van Leids College heeft verzoekster niet kunnen weten van de overdracht aan V. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens heeft verzoekster, op aansturen van verweerder, in oktober 2019 onderhandeld over de nakoming van de koopovereenkomst. Verzoekster is met een beroep op dwaling bij de totstandkoming van de overeenkomst met Leids College overeengekomen dat van de koopsom van € 700.000 een bedrag van €250.000 niet langer verschuldigd is. Verweerder stelt hierbij ten onrechte dat geen rechtvaardiging bestaat om het bedrag van €250.000 om die reden kwijt te schelden. Verzoekster benadrukt dat onbetwist is dat er een overeenkomst tot finale kwijting bestaat. De vraagtekens die verweerder plaatst bij de dwaling doet aan deze overeenkomst niet af. Verzoekster heeft niets meer van doen met Leids College zodat het geen ernstig gevaar meer oplevert voor de toekomst. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dat verzoekster korte tijd contact gehad heeft met V over de eventuele koop van het pand van ‘De Bruine Boon’ maakt niet dat sprake is geweest van wetenschap van betrokkenheid van V bij de exploitatie van ‘De Bruine Boon’. Er zijn slechts een aantal telefoongesprekken gevoerd om eventuele koop te verkennen maar dit draaide op niets uit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>LVK Investments BV (LVK) speelt een grote rol in de bij nakoming van de gewijzigde koopsom (financieringsconstructie). Zij heeft met verzoekster een overeenkomst van lening opgesteld om het resterende bedrag van €100.000 aan Leids College te kunnen voldoen. Verzoekster heeft immers alles op alles moeten zetten om de financiële banden met Leids College zo spoedig mogelijk te verbreken. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Tot slot wijst verzoekster op de grote belangen die gemoeid zijn met het primaire besluit. </para>
+    </parablock>
+    <para />
+    <para>6. Op grond van artikel 3, eerste lid, aanhef en onder a, van de Wet Bibob kunnen bestuursorganen, voor zover zij bij of krachtens de wet daartoe de bevoegdheid hebben gekregen, weigeren een aangevraagde beschikking te geven dan wel een gegeven beschikking intrekken, indien ernstig gevaar bestaat dat de beschikking mede zal worden gebruikt om a) uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten.</para>
+    <para />
+    <parablock>
+      <para>In het tweede lid van artikel 3 van de Wet Bibob is bepaald dat voor zover het ernstig gevaar als bedoeld in het eerste lid, aanhef en onderdeel a, betreft, de mate van het gevaar wordt vastgesteld op basis van: </para>
+    </parablock>
+    <para>a. feiten en omstandigheden die erop wijzen of redelijkerwijs doen vermoeden dat de betrokkene in relatie staat tot strafbare feiten als bedoeld in het eerste lid, onderdeel a, </para>
+    <para>b. in geval van vermoeden de ernst daarvan, </para>
+    <para>c. de aard van de relatie, en </para>
+    <para>d. de grootte van de verkregen of te verkrijgen voordelen. </para>
+    <para />
+    <parablock>
+      <para>De betrokkene staat op grond van artikel 3, vierde lid, aanhef en onder c, van de Wet Bibob in relatie tot strafbare feiten als bedoeld in het tweede en derde lid, indien een ander deze strafbare feiten heeft gepleegd en deze persoon direct of indirect leiding geeft dan wel heeft gegeven aan, zeggenschap heeft dan wel heeft gehad over, vermogen verschaft dan wel heeft verschaft aan betrokkene, of in een zakelijk samenwerkingsverband tot hem staat of heeft gestaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3, vijfde lid, aanhef en onder a, van de Wet Bibob bepaalt dat de weigering dan wel intrekking, bedoeld in het eerste lid, slechts plaatsvindt indien deze evenredig is met de mate van het gevaar.</para>
+    </parablock>
+    <para />
+    <para>7. De voorzieningenrechter stelt vast dat verzoekster niet weersproken heeft dat door V wordt verdacht van strafbare feiten die verband houden met fiscale delicten. Naar het oordeel van de voorzieningenrechter heeft verweerder deze feiten en omstandigheden dan ook kunnen betrekken bij de vaststelling van de mate van het gevaar als bedoeld in artikel 3, tweede en derde lid, van de Wet Bibob.</para>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter ziet zich vervolgens voor de vraag gesteld of verzoekster ten tijde van het primaire besluit in relatie stond tot de hiervoor vermelde strafbare feiten van V. Verweerder heeft zijn vermoeden gebaseerd op het feit dat verzoekster ‘De Bruine Boon’</para>
+      <para>gekocht heeft van Leids College. V is enig aandeelhouder van Leids College. Verzoekster stelt zich op het standpunt dat zij alle banden met V heeft verbroken, zodat dit niet meer meegewogen mag worden in de beoordeling in het kader van de Wet Bibob. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze grond slaagt niet. Ingevolge artikel 3, vierde lid, aanhef en onder c, van de Wet Bibob staat een betrokkene in relatie tot strafbare feiten als bedoeld in het tweede en derde lid van dit artikel indien een ander deze strafbare feiten heeft gepleegd en deze persoon direct of indirect leiding geeft dan wel heeft gegeven aan, dan wel zeggenschap heeft dan wel heeft gehad over, vermogen verschaft dan wel heeft verschaft aan betrokkene, of in een zakelijk samenwerkingsverband tot hem staat of heeft gestaan. De voorzieningenrechter is van oordeel dat verweerder – onder verwijzing naar de adviezen van het LBB – terecht is uitgegaan van een zakelijk samenwerkingsverband tussen V en verzoekster met haar bestuurders, vanwege de verkoop van ‘De Bruine Boon’. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met verweerder is de voorzieningenrechter van oordeel dat het feit dat verzoekster en Leids College de financieringsconstructie ten behoeve van de verkoop aangepast hebben, niet maakt dat verzoekster ten tijde van het primaire besluit niet langer in relatie stond tot V. </para>
+      <para>De voorzieningenrechter acht in dit verband allereerst van belang dat tussen verzoekster en Leids College nog steeds een bedrag van ongeveer €100.000 resteerde. Verzoeksters betoog dat zij alles op alles heeft gezet om de financiële banden met Leids College zo spoedig mogelijk te verbreken maakt dat niet anders. Zoals door verweerder opgemerkt is het bedrag van ongeveer €100.000 gefinancierd met een lening van LVK. LVK is voor 50% eigendom van Mullemeister door middel van zijn onderneming Caprock en wordt tevens bestuurd door De Goot. Beiden zijn ook mede-eigenaar van verzoekster. Dit komt er op neer dat het bedrag aan Leids College nog steeds betaald is door (bestuurders) van verzoekster. Voorts kan niet worden gezegd dat er voor verweerder gelet op artikel 6:228 van het Burgerlijk Wetboek geen aanknopingspunten bestaan voor twijfel of een beroep op dwaling de neerwaartse bijstelling van de koopsom rechtvaardigde. De dwaling moet immers niet op grond van in het verkeer geldende opvattingen, schending van onderzoeksplicht of zaken die uitsluitend op de toekomst betrekking hebben, voor rekening van de dwalende komen. Verzoekster heeft bij voorbeeld vooralsnog onvoldoende kunnen verklaren waarom zij ten tijde van het sluiten van de koopovereenkomst geen kennis kon hebben van de staat van de goederen die onderdeel waren van de koopovereenkomst en de daarmee samenhangende onderhoudskosten.</para>
+      <para>Op grond van het vorenstaande heeft verweerder al de conclusie mogen trekken dat er ernstig gevaar bestaat dat de door verzoekers gevraagde en/of ingetrokken vergunningen mede zullen worden gebruikt om strafbare feiten te plegen. Dit betekent dat de vergunningen op grond van artikel 3, eerste lid, aanhef en onder a, van de Wet Bibob heeft mogen intrekken dan wel weigeren. Hetgeen door partijen aangevoerd is over de realiteitsfactor van de verlaging van het te betalen bedrag, behoeft gelet op het voorgaande naar het oordeel van de voorzieningenrechter dan ook geen bespreking in deze voorlopige voorziening. </para>
+    </parablock>
+    <para />
+    <para>8. De voorzieningenrechter komt, gelet op alle hiervoor genoemde feiten en omstandigheden in onderlinge samenhang bezien, tot de conclusie dat verzoekster in relatie staat tot strafbare feiten die verband houden met fiscale delicten. Aangezien dergelijke delicten er naar hun aard op zijn gericht op geld waardeerbare voordelen voort te brengen, heeft verweerder zich op het standpunt mogen stellen dat ernstig gevaar bestaat dat de aan verzoekster verleende en gevraagde exploitatievergunning als ook de gevraagde aanwezigheidsvergunningen mede zullen worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten. </para>
+    <para />
+    <para>9. Verzoekster heeft aangevoerd dat het bestreden besluit voor haar onevenredig zware gevolgen met zich brengt, nu zij niet alleen niet langer zelf ‘De Bruine Boon’ en ‘Café Oma Rietje’ kan exploiteren, maar dat zij de cafés ook niet kan verkopen. Naar het oordeel van de voorzieningenrechter kan niet worden gezegd dat verweerder in het licht van al het voorgaande het belang van het bestrijden van ernstig gevaar als bedoeld in artikel 3, eerste lid, aanhef en onder a, van de Wet Bibob niet zwaarder heeft mogen laten wegen dan het belang van verzoekster bij behoud of verkrijging van hun exploitatievergunning. Van strijd met artikel 3:4 van de Awb is dan ook geen sprake.</para>
+    <para />
+    <para>10. Gezien het voorgaande zal het primaire besluit naar verwachting in bezwaar kunnen standhouden. De voorzieningenrechter ziet voorts in de bezwaargronden, onder de gegeven omstandigheden, geen aanleiding om verzoekster hangende de bezwaarprocedure toe te staan om de exploitatie van haar horeca-inrichtingen zonder vergunning voort te zetten. Daarom bestaat geen aanleiding tot het treffen van de gevraagde voorziening en wijst de voorzieningenrechter het verzoek af.</para>
+    <para />
+    <para>11. Voor een proceskostenveroordeling bestaat geen aanleiding.  </para>
+    <bridgehead role="bold">Beslissing</bridgehead>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.P. Kleijn, voorzieningenrechter, in aanwezigheid van mr. G.A. Verhoeven, griffier, op 13 mei 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Als gevolg van de maatregelen rondom het Corona virus is deze beslissing niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

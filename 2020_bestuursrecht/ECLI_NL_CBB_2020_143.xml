@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:143</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-10T12:47:16</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1571</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:143">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:143</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-04T13:36:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:143 College van Beroep voor het bedrijfsleven , 10-03-2020 / 18/1571</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:143:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>GLB; randvoorwaardenkorting; niet emissiearm uitrijden mest; mest niet uitsluitend in de sleufjes; opzet; hoogte korting niet onevenredig.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:143:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/1571 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 10 maart 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam 1] B.V., te [plaats 1] , appellante</bridgehead>
+    <para>(gemachtigde: ing. J.M.T. Raedts),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder(gemachtigde: mr. E.J.H. Jansen).</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <?linebreak?>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 11 mei 2018 (het primaire besluit) heeft verweerder op grond van de Uitvoeringsregeling rechtstreekse betalingen GLB (de Uitvoeringsregeling) een randvoorwaardenkorting vastgesteld van 20% op de aan appellante voor het jaar 2017 te verlenen rechtstreekse betalingen.<?linebreak?></para>
+      <para>Bij besluit van 11 juli 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellante ongegrond verklaard. <?linebreak?></para>
+      <para>Appellante heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft een nader stuk ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 7 januari 2020. Namens appellante is verschenen [naam 2] , algemeen directeur. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>1	Op grond van de stukken gaat het College uit van de volgende feiten.</para>
+    </parablock>
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Appellante heeft voor het jaar 2017 rechtstreekse betalingen aangevraagd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Op 15 maart 2017 heeft een controle door een toezichthouder van de Nederlandse Voedsel- en Warenautoriteit (NVWA) plaatsgevonden op een perceel dat in gebruik is bij het bedrijf van appellante. Van deze controle zijn een op ambtsbelofte opgemaakt proces-verbaal, gedateerd 15 maart 2017, en een inspectieverslag, gedateerd 17 maart 2017, opgesteld. Daarin is vermeld dat circa 60 m³ runderdrijfmest niet voldoende emissiearm is aangewend op circa twee hectare zandgrond (grasland). In dit inspectieverslag is het werkresultaat op het grasland aangeduid als G2 (deels in strookjes en op het gras etc.). Bij het proces-verbaal zijn foto’s gevoegd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <parablock>
+        <para>In bijlage 2 (Reden van wetenschap) bij het proces-verbaal van 15 maart 2017 staat, voor zover hier van belang, het volgende:</para>
+        <para>
+          <?linebreak?>
+          <emphasis role="underline">Controle:</emphasis>
+        </para>
+        <para>
+          <?linebreak?>Op woensdag 15 maart 2017 omstreeks 12:05 uur, bevond ik, [naam 3] , mij in een onopvallende dienstauto, over de [adres] te [plaats 1] richting [plaats 2] , gelegen binnen de gemeente [gemeente] . Aldaar zag ik op een perceel grasland dat er in stroken een groen kleurige substantie was aangebracht, gelijkend op die van runderdrijfmest. Naar aanleiding van bovenstaande ben ik, op genoemde dag en plaats, ten einde een controle in het kader van de Meststoffen-Wet uit te kunnen voeren, het perceel grasland opgelopen.</para>
+        <para>Ik zag dat er sleuven in het grasland getrokken waren, en ik zag dat bovenop de sleuven, op het gras, circa 10/12 cm breed deze groenkleurige substantie liggen, welke niet emissiearm is aangewend. Ik zag, gelet op de geur, kleur en uiterlijke kenmerken, dat deze vloeistof dierlijke mest betrof van de diersoort rund. Ik, verbalisant [naam 3] , zag dat de aangewende dierlijke meststoffen niet volledig in de grond gebracht was. <?linebreak?></para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>In bijlage 1 (Verklaring) bij het proces-verbaal van 15 maart 2017 staat, voor zover hier van belang, het volgende:</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Verklaring verdachte 1 ( [naam 4]</emphasis>):</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>“Ik ben samen met mijn broer [naam 5] eigenaar van: Melkveebedrijf [naam 6] BV. Ik heb hier op dit perceel grasland, groot circa 3 ha. zojuist runderdrijfmest uitgereden met de graslandinjecteur. Dit perceel grasland is in gebruik bij genoemde BV. Ik zie nu, nadat ik met u over het gehele perceel ben gelopen dat er op circa 2/3 deel de mest niet goed genoeg is ingewerkt. Op het eerste gedeelte waar ik begonnen ben wel, dat moet u toch toegeven? Ik denk dat dit komt omdat dat die mest van het bovenste gedeelte van de mestput komt en dunner is. In het onderste gedeelte zit meer de dikkere mest die dan niet zo gemakkelijk in de grond kan worden gebracht. Ik had de mestinjecteur nog wel ca. 2 centimeter dieper kunnen zetten maar dat kost meer diesel.” In injecteer ca 100 hectare in totaal en daarvan is nu slechts dit gedeelte niet zo goed gegaan, moet u hiervoor echt een proces-verbaal voor op maken? Kan dat niet afgedaan worden met een waarschuwing?”.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>2	Bij het primaire besluit heeft verweerder aan appellante een randvoorwaardenkorting opgelegd van 20% op de rechtstreekse betalingen in verband met de niet-naleving van de verplichting om dierlijke meststoffen emissiearm te verwerken. Uit de feiten en omstandigheden blijkt volgens verweerder dat sprake is van opzet. Appellante heeft niet ingegrepen toen het werkresultaat niet meer voldeed, terwijl zij daartoe wel de mogelijkheid had. Bij het bestreden besluit heeft verweerder het primaire besluit gehandhaafd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Op grond van de artikelen 91, 92 en 93 van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het gemeenschappelijk landbouwbeleid (Verordening 1306/2013) dient een landbouwer die rechtstreekse betalingen ontvangt, de in bijlage II genoemde, uit de regelgeving voortvloeiende beheerseisen in acht te nemen. Bijlage II bij Verordening 1306/2013 verwijst naar de artikelen 4 en 5 van Richtlijn 91/676/EEG van de Raad van 12 december 1991 inzake de bescherming van water tegen verontreinigingen door nitraten uit agrarische bronnen (Nitraatrichtlijn). Deze tot de randvoorwaarden behorende beheerseisen zijn in Nederland onder meer uitgewerkt in artikel 3.1, aanhef en onder a, en bijlage 3, punt 1.8, bij de Uitvoeringsregeling, waarin wordt verwezen naar artikel 5 van het Besluit gebruik meststoffen (Bgm). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Op grond van artikel 1, eerste lid, aanhef en onder n, en artikel 5, eerste lid, van het Bgm, in samenhang met bijlage I bij het Bgm, punt 2, wordt bij het emissiearm aanwenden van dierlijke meststoffen of zuiveringsslib op grasland, gelegen op zand- of lössgrond, de mest of het slib onmiddellijk in de grond gebracht. Indien de mest of het slib in de grond wordt gebracht, geschiedt dit door middel van apparatuur waarmee de mest of het slib uitsluitend in de grond wordt gebracht in sleufjes. De sleufjes hebben geen grotere breedte dan 5 centimeter.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Ingevolge artikel 97, eerste lid, eerste alinea, van Verordening 1306/2013 wordt de in artikel 91 bedoelde administratieve sanctie opgelegd wanneer voorschriften betreffende de randvoorwaarden (waartoe de beheerseisen behoren) op enig moment in het kalenderjaar (“betrokken kalenderjaar”) niet worden nageleefd en de niet-naleving in kwestie rechtstreeks kan worden toegeschreven aan de begunstigde die de steunaanvraag of de betalingsaanvraag in het betrokken kalenderjaar heeft ingediend. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <parablock>
+        <para>Artikel 40 van Gedelegeerde Verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 (Verordening 640/2014) luidde ten tijde en voor zover hier van belang als volgt:<?linebreak?></para>
+        <para>
+          <emphasis role="bold">“Berekening en toepassing van administratieve sancties in geval van opzettelijke niet-naleving</emphasis>
+        </para>
+        <para>
+          <?linebreak?>Wanneer een begunstigde de geconstateerde niet-naleving met opzet heeft begaan, bedraagt de verlaging die op het in artikel 39, lid 1, bedoelde totale bedrag moet worden toegepast, in de regel 20 % van dat totale bedrag.</para>
+        <para>
+          <?linebreak?>Het betaalorgaan kan evenwel op basis van de beoordeling van het belang van de niet-naleving die de bevoegde controleautoriteit in het evaluatiegedeelte van het controleverslag daaraan heeft toegekend op basis van de in artikel 38, leden 1 tot en met 4, genoemde criteria, besluiten om dat percentage te verlagen tot niet minder dan 15 % of te verhogen tot maximaal 100 % van dat totale bedrag.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Het College stelt voorop dat de volledige betaling van de door de landbouwer aangevraagde rechtstreekse landbouwsteun op grond van de van toepassing zijnde communautaire en nationale bepalingen afhankelijk is gesteld van de naleving van regels op het gebied van – onder meer – het milieu. Bij niet-naleving van deze randvoorwaarden wordt het steunbedrag gekort of ingetrokken. Tot de uit deze regelgeving voortvloeiende beheerseisen behoort de verplichting om mest emissiearm aan te wenden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Het betoog van appellante dat erop neerkomt dat de verplichting tot het emissiearm aanwenden van mest niet op Europese wetgeving is gebaseerd, treft geen doel. Artikel 5 van het Bgm, waarin deze verplichting is neergelegd, strekt immers tot implementatie van artikel 5, vierde lid, aanhef en onder a, in samenhang met bijlage III van de Nitraatrichtlijn. Het gaat daarbij om maatregelen die in actieprogramma’s dienen te worden opgenomen, waaronder voorschriften die een beperking van het op of in de bodem brengen van meststoffen inhouden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Appellante kan zich niet verenigen met de opgelegde randvoorwaardenkorting. Daartoe heeft zij aangevoerd dat niet is gehandeld in strijd met artikel 5 van het Bgm. Bij de op 15 maart 2017 gehouden controle van de NVWA is gebleken dat bij een gebruik van een zodenbemester niet alle mest netjes binnen de sleufjes is gebleven. In het inspectieverslag heeft de toezichthouder dit aangeduid als werkresultaat G2. Uit het rapport “Beoordeling mesttoediening in de praktijk” van Plant Research International (Wageningen University &amp; Research) van december 2008 (rapport 219) leidt appellante af dat hiermee wordt bedoeld dat de mest in strookjes boven op het gras ligt en dat het gras niet of nauwelijks zijdelings is weggedrukt. Appellante stelt zich op het standpunt dat deze constatering niet juist is. Het gehele perceel is bemest volgens werkresultaat G5. Volgens appellante is dit duidelijk te zien op de foto’s die bij het inspectierapport zijn gevoegd. Bovendien is gebruik gemaakt van een zodenbemester, waarbij de mest in de grond in sleufjes wordt geïnjecteerd. De mest kan bij deze aanwending nooit op het gras worden aangebracht en al het gras wordt hierbij weggedrukt dan wel doorgesneden. Volgens appellante kan hooguit worden gesteld dat het aanwenden van de mest niet netjes is gebeurd – en dat daardoor sprake is van werkresultaat G4 –, voornamelijk op enkele plekken op de kopakker. Dit heeft de heer [naam 4] destijds ook geconstateerd nadat hij hierop door de toezichthouder is gewezen. Hij heeft echter nooit bevestigd, zoals in het proces-verbaal is opgenomen, dat het zou gaan om 2/3 deel van het perceel, aldus appellante. De bij het inspectieverslag gevoegde foto’s geven volgens appellante (ook) geen goed beeld van de situatie ter plaatse. De meeste foto’s zijn genomen van de kopakker – steeds vanuit een andere invalshoek – en zijn gericht op de sporen. Juist op de kopakker is het lastig(er) om netjes te werken, omdat bij het bemesten van het perceel de trekker met zodenbemester steeds op de kopakker draait. De kopakker wordt daardoor nog iets aangereden en de ondergrond wordt harder, waardoor het lastiger wordt om de sleufjes overal even diep te trekken. Voorts wijst appellante erop dat de mest, die rechtstreeks uit een stal komt, niet homogeen van samenstelling is. Het is praktisch onmogelijk om tijdens het uitrijden van de mest rekening te houden met het feit dat er soms dikkere mest tussen zit. Nu het de eerste bemesting van het jaar betreft, is de bodem bovendien harder en de zode niet mooi gesloten. De mest is daardoor ook meer zichtbaar dan bij een bemesting later in het seizoen. Tot slot stelt appellante dat zij de keuze had kunnen maken om de zodenbemester standaard dieper te laten injecteren, maar daaraan kleeft een aantal nadelen. Bij het bemesten wordt de machine ingesteld op basis van de hoeveelheid aan te wenden mest. Uit de bij het inspectieverslag behorende foto’s blijkt dat de instelling van de zodenbemester juist is geweest, aldus appellante. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Het College stelt voorop dat voor het uitrijden van dierlijke mest op het desbetreffende perceel de randvoorwaarde geldt zoals opgenomen in artikel 5, eerste lid, van het Bgm in verbinding met bijlage I bij het Bgm, punt 2, omdat het hier gaat om grasland. Dit betekent dat de mest uitsluitend in de grond in de sleufjes moet worden gebracht. De sleufjes hebben geen grotere breedte dan 5 centimeter.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>In het proces-verbaal van 15 maart 2017 staat dat bij een controle is geconstateerd dat op het desbetreffende perceel weliswaar sleufjes in de grond waren getrokken, maar dat de mest (een groenkleurige substantie) op circa 2/3 deel van het perceel bovenop de sleufjes, op het gras, was aangebracht. Een bestuursorgaan mag in beginsel afgaan op de juistheid van de bevindingen in een op ambtseed of ambtsbelofte opgemaakt en ondertekend proces-verbaal. Indien die bevindingen evenwel gemotiveerd worden betwist, zal moeten worden onderzocht of er, gelet op die betwisting, grond bestaat voor zodanige twijfel aan die bevindingen dat deze niet of niet volledig aan de vaststelling van de overtreding ten grondslag kunnen worden gelegd. In hetgeen appellante heeft aangevoerd ziet het College geen aanleiding om te twijfelen aan de juistheid van de bevindingen van de toezichthouder. De verklaring van de toezichthouder is duidelijk en beschrijft dat de mest (gedeeltelijk) op het gras bovenop de sleufjes lag. Zijn bevindingen worden bevestigd door de foto’s die behoren bij dit proces-verbaal. Dat het hier slechts gaat om een klein en niet representatief deel van het bemeste perceel, te weten de kopakker, heeft appellante niet aannemelijk gemaakt. Het College hecht in dit geval waarde aan de onder 1.4 geciteerde – en in het proces-verbaal opgenomen – verklaring van [naam 4] dat hij met de toezichthouder heeft geconstateerd dat de mest op 2/3 van het perceel, dat een totale oppervlakte van circa 3 ha heeft, niet goed genoeg was ingewerkt. Het beeld dat ter zitting is geschetst over de omstandigheden waaronder deze verklaring is afgelegd, komt niet overeen met hetgeen in het proces-verbaal is opgenomen en doet daaraan niet af. Bovendien heeft verweerder ter zitting verklaard dat de toezichthouder, die de controle heeft uitgevoerd, desgevraagd heeft te kennen gegeven dat hij geen belang erbij heeft om uitsluitend foto’s van de kopakker te maken. De werkwijze van de NVWA houdt immers in, zoals verweerder in het verweerschrift ook heeft toegelicht, dat het werkresultaat van het gehele perceel wordt beoordeeld, waarbij rekening wordt gehouden met de omstandigheid dat het werkresultaat van de kopakker in sommige gevallen minder zal zijn. Het College stelt vast dat de bij het proces-verbaal gevoegde foto’s niet alleen de kopakker(s) betreffen, maar ook een algemeen beeld geven van het perceel. Dat het werkresultaat afhankelijk is van de bodemgesteldheid en de substantie van de mest, zoals appellante ook heeft aangevoerd, ontslaat haar niet van de verplichting om de mest emissiearm uit te rijden. Verweerder merkt in het verweerschrift terecht op dat appellante haar werkwijze aan deze omstandigheden had moeten aanpassen.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Verweerder mocht gelet op het voorgaande uitgaan van de bevindingen zoals neergelegd in het proces-verbaal. Op grond hiervan heeft verweerder terecht geconcludeerd dat appellante dierlijke meststoffen niet emissiearm heeft aangewend en dat zij aldus artikel 5 van het Bgm heeft overtreden. Dat appellante naderhand tot een andere waardering van het werkresultaat is gekomen, doet daaraan niet af. Verweerder was derhalve bevoegd om aan appellante een randvoorwaardenkorting op te leggen op alle door appellante in het jaar 2017 aangevraagde GLB-subsidies. De beroepsgrond van appellante faalt. </para>
+      <para />
+      <para>6 Anders dan appellante heeft betoogd, heeft verweerder zich naar het oordeel van het College terecht op het standpunt gesteld dat sprake is van een opzettelijke niet-naleving. Zoals het College eerder heeft overwogen, onder meer bij uitspraak van 7 april 2017 (ECLI:NL:CBB:2017:122), is, gelet op het arrest van het Hof van Justitie van de Europese Unie (Hof) van 27 februari 2014, C-396/12, Van der Ham (ECLI:EU:C:2014:98), ook sprake van een opzettelijke niet-naleving van randvoorwaarden indien de steunontvanger zich zodanig gedraagt dat hij de mogelijkheid aanvaardt dat zich daardoor een toestand van niet-naleving van de voorschriften inzake randvoorwaarden voordoet. Zoals verweerder in het verweerschrift heeft toegelicht, kon uit het werkresultaat van het uitrijden duidelijk worden opgemaakt dat de mest niet emissiearm werd uitgereden. Door geen (tussentijdse) controle van het werkresultaat uit te voeren heeft appellante de mogelijkheid van een niet-naleving van de voorschriften inzake randvoorwaarden aanvaard. Gezien het voorgaande was verweerder verplicht om op grond van de artikelen 91 en 97 van Verordening 1306/2013 voor de geconstateerde niet-naleving die met opzet is begaan, een randvoorwaardenkorting vast te stellen ter hoogte van, in de regel, 20%. </para>
+      <para />
+      <para>7 Voor wat betreft het standpunt van appellante dat de randvoorwaardenkorting te hoog is in verhouding tot de (omvang van de) overtreding overweegt het College als volgt. Verweerder is op grond van artikel 97, eerste lid, van Verordening 1306/2013, in samenhang met artikel 40 van Verordening 640/2014, gehouden om voor een geconstateerde niet-naleving die met opzet is begaan een randvoorwaardenkorting vast te stellen ter hoogte van 20%. Appellante heeft geen concrete feiten gesteld die aanleiding geven tot verlaging van de door verweerder toegepaste korting van 20% tot 15%, als bedoeld in die bepaling. De omstandigheid dat aan appellante ook een boete is opgelegd, is geen omstandigheid die moet leiden tot verlaging van de randvoorwaardenkorting. Verweerder heeft terecht erop gewezen dat de Europese regelgeving geen ruimte biedt om een randvoorwaardenkorting te matigen op grond van het feit dat er voor hetzelfde feit reeds een boete is opgelegd. </para>
+      <para />
+      <para>8 Voor zover appellante heeft willen stellen dat sprake is van dubbele bestraffing, overweegt het College dat het Hof in bestendige jurisprudentie heeft geoordeeld dat op grond van verordeningen betreffende het gemeenschappelijk landbouwbeleid (GLB) uitgevaardigde sancties niet strafrechtelijk van aard zijn (zie de arresten van 18 november 1987 in de zaak 137/85, Maïzena (ECLI:EU:C:1987:493), 27 oktober 1992 in de zaak C-240/90, Duitsland/Commissie (ECLI:EU:C:1992:408), 11 juli 2002 in de zaak C-210/00, Käserei Champignon Hofmeister (ECLI:EU:C:2002:440) en laatstelijk het arrest van 5 juni 2012 in de zaak C‑489/10, Bonda (ECLI:EU:C:2012:319), in het bijzonder punten 36 tot en met 46). De aan appellante opgelegde randvoorwaardenkorting kan dus niet als strafrechtelijk van aard worden beschouwd, zodat geen sprake is van schending van artikel 5:43 van de Algemene wet bestuursrecht (waarin het ne bis in idem-beginsel is neergelegd) door dubbele bestraffing van dezelfde overtreding. </para>
+      <para />
+      <para>9 Gelet op het voorgaande heeft verweerder terecht een randvoorwaardenkorting van 20% toegepast op de aan appellante voor het jaar 2017 te verlenen rechtstreekse betalingen.</para>
+      <para />
+      <para>10 Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.L. van der Beek, mr. T. Pavićević en mr. D. Brugman, in aanwezigheid van mr. C.E.C.M. van Roosmalen, griffier. De beslissing is in het openbaar uitgesproken op 10 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. H.L. van der Beek	w.g. C.E.C.M. van Roosmalen</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

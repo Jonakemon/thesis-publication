@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:571</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-23T07:59:29</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20/315</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>NJB 2020/2037</rdf:li>
+          <rdf:li>JB 2020/182</rdf:li>
+          <rdf:li>JOM 2020/573</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:571">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:571</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-17T13:19:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:571 College van Beroep voor het bedrijfsleven , 18-08-2020 / 20/315</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:571:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Factuur betreffende kosten herinspectie is besluit in de zin van artikel 1:3 van de Algemene wet bestuursrecht. Bezwaar ingediend na afloop van de bezwaartermijn. Ontbreken rechtsmiddelvoorlichting. Verschoonbare termijnoverschrijding.  Bezwaar ten onrechte niet-ontvankelijk verklaard.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:571:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 20/315</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 18 augustus 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam] , te [plaats] , appellant</bridgehead>
+    <para>(gemachtigde: mr. J.D. van der Heijden),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder, </bridgehead>
+    <para>(gemachtigde: mr. ing. H.D. Strookman).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 5 juli 2017 heeft verweerder aan appellant een last onder bestuursdwang opgelegd vanwege overtreding van de Wet dieren en het Besluit houders van dieren (Bhd). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij factuur van 25 augustus 2017 (de factuur) heeft verweerder de kosten van een herinspectie bij appellant in rekening gebracht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 14 februari 2020 (het bestreden besluit) heeft verweerder het bezwaar van appellant kennelijk niet-ontvankelijk verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellant heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 7 juli 2020. Partijen hebben zich laten vertegenwoordigen door hun gemachtigden.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Bij besluit van 5 juli 2017 heeft verweerder aan appellant een last onder bestuursdwang opgelegd vanwege overtreding van de Wet dieren en het Bhd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Op 24 juli 2017 hebben toezichthouders van de Nederlandse Voedsel- en Warenautoriteit (NVWA) tijdens een herinspectie vastgesteld dat appellant niet heeft voldaan aan de last onder bestuursdwang.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Bij factuur van 25 augustus 2017 heeft verweerder de kosten van de herinspectie bij appellant in rekening gebracht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Bij brief van 1 maart 2018 heeft appellant bezwaar gemaakt tegen de factuur.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>Bij brief van 3 februari 2020 heeft verweerder appellant bericht dat het bezwaarschrift niet tijdig is ingediend. Appellant is verzocht aan te geven wat de reden is voor het niet tijdig indienen van het bezwaarschrift. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <parablock>
+        <para>Bij e-mail van 13 februari 2020 heeft appellant een reactie gegeven op de brief van </para>
+        <para>3 februari 2020. 	</para>
+      </parablock>
+      <para />
+      <para>2. Bij het bestreden besluit heeft verweerder het bezwaar van appellant kennelijk niet-ontvankelijk verklaard. Verweerder heeft aan dit besluit ten grondslag gelegd dat het bezwaar niet tijdig is ingediend. </para>
+      <para />
+      <para>3. Appellant voert primair aan dat de factuur van 25 augustus 2017 niet kan worden aangemerkt als een besluit in de zin van de Algemene wet bestuursrecht (Awb). Appellant voert subsidiair aan dat als de factuur wel een besluit is, het daartegen ingediende bezwaar weliswaar na afloop van de bezwaartermijn is ingediend, maar dat de termijnoverschrijding verschoonbaar is omdat het voor appellant niet duidelijk was dat hij binnen zes weken bezwaar moest maken en de factuur ook niet was voorzien van een rechtsmiddelverwijzing. </para>
+      <para />
+      <para>4. Onder een besluit in de zin van artikel 1:3, eerste lid, van de Awb wordt verstaan een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Het College ziet zich allereerst gesteld voor de vraag of de factuur kan worden aangemerkt als gericht op rechtsgevolg. Naar het oordeel van het College is dit het geval. Bij de factuur is vastgesteld dat een betalingsverplichting bestaat vanwege de herinspectie die is uitgevoerd, waarbij tevens onder de kopjes “omschrijving dienst”, “prijs per eenheid” en “aantal” de omvang van de betalingsverplichting uit hoofde van de artikelen 5 en 6a van de Regeling NVWA-tarieven in concreto is vastgesteld. De factuur van 25 augustus 2017 is daarmee een besluit in de zin van artikel 1:3, eerste lid, van de Awb, bij welk besluit de verplichting tot betaling van een geldsom is vastgesteld (artikel 4:86 van de Awb). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Ingevolge de artikelen 6:7 en 6:8 van de Awb bedraagt de termijn voor het indienen van een bezwaarschrift zes weken en begint deze termijn op de dag na de dag waarop het besluit op de voorgeschreven wijze is bekendgemaakt. In artikel 3:41, eerste lid, van de Awb is bepaald dat de bekendmaking van besluiten die tot een of meer belanghebbenden zijn gericht, geschiedt door toezending of uitreiking aan hen. Artikel 6:9, eerste lid, van de Awb bepaalt vervolgens dat een bezwaarschrift tijdig is ingediend indien het voor het einde van de termijn is ontvangen. Artikel 6:9, tweede lid, van de Awb bepaalt dat bij verzending per post een bezwaarschrift tijdig is ingediend indien het voor het einde van de termijn ter post is bezorgd, mits het niet later dan een week na afloop van de termijn is ontvangen. Het College stelt vast dat appellant bij brief van 1 maart 2018 bezwaar heeft gemaakt tegen de factuur van 25 augustus 2017. Dit betekent dat het bezwaarschrift van appellant is ingediend (ruim) na afloop van de hiervoor omschreven termijn van zes weken voor het indienen van een bezwaarschrift. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Ten aanzien van een na afloop van de termijn ingediend bezwaarschrift blijft ingevolge artikel 6:11 van de Awb niet-ontvankelijkverklaring op grond daarvan achterwege, indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest. Het ontbreken van een rechtsmiddelverwijzing bij een besluit leidt in beginsel tot verschoonbaarheid van de termijnoverschrijding, mits de belanghebbende daarop een beroep doet, stellende dat de termijnoverschrijding daarvan het gevolg is. Dit beginsel lijdt uitzondering indien redelijkerwijs kan worden aangenomen dat de belanghebbende tijdig wist dat hij binnen een bepaalde termijn bezwaar moest maken dan wel beroep of hoger beroep moest instellen. Van bekendheid met de termijn kan in ieder geval worden uitgegaan indien de belanghebbende voor afloop van de termijn reeds werd bijgestaan door een professionele rechtsbijstandverlener. Bij een professionele rechtsbijstandverlener mag kennis omtrent het in te stellen rechtsmiddel en de daarvoor geldende termijn immers worden verondersteld en diens kennis kan in dit verband aan de belanghebbende worden toegerekend. Ook bij ideële en andere organisaties die regelmatig plegen te procederen, mag die kennis worden verondersteld alsook bij burgers die regelmatig procederen. Voor het aannemen van verschoonbaarheid kan evenwel, ook indien de belanghebbende bijstand heeft van een professionele rechtsbijstandverlener, aanleiding bestaan indien gerede twijfel mogelijk is omtrent het besluitkarakter van het door het bestuursorgaan aan die belanghebbende toegezonden stuk (vergelijk de uitspraak van de Afdeling Bestuursrechtspraak van de Raad van State van 21 september 2011 (ECLI:NL:RVS:2011:BT2131). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Het College stelt vast dat uit niets blijkt dat de factuur van 25 augustus 2017 een besluit is, terwijl ook een rechtsmiddelverwijzing ontbreekt. Voor zover verweerder ter zitting naar voren heeft gebracht dat de rechtsmiddelverwijzing standaard wordt opgenomen bij elk besluit en dat de rechtsmiddelverwijzing mogelijk op de niet mee gekopieerde achterzijde van de door appellant overgelegde factuur is opgenomen, overweegt het College dat het in dat geval op de weg verweerder had gelegen de volledige factuur over te leggen, hetgeen niet is geschied. Het College ziet geen aanknopingspunten om aan te nemen dat appellant wist dat hij binnen een bepaalde termijn bezwaar moest maken tegen de factuur. Verder is niet gesteld of gebleken dat appellant voor afloop van de bezwaartermijn reeds werd bijgestaan door een professionele rechtsbijstandverlener. Gelet hierop moet de overschrijding van de termijn voor het maken van bezwaar verschoonbaar worden geacht. Verweerder heeft het bezwaar ten onrechte niet-ontvankelijk verklaard. </para>
+      <para />
+      <para>6. Het beroep tegen het bestreden besluit is gegrond. Het bestreden besluit komt in aanmerking voor vernietiging. Gelet op de aard van het gebrek, namelijk het niet inhoudelijk behandelen van het bezwaar van appellant en daarmee het ontbreken van een heroverweging van het primaire besluit in de zin van artikel 7:11, eerste lid, van de Awb, ziet het College geen aanleiding het geschil finaal te beslechten. Het College zal verweerder opdracht geven om binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit op het bezwaar tegen het primaire besluit te nemen met inachtneming van deze uitspraak. </para>
+      <para />
+      <para>7. Het College zal verweerder veroordelen in de door appellant gemaakte proceskosten. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en een wegingsfactor 1).</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit; </para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op de bezwaren van appellant tegen het besluit van 25 augustus 2017 met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 178,- aan appellant te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van appellant tot een bedrag van </para>
+      </listitem>
+    </itemizedlist>
+    <para>€ 1.050,-.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.L. van der Beek, in aanwezigheid van mr. E. van Kampen, griffier. De beslissing is in het openbaar uitgesproken op 18 augustus 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd					De griffier is verhinderd</para>
+      <para>de uitspraak te ondertekenen.					de uitspraak te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:378</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-18T12:13:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201809699/1/A2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Viditax (FutD), 10-02-2020</rdf:li>
+          <rdf:li>FutD 2020-0481</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:378">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:378</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-05T10:17:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:378 Raad van State , 05-02-2020 / 201809699/1/A2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:378:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 10 november 2017 heeft de Belastingdienst/Toeslagen de huurtoeslag van [appellante] over 2015 definitief berekend en vastgesteld op nihil.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:378:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201809699/1/A2.</para>
+    <para>Datum uitspraak: 5 februari 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellante], wonend te [woonplaats],</para>
+    <para>tegen de uitspraak van de rechtbank Midden-Nederland van 22 oktober 2018 in zaak nr. 18/1174 in het geding tussen:</para>
+    <para>[appellante]</para>
+    <para>en</para>
+    <para>de Belastingdienst/Toeslagen.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 10 november 2017 heeft de Belastingdienst/Toeslagen de huurtoeslag van [appellante] over 2015 definitief berekend en vastgesteld op nihil.</para>
+    <para>Bij besluit van 9 februari 2018 heeft de Belastingdienst/Toeslagen het door [appellante] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 22 oktober 2018 heeft de rechtbank het door [appellante] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft [appellante] hoger beroep ingesteld.</para>
+    <para>De Belastingdienst/Toeslagen heeft een schriftelijke uiteenzetting gegeven.</para>
+    <para>[appellante] en de Belastingdienst/Toeslagen hebben nadere stukken ingediend.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 25 november 2019, waar [appellante] en de Belastingdienst/Toeslagen, vertegenwoordigd door drs. J.G.C. van de Werken en drs. R.E. van Huisstede, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.    [appellante] heeft voorschotten huurtoeslag over 2015 ontvangen. De Belastingdienst/Toeslagen heeft de huurtoeslag over 2015 bij het besluit van 10 november 2017, gehandhaafd bij het besluit van 9 februari 2018, definitief berekend en vastgesteld op nihil. De Belastingdienst/Toeslagen is hiertoe overgegaan omdat [appellante] een fiscaal partnerschap is aangegaan en de fiscale partner een voordeel heeft genoten uit sparen en beleggen. [appellante] is daardoor boven de vermogensgrens voor het toekennen van huurtoeslag gekomen. De Belastingdienst/Toeslagen heeft daarom de teveel betaalde voorschotten ter hoogte van € 4.139,00 inclusief rente teruggevorderd.</para>
+    <para>    Op 16 november 2018 is de definitieve aanslag inkomstenbelasting over 2015 door de inspecteur van de Belastingdienst vastgesteld en hierbij is het voordeel uit sparen en beleggen bepaald op € 0. De Belastingdienst/Toeslagen heeft op grond van deze gegevens de definitieve berekening van de huurtoeslag over 2015 bij besluit van 1 februari 2019 herzien en vastgesteld op € 4.332,00 inclusief rente.</para>
+    <para>Oordeel van de rechtbank</para>
+    <para>2.    De rechtbank heeft geoordeeld dat gelet op artikel 7, derde lid van de Algemene wet inkomensafhankelijke regelingen (hierna: Awir) geen aanspraak bestaat op tegemoetkoming indien bij de belanghebbende over het berekeningsjaar voordeel uit sparen en beleggen als bedoeld in artikel 5.2. van de Wet inkomensbelasting 2001 in aanmerking wordt genomen. Of er sprake is van een voordeel uit sparen en beleggen, wordt vastgesteld aan de hand van de aanslag inkomstenbelasting over dat jaar. Dit inkomen wordt door de inspecteur vastgesteld en de Belastingdienst/Toeslagen is niet gerechtigd hiervan af te wijken. Indien de inkomensgegevens wijzigen voorziet artikel 20 van de Awir in het herzien van de huurtoeslag. Dat het vermogen feitelijk aan de partner van [appellante] toebehoort, speelt hierbij geen rol. De Belastingdienst/Toeslagen heeft het recht op huurtoeslag bij het besluit van 10 november 2017, gehandhaafd bij het besluit van 9 februari 2018, terecht vastgesteld op nihil, aldus de rechtbank.</para>
+    <para>Hoger beroep</para>
+    <para>3.    [appellante] is het niet eens met de uitspraak van de rechtbank en verzoekt om het besluit van 10 november 2017 te vervangen door het besluit van 1 februari 2019. De rechtbank heeft dit ten onrechte niet gedaan, aldus [appellante].</para>
+    <para>    Verder komt [appellante] op tegen het oordeel van de rechtbank over de proceskosten. Zij betoogt dat zij wel recht heeft op een proceskostenvergoeding voor de in beroep gemaakte kosten.</para>
+    <para>    Tot slot verzoekt [appellante] om vergoeding van de door haar gestelde immateriële schade omdat de procedure haar onnodig heeft belast.</para>
+    <para>3.1.    Gezien het betoog van [appellante] over het oordeel van de rechtbank over de proceskosten, heeft zij anders dan de Belastingdienst/Toeslagen naar voren heeft gebracht belang bij een beoordeling van haar hoger beroep.</para>
+    <para>3.2.    De Belastingdienst/Toeslagen heeft bij het besluit van 1 februari 2019 alsnog definitief huurtoeslag over 2015 aan [appellante] toegekend. Anders dan [appellante] betoogt, is hiermee de eerdere definitieve berekening van de huurtoeslag over 2015 aangepast en in de plaats gekomen van het besluit van de Belastingdienst/Toeslagen van 10 november 2017. Van strijd met het beginsel van rechtszekerheid is geen sprake. De hoogte van de huurtoeslag over 2015 is [appellante] bij het besluit van 1 februari 2019 medegedeeld. In deze brief staat ook welk bedrag zij nog van de Belastingdienst/Toeslagen krijgt en dat dit bedrag wordt overgemaakt of wordt verrekend met toeslagen die nog moeten worden terugbetaald.</para>
+    <para>3.3.    Zoals de Afdeling eerder heeft overwogen (uitspraak van 18 november 2015, ECLI:NL:RVS:2015:3498), is de Belastingdienst/Toeslagen verplicht het door de inspecteur vastgestelde verzamelinkomen te volgen. Hierbij is van belang dat indien het verzamelinkomen wordt gewijzigd, de Belastingdienst/Toeslagen op grond van artikel 20, eerste lid, van de Awir verplicht is om de tegemoetkoming met inachtneming van die wijziging te herzien. Dit is in het geval van [appellante] ook daadwerkelijk gebeurd. [appellante] heeft een nieuw besluit ontvangen waarin haar is medegedeeld dat zij alsnog recht heeft op huurtoeslag. Zij heeft hierbij het volledige voorschot ter hoogte van € 3.926,00 en € 406,00 aan rente gekregen. Dit neemt echter niet weg dat het besluit van 10 november 2017 terecht is genomen op grondslag van de toen bekende gegevens. Uit zowel de aangifte van [appellante] als de aanslag inkomstenbelasting 2015 blijkt dat op dat moment voor het berekeningsjaar 2015 moest worden uitgegaan van een voordeel uit sparen en beleggen. Er is dan ook geen sprake van een onrechtmatig besluit en de Belastingdienst/Toeslagen had niet eerder aan [appellante] tegemoet kunnen komen. De rechtbank is dan ook terecht niet overgegaan tot een proceskostenveroordeling.</para>
+    <para>3.4.    [appellante] heeft tevergeefs betoogd dat zij recht heeft op immateriële schadevergoeding. Omdat het beroep en het hoger beroep beide ongegrond zijn, is er geen onrechtmatig besluit en dus ook geen grondslag voor de gevorderde schadevergoeding.</para>
+    <para>Conclusie</para>
+    <para>4.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.</para>
+    <para>5.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para>Aldus vastgesteld door mr. J.A. Hagen, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. R.F.J. Bindels, griffier.</para>
+    <para>w.g. Hagen</para>
+    <para>lid van de enkelvoudige kamer   </para>
+    <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    <para>Uitgesproken in het openbaar op 5 februari 2020</para>
+    <para>85-921.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

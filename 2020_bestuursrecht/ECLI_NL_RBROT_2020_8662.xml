@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:8662</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-01T14:18:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/4864</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:8662">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:8662</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-01T14:16:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:8662 Rechtbank Rotterdam , 29-09-2020 / ROT 20/4864</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:8662:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Voorlopige voorziening. De burgemeester heeft de woning van verzoekster per direct gesloten voor de duur van een maand. Dit vanwege dreiging vanuit de ‘drillrapscene’, waarbij foto’s van verzoeksters dochter en hun adres via social media zijn verspreid. Ook is er een beloning uitgeloofd aan de persoon die de dochter iets aandoet. De voorzieningenrechter vindt dat de burgemeester de woning mocht sluiten. Klare taal.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:8662:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/4864</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 29 september 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoekster] , te [woonplaats verzoekster] , verzoekster,</bridgehead>
+    <para>gemachtigde: mr. D.C.D. Newoor,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Rotterdam, verweerder,</bridgehead>
+    <para>gemachtigden: M.J. Smulders, mr. J.C. Avedissian.</para>
+    <para />
+    <parablock>
+      <para>Als derde-partij is aangemerkt:</para>
+      <para>
+        <emphasis role="bold">Stichting Vestia</emphasis>, te Rotterdam.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft bezwaar gemaakt tegen het noodbevel van verweerder van 8 september 2020 (het noodbevel). In dit noodbevel heeft verweerder besloten dat verzoeksters woning vanaf 8 september 2020 gesloten moet blijven voor de duur van een maand. Dit omdat er ernstige vrees bestaat voor het ontstaan van ernstige wanordelijkheden in of nabij de woning<footnote-ref linkend="_80b1b0b6-6235-487c-b450-c1cd48d5b88a" />. Verzoekster heeft de voorzieningenrechter gevraagd om de woningsluiting op te heffen, in afwachting van de afhandeling van haar bezwaarschrift. Dit wordt een ‘voorlopige voorziening’ genoemd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het verzoek om voorlopige voorziening is besproken op de zitting van 23 september 2020. Hierbij waren aanwezig verzoekster, haar gemachtigde, en de gemachtigden van verweerder.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Verzoekster staat bij de Basisregistratie Personen (BRP) ingeschreven op het adres [adres] . Volgens haar woont zij ook op dit adres, samen met haar dochter [naam 1] (hierna: de dochter). Stichting Vestia is de eigenaar van deze woning.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Spoedeisend belang</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. Een procedure bij de voorzieningenrechter is een spoedprocedure. Deze procedure kan alleen worden gevoerd als er een spoedeisend belang is, waardoor iemand niet kan wachten op een beslissing op zijn bezwaar- of beroepschrift. Als er een spoedeisend belang is, dan zal de voorzieningenrechter de zaak inhoudelijk beoordelen. Als er geen spoedeisend belang is, dan zal het verzoek om die reden worden afgewezen.</para>
+    <para />
+    <para>4. Verweerder vindt dat verzoekster geen spoedeisend belang heeft bij de gevraagde voorziening. De woningsluiting is gebaseerd op een bestuurlijke rapportage van de politie van 8 september 2020. Volgens de politie is het hoogst onwaarschijnlijk dat verzoekster daadwerkelijk op het BRP-adres verblijft. De politie denkt dat alleen de dochter op dit adres woont, samen met haar vriend [naam 2] . Daarnaast blijkt uit de rapportage dat verzoekster deze zomer bij familie in Ridderkerk heeft verbleven. Verweerder vraagt zich af waarom verzoekster nu niet bij familie zou kunnen verblijven, vooral omdat de woning maar voor een maand is gesloten. Verweerder denkt daarom dat verzoekster de mogelijkheid heeft om ergens anders te verblijven, zodat zij niet per se terug hoeft naar het BRP-adres.</para>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Als verzoekster niet woont op het BRP-adres, dan is er inderdaad geen spoedeisend belang om de woningsluiting tijdelijk ongedaan te maken. Verzoekster zou dan terug willen naar een woning waar zij niet daadwerkelijk verblijft. Dit levert geen spoedeisend belang op.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Voor de voorzieningenrechter staat echter niet vast dat verzoekster niet woont op het BRP-adres. Het onderzoek van de politie – zoals dat is vermeld in de bestuurlijke rapportage – was niet gericht op de vraag of verzoekster woont op het BRP-adres. Het onderzoek ging namelijk over vraag of er een dreiging was vanuit de ‘drillrapscene’ rond de woning van verzoekster. In de rapportage wordt ook helemaal niet ingegaan over waarom de politie denkt dat verzoekster niet woont op het BRP-adres.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>De voorzieningenrechter gaat er daarom van uit dat verzoekster woont op het BRP-adres. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>De woning is al sinds 8 september 2020 gesloten. Hierdoor is verzoekster gedwongen om tijdelijk ergens anders te verblijven. Verzoekster heeft tijdens de zitting gezegd dat zij op dit moment bij verschillende mensen verblijft. Hierdoor komt de vraag op of verzoekster een spoedeisend belang heeft om weer naar haar woning terug te gaan. Zij heeft namelijk tijdelijk onderdak gevonden.</para>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter vindt echter dat verzoekster wél een spoedeisend belang heeft bij de gevraagde voorziening. Het hebben van een eigen woning is een groot goed. Het is de plek waar je je thuis voelt en waar al je persoonlijke spullen zijn. Het maakt nogal een verschil of je vrijwillig tijdelijk ergens anders logeert, of dat je van de één op de andere dag gedwongen wordt om je woning te verlaten. Bovendien gaat het nu om een woningsluiting van een maand, maar vooralsnog kan niet worden uitgesloten dat verweerder deze periode wil verlengen als blijkt dat de dreiging nog niet voldoende is weggenomen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>De voorzieningenrechter zal dan ook een stap verder gaan en de zaak inhoudelijk beoordelen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De voorzieningenrechter geeft een voorlopig oordeel</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>6. De voorzieningenrechter kijkt of het bezwaarschrift van verzoekster kans van slagen heeft. Hij geeft daarbij een voorlopig oordeel over deze zaak. Als deze zaak in beroep wordt voorgelegd aan de rechtbank, hoeft de rechtbank het oordeel van de voorzieningenrechter niet per se te volgen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Waar gaat het in deze zaak om?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>7. Uit de rapportage van de politie blijkt dat de vriend van de dochter vaak in de woning van verzoekster verblijft. Hij zou actief zijn in de Amsterdamse ‘drillrapscene’.</para>
+      <para />
+      <para>8. Wat is ‘drillrap’?</para>
+      <para>Bij ‘drillrap’ dagen groepen jongeren (rapgroepen) elkaar uit via social media en andere internetbronnen. In rapvideo's tonen zij met grote regelmaat verschillende soorten wapens, zoals machetes, messen en vuurwapens. Hiermee proberen zij elkaar te intimideren en roepen zij op tot geweld. Dit leidt regelmatig tot fysieke confrontaties, waarbij gebruik wordt gemaakt van (vuur)wapens. Dit fenomeen is ontstaan in de Verenigde Staten en is via Groot-Brittannië overgewaaid naar Nederland. In Groot-Brittannië heeft dit fenomeen al geleid tot enkele tientallen dodelijke slachtoffers en een veelvoud daarvan aan gewonden. In Nederland zijn deze aantallen vooralsnog op een paar handen te tellen. Wel zijn er in Nederland ook al dodelijke slachtoffers gevallen. Zo is op 10 augustus 2020 op de Pier in Scheveningen een 19-jarige Rotterdammer om het leven gekomen vermoedelijk ten gevolge van een uit de hand gelopen onenigheid in de drillrapscene<footnote-ref linkend="_b2d0e0ee-667f-4f9c-bb1c-3e41fd5446a5" />.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <para>Op 3 september 2020 krijgt de politie in Rotterdam het verzoek van de politie in Amsterdam om de woning van verzoekster te doorzoeken. Dit omdat uit onderzoek is gebleken dat er een onenigheid in de drillrapscene zou worden uitgevochten. Ook zou de vriend van de dochter in het bezit zijn van een handvuurwapen en op zoek zijn naar een jongen uit een andere rapgroep om hem neer te schieten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>De politie in Rotterdam heeft op 3 september 2020 verzoeksters woning betreden. In de woning waren aanwezig de dochter, haar vriend en nog een andere man. In de woning zijn een mes en een zaklamp met een taserfunctie aangetroffen. Het mes en de zaklamp zaten in de tas van de dochter. In een kledingkast in de slaapkamer van de dochter is een kogelpatroon gevonden. Verder zijn in een sporttas onder de kapstok een grote dolk en een machete gevonden. Daarnaast is er op straat, onder het balkon van de woning, een vuurwapen aangetroffen. De vriend van de dochter heeft verklaard dat hij deze naar buiten heeft gegooid, toen de politie op de deur bonkte. Daarnaast blijkt dat er in juni en augustus 2020 oproepen op social media zijn gedaan om de dochter en haar vriend tegen betaling neer te steken<footnote-ref linkend="_98170a21-24e2-4c04-8071-baf5d4d68552" />.</para>
+      <para />
+      <para>10. Verweerder heeft naar aanleiding van de rapportage van de politie besloten om de woning te sluiten voor de duur van een maand. Verzoekster is het niet eens met de sluiting. Dit is waar het in deze zaak over gaat.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Wat vindt de voorzieningenrechter van deze zaak?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>11. Verweerder is bevoegd om de woning te sluiten als er sprake is van ernstige vrees voor het ontstaan van ernstige wanordelijkheden. De voorzieningenrechter kan dit criterium slechts terughoudend toetsen<footnote-ref linkend="_b25dc2e6-cb78-40c2-a6d0-8ebe78d92a08" />.</para>
+      <para />
+      <para>12. Uit de bestuurlijke rapportage van de politie komt naar voren dat kort na het overlijden van de jongen op de Pier in Scheveningen meerdere bedreigingen zijn geuit op social media richting de dochter. Volgens de politie wordt er gezegd dat de dochter mogelijk iets te maken zou hebben met het overlijden van deze jongen. Daarbij wordt haar naam genoemd, zijn er foto’s van haar op internet geplaatst en is ook haar adres vermeld. Ook wordt er een ‘beloning’ uitgeloofd aan de persoon die haar iets aandoet. Daarnaast wordt zij op social media gelinkt aan haar vriend, wordt vermeld dat hij vaak bij haar thuis is en wordt hij ook op social media bedreigd naar aanleiding van het incident in Scheveningen. Op zijn social media account staat vervolgens weer een filmpje waarbij de moeder van een andere rapper wordt bedreigd.</para>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter maakt uit de rapportage op dat de dochter en haar vriend deze dreigementen niet heel serieus nemen. Mogelijk komt dit omdat er in de drillrapscene wel vaker dreigementen worden geuit en dit er kennelijk een beetje bij hoort. Het probleem is dat zo’n onenigheid in de drillrapscene gigantisch uit de hand kan lopen, waarbij het recente verleden heeft aangetoond dat er dodelijke slachtoffers kunnen vallen. In dit geval wordt de dochter gelinkt aan een dodelijk slachtoffer, zijn er bij de politie aanwijzingen binnengekomen dat deze onenigheid in de drillrapscene ook daadwerkelijk zou worden uitgevochten en wordt het adres van de dochter (en dus het adres van verzoekster) op social media gedeeld. Met name het delen van verzoeksters adres op social media vindt de voorzieningenrechter erg verontrustend. Daarbij komt dat er tot twee keer toe (in juni en in augustus 2020) wapens zijn aangetroffen in verzoeksters woning. De aanwezigheid van wapens vergroot de kans op een incident met fatale gevolgen.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Dit alles bij elkaar maakt dat verweerder zich op het standpunt heeft kunnen stellen dat er sprake is van ernstige vrees voor het ontstaan van ernstige wanordelijkheden.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Proportionaliteit en subsidiariteit</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. Uit de parlementaire geschiedenis<footnote-ref linkend="_b145e899-cffc-4fac-9ef8-53ce32905f93" /> kan worden afgeleid dat verweerder bij het geven van een noodbevel altijd de beginselen van proportionaliteit en subsidiariteit in acht moet nemen. Met andere woorden, het geven van een noodbevel is pas aan de orde wanneer gewone middelen niet voorhanden of toereikend zijn (subsidiariteit). Verder mogen de genomen maatregelen niet ingrijpender zijn dan nodig om het gevaar te beperken (proportionaliteit). Gelet op de inbreuk die het bestreden besluit maakt op de grondrechten van verzoekster, dient een afweging gemaakt te worden tussen enerzijds de bescherming van het algemeen belang en anderzijds verzoeksters belang bij het weer kunnen betrekken van haar woning.</para>
+      <para />
+      <para>14. Verzoekster heeft aangevoerd dat sluiting van de woning een heel zwaar middel is en dat er voldoende alternatieven zijn, zoals beveiliging van de woning, cameratoezicht of extra surveillance.</para>
+      <para />
+      <para>15. Verweerder heeft tijdens de zitting uitgelegd dat de door verzoekster genoemde alternatieven niet toereikend zijn om de veiligheid te waarborgen. Bij cameratoezicht kan alleen achteraf op camerabeelden worden gezien wie er bij de woning zijn geweest. Als preventieve maatregel biedt dit echter onvoldoende bescherming. Ook extra beveiliging bij de woning of een extra rondje surveillance zijn volgens verweerder onvoldoende om de veiligheid in de buurt van de woning ook daadwerkelijk te kunnen waarborgen. Zo bestaat de mogelijkheid dat eventuele acties richting de woning van verzoekster worden afgestemd op de handelwijze van de politie. </para>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter kan verweerder hierin volgen. Door de woning te sluiten – wat zichtbaar is door een rode sticker die op de deur is geplakt – wordt de aantrekkingskracht van de woning op mensen uit de drillrapscene verminderd. De voorzieningenrechter vindt daarom dat er met de sluiting vooralsnog wordt voldaan aan het beginsel van subsidiariteit.</para>
+      </parablock>
+      <para />
+      <para>16. De voorzieningenrechter begrijpt dat de woningsluiting voor verzoekster grote gevolgen heeft. Het is heel ingrijpend om de veilige en stabiele omgeving van een woning te verliezen en dat geldt in het bijzonder voor de situatie waarin verzoekster zit. Zij heeft niets te maken met de drillrapscene, maar draagt de gevolgen van de keuzes die haar dochter en de vriend van haar dochter hebben gemaakt. De problemen die verzoekster naar voren heeft gebracht, zijn dan ook zeer invoelbaar.</para>
+      <para />
+      <parablock>
+        <para>Gelet op de ernst van de dreiging is de voorzieningenrechter echter van oordeel dat verweerder het algemeen belang heeft kunnen laten prevaleren boven het persoonlijk belang van verzoekster. Om het noodbevel niet ingrijpender te laten zijn dan in de gegeven situatie noodzakelijk is, heeft verweerder ervoor gekozen om de woning slechts voor beperkte duur te sluiten. De voorzieningenrechter vindt dat hiermee vooralsnog is voldaan aan het vereiste van proportionaliteit.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>17. Uit het voorgaande volgt dat in bezwaar het bestreden besluit naar verwachting in stand kan blijven, zodat er op dit moment geen aanleiding is voor het treffen van een voorlopige voorziening.</para>
+      <para />
+      <para>18. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 29 september 2020 door mr. M.I. Blagrove, voorzieningenrechter, in aanwezigheid van E.C. Petrusma, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De voorzieningenrechter is verhinderd de uitspraak te ondertekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+  <footnote id="_80b1b0b6-6235-487c-b450-c1cd48d5b88a" label="1">
+    <para> De woningsluiting is gebaseerd op artikel 175, eerste lid, van de Gemeentewet.</para>
+  </footnote>
+  <footnote id="_b2d0e0ee-667f-4f9c-bb1c-3e41fd5446a5" label="2">
+    <para> Deze informatie komt uit de bestuurlijke rapportage van de politie.</para>
+  </footnote>
+  <footnote id="_98170a21-24e2-4c04-8071-baf5d4d68552" label="3">
+    <para> Deze informatie komt ook uit de bestuurlijke rapportage van de politie.</para>
+  </footnote>
+  <footnote id="_b25dc2e6-cb78-40c2-a6d0-8ebe78d92a08" label="4">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 9 augustus 2006, ECLI:NL:RVS:2006:AY5898.</para>
+  </footnote>
+  <footnote id="_b145e899-cffc-4fac-9ef8-53ce32905f93" label="5">
+    <para> Kamerstukken II, 1985-86, 19403, nr. 3, p. 149-150.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

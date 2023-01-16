@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:8649</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-04T10:11:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-31</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.12871</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8649">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8649</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-04T10:11:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:8649 Rechtbank Den Haag , 31-08-2020 / NL20.12871</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:8649:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Asielaanvraag buiten behandeling gesteld, M35-O formulier, vertalingen niet (tijdig) overgelegd, beroep ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:8649:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL20.12871</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , eiser</bridgehead>
+    <parablock>
+      <para>V-nummer: [#]</para>
+      <para>(gemachtigde: mr. A. Agayev),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>
+      <?linebreak?>Procesverloop <?linebreak?>Bij besluit van 17 juni 2020 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd in de algemene procedure buiten behandeling gesteld. </title>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft bij brief van 6 juli 2020 toestemming gegeven aan de rechtbank om de zaak schriftelijk te behandelen. Eiser heeft deze toestemming op 10 juli 2020 gegeven.</para>
+      <para>De rechtbank heeft bepaald dat het onderzoek ter zitting verder achterwege blijft en uitspraak wordt gedaan op grond van artikel 8:57 van de Algemene wet bestuursrecht (Awb). Vervolgens is het onderzoek gesloten.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para>1. Eiser stelt de Iraanse nationaliteit te hebben en te zijn geboren op [geboortedatum] . Eiser heeft op 8 juni 2020 een ‘kennisgeving tweede of volgende asielaanvraag’ (formulier M35-O) ingediend. Op het formulier M35-O heeft eiser aangegeven dat de reden voor het opnieuw indienen van een asielaanvraag een verandering in zijn geloofsovertuiging was.</para>
+    <para />
+    <para>2. Bij voornemen van 8 juni 2020 is eiser gevraagd binnen een week ontbrekende informatie aan te vullen. Dit betrof een tweede verzoek om informatie als bedoeld in artikel 3.45b Voorschrift Vreemdelingen (Vv). Dat heeft eiser niet gedaan. Eiser heeft bij brief van 12 juni 2020 een zienswijze ingediend.  </para>
+    <para>3. Verweerder heeft zich op het standpunt gesteld dat, onder verwijzing naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 21 februari 2019 (ECLI:NL:RVS:2019:574), eiser zelf het moment van het indienen van de aanvraag heeft kunnen bepalen en dat er reeds voor het indienen van de aanvraag voldoende tijd was om de informatie ter staving van de opvolgende asielaanvraag te verzamelen. In het voornemen is aangegeven dat de aanvraag niet compleet is. Eiser heeft bij de zienswijze wel een aantal vertalingen aangeleverd van de overgelegde stukken, maar niet alle overgelegde stukken zijn vertaald aangeleverd. Het komt voor rekening en risico van eiser dat hij een onvolledige en incomplete opvolgende asielaanvraag heeft ingediend, terwijl in het M35-O formulier duidelijk staat beschreven welke informatie bij de aanvraag dient te worden overgelegd. Ook heeft eiser geen verschoonbare reden gegeven voor het niet tijdig aanvullen van de ontbrekende informatie.  </para>
+    <para>4. Eiser voert aan dat verweerder zijn asielaanvraag ten onrechte niet inhoudelijk heeft behandeld. Hij heeft de meeste stukken alsnog vertaald overgelegd. De stukken die nog niet vertaald waren, heeft eiser in beroep nagezonden op 29 juni 2020. </para>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>De rechtbank stelt voorop dat van een vreemdeling kan worden verwacht dat hij, op het moment dat hij middels het formulier M35-O een herhaalde aanvraag indient, in of bij dat formulier toelicht om welke redenen hij een opvolgende aanvraag indient en dat daarbij zo nodig bewijsmiddelen moeten zijn gevoegd (vergelijk de uitspraak van de Afdeling van 21 februari 2019; ECLI:NL:RVS:2019:574). De toets van de rechtbank is beperkt tot de vraag of verweerder in het bestreden besluit de aanvraag van eiser terecht buiten behandeling heeft gesteld op basis van wat bij hem op dat moment bekend was. Derhalve zal de rechtbank enkel datgene bij haar oordeel betrekken wat eiser tot aan het bestreden besluit heeft aangevoerd. </para>
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De rechtbank gaat uit van de volgende feiten en omstandigheden.  <?linebreak?>Op het M35-O formulier heeft eiser aangegeven dat sprake is van geloofsgroei. Eiser heeft hierop aangegeven dat hij muziek speelt en draait in de kerk De Rank. Eiser stelt dat hij nu kan aantonen bekeerd te zijn. Eiser stelt sinds januari 2020 over deze informatie en nieuwe verklaringen te beschikken. Bij het formulier heeft eiser de volgende informatie overgelegd:  <?linebreak?>- een uitdraai van social media in het Arabisch;<?linebreak?>- een verklaring van Pastor [Pastor] van de kerk De Rank in het Engels;<?linebreak?>- een verklaring van [Lid] , lid van de kerk De Rank in het Nederlands;<?linebreak?>- getuigenissen van een doopdienst op 16 juni 2019 in De Rank in het Nederlands;<?linebreak?>- vier verklaringen in het Arabisch;<?linebreak?>- een inschrijving in de Basisregistratie Personen (BRP).</para>
+      <paragroup>
+        <nr>4.2.1</nr>
+        <para>Naar aanleiding van het voornemen heeft eiser bij de zienswijze van 12 juni 2020 vertalingen van de vier verklaringen en de vertaling van bepaalde passages van de uitdraai van social media overgelegd.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.2.2</nr>
+        <para>In het bestreden besluit heeft verweerder tegengeworpen dat eiser niet alle stukken vertaald heeft aangeleverd. Wat met name ontbreekt is een volledige vertaling van de uitdraai van social media. Gelet daarop wordt de aanvraag buiten behandeling gesteld. In beroep is nu alsnog een aanvullende vertaling van de bij de aanvraag en zienswijze ingediende stukken overgelegd.  </para>
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De bevoegdheid van verweerder om een aanvraag buiten behandeling te stellen wanneer de vreemdeling nalaat om de voor zijn aanvraag van wezenlijk belang zijnde informatie te verstrekken, is geregeld in artikel 30c, eerste lid, aanhef en onder a, van de Vreemdelingenwet 2000 (Vw). Artikel 3.45b, eerste lid, Vv bepaalt dat verweerder een aanvraag buiten behandeling kan stellen als een vreemdeling twee keer heeft nagelaten te antwoorden op verzoeken om informatie te verstrekken over de elementen ter staving van zijn aanvraag. </para>
+      <para />
+      <parablock>
+        <para>Op grond van paragraaf C1/2.8 van de Vreemdelingencirculaire 2000 (zoals dit gold ten tijde van het bestreden besluit) stelt de vreemdeling die een tweede of volgende aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd wil indienen, de IND daarvan conform artikel 3.118b, eerste lid, van het Vreemdelingenbesluit 2000 (Vb) schriftelijk in kennis middels formulier M35-O.</para>
+        <para>Het voornemen geldt als een tweede verzoek om informatie als bedoeld in artikel 3.45b, eerste lid, Vv. De Immigratie en Naturalisatie Dienst (IND) behandelt de aanvraag conform de in artikel 3.118b Vb beschreven procedure, indien de vreemdeling in de zienswijze zijn aanvraag alsnog van de gevraagde informatie voorziet. De aanvraag is compleet indien aan de aanwijzingen in het model M35-O is voldaan. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Uit de uitspraak van de Afdeling van 21 februari 2019 volgt dat verweerder een aanvraag buiten behandeling kan stellen, als de informatie die een vreemdeling heeft verstrekt bij het kennisgevingsformulier onvoldoende is om de asielaanvraag inhoudelijk te behandelen, en een vreemdeling ook naar aanleiding van een later verzoek om informatie, bijvoorbeeld in het voornemen, in gebreke blijft. Verweerder is in een dergelijk geval niet verplicht om een gehoor te houden en handelt niet onzorgvuldig door de aanvraag niet inhoudelijk te behandelen. </para>
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <parablock>
+        <para>De rechtbank overweegt dat eiser bij het indienen van een opvolgende asielaanvraag op het M35-O formulier moet vermelden welke nieuwe documenten of bewijsmiddelen aan de aanvraag ten grondslag liggen en de originelen voorts dient bij te voegen. Onder punt 4 van het M35-O formulier wordt vermeld dat alle buitenlandse documenten en bewijsmiddelen moeten zijn opgesteld in het Nederlands, Engels, Frans of Duits. Als dat niet het geval is, moeten de documenten en bewijsmiddelen worden vertaald door een vertaler die door een rechtbank is beëdigd. Voorts overweegt de rechtbank dat eiser zelf beslist wanneer hij zijn opvolgende asielaanvraag bij verweerder indient (zie de uitspraak van de Afdeling van 28 juni 2018, ECLI:RVS:2018:2098). Eiser had dus met het indienen van de opvolgende asielaanvraag kunnen wachten tot het moment dat hij de beschikking had over de vertalingen van de documenten. Daarnaast heeft verweerder eiser in het voornemen in de gelegenheid gesteld om alsnog de ontbrekende informatie te overleggen. Nu eiser ten tijde van de aanvraag heeft nagelaten zijn aanvraag volledig in te vullen en voldoende te onderbouwen met vertaalde documenten en eiser dit ook in de zienswijze niet voldoende heeft gedaan, heeft verweerder de aanvraag buiten behandeling kunnen stellen. </para>
+        <para>De vertalingen overgelegd in beroep kunnen eiser niet baten. Uit de uitspraak van de Afdeling van 26 maart 2019 (ECLI:NL:RVS:2019:919) blijkt dat alleen kan worden getoetst of verweerder terecht tot buitenbehandelingstelling is overgegaan. Eiser kan altijd een nieuwe asielaanvraag indienen, als hij meent dat hij nu wel in staat is om een complete aanvraag in te dienen. De beroepsgrond slaagt niet.	<?linebreak?></para>
+      </parablock>
+      <para>5. Het beroep is ongegrond.<?linebreak?></para>
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>
+      <?linebreak?>De rechtbank:</para>
+    <para />
+    <parablock>
+      <para>- verklaart het beroep ongegrond.<?linebreak?></para>
+      <para>Deze uitspraak is gedaan door mr. W.B. Klaus, rechter, in aanwezigheid van mr. M.A.J. van Beek, griffier.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De uitspraak is bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking. </para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

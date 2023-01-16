@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:4417</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-23T14:47:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/5660</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:4417">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:4417</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-23T14:46:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:4417 Rechtbank Amsterdam , 07-09-2020 / AMS 19/5660</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:4417:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WIA-beoordeling.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:4417:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <section>
+    <title>RECHTBANK AMSTERDAM</title>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/5660 </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>uitspraak van de enkelvoudige kamer in de zaak tussen</title>
+    <para />
+  </section>
+  <section>
+    <title>
+      [eiser] , te [woonplaats] , eiser</title>
+    <para>(gemachtigde: [naam] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (Uwv), </emphasis>verweerder</para>
+      <para>(gemachtigde: [naam] ).</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Waar gaat de zaak over?</title>
+    <para />
+    <para>1. Op 30 mei 2017 is aan eiser per 4 juni 2016 een loongerelateerde WGA<footnote-ref linkend="_634d7e77-209b-465f-baa8-d629cc71fd28" />-uitkering (WIA<footnote-ref linkend="_f0a86d50-ad50-40eb-abf8-ca7a03066bce" />-uitkering) toegekend naar de klasse van 80-100% arbeidsongeschiktheid. Eiser heeft in de tussenliggende periode echter ook een WW<footnote-ref linkend="_7805e563-e152-4fa8-a299-e5aeb2b875ce" />-uitkering (van 6 juni 2016 tot en met 17 april 2017) en daarna een  ZW<footnote-ref linkend="_99505e76-a446-4a26-8dcc-ec4f19452f10" />-uitkering (van 18 april 2017 tot en met 14 april 2019) ontvangen. Omdat eiser in deze periode dus eigenlijk recht had op een WIA-uitkering heeft hij de WW- en ZW-uitkering ten onrechte ontvangen. Achteraf heeft daarom een verrekening plaatsgevonden met de WIA-uitkering waar hij wel recht op had.</para>
+    <para />
+    <para>2. Op 24 april 2019 heeft het Uwv eiser meegedeeld dat hij een nabetaling van zijn WIA-uitkering zal ontvangen over de periode van 20 mei 2016 tot en met 30 april 2019 van bruto € 3.771,69. In hetzelfde besluit heeft het Uwv eiser meegedeeld dat de hoogte van zijn WIA-uitkering exclusief vakantiegeld vanaf 25 januari 2019 bruto € 980,49 per maand bedraagt. Verder heeft het Uwv eiser op 13 mei 2019 een betaalspecificaties van de WIA-vakantietoeslag toegestuurd over de periode 1 mei 2018 tot en met 30 april 2019.</para>
+    <para />
+    <para>3. Eiser heeft bezwaar gemaakt. Het Uwv heeft eiser op 12 augustus 2019 telefonisch gesproken over zijn bezwaren. Op 19 september 2019 heeft het Uwv het bezwaar van eiser ongegrond verklaard. Eiser heeft daartegen beroep ingesteld. De rechtbank heeft op 28 juli 2020 het beroep op zitting behandeld. Daarbij was alleen de gemachtigde van eiser aanwezig. </para>
+    <para />
+  </section>
+  <section>
+    <title>Wat vindt eiser?</title>
+    <para />
+    <parablock>
+      <para>4.	Volgens eiser klopt de hoogte van zijn maandelijkse WIA-uitkering niet. Ter onderbouwing van dit standpunt verwijst hij naar betaalspecificaties en een besluit van 2 april 2019. Het bedrag van € 892,66 dat netto overblijft, vindt eiser bovendien veel te laag. De hoogte van het WIA-maandloon klopt volgens eiser evenmin. Volgens eiser heeft het Uwv met de onjuiste inkomsten gerekend, namelijk de inkomsten van zijn werkzaamheden voor werkgever [naam] in plaats van de inkomsten vanuit werkgever [naam] . Andere gevolgen hiervan zijn een onjuiste nabetaling en een te laag vastgesteld vakantiegeld. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wat vindt de rechtbank?</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Hoogte WIA-maandloon</emphasis>
+      </para>
+    </parablock>
+    <para>5. Eiser is van mening dat de hoogte van zijn WIA-maandloon niet klopt, omdat het Uwv naar de inkomsten van de onjuiste werkgever heeft gekeken. De hoogte van eisers WIA-maandloon is echter vastgesteld in de beslissing op bezwaar van 2 april 2019. Tegen dit besluit heeft eiser geen beroep ingesteld. De rechtbank is daarom van oordeel dat dit besluit (en daarmee ook de hoogte van het WIA-maandloon) in rechte vaststaat en zij daarom niet kan oordelen over de juistheid van eisers WIA-maandloon per 15 januari 2019.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Hoogte WIA-uitkering</emphasis>
+      </para>
+    </parablock>
+    <para>6. Volgens eiser klopt de hoogte van zijn WIA-uitkering niet. De rechtbank geeft eiser hierin echter geen gelijk. Eisers WIA-maandloon bedraagt € 1.512,71. De WIA-uitkering is 70% van het WIA-maandloon. Dit betekent dat de WIA-uitkering van eiser (inclusief vakantietoeslag) bruto € 1.058,90 bedraagt. De rechtbank leidt uit het dossier af dat het Uwv de maandelijkse uitkering exclusief vakantiegeld uitbetaalt. Dit maakt dat eiser elke maand bruto € 980,49 ontvangt. Op dit bedrag wordt vervolgens nog belasting ingehouden (loonheffing) waardoor de netto uitkering lager is. Het vakantiegeld wordt apart uitbetaald. De rechtbank begrijpt dat de situatie van eiser niet ideaal is en dat hij hiermee moet leven om het randje van het sociaal minimum. Tegelijkertijd kan de rechtbank deze uitleg van het Uwv volgen en ziet zij geen aanknopingspunten voor het standpunt dat de hoogte van de uitkering niet juist is.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Nabetaling</emphasis>
+      </para>
+    </parablock>
+    <para>7. De rechtbank volgt eiser ook niet in zijn standpunt dat de nabetaling niet juist is. In de beslissing op bezwaar van 2 april 2019 heeft het Uwv de hoogte van eisers WIA-uitkering per 15 januari 2019 gewijzigd vastgesteld. Het Uwv heeft in die beslissing ook uitgelegd dat zij in bezwaar niet bevoegd is om de voorafgaande periode te heroverwegen. Deze periode is daarom ter beoordeling voorgelegd aan de primaire afdeling. De primaire afdeling heeft eisers dagloon vervolgens per 20 mei 2016 gewijzigd vastgesteld. Dit heeft geleid tot een nabetaling van bruto € 3.771,69 voor de periode tussen 20 mei 2016 tot en met 30 april 2019. Omdat eiser in de maanden mei 2017 tot en met december 2018 een ZW-uitkering heeft ontvangen, heeft een verrekening plaatsgevonden met zijn WIA-uitkering. Dit maakt dat de betaalspecificatie € 0,00 vermeldt voor de WIA-uitkering in deze maanden. De rechtbank kan de berekeningen en de daarbij behorende uitleg van het Uwv ook op dit punt goed volgen en ziet hier geen onjuistheden in.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Vakantietoeslag </emphasis>
+      </para>
+    </parablock>
+    <para>8. Tot slot vindt eiser de hoogte van zijn vakantietoeslag onjuist. De rechtbank geeft eiser ook op dit punt geen gelijk. Op 13 mei 2019 heeft het Uwv eiser meegedeeld dat zijn vakantietoeslag in de periode van 1 mei 2018 tot 1 mei 2019 bruto € 23,01 bedraagt. Op 17 mei 2019 heeft het Uwv aan eiser meegedeeld dat dit bedrag te laag is en dat zijn vakantiegeld in twee keer wordt uitbetaald. Op 25 mei 2019 is de betaalspecificatie van het resterende vakantiegeld aan eiser verzonden. Feitelijk ontving eiser in deze periode geen WIA-uitkering vanwege de verrekening met de ZW-uitkering. De vakantietoeslag is om die reden lager. Hoewel de rechtbank zich realiseert dat de vakantietoeslag erg weinig is, geeft de door eiser overgelegde informatie onvoldoende aanknopingspunten voor het oordeel dat de vakantietoeslag niet juist is geweest.</para>
+    <para />
+  </section>
+  <section>
+    <title>Conclusie</title>
+    <para />
+    <parablock>
+      <para>9.	Gelet op het voorgaande is het beroep ongegrond. Dit betekent dat eiser geen gelijk krijgt. Voor een proceskostenveroordeling of vergoeding van het door eiser betaalde griffierecht bestaat geen aanleiding. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing </title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.C.S. van Limburg Stirum, rechter, in aanwezigheid van mr. M. Gayir, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>						 rechter</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending hiervan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. </para>
+    <para />
+  </section>
+  <footnote id="_634d7e77-209b-465f-baa8-d629cc71fd28" label="1">
+    <para> WGA: Werkhervatting Gedeeltelijk Arbeidsgeschikten.</para>
+  </footnote>
+  <footnote id="_f0a86d50-ad50-40eb-abf8-ca7a03066bce" label="2">
+    <para> WIA: Wet werk en inkomen naar arbeidsvermogen.</para>
+  </footnote>
+  <footnote id="_7805e563-e152-4fa8-a299-e5aeb2b875ce" label="3">
+    <para> WW: Werkloosheidswet. </para>
+  </footnote>
+  <footnote id="_99505e76-a446-4a26-8dcc-ec4f19452f10" label="4">
+    <para> ZW: Ziektewet. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2273</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-26T11:11:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">UTR  20/380</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2273">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2273</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-26T11:11:05</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2273 Rechtbank Midden-Nederland , 18-06-2020 / UTR  20/380</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2273:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Beroep, bezwaar terecht NO, geen verschoonbare termijnoverschrijding</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2273:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Utrecht</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 20/380</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 18 juni 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">V.O.F. [eiser] , te [vestigingsplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. P. Koorn),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Utrecht, verweerder</bridgehead>
+    <para>(gemachtigde: mr. R.M. Wiersma).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 juli 2019 (het primaire besluit) heeft verweerder het bedrijfspand aan de [adres] te [vestigingsplaats] gesloten voor de duur van twaalf maanden. Tevens heeft verweerder de aan eiser verleende exploitatievergunning en de vergunning op grond van de Drank- en Horecawet ingetrokken. Verweerder heeft aan eiser medegedeeld dat uit de intrekking van de exploitatievergunning voortvloeit dat eiser het horecabedrijf dient te sluiten en gesloten dient te houden. Ook heeft verweerder aan eiser medegedeeld dat voor dit horecabedrijf ter plaatse gedurende een periode van twaalf maanden geen nieuwe exploitatievergunning zal worden verleend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft hiertegen bezwaar gemaakt en de voorzieningenrechter verzocht een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 30 augustus 2019 heeft de voorzieningenrechter het verzoek om een voorlopige voorziening te treffen afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 december 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser niet-ontvankelijk verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting was gepland op 9 april 2020. Naar aanleiding van de sluiting van </para>
+      <para>de rechtbank vanwege de maatregelen die zijn getroffen in verband met het coronavirus is </para>
+      <para>deze zitting komen te vervallen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op 7 mei 2020 door middel van een Skype-beeldverbinding. Eiser heeft zich laten vertegenwoordigen door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en [A] , werkzaam bij verweerder.</para>
+      <para>
+        <emphasis role="bold">Overwegingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para>1. De rechtbank dient de vraag te beantwoorden of verweerder het bezwaar van eiser tegen het primaire besluit terecht niet-ontvankelijk heeft verklaard vanwege overschrijding van de bezwaartermijn. De termijn voor het indienen van het bezwaarschrift ving één dag na 1 juli 2019 aan, dus op 2 juli 2019. De uiterste datum waarop het bezwaarschrift door verweerder ontvangen kan worden is 12 augustus 2019. Verweerder heeft het bezwaarschrift ontvangen op 15 augustus 2019 en daarmee buiten de termijn ontvangen.</para>
+    <para />
+    <para>2. Uit artikel 6:9, eerste lid, van de Algemene wet bestuursrecht (Awb) volgt dat een bezwaarschrift tijdig is ingediend indien het voor het einde van de termijn is ontvangen. Op grond van artikel 6:9, tweede lid, van de Awb, is een bezwaarschrift bij verzending per post tijdig ingediend indien het voor het einde van de termijn ter post is bezorgd, mits het niet later dan een week na afloop van de termijn is ontvangen. Het door eiser ingediende bezwaarschrift is gedateerd op 11 augustus 2019. De poststempel op de enveloppe waarin het bezwaarschrift is verzonden heeft als datum 14 augustus 2019. </para>
+    <para />
+    <para>3. Eiser voert aan dat het bezwaarschrift ten onrechte niet-ontvankelijk is verklaard door verweerder. Eiser stelt zich op het standpunt dat het bezwaarschrift, gedateerd op 11 augustus 2019, op die datum en daarmee tijdig op de post is gedaan. Ter zitting heeft de gemachtigde van eiser nogmaals benadrukt dat de datum waarop hij het bezwaarschrift op de post heeft gedaan 11 augustus 2019 is, omdat hij op die dag met vakantie ging en hij daarna niet meer in staat was het op de post te doen. Dat het poststuk vervolgens is afgestempeld op 14 augustus 2019 sluit volgens eiser niet uit dat het bezwaarschrift op een eerdere datum ter post is bezorgd. Eiser zegt dat hij aannemelijk heeft gemaakt dat het bezwaarschrift ter post is bezorgd vóór de datum van afstempeling door PostNL en verwijst daartoe onder meer naar zijn brief van 11 september 2019. Het is eiser niet te verwijten dat het poststuk enkele dagen in de postkamer is blijven liggen en bovendien is het bezwaarschrift binnen de termijn van een week door verweerder ontvangen.</para>
+    <para />
+    <para>4. De rechtbank overweegt het volgende. Volgens vaste rechtspraak vindt bij een via PostNL verzonden poststuk de in artikel 6:9, tweede lid, van de Awb bedoelde terpostbezorging plaats op het moment waarop een poststuk in een brievenbus van PostNL wordt gedeponeerd dan wel op het moment waarop het op een postvestiging van PostNL wordt aangeboden.<footnote-ref linkend="_c31daed9-1ac5-423c-a9cb-81eb26321489" /></para>
+    <para />
+    <para>5. De omstandigheid dat een poststuk op een bepaalde datum door PostNL is afgestempeld, sluit niet uit dat dit stuk op een eerdere datum ter post is bezorgd. Dat neemt niet weg dat het datumstempel van PostNL veelal het enige vaststaande gegeven is met betrekking tot het tijdstip van terpostbezorging. In verband daarmee moet in gevallen waarin op de enveloppe een leesbaar poststempel is geplaatst, als bewijsrechtelijk uitgangspunt worden genomen dat terpostbezorging heeft plaatsgevonden op de dag waarop het desbetreffende poststuk door PostNL is afgestempeld. Bevat het poststuk een poststempel van PostNL met een datum gelegen na de laatste dag van de termijn, dan is het aan eiser aannemelijk te maken dat het poststuk op een eerdere datum dan het poststempel aangeeft en wel uiterlijk op de laatste dag van de termijn ter post is bezorgd. </para>
+    <para />
+    <para>6. De rechtbank is van oordeel dat eiser geen bewijs heeft aangedragen ter onderbouwing van zijn stelling dat hij het bezwaarschrift op 11 augustus 2019 in een brievenbus van PostNL heeft gedaan. Dat de gemachtigde van eiser het bezwaarschrift op de post heeft gedaan, omdat hij vervolgens met vakantie ging, is onvoldoende om aannemelijk te achten dat het binnen de bezwaartermijn ter post is bezorgd. Het moet er dan ook voor worden gehouden dat het bezwaarschrift op 14 augustus 2019 ter post is bezorgd en dus niet tijdig is ingediend. Niet is gebleken van omstandigheden op grond waarvan eiser redelijkerwijs niet in verzuim is geweest ten aanzien van zijn na afloop van de termijn ingediende bezwaarschrift.</para>
+    <para />
+    <para>7. Verweerder heeft dus terecht het bezwaar niet-ontvankelijk verklaard. Het beroep is daarom ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.M. Reijnierse, rechter, in aanwezigheid van mr. M.M. van Luijk-Salomons, griffier. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier is verhinderd 						rechter</para>
+      <para>de uitspraak te ondertekenen								</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+  </section>
+  <footnote id="_c31daed9-1ac5-423c-a9cb-81eb26321489" label="1">
+    <para> ECLI:NL:RVS:2017:157 en ECLI:NL:RVS:2014:1552</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:106</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-25T14:20:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-24</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1347</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:106">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:106</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-24T09:35:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:106 College van Beroep voor het bedrijfsleven , 25-02-2020 / 18/1347</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:106:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>GLB. Vergroeningsbetaling 2017. Kennelijke fout. Melding over Ecologisch Aandachtsgebied in de Gecombineerde opgave 2017.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:106:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/1347</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 25 februari 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">Maatschap [naam 1] , te [plaats] , appellante</bridgehead>
+    <para>(gemachtigde: mr. A.A. Westers),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder </bridgehead>
+    <para>(gemachtigden: mr. M. van der Zwaard en mr. M.C. Sluimer).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 9 april 2018 (het primaire besluit) heeft verweerder beslist op de aanvraag van appellante om uitbetaling van de betalingsrechten (de basisbetaling), de vergroeningsbetaling en de extra betaling jonge landbouwers voor het jaar 2017 op grond van de Uitvoeringsregeling rechtstreekse betalingen GLB (Uitvoeringsregeling).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 14 juni 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellante ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 22 oktober 2019. Appellante heeft zich laten vertegenwoordigen door haar gemachtigde. Aan de zijde van appellante was tevens aanwezig [naam 2] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij beslissing van 6 november 2019 heeft het College het onderzoek heropend met toepassing van artikel 8:68 van de Algemene wet bestuursrecht en een schriftelijke vraag gesteld aan verweerder.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 19 november 2019 heeft verweerder op de vraag geantwoord. Appellante heeft bij brief van 4 december 2019 hierop gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Geen van de partijen heeft, nadat zij zijn gewezen op hun recht om op een nadere zitting te worden gehoord, binnen de daartoe door het College gestelde termijn van twee weken, verklaard dat zij gebruik wil maken van dit recht. Daarop heeft het College bepaald dat het nadere onderzoek ter zitting achterwege blijft en heeft het College het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Op 15 mei 2017 heeft appellante middels de Gecombineerde opgave 2017 om uitbetaling van de betalingsrechten (de basisbetaling), de vergroeningsbetaling en de extra betaling jonge landbouwers gevraagd. Een van de vergroeningseisen is dat 5% van het bouwland als ecologisch aandachtsgebied (EA) wordt ingezet. Om aan deze eis te voldoen heeft appellante gekozen voor de Algemene lijst en wilde zij het ecologische aandachtsgebied inrichten met vanggewassen. Hiertoe heeft appellante bij perceel 32 als volgteelt Westerwolds raaigras met een oppervlakte van 1,44 ha opgegeven. In de Gecombineerde opgave is onder het kopje “Samenvatting GLB/Betalingsrechten en Vergroeningsbetaling”, onder “Ecologisch aandachtsgebied”, de volgende melding verschenen: “Op basis van de opgegeven percelen voldoet u aan de norm voor EA.”</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Bij het primaire besluit heeft verweerder een bedrag van € 25.631,43 vastgesteld aan basis- en vergroeningsbetaling voor het jaar 2017 en de extra betaling jonge landbouwers. Daarbij heeft verweerder de voor uitbetaling opgegeven oppervlakte van 1,44 ha niet in aanmerking genomen bij het vaststellen van de vergroeningsbetaling, omdat een vanggewas na mais op uitspoelingsgevoelige gronden niet meetelt voor de invulling van het ecologisch aandachtsgebied. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>In bezwaar heeft appellante aangevoerd dat de feitelijke situatie is dat zij niet alleen op perceel 32 vanggewas heeft ingezaaid, maar ook op de percelen 44, 45 en 46. Deze inzaai voldoet ook aan de eisen voor ecologisch aandachtsgebied. Als de percelen 44, 45 en 46 worden meegerekend, wordt ruimschoots voldaan aan de verplichte oppervlakte aan ecologisch aandachtsgebied. De reden waarom appellante bij de percelen 44, 45 en 46 geen vanggewas heeft ingevuld is dat zij hiervoor perceel 32 reeds had opgegeven. In de samenvatting GLB/Betalingsrechten en Vergroeningsbetaling stond dat appellante op basis van de opgegeven percelen voldeed aan de norm voor ecologisch aandachtsgebied. Er is in de applicatie geen melding of signaal verschenen dat een vanggewas na mais op uitspoelingsgevoelige grond niet meetelt als oppervlakte voor het ecologisch aandachtsgebied. In de Gecombineerde opgave 2018 was dit wel het geval. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>In het bestreden besluit heeft verweerder het primaire besluit gehandhaafd, onder de motivering dat perceel 32 niet voldeed voor de invulling van de vergroeningseisen. Verweerder kan de percelen 44, 45 en 46 van appellante niet meenemen voor de invulling van het ecologisch aandachtsgebied, omdat dit verzoek, in het bezwaarschrift, na de uiterste indieningsdatum is ingediend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Appellante is van mening dat bij het doen van de Gecombineerde opgave sprake is geweest van een kennelijke fout. Volgens appellante ligt de oorzaak van het onjuist invullen van het formulier niet bij appellante, maar is de oorzaak gelegen in het formulier zelf, waarin perceel 32 kon worden aangevinkt en werd geaccepteerd als invulling voor het ecologisch aandachtsgebied. Hiermee is volgens appellante sprake van een gebrek aan samenhang tussen de in de opgave opgenomen gegevens, zoals in het Werkdocument van de Europese Commissie over kennelijke fouten omschreven. In dit kader verwijst appellante naar de uitspraak van het College 8 mei 2018 (ECLI:NL:CBB:2018:323). Daarnaast noemt appellante de uitspraak van het College van 9 november 2017 (ECLI:NL:CBB:2017:371), waarin het College overwoog dat ervan mag worden uitgegaan dat appellante een zo groot mogelijk deel van de betalingsrechten wil laten uitbetalen. Appellante is van mening dat verweerder reeds bij een summier onderzoek van de aanvraag had kunnen vaststellen dat deze aanvraag waarschijnlijk geen goede weergave was van wat appellante beoogde aan te vragen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Verweerder stelt dat geen sprake is geweest van een kennelijke fout, omdat de aanvraag van appellante geen tegenstrijdigheden bevat. Volgens verweerder had hij niet zonder meer hoeven te begrijpen dat appellante de intentie had om ook een volgteelt op de percelen 44, 45 en 46 op te geven: de aanvraag van appellante is objectief gezien niet onlogisch of onbegrijpelijk ingevuld nu volgteelt na de teelt van mais in beginsel kan worden ingezet voor de inrichting van ecologisch aandachtsgebied. Verweerder merkt op dat appellante deze percelen ongestraft had kunnen opgeven voor de inrichting van het ecologisch aandachtsgebied en wijst erop dat het de eigen verantwoordelijkheid van appellante is om de opgave volledig en conform de eigen bedoelingen in te vullen. De melding in de Gecombineerde opgave dat appellante op basis van de opgegeven percelen voldeed aan de norm voor ecologisch aandachtsgebied is enkel gebaseerd op de door appellante ingevulde gegevens. De – op zichzelf ten tijde van de beoordeling van de Gecombineerde opgave 2017 van appellante mogelijke – controle of mais op uitspoelingsgevoelige grond is geteeld, is geen controle op samenhang maar een controle op regelingsvoorwaarden. Hiermee wordt niet voldaan aan Werkdocument nr. AGR 49533/2002 van de Europese Commissie (Werkdocument) voor zover daarin is opgenomen dat lidstaten de steunaanvragen computermatig controleren door gegevens te vergelijken met die in dezelfde databank of andere databanken om na te gaan of de gegevens samenhangend zijn. </para>
+      <para />
+      <parablock>
+        <para>3.	Het geschil in beroep spitst zich toe op de vraag of in het geval van appellante sprake is geweest van een kennelijke fout. Het College overweegt als volgt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Uit artikel 43, eerste en tweede lid, van Verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid (Verordening 1307/2013) volgt dat een landbouwer die recht heeft op betaling in het kader van de basisbetalingsregeling klimaat- en milieuvriendelijke landbouwpraktijken in acht dient te nemen, waaronder de aanwezigheid van een ecologisch aandachtsgebied op zijn landbouwareaal. Op grond van artikel 46, tweede lid, aanhef en onder i, van Verordening 1307/2013 beslissen de lidstaten uiterlijk op 1ᵒaugustus 2014 dat arealen met vanggewassen, of door het planten en kiemen van zaden ontstaan plantendek, waarop de wegingsfactoren van lid 3 van dit artikel van toepassing zijn, als ecologisch aandachtsgebied moeten worden beschouwd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Op grond van artikel 17, vijfde lid, van Uitvoeringsverordening (EU) nr. 809/2014 van de Commissie van 17 juli 2014 tot vaststelling van uitvoeringsbepalingen voor Verordening (EU) nr. 1306/2013 (Verordening 809/2014) worden de oppervlakte van elk landbouwperceel en, in voorkomend geval, het type, de omvang en de ligging van de ecologische aandachtsgebieden door de begunstigde ondubbelzinnig geïdentificeerd en opgegeven. Met betrekking tot de vergroeningsbetaling specificeert de begunstigde ook het gebruik van de aangegeven landbouwpercelen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <parablock>
+        <para>In artikel 2.17, eerste lid, aanhef en onder d, van de Uitvoeringsregeling is, voor zover hier van belang, bepaald dat als ecologisch aandachtsgebied wordt beschouwd areaal waarop combinaties van vanggewassen worden geteeld als bedoeld in bijlage 2, onder de voorwaarden die per categorie voor de desbetreffende soorten in deze bijlage zijn vermeld.</para>
+        <para>In artikel 2.17, vierde lid, van de Uitvoeringsregeling is bepaald dat, in afwijking van het eerste lid, aanhef en onderdeel d, areaal waarop na de teelt van mais de verplichting, bedoeld in artikel 8a van het Besluit gebruik meststoffen, van toepassing is niet wordt aangemerkt als ecologisch aandachtsgebied. In artikel 8a, eerste lid, van het Besluit gebruik meststoffen is bepaald dat op zand- en lössgronden na de teelt van mais direct aansluitend een bij ministeriële regeling aangewezen gewas wordt geteeld. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>In artikel 4 van Verordening 809/2014 is, voor zover hier van belang, bepaald dat steunaanvragen en eventuele door de begunstigde verstrekte bewijsstukken te allen tijde na de indiening ervan mogen worden gecorrigeerd en aangepast in geval van kennelijke fouten die door de bevoegde autoriteit worden erkend op basis van een algemene beoordeling van het specifieke geval en mits de begunstigde te goeder trouw heeft gehandeld. De bevoegde autoriteit mag kennelijke fouten slechts erkennen indien deze gemakkelijk kunnen worden geconstateerd bij een administratieve controle van de informatie in de in de eerste alinea bedoelde documenten. De Uniewetgever heeft gelet op de bewoordingen van artikel 4 van Verordening 809/2014 bij het definiëren van het begrip “kennelijke fout” onmiskenbaar aangesloten bij de inhoud van het Werkdocument. Het Werkdocument is op zichzelf niet bindend. Dit neemt niet weg dat, nu het Werkdocument afkomstig is van een gezaghebbende instantie en door verweerder wordt gehanteerd bij de beoordeling of sprake is van een kennelijke fout, het College dit Werkdocument bij de beoordeling van het geschil zal betrekken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Uit het Werkdocument blijkt dat de beslissing of het al dan niet om een kennelijke fout gaat volgens de Europese Commissie afhankelijk is van alle feiten en omstandigheden in elk individueel geval. Daarom moet elk geval afzonderlijk worden onderzocht. Als algemene regel geldt dat een kennelijke fout moet worden ontdekt aan de hand van de gegevens in de steunaanvraag, dat wil zeggen wanneer dergelijke fouten aan het licht komen dankzij een administratieve controle waarbij wordt nagegaan of de tot staving van de aanvraag verstrekte documenten en gegevens (en met name de aanvraagformulieren, de bewijsstukken, verklaringen enzovoort) samenhangend zijn. Wanneer de lidstaten de steunaanvragen computermatig controleren, kan ook door gegevens te vergelijken met gegevens in dezelfde databank of in andere databanken worden nagegaan of deze samenhangend zijn, voor zover de daarin opgeslagen gegevens de steunaanvraagprocedure aanvullen of er integraal deel van uitmaken. Een kennelijke fout kan echter alleen worden aangenomen als de landbouwer zelf de tegenstrijdige informatie heeft verstrekt of als deze namens hem is verstrekt. Het kan daarbij gaan om direct in het oog springende fouten alsmede fouten, die worden waargenomen ten gevolge van een check op de samenhang (tegenstrijdige informatie). Fouten die worden ontdekt door steunaanvragen aan een onafhankelijke databank (bijvoorbeeld een kadaster) te toetsen mogen niet automatisch of stelselmatig als kennelijke fout worden aangemerkt. Toch kan in dergelijke gevallen een erkenning als kennelijke fout niet worden uitgesloten, zelfs wanneer de voor het opsporen van de fout gebruikte informatie niet afkomstig is van de landbouwer zelf. Verder kunnen fouten veroorzaakt door een onjuiste schriftelijke weergave van identiteitsnummers of referenties, die worden waargenomen tijdens een cross-check van de aanvraag met databanken, normaal gesproken worden aangemerkt als kennelijke fouten (zie de uitspraak van het College van 24 april 2018 (ECLI:NL:CBB:2018:129) onder 3.3).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Vast staat dat appellante op basis van de door haar in de Gecombineerde opgave 2017 ingevulde gegevens (waarvan de grondsoorten geen deel uitmaken) zou voldoen aan de norm voor de inrichting van ecologisch aandachtsgebied. Hiermee stemde overeen de melding in de Gecombineerde opgave 2017 dat appellante op basis van de opgegeven percelen voldeed aan de norm voor de inrichting van ecologisch aandachtsgebied. Omdat het echter zand- en lössgronden betrof waarop op grond van artikel 8a van het Besluit gebruik meststoffen na de teelt van mais direct aansluitend een volgteelt ingezaaid moet worden, kon het desbetreffende perceel (32) op grond van artikel 2.17, vierde lid, van de Uitvoeringsregeling niet gebruikt worden voor de inrichting van ecologisch aandachtsgebied. Dit brengt mee dat appellante, nu zij in haar Gecombineerde opgave 2017 geen andere percelen had opgegeven als ecologisch aandachtsgebied, in 2017 niet voldeed aan de norm voor de inrichting van ecologisch aandachtsgebied. Zoals verweerder heeft toegelicht, zijn in het jaar 2018 aanpassingen in zijn systemen gemaakt, waardoor in dezelfde situatie in de Gecombineerde opgave 2018 niet de melding verscheen die in de Gecombineerde opgave 2017 verscheen, maar juist een waarschuwing dat het desbetreffende perceel niet kon worden opgegeven als ecologisch aandachtsgebied. Deze melding in de Gecombineerde opgave 2018 is mogelijk gemaakt door een koppeling van de grondsoortenkaart met het perceelsregister. Deze koppeling bestond nog niet ten tijde van de indiening van de Gecombineerde opgave 2017, maar wel ten tijde van het nemen van het primaire besluit. Door deze cross-check was het voor verweerder eenvoudig te constateren dat het perceel niet kon worden gebruikt voor de inrichting van ecologisch aandachtsgebied. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Desalniettemin is het College van oordeel dat in dit geval het opgeven van enkel perceel 32 als ecologisch aandachtsgebied geen kennelijke fout is. Hiertoe overweegt het College dat de Gecombineerde opgave 2017 van appellante samenhangend en logisch is. Er is geen sprake van tegenstrijdigheden in de verstrekte gegevens die bij een eenvoudige administratieve controle van de aanvraag hadden moeten opvallen en die wezen op een vergissing. Een vergelijking met de situatie in de uitspraak van het College 8 mei 2018 (ECLI:NL:CBB:2018:323) gaat daarom niet op. Dat aangenomen kan worden dat landbouwers in beginsel een zo groot mogelijk deel van hun betalingsrechten willen laten uitbetalen, zoals appellante onder verwijzing naar eerdergenoemde uitspraak van 9 november 2017 heeft opgemerkt, doet niet eraan af dat ook dan moet zijn voldaan aan de vereisten voor een kennelijke fout. Dat is hier niet het geval. Het College is met verweerder van oordeel dat de administratieve controle op samenhang van de aanvraag niet ertoe leidt dat verweerder in het kader van de kennelijke fout gehouden is te controleren of met de opgave aan de in de Uitvoeringsregeling opgenomen vereisten (hier: dat, wil een perceel kunnen worden aangemerkt als ecologisch aandachtsgebied, geen sprake mag zijn van het voorafgaand aan het inzaaien van het vanggewas telen van mais op uitspoelingsgevoelige grond) wordt voldaan, ook al wordt deze controle vergemakkelijkt door een cross-check. Evenmin is verweerder gehouden zich te verdiepen in de motieven van de aanvrager of te beoordelen of een aanvrager door een andere opgave een gunstiger resultaat zou hebben verkregen (zie bijvoorbeeld de uitspraak van het College van 18 augustus 2004 (ECLI:NL:CBB:2004:AR2140)). Hoewel de melding in de Gecombineerde opgave 2017 van appellante, dat zij met de opgave van perceel 32 reeds voldeed aan de vereisten van het ecologisch aandachtsgebied, bij haar voor verwarring kan hebben gezorgd, wordt appellante, als aanvrager van vergroeningsbetaling, geacht op de hoogte te zijn van de toepasselijke wet- en regelgeving. Zij had daarom behoren te weten dat het desbetreffende perceel niet zou worden aangemerkt als ecologisch aandachtsgebied. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Nu geen sprake is van een kennelijke fout, is verweerder terecht bij de beoordeling van de aanvraag om uitbetaling uitgegaan van de Gecombineerde opgave 2017 zoals die voorlag. Verweerder is dus terecht uitgegaan van de opgave van alleen perceel 32 als ecologisch aandachtsgebied en niet ook de percelen 44, 45 en 46 waarvan appellante stelt dat zij deze ook als ecologisch aandachtsgebied had kunnen opgeven.</para>
+      <para />
+      <para>5. Gezien het hiervoor overwogene is het beroep ongegrond.</para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.L. van der Beek, in aanwezigheid van mr. K.K.E. Blom, griffier. De beslissing is in het openbaar uitgesproken op 25 februari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>w.g. H.L. van der Beek	w.g. K.K.E. Blom <?linebreak?></para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

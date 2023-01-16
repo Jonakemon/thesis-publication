@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:1021</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-22T13:31:42</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19/76</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#schadevergoedingsuitspraak">Schadevergoedingsuitspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0004054&amp;g=2020-02-20">Meststoffenwet</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:1021">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:1021</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-21T11:04:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:1021 College van Beroep voor het bedrijfsleven , 22-12-2020 / 19/76</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:1021:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Fosfaatrecht. Verzoek om schadevergoeding niet onderbouwd. Redelijke termijn.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:1021:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 19/76 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 22 december 2020 in de zaak tussen<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam] , te [plaats] , appellant</bridgehead>
+    <para>(gemachtigde: J.A. Rietveld),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. R. Kuiper),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staat der Nederlanden (de minister van Justitie en Veiligheid), de Staat.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 januari 2018 (het primaire besluit) heeft verweerder op grond van artikel 23, derde lid, van de Meststoffenwet (Msw) het fosfaatrecht van appellant vastgesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 8 oktober 2018 (het herzieningsbesluit) heeft verweerder het primaire besluit ingetrokken en het fosfaatrecht van appellant opnieuw vastgesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 december 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellant ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellant heeft beroep ingesteld tegen het bestreden besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 2 april 2020 (het vervangingsbesluit) heeft verweerder het bestreden besluit ingetrokken, het bezwaar van appellant (gedeeltelijk gegrond) verklaard, het herzieningsbesluit herroepen en het fosfaatrecht opnieuw vastgesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellant heeft een reactie ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 12 oktober 2020. Appellant is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>1.	Het College heeft de Staat als partij aangemerkt in verband met het ter zitting door appellant ingediende verzoek om immateriële schadevergoeding wegens overschrijding van de redelijke termijn als bedoeld in artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Relevante bepalingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Ingevolge artikel 23, derde lid, van de Msw stelt de minister het op een bedrijf rustende fosfaatrecht per 1 januari 2018 vast in overeenstemming met de forfaitaire productie van dierlijke meststoffen in een kalenderjaar door melkvee dat op 2 juli 2015 op het bedrijf is gehouden en geregistreerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Ingevolge artikel 1, aanhef, onder kk, van de Msw wordt onder melkvee verstaan </para>
+        <para>1°. melk- en kalfkoeien, te weten koeien (bos taurus) die ten minste éénmaal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden met inbegrip van koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken;</para>
+        <para>2°. jongvee jonger dan 1 jaar voor de melkveehouderij, en vrouwelijke opfokkalveren voor de vleesveehouderij tot 1 jaar en</para>
+        <para>3°. jongvee ouder dan 1 jaar, te weten alle runderen van 1 jaar en ouder inclusief overig vleesvee, maar met uitzondering van roodvleesstieren en fokstieren.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Het recht op eigendom is neergelegd in artikel 1 van het Eerste Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EP). Het verzekert het recht op het ongestoord genot van eigendom, maar tast op geen enkele wijze het recht aan dat een Staat heeft om die wetten toe te passen die hij noodzakelijk oordeelt om het gebruik van eigendom te reguleren in overeenstemming met het algemeen belang. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Feiten</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3.	Appellant exploiteert een jongvee-opfokbedrijf te [plaats] . Op 2 juli 2015 hield hij 6 stuks jongvee jonger dan 1 jaar en 3 stuks jongvee van 1 jaar en ouder.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Besluiten van verweerder</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Verweerder heeft in het primaire besluit het fosfaatrecht van appellant vastgesteld op 20 kg. Hij is er daarbij van uitgegaan dat appellant op 2 juli 2015 2 stuks jongvee in categorie 101 hield. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>In het herzieningsbesluit, dat verweerder in het bestreden besluit heeft gehandhaafd, heeft verweerder het primaire besluit ingetrokken en het fosfaatrecht van appellant vastgesteld op nul kg. Hij is er daarbij van uitgegaan dat appellant op 2 juli 2015 geen jongvee in categorie 101 en categorie 102 hield.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <parablock>
+        <para>In het vervangingsbesluit heeft verweerder het bestreden besluit ingetrokken, het bezwaar van appellant gedeeltelijk gegrond verklaard, het herzieningsbesluit herroepen en het fosfaatrecht van appellant vastgesteld op 85 kg. Hij is er daarbij van uitgegaan dat appellant op 2 juli 2015 2 stuks jongvee in categorie 101 hield en 3 stuks jongvee in categorie 102. Verweerder heeft appellant een proceskostenvergoeding toegekend. </para>
+        <para>
+          <emphasis role="underline">Beroepsgronden</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Het gaat appellant na het vervangingsbesluit alleen nog om de 4 stierkalveren die op de peildatum werden gehouden op het bedrijf van appellant. Hij is het oneens met de uitleg die het College in de uitspraken van 25 juni 2019 (onder meer ECLI:NL:CBB:2019:244) heeft gegeven aan artikel 1, aanhef, onder kk, van de Msw, met betrekking tot mannelijk jongvee jonger dan één jaar. Volgens appellant volgt uit het woord “en” tussen sub 2 en sub 3 van artikel 1, onder kk, van de Msw, dat al het mannelijk jongvee (zowel sub 2 als 3) onder de definitie van melkvee valt, ongeacht of het bestemd is voor de melkveehouderij, met uitzondering van de in de laatste zinsnede sub 3 genoemde roodvleesstieren en fokstieren. Appellant beroept zich in dit verband ook op het gelijkheidsbeginsel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Appellant verzoekt verder om een schadevergoeding omdat hij in 2018 en 2019 fosfaatrechten heeft moeten huren voor eenzelfde bedrijfsvoering als in 2015. De schade bedraagt volgens appellant over 2018 € 3.400,- (85 kg x € 40,-) en over 2019 € 2.975,- (85 x € 35,-), in totaal € 6.375,-. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Appellant heeft aangevoerd dat de redelijke termijn voor de behandeling van de zaak is overschreden.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Standpunt van verweerder </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Verweerder heeft gewezen op de uitspraken van het College van 25 juni 2019. Appellant heeft niet betwist dat de 4 stierkalveren in kwestie niet werden gehouden voor de melkveehouderij, zoals bedoeld in sub 2 van artikel 1, onder kk, van de Msw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Verweerder is van mening dat hij er niet toe is gehouden om schade als gevolg van het bestreden besluit aan appellant te vergoeden. Gelet op wat appellant heeft gesteld, heeft hij blijkbaar tot op heden nog geen fosfaatrechten gehuurd/geleased. Als appellant fosfaatrechten had geleased had, had hij dit bij verweerder moeten melden. Daarvan is niet gebleken. Het is niet mogelijk om fosfaatrechten achteraf te leasen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beoordeling </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>7.	Appellant heeft ter zitting zijn beroepsgrond tegen het niet meetellen van de 4 stierkalveren laten vallen. Gelet daarop is het beroep tegen het vervangingsbesluit ongegrond. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Gelet op het bepaalde in artikel 6:19 van de Algemene wet bestuursrecht (Awb) heeft het beroep tegen het bestreden besluit mede betrekking op het vervangingsbesluit. Weliswaar is het bestreden besluit vervangen door het vervangingsbesluit maar appellant heeft nog belang bij een beoordeling daarvan omdat hij stelt dat hij als gevolg daarvan schade heeft geleden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Verweerder heeft in het vervangingsbesluit verwezen naar de uitspraak van het College van 16 april 2019 (ECLI:NL:CBB:2019:141). Daarin heeft het College geoordeeld dat uit de tekst van de wet, noch uit de wetsgeschiedenis kan worden afgeleid dat de wetgever heeft beoogd ruimte te scheppen voor een nadere invulling van de term “melkvee” bij (wetsinterpreterende) beleidsregel. Bij de toekenning van fosfaatrechten is dus de tekst van de wettelijke definitie van “melkvee” bepalend. Verweerder heeft erkend dat hij, gelet op die uitspraak, in het herzieningsbesluit, dat hij in het bestreden besluit heeft gehandhaafd, ten onrechte geen fosfaatrecht heeft toegekend voor het vrouwelijke jongvee dat op 2 juli 2015 op het bedrijf van appellant aanwezig was. Het beroep tegen het bestreden besluit is gelet daarop gegrond. Het bestreden besluit is onrechtmatig.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>Appellant heeft in zijn beroepschrift zijn verzoek om schadevergoeding onderbouwd door te stellen dat hij fosfaatrechten heeft moeten huren. Ter zitting heeft hij echter erkend dat hij in 2018 en 2019 enkel stieren heeft gehouden, waarvoor geen fosfaatrechten nodig zijn en dat hij in 2018 en 2019 geen fosfaatrechten heeft gehuurd/geleased. Gelet daarop heeft appellant de door hem gestelde geleden schade niet onderbouwd en zal het College het verzoek om schadevergoeding afwijzen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.4</nr>
+      <para>Het College stelt vervolgens vast dat de redelijke termijn als bedoeld in artikel 6 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden is verstreken. Het gaat hier om niet-punitieve procedures die volgen op primaire besluiten die zijn bekend gemaakt na 1 februari 2014. In dat geval geldt als uitgangspunt dat de bezwaar- en beroepsfase tezamen niet langer mogen duren dan twee jaar. Daarbij mag de behandeling van het bezwaar ten hoogste een half jaar en de behandeling van het beroep ten hoogste anderhalf jaar duren. Dit behoudens factoren die onder omstandigheden aanleiding kunnen geven overschrijding van deze behandelingsduren gerechtvaardigd te achten. Verweerder heeft het bezwaarschrift op 23 februari 2018 ontvangen. Op het moment van het doen van deze uitspraak is de tweejaartermijn met ruim 10 maanden overschreden. Van factoren die onder omstandigheden aanleiding kunnen geven overschrijding van deze behandelingsduur gerechtvaardigd te achten is geen sprake. Uitgangspunt voor vergoeding van immateriële schade is een tarief van € 500,- per half jaar dat de redelijke termijn is overschreden, waarbij het totaal van de overschrijding naar boven wordt afgerond. Appellant heeft daarom recht op € 1.000,- schadevergoeding. Het College stelt vast dat de behandeling van het bezwaar meer dan een half in beslag heeft genomen en dat de behandeling van het beroep meer dan anderhalf jaar heeft geduurd. De overschrijding van de redelijke termijn is dus zowel aan verweerder als aan het College toe te rekenen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.5</nr>
+      <para>Voor de berekening van het bedrag aan schadevergoeding dat voor rekening komt van verweerder en van de Staat wordt de methode gevolgd die is uiteengezet in het arrest van de Hoge Raad van 19 februari 2016 (ECLI:NL:HR:2016:252) en ook volgt uit de uitspraak van het College van 7 januari 2020 (ECLI:NL:CBB:2020:1). Van de overschrijding is na afronden een periode van 4 maanden toe te rekenen aan de bezwaarfase. Dit betekent dat een deel van de overschrijding van de redelijke termijn – 4 maanden – voor rekening van verweerder komt en het resterende deel – 6 maanden – voor rekening van de Staat. Het College zal daarom op de voet van artikel 8:88 van de Awb verweerder veroordelen tot betaling van een bedrag van € 400,- (4/10 x € 1.000,-) aan appellant en de Staat veroordelen tot betaling van een bedrag van € 600,- (6/10 x € 1.000,-) aan appellant.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Slotsom </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <para>Het beroep tegen het vervangingsbesluit is ongegrond. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <para>Het beroep tegen het bestreden besluit is gegrond. Voor een vernietiging van het bestreden besluit en herroeping van het herzieningsbesluit bestaat geen aanleiding omdat verweerder het bestreden besluit bij het vervangingsbesluit al heeft ingetrokken en daarbij ook het herzieningsbesluit heeft herroepen.</para>
+    </paragroup>
+    <paragroup>
+      <nr>9.3</nr>
+      <para>Omdat verweerder het bestreden besluit heeft ingetrokken en heeft vervangen door het vervangingsbesluit, ziet het College aanleiding te bepalen dat verweerder het door appellant betaalde griffierecht vergoedt en verweerder te veroordelen in de proceskosten van appellant in beroep. Deze kosten worden op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vastgesteld op € 1.312,50 (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, 0,5 punt voor het indienen van een nadere reactie, met een waarde per punt van € 525,- en een wegingsfactor 1). </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep tegen het bestreden besluit gegrond;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep tegen het vervangingsbesluit ongegrond;</para>
+      </listitem>
+    </itemizedlist>
+    <para>- veroordeelt verweerder tot betaling aan appellant van een schadevergoeding van € 400,-;</para>
+    <para>- veroordeelt de Staat tot betaling aan appellant van een schadevergoeding van € 600,-;</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>bepaalt dat verweerder het betaalde griffierecht van € 174,- aan appellant dient te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van appellant tot een bedrag van € 1.312,50.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.W.C.M. van Emmerik, in aanwezigheid van mr. M.A.A. Traousis, griffier. De beslissing is in het openbaar uitgesproken op 22 december 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd	De griffier is verhinderd</para>
+      <para>de uitspraak te ondertekenen.	de uitspraak te ondertekenen.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

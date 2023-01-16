@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:381</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-03T00:03:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/279, 18/280, 18/563</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2018:374" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#overig">Eerste aanleg: ECLI:NL:RBROT:2018:374, Overig</dcterms:relation>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2018:375" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#overig">Eerste aanleg: ECLI:NL:RBROT:2018:375, Overig</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:381">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:381</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-02T11:48:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:381 College van Beroep voor het bedrijfsleven , 02-06-2020 / 18/279, 18/280, 18/563</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:381:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Door ACM is aan PostNL een last onder dwangsom opgelegd wegens overtreding van het discriminatieverbod in artikel 9, eerste lid, van de Postwet 2009. </para>
+        <para>In deze procedure staat centraal de voorwaarde uniform afzenderadres die PostNL haar klanten stelt om in aanmerking te komen voor partijvolumekorting. In de uitspraak van 8 november 2016 (ECLI:NL:CBB:2016:311) is overwogen dat het hanteren van de voorwaarde uniform afzenderadres mogelijk (indirecte) discriminatie oplevert. Naar aanleiding van deze uitspraak heeft ACM aanvullend onderzocht of de bewerkelijkheid van het verwerken van gemengde partijen post met meerdere afzenders een rechtvaardiging biedt voor het verschil in behandeling door PostNL tussen zakelijke klanten en postvervoerders. Het College komt tot het oordeel dat de conclusie van ACM in het bewerkelijkheidsonderzoek is gebaseerd op een te beperkte onderzoeksvraag en dat het onderzoek wat betreft representativiteit en steekproefgrootte tekortschiet. Er is onvoldoende bewijs voor de overtreding.</para>
+      </parablock>
+      <para />
+      <para />
+      <para>Art 9, lid 1, Postwet 2009.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:381:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummers: 18/279, 18/280 en 18/563</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 2 juni 2020 op het hoger beroep van:<?linebreak?></bridgehead>
+    <bridgehead role="bold">Koninklijke Post NL B.V., te Den Haag (PostNL), appellante </bridgehead>
+    <bridgehead role="bold">(gemachtigden: mr. M.J. Geus, mr. D.P. Kuipers en mr. P.M. Waszink),</bridgehead>
+    <para />
+    <parablock>
+      <para>tegen de uitspraken van de rechtbank Rotterdam van 25 januari 2018, kenmerk ROT 16/1378 respectievelijk ROT 16/1337 en ROT 16/3406, in de gedingen tussen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">PostNL en Autoriteit Consument en Markt (ACM) </bridgehead>
+    <para>(gemachtigden: mr. W.T. Algera en mr. A. Mearadji).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>PostNL heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam (rechtbank) van 25 januari 2018 met kenmerk ROT 16/1378 (ECLI:NL:RBROT:2018:374). Dit hoger beroep is bij het College geregistreerd onder zaaknummer 18/279.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>ACM heeft incidenteel hoger beroep ingesteld tegen deze uitspraak. Dit hoger beroep is bij het College geregistreerd onder zaaknummer 18/563.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>PostNL heeft tevens hoger beroep ingesteld tegen de uitspraak van de rechtbank van 25 januari 2018 met kenmerk ROT 16/1337 en ROT 16/3406 (ECLI:NL:RBROT:2018:375). Dit hoger beroep is bij het College geregistreerd onder zaaknummer 18/280.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>PostNL en ACM hebben een reactie op elkaars hogerberoepschriften ingediend en overigens schriftelijk gereageerd op de wederzijdse standpunten en de wijze van behandeling van de zaken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Over een aantal stukken die ACM verplicht is over te leggen, heeft zij meegedeeld dat uitsluitend het College daarvan kennis zal mogen nemen. Bij beslissingen van 18 november 2019 en 14 januari 2020 heeft het College de gevraagde beperking van de kennisneming deels gerechtvaardigd geacht. Stukken waarvan het College heeft geoordeeld dat beperking van de kennisneming niet gerechtvaardigd is, heeft ACM alsnog overgelegd. PostNL heeft het College toestemming verleend om uitspraak te doen mede op grondslag van de stukken waarvan het College beperking van de kennisneming gerechtvaardigd acht.<?linebreak?></para>
+      <para>Op 9 september 2019 heeft een regiezitting plaatsgevonden, waarbij de gemachtigden van partijen aanwezig waren. Het onderzoek ter zitting heeft plaatsgevonden op 10 februari 2020. PostNL heeft zich laten vertegenwoordigen door haar gemachtigden, bijgestaan door drs. M. Visser. ACM heeft zich laten vertegenwoordigen door haar gemachtigden, bijgestaan door drs. P.J. Hoogendoorn, ir. G.C. Boogert en drs. R. Knoop.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Voor een uitgebreide weergave van het verloop van de procedure, het wettelijk kader en de in dit geding van belang zijnde feiten en omstandigheden, voor zover niet bestreden, verwijst het College naar de aangevallen uitspraken. Het College volstaat met het volgende.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Last onder dwangsom</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>PostNL biedt haar zakelijke klanten, waaronder postvervoerders, kortingen aan voor in partijen aangeleverde post. Voor partijen met poststukken van verschillende formaten, gewichten en verpakkingen biedt zij de dienst Partijenpost Gemengd (PPG) aan. Voor deze dienst hanteert PostNL een minimumtarief van € 22. Bij grotere partijen wordt een korting verleend, die stijgt met de grootte van de aangeleverde partij. Hierbij hanteert PostNL de grenzen (staffels) van 250, 1.000, 2.500 en 5.000 stuks. Een voorwaarde voor de dienst PPG is dat alle poststukken in de partij hetzelfde afzenderadres hebben: de voorwaarde uniform afzenderadres. Hiernaast heeft PostNL de dienst Diverse Afzenders (DivA) geïntroduceerd. Dit is een dienst voor gemengde postzendingen met diverse afzenderadressen in één partij. Voor de dienst DivA gold naast een aantal aanvullende productvoorwaarden een opslag van 15% ten opzichte van de tarieven voor de dienst PPG. Teneinde aan de voorwaarde uniform afzenderadres te voldoen, voegden postvervoerders op de door hen aangeleverde stukken hun eigen afzenderadres toe. In reactie hierop heeft PostNL een “toeslag afwijkende vormgeving” ingevoerd. In dit verband is met name van belang dat voor poststukken met meer dan één afzenderadres een toeslag van € 0,10 per poststuk in rekening werd gebracht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Naar aanleiding van de aankondiging van deze aanpassingen van tarieven en voorwaarden hebben de postvervoerders Van Straaten Post (VSP) en Intrapost (IP) ACM verzocht om handhavend op te treden tegen PostNL. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>ACM heeft vervolgens op 9 december 2014 een onaangekondigd bedrijfsbezoek gebracht aan het postsorteercentrum van PostNL in Nieuwegein en daar onderzoek gedaan naar de wijze waarop en de staat waarin partijenpost door postvervoerders werd aangeleverd en de verwerking daarvan door PostNL. Op basis hiervan heeft ACM vastgesteld dat postvervoerders poststukken van verschillende klanten verzamelen en bundelen tot grotere partijen en dat daardoor in de door postvervoerders aangeleverde partijenpost in het algemeen per partij meerdere afzenderadressen aanwezig zijn. Daardoor vallen deze partijen onder de dienst DivA. ACM heeft geconstateerd dat het nagenoeg alleen postvervoerbedrijven zijn die partijen aanbieden met meerdere afzenderadressen, zodat de 15% duurdere dienst DivA naar haar aard hoofdzakelijk postvervoerbedrijven treft. Verder maakt het volgens ACM voor de bewerkelijkheid van partijenpost niet uit of de poststukken in de partijen dezelfde of verschillende afzenderadressen hebben. De bewerkelijkheid van een partij post is veeleer afhankelijk van de wijze waarop de partij wordt aangeleverd. Daarnaast heeft ACM geconstateerd dat ook de toeslag afwijkende vormgeving, voor zover deze ziet op het aanwezig zijn van meer dan één afzenderadres, naar zijn aard hoofdzakelijk postvervoerders treft en dat de herkomst van een bepaald poststuk voor de bewerkelijkheid niet relevant is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <parablock>
+        <para>ACM heeft zich op het standpunt gesteld dat de dienst DivA en de daaraan gekoppelde opslag van 15% discriminatoir is ten opzichte van postvervoerbedrijven, terwijl die niet wordt gerechtvaardigd door een significant bewerkelijkheidsverschil. Ook met betrekking tot de toeslag afwijkende vormgeving heeft ACM zich op het standpunt gesteld dat deze discriminatoir is ten opzichte van postvervoerbedrijven, terwijl dit verschil evenmin wordt gerechtvaardigd door een significant bewerkelijkheidsverschil. Omdat PostNL daarmee het discriminatieverbod in artikel 9, eerste lid, van de Postwet 2009 overtreedt, heeft ACM PostNL op 1 mei 2015 een last onder dwangsom opgelegd (last 2015). </para>
+        <para>Naar aanleiding van het door PostNL gemaakte bezwaar heeft ACM bij besluit van 18 januari 2016 de last aangepast (besluit op bezwaar 1) en PostNL  voor zover hier van belang  onder oplegging van een dwangsom gelast:</para>
+      </parablock>
+      <orderedlist numeration="lowerroman">
+        <listitem>
+          <para>af te zien van het in rekening brengen van een toeslag in verband met de aanwezigheid van meerdere afzenderadressen op door postvervoerbedrijven bij PostNL aangeleverde poststukken in het kader van door hen afgenomen partijenpostdiensten;</para>
+        </listitem>
+        <listitem>
+          <para>bij het verlenen van partijenpostdiensten aan andere postvervoerbedrijven geen onderscheid te maken op basis van het criterium dat een aangeleverde partij post al dan niet bestaat uit poststukken van verschillende afzenderadressen;</para>
+        </listitem>
+        <listitem>
+          <para>[...]</para>
+        </listitem>
+        <listitem>
+          <para>de door haar gehanteerde, op het afnemen van partijenpostdiensten van toepassing zijnde voorwaarden en voorschriften overeenkomstig het onder i en ii gestelde aan te passen;</para>
+        </listitem>
+        <listitem>
+          <para>[...].</para>
+        </listitem>
+      </orderedlist>
+      <para />
+      <parablock>
+        <para>Onderdeel i. van de last heeft betrekking op de genoemde toeslag van € 0,10 en onderdeel ii. op de voorwaarde uniform afzenderadres.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <para>Het College heeft op 8 november 2016 (ECLI:NL:CBB:2016:311) uitspraak gedaan op het hoger beroep van PostNL tegen de uitspraak van de rechtbank Rotterdam over een in 2013 door ACM opgelegde last onder dwangsom in verband met het hanteren van de voorwaarde uniform afzenderadres (UA-uitspraak). Naar het oordeel van het College levert het stellen van de voorwaarde uniform afzenderadres mogelijk (indirecte) discriminatie op, maar had ACM aan haar besluit onvoldoende onderzoek ten grondslag gelegd naar de door PostNL aangevoerde rechtvaardigingsgronden. Met name had ACM geen onderzoek gedaan naar de relevantie van het arrest van het Hof van Justitie van de Europese Unie (Hof) van 11 februari 2015 in de zaak C-340/13, ECLI:EU:C:2015:77 (het bpost-arrest) en niet gericht onderzocht of de bewerkelijkheid van het verwerken van de gevoegde partijen post met een verschillend afzenderadres een rechtvaardiging biedt voor het verschil in behandeling door PostNL van verschillende klanten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7</nr>
+      <para>Naar aanleiding van de UA-uitspraak heeft ACM in de loop van de beroepsprocedure bij de rechtbank over de last 2015 nader onderzoek gedaan naar de door PostNL ook in deze procedure gestelde toepasselijkheid van het bpost-arrest alsmede naar de bewerkelijkheid van het verwerken van partijenpost. Dit heeft ertoe geleid dat ACM bij besluit van 15 mei 2017 het besluit op bezwaar 1 heeft ingetrokken en vervangen door een opnieuw gemotiveerd, maar uiteindelijk gelijkluidend, besluit op bezwaar (besluit op bezwaar 2). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8</nr>
+      <para>PostNL heeft hiertegen beroep ingesteld bij de rechtbank. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9</nr>
+      <para>De rechtbank heeft het beroep van PostNL tegen het besluit op bezwaar 1 niet‑ontvankelijk verklaard, het beroep tegen het besluit op bezwaar 2 ongegrond verklaard en PostNL een (beperkte) proceskostenvergoeding toegekend. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10</nr>
+      <para>PostNL heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank. Volgens PostNL heeft de rechtbank ten onrechte overwogen dat de dienst DivA een discriminatoire uitwerking heeft en het beroep van PostNL op het bpost-arrest en de extra bewerkelijkheid ongegrond verklaard. Ook is de rechtbank ten onrechte niet of nauwelijks ingegaan op de door haar aangevoerde beroepsgronden over de toeslag, het ontbreken van een proportionaliteitstoets en belangenafweging, strijd met het verbod op détournement de pouvoir en strijd met artikel 1 Eerste Protocol EVRM. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.11</nr>
+      <para>ACM heeft (voorwaardelijk) incidenteel hoger beroep ingesteld tegen de uitspraak van de rechtbank. De rechtbank had in lijn met het verweer van ACM geoordeeld dat in het concrete geval een beroep op het bpost-arrest niet opging omdat de partijgroottekorting van de dienst PPG geen kwantumkorting is waarmee de vraag wordt aangewakkerd als bedoeld in het bpost-arrest. Het incidenteel hoger beroep van ACM richt zich echter tegen het uitgangspunt van de rechtbank dat het bpost-arrest op zich wel van toepassing is op de problematiek waarop artikel 9 van de Postwet ziet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Openbaarmaking</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>1.12</nr>
+      <para>Bij besluit van 21 juli 2015 heeft ACM besloten een geschoonde versie van de last 2015 openbaar te maken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.13</nr>
+      <para>Bij besluit van 18 januari 2016 heeft ACM het daartegen gerichte bezwaar van PostNL gedeeltelijk gegrond verklaard, het besluit van 21 juli 2015 deels herroepen, het primaire besluit voor het overige gehandhaafd en PostNL een bedrag van € 490,- vergoed voor de kosten die verband houden met door een derde beroepsmatig verleende rechtsbijstand. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.14</nr>
+      <para>Bij besluit van 2 februari 2016 heeft ACM besloten tot openbaarmaking van een geschoonde versie van het besluit van 18 januari 2016 (hiervoor al aangeduid als besluit op bezwaar 1). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.15</nr>
+      <para>Bij besluit van 7 juli 2017 heeft ACM het besluit van 2 februari 2016 ingetrokken en besloten tot openbaarmaking van een geschoonde versie van het besluit van 15 mei 2017 (hiervoor al aangeduid als besluit op bezwaar 2). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.16</nr>
+      <para>De rechtbank heeft het beroep tegen het besluit van 18 januari 2016 ongegrond verklaard, het beroep tegen het besluit van 2 februari 2016 niet-ontvankelijk verklaard en het beroep tegen het besluit van 7 juli 2017 gegrond verklaard, dit besluit vernietigd en bepaald dat ACM het besluit van 15 mei 2017 openbaar kan maken na de door ACM voorgestelde aanpassingen en op de wijze zoals in de rechtbankuitspraak omschreven.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.17</nr>
+      <para>PostNL heeft ook hoger beroep ingesteld tegen deze uitspraak van de rechtbank. Volgens PostNL zijn vanwege de, door haar ook in hoger beroep gestelde, onrechtmatigheid van de onderliggende besluiten ook de openbaarmakingsbesluiten onrechtmatig. Verder betoogt PostNL dat de rechtbank ten onrechte heeft overwogen dat de beslissing tot openbaarmaking van een beslissing op bezwaar onderdeel is van die beslissing op bezwaar. Ook meent PostNL dat, anders dan de rechtbank heeft overwogen, artikel 12v van de Instellingswet niet dwingend voorschrijft dat ACM (zonder enige belangenafweging) gehouden is om sanctiebesluiten te publiceren, althans niet voordat de onderliggende overtreding onherroepelijk vast staat. Tot slot heeft PostNL betoogd dat de rechtbank ten onrechte diverse vertrouwelijkheidsclaims heeft verworpen.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Artikel 9, eerste lid, eerste volzin, van de Postwet, dat deel uit maakte van hoofdstuk 3 “Onderlinge dienstverlening”, bepaalde ten tijde van belang en tot 1 augustus 2017, dat indien een postvervoerbedrijf, dat beschikt over een netwerk waarmee poststukken op ten minste vijf dagen per week kunnen worden bezorgd op alle adressen in Nederland, met gebruikmaking van dat netwerk postvervoer verricht tegen speciale voorwaarden en tarieven, hij dit postvervoer voor andere postvervoerbedrijven verricht tegen non-discriminatoire en transparante voorwaarden en tarieven ten opzichte van andere afzenders en andere postvervoerbedrijven. Deze normstelling is als volgt toegelicht in de memorie van toelichting (Kamerstukken II, 2005-2006, 30536, nr. 3, blz. 35) bij - toen nog - artikel 8:</para>
+      <para />
+      <parablock>
+        <para>        “	Dit artikel bevat verplichtingen voor een postvervoerbedrijf dat beschikt over een netwerk (...) waarmee op ten minste vijf dagen op alle adressen post kan worden bezorgd. Uitgangspunt is dat een postvervoerbedrijf dat beschikt over een dergelijk netwerk, door onderscheid te maken tussen "gewone" klanten en andere postvervoerbedrijven, een goede marktwerking kan belemmeren. Het gaat dan (...) om grotere hoeveelheden post die onder speciale voorwaarden en tarieven wordt vervoerd. Bij speciale tarieven valt in de eerste plaats te denken aan een lagere prijs dan het enkelstukstarief. Bij speciale voorwaarden valt te denken aan verdere kortingen voor bij voorbeeld het gesorteerd of op bepaalde plaatsen aanleveren van post. Grotere klanten, zoals banken, zullen post vaak gesorteerd en op een later moment in het traject tussen collecteren en bestellen aanleveren, en hier dus speciale voorwaarden en tarieven voor kunnen bedingen. Ook postvervoerbedrijven die (nog) niet beschikken over een (volledig) eigen netwerk, kunnen partijenpost aanbieden. Bij de toepassing van het non-discriminatiebeginsel moeten vergelijkbare gevallen gelijk behandeld worden. Voor deze postvervoerbedrijven behoren daarom dezelfde voorwaarden en tarieven te gelden als voor klanten die geen postvervoerbedrijf zijn, als zij een vergelijkbare dienstverlening wensen voor hun partijenpost, die van vergelijkbare omvang en bewerkelijkheid is. Daarbij is het denkbaar dat bijvoorbeeld zowel de frequentie als de omvang van de aangeboden partij post niet exact hetzelfde zijn, terwijl toch sprake is van vergelijkbare gevallen. Het postvervoerbedrijf moet deze twee soorten aanbieders dan gelijk behandelen, en tarieven en voorwaarden bieden die horen bij de aangeboden partij post. Dit is vanuit een oogpunt van goede marktwerking gewenst.” </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>In deze procedure staat evenals in de UA-uitspraak centraal de voorwaarde uniform afzenderadres die PostNL haar klanten stelt om partijen aan te mogen bieden onder PPG en in aanmerking te komen voor de partijvolumekorting. Het College heeft in r.o. 4.3 van de UA-uitspraak overwogen dat het hanteren van de voorwaarde uniform afzenderadres betekent dat postvervoerbedrijven partijen post niet meer bij elkaar kunnen voegen wanneer het afzenderadres verschilt. Andere klanten van PostNL (die kwalificeren als eindgebruiker) kunnen partijen post wel samenvoegen omdat op al deze post het afzenderadres van die eindgebruiker staat. Dit betekent dat het effect van het stellen van deze voorwaarde alleen merkbaar is voor postvervoerbedrijven. Naar het oordeel van het College levert dit mogelijk (indirecte) discriminatie op. PostNL heeft in beroepsgrond 1.B aangevoerd dat ten aanzien van de dienst DivA - die thans wel aan de orde is, maar dit niet was in de UA-uitspraak - de rechtbank er ten onrechte van is uitgegaan dat deze dienst niet in betekenende mate door andere klanten dan postvervoerbedrijven werd gebruikt. PostNL voert aan dat postvervoerders met hun partijenpost gewoon toegang hebben tot de dienst PPG en dat de voorwaarde uniform afzenderadres niet alleen voor hen, maar ook voor eindgebruikers geldt. Omgekeerd hebben ook andere klanten dan postvervoerders niet alleen toegang tot de dienst DivA, maar maakten zij daar ook daadwerkelijk van gebruik. </para>
+        <para>Het College volgt PostNL hier in niet. Hetgeen zij heeft aangevoerd, doet er niet aan af dat de voorwaarde uniform afzenderadres voor de postvervoerders aanmerkelijk meer consequenties heeft dan voor andere partijen. Postvervoerders kunnen inderdaad van de dienst PPG gebruik maken, maar alleen als zij hun partijen gemengde post splitsen in partijen met een eensluidend afzenderadres. Daarmee kunnen de postvervoerders echter het tariefverschil niet volledig compenseren, omdat de gesplitste partijen kleiner van omvang zijn en daardoor in een lager kortingstarief vallen. Om dezelfde reden volgt het College voorts de rechtbank waar zij oordeelt dat lastonderdeel i. van de last uit 2015, die het verbod betreft een toeslag in rekening te brengen in verband met de aanwezigheid van meerdere afzenderadressen op door postvervoerbedrijven bij PostNL aangeleverde poststukken, naar zijn aard eveneens in potentie (indirect) discriminerend is en daarmee in strijd met artikel 9, eerste lid, van de Postwet 2009. Het College benadrukt dat het hierbij steeds gaat om een “mogelijke” discriminatie en dat een definitief oordeel pas kan worden geveld indien de door PostNL gestelde rechtvaardigingsgronden zijn besproken.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>PostNL heeft aangevoerd dat zij niet in strijd handelt met artikel 9, eerste lid, van de Postwet omdat het door de verschillende in rekening gebrachte tarieven ontstane onderscheid tussen postvervoerderbedrijven en eindgebruikers gerechtvaardigd is. Zij heeft daartoe in de eerste plaats een beroep gedaan op het bpost-arrest. Ook de extra bewerkelijkheid voor PostNL van de aanlevering van poststukken die niet voldoen aan de voorwaarde uniform afzenderadres, maar wel aan de overige criteria om in aanmerking te komen voor de dienst PPG, maakt het onderscheid volgens haar gerechtvaardigd. Volgens PostNL heeft de rechtbank ten onrechte overwogen dat zij zich niet op een van deze rechtvaardigingsgronden kan beroepen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>In het bpost-arrest gaat het om het in artikel 12 van Richtlijn 97/67/EG van het Europees Parlement en de Raad van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de Gemeenschap en de verbetering van de kwaliteit van de dienst (Postrichtlijn) neergelegde non-discriminatiebeginsel met betrekking tot tarieven voor diensten die deel uitmaken van de universele dienstverlening. Bpost is de aanbieder van postdiensten in België en beschikt als enige in België over een bezorgingsnetwerk. Naast het grote publiek kent bpost twee bijzondere categorieën van afnemers: afzenders van grote hoeveelheden post (afzenders) en tussenpersonen, die postvoorbereidingsdiensten leveren ten behoeve van afzenders. Bpost werd verweten het discriminatieverbod van artikel 12 van de Postrichtlijn te hebben geschonden, omdat bpost bij de toepassing van kwantumkortingen tussenpersonen benadeelde ten opzichte van afzenders. Tussenpersonen kregen voor samengevoegde postvolumes die vergelijkbaar waren met de postvolumes van de grootste afzenders, niet de hoogste kortingen. Het verschil werd gemaakt door de invoering van een nieuw kwantumkortingssysteem op basis van het zendvolume per afzender (kwantumkorting per afzender). In het bpost-arrest heeft het Hof geconcludeerd dat afzenders en tussenpersonen zich niet in een vergelijkbare situatie bevinden, zodat er om die reden geen sprake is van door artikel 12 van de Postrichtlijn verboden discriminatie.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>ACM heeft in haar (voorwaardelijk) incidenteel hoger beroep betoogd dat het bpost-arrest niet van toepassing is op het discriminatieverbod dat is neergelegd in artikel 9, eerste lid, van de Postwet. Ingevolge artikel 8:112 van de Algemene wet bestuursrecht (Awb) kan incidenteel hoger beroep worden ingesteld onder de voorwaarde dat het hoger beroep gegrond is. Zoals blijkt uit het vervolg van deze uitspraak, wordt aan deze voorwaarde voldaan. De reden dat het beroep van PostNL slaagt, is echter dat zij zich kan beroepen op de rechtvaardigingsgrond dat het door haar gemaakte onderscheid gerechtvaardigd is vanwege een hogere bewerkelijkheid. Aan een oordeel over de toepasselijkheid van het bpost-arrest komt het College derhalve niet toe. Het College zal zich daarom niet uitlaten over de gronden die door ACM zijn aangevoerd in het kade van haar incidenteel hoger beroep en evenmin over de beroepsgronden I.A en II van PostNL.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Het incidenteel hoger beroep van ACM slaagt niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Naar aanleiding van de UA-uitspraak heeft ACM aanvullend onderzoek gedaan naar de benodigde handelingen voor het verwerken van verschillende partijen post. Doel van het onderzoek was nader te onderzoeken of de bewerkelijkheid van het verwerken van gemengde partijen post met meerdere afzenders een rechtvaardiging biedt voor het verschil in behandeling door PostNL tussen zakelijke klanten en postvervoerders. De vraag die in het onderzoek centraal stond, is:</para>
+      <para />
+      <parablock>
+        <para>          “	Is gemengde partijenpost van postvervoerders afkomstig van meerdere afzenders bewerkelijker dan gemengde partijenpost met een vergelijkbare omvang en samenstelling van zakelijke klanten met één afzender?”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De uitkomsten van dit onderzoek zijn neergelegd in het “Rapport van Bevindingen: Bewerkelijkheidsonderzoek” van 31 maart 2017 (rapport). ACM is naar aanleiding van het bewerkelijkheidsonderzoek tot de conclusie gekomen dat een gemengde partij post van een postvervoerder bestaande uit meerdere afzenders niet bewerkelijker is dan een gemengde partij post (met een vergelijkbare omvang en samenstelling) van een zakelijke klant bestaande uit één afzender. Blijkens het rapport stond in het onderzoek het product “Partijenpost Binnenland Gemengd  24u” centraal. Dit product wordt door postvervoerders afgenomen om de 24-uurs post van zakelijke klanten, voor zover zij die niet zelf bezorgen, de volgende dag door PostNL te laten bezorgen. Dit product wordt ook afgenomen door zakelijke klanten. Volgens PostNL zijn er zeven redenen waarom gemengde partijen post van postvervoerders afkomstig van meerdere afzenders bewerkelijker zouden zijn dan gemengde partijen post van vergelijkbare omvang van zakelijke klanten met één afzender:</para>
+      </parablock>
+      <para>1. partij-identificatie en controle;</para>
+      <para>2. fraudepreventie;</para>
+      <para>3. voorkomen piekbelasting op de aannamelocatie;</para>
+      <para>4. voorkomen van extra bewerkelijkheid opzetterij;</para>
+      <para>5. voorkomen van extra bewerkelijkheid en verstoringen in sorteerproces;</para>
+      <para>6. retourzendingen, en</para>
+      <para>7. klantenservice en klachtenafhandeling.</para>
+      <para />
+      <parablock>
+        <para>Volgens het rapport heeft ACM gericht onderzoek gedaan naar elk van deze zeven redenen. ACM heeft schriftelijk vragen gesteld aan PostNL en heeft bij de sorteercentra van PostNL in Den Haag (twee maal) en Den Bosch (één maal) onderzoek gedaan. Daarbij heeft ACM verschillende gemengde partijen van zowel postvervoerders als zakelijke klanten gedetailleerd onderzocht en de mate van bewerkelijkheid met elkaar vergeleken. Volgens het rapport is het gehele sorteerproces gevolgd en onderzocht. ACM is na dit onderzoek tot de conclusie gekomen dat bijna elke individuele partij post op de zeven punten die PostNL aanvoert een bepaalde mate van bewerkelijkheid kent. Deze individuele verschillen in bewerkelijkheid zijn volgens haar echter niet te herleiden naar enerzijds postvervoerders en anderzijds zakelijke klanten van PostNL. Voor zover uit het onderzoek blijkt, is er geen onderscheid in de mate van inspanning bij het verwerken van post van postvervoerders bestaande uit meerdere afzenders en post van zakelijke klanten bestaande uit één afzender. De conclusie van het onderzoek is daarom dat de postverwerking van gemengde partijen post van postvervoerders niet bewerkelijker is dan de postverwerking van gemengde partijen post van zakelijke klanten van PostNL.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>PostNL heeft zich gericht tegen de uitkomsten van het bewerkelijkheidsonderzoek. Volgens PostNL is de onderzoeksopzet van ACM ondeugdelijk en niet-representatief. Het vooraf op de hoogte stellen van alle betrokken partijen van het onderzoek door ACM heeft geleid tot beïnvloeding van de onderzoeksresultaten. De metingen van ACM zijn onnauwkeurig en onvolledig. De conclusies die ACM heeft getrokken zijn gebaseerd op onjuiste interpretaties en inconsistente redenaties. Indien de meetresultaten van ACM op juiste en volledige wijze worden geanalyseerd, is de conclusie dat verzamelpartijen juist extra bewerkelijk zijn. De extra bewerkelijkheid als gevolg van late aanlevering is ten onrechte buiten beschouwing gelaten door ACM. ACM heeft op basis van dit onderzoek in 2017 ten onrechte conclusies getrokken over voorgaande jaren en heeft de wijzigingen die in de tussentijd zijn doorgevoerd ten onrechte buiten beschouwing gelaten, aldus PostNL. PostNL heeft ter onderbouwing van haar standpunt verslagen overgelegd van eigen waarnemingen in februari, maart en april 2017 bij een aantal van haar sorteercentra, alsmede rapporten van ORTEC van 19 april 2017 en 14 juli 2017. In het rapport van 19 april 2017 concludeert ORTEC op basis van de minimale vereisten waar een onderzoek aan zou moeten voldoen, dat het onderzoek van ACM op wezenlijke onderdelen tekortschiet. De conclusie van ACM met betrekking tot de onderzoeksvraag in hoeverre er een verschil in bewerkelijkheid is tussen gemengde partijen post van meerdere afzenders en gemengde partijen post van één afzender, is daardoor onvoldoende onderbouwd. Volgens ORTEC kan uit het ACM-rapport absoluut niet de conclusie worden getrokken dat er geen verschil in bewerkelijkheid is tussen verzamelpartijen post van postvervoerders en partijen gemengd van zakelijke klanten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>ACM heeft zich in het besluit op bezwaar 2 op het standpunt gesteld dat haar onderzoek aantoont dat de partijen post met meerdere afzenderadressen in geen van de fases zoals door PostNL aangevoerd bewerkelijker zijn dan partijen post met één afzenderadres. Hetgeen PostNL heeft ingebracht tegen het onderzoek van ACM bevestigt voor een groot deel juist de conclusies van het rapport van ACM of overtuigt anderszins niet. Hoewel het inderdaad kan voorkomen dat partijen post met meerdere afzenderadressen bewerkelijker zijn dan partijen post met één afzenderadres, is gebleken dat dit niet komt door de omstandigheid dat zich meerdere afzenderadressen in een partij post bevinden. Volgens ACM is er dan ook geen direct verband tussen de aanwezigheid van meerdere afzenderadressen in een partij post en de mate van bewerkelijkheid van een partij post. Op het moment dat twee vergelijkbare partijen post met elkaar worden vergeleken, waarvan een partij met meerdere afzenderadressen en een partij met één afzenderadres, is volgens ACM geen sprake van een verschil in bewerkelijkheid. De mate van bewerkelijkheid van partijen post met meerdere afzenderadressen kan volgens ACM dan ook geen rechtvaardiging vormen voor de door PostNL geïntroduceerde discriminatie met het introduceren van DivA.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>De rechtbank is tot het oordeel gekomen dat uit de beschrijving van het onderzoek en de resultaten van het onderzoek uit 2017 de conclusie moet worden getrokken dat ACM op goede gronden het standpunt heeft ingenomen dat zowel per deelonderwerp als in het geheel bezien geen extra werkzaamheden voor PostNL voortvloeien uit de verwerking van partijenpost gemengd van postvervoerders met meerdere afzenders dan gemengde partijenpost met een vergelijkbare omvang en samenstelling van een zakelijke klant met één afzender (r.o. 10.12).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>PostNL betoogt in beroepsgrond III dat de rechtbank heeft miskend dat de voorwaarde uniform afzenderadres objectief gerechtvaardigd is, gezien het verschil in bewerkelijkheid. PostNL richt zich specifiek tegen de door de rechtbank in r.o. 10.12 getrokken conclusie dat uit de beschrijving en de resultaten van het bewerkelijkheidsonderzoek uit 2017, voortvloeit dat ACM op goede gronden het standpunt heeft ingenomen dat zowel per deelonderwerp als in het geheel bezien geen extra werkzaamheden voor PostNL voortvloeien uit de verwerking van partijenpost gemengd van postvervoerders met meerdere afzenders dan gemengde partijenpost met een vergelijkbare omvang en samenstelling van een zakelijke klant met één afzender. Beroepsgrond III.A houdt in dat de rechtbank ten onrechte tot de conclusie is gekomen dat ACM aan haar bewijslast met betrekking tot de vergelijkbare bewerkelijkheid van verzamelpartijen en partijen gemengd van vergelijkbare omvang heeft voldaan. Volgens beroepsgrond III.B heeft de rechtbank ten onrechte het door PostNL ingebrachte bewijs gepasseerd dat de verwerking van verzamelpartijen bewerkelijker is dan de verwerking van partijen gemengd die voldoen aan de voorwaarde uniform afzenderadres. </para>
+      <para />
+      <paragroup>
+        <nr>4.6.1</nr>
+        <para>Het College volgt ACM in haar verweer tegen het punt van PostNL dat ACM geen nader onderzoek had mogen verrichten omdat het College in de UA-uitspraak geen bestuurlijke lus had toegepast. Zoals blijkt uit r.o. 5 van die uitspraak, zag het College geen aanleiding om ACM de gelegenheid te geven om de in die uitspraak in geding zijnde last van 24 september 2013, zoals gewijzigd bij besluit van 4 oktober 2013, alsnog toereikend te motiveren. Het College achtte het hierbij onder meer van belang dat tussen de last en de definitieve uitspraak een aanzienlijke periode was verstreken. De UA-uitspraak laat echter onmiskenbaar de mogelijkheid open dat ACM nader onderzoek zou verrichten teneinde een in een andere zaak opgelegde last toereikend te motiveren. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.2</nr>
+        <para>Ten aanzien van de bewijslastverdeling tussen partijen overweegt het College dat ACM de voor PostNL belastende last 2015 heeft opgelegd omdat PostNL volgens haar artikel 9, eerste lid, eerste volzin, van de Postwet heeft overtreden. Zoals het College in de UA-uitspraak heeft overwogen (r.o. 4.2.2), rust met het opleggen van het belastende besluit de bewijslast voor het bestaan van de overtreding van alle bestanddelen van artikel 9, eerste lid, van de Postwet op ACM. ACM kan er niet mee volstaan aan te tonen dat ongelijke behandeling heeft plaatsgevonden, maar dient, tegenover de gemotiveerde betwisting van PostNL, tevens aannemelijk te maken dat het (verboden) discriminatie betreft, waarvoor geen rechtvaardiging kan worden aangewezen. Het College volgde in de UA-uitspraak niet het standpunt van ACM dat PostNL zich op een uitzondering beriep en dat het daarmee op haar weg (en niet op die van ACM) lag om hiervan het bewijs te leveren. Het College wijst er in dit verband ook op dat in de Memorie van Toelichting bij de genoemde bepaling (zie hiervoor in r.o. 2.1) uitdrukkelijk de bewerkelijkheid van partijen wordt genoemd als een factor die met zich kan brengen dat die partijen niet met elkaar vergelijkbaar zijn, zodat er geen sprake is van (verboden) discriminatie. Naar het oordeel van het College ligt de bewijslast voor het bestaan van de overtreding derhalve op grond van artikel 3:2 van de Awb bij ACM. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.3</nr>
+        <para>Het College overweegt voorts dat uit de hiervoor genoemde Memorie van Toelichting blijkt dat de wetgever zich er rekenschap van heeft gegeven dat zich bij de beoordeling of sprake is van discriminatie praktische problemen kunnen voordoen, door erop te wijzen dat het denkbaar is dat de frequentie en omvang van partijen post niet exact hetzelfde is, terwijl toch sprake is van vergelijkbare gevallen. In lijn hiermee onderschrijft het College de overweging van de rechtbank (r.o. 10.17) dat PostNL zich er niet met succes op kan beroepen dat de omvang van de vergeleken partijen niet volledig gelijk is. Als er geen partijen van eenzelfde omvang zijn, dan mag ACM haar onderzoek aan deze omstandigheid aanpassen. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.4</nr>
+        <parablock>
+          <para>Het College volgt daarentegen PostNL in haar kritiek op de door ACM geformuleerde onderzoeksvraag. Deze komt erop neer dat ACM nagaat of een grotere bewerkelijkheid daadwerkelijk wordt veroorzaakt door louter de aanwezigheid van meerdere afzenderadressen. ACM heeft in haar verweerschrift uitdrukkelijk bevestigd dat zij op zoek is gegaan naar partijen die (nagenoeg) alleen erin verschillen dat er stukken met meerdere afzenderadressen in een partij zitten.</para>
+          <para>ORTEC heeft er in haar rapport van 19 april 2017 reeds op gewezen dat ACM hiermee voorbijgaat aan de mate waarin eigenschappen die leiden tot een grotere bewerkelijkheid aanwezig zijn bij postpartijen van enerzijds postvervoerders en anderzijds zakelijke klanten. ORTEC geeft hierbij het voorbeeld dat een bepaalde eigenschap van een postpartij resulteert in een aanzienlijke extra bewerkelijkheid en dat deze eigenschap voorkomt bij 5% van de postpartijen van zakelijke klanten en bij 50% van de verzamelpartijen van postvervoerders. De benaderingswijze van ACM zal dan tot de conclusie leiden dat deze eigenschap niet tot een verschil in bewerkelijkheid leidt. Volgens ORTEC is het echter evident dat in dit voorbeeld wel degelijk sprake is van extra bewerkelijkheid voor verzamelpartijen van postvervoerders door deze eigenschap, omdat deze eigenschap bij verzamelpartijen van postvervoerders veel vaker aanwezig is. Ter zitting heeft PostNL ter illustratie de vergelijking gemaakt tussen het gebruik van het afzenderadres als indicator voor bewerkelijkheid en het gebruik van een postcode door een verzekeraar als indicator voor de premie die wordt gerekend voor een verzekering: omdat in het ene gebied meer auto’s worden gestolen dan in het andere gebied. </para>
+          <para>Het College constateert dat de door ACM gehanteerde voorselectie erop neer komt dat zij niet een representatieve steekproef neemt uit de aangeleverde partijen post, maar bewust zoekt naar klanten die het best vergelijkbaar zijn met postvervoerders. Ook in de Memorie van Toelichting, die er over spreekt dat dezelfde voorwaarden en tarieven dienen te gelden voor postvervoerbedrijven en voor klanten die postvervoerbedrijf zijn, voor partijenpost van een vergelijkbare omvang en bewerkelijkheid, valt geen rechtvaardiging voor het nemen van een niet-representatieve steekproef te lezen. Het College begrijpt deze toelichting in die zin dat qua tariefstelling geen onderscheid mag worden gemaakt tussen partijen met een vergelijkbare bewerkelijkheid, maar dat het in gevallen als de onderhavige op aankomt dat wordt onderzocht of representatieve partijen niet juist wat betreft bewerkelijkheid van elkaar verschillen en verschillen in tariefstelling daardoor worden gerechtvaardigd. De rechtbank heeft het voorgaande in r.o. 10.17 en 10.18 niet onderkend. Het College komt tot het oordeel dat de conclusie van ACM in het bewerkelijkheidsonderzoek dat de verzamelpartijen van VSP/IP en partijen gemengd van eindklanten wat betreft bewerkelijkheid vergelijkbaar zouden zijn, is gebaseerd op een te beperkte onderzoeksvraag.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.5</nr>
+        <parablock>
+          <para>PostNL heeft voorts aangevoerd dat de rechtbank heeft miskend dat ACM een te kleine steekproef heeft gehanteerd. Het ORTEC-rapport van 19 april 2017 bevat een “Bijlage-Steekproefgrootte”, waarin ORTEC op basis van uitgangspunten omtrent de gewenste betrouwbaarheid en representativiteit van de steekproeven, alsmede de variatie in bewerkelijkheid die kan optreden in partijen gemengd van één afzender en verzamelpartijen van meerdere afzenders, de wenselijke steekproefgrootte berekent. Volgens ORTEC komt het gewenste aantal tijdsregistraties voor postpartijen van één afzender op 12 en voor verzamelpartijen van postvervoerders met meerdere afzenders op 16, derhalve een totaal van 28. ACM meende dat zij kon volstaan met een vergelijking van een verzamelpartij die was aangeleverd door VSP, respectievelijk IP, met in beide gevallen een partij post die was aangeleverd door een vergelijkbare zakelijke verzender met één afzender. In het verweerschrift stelt zij zich op het standpunt dat de non-discriminatienorm van artikel 9, eerste lid, van de Postwet met zich brengt dat alle argumenten van PostNL en ORTEC omtrent correct statistisch onderzoek en representativiteit niet aan de orde zijn. De rechtbank heeft in r.o. 10.17 - zonder nadere toelichting - geoordeeld dat ACM een onderzoek in de omvang zoals ORTEC die suggereert niet hoefde te verrichten, maar kon volstaan met het volgen van de aanlevering en verwerking van een beperkt aantal vergelijkbare partijen post van zakelijke klanten en postvervoerders op een of meer sorteercentra. </para>
+          <para>Het College volgt PostNL en komt tot het oordeel dat het onderzoek van ACM niet alleen wat betreft representativiteit maar ook qua steekproefgrootte tekortschiet. Het College stelt - zonder zich te willen vastleggen op het in dit geval wenselijke aantal steekproeven - hierbij voorop dat in zijn algemeenheid geldt dat de door ORTEC genoemde factoren als de gewenste betrouwbaarheid en representativiteit, alsmede de variabiliteit in de te onderzoeken factoren, dienen te worden meegewogen bij de bepaling hoeveel en welke steekproeven moeten worden genomen. Er kunnen zich bijzondere omstandigheden voordoen, zoals een gebrek aan beschikbare onderzoeksgegevens, die een uitzondering op deze regel kunnen rechtvaardigen, maar deze omstandigheden doen zich hier niet voor. Zoals voortvloeit uit hetgeen het College hiervoor in r.o. 4.6.4 heeft overwogen, kan de door ACM voorgestane interpretatie van artikel 9, eerste lid, van de Postwet, niet als een dergelijke omstandigheid gelden. </para>
+          <para>Ten aanzien van de representativiteit kan naar het oordeel van het College verder niet worden uitgesloten dat de onderzoeksresultaten niet betrouwbaar zijn omdat beïnvloeding van het onderzoek door partijen mogelijk is geweest. ACM heeft immers VSP en IP als belanghebbende partijen tevoren van het onderzoek op 1 februari 2017 op de hoogte gesteld en daarmee in de gelegenheid gesteld de uitkomsten van dat onderzoek te beïnvloeden. Over de datum van het tweede onderzoek op 2 maart 2017 is VSP weliswaar niet vooraf ingelicht, maar op basis van communicatie over de representativiteit van het eerste onderzoek had VSP aanleiding om te verwachten dat er op korte termijn een validatiebezoek zou plaatsvinden. Met PostNL is het College van oordeel dat het onvoldoende aannemelijk is dat de metingen waarop het rapport is gebaseerd representatief zijn voor het geheel van de partijen waarvoor in het rapport algemene uitspraken worden gedaan en conclusies worden getrokken.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.6.6</nr>
+        <parablock>
+          <para>PostNL heeft benadrukt dat problemen bij de postverwerking op sorteercentra worden veroorzaakt door een aantal typische kenmerken van verzamelpartijen. Zo hebben deze een grotere heterogeniteit in de zin dat de diversiteit van verzamelpartijen groter is dan in partijen gemengd van één afzender en daarmee ook een grotere bewerkelijkheid. Dit geldt volgens PostNL des te meer bij de grote partijen die postvervoerders aanbieden. Omdat het voor postvervoerders aantrekkelijk is om zo groot mogelijke partijen aan te leveren, hebben postvervoerders de prikkel om tot het laatste moment door te gaan met het toevoegen van poststukken en de partijen pas op het allerlaatste moment aan te leveren. Bovendien blijkt dat doordat verzamelpartijen groter en heterogener zijn, er hierbij vaker sprake is van aanlevering in strijd met de aanlevervoorschriften. De controles en aanpassingen bij geconstateerde fouten zijn daardoor ook bewerkelijker. </para>
+          <para>Dat de omstandigheid dat er meerdere partijen post worden samengevoegd een grotere heterogeniteit met zich brengt, is door ACM expliciet erkend. Dat ook de andere door PostNL genoemde factoren leiden tot meer bewerkelijkheid wordt door ACM evenmin betwist, maar zij stelt zich hierbij steeds op het standpunt dat de extra bewerkelijkheid geen rechtstreekse relatie heeft met de aanwezigheid van meerdere afzenderadressen. Zoals volgt uit r.o. 4.6.4 heeft ACM hiermee echter de verkeerde maatstaf aangelegd.</para>
+        </parablock>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <para>Gezien het vorenstaande heeft de rechtbank ten onrechte overwogen dat ACM op goede gronden het standpunt heeft ingenomen dat zowel per deelonderwerp als in het geheel bezien geen extra werkzaamheden voor PostNL voortvloeien uit de verwerking van partijenpost gemengd van postvervoerders met meerdere afzenders dan gemengde partijenpost met een vergelijkbare omvang en samenstelling van een zakelijke klant met één afzender. Anders dan de rechtbank heeft overwogen, is er naar het oordeel van het College onvoldoende bewijs dat PostNL artikel 9, eerste lid, van de Postwet 2009 heeft overtreden. ACM was dan ook niet bevoegd PostNL de last van 1 mei 2015, zoals gehandhaafd in het besluit van 15 mei 2017, op te leggen. De overige beroepsgronden van PostNL gericht tegen de last onder dwangsom behoeven geen bespreking.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.8</nr>
+      <para>Het hoger beroep van PostNL is gegrond en de aangevallen uitspraak, kenmerk ROT 16/1378, wordt vernietigd voor zover daarin het beroep tegen het besluit van 15 mei 2017 ongegrond is verklaard. Het College ziet aanleiding zelf in de zaak te voorzien en zal daartoe het beroep gegrond verklaren en het besluit van 15 mei 2017 vernietigen. Voorts ziet het College aanleiding de last van 1 mei 2015 te herroepen. Daarbij acht het College van belang dat uit het voorgaande blijkt dat er geen voldoende bewijs is dat PostNL artikel 9, eerste lid, eerste volzin, van de Postwet heeft overtreden en er tussen de last en de definitieve uitspraak een aanzienlijke periode is verstreken.</para>
+      <para />
+      <para>5 Nu gelet op hetgeen hiervoor onder 4.8 ten aanzien van de last onder dwangsom is overwogen dat de besluiten van 15 mei 2017 en 1 mei 2015 onrechtmatig zijn, moet de publicatie daarvan eveneens als onrechtmatig worden beschouwd. Dit betekent dat het hoger beroep gegrond is en ook de aangevallen uitspraak met kenmerk ROT 16/1377 en ROT 16/3406 moet worden vernietigd, voor zover daarbij het beroep tegen het besluit van 18 januari 2016 ongegrond is verklaard en is bepaald dat ACM het besluit van 15 mei 2017 openbaar kan maken na de door ACM voorgestelde aanpassingen en op de wijze als onder punt 8 van die uitspraak beschreven.</para>
+      <para />
+      <para>6 Het College veroordeelt ACM in de door PostNL gemaakte proceskosten. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand en rekening houdend met de door de rechtbank reeds toegekende proceskostenvergoeding, vast op  € 7.875,- (2 punten voor het indienen van de bezwaarschriften, 1 punt voor het verschijnen op de hoorzitting, 1 punt voor het indienen van het beroepschrift waarvoor de rechtbank nog geen proceskostenvergoeding heeft toegekend, 2 punten voor het indienen van de hoger beroepschriften, 0,5 punt voor het verschijnen op de regiezitting bij het College, 1 punt voor het verschijnen op de zitting bij het College, met een waarde per punt van € 525,- en een wegingsfactor 2). </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>Het College: <?linebreak?></para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt de uitspraak met kenmerk ROT 16/1378 voor zover daarbij het beroep tegen het besluit van 15 mei 2017 ongegrond is verklaard;</para>
+      </listitem>
+      <listitem>
+        <para>bevestigt deze uitspraak voor het overige;</para>
+      </listitem>
+      <listitem>
+        <para>vernietigt de uitspraak met kenmerk ROT 16/1377 en ROT 16/3406 voor zover daarbij het beroep tegen het besluit van 18 januari 2016 ongegrond is verklaard en is bepaald dat ACM het besluit van 15 mei 2017 openbaar kan maken na de door ACM voorgestelde aanpassingen en op de wijze als onder punt 8 van die uitspraak beschreven;</para>
+      </listitem>
+      <listitem>
+        <para>bevestigt deze uitspraak voor het overige;</para>
+      </listitem>
+      <listitem>
+        <para>verklaart de bij de rechtbank ingestelde beroepen van PostNL tegen de besluiten van 15 mei 2017 en 18 januari 2016 gegrond;</para>
+      </listitem>
+    </itemizedlist>
+    <para>- vernietigt de besluiten van 15 mei 2017 en 18 januari 2016;</para>
+    <para>- verklaart het incidenteel hoger beroep van ACM ongegrond;</para>
+    <para>- herroept de besluiten van 1 mei 2015 en 21 juli 2015;</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>draagt ACM op het betaalde griffierecht van € 508,- aan PostNL te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt ACM in de proceskosten van PostNL tot een bedrag van € 7.875,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.O. Kerkmeester, mr. B. Bastein en mr. C.M. Wolters, in aanwezigheid van mr. M.B. van Zantvoort, griffier. De beslissing is in het openbaar uitgesproken op 2 juni 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd te ondertekenen		De griffier is verhinderd te ondertekenen</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

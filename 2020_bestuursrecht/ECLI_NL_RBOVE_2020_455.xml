@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOVE:2020:455</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-05T09:24:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel" scheme="overheid.RechterlijkeMacht">Rechtbank Overijssel</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ak_19 _ 1091</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Zwolle</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:455">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:455</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-05T09:23:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOVE:2020:455 Rechtbank Overijssel , 05-02-2020 / ak_19 _ 1091</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOVE:2020:455:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Last onder dwangsom sluiting horecabedrijf onder aanzegging van bestuursdwang; in redelijkheid van bevoegdheid gebruik gemaakt; beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOVE:2020:455:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK OVERIJSSEL</bridgehead>
+    <para>Zittingsplaats Zwolle</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/1091</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam horecabedrijf] , te Zwolle, eiseres,</bridgehead>
+    <para>gemachtigde: mr. D.J. Perquin,</para>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Zwolle, verweerder, </bridgehead>
+    <para>gemachtigde: mr. M.J. Tunnissen.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 20 oktober 2018 (het primaire besluit) heeft verweerder [naam 1] B.V., onder aanzegging van bestuursdwang, gelast de exploitatie van het horecabedrijf [naam horecabedrijf] gevestigd aan de [adres] te Zwolle, voor donderdag 25 oktober 2018 om 16:00 uur te staken. Hierbij is meegedeeld dat, indien hieraan niet wordt voldaan, verweerder dit pand op dat tijdstip zal laten sluiten en verzegelen. Deze last is opgelegd wegens overtreding van het bepaalde in artikel 3 van de Drank- en Horecawet (hierna: DHW).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hiertegen hebben [naam 2] (hierna: [naam 2] en eiseres bezwaar gemaakt. Verder hebben zij de voorzieningenrechter van deze rechtbank verzocht de voorlopige voorziening te treffen dat zij tot zes weken na de beslissing op bezwaar het horecabedrijf mogen exploiteren als ware de vereiste vergunning op grond van de DHW reeds verleend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 oktober 2018 heeft verweerder het primaire besluit gewijzigd in de zin dat de werking van dit besluit wordt geschorst tot de dag nadat er een uitspraak is gedaan op voornoemd verzoek om voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 4 december 2018, zaaknummer AWB 18/1990, heeft de voorzieningenrechter het verzoek afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 april 2019 (het bestreden besluit) heeft verweerder het bezwaar van [naam 2] en eiseres ongegrond verklaard. Verweerder heeft daarbij het primaire besluit met een aanvulling van de motivering gehandhaafd en dit besluit met ingang van 23 april 2019 (zijnde de datum waarop de door eiseres aangevraagde DHW-vergunning is verleend) herroepen. Verder heeft verweerder zich op het standpunt gesteld dat hij niet tijdig (meer specifiek: 3 dagen te laat) op het bezwaarschrift heeft beslist en dat hij daarom een dwangsom van 3 x € 23,- = € 69,- heeft verbeurd. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de op het geding betrekking hebbende stukken ingediend. Daarbij heeft verweerder tevens een vertrouwelijk advies van het Regionale Informatie en Expertise Centrum (hierna: Riec) van 24 oktober 2018 overgelegd met het verzoek om geheimhouding als bedoeld in artikel 8:29 van de Algemene wet bestuursrecht (hierna: Awb). De geheimhoudingskamer heeft op 2 augustus 2019 beslist dat beperking van de kennisneming gerechtvaardigd is. Eiseres heeft de rechtbank geen toestemming gegeven om dit advies bij haar oordeelvorming te betrekken. De rechtbank heeft dit advies vervolgens teruggestuurd naar verweerder.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 21 januari 2020. Eiseres heeft zich laten vertegenwoordigen door [naam 2] , bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door A.J. Stellingwerff, bijgestaan door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Feiten</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eiseres is op 22 mei 2018 bij notariële akte opgericht. [naam 1] B.V. is de enige bestuurder van eiseres. [naam 1] B.V. is voor 90% aandeelhouder van eiseres. [naam 3] (hierna: [naam 3] is aandeelhouder voor de overige 10%. [naam 2] is de enige bestuurder en volledig aandeelhouder van [naam 1] B.V.</para>
+    <para />
+    <parablock>
+      <para>Eiseres is de exploitant van [naam horecabedrijf] De aanvraag om een DHW-vergunning is door eiseres gedaan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wettelijk kader</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Een bestuursorgaan is bevoegd om handhavend op te treden door middel van het opleggen van een last onder bestuursdwang dan wel last onder dwangsom indien er sprake is van een overtreding, zijnde een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift. Wat betreft verweerder volgt dit uit artikel 125 Gemeentewet in samenhang met de artikelen 5:4 en 5:1 van de Awb.</para>
+    <para />
+    <parablock>
+      <para>Artikel 5:21 van de Awb bepaalt dat onder last onder bestuursdwang wordt verstaan: de herstelsanctie, inhoudende:</para>
+    </parablock>
+    <para>a. 	een last tot geheel of gedeeltelijk herstel van de overtreding, en</para>
+    <para>b. 	de bevoegdheid van het bestuursorgaan om de last door feitelijk handelen ten uitvoer te leggen, indien de last niet of niet tijdig wordt uitgevoerd.</para>
+    <para />
+    <parablock>
+      <para>Onder ‘herstelsanctie’ wordt verstaan: een bestuurlijke sanctie die strekt tot het geheel of gedeeltelijk ongedaan maken of beëindigen van een overtreding, tot het voorkomen van herhaling van een overtreding, dan wel tot het wegnemen of beperken van de gevolgen van een overtreding (artikel 5:2, eerste lid, onder b, van de Awb).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Onder ‘overtreding’ wordt verstaan: een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift (artikel 5:1, eerste lid, van de Awb).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3, eerste lid, van de DHW bepaalt dat het verboden is zonder daartoe strekkende vergunning van de burgemeester het horecabedrijf of slijtersbedrijf uit te oefenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Onder ‘horecabedrijf’ wordt verstaan: de activiteit in ieder geval bestaande uit het bedrijfsmatig of anders dan om niet verstrekken van alcoholhoudende drank voor gebruik ter plaatse (artikel 1, eerste lid, van de DHW).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 27, derde lid, van de DHW bepaalt dat een vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (hierna: Wet Bibob). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3, zevende lid, van de Wet Bibob bepaalt dat, voorzover blijkt dat geen sprake is van ernstig gevaar als bedoeld in het eerste lid, het bestuursorgaan bij mindere mate van gevaar aan de beschikking voorschriften kan verbinden. Deze voorschriften zijn gericht op het wegnemen of beperken van dergelijk gevaar.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Voorgeschiedenis en besluitvorming </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>3. Sinds mei 2018 oefent eiseres in het pand op het perceel [adres] Zwolle een horecabedrijf uit onder de naam “ [naam horecabedrijf] . Eiseres heeft dit bestaande café in mei 2018 overgenomen.</para>
+    <para />
+    <parablock>
+      <para>Voor het exploiteren van een horecabedrijf is een vergunning als bedoeld in artikel 3, eerste lid, van de DHW vereist. Een DHW-vergunning is niet overdraagbaar zodat een nieuwe exploitant van een bestaand horecabedrijf een nieuwe vergunning moet aanvragen. Dat heeft eiseres ook gedaan en de aanvraag voor een DHW-vergunning is op 6 juni 2018 bij verweerder binnengekomen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het Integraal Horecabeleid 2007 van de gemeente Zwolle is in juni 2007 vastgesteld. Dit beleid is niet vastgesteld als beleidsregel in de zin van de Awb maar wordt als vaste gedragslijn gehanteerd. In deze vaste gedragslijn is, voor zover hier van belang, opgenomen dat het binnen de gemeente Zwolle gebruikelijk is dat, indien een horecaonderneming een bestaande horecavestiging overneemt, zij al voor publiek geopend kan zijn tijdens de behandeling van de vergunningaanvraag. Voorwaarden zijn dat de aanvraag volledig is en er zich in het verleden geen probleemsituaties op het betreffende adres hebben voorgedaan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft op grond van deze vaste gedragslijn gedoogd dat [naam horecabedrijf] open mag zijn voor het publiek tijdens de behandeling van de vergunningaanvraag.</para>
+    </parablock>
+    <para />
+    <para>4. Op 10 oktober 2018 is een handgranaat aangetroffen aan de deurklink van [naam horecabedrijf] . Het café is die dag gesloten gebleven voor het publiek. Verweerder heeft vervolgens een sluitingsbevel gegeven in het kader van het herstel van de openbare orde. De wettelijke grondslag voor dit sluitingsbevel betreft artikel 2:30 van de Algemene plaatselijke verordening. Het sluitingsbevel is van kracht geweest van 11 oktober 2018 16:00 uur tot 18 oktober 2018 16:00 uur. Het café is in die periode gesloten geweest.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Bij e-mail van 18 oktober 2018 14:48 uur heeft verweerder aan eiseres meegedeeld dat hij samen met het Riec de bij de aanvraag behorende stukken heeft beoordeeld en tot de conclusie is gekomen dat er twijfel is over de rechtmatigheid van de verkoop van de onderneming en de financiële stromen en dat hij daarom aan het Landelijk Bureau Bibob zal vragen nader onderzoek te doen. Tijdens dit onderzoek mag verzoekster het horecabedrijf niet meer uitoefenen zonder te beschikken over een DHW-vergunning. Dit betekent dat het café gesloten moet blijven en dat er niet langer sprake is van een gedoogsituatie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Uit een proces-verbaal (met nummer [nummer] ) van de politie eenheid Oost-Nederland blijkt dat [naam horecabedrijf] op vrijdag 19 oktober 2018, omstreeks 21:34 uur, en op zaterdag 20 oktober 2018, omstreeks 01:45 uur, open was voor het publiek.</para>
+    </parablock>
+    <para />
+    <para>5. Vervolgens is het primaire besluit genomen, zoals omschreven bij het procesverloop.</para>
+    <para />
+    <para>6. Vanwege een door eiseres en [naam 2] ingediend verzoek om een voorlopige voorziening te treffen, is het primaire besluit gewijzigd in de zin dat dit wordt geschorst tot de dag nadat de voorzieningenrechter uitspraak heeft gedaan. Bij uitspraak van 4 december 2018 is het verzoek om voorlopige voorziening afgewezen. Gelet op het (gewijzigde) primaire besluit mocht [naam horecabedrijf] uiterlijk vanaf 6 december 2018 niet meer open zijn voor het publiek. Dit is ook gecommuniceerd met eiseres. Uit een proces-verbaal van de politie blijkt dat [naam horecabedrijf] in de nacht van 7/8 december 2018 geopend was voor het publiek. Verweerder heeft vervolgens bestuursdwang toegepast en het pand op zaterdag 8 december 2018, omstreeks 14:00 uur, verzegeld.</para>
+    <para />
+    <para>7. Op 15 januari 2019 heeft het Landelijk Bureau Bibob een advies uitgebracht. Bij besluit van 23 april 2019 heeft verweerder de door eiseres gevraagde DHW-vergunning onder voorschriften verleend. Een van deze voorschriften houdt in dat het horecabedrijf niet voor het publiek geopend mag zijn zolang [naam 3] aandelen in eiseres heeft.</para>
+    <para />
+    <para>8. In het bestreden besluit van 26 april 2019 heeft verweerder het primaire besluit (voor de periode 20 oktober 2018 tot 23 april 2019) met een aanvulling van de motivering gehandhaafd. Het primaire besluit is met ingang van 23 april 2019 herroepen omdat op deze datum de door eiseres aangevraagde DHW-vergunning is verleend en er vanaf dat moment geen overtreding meer resteerde. </para>
+    <para />
+    <parablock>
+      <para>De aanvulling van de motivering ziet op de navolgende aspecten.</para>
+    </parablock>
+    <para>- Het primaire besluit is enkel gericht aan [naam 1] B.V. In het bestreden besluit worden eiseres en [naam 2] tevens als overtreder aangemerkt. </para>
+    <para>- De proces-verbalen van de politie worden bij het bestreden besluit gevoegd.</para>
+    <para>- De belangenafweging en motivering zijn uitgebreid. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Beoordeling van het beroep door de rechtbank</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemeen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>9. Eiseres verwijst in haar beroepschrift naar de gronden die zij heeft ingebracht in haar verzoek om een voorlopige voorziening hangende bezwaar. Verder verwijst eiseres naar beroepen-niet-tijdig en daarmee samenhangende zaken die zij heeft ingediend bij deze rechtbank. Eiseres verzoekt de rechtbank al deze stukken als herhaald en ingelast te beschouwen en te behandelen als gronden tegen het bestreden besluit.</para>
+    <para>10. De rechtbank overweegt hierover dat de voorzieningenrechter in zijn uitspraak van 4 december 2018 een (voorlopig) oordeel heeft gegeven over de in die zaak aangevoerde gronden. Eiseres heeft niet aangegeven dat en waarom zij het met dit oordeel niet eens is. De rechtbank zal daarom de in die procedure ingebrachte gronden niet betrekken bij het thans voorliggende beroep. Enkel indien en voor zover in de nadere beroepschriften van 11 juni en 8 augustus 2019 is onderbouwd waarom de weerlegging van de gronden door de voorzieningenrechter niet juist is, zal de rechtbank hier inhoudelijk op ingaan.</para>
+    <para />
+    <parablock>
+      <para>Verder heeft deze rechtbank uitspraken gedaan over door eiseres ingestelde beroepen-niet-tijdig, een hiermee connex verzoek om voorlopige voorziening, en een ingesteld verzet tegen een (kennelijk)uitspraak op een beroep-niet tijdig. Dit betreft de uitspraak van 6 maart 2019 (zaaknummer AWB 18/2283) en drie uitspraken van 30 april 2019 (zaaknummers AWB 19/607, AWB 19/608 en AWB 18/2283). Al deze zaken zien op het (gesteld) niet tijdig beslissen op de aanvraag om een DHW-vergunning. Een dergelijke beoordeling ligt nu niet voor. In het thans voorliggende geschil ligt immers de rechtmatigheid van de opgelegde last onder bestuursdwang voor. De rechtbank zal de in deze zaken aangevoerde gronden dan ook niet bij haar beoordeling betrekken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De bevoegdheid</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>11. Eiseres betwist dat artikel 3 van de DHW door haar is overtreden. In dat kader heeft zij aangevoerd dat van een dergelijke overtreding eerst sprake kan zijn indien door een daartoe bevoegde toezichthouder is geconstateerd dat ter plaatse sprake is van het tegen betaling verstrekken van alcoholhoudende drank. Dat is in deze zaak niet gebeurd. Zij mocht dan ook de exploitatie voortzetten op basis van verweerders gedoogbeleid en verweerder heeft haar daarom ten onrechte een last onder bestuursdwang opgelegd, aldus eiseres. Deze besluitvorming is volgens eiseres tevens in strijd met de Dienstenrichtlijn. </para>
+    <para />
+    <parablock>
+      <para>Verder betwijfelt eiseres of het mogelijk is om in de beslissing op bezwaar nieuwe overtreders toe te voegen. Volgens eiseres heeft verweerder willekeurig gehandeld bij de ex nunc / ex tunc toetsing in de beslissing op bezwaar.</para>
+    </parablock>
+    <para />
+    <para>12. De rechtbank overweegt hierover het volgende.</para>
+    <para />
+    <paragroup>
+      <nr>12.1.</nr>
+      <para>Op grond van de Dienstenrichtlijn is een vergunningstelsel voor horeca toegestaan. De Dienstenrichtlijn bepaalt waar een dergelijk vergunningstelsel aan moet voldoen. In deze zaak gaat het evenwel over de bevoegdheid om handhavend op te treden als er wordt gehandeld zonder te beschikken over een dergelijke vergunning. De beoordeling van de horeca-vergunning sec ligt niet voor. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2.</nr>
+      <parablock>
+        <para>Artikel 3, eerste lid, van de DHW verbiedt de exploitatie van een horecabedrijf zonder te beschikken over een DHW-vergunning. In deze zaak hebben eiseres, [naam 2] en [naam 1] B.V. een bestaand horecabedrijf overgenomen met de intentie dit horecabedrijf voort te zetten. Dit is ook telkenmale door hen gecommuniceerd. Eiseres heeft een DHW-vergunning aangevraagd voor de exploitatie van [naam horecabedrijf] Vanaf mei 2018 exploiteert eiseres dit café. </para>
+        <para>Dat eiseres een aanvraag voor een DHW-vergunning op 6 juni 2018 bij verweerder heeft ingediend, laat onverlet dat zij [naam horecabedrijf] exploiteerde zonder te beschikken over een aan haar verleende DHW-vergunning. Ten tijde van het primaire besluit was het café open voor het publiek. Dit is geconstateerd door de politie en neergelegd in een proces-verbaal met nummer [nummer] </para>
+        <para>Gelet op dit geheel aan feiten heeft verweerder zich terecht op het standpunt gesteld dat eiseres ten tijde van het primaire besluit in strijd met artikel 3, eerste lid, van de DHW handelde en heeft hij zich terecht bevoegd geacht om hiertegen handhavend op te treden door van eiseres te gelasten dat zij de exploitatie van [naam horecabedrijf] staakt. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De vraag of verweerder in redelijkheid gebruik heeft kunnen maken van zijn handhavingsbevoegdheid - gelet op de vaste gedragslijn, neergelegd in het Integraal Horecabeleid 2007 - zal de rechtbank bespreken bij het kopje ‘aanwending van de bevoegdheid’. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.3.</nr>
+      <para>Ten aanzien van de (impliciete) stelling van eiseres dat verweerder in strijd met artikel 7:11 van de Awb heeft gehandeld, overweegt de rechtbank het volgende. </para>
+      <para />
+      <paragroup>
+        <nr>12.3.1.</nr>
+        <para>De hoofdregel in het bestuursrecht is dat de heroverweging in de bezwaarprocedure plaatsvindt met inachtneming van de feiten en omstandigheden die zich dan voordoen en de op dat moment geldende rechts- en beleidsregels (toetsing ex nunc). Bij het heroverwegen van een handhavingsbesluit kan dit in specifieke situaties anders zijn. Dat is bijvoorbeeld het geval in de situatie waarin het gaat om de omstandigheid dat voorafgaand aan het besluit op bezwaar de overtreding door de overtreder is beëindigd. Zou in een dergelijk geval ex nunc getoetst worden, dan zou een effectieve handhaving immers doorkruist worden, doordat de overtreder de illegale situatie ongestraft kan laten voortduren tot het moment van de besluitvorming in bezwaar. Indien ten tijde van het besluit op bezwaar de overtreding is beëindigd doordat de vereiste vergunning alsnog is verleend (en er - ingeval van een last onder dwangsom - geen dwangsommen zijn verbeurd) is er geen bevoegdheid meer om handhavend op te treden en dient het handhavingsbesluit te worden herroepen. Als voorbeeld verwijst de rechtbank naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (hierna: de Afdeling) van 21 maart 2018, ECLI:NL:RVS:2018:960.</para>
+        <para />
+        <parablock>
+          <para>In deze zaak is sprake van een in primo opgelegde last onder bestuursdwang en is de overtreding op 23 april 2019 beëindigd omdat op dat moment de vereiste DHW-vergunning aan eiseres is verleend. Conform de hiervoor beschreven hoofdregel en jurisprudentie heeft verweerder het primaire besluit herroepen vanaf 23 april 2019. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>12.3.2.</nr>
+        <para>Uit de jurisprudentie van de Afdeling volgt dat het bestuursorgaan in het kader van de volledige heroverweging in bezwaar anderen kan aanschrijven. Wel dienen de nieuw aangeschrevenen in beginsel in de gelegenheid te worden gesteld om te worden gehoord, alvorens daartoe wordt besloten. Voorts mag het bestuursorgaan bij het besluit op bezwaar dat tot een andere geadresseerde is gericht, niet buiten de grenzen treden die artikel 7:11 van de Awb aan de heroverweging stelt. Als voorbeeld verwijst de rechtbank naar de (eveneens door verweerder aangehaalde) uitspraak van de Afdeling van 2 november 2011, ECLI:NL:RVS:2011: BU3110. </para>
+        <para />
+        <parablock>
+          <para>In deze zaak is verweerder niet buiten deze grenzen getreden, nu de grondslag van het besluit niet is gewijzigd en eiseres en [naam 2] zijn gehoord door de bezwaarschriftencommissie alvorens in het bestreden besluit de last onder bestuursdwang tevens aan hen op te leggen. Daar komt bij dat eiseres en [naam 2] niet onevenredig in hun belangen zijn geschaad, nu zij vanaf het begin van de besluitvorming in de veronderstelling hebben verkeerd dat de last mede aan hen was opgelegd en zij om die reden ook zelf tegen de bij het primaire besluit opgelegde last bezwaar hebben gemaakt. Ook speelt mee dat in deze zaak de rechtspersonen [naam 1] B.V. en eiseres beide zijn te herleiden tot [naam 2] . </para>
+        </parablock>
+      </paragroup>
+      <paragroup>
+        <nr>12.3.3.</nr>
+        <para>Verweerder heeft niet in strijd met artikel 7:11 van de Awb gehandeld. Deze beroepsgronden slagen dan ook niet. </para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline">De aanwending van de bevoegdheid</emphasis>
+          </para>
+        </parablock>
+        <para />
+        <para>13. Uit vaste jurisprudentie van de Afdeling volgt dat, gelet op het algemeen belang dat is gediend met handhaving, in geval van overtreding van een wettelijk voorschrift het bestuursorgaan dat bevoegd is om met bestuursdwang of een last onder dwangsom op te treden, in de regel van deze bevoegdheid gebruik zal moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisatie bestaat. Verder kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien. </para>
+        <para />
+        <para>14. Eiseres stelt dat verweerder ten tijde van het primaire besluit in redelijkheid geen gebruik kon maken van zijn bevoegdheid om haar een last onder bestuursdwang op te leggen, gelet op de vaste gedragslijn dat de exploitatie van een overgenomen bestaand café wordt gedoogd hangende de behandeling van de aanvraag om een DHW-vergunning. Verweerder kan het niet langer gedogen niet baseren op het advies van het Riec, nu zij dit advies niet heeft mogen inzien en dit advies onjuistheden bevat.</para>
+        <para />
+        <para>15. De rechtbank overweegt hierover het volgende.</para>
+        <para />
+        <parablock>
+          <para>Uit de stukken blijkt dat het gedogen op basis van de vaste gedragslijn is gebaseerd op de aanname dat sprake is van een concreet zicht op legalisatie. In deze zaak heeft verweerder zich op het standpunt gesteld dat, vanwege het advies van het Riec, bij hem twijfel was ontstaan betreffende de integriteit van de personen die betrokken zijn bij de exploitatie van [naam horecabedrijf] zodat hij gegronde redenen had een Bibob-advies te vragen. Dat het advies van het Riec ontoereikend zou zijn voor de noodzaak om een Bibob-advies te vragen en dat dit advies onjuistheden bevat, zoals eiseres stelt, kan de rechtbank niet beoordelen. Eiseres heeft de rechtbank immers geen toestemming verleend om dit advies bij haar oordeelsvorming te betrekken. Uit de jurisprudentie volgt dat de gevolgen van een weigering om toestemming als bedoeld in artikel 8:29, vijfde lid, van de Awb te verlenen, in beginsel voor rekening komen van degene die toestemming heeft geweigerd. De rechtbank verwijst als voorbeeld naar de uitspraak van de Afdeling van 28 januari 2015, ECLI:NL:RVS:2015:224, overweging 5.2. De rechtbank gaat er dan ook van uit dat verweerder zich op het standpunt heeft kunnen stellen zoals hij heeft gedaan en zoals hiervoor is beschreven. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Gelet op de mogelijke weigeringsgrond als bedoeld in artikel 27, derde lid, van de DHW, was er niet langer sprake van een concreet zicht op legalisatie. Hierdoor was de grondslag voor het gedogen op grond van de vaste gedragslijn vervallen. </para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>Deze beroepsgrond slaagt niet.</para>
+        </parablock>
+        <para />
+        <para>16. Eiseres stelt dat de besluitvorming onzorgvuldig is geweest en dat dit niet kan worden hersteld in het bestreden besluit. In dat kader heeft zij aangevoerd dat verweerder haar gemachtigde in de zienswijzefase heeft gepasseerd. Verder heeft zij aangevoerd dat verweerder zijn besluitvorming (betreffende het niet langer gedogen) heeft gebaseerd op het advies van het Riec en dat zij dit advies niet heeft mogen inzien.</para>
+        <para />
+        <para>17. De rechtbank bespreekt deze beroepsgronden in het kader van de vraag of het aanwenden van de handhavingsbevoegdheid onevenredig is.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>17.1.</nr>
+      <para>Uit de stukken blijkt dat [naam 2] in de gelegenheid is gesteld om mondeling (telefonisch) zijn zienswijze te geven alvorens verweerder het primaire besluit heeft genomen. Verweerder heeft niet tevens de gemachtigde van eiseres verwittigd, alhoewel hij op dat moment wist dat eiseres een gemachtigde had. Ook heeft verweerder niet de mogelijkheid geboden van het indienen van een schriftelijke zienswijze.</para>
+      <para />
+      <parablock>
+        <para>De rechtbank oordeelt dat deze wijze van handelen mogelijk onzorgvuldig is. De rechtbank kan de noodzaak voor verweerder om zo voortvarend te handelen evenwel niet beoordelen omdat eiseres haar geen toestemming heeft gegeven om het advies van het Riec in te mogen zien. Verder onderschrijft de rechtbank het oordeel van de voorzieningenrechter in zijn uitspraak van 4 december 2018, zaaknummer AWB 18/1990, overweging 3.19, dat er geen grond is om hier verdere gevolgen aan te verbinden omdat deze mogelijke onzorgvuldigheid in de bezwaarfase kan worden hersteld (door eiseres en haar gemachtigde in de gelegenheid te stellen schriftelijk en mondeling te reageren op het primaire besluit) en omdat eiseres door deze gang van zaken geen daadwerkelijk nadeel heeft ondervonden. Immers, verweerder heeft het primaire besluit opgeschort tot daags na de uitspraak van de voorzieningenrechter op 4 december 2018. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Dat het herstellen van deze mogelijke onzorgvuldigheid in de bezwaarfase niet mogelijk is, is niet juist. De bezwaarfase is onder andere bedoeld om gebreken in het primaire besluit te herstellen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>17.2.</nr>
+      <para>Het niet mogen inzien van het advies van het Riec door eiseres heeft een wettelijke grondslag. De geheimhoudingskamer van de rechtbank heeft in haar beslissing van 2 augustus 2019 geoordeeld dat beperking van de kennisneming gerechtvaardigd is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>17.3.</nr>
+      <para>Deze beroepsgronden slagen niet.</para>
+      <para />
+      <para>18. Gelet op vorenstaande oordeelt de rechtbank dat verweerder zich terecht bevoegd heeft geacht om in primo een last onder bestuursdwang op te leggen, dat verweerder in redelijkheid van deze bevoegdheid gebruik heeft kunnen maken en dat verweerder terecht in het bestreden besluit het primaire besluit heeft herroepen vanaf de datum verlening van de DHW-vergunning aan eiseres, te weten op 23 april 2019.</para>
+      <para />
+      <para>19. Ter zitting heeft eiseres desgevraagd meegedeeld dat zij de berekening van de hoogte van de verbeurde dwangsom onderschrijft. De opmerkingen die zij hierover heeft gemaakt in het beroepschrift zijn enkel bedoeld ter informatie voor de rechtbank dat er nog een (andere) beroepszaak over deze materie bij de rechtbank aanhangig is.</para>
+      <para />
+      <parablock>
+        <para>De rechtbank volstaat met de constatering dat dit onderdeel van het bestreden besluit niet is bestreden. </para>
+      </parablock>
+      <para />
+      <para>20. Het beroep is ongegrond. </para>
+      <para />
+      <para>21. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.J.B. Cornelissen, rechter, in aanwezigheid van </para>
+      <para>mr. A.E.M. Lever, als griffier. De beslissing is in het openbaar uitgesproken op</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

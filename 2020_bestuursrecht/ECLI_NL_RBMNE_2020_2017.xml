@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2017</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-05T15:51:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 984</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2017">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2017</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-05T15:47:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2017 Rechtbank Midden-Nederland , 29-05-2020 / AWB - 20 _ 984</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2017:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Sluiting woning 13b Opiumwet. Voorlopige voorziening afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2017:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Utrecht</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 20/984</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 29 mei 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker] , te [woonplaats] , verzoeker</bridgehead>
+    <para>(gemachtigde: mr. A.E.M.C. Koudijs),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Utrecht, verweerder</bridgehead>
+    <para>(gemachtigde: mr. R.M. Wiersma).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 20 februari 2020 (het primaire besluit) heeft verweerder onder aanzegging van bestuursdwang gelast dat de woning van verzoeker aan de [adres] te [woonplaats] (hierna: de woning) op grond van artikel 13b van de Opiumwet voor de duur van twaalf maanden wordt gesloten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het primaire besluit bezwaar gemaakt. Verzoeker heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In verband met de maatregelen rondom het coronavirus heeft de zitting op 15 mei 2020 plaatsgevonden via Skype for Business. Verzoeker is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet. Bij de beoordeling van het verzoek om een voorlopige voorziening door de voorzieningenrechter is vooral van belang of het bezwaar tegen de sluiting van de woning een redelijke kans van slagen heeft. Daarbij weegt de voorzieningenrechter de belangen van verzoeker die pleiten vóór het treffen van een voorlopige voorziening en de belangen van verweerder die pleiten tegen het treffen daarvan.</para>
+    <para />
+    <para>2. In het kader van zijn verplichting om de op de zaak betrekking hebbende stukken in te dienen, heeft verweerder een bestuurlijke rapportage van 10 december 2019 overgelegd. Daarbij heeft verweerder een beroep gedaan op artikel 8:29 van de Algemene wet bestuursrecht (Awb) en meegedeeld dat alleen de voorzieningenrechter de inhoud daarvan mag zien. Daarnaast heeft verweerder een versie van de bestuurlijke rapportage overgelegd, die wel door verzoeker mag worden ingezien.  </para>
+    <para />
+    <para>3. In de beslissing van 6 mei 2020 heeft de rechtbank bepaald dat de gevraagde beperkte kennisneming gerechtvaardigd is. Bij e-mail van 6 mei 2020 heeft verzoeker toestemming gegeven om op grond van deze stukken uitspraak te doen. De voorzieningenrechter kan de informatie uit de bestuurlijke rapportage van 10 december 2019 daarom bij haar oordeel betrekken. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Waarom vindt verweerder een sluiting voor twaalf maanden noodzakelijk?</emphasis>
+      </para>
+    </parablock>
+    <para>4. Verweerder vindt een sluiting van de woning voor twaalf maanden noodzakelijk in verband met de volgende omstandigheden. Op 28 november 2019 heeft de politie verzoeker op de openbare weg aangehouden met drie bolletjes wit poeder (cocaïne), acht bolletjes bruin poeder (heroïne) en vier pillen (MDMA). De politie heeft ook waargenomen dat er een drugsdeal plaatsvond tussen verzoeker en een klant. Vervolgens is de woning van verzoeker doorzocht. Tijdens de doorzoeking zijn 57 bolletjes cocaïne (zeven gram) aangetroffen. Verder lag er een briefje op de vensterbank waarop stond ‘ik hep niks meer’. De politie gaat ervan uit dat dit briefje wordt gebruikt om aan te geven dat er geen voorraad drugs meer in de woning aanwezig is. Verzoeker heeft bij de politie bekend dat hij drugs dealt en dat hij de drugs koopt van een oude kameraad die de drugs door de brievenbus van de woning gooit. Verder komen er sinds januari 2019 meldingen bij de politie binnen die zien op (vermoedens van) drugshandel vanuit de woning. Er wordt veel overlast en angst ervaren door omwonenden. </para>
+    <para />
+    <para>5. Gelet op deze omstandigheden vindt verweerder het duidelijk dat de woning rechtstreeks is betrokken bij drugshandel. Verweerder neemt daarom aan dat er een loop is ontstaan naar de woning en dat de woning een naamsbekendheid heeft gekregen die niet wenselijk is. Op basis daarvan heeft verweerder besloten de woning te sluiten met toepassing van artikel 13b van de Opiumwet. Omdat de woning al langere tijd bekend is in het drugscircuit, er een grote hoeveelheid drugs is aangetroffen en in de omgeving ernstige overlast wordt ervaren, is sprake van een ernstige situatie die een sluiting voor de duur van twaalf maanden rechtvaardigt. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Kan verweerder in redelijkheid gebruik maken van zijn sluitingsbevoegdheid?</emphasis>
+      </para>
+    </parablock>
+    <para>6. Verzoeker heeft verschillende omstandigheden naar voren gebracht, die volgens hem tot de conclusie leiden dat verweerder in redelijkheid niet van zijn sluitingsbevoegdheid gebruik mag maken. Zo voert verzoeker aan dat de hoeveelheid drugs die zijn aangetroffen bij de aanhouding en in de woning zeer gering is. Daarnaast is verzoeker inmiddels gestopt met de drugshandel, is hij 60 jaar oud en heeft hij een kwetsbare maatschappelijke positie. Verzoeker is verslaafd aan alcohol en moeilijk ter been. Hij is beïnvloedbaar, makkelijk te manipuleren en vergeetachtig. Verder heeft hij gezondheidsproblemen (jicht, leverschade en hoge bloeddruk). Verzoeker stelt dat sluiting van de woning niet meer noodzakelijk is, gelet op het tijdsverloop tussen de vooraankondiging van 19 december 2019, de zienswijze van 17 januari 2020 en het primaire besluit van 20 februari 2020. Ook het tijdsverloop tussen de eerste overlastmeldingen en het voornemen duidt er volgens verzoeker op dat sluiting van de woning niet noodzakelijk is. Tot slot voert verzoeker aan dat als een sluiting wel gerechtvaardigd is, een termijn van maximaal drie maanden volstaat.</para>
+    <para />
+    <para>7. De voorzieningenrechter stelt vast dat verzoeker niet betwist dat verweerder bevoegd is om de woning te sluiten. Gelet op de in de woning aangetroffen handelshoeveelheid cocaïne is ook de voorzieningenrechter van oordeel dat verweerder bevoegd was de woning te sluiten. Daarmee komt de voorzieningenrechter toe aan de vraag of verweerder in redelijkheid van die bevoegdheid gebruik mag maken. Bij de beantwoording van die vraag is van belang of sluiting van de woning noodzakelijk is om het woon- en leefklimaat te beschermen en de openbare orde te herstellen. Daarnaast is van belang of een sluiting van de woning voor twaalf maanden evenredig is en of verweerder voldoende heeft gemotiveerd waarom voor een sluitingstermijn van twaalf maanden is gekozen.</para>
+    <para />
+    <para>8. Het voorlopig oordeel van de voorzieningenrechter is dat verweerder in redelijkheid gebruik heeft kunnen maken van zijn bevoegdheid om de woning te sluiten en daarbij een termijn van twaalf maanden heeft kunnen hanteren. De voorzieningenrechter is als volgt tot dit oordeel gekomen. </para>
+    <para />
+    <para>9. Anders dan verzoeker stelt, is de hoeveelheid cocaïne (zeven gram) die in de woning is aangetroffen niet gering. Een hoeveelheid van 0,5 gram wordt namelijk al aangemerkt als een handelshoeveelheid en de aangetroffen hoeveelheid is veel meer dan dat. Aangenomen kan worden dat verzoeker vanuit de woning in drugs heeft gehandeld. Verzoeker heeft de stellingen van verweerder daarover niet betwist. Het is dus aannemelijk dat de woning een rol vervult in de keten van drugshandel en dat verzoeker verwijtbaar heeft gehandeld. Verweerder heeft verder terecht veel gewicht toegekend aan de overlast die omwonenden hebben ervaren door de handel in drugs vanuit de woning. Daarmee heeft verweerder voldoende gemotiveerd dat een sluiting noodzakelijk is om het woon- en leefklimaat te beschermen en de openbare orde te herstellen.</para>
+    <para />
+    <para>10. Dat de sluiting onomkeerbare gevolgen heeft voor verzoeker, die stelt dat hij geen alternatieve woonruimte heeft, is onvoldoende reden waarom verweerder van sluiting zou moeten afzien. De leeftijd, de persoonlijke omstandigheden en de gezondheidsproblemen van verzoeker maken ook niet dat verweerder geen gebruik heeft kunnen maken van zijn bevoegdheid tot sluiting. Verzoeker is niet afhankelijk van specifiek deze woning. Dat verzoeker zijn leven heeft gebeterd en zou zijn gestopt met de handel in drugs is onvoldoende aannemelijk. Bovendien heeft verweerder groot gewicht mogen toekennen aan de langdurige  bekendheid van de woning in het drugscircuit. Die bekendheid verdwijnt namelijk niet meteen als niet meer vanuit de woning in drugs wordt gehandeld.</para>
+    <para />
+    <para>11. Het tijdsverloop tussen de eerste overlastmeldingen en het voornemen en het tijdsverloop tussen het voornemen en het primaire besluit is ook geen reden waarom verweerder zou moeten afzien van sluiting van de woning. Verweerder heeft uitgelegd dat het primaire besluit wat langer op zich heeft laten wachten doordat verzoeker alsnog een zienswijze indiende toen het primaire besluit al klaar lag. Omdat verweerder alsnog op de zienswijze van verzoeker wilde reageren heeft het primaire besluit wat langer op zich laten wachten. Verder heeft verweerder tijdens de zitting opgemerkt dat hij pas op 17 december 2019 door de bestuurlijke rapportage op de hoogte is geraakt van de situatie in de woning en dat daarna vrijwel direct een voornemen tot sluiting is uitgebracht. Dat er enig tijdsverloop is, maakt niet dat een sluiting niet meer noodzakelijk is. Tijdens de zitting heeft verweerder toegelicht dat de overlastmeldingen voortduren en dat verzoeker op 4 mei 2020 opnieuw door de politie is aangehouden. Hij had toen ‘tien tot twaalf bolletjes’ bij zich, die nog moeten worden getest. Dit wijst erop dat verzoeker, anders dan hij stelt, de handel in drugs vanuit de woning heeft voortgezet na het voornemen. Verweerder heeft gelet op het voorgaande voldoende gemotiveerd waarom hij sluiting van de woning nog steeds noodzakelijk vindt. </para>
+    <para />
+    <para>12. Verweerder heeft daarnaast voldoende gemotiveerd waarom een sluitingstermijn van twaalf maanden noodzakelijk is. Daarbij heeft verweerder mogen laten meewegen dat de woning een langere periode heeft bekendgestaan in het drugcircuit, dat een aanzienlijke hoeveelheid drugs zijn aangetroffen en dat in de omgeving van de woning overlast is ervaren. Verzoeker heeft daar onvoldoende tegenover gesteld. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie voor de voorlopige voorziening</emphasis>
+      </para>
+    </parablock>
+    <para>13. De conclusie luidt dat het bezwaar van verzoeker tegen de sluiting van de woning geen redelijke kans van slagen heeft. De voorzieningenrechter ziet, vooral in het licht van het hiervoor gegeven voorlopig rechtmatigheidsoordeel, in de belangen van verzoeker geen aanleiding het primaire besluit te schorsen of een andere voorlopige voorziening te treffen. Dit betekent dat verzoeker de woning moet verlaten. Het verzoek om een voorlopige voorziening wordt afgewezen. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is op 29 mei 2020 gedaan door mr. V.E. van der Does, voorzieningenrechter, in aanwezigheid van mr. A.M. Slierendrecht, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

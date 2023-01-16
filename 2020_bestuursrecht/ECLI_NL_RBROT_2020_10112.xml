@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:10112</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-11T10:00:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-09</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/5264</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Dordrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:10112">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:10112</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-10T09:51:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:10112 Rechtbank Rotterdam , 09-11-2020 / ROT 20/5264</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:10112:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verzoek om voorlopige voorziening. Verzoekers hebben een inleidend verzoek ingediend voor het houden van een raadplegend referendum over het Rivium (een werk-woonwijk in Capelle aan den IJssel). Verweerder heeft besloten dat verzoekers niet in de gelegenheid worden gesteld om een definitief verzoek in te dienen. De voorzieningenrechter vindt dat verzoekers geen spoedeisend belang hebben bij het treffen van een voorlopige voorziening. Dit omdat er op korte termijn geen onomkeerbare situaties zullen plaatsvinden en het ook niet haalbaar is om het referendum te laten plaatsvinden samen met de Tweede Kamerverkiezingen in maart 2021. Het verzoek om voorlopige voorziening wordt daarom afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:10112:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ROTTERDAM</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Dordrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/5264</para>
+    </parablock>
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 9 november 2020 in de zaak tussen</bridgehead>
+    <para>
+      <?linebreak?>
+      <emphasis role="bold">drs. [naam verzoeker 1]</emphasis>, <emphasis role="bold">[naam verzoeker 2] en [naam verzoeker 3]</emphasis>, te Capelle aan den IJssel , verzoekers,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de raad van de gemeente Capelle aan den IJssel, verweerder(gemachtigden: mr. R.S. Wijling en mr. O. de Vries). </bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop <?linebreak?></title>
+    <para>Bij besluit van 28 september 2020 (het bestreden besluit) heeft verweerder het inleidend verzoek van verzoekers voor het houden van een raadplegend referendum over gebiedspaspoort 2.0 Rivium, afgewezen.</para>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben tegen het bestreden besluit bezwaar gemaakt. Zij hebben de voorzieningenrechter gevraagd om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben nog een nader stuk ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 28 oktober 2020. Verzoekers zijn verschenen. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden en A. Kraljevic (projectleider Rivium), mr. K.C. Tobias (juridisch adviseur), F. Harteveld (raadsadviseur) en mr. P.M.D. Weijers (raadslid SGP).</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De gemeente Capelle aan den IJssel werkt aan de ontwikkeling van een nieuwe werk-woonwijk (Rivium), aan de rand van Capelle aan den IJssel. Op 12 maart 2018 is het gebiedspaspoort 1.0 Nieuwe Rivium (gebiedspaspoort 1.0) vastgesteld door verweerder. De nadere plannen voor de ontwikkeling van het Rivium staan in een ambitiedocument, het gebiedspaspoort 2.0 Rivium (gebiedspaspoort 2.0). Verzoekers willen dat er een raadgevend referendum komt, zodat bewoners van Capelle aan den IJssel zich over de plannen in gebiedspaspoort 2.0 kunnen uitspreken. </para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Hoe luidt de regelgeving?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. De regels over het houden van een raadgevend referendum staan in de Referendumverordening Capelle aan den IJssel 2020 (Referendumverordening). Kort gezegd, komen die regels op het volgende neer. Er moet eerst een inleidend verzoek worden ingediend. De referendumcommissie adviseert verweerder of het concept raadsbesluit (in dit geval het gebiedspaspoort) onderwerp kan zijn van een referendum. Vervolgens besluit verweerder of de gelegenheid wordt geboden tot het indienen van een definitief verzoek.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Waar gaat het in deze zaak om?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Verweerder heeft besloten, nadat verzoekers een inleidend verzoek hadden ingediend om een raadgevend referendum te houden, dat er geen gelegenheid wordt geboden tot het indienen van een definitief verzoek. Hiervoor heeft verweerder twee redenen gegeven, namelijk (1) dat er al op een eerder moment (bij gebiedspaspoort 1.0) de mogelijkheid was tot het houden van een raadplegend referendum<footnote-ref linkend="_79597ae2-39c7-4bde-a8e5-3d7dcb79abb5" />, en (2) dat het houden van een referendum het proces zal vertragen, met het risico dat investeerders hierdoor zullen afhaken. Verweerder vindt dat dit belang zwaarder weegt dan het inzetten van een referendum. Daarbij komt dat er al een uitgebreide inspraakprocedure is geweest<footnote-ref linkend="_1ec8bb2b-7b63-40e6-a765-431b0b98e3d3" />. Verzoekers zijn het er hier niet mee eens en hebben de voorzieningenrechter, onder meer, gevraagd om te bepalen dat zij wel de gelegenheid krijgen om een definitief verzoek in te dienen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Ter zitting is besproken dat de voorzieningenrechter zich uitsluitend kan uitlaten over de vraag of in afwachting van de beslissing op bezwaar tegen de afwijzing om een definitief verzoek om een raadgevend referendum te houden een voorlopige voorziening moet worden getroffen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Spoedeisend belang</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. De voorzieningenrechter kan een voorlopige voorziening treffen als er sprake is van een spoedeisend belang.</para>
+      <para />
+      <para>5. Verzoekers hebben een aantal redenen genoemd waarom zij niet kunnen wachten op een beslissing op hun bezwaarschrift. De voorzieningenrechter zal deze redenen hieronder bespreken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Ten eerste hebben verzoekers aangevoerd dat als verweerder had ingestemd met het indienen van een definitief verzoek, verweerder het concept raadsbesluit (het gebiedspaspoort 2.0) had aangehouden. In dit geval heeft verweerder het concept raadsbesluit op 29 september 2020 aangenomen, waardoor allerlei besluiten over de inrichting van het Rivium kunnen worden genomen. Verzoekers willen met het verzoek om voorlopige voorziening voorkomen dat dit gaat leiden tot onomkeerbare situaties.</para>
+      <para />
+      <paragroup>
+        <nr>6.2.1</nr>
+        <parablock>
+          <para>Verweerder heeft erop gewezen dat het gebiedspaspoort 2.0 een ambitiedocument is en dat er geen besluiten in staan op het gebied van de ruimtelijke ordening. Als er naar aanleiding van het gebiedspaspoort 2.0 besluiten worden genomen, dan staat hiertegen apart bezwaar en beroep open. Verweerder heeft verder te kennen gegeven dat het bezwaarschrift van verzoekers zal worden behandeld tijdens een hoorzitting op 10 november 2020. Verweerder verwacht dat er dan tijdens de raadsvergadering van 14 december 2020 een beslissing kan worden genomen op het bezwaarschrift van verzoekers. </para>
+          <para>Tijdens de zitting heeft verweerder desgevraagd verklaard dat de eerstvolgende stap in het (bouw)proces van het Rivium zal zijn dat er bouwenveloppen<footnote-ref linkend="_9460e992-6a5b-4b93-9700-067cbccb2abc" /> worden ontwikkeld, maar dat dit niet eerder zal plaatsvinden dan december 2020. Volgens verweerder zullen er dus op korte termijn geen onomkeerbare situaties plaatsvinden.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.2.2</nr>
+        <para>De voorzieningenrechter is niet gebleken dat het aannemen van het gebiedspaspoort 2.0 op korte termijn zal leiden tot onomkeerbare situaties. De voorzieningenrechter vindt daarom dat verzoekers op dit punt geen spoedeisend belang hebben bij het treffen van een voorlopige voorziening.</para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Ten tweede willen verzoekers het referendum houden op het moment van de Tweede Kamerverkiezingen in maart 2021, om een zo groot mogelijke opkomst te kunnen garanderen. Volgens verzoekers kunnen zij niet wachten tot verweerder een beslissing heeft genomen op hun bezwaarschrift, omdat er dan kostbare voorbereidingstijd verloren gaat.</para>
+      <para />
+      <paragroup>
+        <nr>7.2.1</nr>
+        <para>De voorzieningenrechter overweegt dat er in de artikelen 9 en 10 van de Referendumverordening regels staan over de te volgen stappen en hoeveel tijd elke stap in beslag neemt. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.2.2</nr>
+        <para>Een definitief verzoek voor het houden van een referendum moet worden ondersteund door 1.600 kiesgerechtigden. Er geldt een termijn van zes weken voor het verzamelen van handtekeningen<footnote-ref linkend="_ac8404f9-5160-4222-9fca-6d42f1fa0a13" />. Als er voldoende handtekeningen zijn verzameld, dan neemt verweerder zo spoedig mogelijk een besluit op het definitieve verzoek. Als verweerder besluit tot het houden van het referendum, dan wordt het referendum niet eerder gehouden dan vier maanden na het nemen van dit besluit<footnote-ref linkend="_cb139dc7-e109-409c-8a63-86a957a55488" />.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.2.3</nr>
+        <para>De voorzieningenrechter stelt vast dat de beoogde datum voor de Tweede Kamerverkiezingen 17 maart 2021 is. Dat betekent dat verweerder het besluit tot het houden van een referendum uiterlijk 17 november 2020 zou moeten nemen. Dit betekent ook dat het verzamelen van handtekeningen van 1.600 kiesgerechtigden op enig moment voor 17 november 2020 moet zijn afgerond. Nu voor het verzamelen van die handtekeningen een termijn staat van zes weken, betekent dit dat de termijn voor het indienen van handtekeningen al op 6 oktober 2020 moest gaan lopen. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>7.2.4</nr>
+        <parablock>
+          <para>Alhoewel het in theorie mogelijk is de benodigde handtekeningen in minder dan zes weken en voor 17 november 2020 te verzamelen, acht de voorzieningenrechter het, gelet op de tijd die gemoeid is met de administratieve handelingen rondom het verzamelen van de handtekeningen en de besluitvorming die nog zou moeten volgen op het indienen van een definitief verzoek, geen haalbare kaart om het referendum te houden samen met de Tweede Kamerverkiezingen. </para>
+          <para>Nu de besluitvorming over een definitief verzoek niet tijdig kan worden afgerond om het referendum tegelijk te houden met de Tweede Kamerverkiezingen, is er ook op dit punt geen spoedeisend belang.</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Is het besluit evident onrechtmatig?</emphasis>
+          </para>
+        </parablock>
+        <para />
+        <para>8. De gevraagde voorziening kan verder alleen nog worden getroffen als het besluit van verweerder evident onrechtmatig is. Met evident onrechtmatig wordt bedoeld dat zonder diepgaand onderzoek naar de relevante feiten en het recht zeer ernstig moet worden betwijfeld of het door verweerder ingenomen standpunt juist is en of het besluit in de bezwaarprocedure stand zal houden. Daarvan is de voorzieningenrechter in dit geval niet gebleken.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="italic">Conclusie</emphasis>
+          </para>
+        </parablock>
+        <para />
+        <para>9. De voorzieningenrechter wijst het verzoek af.</para>
+        <para />
+        <para>10. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+        <para />
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. M.G.L. de Vette, voorzieningenrechter, in aanwezigheid vanE.C. Petrusma, griffier. De uitspraak is uitgesproken in het openbaar op 9 november 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier is buiten staat	De voorzieningenrechter is verhinderd om de uitspraak te ondertekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>voorzieningenrechter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <bridgehead>Rechtsmiddel<?linebreak?>Tegen deze uitspraak staat geen rechtsmiddel open.</bridgehead>
+  <footnote id="_79597ae2-39c7-4bde-a8e5-3d7dcb79abb5" label="1">
+    <para> De afwijzingsgrond van artikel 2, aanhef en onder i, van de Referendumverordening: </para>
+    <para>Concept raadsbesluiten kunnen onderwerp zijn van een referendum, met uitzondering van besluiten die naar het oordeel van de raad hun grondslag vinden in een eerder genomen besluit waarover een referendum is gehouden of kon worden gehouden.</para>
+  </footnote>
+  <footnote id="_1ec8bb2b-7b63-40e6-a765-431b0b98e3d3" label="2">
+    <para> De afwijzingsgrond van artikel 2, aanhef en onder j, van de Referendumverordening: </para>
+    <para>Concept raadsbesluiten kunnen onderwerp zijn van een referendum, met uitzondering van besluiten waarvan de totstandkoming, inwerkingtreding of uitvoering naar het oordeel van de raad niet kan worden uitgesteld vanwege enig daarmee gemoeid belang.</para>
+  </footnote>
+  <footnote id="_9460e992-6a5b-4b93-9700-067cbccb2abc" label="3">
+    <para> Een bouwenvelop is een document dat alle beleidsregels bevat waaraan een bouwproject moet voldoen en op basis waarvan overeenkomsten met de ontwikkelende partijen worden gesloten.</para>
+  </footnote>
+  <footnote id="_ac8404f9-5160-4222-9fca-6d42f1fa0a13" label="4">
+    <para> Dit staat in artikel 9 van de Referendumverordening.</para>
+  </footnote>
+  <footnote id="_cb139dc7-e109-409c-8a63-86a957a55488" label="5">
+    <para> Dit staat in artikel 10 van de Referendumverordening.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

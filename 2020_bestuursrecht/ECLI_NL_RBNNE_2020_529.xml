@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:529</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-11T14:26:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 20/422</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:529">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:529</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-11T14:16:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:529 Rechtbank Noord-Nederland , 07-02-2020 / LEE 20/422</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:529:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Betreft demonstratie tegen Swarte Pyt bij intocht Sint Piter te Grou. In geschil is de toegewezen locatie aan de overkant van de kade waar St Piter aanmeert: verzoekster meent dat dit afbreuk doet aan kracht demonstratie. Verweerder acht locaties in centrum Grou ongeschikt en baseert zich daarbij op rapport van de politie. De voorzieningenrechter acht de conlsuies van de politie, die deskundig is op gebied openbare orde, voldoende onderbouwd. Verweerder heeft in redelijkheid alleen de aangewezen locatie geschikt kunnen achten.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:529:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Groningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: LEE 20/422</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Proces-verbaal van de mondelinge uitspraak van de voorzieningenrechter van </bridgehead>
+    <bridgehead role="bold">7 februari 2020 op het verzoek om een voorlopige voorziening in de zaak tussen</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Stichting Nederland Wordt Beter</emphasis>, te Amsterdam, verzoekster</para>
+      <para>(gemachtigde: mr. I. van der Meer),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Leeuwarden, verweerder</bridgehead>
+    <para>(gemachtigde: mr. S.A. Scholten).</para>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 5 februari 2020 (het primaire besluit) heeft verweerder een betoging door verzoekster (onder de naam “Kick Out Zwarte Piet”) te Grou toegestaan op zaterdag 8 februari 2020 op het weilandperceel gelegen tussen de J.W. de Visserwei en de Garde Jagerswei, gelegen aan het water de Rjochte Grou, tegenover de kade waar Sint Piter bij zijn intocht aanmeert.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen het primaire besluit bezwaar gemaakt. Zij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het geschil is behandeld op de zitting van 7 februari 2020. Namens verzoekster zijn verschenen gemachtigde en [bestuurder]. Verweerder is vertegenwoordigd door zijn gemachtigde, door H. Tanja en door H. van Veen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Na afloop van de zitting heeft de voorzieningenrechter onmiddellijk uitspraak gedaan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst het verzoek om een voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Tussen partijen is niet in geschil dat verzoekster tijdig een kennisgeving tot betoging heeft gedaan en dat de gelegenheid tot betogen dient te worden gegeven. Wel in geschil is de toewijzing van de locatie. Verzoekster vindt dat de toegewezen locatie A aan de overkant van de kade elke kracht aan het protest zal ontnemen omdat het protest dan niet goed zichtbaar, hoorbaar of anderszins waarneembaar zal zijn. Verzoekster wil daarom betogen op één van de locaties B, C, D of E die langs de route van de intocht van Sint Piter liggen. Ter zitting is nog de locatie H (tegenover locatie D) besproken.</para>
+    <para />
+    <para>2. Uit de artikelen 2 en 5 van de Wet openbare manifestaties volgt dat de burgemeester naar aanleiding van de kennisgeving beperkingen mag stellen ter voorkoming van wanordelijkheden. Op grond hiervan kan de burgemeester bepalen dat op een bepaalde plek wel gedemonstreerd mag worden en op andere plekken niet, maar dan moet hij wel onderbouwen waarom er wanordelijkheden dreigen. De rechter dient deze beoordeling afstandelijk te toetsen.</para>
+    <para />
+    <para>3. In de besluitvorming heeft de burgemeester zich gebaseerd op het politierapport en hij heeft de relevante overwegingen uit dat rapport in het besluit samengevat. In dit rapport wordt uitvoerig uiteengezet waarom de verschillende locaties B tot en met E niet geschikt zouden zijn. Ter zitting heeft verweerder gesteld dat de situatie bij locatie H vergelijkbaar is met die bij locatie D. </para>
+    <para />
+    <para>4. De voorzieningenrechter overweegt dat de politie deskundige is met betrekking tot het voorkomen van wanordelijkheden. De voorzieningenrechter acht de motivering in het politierapport voldoende inzichtelijk: de conclusies over de geschiktheid zijn daarmee naar het oordeel van de voorzieningenrechter goed onderbouwd. Daarbij betrekt de voorzieningenrechter dat het per definitie gaat om een inschatting van risico’s; het gaat niet om het met zekerheid vaststellen van gevaren. </para>
+    <para />
+    <para>5. Verweerder heeft gelet op het voorgaande kunnen concluderen dat een plek voor de betoging langs de route van de optocht in het centrum van Grou zich niet leent voor de aangekondigde betoging. Verweerder heeft naar voorlopig oordeel van de voorzieningenrechter in redelijkheid kunnen concluderen dat locatie A de enige mogelijke locatie is om het recht van betoging te waarborgen. Gezien de situatie in Grou heeft de burgemeester daarbij voldoende oog gehad voor hoorbaarheid en zichtbaarheid.</para>
+    <para />
+    <para>6. De voorzieningenrechter ziet geen aanleiding om het besluit, zoals dat ter zitting nader is toegelicht, onrechtmatig te achten en daarom is er geen reden om een voorlopige voorziening te treffen.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L. Mulder, voorzieningenrechter, in aanwezigheid van mr. H.A. Hulst, griffier. De beslissing is in het openbaar uitgesproken op 7 februari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier											voorzieningenrechter 		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open. </para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

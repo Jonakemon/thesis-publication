@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:9392</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T15:51:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-23</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL20.5112, NL20.5113, NL20.5114 en NL20.5115</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9392">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9392</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-28T15:51:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-28</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:9392 Rechtbank Den Haag , 23-09-2020 / NL20.5112, NL20.5113, NL20.5114 en NL20.5115</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:9392:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>geen veroordeling in de pkv / besluiten ingetrokken omdat overdracht binnen de termijn niet mogelijk was door de coronacrisis / ligt buiten macht verweerder / corona is veranderde omstandigheid die zich ten tijde van de besluiten niet voordeed</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:9392:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: 	NL20.5112 en NL20.5114 (beroepen) </para>
+      <para>		NL20.5113 en NL20.5115 (verzoeken om voorlopige voorziening)</para>
+      <para>
+        <?linebreak?>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer en de voorzieningenrechter in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <bridgehead role="bold">
+      [eiser] , eiser/verzoeker, </bridgehead>
+    <parablock>
+      <para>V-nummer: [V-nummer eiser]</para>
+      <para>en</para>
+      <para>
+        <emphasis role="bold">
+          [eiseres] , </emphasis>eiseres/verzoekster</para>
+      <para>V-nummer: [V-nummer eiseres]</para>
+      <para>hierna: eisers</para>
+      <para>(gemachtigde: [naam] ),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder.</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluiten van 27 februari 2020 (de bestreden besluiten) heeft verweerder de aanvragen van eisers tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd niet in behandeling genomen op de grond dat Frankrijk verantwoordelijk is voor de behandeling van de aanvragen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen de bestreden besluit beroep ingesteld en een verzoek voorlopige voorziening ingediend dat ertoe strekt dat eisers niet worden overgedragen totdat op hun beroep is beslist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 20 augustus 2020 heeft verweerder de bestreden besluiten ingetrokken. Verweerder ziet daarbij geen aanleiding voor een proceskostenvergoeding.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Naar aanleiding hiervan hebben eisers hun beroep en verzoek ingetrokken met daarbij het verzoek verweerder te veroordelen tot vergoeding van de proceskosten. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>De rechtbank/voorzieningenrecht (de rechtbank) doet op grond van de artikelen 8:54, eerste lid, en 8:83, derde lid, van de Algemene wet bestuursrecht (Awb) zonder zitting uitspraak op het verzoek om proceskostenveroordeling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Als een beroep of een verzoek om voorlopige voorziening wordt ingetrokken, omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift of het verzoekschrift is tegemoet gekomen, kan de rechtbank op verzoek van de indiener dat bestuursorgaan bij afzonderlijke uitspraak veroordelen in de proceskosten. Dat staat in de artikelen 8:75a en 8:84, vijfde lid, van de Awb. Daarom beoordeelt de rechtbank of verweerder geheel of gedeeltelijk aan eisers is tegemoetgekomen. </para>
+      <para />
+      <para>2. Verweerder heeft de bestreden besluiten ingetrokken, omdat eisers niet binnen de termijn zoals genoemd in artikel 29, tweede lid, van de Dublinverordening<footnote-ref linkend="_840ca0c8-a5c4-4da2-b7d7-4ea6e8965014" /> zijn overgedragen aan de autoriteiten van Frankrijk. De overdracht is niet gerealiseerd als gevolg van de uitbraak van het coronavirus. Verweerder ziet geen aanleiding voor een proceskostenveroordeling en stelt zich daarbij op het standpunt dat de intrekking niet het gevolg is van een aan het bestuursorgaan te wijten onrechtmatigheid. Verweerder verwijst naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 8 april 2019<footnote-ref linkend="_3b16949c-25d2-419e-9181-3424ed858569" />. </para>
+      <para />
+      <para>3. Eisers zijn van mening dat verweerder veroordeeld dient te worden in hun proceskosten.</para>
+      <para />
+      <para>4. Uit vaste jurisprudentie van de Afdeling<footnote-ref linkend="_c927f74a-d55d-42cf-a37d-f58a6bde893d" /> volgt dat van tegemoetkomen in de zin van artikel 8:75a van de Awb alleen sprake is als het bestuursorgaan zijn standpunt zodanig heeft herzien dat daarmee eigenlijk wordt erkend dat het oorspronkelijke besluit onrechtmatig was. Volgens de Afdeling is bij intrekking van een besluit vanwege nieuwe feiten en omstandigheden of vanwege nadien verkregen informatie geen sprake van tegemoetkomen.</para>
+      <para />
+      <para>5. Na de bestreden besluiten is gebleken dat eisers niet vóór het verstrijken van de overdrachtstermijn konden worden overgedragen aan de Franse autoriteiten. Verweerder heeft daarom de bestreden besluiten ingetrokken en de asielaanvragen van eisers alsnog in behandeling genomen. De overdracht aan Frankrijk is feitelijk onmogelijk gemaakt door de coronacrisis, welke omstandigheid buiten de macht van verweerder ligt en dus niet aan verweerder verweten kan worden. Dat is een veranderde omstandigheid die zich ten tijde van de bestreden besluiten nog niet voordeed. Verweerder is met de intrekking van de bestreden besluiten eisers dan ook niet tegemoetgekomen in de zin van artikel 8:75a van de Awb. Daarom bestaat geen aanleiding om verweerder te veroordelen tot vergoeding van de proceskosten.</para>
+      <para />
+      <para>6. Het verzoek wordt als kennelijk ongegrond afgewezen.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank :</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Wijst het verzoek om verweerder te veroordelen in de proceskosten af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.J.M. Langeveld, (voorzieningen)rechter, in aanwezigheid van mr. B.E. Giesen, griffier. Deze uitspraak is in het openbaar gedaan en bekendgemaakt op 23 september 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>						(voorzieningen)rechter</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan, voor zover daarin is beslist op het verzoek in de beroepsprocedures, verzet worden ingesteld bij deze rechtbank binnen zes weken na de dag van bekendmaking. De indiener van het verzetschrift kan daarbij vragen in de gelegenheid te worden gesteld over het verzet te worden gehoord. </para>
+    <para />
+  </section>
+  <footnote id="_840ca0c8-a5c4-4da2-b7d7-4ea6e8965014" label="1">
+    <para> Verordening (EU) nr. 604/2013.</para>
+  </footnote>
+  <footnote id="_3b16949c-25d2-419e-9181-3424ed858569" label="2">
+    <para> ECLI:NL:RVS:2019:1084.</para>
+  </footnote>
+  <footnote id="_c927f74a-d55d-42cf-a37d-f58a6bde893d" label="3">
+    <para> Zie naast de uitspraak van 8 april 2019 bijvoorbeeld ook de uitspraak van de Afdeling van 18 juli 2012, ECLI:NL:RVS:2012:BX1816 en de recente uitspraak van 5 augustus 2020, ECLI:NL:RVS:2020:1855.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

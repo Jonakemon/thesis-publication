@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:348</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-05T09:22:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 19/5825</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>JBP 2020/64</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:348">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:348</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-05T09:21:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:348 Rechtbank Amsterdam , 21-01-2020 / AMS 19/5825</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:348:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Meervoudige kamer. Verzoeken op grond van de Wet bescherming persoonsgegevens. Derde-belanghebbende. Geen recht op afgifte documenten. AVG niet van toepassing. Geen dwangsom. Te beperkte zoekslag naar documenten.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:348:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/5825 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 21 januari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser 1] , te Amsterdam, eiser (hierna: [eiser 1] )</bridgehead>
+    <parablock>
+      <para>en</para>
+      <para>
+        <emphasis role="bold">
+          [eiser 2] , </emphasis>vertegenwoordigd door haar mentor [eiser 1] , te Amsterdam, eiseres (hierna: [eiser 2] (tezamen: eisers)</para>
+      <para>(gemachtigde: mr. dr. C. Raat),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Volksgezondheid, Welzijn en Sport, verweerder</bridgehead>
+    <para>(gemachtigde: mr. M.A.H. Gatzen).</para>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: <emphasis role="bold">[derde belanghebbende]</emphasis>, gevestigd te Nunspeet (hierna: [derde belanghebbende] )</para>
+      <para>(gemachtigde: mr. A. Jagt).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluiten van 12 januari 2018 (de primaire besluiten) heeft verweerder beslist op de verzoeken van eisers op grond van de Wet bescherming persoonsgegevens (Wbp).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 mei 2018 (het bestreden besluit) heeft verweerder het bezwaar van eisers ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De rechtbank heeft het beroep tegen het bestreden besluit gesplitst in een zaak betreffende de Wbp (met zaaknummer AMS 19/5825) en een zaak betreffende de Wet openbaarheid van bestuur (Wob). De laatste zaak is geregistreerd onder zaaknummer AMS 18/4196. In elk van de zaken wordt afzonderlijk uitspraak gedaan.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij beslissing van 26 november 2019 heeft de rechtbank (in een andere samenstelling) beslist dat de beperking van de kennisneming als bedoeld in artikel 8:29 van de Algemene wet bestuursrecht (Awb) van de bij brief van 6 november 2019 overgelegde bijlage 3 (bijlage 1 tot en met 26) gerechtvaardigd is.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben de rechtbank toestemming verleend om van deze stukken kennis te nemen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 10 december 2019. [eiser 1] en de gemachtigde van eisers waren aanwezig. </para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en mr. R. Willemsen (juridisch adviseur bij de Inspectie Gezondheidszorg en Jeugd). <?linebreak?>[derde belanghebbende] heeft zich laten vertegenwoordigen door mr. A. Jagt. Verder is namens [derde belanghebbende] verschenen mr. A.E.G. IJff (bedrijfsjurist). </para>
+      <para>Verder was aanwezig [de persoon] , voormalig advocaat van eisers.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De aanleiding voor deze procedure</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>
+        [eiser 1] (mentor en bewindvoerder van [eiser 2] heeft op 22 maart 2017 bij de Inspectie voor de Gezondheidszorg (hierna: IGZ) een verzoek ingediend tot het ontvangen van alle correspondentie over [eiser 2] naar [derde belanghebbende] en de Tweede Kamer. Ook wil [eiser 1] alle correspondentie hebben die er is geweest tussen IGZ en [derde belanghebbende] en tussen IGZ en de voormalig mentor van eiseres ( [mentor] ). [eiser 1] beroept zich (onder andere) op de Wbp. Dit verzoek is door verweerder opgevat als (uitsluitend) een Wob-verzoek en daar is bij besluit van 31 augustus 2017 op beslist. Tegen dat besluit heeft [eiser 1] bezwaar gemaakt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>
+        [eiser 1] heeft tijdens de hoorzitting van 14 december 2017 in het kader van de Wob-bezwaarprocedure aangevoerd dat zijn verzoek van 22 maart 2017 bij de IGZ ook had moeten worden aangemerkt als twee verzoeken op grond van de Wbp (voor zowel [eiser 1] als [eiser 2] . Eisers hadden op zijn minst een overzicht moeten krijgen van alle persoonsgegevens die over hen zijn verwerkt, aldus eisers.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De besluitvorming</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>2. Met de primaire besluiten heeft verweerder beslist op de verzoeken die zijn gedaan tijdens de hoorzitting op 14 december 2017. In de primaire besluiten heeft verweerder meegedeeld dat de IGZ persoonsgegevens van eisers zijn verwerkt. Daarbij heeft verweerder aangegeven wat het doel van de registratie is, welke categorieën van gegevens worden verwerkt, wie de ontvangers van de gegevens zijn en wat de herkomst van de gegevens is. Verweerder heeft als bijlage een overzicht van de documenten waarin persoonsgegevens zijn verwerkt opgenomen en verder per document bovenstaande punten vermeld. </para>
+      <para />
+      <para>3. Bij het bestreden besluit heeft verweerder het bezwaar ongegrond verklaard. Daartoe heeft verweerder overwogen dat conform vaste jurisprudentie op de Wbp-verzoeken is beslist. Verweerder verwijst in dit kader naar het arrest van het Hof van Justitie van de Europese Unie (het Hof) van 17 juli 2014.<footnote-ref linkend="_d22330ad-70de-43e3-9a1d-60ca4bf01d34" /> Verweerder ziet geen redenen om bij de besluitvorming op grond van de Wbp op de inwerkingtreding van de Algemene Verordening Gegevensbescherming (hierna: AVG) te anticiperen. Met betrekking tot het bezwaar dat eisers verzoek in eerste instantie ten onrechte niet is behandeld als een Wbp-verzoek, merkt verweerder op dat dit voortvloeit uit en een rechtstreeks gevolg is van de formulering van eisers verzoek van 22 maart 2017, waarin is verzocht om documenten. Op 12 januari 2018 zijn alsnog de twee Wbp-besluiten genomen om eisers tegemoet te komen. Dit laatste naar aanleiding van hun verzoeken op de hoorzitting op 14 december 2017. Verweerder heeft daarom beslist dat eisers geen recht hebben op een dwangsom wegens het niet tijdig nemen van de primaire Wbp-besluiten.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Juridisch kader</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. De relevante bepalingen van de Wbp zijn opgenomen in de bijlage bij deze uitspraak. De bijlage maakt deel uit van de uitspraak.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling door de rechtbank</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Is [derde belanghebbende] belanghebbende bij de Wbp-procedure?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>De rechtbank heeft voorafgaand aan de zitting vragen gesteld aan partijen óf, en zo ja, waarom [derde belanghebbende] (derde)belanghebbende is bij de Wbp-procedure. Verweerder en [derde belanghebbende] menen van wel. De rechtbank heeft [derde belanghebbende] vooralsnog als derde-belanghebbende aangemerkt en uitgenodigd voor de zitting.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Eisers voeren aan dat [derde belanghebbende] geen belanghebbende is bij de Wbp-procedure, omdat er geen sprake is van een specifiek en rechtstreeks belang. De Wbp beschermt de privacy-rechten van natuurlijke personen, maar [derde belanghebbende] is een rechtspersoon zonder recht op privacy. [derde belanghebbende] is niet in het leven geroepen om de (privacy)belangen van haar personeel te behartigen, aldus eisers.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De rechtbank is van oordeel dat in dit geval [derde belanghebbende] wel belanghebbende is bij de Wbp-procedure. Daarbij acht de rechtbank de formulering en inhoud van de Wbp-verzoeken van belang. Daarin wordt immers gevraagd om de onderliggende stukken waarin persoonsgegevens verwerkt zijn. Deze stukken zijn voor een substantieel deel afkomstig van [derde belanghebbende] . [derde belanghebbende] heeft daarom een rechtens te respecteren belang om tegen mogelijke afgifte van deze stukken verweer te voeren. Het betoog van eisers slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Hebben eisers recht op afgifte van documenten waarin hun persoonsgegevens zijn verwerkt?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Eisers voeren aan dat de onderliggende documenten waarin hun gegevens zijn verwerkt, overgelegd dienen te worden.<footnote-ref linkend="_86518214-0171-4401-9d5d-4cced6bf48c5" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>De rechtbank overweegt als volgt. Uit de uitspraak van de Afdeling van 4 maart 2015<footnote-ref linkend="_f9596d34-4cea-40c5-bfa6-61b3f1835c97" /> volgt dat het recht op inzage als bedoeld in artikel 35, eerste lid, van de Wbp, uitsluitend betrekking heeft op de persoon betreffende gegevens die vallen onder het bereik van de Wbp. Het Hof heeft in het arrest van 17 juli 2014 over de wijze van verstrekking van deze gegevens overwogen dat het aan de lidstaten is om te bepalen welke concrete materiële vorm die verstrekking moet krijgen, mits deze in begrijpelijke vorm geschiedt. Voor zover aan de met het recht op inzage nagestreefde doelstelling volledig kan worden voldaan met een andere vorm van verstrekking, kan de betrokkene aan artikel 12, aanhef en onder a, van de Privacyrichtlijn geen rechten ontlenen om een afschrift te verkrijgen van het originele document of bestand waarin hem betreffende gegevens staan, aldus het Hof.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>Het is dan ook voldoende dat aan de aanvrager een volledig overzicht in begrijpelijke vorm van deze persoonsgegevens wordt verstrekt, voorzien van een omschrijving van het doel of de doeleinden van de verwerking, de categorieën van gegevens waarop de verwerking betrekking heeft en de ontvangers of categorieën van ontvangers, alsook de beschikbare informatie over de herkomst van de gegevens, zodat de aanvrager die gegevens kan controleren op hun juistheid en kan controleren of zij in overeenstemming met de Wbp zijn verwerkt.<footnote-ref linkend="_c0cafa8a-f04e-4356-9bbc-6bbb16bc5c3c" /><?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <para>Anders dan eisers stellen verplicht artikel 35 van de Wbp verweerder dus niet om de documenten aan hen te verstrekken. De door eisers aangehaalde jurisprudentie doet daar niet aan af. De rechtbank verwijst naar de uitspraak van de Afdeling van 7 augustus 2019 waar deze vaste jurisprudentie wordt weergegeven.<footnote-ref linkend="_daa107db-5ff6-44b1-8ac7-f4f7ec637e4d" /> Het betoog van eisers slaagt niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Eisers hebben in dit kader nog aangevoerd dat de uitleg van de Wbp AVG-conform moet zijn en dat op grond van artikel 15, derde lid, van de AVG recht bestaat op een kopie van de verwerkingen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>De rechtbank overweegt onder verwijzing naar de uitspraak van de Afdeling van 18 september 2019<footnote-ref linkend="_4c109ef4-3736-460a-af36-eebe5e10782a" /> als volgt. Per 25 mei 2018 is de AVG in werking getreden en is de Wbp ingetrokken. Omdat het bestreden besluit in deze zaak vóór deze dag is genomen, blijft de Wbp in deze zaak van toepassing. Het beroep van eisers op de AVG kan daarom niet slagen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Voldoet de besluitvorming aan de eisen van de Wbp?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Eisers voeren aan dat de besluitvorming niet voldoet aan het vereiste van de Afdeling in de uitspraak van 7 juni 2017<footnote-ref linkend="_5edaa155-0dc2-4094-8900-d4e574aa5034" /> dat de betrokkene recht heeft op een volledig overzicht van de persoonsgegevens zelf en per verwerking een verantwoording van doel, bestemming etcetera van de verwerking. Verweerder mocht niet volstaan met - onbegrijpelijke en onvolledige - overzichten van categorieën van ontvangers. In dit kader verwijst eiser naar de uitspraak van de Afdeling van 30 november 2011<footnote-ref linkend="_8788ddea-df76-42ed-a34f-4cd98647951b" />. Het is eisers totaal niet duidelijk wat door wie met welk doel over hen is geschreven en wie daar allemaal verder nog betrokken bij zijn geweest.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>De rechtbank is van oordeel dat de wijze waarop door verweerder in de primaire besluiten inzicht is gegeven in de door verweerder verwerkte persoonsgegevens van eisers, inclusief de daarbij behorende overzichten, voldoet aan de Wbp. Er is een overzicht gegeven van bij [eiser 1] vijf verschillende persoonsgegevens en bij [eiser 2] van acht verschillende persoonsgegevens die verwerkt worden. En per document is in de bijlage aangegeven welk van die persoonsgegevens is verwerkt. Ook is aangegeven wie de ontvangers van de gegevens zijn en van wie de gegevens afkomstig zijn. Naar het oordeel van de rechtbank is een volledig overzicht in begrijpelijke vorm verstrekt op basis waarvan eisers zich van de juistheid en rechtmatigheid van de verwerking kunnen vergewissen en van hun rechten gebruik kunnen maken. De door eisers aangehaalde jurisprudentie maakt dat niet anders.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Als eisers menen dat de verwerking van hun persoonsgegevens onrechtmatig is geweest, kunnen zij een verzoek tot rectificatie of verwijdering van hun persoonsgegevens doen. Dat valt echter buiten de reikwijdte van deze procedure, omdat deze procedure betrekking heeft op het inzagerecht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>Eisers hebben aangevoerd dat in het overzicht ten onrechte niet is opgenomen of en hoe de gegevens zijn beschermd en wanneer deze onjuiste of verouderde gegevens worden vernietigd. Eiser heeft in dit kader verwezen naar de wettekst van artikel 35 van de Wbp en naar de uitspraak van de Afdeling van 30 januari 2013.<footnote-ref linkend="_86a20df5-e3a2-48d2-850a-e71eced851b8" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>De rechtbank overweegt als volgt. Noch uit de wettekst van artikel 35 van de Wbp noch uit de door eisers aangehaalde jurisprudentie kan worden opgemaakt dat aan de aanvrager, bedoeld in artikel 35 tweede lid, van de Wbp, deze gegevens dienen te worden verstrekt. Dat artikel 13 van de Wbp voorschrijft dat de verantwoordelijke passende technische en organisatorische maatregelen ten uitvoer legt om persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking, betekent niet dat bij een verzoek op grond van artikel 35 van de Wbp aan de aanvrager meegedeeld dient te worden welke technische en organisatorische maatregelen dat zijn. De beroepsgrond slaagt niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Eisers stellen dat verweerder de namen van de personen of instanties die de persoonsgegevens hebben ontvangen, niet mocht weglaten. Het gaat dan om de personen die deze gegevens uit hoofde van hun functies hebben ontvangen en niet om particulieren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>De rechtbank stelt vast dat in de bijlages bij de primaire besluiten per document is vermeld wie de ontvanger is. Het gaat hierbij om natuurlijke personen, rechtspersonen en bestuursorganen. In zoverre kan de rechtbank het standpunt van eisers niet volgen dat namen van de personen of instanties die de persoonsgegevens hebben ontvangen, zijn weggelaten. Voor zover eisers bedoeld hebben dat per bestuursorgaan of rechtspersoon moet worden gespecificeerd welke natuurlijke persoon of personen namens het bestuursorgaan of rechtspersoon hun gegevens hebben verwerkt, ziet de rechtbank geen grondslag voor deze stelling. De beroepsgrond slaagt niet.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Zijn er meer documenten waarin de persoonsgegevens van eisers zijn verwerkt?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.1.</nr>
+      <para>Eisers hebben aangevoerd dat er meer stukken moeten zijn waarin hun persoonsgegevens zijn verwerkt. In dit kader hebben eisers verschillende BOPZ-dwangmaatregelen overgelegd die door verweerder niet in het overzicht van zesentwintig documenten zijn opgenomen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2.</nr>
+      <parablock>
+        <para>De rechtbank overweegt als volgt. Op de zitting heeft verweerder de zoekslag naar de aanwezigheid van documenten waarin persoonsgegevens van eisers worden verwerkt toegelicht. Uit de door eisers overgelegde stukken blijkt dat BOPZ-maatregelen over [eiser 2] niet naar boven zijn gekomen, terwijl daar overduidelijk persoonsgegevens in zijn verwerkt. Dit betekent dat de zoekslag te beperkt is geweest. Die documenten laten zien dat in elk geval niet alles is gevonden. Dit betekent dat een meer verfijnde zoekslag geboden is en daarover verantwoording geboden is. De beroepsgrond slaagt.<?linebreak?></para>
+        <para>
+          <emphasis role="italic">Hebben eisers recht op dwangsommen?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.1.</nr>
+      <para>Eisers voeren aan dat verweerder de e-mail van 22 maart 2017 ten onrechte slechts heeft aangemerkt als een Wob-verzoek en dat zij reeds op die datum hebben verzocht om besluitvorming op grond van de Wbp. De primaire besluitvorming is te laat geweest en er is recht op twee dwangsommen, aldus eisers.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.2.</nr>
+      <para>De rechtbank overweegt dat voor het antwoord op de vraag of door verweerder dwangsommen verschuldigd zijn wegens het te laat beslissen op de Wbp-verzoeken, doorslaggevend is het antwoord op de vraag of verweerder de e-mail van 22 maart 2017 ten onrechte heeft aangemerkt als slechts een Wob-verzoek en niet ook heeft opgevat als (twee) Wbp-verzoeken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.3.</nr>
+      <para>De rechtbank overweegt onder verwijzing naar de uitspraak van de Afdeling van 17 april 2019<footnote-ref linkend="_f2709f7c-58a0-4afe-96b8-36545dc6cd7f" /> als volgt. De kwalificatie van een verzoek als Wbp-verzoek is afhankelijk van de omstandigheden van het geval. Hoewel eisers in hun e-mail van 22 maart 2017 de Wbp hebben genoemd, is de rechtbank van oordeel dat voornoemde e-mail niet kan worden aangemerkt als een verzoek op grond van de Wbp. Uit de tekst van de e-mail, zoals hierboven zakelijk is weergegeven onder 1.1, kan niet worden afgeleid dat eisers wilden weten of hun persoonsgegevens werden verwerkt. Het is immers geen verzoek om informatie over (de verwerking van) hun persoonsgegevens, maar om documenten en correspondentie.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>12.4.</nr>
+      <para>Het voorgaande betekent dat verweerder de e-mail van 22 maart 2017 terecht niet mede heeft aangemerkt als Wbp-verzoek. Dit betekent dan ook dat verweerder geen dwangsommen verschuldigd is.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusies</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. Gelet op het voorgaande zijn de beroepen gegrond. De rechtbank vernietigt het bestreden besluit. Zoals overwogen onder 11.2. is het bestreden besluit in strijd met artikel 3:2 van de Awb onzorgvuldig voorbereid en eveneens onvoldoende gemotiveerd. De rechtbank ziet geen mogelijkheid om het geschil finaal te beslechten. Verweerder zal een nieuwe beslissing op bezwaar moeten nemen met inachtneming van hetgeen hiervoor is overwogen. Dat betekent ook dat verweerder een nadere zoekslag zal moeten verrichten naar de aanwezigheid van documenten vallend onder de Wbp-verzoeken.</para>
+      <para />
+      <para>14. De rechtbank overweegt dat het door eisers ingediende beroepschrift door de rechtbank is gesplitst in twee zaken met aparte registratienummers. Eisers hebben geen griffierecht betaald voor het beroep in deze zaak met kenmerk AMS 19/5825. Verweerder hoeft dan ook geen griffierecht te vergoeden.</para>
+      <para />
+      <para>15. De rechtbank veroordeelt verweerder in de door eisers gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het (identieke) beroepschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1). Gelet op het verzoek van eisers over de in bezwaar gemaakte proceskosten, dient verweerder zich daar in de nieuwe beslissing op bezwaar ook over uit te laten. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart de beroepen van eisers gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van eisers tot een bedrag van € 1.050,-</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. C.J. Polak, voorzitter, mr. F.L. Bolkestein en mr. L.C. Bachrach, leden, in aanwezigheid van mr. L.C. Trommel, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 21 januari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wet bescherming persoonsgegevens</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 1 van de Wbp luidt als volgt:</para>
+      <para>"In deze wet en de daarop berustende bepalingen wordt verstaan onder:</para>
+    </parablock>
+    <para>a. persoonsgegeven: elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;</para>
+    <para>b. verwerking van persoonsgegevens: elke handeling of elk geheel van handelingen met betrekking tot persoonsgegevens, waaronder in ieder geval het verzamelen, vastleggen, ordenen, bewaren, bijwerken, wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiding of enige andere vorm van terbeschikkingstelling, samenbrengen, met elkaar in verband brengen, alsmede het afschermen, uitwissen of vernietigen van gegevens;</para>
+    <para>[…]</para>
+    <para>d. verantwoordelijke: de natuurlijke persoon, rechtspersoon of ieder ander die of het bestuursorgaan dat, alleen of tezamen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt;</para>
+    <para>e. bewerker: degene die ten behoeve van de verantwoordelijke persoonsgegevens verwerkt, zonder aan zijn rechtstreeks gezag te zijn onderworpen;</para>
+    <para>f. betrokkene: degene op wie een persoonsgegeven betrekking heeft;</para>
+    <para>g. derde: ieder, niet zijnde de betrokkene, de verantwoordelijke, de bewerker, of enig persoon die onder rechtstreeks gezag van de verantwoordelijke of de bewerker gemachtigd is om persoonsgegevens te verwerken;</para>
+    <para>h. ontvanger: degene aan wie de persoonsgegevens worden verstrekt;</para>
+    <para>[…]."</para>
+    <para />
+    <parablock>
+      <para>Artikel 13 van de Wbp luidt als volgt:</para>
+      <para>“De verantwoordelijke legt passende technische en organisatorische maatregelen ten uitvoer om persoonsgegevens te beveiligen tegen verlies of tegen enige vorm van onrechtmatige verwerking. Deze maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau gelet op de risico’s die de verwerking en de aard van de te bescherming gegevens met zich meebrengen. De maatregelen zijn er mede op gericht onnodige verzameling en verdere verwerking van persoonsgegevens te voorkomen.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 35 van de Wbp luidt als volgt:</para>
+      <para>"1 De betrokkene heeft het recht zich vrijelijk en met redelijke tussenpozen tot de verantwoordelijke te wenden met het verzoek hem mede te delen of hem betreffende persoonsgegevens worden verwerkt. De verantwoordelijke deelt de betrokkene schriftelijk binnen vier weken mee of hem betreffende persoonsgegevens worden verwerkt.</para>
+    </parablock>
+    <para />
+    <para>2 Indien zodanige gegevens worden verwerkt, bevat de mededeling een volledig overzicht daarvan in begrijpelijke vorm, een omschrijving van het doel of de doeleinden van de verwerking, de categorieën van gegevens waarop de verwerking betrekking heeft en de ontvangers of categorieën van ontvangers, alsmede de beschikbare informatie over de herkomst van de gegevens.</para>
+    <para />
+    <para>3 Voordat een verantwoordelijke een mededeling doet als bedoeld in het eerste lid, waartegen een derde naar verwachting bedenkingen zal hebben, stelt hij die derde in de gelegenheid zijn zienswijze naar voren te brengen indien de mededeling gegevens bevat die hem betreffen, tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.</para>
+    <para>[…]"</para>
+    <para />
+    <parablock>
+      <para>Artikel 43 van de Wbp luidt als volgt:</para>
+      <para>“De verantwoordelijke kan de artikelen 9, eerste lid, 30, derde lid, 33, 34, 34a, tweede lid, en 35 buiten toepassing laten voor zover dit noodzakelijk is in het belang van:</para>
+      <para>[…]</para>
+    </parablock>
+    <para>e. de bescherming van de betrokkene of van de rechten en vrijheden van anderen.”</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Algemene Verordening Gegevensbescherming</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 94 van de AVG luidt als volgt:</para>
+      <para>“1.	Richtlijn 95/46/EG wordt met ingang van 25 mei 2018 ingetrokken. </para>
+    </parablock>
+    <para />
+    <para>2. Verwijzingen naar de ingetrokken richtlijn gelden als verwijzingen naar deze verordening. Verwijzingen naar de groep voor de bescherming van personen in verband met de verwerking van persoonsgegevens, die bij artikel 29 van Richtlijn 95/46/EG is opgericht, gelden als verwijzingen naar het bij deze verordening opgerichte Europees Comité voor gegevensbescherming.”</para>
+    <para />
+    <parablock>
+      <para>Artikel 99 van de AVG luidt als volgt: </para>
+      <para>“1.	Deze verordening treedt in werking op de twintigste dag na die van de bekendmaking ervan in het Publicatieblad van de Europese Unie. </para>
+    </parablock>
+    <para />
+    <para>2. Zij is van toepassing met ingang van 25 mei 2018. </para>
+    <para />
+    <parablock>
+      <para>Deze verordening is verbindend in al haar onderdelen en is rechtstreeks toepasselijk in elke lidstaat.”</para>
+    </parablock>
+  </section>
+  <footnote id="_d22330ad-70de-43e3-9a1d-60ca4bf01d34" label="1">
+    <para> ECLI:EU:C:2014:2081.</para>
+  </footnote>
+  <footnote id="_86518214-0171-4401-9d5d-4cced6bf48c5" label="2">
+    <para> Eisers verwijzen in dit kader naar een uitspraak van het Gerechtshof Amsterdam van 2 februari 2016 (ECLI:NL:GHAMS:2016:358), een uitspraak van de Afdeling van 11 februari 2015 (ECLI:NL:RVS:2015:319), een uitspraak van de Hoge Raad van 29 juni 2007 (ECLI:NL:HR:2007:BA3529) en een uitspraak van het Gerechtshof Arnhem van 28 februari 2006 (ECLI:NL:GHARN:2006:AV7695).</para>
+  </footnote>
+  <footnote id="_f9596d34-4cea-40c5-bfa6-61b3f1835c97" label="3">
+    <para> ECLI:NL:RVS:2015:612.</para>
+  </footnote>
+  <footnote id="_c0cafa8a-f04e-4356-9bbc-6bbb16bc5c3c" label="4">
+    <para> Zie de uitspraak van de Afdeling van 20 januari 2016, ECLI:NL:RVS:2016:85.</para>
+  </footnote>
+  <footnote id="_daa107db-5ff6-44b1-8ac7-f4f7ec637e4d" label="5">
+    <para> ECLI:NL:RVS:2019:2708.</para>
+  </footnote>
+  <footnote id="_4c109ef4-3736-460a-af36-eebe5e10782a" label="6">
+    <para> ECLI:NL:RVS:2019:3183.</para>
+  </footnote>
+  <footnote id="_5edaa155-0dc2-4094-8900-d4e574aa5034" label="7">
+    <para> ECLI:NL:RVS:2017:1519.</para>
+  </footnote>
+  <footnote id="_8788ddea-df76-42ed-a34f-4cd98647951b" label="8">
+    <para> ECLI:NL:RVS:2011:BU6383.</para>
+  </footnote>
+  <footnote id="_86a20df5-e3a2-48d2-850a-e71eced851b8" label="9">
+    <para> ECLI:NL:RVS:2013:BY9910.</para>
+  </footnote>
+  <footnote id="_f2709f7c-58a0-4afe-96b8-36545dc6cd7f" label="10">
+    <para> ECLI:NL:RVS:2019:1199.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:2928</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-11T13:15:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-23</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 19/4870</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2928">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:2928</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-11T13:11:48</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:2928 Rechtbank Midden-Nederland , 23-07-2020 / AWB 19/4870</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:2928:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Beroep, kindgebonden budget, geen procesbelang, niet-ontvankelijk.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:2928:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Utrecht</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: UTR 19/4870</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 23 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te [woonplaats] , eiseres,</bridgehead>
+    <parablock>
+      <para>(gemachtigde: mr. R.P. Kuijper)</para>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Belastingdienst/Toeslagen, kantoor Utrecht, verweerder</bridgehead>
+    <para>(gemachtigde: J. Scheurwater).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 21 augustus 2019 (het primaire besluit) heeft verweerder het voorschot kindgebonden budget voor 2019 herzien en vastgesteld op € 757,-. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 11 oktober 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres gegrond verklaard. Verweerder heeft daarbij het primaire besluit herroepen en beslist dat het voorschot kindgebonden budget voor 2019 wordt vastgesteld op € 4.545,-.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting was gepland op 26 maart 2020. Naar aanleiding van de sluiting van </para>
+      <para>de rechtbank vanwege de maatregelen die zijn getroffen in verband met het coronavirus is </para>
+      <para>deze zitting komen te vervallen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft vervolgens op 7 juli 2020 via een Skype-beeldverbinding plaatsgevonden. Eiser heeft zich laten bijstaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wat is er gebeurd?</emphasis>
+      </para>
+    </parablock>
+    <para>1. Eiseres woont sinds 1 maart 2019 samen met [A] op hetzelfde BRP-adres. Op dit adres woont ook de volwassen zoon van eiseres, [B] . </para>
+    <para />
+    <para>2. Bij besluit van 27 december 2018 is aan eiseres een voorschot kindgebonden budget voor 2019 toegekend van € 4.545,-. Op 1 juli 2019 heeft verweerder aan eiseres gevraagd het inkomen van [A] door te geven, omdat uit gegevens blijkt dat [A] per 1 maart 2019 haar toeslagpartner is. </para>
+    <para />
+    <para>3. Bij besluit van 23 juli 2019 heeft verweerder het voorschot kindgebonden budget voor 2019 herzien en vastgesteld op € 1.929,-, omdat eiseres een toeslagpartner heeft, [A] , en daarom het kindgebonden budget niet meer wordt verhoogd met de tegemoetkoming voor alleenstaande ouders.</para>
+    <para />
+    <para>4. Bij besluit van 21 augustus 2019 is het voorschot kindgebonden budget opnieuw herzien en vastgesteld op € 757,-. </para>
+    <para />
+    <para>5. Tegen deze besluiten heeft eiseres op 26 augustus 2019 bezwaar gemaakt, omdat zij vindt dat zij door de Belastingdienst herhaaldelijk verkeerd is voorgelicht, zowel via informatie op  mijntoeslagen.nl, op de website van de belastingdienst als via de telefoon. </para>
+    <para />
+    <para>6. Verweerder is in het bestreden besluit geheel tegemoetgekomen aan het bezwaar van eiseres. Dit betekent dat het kindgebonden budget voor 2019 weer wordt vastgesteld op </para>
+    <para>€ 4.545,-. Verweerder heeft toegelicht dat er nog geen definitieve aanslag inkomstenbelasting is waaruit blijkt dat eiseres in 2019 fiscaal partner is van [A] . Daarom is eiseres vooralsnog geen toeslagpartner van [A] . Mocht in een later stadium blijken dat er wel sprake is van fiscaal partnerschap voor 2019 met meneer [A] , dan zal het toeslagpartnerschap voor 2019 ook worden aangepast. Het beroep op het zorgvuldigheidsbeginsel slaagt niet. Het bezwaar voor zover dat zich richt tegen het fiscaal partnerschap is doorgezonden aan de Belastingdienst/Inkomstenbelasting.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Heeft eiseres procesbelang?</emphasis>
+      </para>
+    </parablock>
+    <para>7. Eerst moet worden beoordeeld of eiseres procesbelang heeft bij haar beroep. Als dit niet het geval is, komt de rechtbank niet toe aan een inhoudelijke beoordeling van het beroep en dan moet het beroep niet-ontvankelijk worden verklaard. De rechtbank is van oordeel dat eiseres geen procesbelang heeft en overweegt hiertoe als volgt.</para>
+    <para />
+    <para>8. Procesbelang is het belang dat een belanghebbende heeft bij de uitkomst van een procedure. Daarbij gaat het erom of het doel dat de belanghebbende voor ogen staat, met het rechtsmiddel kan worden bereikt en voor de belanghebbende van feitelijke betekenis is. In beginsel heeft een belanghebbende die opkomt tegen een besluit, belang bij een beoordeling van zijn bezwaar of beroep, tenzij vast komt te staan dat ieder belang bij de procedure ontbreekt of is komen te vervallen.<footnote-ref linkend="_468eee8d-f255-4094-9088-7110a329f2ff" /></para>
+    <para />
+    <para>9. De rechtbank stelt vast dat eiseres ter zitting en in de gronden van beroep heeft aangevoerd dat zij duidelijkheid wil krijgen over de vraag of er sprake is van toeslag- en fiscaal partnerschap tussen eiseres en [A] . Meer specifiek heeft eiseres aangevoerd dat zij wil dat de rechtbank definitief vaststelt dat eiseres en [A] geen fiscaal partners zijn, en dat hij dus ook geen toeslagpartner is, zodat het kindgebonden budget wordt verhoogd met de tegemoetkoming voor alleenstaande ouders zolang de oudste meerderjarige zoon van eiseres ook staat ingeschreven op haar BRP-adres.</para>
+    <para />
+    <para>10. De rechtbank overweegt dat eiseres dit niet kan bereiken met een beroep tegen het bestreden besluit dat is genomen door de Belastingdienst/Toeslagen. In het bestreden besluit, dat ziet op de vaststelling van het voorschot kindgebonden budget over 2019, is verweerder volledig toegekomen aan het bezwaar van eiseres. Het bedrag dat aan eiseres aan voorschot kindgebonden budget over 2019 is toegekend is het bedrag verhoogd met de tegemoetkoming voor alleenstaande ouders. Indien eiseres duidelijkheid wil over de vraag of [A] al dan niet haar fiscale partner is, dient zij zich te wenden tot de Inspecteur van de Belastingdienst en dat is niet de Belastingdienst/Toeslagen. </para>
+    <para>Ter zitting heeft verweerder overigens verklaard dat de aangifte inkomstenbelasting inmiddels definitief is en dat [A] daarin als fiscaal partner is aangemerkt van eiseres. Indien eiseres het hier niet mee eens is, zal zij bezwaar moeten maken bij de Inspecteur van de Belastingdienst. Het fiscaal partnerschap heeft invloed op het toeslagpartnerschap, in het geval van eiseres voor de definitieve vaststelling van het kindgebonden budget. Uit artikel 3, tweede lid, sub f, van de Algemene wet inkomensafhankelijke regelingen volgt immers dat indien op enig moment sprake is van fiscaal partnerschap tussen eiseres en [A] , verweerder [A] dient aan te merken als toeslagpartner.  </para>
+    <para />
+    <para>11. Over de beroepsgrond van eiseres dat zij wil de rechtbank vaststelt dat haar recht op toeslagen, zoals het kindgebonden budget, behouden blijft, ook als er wijzigingen komen in het wel of niet zijn van elkaars toeslag- dan wel fiscale partner, overweegt de rechtbank dat dit niet mogelijk is. Hier is van belang dat het bestreden besluit ziet op vaststelling van een voorschot en dat het recht op kindgebonden budget inkomens- en draagkrachtafhankelijk is. Zodra er wijzigingen optreden in het inkomen of de draagkracht heeft verweerder de bevoegdheid het voorschot aan te passen. Voorts worden gegevens die van invloed zijn op het kindgebonden budget of de toeslagen veelal verstrekt door de Inspecteur van de Belastingdienst, waarop verweerder moet afgaan. </para>
+    <para />
+    <para>12. Daarnaast betoogt eiseres dat zij wil dat wordt vastgesteld dat je als burger mag afgaan op informatie op de website van de Belastingdienst/Toeslagen en uitingen van medewerkers van de belastingtelefoon en dat zij er dus van uit mocht gaan dat deze informatie klopt en dat zij niet als toeslagpartners zouden worden aangemerkt. Eiseres wenst een duidelijke website. </para>
+    <para />
+    <para>13. De rechtbank overweegt dat het verkrijgen van een duidelijke website niet iets is wat in deze procedure kan worden bereikt. Het beroep op het vertrouwensbeginsel betreft een principieel punt en daaraan kan geen procesbelang worden ontleend. Ten overvloede merkt de rechtbank op dat voor een geslaagd beroep op het vertrouwensbeginsel vereist is dat de betrokkene aannemelijk maakt dat van de zijde van de overheid toezeggingen of andere uitlatingen zijn gedaan of gedragingen zijn verricht waaruit de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht afleiden of en zo ja, hoe het bestuursorgaan in een concreet geval een bevoegdheid zou uitoefenen<footnote-ref linkend="_60e96476-1955-4614-b6c4-035aaa7adc92" />. Voorts merkt de rechtbank ten overvloede op dat het vaste jurisprudentie is dat aan de informatie op de website geen vertrouwen ontleend kan worden, omdat die website slechts algemene informatie bevat<footnote-ref linkend="_2dbebacc-347f-4843-8ddf-de908b390fc4" />.</para>
+    <para />
+    <para>14. Het beroep is niet-ontvankelijk. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep niet-ontvankelijk.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.A. Banga, rechter, in aanwezigheid van mr. M.M. van Luijk-Salomons, griffier. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier												De rechter is verhinderd</para>
+      <para>													de uitspraak te ondertekenen</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+  </section>
+  <footnote id="_468eee8d-f255-4094-9088-7110a329f2ff" label="1">
+    <para> Zie bijvoorbeeld de uitspraak van de Afdeling Bestuursrechtspraak van de Raad van State (ABRvS) van 9 oktober 2019, (ECLI:NL:RVS:2019:3415). </para>
+  </footnote>
+  <footnote id="_60e96476-1955-4614-b6c4-035aaa7adc92" label="2">
+    <para> ECLI:NL:RVS:2020:1105</para>
+  </footnote>
+  <footnote id="_2dbebacc-347f-4843-8ddf-de908b390fc4" label="3">
+    <para> ECLI:NL:RVS:2013:2416 en ECLI:NL:RVS:2020:721</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

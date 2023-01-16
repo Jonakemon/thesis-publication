@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:6036</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-14T10:09:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-07</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 18 _ 3187</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Viditax (FutD), 18-08-2020</rdf:li>
+          <rdf:li>ERF-Updates.nl 2020-0199</rdf:li>
+          <rdf:li>V-N Vandaag 2020/2003</rdf:li>
+          <rdf:li>FutD 2020-2366 met annotatie van Fiscaal up to Date</rdf:li>
+          <rdf:li>V-N 2020/52.2.3</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6036">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6036</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-17T09:46:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:6036 Rechtbank Noord-Holland , 07-08-2020 / AWB - 18 _ 3187</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:6036:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Erfbelasting. Bedrijfsopvolging. Kwalificeert de onderneming van erflaatster als materiele onderneming? Vertrouwensbeginsel. Beroep ongegrond. Immateriële schadevergoeding..</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:6036:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank noord-holland</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 18/3187</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 7 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [X] , wonende te [Z] , eiseres</bridgehead>
+    <para>(gemachtigde: [A] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de inspecteur van de Belastingdienst, kantoor Rotterdam, verweerder.</bridgehead>
+    <para />
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Verweerder heeft aan eiseres een aanslag in de erfbelasting met dagtekening 9 april 2015 ten bedrage van € 162.148 opgelegd. Tevens is daarbij bij beschikking € 3.857 aan heffingsrente in rekening gebracht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft bij uitspraak op bezwaar met dagtekening 19 juni 2018 de aanslag gehandhaafd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft daartegen beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 26 juni 2020 te Haarlem. Eiseres noch haar gemachtigde zijn zonder voorafgaand bericht niet verschenen. Verweerder heeft zich laten vertegenwoordigen door [B] , [C] en [D] . Eiseres is niet verschenen. De griffier heeft eiseres tijdig onder vermelding van plaats en tijdstip bij aangetekende brief uitgenodigd om op de zitting te verschijnen. Nu uit informatie van Post.NL is gebleken dat de uitnodigingsbrief op 15 mei 2020 op het adres van de gemachtigde van eiseres in ontvangst is genomen, ziet de rechtbank geen beletselen het onderzoek te sluiten en uitspraak te doen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feiten</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De vennootschap</emphasis>
+      </para>
+    </parablock>
+    <para>1. Op 30 september 2011 is [E] (erflaatster), geboren 23 januari 1912, overleden. Haar dochter, eiseres, is de enig erfgenaam. Eiseres is gehuwd met [F] (de echtgenoot). </para>
+    <para />
+    <para>2. Tot de nalatenschap behoren de aandelen in [G] (de vennootschap). De vennootschap is opgericht in 1956 door [H] de echtgenoot van erflaatster. Volgens de jaarrekeningen 2008, 2009, 2010 en 2011 bestaan de activiteiten “voornamelijk uit het beleggen van vermogens in effecten, onroerende zaken en andere vermogenswaarden en het verkrijgen, beheren en exploiteren van deze beleggingsobjecten of rechten daarop”.</para>
+    <para />
+    <para>3. De vennootschap is eigenaar van zes bedrijfsgebouwen en -terreinen gelegen aan de [a] [# 1] , [# 2] , [# 3] , [# 4] , [# 5] en [# 6] te [b] (gemeente [c] ; de bedrijfspanden). De bedrijfspanden zijn onderverdeeld in (in totaal) 15 units. Het bebouwde oppervlak is ongeveer 3.300 m2. Het buitenterrein is groot ongeveer 2.000 m2. De bedrijfspanden zijn in 1987 aangeschaft voor € 153.552. Volgens een taxatie door een makelaar in mei 2011 bedraagt de onderhandse verkoopwaarde in verhuurde staat € 1.150.000. </para>
+    <para />
+    <para>4. De bedrijfspanden behoren tot de materiële vaste activa van de vennootschap. Ze zijn niet met vreemd vermogen gefinancierd. Er vindt geen koop, verkoop of (her)ontwikkeling plaats met betrekking tot de materiële vaste activa. </para>
+    <para />
+    <para>5. De omzet van de vennootschap bestaat geheel uit huuropbrengsten. Voor alle huurovereenkomsten wordt het ‘ROZ-model voor kantoorruimte’ gehanteerd. Er worden daarin geen aanvullende afspraken gemaakt omtrent de leveringen en diensten door de vennootschap aan de huurder. De huurder dient zelf servicecontracten af te sluiten na goedkeuring door de vennootschap.</para>
+    <para />
+    <para>6. Tot de huurders van de vennootschap behoren [I] en [J] . Zij huren bij de vennootschap bedrijfsruimte in ieder geval in de periode 2005 tot en met 2015. </para>
+    <para />
+    <para>7. In de jaren 2006 tot en met 2011 geldt voorts het volgende:</para>
+    <para />
+    <informaltable>
+      <tgroup cols="7">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <colspec colname="colD" />
+        <colspec colname="colE" />
+        <colspec colname="colF" />
+        <colspec colname="colG" />
+        <tbody>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para>2011</para>
+            </entry>
+            <entry>
+              <para>2010</para>
+            </entry>
+            <entry>
+              <para>2009</para>
+            </entry>
+            <entry>
+              <para>2008</para>
+            </entry>
+            <entry>
+              <para>2007</para>
+            </entry>
+            <entry>
+              <para>2006</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>Bruto huurinkomsten </para>
+            </entry>
+            <entry>
+              <para>71.982</para>
+            </entry>
+            <entry>
+              <para>76.457</para>
+            </entry>
+            <entry>
+              <para>84.286</para>
+            </entry>
+            <entry>
+              <para>111.120</para>
+            </entry>
+            <entry>
+              <para>71.546</para>
+            </entry>
+            <entry>
+              <para>126.390</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>Onderhoudskosten incl. verbetering</para>
+            </entry>
+            <entry>
+              <para>15.430</para>
+            </entry>
+            <entry>
+              <para>21.534</para>
+            </entry>
+            <entry>
+              <para>35.991</para>
+            </entry>
+            <entry>
+              <para>25.001</para>
+            </entry>
+            <entry>
+              <para>37.366</para>
+            </entry>
+            <entry>
+              <para>43.886</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>WOZ-waarde</para>
+            </entry>
+            <entry>
+              <para>1.513.000</para>
+            </entry>
+            <entry>
+              <para>1.578.000</para>
+            </entry>
+            <entry>
+              <para>1.598.000</para>
+            </entry>
+            <entry>
+              <para>1.568.000</para>
+            </entry>
+            <entry>
+              <para>-</para>
+            </entry>
+            <entry>
+              <para>-</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>Leegstand</para>
+            </entry>
+            <entry>
+              <para>46,67%</para>
+            </entry>
+            <entry>
+              <para>46,67%</para>
+            </entry>
+            <entry>
+              <para>40%</para>
+            </entry>
+            <entry>
+              <para>40%</para>
+            </entry>
+            <entry>
+              <para>60%</para>
+            </entry>
+            <entry>
+              <para>40%</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para>8. In de periode 2011 tot medio 2014 is een onderhoudsvoorziening voor schilderwerk gevormd ten laste van de fiscale winst van in totaal € 60.000. In 2014 en 2015 is onderhoud aan de bedrijfspanden uitgevoerd voor respectievelijk € 7.556 en € 15.230.</para>
+    <para />
+    <para>9. De activa van de vennootschap bestaan in de periode 2008 tot en met 2011 - naast de bedrijfspanden - uit vorderingen (vennootschapsbelasting, een renteloze rekening-courant, te ontvangen huur en rente, debiteuren), effecten ( [K] ) en twee bankrekeningen. De passiva van de vennootschap bestaan in die periode uit een pensioen- en lijfrenteverplichting ten aanzien van erflaatster (vrijgevallen in 2011), latente belastingverplichtingen, een voorziening “groot onderhoud gebouwen”, een rekening-courant schuld aan erflaatster dan wel aan haar erven, een lening o/g aan de echtgenoot (verstrekt in 2011) en (relatief lage) schulden aan kredietinstellingen, crediteuren, belastingen en overlopende passiva.</para>
+    <para />
+    <para>10. Erflaatster is tot eind maart 2011 enig werknemer/bestuurder van de vennootschap. Zij ontving als bruto loon in de jaren 2007 tot en met 2011 € 11.502 per jaar (in dat laatste jaar een evenredig deel). Per 1 april 2011 is de echtgenoot enig werknemer/bestuurder van de vennootschap. De echtgenoot ontving in 2011 € 9.465 aan bruto loon. In 2012 tot en met 2014 verdiende hij als werknemer van de vennootschap bruto € 12.640, € 12.960 en € 12.960. Daarnaast werkte hij in die jaren fulltime in dienstbetrekking bij een andere werkgever. In 2011 ontving hij ter zake een salaris van € 58.282. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Erfbelasting</emphasis>
+      </para>
+    </parablock>
+    <para>11. Op 30 januari 2011 is de aangifte erfbelasting ingediend naar een belastbare verkrijging van € 889.215. Daarin is de waarde van de aandelen in de vennootschap going concern gesteld op € 846.000 en de latente inkomstenbelastingschuld ter zake op € 51.461. Deze inkomstenbelastingschuld is berekend overeenkomstig artikel 20, zesde lid, aanhef en letter d, van de Successiewet 1956 (SW (wettekst 2011)). In de aangifte staat dat eiseres gebruik wil maken van de “voorwaardelijke vrijstelling” in verband met de bedrijfsopvolgingsfaciliteiten. Er is een vrijgesteld ondernemingsvermogen ad € 794.539 in aanmerking genomen. De verschuldigde erfbelasting bedraagt volgens de aangifte € 7.556, met inachtneming van € 154.593 voorwaardelijke kwijtschelding.</para>
+    <para />
+    <para>12. Bij brief van 11 februari 2013 heeft verweerder eiseres om jaarstukken van de vennootschap gevraagd. De brief is afkomstig van “Particulieren Erfbelasting team 6”. Bij brief van 18 februari 2013 is namens eiseres een afschrift van de jaarrekening 2011 toegezonden. De brief vermeldt “aangifte erfbelasting”. </para>
+    <para />
+    <para>13. Verweerder heeft de in geschil zijnde aanslag opgelegd zonder toepassing van de bedrijfsopvolgingsregeling ten aanzien van de vennootschap. Bij uitspraak op bezwaar heeft verweerder dit uitgangspunt gehandhaafd. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inkomstenbelasting/premie volksverzekeringen </emphasis>
+      </para>
+    </parablock>
+    <para>14. Op 25 januari 2013 is de aangifte inkomstenbelasting/premie volksverzekeringen (ib/pvv) 2011 van erflaatster ingediend. Daarin is ten aanzien van inkomen uit aanmerkelijk belang aangegeven:</para>
+    <parablock>
+      <para>
+        <emphasis role="bold">Overdrachtsprijs bij verkoop en dergelijke van het aanmerkelijk belang</emphasis>
+      </para>
+      <para>Fictieve vervreemding ivm overlijden	846.000</para>
+      <para>Af: beroep op artikel 4.17a (ondernemingsvermogen)	<emphasis role="underline"> -	846.000</emphasis></para>
+      <para>
+        <emphasis role="underline">	0</emphasis>
+      </para>
+      <para>
+        <emphasis role="bold">Drempel-/ verzamel-/ belastbaar inkomen uit aanmerkelijk belang (Box 2)	0</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>15. Met dagtekening 22 februari 2013 is de aanslag ib/pvv 2011 ten name van erflaatster opgelegd. Daarbij is niet afgeweken van de ingediende aangifte.</para>
+    <para />
+    <para>16. Tot het dossier behoort een brief van de gemachtigde van eiseres met dagtekening 24 januari 2013 gericht aan verweerder. Daarin wordt verzocht om toepassing van artikel 4.17a van de Wet IB 2001 ter zake van de overgang krachtens erfrecht van de aandelen in de vennootschap en het daardoor in aanmerking te nemen vervreemdingsvoordeel van erflaatster. </para>
+    <para />
+    <para>17. Met dagtekening 9 december 2017 is een navorderingsaanslag ib/pvv 2011 ten name van erflaatster opgelegd. Daarbij is artikel 4.17a van de Wet IB 2001 niet toegepast ter zake van het fictieve vervreemdingsvoordeel. De navorderingsaanslag is bij uitspraak op bezwaar vernietigd omdat de aanslag op onjuiste wijze is bekendgemaakt. Omdat de navorderingstermijn is verlopen is geen nieuwe navorderingsaanslag opgelegd.</para>
+    <para />
+  </section>
+  <section>
+    <title>Geschil <?linebreak?>18. In geschil is primair of de vennootschap een materiele onderneming drijft zodat eiseres ter zake van de verkrijging van de aandelen in de vennootschap recht heeft op de voorwaardelijke vrijstelling als bedoeld in artikel 35b juncto artikel 35c SW, zoals eiseres stelt en verweerder bestrijdt.</title>
+    <para />
+    <para>19. Subsidiair is in geschil of eiseres op grond van het vertrouwensbeginsel recht heeft op de hiervoor genoemde voorwaardelijke vrijstelling, zoals eiseres stelt en verweerder bestrijdt.</para>
+    <para />
+    <para>20. Meer subsidiair is in geschil of rekening dient te worden gehouden met een inkomstenbelastingschuld van 25% in plaats van 6,25%, zoals eiseres stelt en verweerder bestrijdt.</para>
+    <para />
+    <para>21. Eiseres concludeert tot gegrondverklaring van het beroep, vernietiging van de uitspraak op bezwaar en vermindering van de belastingaanslag tot € 7.556, rekening houdend met een voorwaardelijke kwijtschelding van € 154.593 aan erfbelasting. </para>
+    <para />
+    <para>22. Verweerder concludeert tot ongegrondverklaring van het beroep. Voor zover nodig doet verweerder een beroep op interne compensatie. Bij het opleggen van de aanslag is de aangegeven waarde van de aandelen gevolgd, maar uit de taxatiewaarde en de WOZ-waarde van de bedrijfspanden volgt dat die waarde hoger is, aldus verweerder.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Beoordeling van het geschil</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Materiele onderneming</emphasis>
+      </para>
+    </parablock>
+    <para>23. Artikel 35b van de SW luidde in het onderhavige jaar, voor zover hier van belang, als volgt:</para>
+    <parablock>
+      <para>“1 Indien tot de verkrijging ondernemingsvermogen behoort als bedoeld in artikel 35c, dat wordt verkregen in het kader van een bedrijfsopvolging als bedoeld in het vijfde lid, wordt op verzoek van de verkrijger een voorwaardelijke vrijstelling verleend van:</para>
+      <para>a.	indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1.006.000 niet te boven gaat: 100%;</para>
+      <para>b.	in alle overige gevallen:</para>
+      <para>1°. indien de liquidatiewaarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft hoger is dan de waarde going concern: 100 percent van het verschil tussen liquidatiewaarde en lagere waarde going concern;</para>
+      <para>2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 006 000 niet te boven gaat: 100%, en</para>
+      <para>3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1 006 000 te boven gaat: 83%.</para>
+      <para>Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel d.</para>
+      <para>(…)</para>
+      <para>5 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder een bedrijfsopvolging verstaan: een verkrijging van ondernemingsvermogen als bedoeld in artikel 35c, van een erflater of schenker die voldoet aan de bezitstermijn als bedoeld in artikel 35d, mits de verkrijger gedurende vijf jaren voldoet aan het voortzettingvereiste, bedoeld in artikel 35e.</para>
+      <para>6 Ingeval op enig tijdstip binnen vijf jaren na de verkrijging van het ondernemingsvermogen niet meer of niet meer geheel wordt voldaan aan het voortzettingvereiste, vervalt in zoverre de voorwaardelijke vrijstelling.</para>
+      <para>7 De verzoeken, bedoeld in het eerste en tweede lid, worden gelijktijdig met de aangifte gedaan.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 35c van de SW luidt, voor zover hier van belang, als volgt:</para>
+      <para>“1 Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen wordt onder de verkrijging van ondernemingsvermogen verstaan de verkrijging van:</para>
+      <para>a. een onderneming als bedoeld in artikel 3.2 van de Wet inkomstenbelasting 2001, of een gedeelte daarvan;</para>
+      <para>(…)</para>
+      <para>c. vermogensbestanddelen die bij de erflater of schenker behoorden tot een aanmerkelijk belang als bedoeld in afdeling 4.3, met uitzondering van artikel 4.10, van de Wet inkomstenbelasting 2001, mits het lichaam waarop het belang betrekking heeft een onderneming drijft als bedoeld in onderdeel a, of een medegerechtigdheid houdt als bedoeld in onderdeel b, en waarbij slechts als ondernemingsvermogen wordt aangemerkt de waarde van deze vermogensbestanddelen voor zover die waarde toerekenbaar is aan:</para>
+      <para>1°. bedoelde onderneming of medegerechtigdheid, en</para>
+      <para>2°. het beleggingsvermogen van dat lichaam tot maximaal 5 percent van de ingevolge onder 1° toegerekende waarde;”</para>
+    </parablock>
+    <para />
+    <para>24. De rechtbank stelt voorop dat het bij het begrip ondernemingsvermogen in artikel 35b, eerste lid, van de SW, gaat om vermogen dat behoort tot een onderneming in materiële zin. Ook het begrip onderneming in artikel 35, eerste lid, aanhef en letter c, van de SW, ziet hier op. Van een onderneming in materiële zin is sprake bij aanwezigheid van een duurzame organisatie van kapitaal en arbeid die is gericht op het deelnemen aan het maatschappelijk productieproces met het oogmerk om winst te behalen. Voor de beoordeling van de vraag of de vennootschap kwalificeert als een lichaam als bedoeld in artikel 35c, eerste lid, aanhef en letter c, van de SW, dient te worden beoordeeld of het ten tijde van overlijden van erflaatster een materiële onderneming in voormelde zin dreef. </para>
+    <para />
+    <para>25. Niet in geschil is dat de vennootschap zich bezighield met de exploitatie van onroerende zaken. Om de exploitatie van onroerende zaken als het drijven van een materiële onderneming te kunnen aanmerken geldt dat de in dit kader te verrichten of verrichte arbeid naar aard en omvang meer moet hebben omvat dan bij normaal vermogensbeheer gebruikelijk is, met als doel het behalen van een rendement dat het bij normaal vermogensbeheer opkomende rendement te boven gaat (Hoge Raad 17 augustus 1994, ECLI:NL:HR:1994:ZC5731; Hoge Raad 15 april 2016, ECLI:NL:HR:2016:633). Aldus dient de vraag te worden beantwoord of de aard en omvang van de werkzaamheden van de vennootschap meer hebben omvat dan bij normaal vermogensbeheer gebruikelijk is en of deze werkzaamheden als doel hadden het behalen van een rendement dat het bij normaal vermogensbeheer opkomende rendement te boven gaat.  </para>
+    <para />
+    <para>26. Bij de beoordeling of sprake is van werkzaamheden in voormelde zin moet worden uitgegaan van de feiten en omstandigheden ten tijde van het overlijden van erflater op 30 september 2011. De rechtbank gaat er van uit dat de werkzaamheden van een vennootschap die zich bezighoudt met de verhuur van onroerende zaken en het onderhoud van deze zaken in eigen beheer heeft, zoals het geval is bij de vennootschap, niet snel kwalificeren als het drijven van een onderneming als hiervoor bedoeld. Veelal zal het onderhoud worden verricht om de beleggingen in stand te houden. Dit zijn werkzaamheden die horen bij normaal vermogensbeheer. Ontwikkeling en verkoop van vastgoed kan onder omstandigheden een onderneming vormen (vergelijk Kamerstukken II, 2008-2009, 31 930, nr. 9 (nota naar aanleiding van het nader verslag), p 96). </para>
+    <para />
+    <para>27. Nu eiseres zich op de voorwaardelijke vrijstelling heeft beroepen en haar stellingen door verweerder zijn weersproken, ligt het op haar weg aannemelijk te maken dat sprake is geweest van werkzaamheden in voormelde zin. </para>
+    <para />
+    <para>28. Eiseres heeft gesteld dat de directie van de vennootschap het actieve beheer van de vastgoedportefeuille voert. De werkzaamheden bestaan volgens eiseres onder andere uit:</para>
+    <para>- het zoeken en selecteren van geschikte huurders, </para>
+    <para>- het vaststellen van de huurprijzen, </para>
+    <para>- het voeren van correspondentie met betrekking tot de huurovereenkomsten en huurachterstanden, </para>
+    <para>- het beoordelen en aanpassen van de verzekeringscontracten en condities, zulks gerelateerd aan de activiteiten van de huurders en de wijzigingen daarin, </para>
+    <para>- het afhandelen van de opmerkingen van huurders, </para>
+    <para>- de dagelijkse sluiting van het bedrijventerrein en de visuele inspectie van de gebouwen en het terrein, </para>
+    <para>- de dagelijkse controle op mogelijk onbevoegd parkeren op het bedrijventerrein, </para>
+    <para>- het beoordelen van het benodigde onderhoud,</para>
+    <para>- het zelfstandig uitvoeren van (klein) onderhoud,</para>
+    <para>- het bijhouden van de huur en financiële administratie,</para>
+    <para>- het onderhouden van contracten met aannemers, gemeentelijke diensten en nutsbedrijven,</para>
+    <para>- het aanvragen van offertes en het verstrekken van opdrachten aan aannemers, en</para>
+    <para>- het lezen van vakliteratuur en het onderhouden van kennis aangaande onroerend goed.</para>
+    <para />
+    <para>29. Volgens verweerder vallen de door eiseres benoemde werkzaamheden onder normale werkzaamheden voor het beheer van beleggingsvermogen. Ze betreffen werkzaamheden op operationeel niveau: administratieve, technische en commerciële werkzaamheden. Ze creëren geen meerwaarde. Bij langdurige verhuur aan dezelfde huurder zijn ook minder beheerswerkzaamheden nodig dan bij korte verhuur. De gestelde dagelijkse arbeid is niet aannemelijk en, mocht deze wel aannemelijk zijn, is zij onvoldoende voor het aanmerken als een onderneming. De kilometeradministratie betreft 2016, terwijl de echtgenoot toen al niet meer in dienst was van de vennootschap. Tot en met maart 2011 is de enige werkneemster [# 7] jaar oud en woonde zij in een verzorgingstehuis. Niet aannemelijk is dat zij werkzaamheden verrichtte die van dien aard waren dat sprake is van meer dan normaal vermogensbeheer. Ook is niet onderbouwd welke werkzaamheden de echtgenoot in het kader van de verhuur heeft verricht die meer omvatten dan het normale vermogensbeheer. Mogelijk zijn de activiteiten van de echtgenoot na de pensionering en het overlijden toegenomen, maar in 2011 was er geen materiële onderneming, aldus verweerder. </para>
+    <para />
+    <para>30. De rechtbank oordeelt dat eiseres niet aannemelijk heeft gemaakt dat ten tijde van het overlijden de aard en omvang van de werkzaamheden van de vennootschap meer hebben omvat dan bij normaal vermogensbeheer gebruikelijk is. Het overgrote deel van de door eiseres benoemde werkzaamheden overtreffen niet, zoals verweerder terecht heeft gesteld, het normale vermogensbeheer. Uitsluitend de door eiseres genoemde dagelijkse werkzaamheden (de dagelijkse sluiting van het bedrijventerrein en de visuele inspectie van de gebouwen en het terrein, alsmede de dagelijkse controle op mogelijk onbevoegd parkeren op het bedrijventerrein) kunnen onder omstandigheden werkzaamheden zijn die meer omvatten dan normaal vermogensbeheer. Eiseres heeft echter niet aannemelijk gemaakt dat die werkzaamheden werden verricht. Eiseres heeft in de bezwaarfase een kilometeradministratie van de echtgenoot ingebracht. Volgens die administratie is in het jaar 2016 bijna dagelijks gereden naar en van de bedrijfspanden. Zonder nadere toelichting over de relevantie van die kilometeradministratie voor het jaar 2011 kan de rechtbank echter hieruit niet afleiden dat ook in 2011 dagelijks naar en van de bedrijfspanden is gereden. Verder is onduidelijk om welke reden namens de vennootschap dagelijks iemand aanwezig zou moeten zijn bij de bedrijfspanden. Tijdens het hoorgesprek is in het kader van de gestelde dagelijkse werkzaamheden aangegeven dat het nodig is om het terreinhek te openen en te sluiten, alsmede te controleren op criminele activiteiten vanwege de specifieke ligging van het terrein (aan de rand van [L] ). Voor zover eiseres dit ook in beroep heeft willen aanvoeren, heeft zij niet onderbouwd dat die werkzaamheden vereist zijn voor de exploitatie en ook niet dat dergelijke werkzaamheden naar aard en omvang gericht zijn op het behalen van een rendement dat dat van normaal vermogensbeheer te boven gaat. </para>
+    <para />
+    <para>31. Vast staat dat op het moment van overlijden de echtgenoot sinds ongeveer een half jaar als werknemer in dienst van de vennootschap was. Gesteld noch aannemelijk is dat de echtgenoot, dan wel enig ander persoon, vóór 1 april 2011 werkzaamheden verricht heeft met betrekking tot de exploitatie van de bedrijfspanden. Dat betekent dat tot en met maart 2011 erflaatster de enige was die de gestelde werkzaamheden zou hebben kunnen verrichten. Niet aannemelijk is dat haar werkzaamheden meer dan normaal vermogensbeheer hebben omvat. Voorts is gesteld noch aannemelijk dat de aard en omvang van de werkzaamheden na de na indiensttreding van de echtgenoot zijn gewijzigd.  De rechtbank verwijst naar het in de vorige paragraaf overwogene, alsmede op het feit dat de echtgenoot een fulltime dienstbetrekking elders had en de beperkte vergoedingen die erflaatster en de echtgenoot ontvingen van de vennootschap voor hun werkzaamheden.</para>
+    <para />
+    <para>32. Met betrekking tot het door de vennootschap behaalde rendement heeft eiseres gesteld dat de totale waardestijging van de bedrijfspanden gezien de historische aanschafwaarde en de taxatie in mei 2011 € 996.448 bedraagt. Dit is een jaarlijks rendement van 8,8%. Het gemiddelde operationele rendement over 5 jaar bedraagt 5,7% (“EBITDA 2009: 8,5%; 2010: -%; 2011: 16%; 2012: -%; 2013: 4%”. Totaal betekent dit 14,5% rendement. Dit is ruim meer dan een gemiddeld beleggersrendement, aldus eiseres.</para>
+    <para />
+    <para>33. Verweerder heeft met betrekking tot het behaalde rendement gesteld dat, aangezien er geen marktwaarde beschikbaar is dan de taxatie in mei 2011, die waarde wordt gehanteerd voor 2010 en 2011. Dat betekent dat er geen indirect rendement berekenbaar is. Een eventuele waardeontwikkeling wordt veroorzaakt door de normale waardegroei. Het directe rendement, berekend op basis van de netto-huur uit de jaarstukken en afgezet tegen de taxatiewaarde mei 2011, bedraagt voor 2010 2,1% en voor 2011 3,7%. Dat is aanzienlijk lager dan de directe rendementen op de vastgoedmarkt volgens de Investment Property Bank: 7,1% 2010 en 7,0% voor 2011 en 7,4% gemiddeld over 2006 tot en met 2011. De leegstand van 40% is ook veel lager dan gemiddeld in Nederland volgens NVM Business. De door eiseres gestelde ‘EBITDA’ wordt niet onderbouwd, aldus verweerder. </para>
+    <para />
+    <para>34. De rechtbank oordeelt dat partijen terecht als uitgangspunt hebben kunnen hanteren dat het werkelijk door een lichaam behaalde rendement inzicht geeft in het doel van de werkzaamheden van een lichaam. Eiseres heeft echter niet aannemelijk gemaakt dat de werkzaamheden van de vennootschap als doel hadden het behalen van een rendement dat het bij normaal vermogensbeheer opkomende rendement te boven gaat. De door eiseres genoemde rendementen zijn onvoldoende onderbouwd. Zij berekent het operationele “EBITDA” rendement op 5,7% gemiddeld over 2009 tot en met 2013. Kennelijk bedoelt zij hiermee het directe rendement. Zij gaat er gelet op de berekening van het gemiddelde kennelijk van uit dat de directe rendementen over 2010 en 2012 nihil zijn “vanwege incidenteel onderhoud”. Omdat hiervan een onderbouwing ontbreekt, kan niet uitgesloten worden dat die rendementen vanwege dat onderhoud negatief waren, zodat het gemiddelde rendement lager is. Ook overigens heeft eiseres de door haar gestelde directe rendementen niet cijfermatig onderbouwd. Ze zijn ook lager dan hetgeen eiseres eerder heeft aangegeven in de zogenoemde “omstandighedencatalogus”. Verder heeft eiseres niet onderbouwd dat het door haar berekende gemiddelde directe rendement hoger is dan hetgeen bij normaal vermogensbeheer gebruikelijk is. Verwezen wordt naar de door verweerder in dit verband genoemde directe rendementen volgens de Investment Property Bank, welke eiseres niet heeft bestreden. Ook het door eiseres gestelde indirecte rendement van 8,8% per jaar is niet voldoende onderbouwd. Weliswaar heeft zich de door eiseres becijferde waardestijging voorgedaan, doch een lineaire verdeling daarvan over de verstreken jaren sinds de aankoop is niet reëel. In dit verband wijst de rechtbank onder meer op de daling van de WOZ-waarden van de bedrijfspanden in de jaren 2009 tot en met 2011. De rechtbank tekent hier nog bij aan dat niet aannemelijk is gemaakt dat de waardestijging op enigerlei wijze verband houdt met de verrichte werkzaamheden in plaats van met autonome marktontwikkelingen.</para>
+    <para />
+    <para>35. De door verweerder berekende directe rendementen over 2010 en 2011 zijn wel onderbouwd. Verweerder heeft namelijk aangesloten bij de cijfers in de jaarstukken en de in mei 2011 getaxeerde onderhandse verkoopwaarde in verhuurde staat. Als wordt aangesloten bij de WOZ-waarden van de bedrijfspanden wordt tot een nog lager direct rendement gekomen. Uitgaande van de negatieve waardeontwikkeling van de WOZ-waarden in de jaren rond het overlijden houdt de rechtbank het er voorts voor dat ook het indirecte rendement beperkt is. Hetgeen eiseres hierover heeft gesteld, leidt gelet op het voorgaande tot geen ander oordeel. Dit alles leidt tot de conclusie dat het rendement behaald door de vennootschap niet uitgaat boven hetgeen gebruikelijk is bij bedrijfspanden als de onderhavige. Dat betekent dat niet aannemelijk is dat een rendement werd beoogd dat hoger is dan hetgeen gebruikelijk is bij normaal vermogensbeheer. Opgemerkt wordt dat eiseres in de eerder genoemde omstandighedencatalogus een beoogd rendement van 12% per jaar heeft aangegeven, maar ook dit op geen enkele wijze heeft onderbouwd.</para>
+    <para />
+    <para>36. De conclusie is dat niet aannemelijk is dat de vennootschap ten tijde van overlijden van erflaatster een materiële onderneming dreef. Dat betekent dat op grond van de wet ter zake van de verkrijging van de aandelen in de vennootschap geen recht bestaat op de voorwaardelijke vrijstelling als bedoeld in artikel 35b juncto artikel 35c van de SW.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Vertrouwensbeginsel</emphasis>
+      </para>
+    </parablock>
+    <para>37. In geschil is of vervolgens of eiseres toch recht heeft op de voorwaardelijke vrijstelling als bedoeld in artikel 35b juncto artikel 35c van de SW op grond van het vertrouwensbeginsel. </para>
+    <para />
+    <para>38. Eiseres stelt in dit verband dat vertrouwen is gewekt door de brief van 24 januari 2013, het indienen van de aangifte ib/pvv 2011 van erflaatster en de daarop volgende aanslag ib/pvv. Uit die gang van zaken blijkt dat zij erop mocht vertrouwen dat verweerder bewust het standpunt had ingenomen dat sprake is van ondernemingsvermogen in de vennootschap. Ook relevant is dat de Belastingdienst actief onderzoek heeft gedaan door het opvragen van de jaarstukken bij brief van 11 februari 2013. Het standpunt voor de ib/pvv geldt ook voor de erfbelasting, aangezien dezelfde regeling geldt. Een ander standpunt zou leiden tot ongelijke behandeling van gelijke gevallen, aldus eiseres.</para>
+    <para />
+    <para>39. Verweerder stelt dat de inspecteur voor de ib/pvv expliciet het standpunt heeft ingenomen dat de vennootschap niet kwalificeert als een materiële onderneming. Pas nadat deze via verweerder in 2017 op de hoogte raakte van het verzoek om toepassing van artikel 4.17a van de Wet IB 2001 is hier een standpunt over ingenomen. De brief van 24 januari 2013 was niet bekend bij de inspecteur ib/pvv. Hij mocht er van uitgaan dat de aangifte naar juistheid was ingediend en was niet gehouden tot nader onderzoek. Hij heeft nimmer een goedkeurende beschikking afgegeven voor de toepassing van artikel 4.17a van de Wet IB 2001, aldus verweerder. </para>
+    <para />
+    <para>40. In dit kader is verder het volgende relevant. Op grond van artikel 4.17a, eerste en tweede lid, van de Wet IB 2001 (tekst 2011) wordt bij de overgang krachtens erfrecht onder algemene titel of onder bijzondere titel op verzoek van de gezamenlijke belanghebbenden niet als vervreemding aangemerkt het deel van de overdrachtsprijs dat toerekenbaar is aan het ondernemingsvermogen van de vennootschap, indien onder meer wordt voldaan aan de voorwaarde dat de vennootschap waarop de aandelen of winstbewijzen betrekking hebben, een onderneming als bedoeld in artikel 3.2 van de Wet IB 2001 drijft. </para>
+    <parablock>
+      <para>Op grond van het negende lid van artikel 4.17a van de Wet IB 2001 kunnen bij ministeriële regeling nadere regels worden gesteld met betrekking tot de toepassing van dit artikel. </para>
+      <para>Op grond van artikel 26a, eerste lid, van de Uitvoeringsregeling inkomstenbelasting 2001, voor zover hier relevant, wordt een verzoek als bedoeld in artikel 4.17a, eerste lid, van de Wet IB 2001 schriftelijk gedaan bij de inspecteur die is belast met de aanslagregeling van de erflater.</para>
+    </parablock>
+    <para />
+    <para>41. De rechtbank oordeelt dat het vertrouwensbeginsel niet geschonden is doordat verweerder bij de in geschil zijnde aanslag de voorwaardelijke vrijstelling ter zake van de bedrijfsopvolgingsregeling niet heeft toegepast. Verweerder heeft gesteld dat uit navraag bij de inspecteur voor de ib/pvv is gebleken dat de brief niet was ingediend in 2017. Dit is in overeenstemming met een brief van 22 augustus 2017 aan eiseres waarin verweerder schrijft dat de brief van 24 januari 2013 niet kan worden gevonden in de systemen en dat er geen enkele aanwijzing is dat dit verzoek is ontvangen en/of in behandeling is genomen. Eiseres heeft hier tegenover niet aannemelijk gemaakt dat de brief van 24 januari 2013 daadwerkelijk en op juiste wijze is ingediend bij verweerder. </para>
+    <para />
+    <para>42. Verder staat vast dat de inspecteur bij het regelen van de aanslag ib/pvv 2011 voor wat betreft de vraag of de vennootschap een materiële onderneming drijft, de aangifte heeft gevolgd terwijl in die aangifte die vraag positief werd beantwoord. Dit alleen is echter onvoldoende voor een geslaagd beroep op het vertrouwensbeginsel. Volgens vaste jurisprudentie van de Hoge Raad is voor in rechte te beschermen vertrouwen meer vereist dan de enkele omstandigheid dat de inspecteur in een jaar bij het regelen van de aanslag op een bepaald punt de aangifte heeft gevolgd (vergelijk Hoge Raad 13 december 1989, ECLI:NL:HR:1989:ZC4179). De gerechtvaardigdheid van het vertrouwen hangt af van de waardering van de omstandigheden die bij de belastingplichtige de indruk hebben kunnen wekken dat de door de inspecteur gevolgde gedragslijn berust op een bewuste standpuntbepaling.</para>
+    <para />
+    <para>43. In de onderhavige situatie wijzen de omstandigheden er niet op dat bij eiseres de indruk gewekt is dat het volgen van de aangifte ib/pvv 2011 ten name van erflaatster berust op een bewuste standpuntbepaling. De periode tussen het indienen van de aangifte (25 januari 2013) en de dagtekening van de aanslag (22 februari 2013) is namelijk slechts 4 weken. Dat wijst erop op dat de aanslag is opgelegd zonder dat de aangifte aan een inhoudelijke beoordeling is onderworpen. Dit had eiseres, die zich liet bijstaan door een professionele gemachtigde, duidelijk moeten zijn. Dat de jaarstukken 2011 in de genoemde periode zijn gevraagd door en verstrekt aan verweerder, maakt dit niet anders. Die jaarstukken zijn immers pas ingediend bij brief van 18 februari 2013 en bij een andere afdeling. </para>
+    <para />
+    <para>44. Gelet op het voorgaande faalt het beroep op het vertrouwensbeginsel. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inkomstenbelastingschuld</emphasis>
+      </para>
+    </parablock>
+    <para>45. Ook in geschil is in welke mate rekening dient te worden gehouden met een schuld vanwege de aanmerkelijk belangclaim op de aandelen in de vennootschap.</para>
+    <para />
+    <para>46. Eiseres stelt dat rekening moet worden gehouden met de werkelijke aanmerkelijkbelang-belastingclaim ter zake van de box 2 heffing. Er is op grond van artikel 20, vijfde en zesde lid, van de SW, in de aangifte rekening gehouden met 6,25% van het vervreemdingsvoordeel, doch daarbij werd uitgegaan van toepassing van artikel 4.17a van de Wet IB 2001. Omdat die laatste bepaling geen toepassing vindt, moet de volledige inkomstenbelastingschuld ter zake in aanmerking te worden genomen. De schuld is rechtens afdwingbaar op het moment van overlijden. Daarom bedraagt de verkrijging € 734.836, zodat de aanslag moet worden verminderd tot € 131.272, aldus eiseres.</para>
+    <para />
+    <para>47. Verweerder stelt dat de inspecteur voor de ib telkens heeft aangegeven dat er geen materiële onderneming is. De navorderingsaanslag ib/pvv 2011 is vernietigd, zodat geen sprake is van een rechtens afdwingbare schuld als bedoeld in artikel 20 van de SW, aldus verweerder. </para>
+    <para />
+    <para>48. Artikel 20 van de SW luidt, voor zover relevant, als volgt:</para>
+    <parablock>
+      <para>“3 De schulden ten laste van de erflater kunnen slechts worden afgetrokken voor zover zij rechtens afdwingbaar zijn en alsdan behoudens het navolgende: </para>
+      <para>a. lopende renten en andere periodieke verplichtingen, alsmede zakelijke belastingen, dijk- en polderlasten, molen- en sluisgelden en soortgelijke omslagen zijn slechts aftrekbaar tot en met de dag van het overlijden; </para>
+      <para>b. belastingschulden kunnen niet worden afgetrokken, voor zover daarvoor ontheffing kan worden verkregen. </para>
+      <para>(…)</para>
+      <para>5 Op de verkrijging wordt in mindering gebracht de inkomstenbelasting welke de verkrijger verschuldigd kan worden ter zake van: </para>
+      <para>(…)</para>
+      <para>c. verkregen aandelen, winstbewijzen, bewijzen van deelgerechtigdheid en koopopties als bedoeld in artikel 4.4 van de Wet inkomstenbelasting 2001 die ingevolge die wet tot een aanmerkelijk belang behoren. Artikel 4.5a van de Wet inkomstenbelasting 2001 is van overeenkomstige toepassing. </para>
+      <para>6 De in het vijfde lid bedoelde belasting wordt gesteld op: </para>
+      <para>(…) </para>
+      <para>d. 6,25% van de waarde van de aandelen, winstbewijzen, bewijzen van deelgerechtigdheid en koopopties, voorzover deze de verkrijgingsprijs daarvan in de zin van de Wet inkomstenbelasting 2001 overtreft.”</para>
+    </parablock>
+    <para />
+    <para>49. De rechtbank stelt ook in zoverre verweerder in het gelijk. De oordelen over het primaire en subsidiair geschilpunt hiervoor leiden mede tot de conclusie dat artikel 4.17a van de Wet IB 2001 niet van toepassing is ter zake van de aandelen. Dit wijst erop dat ten tijde van het overlijden sprake zou zijn van een materiële schuld, gelijk aan 25% van het fictieve vervreemdingsvoordeel. Opgemerkt wordt dat de omstandigheid dat de belastingschuld niet is geformaliseerd door middel van het opleggen van een aanslag, anders dan verweerder heeft gesteld, niet ertoe leidt dat die schuld niet rechtens afdwingbaar is. Immers, belastingschulden ontstaan uit de kracht van de wet. Echter, de schuld is, zo is thans bekend, tenietgegaan. Om die reden oordeelt de rechtbank dat met het in aanmerking nemen van de latente inkomstenbelastingschuld van 6,25% van het voornoemde voordeel, niet een te lage schuld in aftrek is gebracht. In dit verband verwijst de rechtbank naar het voor de vermogensbelasting gewezen arrest van de Hoge Raad van 6 november 1996, ECLI:NL:HR:1996:AA1743. Daarin stond ten tijde van de uitspraak vast dat belasting niet meer kon worden nagevorderd vanwege het verstrijken van de navorderingstermijn, op grond waarvan de Hoge Raad oordeelde dat die belasting niet als schuld in aanmerking kon worden genomen. Een vergelijkbare situatie doet zich ook nu voor. De rechtbank verwijst ook naar de jurisprudentie met betrekking tot - de waardering van - betwiste schulden (vergelijk Hoge Raad 29 april 1992, ECLI:NL:HR:1992:ZC4974, en Gerechtshof Amsterdam 22 augustus 1986, ECLI:NL:GHAMS:1986:AX1214). Deze jurisprudentie wijst erop dat een materiële belastingschuld die niet geformaliseerd blijkt te kunnen worden op grond van artikel 20 van de SW niet in aftrek kan worden gebracht.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Immateriële schadevergoeding</emphasis>
+      </para>
+    </parablock>
+    <para>50. Eiseres heeft de rechtbank verzocht om een schadevergoeding in verband met de overschrijding van de redelijke termijn. </para>
+    <para />
+    <para>51. Bij de beoordeling van de vraag of de redelijke termijn is overschreden moet worden aangesloten bij de uitgangspunten als neergelegd in de arresten van de Hoge Raad van 22 april 2005, ECLI:NL:HR:2005:AO9006, 22 maart 2013, ECLI:NL:HR:2013:BX6666, 9 augustus 2013, ECLI:NL:HR:2013:199 en 19 februari 2016, ECLI:NL:HR:2016:252. Voor een uitspraak in eerste aanleg heeft te gelden dat deze niet binnen een redelijke termijn geschiedt indien de rechtbank niet binnen twee jaar nadat die termijn is aangevangen uitspraak doet, tenzij sprake is van bijzondere omstandigheden. De termijn vangt in beginsel aan op het moment waarop verweerder het bezwaarschrift ontvangt. Indien de redelijke termijn is overschreden, dient als uitgangspunt voor de schadevergoeding een tarief te worden gehanteerd van € 500 per half jaar dat die termijn is overschreden, waarbij ter bepaling van de totale vergoeding de geconstateerde overschrijding naar boven wordt afgerond. Een termijn van zes maanden is voor de behandeling van een bezwaar redelijk en voor de beroepsfase een termijn van anderhalf jaar.</para>
+    <para />
+    <para>52. Het bezwaarschrift is ingekomen bij verweerder op 18 mei 2015. De uitspraak op bezwaar is gedaan op 19 juni 2018. Op 7 augustus 2020 wordt uitspraak gedaan door de rechtbank. Er is dus sprake van een overschrijding van de redelijke termijn met drie jaren en (afgerond) drie maanden, oftewel 39 maanden. </para>
+    <para />
+    <para>53. In het kader van bijzondere omstandigheden welke een termijnverlenging in de bezwaar- of beroepsfase rechtvaardigen is het volgende relevant. Verweerder heeft gesteld dat de redelijke termijn voor behandeling van het bezwaar is overschreden, doch dat rekening dient te worden gehouden met het feit dat is ingestemd met het verzoek tot uitstel van het doen van de uitspraak op bezwaar voor de periode 7 augustus 2015 tot en met 31 januari 2016. Eiseres heeft dit niet bestreden. Daarom gaat de rechtbank er van uit dat de termijn van zes maanden die voor de behandeling van een bezwaar in beginsel redelijk is in deze zaak met zes maanden wordt verlengd tot één jaar. Er is daarom sprake van een overschrijding van de redelijke termijn met 33 maanden. </para>
+    <para />
+    <para>54. Afgerond naar boven betekent dit dat de redelijke termijn is overschrijding met drie jaren. Uitgaande van een vergoeding van € 500 per half jaar termijnoverschrijding heeft eiseres recht op een bedrag aan immateriële schadevergoeding van € 3.000 (6 maal € 500). </para>
+    <para />
+    <para>55. Van de totale overschrijding dient 25 maanden aan verweerder, en 8 maanden aan de rechtbank te worden toegerekend. Verweerder dient daarom van de schadevergoeding voor deze fase van de procedure 25/33e deel te betalen en de Staat (de Minister van Justitie en Veiligheid) 8/33e deel.</para>
+    <para />
+    <para>56. De rechtbank zal verweerder en de Minister veroordelen tot het betalen van een schadevergoeding van respectievelijk € 2.273 en € 727 voor de overschrijding van de redelijke termijn.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para>57. Gelet op het hiervoor overwogene dient het beroep ongegrond te worden verklaard.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Proceskosten</emphasis>
+      </para>
+    </parablock>
+    <para>58. Omdat een immateriële schadevergoeding wordt toegekend, ziet de rechtbank aanleiding verweerder en de Minister van Justitie en Veiligheid te veroordelen in de door eiser gemaakte proceskosten. Eiseres heeft verzocht om vergoeding van de werkelijke proceskosten. Van bijzondere omstandigheden die daartoe noodzaken is echter niet gebleken. De rechtbank stelt de kosten op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 262,50 (1 punt voor het indienen van het beroepschrift met een waarde per punt van € 525 en een wegingsfactor 0,5 omdat de proceskostenvergoeding uitsluitend wordt toegekend vanwege de immateriële schadevergoeding).</para>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para>- verklaart het beroep ongegrond; </para>
+    <para>- veroordeelt verweerder tot vergoeding van de aan de bezwaarfase toerekenbare </para>
+    <para>	immateriële schade, vastgesteld op € 2.273;</para>
+    <para>- veroordeelt de Minister van Justitie en Veiligheid tot vergoeding van de aan de </para>
+    <para>	beroepsfase toerekenbare immateriële schade, vastgesteld op € 727; </para>
+    <para>- gelast dat verweerder aan eiseres vergoedt de helft van het door deze ter zake van </para>
+    <parablock>
+      <para>	de behandeling van het beroep betaalde griffierecht ten bedrage van € 23 en van de </para>
+      <para>	gemaakte proceskosten ten bedrage van € 131,25, in totaal dus € 154,25 en</para>
+    </parablock>
+    <para>- gelast dat de Minister van Justitie en Veiligheid aan eiseres vergoedt de helft van </para>
+    <parablock>
+      <para>	het door deze ter zake van de behandeling van het beroep betaalde griffierecht ten </para>
+      <para>	bedrage van € 23 en van de gemaakte proceskosten ten bedrage van € 131,25, in </para>
+      <para>	totaal dus € 154,25.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. T.N. van Rijn, voorzitter, en mr. M.W. Koenis en mr. J. Gooijer, leden, in aanwezigheid van E.H. Mazel, griffier. De beslissing is uitgesproken op 7 augustus 2020. Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kunnen partijen binnen zes weken na verzending hoger beroep instellen bij het gerechtshof Amsterdam (belastingkamer), Postbus 1312, </para>
+      <para>1000 BH Amsterdam.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij het instellen van hoger beroep dient het volgende in acht te worden genomen:</para>
+    </parablock>
+    <para>1. bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd.</para>
+    <para>2. het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden:</para>
+    <para>a. 	de naam en het adres van de indiener;</para>
+    <para>b. 	een dagtekening;</para>
+    <para>c. 	een omschrijving van de uitspraak waartegen het hoger beroep is ingesteld;</para>
+    <para>d. 	de gronden van het hoger beroep.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

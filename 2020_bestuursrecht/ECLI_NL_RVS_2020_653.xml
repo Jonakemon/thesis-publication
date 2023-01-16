@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:653</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-16T17:24:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-04</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201905752/1/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:653">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:653</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-04T10:15:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-04</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:653 Raad van State , 04-03-2020 / 201905752/1/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:653:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 18 maart 2019 heeft de burgemeester van Utrecht de horeca-inrichting [bedrijf], gelegen aan de [locatie] in Utrecht, met ingang van 15 maart 2019 gesloten voor de duur van vijf weken.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:653:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201905752/1/A3.</para>
+    <para>Datum uitspraak: 4 maart 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant] handelend onder de naam [bedrijf], wonend te Vleuten, gemeente Utrecht,</para>
+    <para>tegen de uitspraak van de voorzieningenrechter van de rechtbank Midden-Nederland van 17 juni 2019 in zaken nrs. 19/1617 en 19/1658 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>de burgemeester van Utrecht.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 18 maart 2019 heeft de burgemeester de horeca-inrichting [bedrijf], gelegen aan de [locatie] in Utrecht, met ingang van 15 maart 2019 gesloten voor de duur van vijf weken.</para>
+    <para>Bij besluit van 16 april 2019 heeft de burgemeester de aan [appellant] verleende exploitatievergunning ten behoeve van de horeca-inrichting [bedrijf] ingetrokken en bepaald dat voor de locatie [locatie] gedurende een periode van één jaar geen nieuwe exploitatievergunning wordt verleend.</para>
+    <para>Bij uitspraak van 17 juni 2019 heeft de voorzieningenrechter van de rechtbank de verzoeken om een voorlopige voorziening afgewezen. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 19 februari 2020, waar de burgemeester, vertegenwoordigd door A. Braxhoven, is verschenen.</para>
+    <para>Overwegingen</para>
+    <para>1.    De aangevallen uitspraak is een uitspraak van de voorzieningenrechter van de rechtbank als bedoeld in artikel 8:84, eerste lid, van de Algemene wet bestuursrecht (hierna: Awb). Hiertegen kan ingevolge artikel 8:104, tweede lid, aanhef en onder d, van de Awb, geen hoger beroep worden ingesteld. Dit wordt het appelverbod genoemd.</para>
+    <para>2.    [appellant] betoogt dat aanleiding bestaat om het appelverbod te doorbreken, omdat er zodanig ernstige schendingen van de eisen van een goede procesorde dan wel fundamentele rechtsbeginselen hebben plaatsgevonden dat geen sprake is van een eerlijk en onafhankelijk proces.</para>
+    <para>    Hij voert hiertoe aan dat de voorzieningenrechter zijn verzoek om vervallenverklaring van de beslissing van de geheimhoudingskamer ten onrechte heeft afgewezen. Volgens hem is het wel degelijk mogelijk om een dergelijke beslissing vervallen te verklaren. Daarbij komt dat hij de rechter die de geheimhoudingsbeslissing heeft genomen, heeft gewraakt. Volgens [appellant] had de voorzieningenrechter de behandeling van de verzoeken om een voorlopige voorziening daarom moeten aanhouden.</para>
+    <para>    Voorts voert [appellant] aan dat de voorzieningenrechter ten onrechte heeft geoordeeld dat hij geen belang heeft bij zijn verzoek tot schorsing van het besluit van 18 maart 2019, omdat de sluitingstermijn al is verstreken. Volgens [appellant] heeft de voorzieningenrechter niet onderkend dat de sluitingstermijn zodanig lang is dat de burgemeester verplicht was om de exploitatievergunning in te trekken. Daarnaast zijn de redenen die ten grondslag liggen aan de sluiting anders dan de redenen die aan de intrekking van de exploitatievergunning ten grondslag liggen.</para>
+    <para>    Voorts voert [appellant] aan dat hij is overvallen door de overweging in de aangevallen uitspraak dat zijn standpunt dat de norm ‘niet in enig opzicht van slecht levensgedrag’ als bedoeld in artikel 7 van de Horecaverordening onduidelijk is, niet opgaat. Volgens hem heeft de voorzieningenrechter, zonder hem daarin te kennen, de toelichting op de Horecaverordening erbij gehaald en daaruit afgeleid dat de aanwezigheid van een cash center in zijn horeca-inrichting een manier is om geld wit te wassen. Verder voert [appellant] aan dat de voorzieningenrechter niet op al zijn standpunten is ingegaan en dat de voorzieningenrechter ten onrechte niet heeft beslist op zijn verzoeken om getuigen op te roepen en stukken bij de burgemeester op te vragen. Ook voert hij aan dat hij de geheimhoudingskamer wel toestemming heeft gegeven om kennis te nemen van de bestuurlijke rapportages. Daarnaast heeft de voorzieningenrechter ten onrechte niet beoordeeld of de bewijsvoering die ten grondslag ligt aan de besluitvorming van de burgemeester onrechtmatig is verkregen. Ten slotte voert [appellant] aan dat de voorzieningenrechter zijn beroep op het gelijkheidsbeginsel onjuist heeft geïnterpreteerd.</para>
+    <para>3.    Ondanks een appelverbod kan de Afdeling van een hoger beroep kennis nemen in geval van een zodanige schending van beginselen van een goede procesorde, dan wel fundamentele rechtsbeginselen, dat geoordeeld moet worden dat er geen eerlijk proces is geweest. Ook kan hiervoor grond bestaan indien de voorzieningenrechter ten onrechte is getreden buiten de bevoegdheden die hij, zonder hogere voorziening tegen zijn oordeel daarover, kan aanwenden.</para>
+    <para>4.    De Afdeling overweegt dat het hier slechts gaat om voorlopige oordelen van de voorzieningenrechter hangende het bezwaar. Een uitspraak op een voorlopige voorziening hangende het bezwaar heeft slechts werking tot het moment dat een besluit op bezwaar is genomen. Inmiddels is gebleken dat de burgemeester een besluit op bezwaar heeft genomen. Hiertegen heeft [appellant] beroep ingesteld bij de rechtbank, waarbij hij geen nieuw verzoek om een voorlopige voorziening heeft ingediend.</para>
+    <para>     Gelet hierop bestaat er geen aanleiding voor doorbreking van het appelverbod.</para>
+    <para>     Het betoog faalt.</para>
+    <para>5.    De Afdeling is onbevoegd om van het hoger beroep kennis te nemen.</para>
+    <para>6.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>verklaart zich onbevoegd om van het hoger beroep kennis te nemen.</para>
+    <para>Aldus vastgesteld door mr. C.J. Borman, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. Y. Soffner, griffier.</para>
+    <para>w.g. Borman    w.g. Soffner</para>
+    <para>lid van de enkelvoudige kamer    griffier</para>
+    <para>Uitgesproken in het openbaar op 4 maart 2020</para>
+    <para>818.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

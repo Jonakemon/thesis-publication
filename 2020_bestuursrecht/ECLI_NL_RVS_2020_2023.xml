@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:2023</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-29T10:25:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-26</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201901556/1/R1</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Module Ruimtelijke ordening 2020/8416 met annotatie van G. van den End</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2023">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:2023</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-26T11:17:48</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:2023 Raad van State , 26-08-2020 / 201901556/1/R1</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:2023:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 19 december 2018 heeft de raad van de gemeente Amsterdam het bestemmingsplan "Weespertrekvaart Oost" en het daarbij behorende exploitatieplan vastgesteld. Het bestemmingsplan heeft betrekking op de gronden van het oostelijke deel van het bestaande bedrijventerrein Weespertrekvaart. Het noordelijke deel van het plangebied omvat een nader uit te werken bestemming. De uit te werken bestemming voorziet in ongeveer 44.500 m2 brutovloeroppervlak voor wonen en 8.100 m2 bvo voor werkruimte. Naar de mening van de raad is deze ontwikkeling gewenst met het oog op de sterk gestegen vraag naar woningen. Het plan is voor het zuidelijke deel van het plangebied voornamelijk conserverend van aard. Met het exploitatieplan beoogt de raad te voorzien in het verhaal van kosten van grondexploitatie met betrekking tot de uitvoering van het plan.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RVS:2020:2023:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>201901556/1/R1.<?linebreak?>Datum uitspraak: 26 augustus 2020</para>
+  <para />
+  <parablock>
+    <para>AFDELING<?linebreak?>BESTUURSRECHTSPRAAK</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Uitspraak in het geding tussen:</para>
+  </parablock>
+  <para />
+  <para>1. appellante sub 1A] en [appellante sub 1B] (hierna tezamen en in enkelvoud: [appellante sub 1]), gevestigd te Amsterdam onderscheidenlijk [plaats],</para>
+  <para>2. Onroerendgoed Maatschappij B.G.I. Volendam B.V., gevestigd te Volendam, gemeente Edam-Volendam, en anderen (hierna: Volendam B.V. en anderen), </para>
+  <para>3.    [ appellant sub 3A] en [appellante sub 3B] (hierna tezamen en in enkelvoud: [appellant sub 3]), beiden wonend te [woonplaats],</para>
+  <para>4.    [ appellant sub 4], handelend onder de naam [bedrijf], wonend te Amsterdam,</para>
+  <para />
+  <parablock>
+    <para>en</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>de raad van de gemeente Amsterdam,</para>
+    <para>verweerder.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Procesverloop</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Bij besluit van 19 december 2018 heeft de raad het bestemmingsplan "Weespertrekvaart Oost" en het daarbij behorende exploitatieplan vastgesteld.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Tegen dit besluit hebben [appellante sub 1], Volendam B.V. en anderen, [appellant sub 3] en [appellant sub 4] beroep ingesteld.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>De raad heeft een verweerschrift ingediend.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>[appellante sub 1] heeft een nader stuk ingediend.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 6 juli 2020, waar [appellante sub 1], vertegenwoordigd door mr. M.W. Holtkamp, advocaat te Utrecht, en [gemachtigde A], Volendam B.V. en anderen, vertegenwoordigd door mr. R. Ridder, advocaat te Amsterdam, [appellant sub 3], bij monde van [appellant sub 3A], [appellant sub 4], vertegenwoordigd door [gemachtigde B], en de raad, vertegenwoordigd door mr. A.M.D. van der Steeg, mr. E. van den Heerik en ing. E. de Bos, zijn verschenen.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Overwegingen </para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Inleiding</para>
+  </parablock>
+  <para />
+  <para>1. Het bestemmingsplan heeft betrekking op de gronden van het oostelijke deel van het bestaande bedrijventerrein Weespertrekvaart. Het noordelijke deel van het plangebied omvat een nader uit te werken bestemming. De uit te werken bestemming voorziet in ongeveer 44.500 m2 brutovloeroppervlak (hierna: bvo) voor wonen en 8.100 m2 bvo voor werkruimte. Naar de mening van de raad is deze ontwikkeling gewenst met het oog op de sterk gestegen vraag naar woningen. Het plan is voor het zuidelijke deel van het plangebied voornamelijk conserverend van aard. Met het exploitatieplan beoogt de raad te voorzien in het verhaal van kosten van grondexploitatie met betrekking tot de uitvoering van het plan.</para>
+  <para />
+  <para>2.    [ appellante sub 1], Volendam B.V. en anderen, [appellant sub 3] en [appellant sub 4] zijn eigenaren, onderscheidenlijk huurders van percelen binnen het plandeel met de bestemming "Gemengd - Uit te werken" en het plandeel met de bestemming "Verkeer". Zij kunnen zich niet verenigen met het bestemmingsplan, onder meer omdat het plan zal leiden tot een beëindiging dan wel een beperking van hun bestaande bedrijfsactiviteiten. Verder keren Volendam B.V. en anderen en [appellant sub 4] zich tegen het exploitatieplan. Volendam B.V. en anderen en [appellant sub 4] voeren onder meer aan dat de mogelijkheid tot zelfrealisatie geen reële optie is. [appellant sub 4] betoogt voorts dat de inbrengwaarde te laag is geraamd.</para>
+  <para />
+  <parablock>
+    <para>Ontvankelijkheid van het beroep van Volendam B.V. en anderen, voor zover ingesteld door [appellant sub 2A] en anderen</para>
+  </parablock>
+  <para />
+  <para>3. Bij de behandeling van het beroep ter zitting is naar voren gekomen dat appellanten [appellant sub 2A], [appellant sub 2B], [appellant sub 2C] en [appellant sub 2D], die ten tijde van het instellen van het beroep eigenaar waren van een appartementsrecht dat is gevestigd in het plangebied, inmiddels geen eigenaar meer zijn van dat appartementsrecht. Het appartementsrecht is overgegaan op de gemeente. Gelet hierop en nu niet is gesteld of gebleken dat deze appellanten om een andere reden nog belang zouden hebben bij een inhoudelijke behandeling van hun beroep, is het beroep van Volendam B.V. en anderen niet-ontvankelijk voor zover het is ingesteld door [appellant sub 2A], [appellant sub 2B], [appellant sub 2C] en [appellant sub 2D].</para>
+  <para />
+  <parablock>
+    <para>Ontvankelijkheid van het beroep van Volendam B.V. en anderen, voor zover ingesteld door [appellant sub 2E]</para>
+  </parablock>
+  <para />
+  <para>4. De raad merkt op dat aan het beroep van Volendam B.V. en anderen, voor zover ingesteld door [appellant sub 2E], geen zienswijze is voorafgegaan. Dit betekent dat zij alleen in beroep kan komen voor zover het beroep ziet op in het vastgestelde plan opgenomen wijzigingen ten opzichte van het ontwerpplan, aldus de raad.</para>
+  <para />
+  <parablock>
+    <para>4.1.    Ingevolge de artikelen 3:11, 3:15 en 3:16 van de Algemene wet bestuursrecht (hierna: de Awb) wordt het ontwerpplan ter inzage gelegd voor de duur van zes weken en kunnen gedurende deze termijn zienswijzen naar voren worden gebracht bij de raad.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Ingevolge artikel 8:1 van de Awb, in samenhang gelezen met artikel 8:6 van de Awb en artikel 2 van bijlage 2 bij de Awb alsmede met artikel 6:13 van de Awb, kan geen beroep worden ingesteld tegen het besluit tot vaststelling van een bestemmingsplan door een belanghebbende die over het ontwerpplan niet tijdig een zienswijze naar voren heeft gebracht, tenzij hem redelijkerwijs niet kan worden verweten dit te hebben nagelaten</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>4.2.    Vast staat dat [appellant sub 2E] bij de raad geen zienswijze over het ontwerpplan naar voren heeft gebracht. In de omstandigheid dat het bij het besluit van 19 december 2018 vastgestelde plan afwijkt van het ontwerpplan, is hiervoor naar het oordeel van de Afdeling slechts gedeeltelijk een rechtvaardiging gelegen, namelijk voor zover het gaat om de in het vastgestelde plan opgenomen verlaging van de bouwhoogte ten opzichte van het ontwerp. Voor het overige doen zich geen wijzigingen ten opzichte van het ontwerp voor waardoor [appellant sub 2E] in een ongunstiger positie is geraakt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>4.3.    Het voorgaande betekent dat het beroep van Volendam B.V. en anderen voor zover het is ingesteld door [appellant sub 2E] niet-ontvankelijk is waar het andere aspecten dan het verlagen van de bouwhoogte betreft.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Ontvankelijkheid van het beroep van [appellant sub 3]</para>
+  </parablock>
+  <para />
+  <para>5. De raad stelt dat [appellant sub 3] geen zienswijze over het ontwerpplan naar voren heeft gebracht, zodat zijn beroep niet-ontvankelijk moet worden verklaard.</para>
+  <para />
+  <parablock>
+    <para>5.1.    [appellant sub 3] heeft bij de raad geen zienswijze over het ontwerpplan naar voren gebracht. In de omstandigheid dat het besluit van 19 december 2018 afwijkt van het ontwerpplan, is hiervoor naar het oordeel van de Afdeling geen rechtvaardiging gelegen. In het bij het besluit van 19 december 2018 vastgestelde plan zijn weliswaar wijzigingen aangebracht ten opzichte van het ontwerp ervan, maar deze wijzigingen hebben niet tot gevolg dat [appellant sub 3] in een nadeliger positie is komen te verkeren dan wanneer het plan ongewijzigd zou zijn vastgesteld. Daarbij betrekt de Afdeling dat de begripsbepalingen, artikel 8, leden 8.2, 8.4 en 8.5, van de planregels, artikel 13 en artikel 15, lid 15.1, van de planregels, de dubbelbestemming "Waterstaat-Waterkering" en de dubbelbestemming "Waarde Archeologie" zijn gewijzigd ten opzichte van het ontwerpplan. Het beroep van [appellant sub 3] is evenwel gericht tegen het niet langer als zodanig bestemmen van de bestaande bebouwing op het perceel [locatie 1]. Dit was in het ontwerpplan ook al op die manier voorzien. Verder acht de Afdeling het op grond van de stukken en het verhandelde ter zitting aannemelijk dat de terinzagelegging van het ontwerpplan overeenkomstig de daarvoor geldende wettelijke bepalingen heeft plaatsgevonden.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>5.2.    De conclusie is dat het beroep van [appellant sub 3] niet-ontvankelijk is.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Het bestemmingsplan</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Toetsingskader</para>
+  </parablock>
+  <para />
+  <para>6. Bij de vaststelling van een bestemmingsplan moet de raad bestemmingen aanwijzen en regels geven die de raad uit een oogpunt van een goede ruimtelijke ordening nodig acht. De raad heeft daarbij beleidsruimte en moet de betrokken belangen afwegen. De Afdeling beoordeelt aan de hand van de beroepsgronden of het besluit tot vaststelling van het bestemmingsplan in overeenstemming is met het recht. De Afdeling stelt niet zelf vast of het plan in overeenstemming is met een goede ruimtelijke ordening, maar beoordeelt aan de hand van die gronden of de raad zich in redelijkheid op het standpunt heeft kunnen stellen dat het plan strekt ten behoeve van een goede ruimtelijke ordening.</para>
+  <para />
+  <parablock>
+    <para>Het beroep van [appellante sub 1]</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Gemeentelijk beleid</para>
+  </parablock>
+  <para />
+  <para>7.    [ appellante sub 1] voert aan dat de raad ten onrechte de indruk heeft gewekt dat de voorziene ontwikkeling is vastgelegd in gemeentelijk beleid. De raad heeft volgens [appellante sub 1] niet deugdelijk onderbouwd dat de voorziene ontwikkeling gelet op de "Visie Overamstel", de "Structuurvisie Amsterdam 2040" (hierna: de structuurvisie), het beleidsdocument "Koers 2025" en het opgestelde milieueffectrapport (hierna: MER) ruimtelijk aanvaardbaar is.</para>
+  <para />
+  <parablock>
+    <para>7.1.    De raad heeft toegelicht dat de ambitie om Amsterdam en de omgeving te ontwikkelen tot een economisch sterke en duurzame metropoolregio is neergelegd in de structuurvisie. Om dit doel te bereiken dient een aantal gebieden getransformeerd te worden naar sterke stedelijke woon- en werkgebieden. Verder wijst de raad erop dat het bedrijventerrein Weespertrekvaart Noord - waar het plangebied deel van uitmaakt - in de structuurvisie is opgenomen als een van de bedrijventerreinen waarvan een transformatie tot een woon-werkgebied wordt onderzocht. Daarnaast heeft de raad aangegeven dat de gemeente in het beleidsdocument "Koers 2025" het voornemen heeft geuit om tot het jaar 2025 ongeveer 50.000 extra woningen te bouwen. In dat beleidsdocument is ook het gebied "Bijlmerbajes-Weespertrekvaart" opgenomen als een van de locaties om te voldoen aan die ambitie. De raad heeft daarnaast toegelicht dat het college van burgemeester en wethouders op 12 juli 2016 de "Strategienota Weespertrekvaart Midden-Zuid" heeft vastgesteld. De gewenste transformatie naar een stedelijk woon-werkgebied wordt hierin nader vormgegeven. Verder is de Weespertrekvaart in de nota "Ruimte voor de Economie van Morgen" aangeduid als een woon-werkwijk die door een menging van kleine zelfstandige kantoor- en werkruimtes voorziet in de behoefte aan een nieuw informeel stedelijk werkmilieu. Tot slot wijst de raad erop dat de voorziene transformatie binnen dit plangebied nader is uitgewerkt in het Stedenbouwkundig plan Weespertrekvaart Oost. Hierin staan de ruimtelijke en programmatische kaders voor de transformatie van het bedrijventerrein Weespertrekvaart-Oost van een bedrijventerrein naar een gemengd hoogstedelijk woon-werkgebied, waarbij rekening is gehouden met de ambities van het college op het gebied van wonen, werken, openbare ruimte en groeninrichting, leefbaarheid en duurzaamheid enerzijds en de belangen van bestaande bedrijven en eigenaren anderzijds.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>7.2.    Het betoog van [appellante sub 1] geeft geen aanleiding voor het oordeel dat de raad zich ten onrechte op het standpunt heeft gesteld dat dit plan een uitwerking is van de gemeentelijke structuurvisie. Gelet op de hiervoor weergeven toelichting van de raad, ziet de Afdeling in het betoog van [appellante sub 1] evenmin aanleiding voor het oordeel dat het plan anderszins in strijd is met gemeentelijk beleid. Hierbij betrekt de Afdeling dat de raad heeft toegelicht dat de voorziene ontwikkeling nader is uitgewerkt in en, althans in grote lijnen, in overeenstemming is met het stedenbouwkundig plan.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Verdichting omgeving</para>
+  </parablock>
+  <para />
+  <para>8.    [ appellante sub 1] betoogt, onder verwijzing naar de notitie "Onderzoek Luchtkwaliteit: extra programma in Overamstel" van 31 mei 2017 (hierna: de notitie van 31 mei 2017), opgesteld door Tauw, dat de voorziene ontwikkeling zal leiden tot onaanvaardbare verdichting van bebouwing binnen het plangebied. Volgens [appellante sub 1] is in deze notitie vastgesteld dat door verdichting het project niet meer past in het Nationaal Samenwerkingsprogramma Luchtkwaliteit. De bevinding in de notitie van 31 mei 2017 heeft gevolgen voor de actualiteit van overige onderzoeken, waaronder het MER, aldus [appellante sub 1].</para>
+  <para />
+  <parablock>
+    <para>8.1.    De raad heeft toegelicht dat ten behoeve van de transformatie van het gebied Overamstel in 2013 een MER is opgesteld dat gekoppeld is aan de procedure van het bestemmingsplan "Amstelkwartier tweede fase", vastgesteld op 27 november 2013. Er is een MER opgesteld omdat voor de herontwikkeling van Overamstel de verwachting was dat hier tot 2030 tussen de 4.250 tot 7.950 woningen en maximaal 110.000 tot 170.000 m2 bvo aan bedrijven, kantoren en voorzieningen zouden worden gerealiseerd. Dit MER is eveneens aan het voorliggende bestemmingsplan ten grondslag gelegd. De raad heeft aangegeven dat dit bestemmingsplan voorziet in ongeveer 44.500 m2 bvo aan woningen en 8.100 m2 bvo aan bedrijven, kantoren en voorzieningen, hetgeen past binnen de bandbreedte van het MER. Verder heeft de raad toegelicht dat in de notitie van 31 mei 2017 staat dat de verdere verdichting een totaal aantal woningen van 7.420 tot gevolg heeft, hetgeen eveneens past binnen de bandbreedte van 4.250 tot 7.950 woningen als vermeld in het MER.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>8.2.    Naar het oordeel van de Afdeling bestaat geen aanleiding om te veronderstellen dat de situatie sinds 2013 zodanig is veranderd dat de raad zich in verband daarmee niet meer op het MER mocht baseren. In het licht daarvan heeft de raad zich in redelijkheid op het standpunt kunnen stellen dat de voorziene transformatie niet zal leiden tot een onaanvaardbare verdichting van het plangebied. Over de notitie van 31 mei 2017 stelt de Afdeling vast dat deze betrekking heeft op de inpasbaarheid in het Nationaal Samenwerkingsprogramma Luchtkwaliteit van het project met de vernieuwde uitgangspunten over de luchtkwaliteit. Deze notitie heeft geen betrekking op verdichting van bebouwing binnen het plangebied in relatie tot het MER.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Uit te werken bestemming</para>
+  </parablock>
+  <para />
+  <para>9.    [ appellante sub 1] voert, onder verwijzing naar de uitspraak van de Afdeling van 4 februari 2015, ECLI:NL:RVS:2015:235, aan dat de planologische aanvaardbaarheid van de uit te werken bestemming onvoldoende vaststaat. Hierover voert zij aan dat bij de vaststelling van een uitwerkingsplan aannemelijk moet worden gemaakt dat er één of meer uitwerkingen van de uit te werken bestemmingen mogelijk zijn die in overeenstemming zijn met een goede ruimtelijke ordening. Zij wijst op artikel 8, lid 8.2, aanhef en onder o, van de planregels waarmee de planologische aanvaardbaarheid van de uit te werken bestemming volgens haar in grote mate wordt doorgeschoven naar de fase van de uitwerking van het plan. Verder volgt uit hoofdstuk 9 van de plantoelichting over het rangeerterrein van de metro naar haar mening onvoldoende wat de akoestische gevolgen van het rangeerterrein van de metro zijn.</para>
+  <para />
+  <parablock>
+    <para>9.1.    Artikel 8, lid 8.2, aanhef en onder o, van de planregels luidt:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"Het bevoegd gezag werkt het plan, voor zover het de gronden betreft als bedoeld in lid 8.1 uit overeenkomstig het bepaalde in artikel 3.6 van de Wet ruimtelijke ordening en met in achtneming van de volgende regels:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>[…]</para>
+  </parablock>
+  <para />
+  <para>o. Het bevoegd gezag verleent slechts medewerking aan een uitwerking van het plan, mits voldaan wordt aan de onderzoeksverplichting voor het aantonen van de uitvoerbaarheid, waarmee in elk geval wordt aangetoond dat:[…]"</para>
+  <para />
+  <parablock>
+    <para>9.2.     Wanneer in een bestemmingsplan een uitwerkingsplicht is opgenomen, dient het college van burgemeester en wethouders in beginsel een uitwerkingsplan vast te stellen. In het kader van een beroep tegen een uitwerkingsplan kan ter beoordeling staan of dit plan is voorbereid en genomen in strijd met het recht, daaronder begrepen of de uitgewerkte bestemming strookt met de uitwerkingsregels in het bestemmingsplan en, voor zover die regels daartoe de ruimte laten, met een goede ruimtelijke ordening. Daarbij geldt de planologische aanvaardbaarheid van de uit te werken bestemming als een gegeven.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>9.3.    Gelet op het voorgaande dient het college bij het vaststellen van een uitwerkingsplan te beoordelen of het plan in overeenstemming is met het recht en een goede ruimtelijke ordening, dit laatste voor zover de uitwerkingsregels daartoe de ruimte laten. In het licht hiervan en in aanmerking genomen dat in het voorliggende plan de planologische mogelijkheden van het gebied in hoofdlijnen zijn vastgelegd, ziet de Afdeling geen grond voor het oordeel dat de raad de planologische aanvaardbaarheid in ontoelaatbare mate heeft doorgeschoven naar de fase van uitwerking.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Over het betoog van [appellante sub 1] dat onduidelijk is wat de akoestische gevolgen van het nabijgelegen rangeerterrein van de metro zijn, overweegt de Afdeling dat bij de vaststelling van het uitwerkingsplan zal moeten worden voldaan aan de regels van de Wet geluidhinder en de vereisten van een goede ruimtelijke ordening. Het is niet nodig dit uitdrukkelijk in de uitwerkingsregels op te nemen, nu de verplichting daartoe rechtstreeks uit de wet volgt. In het betoog van [appellante sub 1] ziet de Afdeling geen aanleiding voor het oordeel dat geen uitwerking van het bestemmingsplan mogelijk is waarbij wordt voldaan aan de vereisten van een goede ruimtelijke ordening. De enkele omstandigheid dat, zoals [appellante sub 1] ter zitting heeft benadrukt, in de plantoelichting een onvolledige zin is opgenomen over de geluidproblematiek in relatie tot het rangeerterrein van de metro, geeft geen grond tot twijfel over die mogelijkheid.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Vraag of het bedrijf als zodanig is bestemd</para>
+  </parablock>
+  <para />
+  <para>10.    [ appellante sub 1] voert aan dat haar bedrijfsactiviteiten vallen onder de SBI-codes 501, 502 en 504 als bedoeld in de "Staat van bedrijfsactiviteit - functiemenging" die geldt binnen de bestemming "Gemengd - uit te werken". Volgens [appellante sub 1] bevatten deze codes meerdere subcategorieën waar haar bedrijfsactiviteiten onder vallen. Anders dan de raad veronderstelt blijven deze activiteiten volgens het primaire standpunt van [appellante sub 1] daarom toegestaan onder het plan, los van het daarin vervatte overgangsrecht. Ter zitting heeft [appellante sub 1] in dit verband gewezen op de uitspraak van de Afdeling van 17 juni 2020, ECLI:NL:2020:1408.</para>
+  <para />
+  <parablock>
+    <para>10.1.    De raad heeft toegelicht dat sprake moet zijn van een aanvaardbaar woon- en leefklimaat voor de toekomstige bewoners en bedrijven waar dit verantwoord is onbelemmerd hun bedrijfsvoering dienen te kunnen uitvoeren, aangezien het plan voorziet in een menging van woningen en bedrijven, waardoor verschillende functies op korte afstand van elkaar komen te liggen. Om die reden is ervoor gekozen het toelaten van bedrijven te beperken tot de bedrijven die staan vermeld in bijlage 4 van de planregels als opgenomen in de bij de planregels behorende "Staat van bedrijfsactiviteiten - functiemenging". In aanmerking genomen dat het bedrijf van [appellante sub 1] ook een plaatwerkerij en een spuiterij omvat, valt dit bedrijf volgens de raad niet onder de categorie toegestane bedrijven. Naar de mening van de raad volgt dit voldoende duidelijk uit artikel 8, lid 8.2, aanhef en onder l, van de planregels, gelezen in samenhang met bijlage 4 bij de planregels.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>10.2.    Artikel 8, lid 8.1, aanhef en onder a, van de planregels luidt:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"De voor 'Gemengd - uit te werken' aangewezen gronden zijn bestemd voor:</para>
+  </parablock>
+  <para />
+  <para>a. bedrijven;[…]"</para>
+  <para />
+  <parablock>
+    <para>    Artikel 8, lid 8.2, aanhef en onder l, luidt:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"Het bevoegd gezag werkt het plan, voor zover het de gronden betreft als bedoeld in lid 8.1 uit overeenkomstig het bepaalde in artikel 3.6 van de Wet ruimtelijke ordening en met in achtneming van de volgende regels:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>[…]</para>
+  </parablock>
+  <para />
+  <para>l. Ten aanzien van bedrijven geldt:</para>
+  <para />
+  <para>1. Bedrijven zijn uitsluitend toegestaan voor zover deze vallen onder categorie A van de bij deze regels horende Staat van bedrijfsactiviteiten - functiemenging;</para>
+  <para />
+  <para>2. In geval van activiteiten die bouwkundig afgescheiden zijn van woningen en andere geluidgevoelige bestemmingen, zijn tevens bedrijven toegestaan die in de bij deze regels behorende Staat van bedrijfsactiviteiten - functiemenging vallen onder categorie B;</para>
+  <para />
+  <para>3. Het bevoegd gezag kan bij een omgevingsvergunning afwijken van het bepaalde in 1 . en 2. voor het bouwen en het gebruik van gronden en bebouwing ten behoeve van een bedrijf dat niet in de Staat van bedrijfsactiviteiten - functiemenging voorkomt en in vergelijking met bedrijven die wel vallen onder de benoemd categorieën een gelijke of mindere milieuhinder veroorzaakt."</para>
+  <para />
+  <parablock>
+    <para>10.3.    Naar het oordeel van de Afdeling brengt een redelijke uitleg van artikel 8, lid 8.2, aanhef en onder l, van de planregels en de daarbij behorende bijlage 4 met zich dat het bedrijf van [appellante sub 1] niet als zodanig is bestemd. Daarbij betrekt de Afdeling dat de in bijlage 4 vermelde bedrijven van codes zijn voorzien. Die codes zijn, zoals ook uit de lijst blijkt, ontleend aan de Standaard Bedrijfsindeling (SBI) zoals die wordt gehanteerd door het Centraal Bureau voor de Statistiek en de Vereniging van Nederlandse Gemeenten (hierna: de VNG). Autospuiterijen en autoplaatwerkerijen hebben in het stelsel van de SBI andere codes dan de codes van de bedrijven die als toegestane bedrijven zijn opgenomen in bijlage 4 bij de planregels, waaronder "handel in auto's en motorfietsen, reparatie- en servicebedrijven". Gelet op dit verschil in codes ziet de Afdeling geen grond voor het oordeel dat het bedrijf van [appellante sub 1] onder die laatste categorie valt. De raad heeft zich terecht op het standpunt gesteld dat met het verwijzen naar een hoofdactiviteit binnen de SBI-codering niet automatisch ook wordt verwezen naar een subactiviteit. Verder is van belang dat een autospuiterij en een autoplaatwerkerij in de systematiek van de VNG worden aangemerkt als milieucategorie 3.1 onderscheidenlijk 3.2, zodat beide niet vallen binnen categorie A. De autospuiterij en de autoplaatwerkerij vallen evenmin binnen categorie B, omdat niet wordt voldaan aan de geldende richtafstanden voor geur en geluid uit bijlage 1 van de door de VNG opgestelde handreiking "Bedrijven en milieuzonering". Naar het oordeel van de Afdeling biedt de door [appellante sub 1] genoemde uitspraak van 17 juni 2020 geen aanknopingspunten voor de conclusie dat het verwijzen naar een hoofdactiviteit als hier bedoeld een verwijzing naar een subactiviteit impliceert, ook niet waar het om een zogenoemd gemengd gebied gaat.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Vraag of de raad het bedrijf niet langer positief mocht bestemmen</para>
+  </parablock>
+  <para />
+  <para>11.    [ appellante sub 1] voert subsidiair aan dat de raad er niet in redelijkheid voor heeft kunnen kiezen de gronden van haar bedrijf niet langer als zodanig te bestemmen. In dat verband voert zij aan dat zij een levensvatbaar en modern bedrijf heeft dat al lange tijd op deze locatie is gevestigd en waarin nog recentelijk investeringen zijn gedaan. Volgens haar kan het bedrijf, zo nodig met enkele aanpassingen in de bedrijfsvoering, zonder bezwaar worden gehandhaafd in het woon-/werkgebied dat de raad voor ogen heeft. [appellante sub 1] wijst er in dat verband op dat de raad voor een ander autoschadebedrijf in de omgeving wel een zogenoemde maatwerkoplossing heeft bewerkstelligd.</para>
+  <para />
+  <parablock>
+    <para>    Meer subsidiair betoogt [appellante sub 1] dat bij de planvaststelling ten onrechte geen aandacht is besteed aan locatie-alternatieven. Haar voorkeur zou, gelet op het beleid van autoverzekeraars en leasemaatschappijen, uitgaan naar een locatie binnen hetzelfde postcodegebied.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>11.1.    De raad stelt zich op het standpunt dat het bedrijf van [appellante sub 1] in ieder geval in zijn huidige opzet - die een plaatwerkerij, een spuitinrichting en een betrekkelijk groot buitenterrein bevat - niet past in het in het plan voorziene woon-/werkgebied. Naar de mening van de raad vergt het bedrijf in die opzet namelijk een te groot ruimtebeslag en moet worden gevreesd dat overlast ontstaat voor de toekomstige bewoners van het gebied. De Afdeling acht dit gelet op de aard van de door de raad gewenste en in het plan vastgelegde ontwikkeling van het gebied niet onredelijk.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Bij de behandeling van het beroep ter zitting is naar voren gekomen dat de raad niet op voorhand uitsluit dat [appellante sub 1] zodanige wijzigingen in de bedrijfsvoering zou kunnen doorvoeren dat het bedrijf alsnog valt in te passen in het gebied en de strijdigheid met het bestemmingsplan geen overwegende bezwaren meer ontmoet. In dat geval kan een omgevingsvergunning worden aangevraagd voor het gebruik van gronden of bouwwerken in strijd met het bestemmingsplan. Naar het oordeel van de Afdeling mocht de raad bij het vaststellen van het plan echter van de bestaande bedrijfsvoering uitgaan. Daarbij wordt in aanmerking genomen dat [appellante sub 1] op dat moment geen concrete voornemens had gepresenteerd om haar bedrijfsvoering te wijzigen.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Over de door [appellante sub 1] gemaakte vergelijking met het andere autoschadebedrijf in de omgeving overweegt de Afdeling dat de raad zich op het standpunt heeft gesteld dat deze situatie verschilt van de aan de orde zijnde situatie omdat het andere bedrijf zich in het deel van het plangebied bevindt waarvoor het plan voornamelijk conserverend van aard is en dat deelgebied (voorlopig) dus niet zal worden getransformeerd naar een gebied met meer mogelijkheden tot wonen. Gelet daarop ziet de Afdeling in hetgeen [appellante sub 1] heeft aangevoerd geen aanleiding voor het oordeel dat de raad zich ten onrechte op het standpunt heeft gesteld dat de situatie van het andere bedrijf niet overeenkomt met de nu aan de orde zijnde situatie.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>11.2.    Voor zover [appellante sub 1] betoogt dat de raad onvoldoende aandacht heeft geschonken aan het zoeken naar een alternatieve locatie voor haar bedrijf, overweegt de Afdeling als volgt. De omstandigheid dat op het moment van het vaststellen van een bestemmingsplan nog geen andere locatie is gevonden voor een bedrijf waarvan de gronden niet langer als zodanig worden bestemd, hoeft niet te betekenen dat het plan niet had mogen worden vastgesteld. Dit is te minder het geval als, zoals in de voorliggende situatie, de raad de door hem gewenste ontwikkeling van een gebied zo belangrijk vindt dat deze volgens hem ook moet plaatsvinden als in de directe omgeving of zelfs in de gehele gemeente geen geschikte alternatieve bedrijfslocatie voorhanden zou zijn. De raad heeft opgemerkt dat hij aan [appellante sub 1] niettemin een alternatieve locatie heeft aangeboden aan de Ellermanstraat op het bedrijventerrein Amstel Business Park Zuid, maar dat deze locatie door [appellante sub 1] is afgewezen. Verder heeft de raad bij de vaststelling van het plan de door [appellante sub 1] aangedragen alternatieve bedrijfslocatie onderzocht. De raad heeft daarover uiteengezet dat deze locatie geen eigendom is van de gemeente en de huidige eigenaar deze locatie zelf wenst te ontwikkelen, zodat deze locatie geen geschikt alternatief is. Gelet op het voorgaande ziet de Afdeling geen aanleiding voor het oordeel dat de raad in het kader van het vaststellen van het plan meer aandacht had moeten schenken aan het zoeken naar een alternatieve locatie voor [appellante sub 1].</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Duidelijkheid planregels</para>
+  </parablock>
+  <para />
+  <para>12.    [ appellante sub 1] voert aan dat artikel 8, lid 8.2, aanhef en onder a, g, h en j, van de planregels rechtsonzeker is. Daartoe voert [appellante sub 1] aan dat in artikel 8, lid 8.2, aanhef en onder a, van de planregels niet is geborgd dat bij de uitwerking van de bestemming ook voldaan dient te worden aan hetgeen is opgenomen in paragraaf 4.2 van het stedenbouwkundig plan. Ook het gebruik van de woorden "in hoofdlijnen" en "stedenbouwkundige uitgangspunten" maken het artikel volgens haar rechtsonzeker. Verder voert [appellante sub 1] in dit kader aan dat de eerste zin van artikel 8, lid 8.2, aanhef en onder g, van de planregels onvolledig is, waardoor het onduidelijk is wat met deze bepaling wordt bedoeld. Daarnaast betoogt zij dat artikel 8, lid 8.2, aanhef en onder h, van de planregels onduidelijk is, omdat de reikwijdte van het artikel niet beperkt lijkt te zijn tot andere voorzieningen dan de woonvoorzieningen, de voorwaarden onder 1, 2 en 3 onduidelijk zijn en onduidelijk is of het om cumulatieve voorwaarden gaat.</para>
+  <para />
+  <parablock>
+    <para>    Daarnaast voert [appellante sub 1] aan dat onduidelijk is of een verwijzing naar bijlagen in uitwerkingsregels, zoals in artikel 8.2, onder g en j staat, is toegestaan. Ook betoogt zij dat artikel 8, lid 8.2, aanhef en onder j, sub 2, van de planregels onduidelijk is. De toepasselijkheid van deze bepaling is afhankelijk gesteld van een "eindbeeld" in het stedenbouwkundig plan en van het advies van de Supervisor Overamstel, terwijl in het stedenbouwkundig plan het woord "eindbeeld" niet voorkomt, onduidelijk is wat de functie en bevoegdheid van de Supervisor Overamstel is en of deze persoon bevoegd is om advies uit te brengen.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>12.1.    Artikel 8, lid 8.2, aanhef en onder a, g, h en j van de planregels luidt:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"Het bevoegd gezag werkt het plan, voor zover het de gronden betreft als bedoeld in lid 8.1 uit overeenkomstig het bepaalde in artikel 3.6 van de Wet ruimtelijke ordening en met in achtneming van de volgende regels:</para>
+  </parablock>
+  <para />
+  <para>a. Bij de uitwerking van de bestemming dient in hoofdlijnen voldaan te worden aan de stedenbouwkundige uitgangspunten, zoals weergegeven in paragraaf 2.2, 4.1, 4.3 en 4.5 van het stedenbouwkundig plan Weespertrekvaart Oost.</para>
+  <para />
+  <parablock>
+    <para>[…]</para>
+  </parablock>
+  <para />
+  <para>g. Het totale bruto-vloeroppervlak van gebouwen en/of gebouwdelen ten behoeve van wonen en ten behoeve van werken en voorzieningen (bedrijven, horeca, kantoren en maatschappelijke voorzieningen en na afwijking detailhandel) waarbij ten aanzien van de verdeling van deze oppervlakten over de ontwikkeleenheden 6 tot en met 11 de volgende tabel in acht wordt genomen:</para>
+  <para />
+  <mediaobject>
+    <imageobject>
+      <imagedata align="center" scale="100" fileref="762e1022-ea7b-41fd-accb-92366db220e8" depth="256" width="538" format="image/png" />
+    </imageobject>
+  </mediaobject>
+  <para />
+  <para>h. In afwijking van het bepaalde onder g. is het mogelijk om een groter bruto vloeroppervlak per ontwikkeleenheid te realiseren, indien:</para>
+  <para />
+  <para>1. als gevolg van de voorgestane ontwikkeling de bruto vloeroppervlakte ten behoeve van bedrijven, horeca, kantoren, maatschappelijke voorzieningen wordt vergroot, en/of</para>
+  <para />
+  <para>2. als gevolg van de voorgestane ontwikkeling een substantiële omvang aan gemeenschappelijk gebruik van daktuinen wordt gerealiseerd;</para>
+  <para />
+  <para>3. het totaal van het grotere bruto vloeroppervlak binnen de uit te werken bestemming niet meer bedraagt dan 4.200 m2.</para>
+  <para />
+  <parablock>
+    <para>[…]</para>
+  </parablock>
+  <para />
+  <para>j. Ten aanzien van de bouwhoogte van bouwwerken geldt het volgende:</para>
+  <para />
+  <para>1. de hoogte van een plint/sokkel mag maximaal 8 meter bedragen, exclusief daktuinen en borstwering;</para>
+  <para />
+  <para>2. de hoogte van bebouwing (inclusief plint/sokkel) mag maximaal 30 meter bedragen, gemeten vanaf peil, met dien verstande dat het aantal bouwlagen in bebouwing gelijk is aan het aantal bouwlagen, zoals die zijn weergegeven op de afbeelding die als Bijlage bij deze regels is gevoegd, waarbij per ontwikkeleenheid het toegestane aantal bouwlagen onderling uitwisselbaar zijn waarbij:</para>
+  <para />
+  <para>- de ontwikkeleenheden 11AB, 11C, 11DEF worden aangemerkt als één ontwikkeleenheid;</para>
+  <para />
+  <para>- de ontwikkeleenheden 10A, 10BC, 10D, 10 EF worden aangemerkt als één ontwikkeleendheid [lees: ontwikkeleenheid];</para>
+  <para />
+  <para>- de toepassen [lees: de toepassing] van andere hoogten als weergegeven op hiervoor bedoelde afbeelding passend is in het stedenbouwkundig eindbeeld van het gebied, zoals beschreven in het Stedenbouwkundig plan, hierover dient advies te worden ingewonnen [bij] de Supervisor Overamstel;[…]"</para>
+  <para />
+  <parablock>
+    <para>12.2.    De raad heeft ter zitting erkend dat de tekst van artikel 8, lid 8.2, onder g, van de planregels niet correct is geredigeerd. Volgens hem zou deze  als volgt moeten luiden:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"Voor het totale bruto-vloeroppervlak van gebouwen en/of gebouwdelen ten behoeve van wonen en ten behoeve van werken en voorzieningen (bedrijven, horeca, kantoren en maatschappelijke voorzieningen en na afwijking detailhandel) wordt ten aanzien van de verdeling van deze oppervlakten over de ontwikkeleenheden 6 tot en met 11 de volgende tabel in acht genomen:"</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Verder heeft de raad in zijn verweer ten aanzien van artikel 8, lid 8.2, onder h, van de planregels opgemerkt dat de redactie van de bepaling de bedoeling van de regeling niet duidelijk weergeeft. Artikel 8, lid 8.2, onder h, van de planregels moet volgens de raad als volgt luiden:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"h. In afwijking van het bepaalde onder g. is het mogelijk om een groter bruto vloeroppervlak per ontwikkeleenheid te realiseren met een maximum van 4.200 m2 voor alle ontwikkeleenheden tezamen:</para>
+  </parablock>
+  <para />
+  <para>1. ten behoeve van bedrijven, horeca, kantoren en/of maatschappelijke voorzieningen indien als gevolg van de voorgestane ontwikkeling de bruto vloeroppervlakte ten behoeve van bedrijven, horeca, kantoren, maatschappelijke voorzieningen wordt vergroot; en/of</para>
+  <para />
+  <para>2. ten behoeve van wonen indien als het gevolg van de voorgestane ontwikkeling een substantiële omvang aan gemeenschappelijk gebruik van daktuinen wordt gerealiseerd."</para>
+  <para />
+  <parablock>
+    <para>    De Afdeling stelt vast dat de raad zich daarmee zowel ten aanzien van artikel 8, lid 8.2, onder g, als ten aanzien van artikel 8, lid 8.2, onder h, van de planregels op een ander standpunt stelt dan hij in het bestreden besluit heeft gedaan. Nu niet is gebleken dat gewijzigde omstandigheden hiertoe aanleiding hebben gegeven, moet worden geoordeeld dat het bestreden besluit in zoverre in strijd met artikel 3:2 van de Awb niet met de vereiste zorgvuldigheid is voorbereid.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    In zoverre slaagt het betoog.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>12.3.    In het betoog van [appellante sub 1] ziet de Afdeling geen aanleiding voor het oordeel dat artikel 8, lid 8.2, aanhef en onder a, g, h en j, van de planregels (anderszins) onvoldoende duidelijk is en in strijd met het rechtszekerheidsbeginsel is vastgesteld. Bij haar oordeel betrekt de Afdeling dat de verwijzing in artikel 8, lid 8.2, aanhef en onder a, van de planregels naar het stedenbouwkundig plan is opgenomen voor zover dat ruimtelijk relevant is voor het uitwerken van de bestemming. De raad heeft toegelicht dat in de beantwoording van de zienswijzen per abuis is vermeld dat in dat kader ook verwezen dient te worden naar paragraaf 4.2 van het stedenbouwkundig plan, aangezien deze paragraaf betrekking heeft op hetgeen is geregeld in artikel 8, lid 8.2, aanhef en onder g, van de planregels. Verder overweegt de Afdeling dat uit de woorden "in hoofdlijnen" en "stedenbouwkundige uitgangspunten" voldoende duidelijk blijkt dat het gaat om de bevoegdheid van het college om binnen de kaders van het stedenbouwkundig plan het bestemmingsplan uit te werken.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Over het betoog dat onduidelijk is of een verwijzing naar bijlagen in uitwerkingsregels, zoals in artikel 8.2, onder g en j staat, is toegestaan, stelt de Afdeling vast dat de verwijzing naar de bijlagen in de uitwerkingsregels verduidelijkt welke ontwikkeleenheden bedoeld worden en verduidelijkt hoeveel bouwlagen op welke locaties gebouwd mogen worden. Dit acht de Afdeling niet in strijd met het recht.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Wat betreft artikel 8, lid 8.2, aanhef en onder j, sub 2, van de planregels, heeft de raad toegelicht dat deze bepaling aangeeft dat per ontwikkeleenheid het toegestane aantal bouwlagen alleen onderling uitwisselbaar is als het passend is binnen het stedenbouwkundig eindbeeld van het gebied zoals beschreven in het stedenbouwkundig plan. Dit betreft een afwisselend gevelbeeld vanaf de straat en het water, waarover advies ingewonnen dient te worden bij de Supervisor Overamstel. De uitwerkingsbevoegdheid van het college is niet afhankelijk van een positief advies van de Supervisor Overamstel, aldus de raad. De Supervisor Overamstel is een natuurlijk persoon die door de gemeente als zodanig is aangesteld en die door de gemeente bij ontwikkelingen in het gebied Overamstel om advies wordt gevraagd over beeldkwaliteit en welstand. De raad heeft er in redelijkheid voor kunnen kiezen in artikel 8, lid 8.2, aanhef en onder j, van de planregels te verwijzen naar bijlagen in uitwerkingsregels en het advies van de Supervisor Overamstel.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    In zoverre faalt het betoog.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Ondergronds bouwen</para>
+  </parablock>
+  <para />
+  <para>13.    [ appellante sub 1] voert aan dat in de planregels ten onrechte niet is opgenomen op welke locaties ondergronds mag worden gebouwd en onderzoek naar ondergronds bouwen ontbreekt. Het plan voorziet volgens haar in de realisatie van omvangrijke ondergrondse bouwwerken, aangezien de uitwerkingsregels daarvoor geen kader bieden. Verder betoogt zij dat de mogelijkheid om op sommige plekken verdiepte parkeergarages aan te leggen in de planregels ten onrechte niet is vastgelegd.</para>
+  <para />
+  <parablock>
+    <para>13.1.    Artikel 8, lid 8.1, van de planregels luidt:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"De voor 'Gemengd - uit te werken' aangewezen gronden zijn bestemd voor:</para>
+  </parablock>
+  <para />
+  <para>a. bedrijven;</para>
+  <para>b. horeca 3 en horeca 4;</para>
+  <para>c. kantoren;</para>
+  <para>d. maatschappelijke dienstverlening;</para>
+  <para>e. wonen;</para>
+  <para>f. groen;</para>
+  <para>g. water;</para>
+  <para>h. wegen, voetpaden, fietspaden en parkeren;</para>
+  <para />
+  <parablock>
+    <para>met de daarbij behorende:</para>
+  </parablock>
+  <para />
+  <para>i. parkeervoorzieningen, met de daarbij behorende in- en uitritten;</para>
+  <para>j. nutsvoorzieningen;</para>
+  <para>k. horecaterrassen;</para>
+  <para>l. tuinen en erven;</para>
+  <para>m. verkeersareaal;</para>
+  <para>n. fietsparkeervoorzieningen;</para>
+  <para>o. groenvoorzieningen;</para>
+  <para>p. speelvoorzieningen;</para>
+  <para>q. waterbouwkundige kunstwerken;</para>
+  <para>r. bruggen;</para>
+  <para>s. waterhuishoudkundige voorzieningen."</para>
+  <para />
+  <parablock>
+    <para>    Artikel 8, lid 8.2, aanhef en onder b en k, luidt:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>"Het bevoegd gezag werkt het plan, voor zover het de gronden betreft als bedoeld in lid 8.1 uit overeenkomstig het bepaalde in artikel 3.6 van de Wet ruimtelijke ordening en met in achtneming van de volgende regels:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>[…]</para>
+  </parablock>
+  <para />
+  <para>b. Het totale bruto vloeroppervlak van gebouwen binnen de gehele uit te werken bestemming mag na uitwerking niet groter zijn dan 51.100 m2;</para>
+  <para />
+  <parablock>
+    <para>[…]</para>
+  </parablock>
+  <para />
+  <para>k. Ten aanzien van ondergronds bouwen geldt dat ondergrondse gebouwen uitsluitend zijn toegestaan als uit geohydrologisch onderzoek is gebleken dat deze ondergrondse gebouwen geen of een aanvaardbaar beperkt effect heeft op de grondwaterstanden en -stromingen;[…]"</para>
+  <para />
+  <parablock>
+    <para>13.2.    De raad acht de vrees van [appellante sub 1] dat onbeperkt ondergronds zal worden gebouwd in het plangebied, ongegrond. In dat verband merkt de raad op dat uit artikel 8, lid 8.1, van de planregels voortvloeit dat parkeervoorzieningen alleen mogelijk zijn voor zover die behoren bij de verschillende functies die in het artikellid zijn genoemd. Naar het oordeel van de Afdeling is dat standpunt juist en behoeft in het licht daarvan niet te worden gevreesd voor ongebreideld ondergronds bouwen. In zoverre faalt het betoog.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    In het stedenbouwkundig plan staat dat ondergronds bouwen bij de ontwikkeleenheden 6 en 7 niet mogelijk is vanwege de mate van verontreiniging ter plaatse. De raad heeft aangegeven dat dit niet in het plan is geregeld en dat het plan hierop moet worden aangepast. Hiermee heeft de raad zich naar het oordeel van de Afdeling op een ander standpunt gesteld dan hij in het bestreden besluit heeft gedaan. Nu niet is gebleken dat gewijzigde omstandigheden hiertoe aanleiding hebben gegeven, moet worden geoordeeld dat het bestreden besluit wat betreft artikel 8, lid 8.2, onder k, van de planregels niet met de vereiste zorgvuldigheid is voorbereid en in strijd is met artikel 3:2 van de Awb, voor zover in die bepaling geen uitzondering is opgenomen voor de ontwikkeleenheden 6 en 7 zoals opgenomen in bijlage 5 bij de planregels. Het betoog slaagt in zoverre.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Gasloos bouwen</para>
+  </parablock>
+  <para />
+  <para>14.    [ appellante sub 1] betoogt dat bij de vaststelling van artikel 8, lid 8.2, van de planregels ten onrechte geen rekening is gehouden met gasloos bouwen. In dit verband wijst zij op de uitspraak van de Afdeling van 15 augustus 2018, ECLI:NL:RVS:2018:2731.</para>
+  <para />
+  <parablock>
+    <para>14.1.     De Afdeling is van oordeel dat de raad in redelijkheid ervan heeft kunnen afzien om in het plan vast te leggen dat in het plangebied gasloos zal worden gebouwd. De invulling van gronden met leidingen die al dan niet geschikt zijn voor het transporteren van gas, betreft primair de uitvoering van het plan, hetgeen in deze procedure niet aan de orde kan komen. In dat verband verwijst de Afdeling naar haar uitspraak van 17 april 2019, ECLI:NL:RVS:2019:1257. De verwijzing door [appellante sub 1] naar de uitspraak van 15 augustus 2018 maakt dat niet anders, in aanmerking genomen dat de Afdeling in die uitspraak heeft geoordeeld dat de vraag of de desbetreffende regelgeving in de weg stond aan de uitvoerbaarheid van het plan, geen doel trof.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>14.2.    Overigens is op 9 april 2018 de wet tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (voortgang energietransitie) in werking getreden. Op grond van deze wet zullen nieuwbouwprojecten in principe gasloos gebouwd moeten worden waartoe onder meer ook het Bouwbesluit 2012 is gewijzigd.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Het beroep van Volendam B.V. en anderen</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Bouwhoogte</para>
+  </parablock>
+  <para />
+  <para>15. Volendam B.V. en anderen voeren aan dat het ten opzichte van het ontwerpplan verlagen van de toegestane bouwhoogte ter plaatse van hun percelen onvoldoende is gemotiveerd. Zij verwijzen in dit verband naar de concept-versie van het stedenbouwkundig plan waarin wordt gepleit voor hogere bouwhoogten. Volgens Volendam B.V. en anderen is de kans op rendabele zelfrealisatie groter als het plan voorziet in hogere bouwhoogten.</para>
+  <para />
+  <parablock>
+    <para>15.1.    Naar het oordeel van de Afdeling heeft de raad de wens van Volendam B.V. om met het voorliggende plan te voorzien in hoogteaccenten voldoende in zijn belangenafweging betrokken en heeft hij afdoende gemotiveerd waarom het plan niet in de door Volendam B.V. gewenste bouwhoogten voorziet. Daarbij is van belang dat de raad ter zitting heeft toegelicht dat de nabijgelegen Weespertrekvaart van landschappelijke en cultuurhistorische betekenis is en dat hij de hoogteaccenten - van ongeveer 45 m en van ongeveer 72 m - in verband daarmee niet wenselijk acht. De raad verwijst in dit verband onder meer naar een advies van de afdeling "Monumenten en Archeologie" van 16 juni 2018 waarin die afdeling tot de conclusie komt dat hoogbouw het stadssilhouet ter plaatse ingrijpend verstoort. Daarnaast is het concept van het stedenbouwkundig plan - waarin eveneens de hoogteaccenten zijn opgenomen - voorgelegd aan de "Commissie Ruimtelijke Kwaliteit" (hierna: de CRK). De CRK heeft gesteld dat er geen aanleiding is om binnen het plangebied te voorzien in nadrukkelijke hoogteaccenten gelet op het stadssilhouet en het omringende landschap. Vanwege het advies van de afdeling "Monumenten en Archeologie" en de opmerkingen van de CRK, heeft de raad ervoor gekozen om de hoogteaccenten niet in het stedenbouwkundig plan en het bestemmingsplan op te nemen. Hetgeen Volendam B.V. en anderen aanvoeren geeft geen grond voor het oordeel dat de raad deze keuze niet had mogen maken. De enkele omstandigheid dat elders in de omgeving, zoals langs de Amstel, wel is voorzien in hoogbouw, maakt dit niet anders.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Financiële uitvoerbaarheid</para>
+  </parablock>
+  <para />
+  <para>16. Volendam B.V. en anderen voeren aan dat de raad heeft nagelaten om de financiële uitvoerbaarheid van het plan inzichtelijk te maken.</para>
+  <para />
+  <parablock>
+    <para>16.1.    De Afdeling overweegt dat in het kader van een beroep tegen een bestemmingsplan een betoog over de uitvoerbaarheid van dat plan, waaronder ook de financiële uitvoerbaarheid, slechts kan leiden tot vernietiging van het bestreden besluit indien en voor zover het aangevoerde leidt tot de conclusie dat de raad op voorhand in redelijkheid had moeten inzien dat de financiële aspecten van het plan aan de uitvoerbaarheid ervan in de weg staan.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>16.2.    In hoofdstuk 17 van de plantoelichting is inzicht geboden in de financiële uitvoerbaarheid van het plan. Ten behoeve van dit plan is een exploitatieplan vastgesteld. In aanvulling daarop heeft de raad toegelicht dat een uitvoeringskrediet beschikbaar is gesteld voor het realiseren van het bestemmingsplan. Bij de hoogte daarvan is er ook rekening mee gehouden dat de gemeente het voeren van een actieve grondpolitiek als uitgangspunt hanteert voor het uit te werken deel van het bestemmingsplan. Indien een verwerving in der minne van de benodigde gronden in dat verband niet het gewenste effect sorteert, zal het onteigeningsinstrumentarium worden ingezet. Ter zitting is van de kant van de raad verklaard dat voor zover het uitvoeringskrediet tegen de verwachting in niet toereikend mocht blijken te zijn om het plan te kunnen uitvoeren, hij aanvullend budget ter beschikking zal stellen.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Gelet op het voorgaande biedt wat Volendam B.V. en anderen aanvoeren geen aanleiding voor het oordeel dat de raad op voorhand in redelijkheid had moeten inzien dat het plan niet financieel uitvoerbaar is.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Het beroep van [appellant sub 4]</para>
+  </parablock>
+  <para />
+  <para>17.    [ appellant sub 4] voert aan dat de raad in strijd met het rechtszekerheidsbeginsel heeft gehandeld door binnen korte tijd een nieuw bestemmingsplan voor dit plangebied vast te stellen. Volgens [appellant sub 4] is het gebouw op zijn perceel aan de [locatie 2] nog geen 10 jaar oud, zodat het plan zal leiden tot kapitaalvernietiging. In dit kader voert [appellant sub 4] aan dat het lastig is om een nieuwe geschikte locatie voor zijn bedrijf te vinden. Verder is het bestaande gebouw volgens hem goed inpasbaar in het voorliggende plan.</para>
+  <para />
+  <parablock>
+    <para>17.1.    De Afdeling overweegt dat aan een geldend bestemmingsplan geen blijvende rechten kunnen worden ontleend. De raad kan op grond van gewijzigde planologische inzichten en na afweging van alle betrokken belangen andere bestemmingen en regels voor gronden vaststellen.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    De raad heeft aangegeven dat de huidige bebouwing niet past in het uit te werken plan, aangezien het stedenbouwkundig plan uitgaat van een bouwhoogte van 8 m die de contouren van een bouwveld, van een bepaalde structuur van de straten en ontsluiting van de percelen, van binnenpands parkeren en van een rechte voorgevelrooilijn volgt. Aan die uitgangspunten heeft de raad in redelijkheid een zwaar gewicht kunnen toekennen. Gelet op het voorgaande heeft de raad er in redelijkheid voor kunnen kiezen de bestemming "Gemengd - Uit te werken" aan het perceel  toe te kennen en het bedrijfspand op die manier niet als zodanig te bestemmen. Voorts hoeft, zoals al is overwogen onder 11.2, de omstandigheid dat op het moment van het vaststellen van een bestemmingsplan nog geen andere locatie was gevonden voor een bedrijf dat niet langer positief wordt bestemd, niet te betekenen dat het plan niet had mogen worden vastgesteld.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Het exploitatieplan</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Het beroep van Volendam B.V.</para>
+  </parablock>
+  <para />
+  <para>18. Volendam B.V. en anderen betogen dat de mogelijkheid tot het zelf realiseren van de nieuwe bestemming van hun individuele percelen of van hun gezamenlijke percelen geen reële optie is, en dat het exploitatieplan een inbreuk maak op hun eigendomsrecht. Zij voeren daarover aan dat de exploitatiebijdrage te hoog is en de raad een complexe exploitatieopzet heeft gemaakt en een onjuiste rekenmethodiek voor de mogelijkheid tot zelfrealisatie heeft gehanteerd. Volgens Volendam B.V. en anderen wordt het in feite onmogelijk om tot zelfrealisatie over te gaan, nu hun percelen worden belast met kosten voor onder andere het verwerven en het bouwrijp maken van andere locaties. Verder voeren zij aan dat de te behalen opbrengsten uit zelfrealisatie ten opzichte van de ten tijde van het ontwerp geldende berekeningen sterk zijn gedaald vanwege de gewijzigde vaststelling van de bouwhoogte en het verwijderen van twee hoogteaccenten.</para>
+  <para />
+  <parablock>
+    <para>18.1.    In paragraaf 3.1 van het exploitatieplan staat dat het doel van de gemeente is om de gronden te verwerven. Dit zal in beginsel langs minnelijke weg plaatsvinden. Indien de gemeente daarin niet slaagt, zal per geval worden overwogen om wel of geen gebruik te maken van het instrumentarium van de onteigeningswet. Onteigening van de desbetreffende particuliere eigendom is niet aan de orde als de betrokken rechthebbenden zelf in staat en bereid zijn het desbetreffende planonderdeel te realiseren. De raad heeft toegelicht dat de exploitatiebijdrage die Volendam B.V. en anderen verschuldigd zullen zijn bij een dergelijke zelfrealisatie, voortvloeit uit het exploitatieplan.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>18.2.     Duidelijk is dat het achterwege laten van de in het ontwerpplan voorziene hoogteaccenten gevolgen heeft voor de winstmarges die met het realiseren van het plan kunnen worden behaald. Naar het oordeel van de Afdeling is echter niet aannemelijk dat mede door het schrappen van deze mogelijkheid zelfrealisatie op voorhand geen reële optie meer is. Bij dit oordeel wordt betrokken dat Volendam B.V. en anderen slechts summiere argumenten aanvoeren om hun stellingen op dit punt te onderbouwen.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Volendam B.V. en anderen voeren zonder nadere onderbouwing aan dat de exploitatiebijdrage te hoog is, de raad een complexe exploitatieopzet heeft gemaakt en een onjuiste rekenmethodiek voor de mogelijkheid tot zelfrealisatie is gehanteerd. In hoofdstuk 2 van het exploitatieplan staat hoe de exploitatiebijdrage is berekend. Naar het oordeel van de Afdeling is die berekening niet ondoorzichtig. Verder maakt het enkele feit dat een exploitatieopzet gecompliceerd is, niet dat het exploitatieplan daarom onrechtmatig is. Wat het betoog betreft dat de raad ten onrechte niet voorafgaand aan de vaststelling van het bestemmingsplan actief heeft getracht de gronden minnelijk te verwerven, heeft de raad toegelicht dat een dergelijke verwerving naar zijn opvatting niet per se voorafgaand aan het vaststellen van het bestemmingsplan hoeft plaats te vinden. Naar het oordeel van de Afdeling is die opvatting juist. Er valt geen rechtsregel aan te wijzen op grond waarvan de raad was gehouden al voorafgaand aan het vaststellen van het plan tot minnelijke verwerving van gronden over te gaan, althans daar in dat stadium al pogingen toe te doen. Volendam B.V. en anderen hebben ook anderszins niet aannemelijk gemaakt dat de raad zich bij het vaststellen van het exploitatieplan op onjuiste uitgangspunten heeft gebaseerd.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Het beroep van [appellant sub 4]</para>
+  </parablock>
+  <para />
+  <para>19.    [ appellant sub 4] voert aan dat de inbrengwaarde van zijn eigendom te laag is geraamd. In dit verband voert [appellant sub 4] aan dat bij de opdrachtverstrekking aan de taxateur geen nadere instructies zijn gegeven, de inbrengwaarde slechts een raming is, volstaan is met een geveltaxatie en geen aandacht is besteed aan het feit dat [appellant sub 4] over een groot eigen terrein beschikt met twee eigen parkeerplaatsen. Verder voert [appellant sub 4] aan dat het zelf realiseren van de nieuwe bestemming feitelijk onmogelijk is vanwege het vervallen van de hoogteaccenten in het plan en gezien de gemeentelijke eis dat 40% van de te realiseren woningen tot de sociale-huursector zal moeten behoren.</para>
+  <para />
+  <parablock>
+    <para>19.1.    De raad heeft het taxatierapport inzake de raming van de inbrengwaarde van 2 november 2018, uitgevoerd door het bureau Gloudemans, mede aan het exploitatieplan ten grondslag gelegd (hierna: het taxatierapport). De raad stelt zich op het standpunt dat het niet vereist is om nadere instructies te geven, maar dat het slechts noodzakelijk is om bij de uitvraag van de taxatie het doel van de taxatie aan te geven. Dit is noodzakelijk omdat de raming van de inbrengwaarden in artikel 6.13 van de Wet ruimtelijke ordening een regeling heeft gevonden. Verder wijst de raad erop dat het taxatierapport voldoet aan de uitgangspunten, zoals die onder meer zijn beschreven in artikel 6.2.3 van het Besluit ruimtelijke ordening (hierna: het Bro). De onroerende zaken binnen het plangebied zijn door de deskundigen door middel van een gevelopname beoordeeld. Van belang daarbij is ook dat het gaat om een raming van de inbrengwaarden van gronden. Daarom is een volledige opname van de onroerende zaak niet noodzakelijk. Daarnaast heeft de raad aangegeven dat door de deskundigen voor de taxatie van de eigendommen van [appellant sub 4] is uitgegaan van de eigendom zoals vastgelegd in het kadaster. Ook de parkeerplaatsen van [appellant sub 4] zijn betrokken bij de waardering.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>19.2.    In paragraaf 4.10 van het taxatierapport zijn de grond en de opstal van [appellant sub 4] getaxeerd. Hierbij is rekening gehouden met het feit dat de onroerende zaak een bedrijfsruimte betreft met twee bijbehorende parkeerplaatsen. Bij de waardering is ervan uitgegaan dat de onroerende zaak de hoogste waarde ontleent aan de huidige gebruiksmogelijkheden. Volgens het taxatierapport heeft de onroerende zaak van [appellant sub 4] een marktwaarde van € 267.900,00, dat is € 1.425,00 per m2. Daarnaast zijn de kosten voor het vrijmaken van de gronden in het exploitatiegebied van persoonlijke rechten en lasten, eigendom, bezit of beperkte en zakelijke lasten terzake geraamd op € 40.185,00. Hiermee bedraagt de totale inbrengwaarde € 308.085,00.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Hetgeen [appellant sub 4] aanvoert geeft geen aanleiding om te veronderstellen dat het taxatierapport wat de gehanteerde bedragen betreft zodanige gebreken bevat dat het niet aan de raming van de inbrengwaarden ten grondslag had mogen worden gelegd. Daarbij betrekt de Afdeling dat [appellant sub 4] het taxatierapport niet heeft bestreden met een tegenrapport van een deskundige. Het voorgaande betekent dat geen grond bestaat voor het oordeel dat de raad zich niet op het standpunt heeft mogen stellen dat de in het taxatierapport opgenomen ramingen van inbrengwaarden juist zijn.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Zoals vermeld onder 18.2, is duidelijk dat het achterwege laten van de in het ontwerpplan voorziene hoogteaccenten gevolgen heeft voor de winstmarges die met het ontwikkelen van het plan kunnen worden behaald. Datzelfde geldt voor de eis dat 40% van de woningen binnen de sector sociale huur dient te worden gerealiseerd. Naar het oordeel van de Afdeling kan echter ook in wat [appellant sub 4] dienaangaande aanvoert geen grond worden gevonden voor het oordeel dat zelfrealisatie in de praktijk niet tot de mogelijkheden behoort. Hij heeft weliswaar aannemelijk gemaakt dat een andere opzet van het bestemmingsplan die mogelijkheden zou vergroten, maar niet dat deze mogelijkheden geheel teniet worden gedaan binnen de opzet waarvoor de raad heeft gekozen.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>    Het betoog faalt.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Conclusie</para>
+  </parablock>
+  <para />
+  <para>20. In het betoog van [appellante sub 1] ziet de Afdeling gelet op wat is overwogen onder 12.2 en 13.2 aanleiding voor het oordeel dat het beroep van deze appellante gegrond is, zodat het bestreden besluit in zoverre dient te worden vernietigd. De overige beroepen zijn, voor zover ontvankelijk, ongegrond.</para>
+  <para />
+  <para>21. Nu niet aannemelijk is dat derdebelanghebbenden in hun belangen kunnen worden geschaad, ziet de Afdeling aanleiding om met toepassing van artikel 8:72, derde lid, aanhef en onder b, van de Awb op de hierna te vermelden wijze zelf in de zaak te voorzien en te bepalen dat deze uitspraak in de plaats treedt van het bestreden besluit, voor zover dit is vernietigd.</para>
+  <para />
+  <para>22. Uit het oogpunt van rechtszekerheid en gelet op artikel 1.2.3 van het Bro, ziet de Afdeling aanleiding de raad op te dragen de hierna in de beslissing nader aangeduide onderdelen van deze uitspraak binnen vier weken na verzending van de uitspraak te verwerken in het elektronisch vastgestelde plan dat te raadplegen is op de landelijke voorziening, www.ruimtelijkeplannen.nl.</para>
+  <para />
+  <parablock>
+    <para>Proceskosten</para>
+  </parablock>
+  <para />
+  <para>23. De raad dient op de hierna te vermelden wijze tot vergoeding van de proceskosten van [appellante sub 1] te worden veroordeeld. Voor het overige bestaat voor een proceskostenveroordeling geen aanleiding.</para>
+  <para />
+  <parablock>
+    <para>Beslissing</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>I.    verklaart het beroep van Onroerendgoed Maatschappij B.G.I. Volendam B.V. niet-ontvankelijk voor zover het is ingesteld door [appellant sub 2A], [appellant sub 2B], [appellant sub 2C] en [appellant sub 2D], en voor zover het is ingesteld door [appellant sub 2E] waar het andere aspecten dan het verlagen van de bouwhoogte ten opzichte van het ontwerpplan betreft;</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>II.    verklaart het beroep van [appellant sub 3A] en [appellante sub 3B] niet-ontvankelijk;</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>III.    verklaart het beroep van [appellante sub 1A] en [appellante sub 1B] gegrond;</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>IV.    vernietigt het besluit van de raad van de gemeente Amsterdam van 19 december 2018 tot vaststelling van het bestemmingsplan "Weespertrekvaart Oost" voor zover het betreft:</para>
+  </parablock>
+  <para />
+  <para>a.    artikel 8, lid 8.2, onder g, aanhef, van de planregels;</para>
+  <para />
+  <para>b.    artikel 8, lid 8.2, onder h, van de planregels;</para>
+  <para />
+  <para>c.    artikel 8, lid 8.2, onder k, van de planregels, voor zover daarin geen uitzondering is opgenomen voor de ontwikkeleenheden 6 en 7 zoals opgenomen in bijlage 5 bij de planregels;</para>
+  <para />
+  <parablock>
+    <para>V.    bepaalt dat:</para>
+  </parablock>
+  <para />
+  <para>a.    artikel 8, lid 8.2, onder g, aanhef, van de planregels als volgt komt te luiden:</para>
+  <para />
+  <parablock>
+    <para>"Voor het totale bruto-vloeroppervlak van gebouwen en/of gebouwdelen ten behoeve van wonen en ten behoeve van werken en voorzieningen (bedrijven, horeca, kantoren en maatschappelijke voorzieningen en na afwijking detailhandel) wordt ten aanzien van de verdeling van deze oppervlakten over de ontwikkeleenheden 6 tot en met 11 de volgende tabel in acht genomen:";</para>
+  </parablock>
+  <para />
+  <para>b.    artikel 8, lid 8.2, onder h, van de planregels als volgt komt te luiden:</para>
+  <para />
+  <parablock>
+    <para>"h. In afwijking van het bepaalde onder g. is het mogelijk om een groter bruto vloeroppervlak per ontwikkeleenheid te realiseren met een maximum van 4.200 m2 voor alle ontwikkeleenheden tezamen:</para>
+  </parablock>
+  <para />
+  <para>1. ten behoeve van bedrijven, horeca, kantoren en/of maatschappelijke voorzieningen indien als gevolg van de voorgestane ontwikkeling de bruto vloeroppervlakte ten behoeve van bedrijven, horeca, kantoren, maatschappelijke voorzieningen wordt vergroot; en/of</para>
+  <para />
+  <para>2. ten behoeve van wonen indien als gevolg van de voorgestane ontwikkeling een substantiële omvang aan gemeenschappelijk gebruik van daktuinen wordt gerealiseerd.";</para>
+  <para />
+  <para>c.    aan artikel 8, lid 8.2, onder k, van de planregels het volgende wordt toegevoegd:</para>
+  <para />
+  <parablock>
+    <para>"Ondergronds bouwen is niet toegestaan onder de</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>ontwikkeleenheden 6 en 7 zoals opgenomen in bijlage 5 bij de regels.";</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>VI.    bepaalt dat deze uitspraak wat het hiervoor vermelde onderdeel V betreft in de plaats treedt van het vernietigde besluit;</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>VII.    draagt de raad van de gemeente Amsterdam op om binnen vier weken na verzending van deze uitspraak ervoor zorg te dragen dat de hiervoor vermelde onderdelen IV, V en VI worden verwerkt in het elektronisch vastgestelde plan dat te raadplegen is op de landelijke voorziening, www.ruimtelijkeplannen.nl;</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>VIII.    verklaart de beroepen van Onroerendgoed Maatschappij B.G.I. Volendam B.V., voor zover ontvankelijk, en [appellant sub 4] ongegrond;</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>IX.    veroordeelt de raad van de gemeente Amsterdam tot vergoeding van bij [appellante sub 1A] en [appellante sub 1B] in verband met de behandeling van het beroep opgekomen proceskosten tot een bedrag van € 1.050,00 (zegge: duizendvijftig euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand, met dien verstande dat bij betaling van genoemd bedrag aan één van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan;</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>X.    gelast dat de raad van de gemeente Amsterdam aan [appellante sub 1A] en [appellante sub 1B] het door hen voor de behandeling van de beroepen betaalde griffierecht ten bedrage van € 345,00 (zegge: driehonderdvijfenveertig euro) vergoedt, met dien verstande dat bij betaling van genoemd bedrag aan één van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Aldus vastgesteld door mr. J. Hoekstra, voorzitter, en mr. F.C.M.A. Michiels, en mr. G.T.J.M. Jurgens, leden, in tegenwoordigheid van mr. C. Sparreboom, griffier.</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>De voorzitter is verhinderd de uitspraak te ondertekenen.    </para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>w.g. Sparreboom<?linebreak?>griffier</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>Uitgesproken in het openbaar op 26 augustus 2020</para>
+  </parablock>
+  <para />
+  <parablock>
+    <para>195-889.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:3906</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-03T15:34:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-16</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">KG RK 20-71</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#wraking">Wraking</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:3906">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:3906</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-03T15:33:25</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:3906 Rechtbank Gelderland , 16-07-2020 / KG RK 20-71</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:3906:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wrakingsgronden gericht tegen beslissing rechter om geen uitstel te verlenen voor een geplande zitting leiden niet tot (de schijn van) vooringenomenheid van de rechter. Wrakingsverzoek afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:3906:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="underline">beslissing	 </bridgehead>
+    <bridgehead role="bold">RECHTBANK GELDERLAND, locatie Arnhem</bridgehead>
+    <para />
+    <parablock>
+      <para>Wrakingskamer</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: C/05/367899 / KG RK 20-271</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Beslissing van 16 juli 2020</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>van de meervoudige wrakingskamer van de rechtbank op het verzoek van	</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [verzoekster]
+        </emphasis>
+      </para>
+      <para>gevestigd te [plaats]</para>
+      <para>gemachtigde [gemachtigde 1]</para>
+      <para>hierna te noemen: verzoekster,</para>
+      <para>strekkende tot de wraking van</para>
+      <para>
+        <emphasis role="bold">mr. [naam rechter]</emphasis>,</para>
+      <para>rechter in deze rechtbank, </para>
+      <para>hierna te noemen: de rechter.</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>
+      <nr>1</nr>De procedure</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Het verloop van de procedure blijkt uit:</para>
+      <para>- het schriftelijke wrakingsverzoek van 13 maart 2020;</para>
+      <para>- de schriftelijke reactie van de rechter van 8 juni 2020.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Bij de mondelinge behandeling zijn verschenen:</para>
+      <para>- de gemachtigde van verzoekster;</para>
+      <para>- de rechter.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>
+      <nr>2</nr>Het wrakingsverzoek</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Het verzoek strekt tot wraking van de rechter als rechter in de zaken met nummers ARN 19/ [XXXX] , ARN 19/ [XXXX] en ARN 19/ [XXXX] (hierna: de bodemzaken) tussen verzoekster en [verweerder] , kantoor [plaats in Nederland] (als verweerder).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <parablock>
+        <para>Verzoekster heeft blijkens het schriftelijke wrakingsverzoek, zoals toegelicht bij de mondelinge behandeling, het volgende aan haar wrakingsverzoek ten grondslag gelegd. De gemachtigde van verzoekster heeft, na ontvangst van de vooraankondigingen in de bodemzaken d.d. 30 januari 2020, bij brief van 5 februari 2020 een verzoek gedaan om de voorgenomen zitting van 18 maart 2020 op te schorten tot enig moment dat zijn gehoor en de bijkomende ongemakken weer alleszins acceptabel zijn. De gemachtigde van verzoekster heeft ter zitting toegelicht sinds 2013 klachten aan zijn gehoor te ervaren. De rechtbank heeft het verzoek van verzoekster afgewezen, omdat de verhinderdata ontbraken. De gemachtigde van verzoekster heeft nogmaals verzocht om uitstel en uitgelegd waarom zijn verhinderdata ontbreken. De rechtbank heeft hem vervolgens verzocht om een doktersverklaring ter onderbouwing van het uitstelverzoek. De gemachtigde van verzoekster heeft gesteld dat zijn behandelend KNO-arts op 2 maart 2020 aan hem te kennen heeft gegeven geen doktersverklaring af te kunnen geven om het uitstelverzoek te onderbouwen – kort samengevat – vanwege de regels die de Koninklijke Nederlandse Maatschappij tot bevordering der Geneeskunst (KNMG) daarover heeft opgesteld. Nadat de gemachtigde van verzoekster de rechtbank heeft bericht geen gevolg te kunnen geven aan het verzoek om een medische verklaring, heeft de rechtbank hem bij brief van 4 maart 2020 bericht dat de geplande zitting op 18 maart 2020 niet zal worden uitgesteld. </para>
+        <para>Verzoekster heeft aan haar wrakingsverzoek ten grondslag gelegd dat de verantwoordelijkheid voor een doktersverklaring ten onrechte bij haar gemachtigde wordt neergelegd. De gemachtigde van verzoekster is zonder nadere criteria van de rechtbank niet bij machte om een medische verklaring te overleggen. De gemachtigde van verzoekster heeft ter zitting gesteld niet bekend te zijn met het procesreglement waarnaar door de rechter is verwezen. Het Gerechtshof Arnhem-Leeuwarden heeft op grond van dezelfde omstandigheden en zonder de gewraakte doktersverklaring zaken opgeschort tot behandeling rond begin september 2020. De rechter heeft, ondanks bewijs en wetenschap dat de gemachtigde van verzoekster de rechtbank wegens gehoorproblemen niet te woord kan staan, verzoekster de gelegenheid tot reactie en verweer ter zitting ontnomen, aldus verzoekster. De gemachtigde van verzoekster heeft ter zitting nog uitgelegd dat hij tevens bestuurder van verzoekster te zijn en om die reden al niet vervangen zou kunnen worden door een andere gemachtigde.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>De rechter heeft laten weten niet in de wraking te berusten en heeft verder als volgt op het wrakingsverzoek gereageerd. Het verzoek om uitstel is volgens de rechter afgedaan conform het beleid dat is ontwikkeld op grond van het procesreglement. Gelet op het eerste verzoek om uitstel van 5 februari 2020 had verzoekster voldoende gelegenheid een andere gemachtigde te zoeken om haar te vertegenwoordigen, aldus de rechter.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>
+      <nr>3</nr>De beoordeling</title>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Een rechter kan alleen gewraakt worden als zich omstandigheden voordoen waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden. Daarvan is sprake als de rechter jegens een procesdeelnemer vooringenomen is of als de vrees daarvoor objectief gerechtvaardigd is. Daarbij is het uitgangspunt dat een rechter wordt vermoed onpartijdig te zijn omdat hij als rechter is aangesteld. Voor het oordeel dat de rechterlijke onpartijdigheid toch schade lijdt, bestaat alleen grond in geval van bijzondere omstandigheden die een zwaarwegende aanwijzing opleveren voor het aannemen van (de objectief gerechtvaardigde schijn van) partijdigheid. Uit de wet volgt dat de verzoeker die concrete omstandigheden moet aanvoeren en wel zodra deze aan hem bekend zijn geworden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>De wrakingsgronden van verzoekster zijn gericht tegen de beslissing van de rechter om geen uitstel te verlenen voor de op 18 maart 2020 geplande zitting. De juistheid van deze beslissing kan op zichzelf niet door middel van een wrakingsverzoek aan de orde worden gesteld. Dit is slechts anders indien de beslissing zo zeer onbegrijpelijk is, dat voor deze beslissing redelijkerwijs geen andere verklaring is te geven dan dat deze is ingegeven door vooringenomenheid van de rechter. Daarvan is naar het oordeel van de wrakingskamer niet gebleken. Op grond van het Procesreglement bestuursrecht rechtbanken (te raadplegen op www.rechtspraak.nl) kunnen partijen een week na de bekendmaking van de zittingsdatum gemotiveerd om uitstel verzoeken met vermelding van verhinderdata. Omdat de verhinderdata ontbraken en door de gemachtigde van verzoekster is verzocht om opschorting ‘tot enig moment dat mijn gehoor en de bijkomende ongemakken weer alleszins acceptabel zijn’, heeft de rechter verzocht om een doktersverklaring. Hierin ziet de wrakingskamer geen aanleiding om aan te nemen dat de rechter hiermee een onbegrijpelijke – en in bestuursrechtzaken ongebruikelijke – beslissing heeft genomen. Dat de rechter vervolgens zijn beslissing handhaaft nadat de gemachtigde van verzoekster, zonder onderliggende stukken, bericht dat hij geen medische verklaring kan overleggen, leidt evenmin tot een zodanige beslissing van de rechter die slechts kan worden ingegeven door vooringenomenheid. Bovendien valt niet in de zien waarom een beknopte verklaring van een arts met toestemming van de gemachtigde niet zou kunnen worden gegeven. Evenmin valt in te zien waarom enige andere onderbouwing van de medische toestand van de gemachtigde van verzoekster, bijvoorbeeld door het overleggen van een afsprakenkaart, niet door de gemachtigde is verstrekt. Dat het gerechtshof het uitstelverzoek van verzoekster wel heeft gehonoreerd leidt niet tot een ander oordeel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Naar het oordeel van de wrakingskamer leiden de door verzoekster aangevoerde wrakingsgronden dus niet tot (de schijn van) vooringenomenheid van de rechter. Daarom wordt het wrakingsverzoek afgewezen.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>
+      <nr>4</nr>De beslissing</title>
+    <para />
+    <parablock>
+      <para>De wrakingskamer van de rechtbank wijst het verzoek tot wraking af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze beslissing is gegeven door mr. F.M.T. Quaadvliet, voorzitter, mr. A.S.W. Kroon en mr. M.S.T. Belt, leden, in tegenwoordigheid van de griffier mr. A. Wolsink-van Veldhuizen en in het openbaar uitgesproken op 16 juli 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Tegen deze beslissing staat geen rechtsmiddel open.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

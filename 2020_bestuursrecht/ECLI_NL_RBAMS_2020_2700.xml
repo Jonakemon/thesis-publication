@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:2700</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-29T12:11:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 20/1110 (voorlopig voorziening) en AMS 19/5454 (beroep)</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2700">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:2700</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-27T16:41:39</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:2700 Rechtbank Amsterdam , 27-05-2020 / AMS 20/1110 (voorlopig voorziening) en AMS 19/5454 (beroep)</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:2700:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De gemeente Amsterdam hoeft een uit Syrië gevluchte jongeman geen voorrang op de Amsterdams woningmarkt te geven.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:2700:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 20/1110 (voorlopig voorziening) en AMS 19/5454 (beroep)</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 27 mei 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker/eiser] , te [woonplaats] , verzoeker en eiser (hierna: verzoeker)</bridgehead>
+    <para>(gemachtigde: mr. F.R.G. Keijzer),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>het college van burgemeester en wethouders van Amsterdam, verweerder</para>
+      <para>(gemachtigde: mr. R. Lo Fo Sang).</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met het besluit van 16 mei 2019 (het primaire besluit) heeft verweerder de aanvraag van verzoeker om een urgentieverklaring afgewezen. Verzoeker heeft tegen het primaire besluit bezwaar gemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met het besluit van 5 september 2019 (het bestreden besluit) heeft verweerder het bezwaar van verzoeker ongegrond verklaard. Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Daarnaast heeft hij de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De behandeling van het verzoek stond ter zitting geagendeerd op 18 maart 2020, maar is geannuleerd in verband met de landelijke maatregelen als gevolg van het coronavirus. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op verzoek van de voorzieningenrechter heeft verweerder bij e-mailbericht van </para>
+      <para>21 april 2020 gereageerd op de door verzoeker aangevoerde gronden. Verzoeker heeft hier op zijn beurt bij e-mailbericht van 30 april 2020 op gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vervolgens zijn partijen in de gelegenheid gesteld om een via Skype-verbinding gehouden zitting bij te wonen. Deze zitting heeft plaatsgevonden op 20 mei 2020. Verzoeker is verschenen, bijgestaan door zijn gemachtigde, met ieder een afzonderlijke een audio- en videoverbinding<emphasis role="italic">. </emphasis>Tevens was bij de gemachtigde van verzoeker een derde persoon aanwezig, die de verklaringen van verzoeker in het Nederlands vertaalde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde met een audio- en videoverbinding. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wettelijk kader</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. De voor deze zaak relevante regelgeving is opgenomen in de bijlage, die deel uitmaakt van deze uitspraak.</para>
+    <bridgehead role="italic">Kortsluiten </bridgehead>
+    <para />
+    <para>2. De voorzieningenrechter is tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86, eerste lid, van de Algemene wet bestuursrecht niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Aanleiding van deze procedure</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Verzoeker is geboren op [geboortedag] 1992 en afkomstig uit Syrië. Hij is uit Syrië gevlucht vanwege zijn homoseksuele geaardheid in samenhang met de militaire dienstplicht. Hij verblijft sinds 2016/2017 in Nederland. Destijds heeft met hulp van (LHBTI-)Stichting Secret Garden - op basis van de toenmalige regeling ‘Woningdelen’ - een driekamerwoning (53 m2) aan de [adres] gekregen, samen met een andere statushouder als huisgenoot. Sinds oktober 2018 woont ook de partner van zijn huisgenoot in de woning. Dit heeft volgens verzoeker geleid tot spanningen, bedreigingen, ruzies en verbaal en fysiek geweld jegens hem.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Verzoeker volgt de opleiding ‘Teacher Education in English’ aan de Hogeschool Utrecht, krijgt studiefinanciering en verricht vrijwilligerswerk bij [organisatie] . Verder wordt hij begeleid door UAF (een stichting voor vluchtelingen) en staat hij bij i-psy onder behandeling bij een psycholoog vanwege psychische klachten. Ook kampt hij met fysieke klachten (knieën en rug). Hij staat ingeschreven bij Woningnet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Vanwege zijn woonsituatie heeft verzoeker op 8 februari 2019 een aanvraag om een urgentieverklaring ingediend, zowel op grond van sociale als medische omstandigheden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Naar aanleiding hiervan heeft verweerder de GGD om advies gevraagd. De conclusie in het GGD-advies van 10 mei 2019 luidt: <emphasis role="italic">“Geen urgentie wonen op medische gronden”</emphasis>. Daarbij heeft de GGD overwogen dat verzoeker niet goed antwoord kon geven op de vraag in hoeverre er professionele bemiddeling is geweest om de kennelijk verstoorde verhouding met de huisgenoten te verbeteren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>Met het primaire besluit, gehandhaafd met het bestreden besluit, heeft verweerder de aanvraag afgewezen, omdat er geen sprake is van een levensontwrichtende situatie en verzoeker bovendien niet tot de doelgroep behoort. Verweerder heeft dit onder meer op basis van het advies van de GGD - samengevat - als volgt gemotiveerd. De medische situatie van verzoeker leidt niet tot verstrekking van een urgentieverklaring. De GGD heeft geen medische feiten gevonden die onderbouwen dat verzoeker met spoed een zelfstandige woning nodig heeft. Verzoeker heeft geen medische stukken overgelegd op grond waarvan aan het GGD-advies moet worden getwijfeld. Dit advies is voldoende onderbouwd en zorgvuldig tot stand gekomen. Verzoeker is weliswaar onder behandeling voor zijn psychische klachten, maar deze behandeling heeft nog geen zes maanden geduurd. Dit is wel een vereiste. De GGD merkt zelfs op dat er verbetering van verzoekers klachten valt te verwachten. Ook de fysieke klachten zijn niet van dien aard dat zij de verlening van een urgentieverklaring rechtvaardigen. Daarnaast is niet vast komen te staan - bijvoorbeeld aan de hand van aangiftes - dat sprake is van geweld of ernstige bedreiging op basis waarvan directe verhuizing noodzakelijk is. Daarom behoort verzoeker niet tot de doelgroep, wat betekent dat hij zijn woonprobleem zelf moet oplossen. Ook een schrijnende situatie, die toepassing van de hardheidsclausule rechtvaardigt, is niet aan de orde. De situatie van verzoeker is niet uniek. Zo kunnen in een woning onderling problemen ontstaan, waardoor één van de partijen genoodzaakt is om een andere woonruimte te zoeken. Dit komt veelvuldig voor. Ook komt het vaak voor dat alleenstaanden in Amsterdam moeten zoeken naar andere (tijdelijke) woonruimtes. Dikwijls moet dan worden gekozen voor inwoning bij anderen of kamerhuur. Dit is in het geval van verzoeker niet anders. Het is begrijpelijk dat verzoeker graag in optimale (woon)omstandigheden wil verkeren om zijn studie af te ronden, maar veel studenten in Amsterdam worstelen met het probleem om geschikte huisvesting te vinden. Van belang daarbij is dat verzoeker door de GGD zelfredzaam is geacht. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Toetsingskader</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>4. Bij de aan verweerder verleende bevoegdheid tot het toekennen van een urgentieverklaring komt hem beoordelings- en beleidsruimte toe. Dit leidt ertoe dat de voorzieningenrechter het bestreden besluit terughoudend moet toetsen. Het beleid in de gemeente Amsterdam, neergelegd in de Beleidsregels woonruimteverdeling en woonruimtevoorraad 2016 (hierna: de Beleidsregels), is zeer strikt in het toekennen van voorrang op andere woningzoekenden en is gericht op gezinnen met kinderen die door overmacht dakloos zijn of dreigen te worden en op woningzoekenden met ernstige medische problemen. Dit restrictieve beleid is door de Afdeling bestuursrechtspraak van de Raad van State<footnote-ref linkend="_2d250c49-b2ff-4558-93c6-3b6b79e6eb86" /> (hierna: de Afdeling) niet onredelijk geacht, gelet op het grote aantal aanvragen voor een urgentieverklaring en het in verhouding daarmee geringe aantal woningen dat voor toewijzing beschikbaar is.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Wordt er een algemene weigeringsgrond tegengeworpen?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>5. De voorzieningenrechter stelt vast dat verweerder verzoeker geen algemene weigeringsgrond tegenwerpt die is neergelegd in artikel 2.6.5, eerste lid, van de Huisvestingsverordening Amsterdam 2016 (hierna: de Huisvestingsverordening). De gronden van verzoeker die daar op zien, behoeven daarom geen bespreking. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Behoort verzoeker tot de urgentiecategorie die ziet op slachtoffers van huiselijk geweld?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Verzoeker voert aan dat hij als slachtoffer van huiselijk geweld tot de urgentiecategorie behoort die is opgenomen in artikel 2.6.6, eerste lid, aanhef en onder a, van de Huisvestingverordening. Van de mishandelingen door zijn huisgenoten heeft hij naar eigen zeggen meermaals - in elk geval vijf keer - aangifte proberen te doen, maar steeds werd hij met een kluitje in het riet gestuurd, omdat hij geen bewijs zou hebben. Van die politiebezoeken heeft hij één mutatie overgelegd. Daarnaast stelt hij dat hij eenmaal heeft geprobeerd een mishandeling te filmen, maar dat zijn telefoon door zijn huisgenoten kapot werd geslagen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Naar het oordeel van de voorzieningenrechter heeft verweerder verzoeker terecht niet als behorend tot die urgentiecategorie aangemerkt, zowel om formele als om inhoudelijke redenen. Zo volgt uit de artikel 2.6.6. van de Huisvestingsverordening en de Beleidsregels<footnote-ref linkend="_e9f80388-37e5-44bf-acd8-af4cc127ff10" /> dat die categorie ziet op de uitstroom van mensen die verblijven in een instelling voor tijdelijke opvang van slachtoffers van huiselijk geweld oftewel de Blijf-groep. Verzoeker verblijft niet in een dergelijke instelling en valt alleen daarom al niet in de betreffende urgentiecategorie. Daarnaast heeft verweerder zich op het standpunt kunnen stellen dat het door verzoeker gestelde slachtofferschap van huiselijk geweld, op basis waarvan directe verhuizing noodzakelijk zou zijn, niet is vast komen te staan. Ter onderbouwing heeft verzoeker namelijk slechts één politiemutatie overgelegd, waaruit enkel blijkt dat verzoeker op 20 juni 2019 bij de politie melding heeft gemaakt van een incident dat bestempeld is als ‘Ruzie/Twist’. Verder objectief bewijs ontbreekt en het door verzoeker gestelde huiselijk geweld is voor het overige dan ook gebaseerd op zijn eigen verklaringen en op verklaringen van anderen voor wie hijzelf de informatiebron lijkt te zijn geweest. Dit is op zichzelf onvoldoende om hem in dit kader als slachtoffer van huiselijk geweld aan te merken.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Behoort verzoeker urgentiecategorie medische of sociale redenen?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Daarnaast voert verzoeker aan dat zijn huidige onveilige woonsituatie (zowel fysiek als mentaal) leidt tot een voor hem levensontwrichtende situatie. In die zin dat hierdoor sprake is van angst, ernstige psychische klachten en verergering van eerder opgelopen trauma’s, met een disfunctioneren tot gevolg op het gebied van studie, werk en zijn overige dagelijkse leven, aldus verzoeker. Hij is vijf maal tevergeefs bij de politie geweest om aangifte te doen van de mishandelingen en bedreigingen, is twee keer op de spoedeisende hulp beland na suïcidepogingen (op 2 oktober 2019 en 4 december 2019) en is de woning inmiddels ontvlucht. De behandeling van zijn psychische klachten is door de psycholoog van i-psy tijdelijk stilgezet, omdat verzoekers woonsituatie eerst stabiel moet zijn om hem goed te kunnen helpen. De GGD heeft dit alles in het advies van 10 mei 2019 niet onderkend. Dit advies is dan ook onzorgvuldig tot stand gekomen en onjuist. Ter staving van de gevolgen die zijn huidige woonsituatie volgens hem op zijn psychische gesteldheid heeft, heeft verzoeker de volgende stukken overgelegd: </para>
+      <para />
+      <para>- Een verklaring van Doras Maatschappelijke dienstverlening. In deze verklaring wordt aangegeven dat verzoekers thuissituatie directe gevolgen heeft voor zijn persoonlijke veiligheid en studievoortgang. Ook wordt aangegeven dat verzoeker kenbaar heeft gemaakt zich in zijn woning onveilig te voelen, omdat zijn huisgenoten hem stelselmatig intimideren, bedreigen en mishandelen. Volgens Doras is op initiatief van verzoeker meermaals geprobeerd om een mediationtraject te starten, maar hieraan wordt niet meegewerkt. Inmiddels loopt verzoeker tegen een burn-out aan, nu zijn basisveiligheid thuis weg is, aldus Doras. Door Doras wordt geconcludeerd dat verzoeker door de aanhoudende stresssituatie niet toekomt aan zijn primaire levenstaken, zoals het voltooien van zijn studie maar bovenal het leiden van een menselijk aanvaardbaar leven. </para>
+      <para />
+      <para>- Een brief van i-psy van 27 juni 2019. Hierin staat dat verzoeker stress ondervindt en bang is om thuis te zijn vanwege het conflict met zijn huisgenoten en dat verzoeker heeft gemeld dat zij fysiek en verbaal agressief tegen hem zijn. Volgens de psycholoog en psychiater van i-psy lijkt dit bij te dragen aan depressieve symptomen en die van PTSS.</para>
+      <para />
+      <para>- Een brief van de spoedeisende hulp. Hieruit volgt dat verzoeker op 2 oktober 2019 op de spoedeisende hulp is beland na een bewuste overdosering van medicatie. De anamnese van de crisisdienst luidt: <emphasis role="italic">“Komt uit Syrië, bekend met PTSS. Samenloop van omstandigheden, moeder ligt in een coma, hij heeft problemen met zijn huisgenoot en het gaat slecht met zijn studie. Het is een impulsieve actie geweest zonder actieve doodswens.”</emphasis></para>
+      <para />
+      <para>- Een brief van Spoedeisende Psychiatrie Amsterdam, waar verzoeker na de bovenstaande suïcidepoging terecht kwam. Hierin staat onder meer: <emphasis role="italic">“Bij psychiatrisch onderzoek zien wij een goed verzorgde matig depressieve man (…) zonder actieve doodswens. Zijn wanhoopsgevoelens worden met name geluxeerd door een conflict in zijn woonsituatie en een gezondheidsverslechtering van zijn moeder.”</emphasis></para>
+      <para />
+      <para>- Een brief van Samenwerkende Fysiotherapeuten Rivierenbuurt van 11 november 2019. Het volgende wordt aangegeven: <emphasis role="italic">“De woonsituatie geeft hem veel spanning wat zich fysiek uit. Doordat zijn lichamelijke klachten ook worden veroorzaakt door de slechte huis situatie is het goed als daar ook verandering in komt. Hierdoor zal een deel van zijn problemen opgelost worden.”</emphasis></para>
+      <para />
+      <para>- Een brief van i-psy van 3 januari 2020. Hierin staat dat verzoeker angst heeft om in zijn woning te verblijven vanwege het conflict met zijn huisgenoten en dat hij zich steeds meer gefrustreerd, hulpeloos en boos lijkt te voelt. Volgens i-psy relateert verzoeker dit met name aan het gebrek aan stabiliteit in de woonsituatie, naast enkele andere verlieservaringen. Daarnaast merkt verzoeker dat zijn studievoortgang negatief wordt beïnvloed en hij meldt dat hij zich somber voelt, weinig energie heeft, geagiteerd en prikkelbaar is, vaker in conflict komt met anderen en zich mede daardoor sociaal terugtrekt, zo staat in de brief. Daarnaast wordt in de brief aangegeven dat hij zich alleen en onbegrepen voelt, dat hij zelfmoordgedachten heeft en dat hij in 2019 twee suïcidepogingen heeft gedaan. Verzoeker heeft bij i-psy aangegeven dat hij het gevoel heeft niet verder te komen en zich nergens op te kunnen richten, zolang zijn woonprobleem niet opgelost is. </para>
+      <para />
+      <para>- Een brief van de huisarts van 3 februari 2020. In deze brief onderschrijft de huisarts het belang van een eigen, rustige woonomgeving om het psychische herstel van verzoeker te waarborgen. </para>
+      <para />
+      <para>- Een e-mailbericht van de behandelend psycholoog bij i-psy. Hierin geeft de psycholoog aan dat het beter is om de behandeling tijdelijk stil te zetten en om deze te hervatten zodra de situatie omtrent verzoekers huisvesting stabiel is. </para>
+      <para />
+      <para>- Verklaringen van UAF, [organisatie] , Hogeschool Utrecht, Stichting Secret Garden en vrienden. Hierin worden zorgen geuit over verzoekers woonsituatie, studievoortgang en persoonlijke welzijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Uit de Beleidsregels die zien op artikel 2.6.8 van de Huisvestingsverordening volgt dat pas sprake is van een ernstig medisch probleem als dat probleem levensontwrichtend is en ertoe leidt dat de aanvrager niet meer in staat is om zelfstandig te functioneren. De ernstige en levensontwrichtende aard van het medische probleem blijkt uit medische verklaringen van één of meer behandelend artsen of specialisten, die door de GGD kunnen worden opgevraagd. Ook dient het medische probleem mede te worden veroorzaakt door de woonsituatie of wordt de behandeling van het probleem aantoonbaar in hoge mate ongunstig beïnvloed door de woonsituatie. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>Naar het oordeel van de voorzieningenrechter heeft verweerder er in het bestreden besluit terecht op gewezen dat verzoeker niet aan de aanvullende voorwaarden voldoet om in aanmerking te komen voor een urgentieverklaring op basis van ernstige medische problemen. In de Beleidsregels<footnote-ref linkend="_26134a56-6544-429f-9798-6352c0c25f0b" /> is namelijk de voorwaarde opgenomen dat de aanvrager van een urgentieverklaring op het moment van de aanvraag minimaal zes maanden in behandeling moet zijn voor het betreffende psychische probleem. Verzoeker stond echter ten tijde van de aanvraag (d.d. 8 februari 2019) niet onder behandeling voor zijn psychische klachten. Hij voldeed op dat moment dus niet aan de bovengenoemde aanvullende voorwaarde. Dat hij in het jaar 2018 wel gedurende een langere periode dan zes maanden is behandeld, maakt dit niet anders. Verweerder is echter niet gestopt bij deze constatering, maar heeft de GGD ook inhoudelijk naar de medische situatie van verzoeker laten kijken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4.</nr>
+      <para>Inhoudelijk is het bestreden besluit voor wat betreft de medische situatie van verzoeker gebaseerd op het advies van de GGD 10 mei 2019, dat luidt: geen urgentie op medische gronden. Conform vaste rechtspraak van de Afdeling<footnote-ref linkend="_01610384-feb5-43c1-bea4-91c64c7d36aa" /> mag verweerder een advies dat is uitgebracht door een arts in zijn hoedanigheid van medisch deskundige bij zijn beoordeling van een aanvraag betrekken, mits dit advies op onpartijdige, objectieve en inzichtelijke wijze is opgesteld. Ten aanzien van verzoeker psychische klachten is in het GGD-advies het volgende opgenomen: <emphasis role="italic">“[Verzoeker] is begin 2018 in behandeling genomen voor toename van psychische klachten, als gevolg van relationele problematiek, bij verhoogde kwetsbaarheid door traumatische ervaringen. Hij heeft hiervoor slechts ten dele de geadviseerde behandelingen gevolgd maar desondanks verbeterden zijn klachten. De behandeling werd eind december 2018 afgesloten. [Verzoeker] is verwezen naar [i-psy] waarmee nog verdere verbetering van de klachten bereikt kan worden.”</emphasis></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5.</nr>
+      <para>De voorzieningenrechter ziet zich voor de vraag gesteld of de door verzoeker overgelegde stukken concrete aanknopingspunten bevatten om te twijfelen aan de juistheid of volledigheid van het advies van de GGD. Daarbij moet opgemerkt worden dat verzoeker voorafgaand aan het bestreden besluit weinig medische stukken heeft overgelegd en dat het gros van de stukken pas in de beroepsfase is ingebracht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.6.</nr>
+      <para>Naar het oordeel van de voorzieningenrechter heeft verweerder in de onder 7.1. weergegeven stukken geen aanleiding hoeven zien om het GGD om een heradvies te vragen. Weliswaar komt onverkort uit al deze stukken naar voren komt dat er in het geval van verzoeker sprake is van een problematische woonsituatie die zijn weerslag heeft zijn psychische gesteldheid. De huidige woonsituatie is voor verzoeker dan ook verre van ideaal, dat onderkent de voorzieningenrechter. Echter, de inhoud van de medische stukken geeft geen aanleiding om te veronderstellen dat verzoekers psychische problematiek dusdanig ernstig is dat sprake is van een levensontwrichtende situatie die maakt dat hij niet meer in staat is om zelfstandig te functioneren.<footnote-ref linkend="_49ae7b12-9c1e-4a0f-9090-a0ac2e373688" /> Ook de door verzoeker overgelegde verklaringen van instanties en vrienden, bieden geen aanknopingspunten voor deze conclusie. Uit deze verklaringen - die in sommige gevallen voorzichtig zijn geformuleerd - volgt weliswaar dat verzoeker met verschillende problemen kampt, maar niet dat deze levensontwrichtend van aard zijn. Dit nog los van het feit dat dit geen medische stukken betreffen en het de vraag wat voor waarde aan deze verklaringen moet worden gehecht, nu onduidelijk is op basis van welke (objectieve) bronnen deze zijn opgesteld. Verweerder kon zich dan ook op het standpunt stellen dat de zeer hoge lat om in aanmerking te komen voor een urgentieverklaring op medische gronden in het geval van verzoeker niet wordt behaald. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.7.</nr>
+      <para>Kortom, de voorzieningenrechter concludeert dat verweerder het bestreden besluit voor wat betreft de medische situatie van verzoeker mocht baseren op het GGD-advies en op basis daarvan heeft kunnen besluiten om geen urgentieverklaring om medische redenen te verstrekken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.8.</nr>
+      <para>Voor zover verzoeker betoogt dat aan hem om sociale redenen, namelijk vanwege het gestelde geweld en de bedreigingen door zijn huisgenoten, een urgentieverklaring moet worden verstrekt op grond van artikel 2.6.8, eerste lid, aanhef en onder b, van de Huisvestingsverordening, volgt de voorzieningenrechter dit betoog niet. Hoewel in de Beleidsregels ook geweld of ernstige bedreiging als probleem voor de mogelijke toepassing van dit artikel wordt genoemd, is hierboven onder 6.2. al overwogen dat verweerder zich op het standpunt kunnen stellen dat het door verzoeker gestelde geweld en de bedreigingen niet zijn vast komen te staan. Gelet daarop heeft verweerder verzoekers aanvraag kunnen weigeren ook voor zover deze om sociale redenen was ingediend. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Bestond er aanleiding om toepassing te geven aan de hardheidsclausule?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Tot slot voert verzoeker aan dat verweerder in ieder geval aanleiding had moeten zien om hem met toepassing van de hardheidsclausule in het bezit te stellen van de gevraagde urgentieverklaring. Zo stelt hij dat zijn situatie gelet op het samenstel van factoren schrijnend en anders is dan die van vele anderen die vanwege een huiselijk conflict op zoek zijn naar woonruimte. Dit gelet op onder meer zijn suïcidepogingen, zijn vluchtverhaal uit Syrië, het trauma dat hij daaraan heeft overgehouden en de cultuur waaruit hij afkomstig is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>Ook bij de besluitvorming omtrent de toepassing van de hardheidsclausule komt verweerder beoordelings- en beleidsruimte toe, waardoor de voorzieningenrechter het bestreden besluit ook op dit punt terughoudend dient te toetsen. Een beroep op de hardheidsclausule kan slechts bij uitzondering slagen, waarbij het aan verzoeker is om aannemelijk te maken dat er sprake is van omstandigheden die tot toepassing van de hardheidsclausule nopen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Naar het oordeel van de voorzieningenrechter heeft verweerder in redelijkheid kunnen besluiten geen toepassing te geven aan de in artikel 2.6.11, eerste lid, van de Huisvestingsverordening neergelegde hardheidsclausule. Op basis van alle door verzoeker naar voren gebrachte omstandigheden in samenhang bezien, zoals die hierboven al afzonderlijk aan de orde zijn gekomen, heeft verweerder zich op het standpunt kunnen stellen dat de weigering van de gevraagde urgentieverklaring niet leidt tot een schrijnende situatie.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>De voorzieningenrechter verklaart het beroep ongegrond. Het verzoek om een voorlopige voorziening wijst de voorzieningenrechter af, omdat bij deze uitspraak op het beroep wordt beslist. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Voor een proceskostenveroordeling of vergoeding van de door verzoeker betaalde bedragen aan griffierecht bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep ongegrond;</para>
+    <para>- wijst het verzoek om een voorlopige voorziening af.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.H. Waller, voorzieningenrechter, in aanwezigheid van mr. S.A. Lemmens, griffier. De beslissing is in het openbaar uitgesproken op 27 mei 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen de uitspraak op het beroep kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening. Tegen de uitspraak op het verzoek om een voorlopige voorziening staat geen rechtsmiddel open.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>WETTELIJK KADER</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Huisvestingsverordening Amsterdam 2016 (geldig tot 1 januari 2020)</title>
+    <para />
+    <parablock>
+      <para>Artikel 2.6.6 Wettelijke urgentiecategorieën </para>
+    </parablock>
+    <para>1. Een urgentieverklaring kan worden verleend indien zich geen van de in artikel 2.6.5, eerste lid, aanhef en onder a tot en met h en j genoemde omstandigheden voordoet en de aanvrager tot tenminste één van de volgende urgentiecategorieën behoort:</para>
+    <para>a. woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van personen, die in verband met problemen van relationele aard of geweld hun woonruimte hebben verlaten en waarvan de uitstroom uit die voorziening aanstaande is, indien de behoefte aan in de desbetreffende regiogemeente gelegen woonruimte als gevolg van die uitstroom naar het oordeel van burgemeester en wethouders dringend noodzakelijk is;</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 2.6.8 Overige regionale urgentiecategorieën </para>
+    </parablock>
+    <para>1. Een urgentieverklaring kan worden verleend indien zich geen van de in artikel 2.6.5, eerste en tweede lid, genoemde omstandigheden voordoet en de aanvrager tot tenminste één van de volgende urgentiecategorieën behoort:</para>
+    <para>(…)</para>
+    <para>b. woningzoekenden die op grond van medische of sociale redenen dringend woonruimte nodig hebben en niet behoren tot de in artikel 2.6.7 bedoelde urgentiecategorie; </para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>Artikel 2.6.11 Hardheidsclausule</para>
+    </parablock>
+    <para>1. Burgemeester en wethouders zijn, indien toepassing van deze verordening zou leiden tot weigering van een urgentieverklaring, bevoegd om toch een urgentieverklaring toe te kennen indien:</para>
+    <para>a. weigering van een urgentieverklaring leidt tot een schrijnende situatie; en,</para>
+    <para>b. sprake is van bijzondere, bij het vaststellen van de verordening onvoorziene, omstandigheden die gelet op het doel van de verordening redelijkerwijs toch een grond voor de verlening van een urgentieverklaring zouden kunnen zijn.</para>
+    <para>(…)</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Beleidsregel 5 Urgenties</emphasis>
+        <footnote-ref linkend="_a86868f7-460e-45eb-986d-a830f91d4c98" />
+        <emphasis role="bold"> (geldig tot 1 januari 2020)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. Urgentiecategorie Blijf-groep (HVV artikel 2.6.6 lid 1a) </para>
+    <para>De aanvraag van urgentie voor mensen die verblijven in een instelling voor tijdelijke opvang van slachtoffers van huiselijk geweld oftewel de Blijf-groep, wordt beoordeeld op basis van de algemene weigeringsgronden, met uitzondering van lid 1i (lokale binding). Daarnaast moet worden voldaan aan de volgende voorwaarden:</para>
+    <para>a. De aanvrager heeft aangifte gedaan van mishandeling door de partner of familielid bij de politie, of heeft een verklaring van de politie welke aangeeft dat de er geen aangifte kan worden gedaan vanwege een strafrechtelijk onderzoek naar een misdrijf waarvan de aanvrager van urgentie slachtoffer is;</para>
+    <para>(…)</para>
+    <para />
+    <para>10. Urgentiecategorie medische of sociale redenen (sociaal/medische urgentie HVV 2.6.8 lid 1b) </para>
+    <para>De aanvraag van urgentieverklaring op basis van dit artikel wordt beoordeeld op basis van de algemene weigeringsgronden. </para>
+    <para>a. Daarnaast kan de urgentie alleen worden verkregen als de aanvrager met één of meer van de volgende problemen wordt geconfronteerd:</para>
+    <paragroup>
+      <para>I. Ernstige medische problemen </para>
+    </paragroup>
+    <paragroup>
+      <para>II. Dakloosheid of dreigende dakloosheid met zorg voor minderjarige kinderen</para>
+    </paragroup>
+    <paragroup>
+      <para>III. Inwonend met schoolgaande kinderen</para>
+    </paragroup>
+    <paragroup>
+      <para>IV. Geweld of ernstige bedreiging.</para>
+      <para>b. De bovengenoemde problemen zijn levensontwrichtend en leiden ertoe dat de aanvrager niet meer in staat is om zelfstandig te functioneren;</para>
+      <para>c. Een zelfstandige woning vormt een substantieel deel van de oplossing voor bovengenoemd probleem;</para>
+      <para>d. Indien het probleem niet of slechts beperkt opgelost wordt door een andere woonruimte, of als de aanvrager meer gebaat is bij inzet van een voorliggende voorziening (medische of psychische zorg, of begeleiding) wordt dat aanvraag afgewezen op grond van artikel 2.6.5 lid 1 d) of lid 1 f);</para>
+      <para />
+      <para>11. Aanvullende voorwaarden bij regel 10, lid a I (ernstige medische problemen) </para>
+      <para>a. De ernstige en levensontwrichtende aard van het medische probleem blijkt uit medische verklaringen van één of meer behandelend artsen of specialisten, welke door de GGD kunnen worden opgevraagd;</para>
+      <para>b. Psychische problemen zijn aantoonbaar chronisch, en de aanvrager moet op het moment van aanvraag minimaal 6 maanden onder behandeling zijn voor het betreffende medische probleem bij een GGZ instelling of vrijgevestigd psychiater in Nederland;</para>
+      <para>(…)</para>
+      <para />
+    </paragroup>
+  </section>
+  <footnote id="_2d250c49-b2ff-4558-93c6-3b6b79e6eb86" label="1">
+    <para> Zie bijvoorbeeld een uitspraak van 20 januari 2020, ECLI:NL:RVS:2020:84, r.o. 4.</para>
+  </footnote>
+  <footnote id="_e9f80388-37e5-44bf-acd8-af4cc127ff10" label="2">
+    <para> Onder 5 Urgenties, paragraaf 5. </para>
+  </footnote>
+  <footnote id="_26134a56-6544-429f-9798-6352c0c25f0b" label="3">
+    <para> Onder 5 Urgenties, paragraaf 11. </para>
+  </footnote>
+  <footnote id="_01610384-feb5-43c1-bea4-91c64c7d36aa" label="4">
+    <para>Zie bijvoorbeeld de uitspraak van 29 maart 2017, ECLI:NL:RVS:2017:807.</para>
+  </footnote>
+  <footnote id="_49ae7b12-9c1e-4a0f-9090-a0ac2e373688" label="5">
+    <para> Zie de Beleidsregels onder 5 Urgenties, paragraaf 11. </para>
+  </footnote>
+  <footnote id="_a86868f7-460e-45eb-986d-a830f91d4c98" label="6">
+    <para> Onderdeel van de Beleidsregels woonruimteverdeling en woonruimtevoorraad 2016</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:4754</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-07T15:00:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3670</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:4754">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:4754</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-06T13:05:07</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:4754 Rechtbank Noord-Holland , 03-07-2020 / AWB - 19 _ 3670</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:4754:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Afwijzing VOG - onvoldoende gemotiveerd dat aan het objectieve criterium is voldaan</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:4754:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/3670 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 3 juli 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: [naam 1] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Minister voor Rechtsbescherming, verweerder</bridgehead>
+    <para>(gemachtigde: mr. P. Trijsburg).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 20 mei 2019 (het primaire besluit) heeft verweerder een aanvraag van eiser om afgifte van een verklaring omtrent het gedrag (VOG) afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 juli 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In verband met de uitbraak van het coronavirus heeft het onderzoek ter zitting met instemming van partijen op 25 juni 2020 plaatsgevonden met gebruikmaking van elektronische communicatiemiddelen. Eiser is vertegenwoordigd door [naam 2] . Verweerder is vertegenwoordigd door zijn gemachtigde. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser heeft verweerder gevraagd om afgifte van een VOG ten behoeve van de functie van [functie] bij [#] in [woonplaats] ( [#] ).</para>
+    <para />
+    <para>2. Verweerder heeft besloten de aanvraag om afgifte van een VOG te weigeren. Aan dit besluit heeft verweerder ten grondslag gelegd dat blijkens het Justitieel Documentatie Systeem (JDS) bij eiser binnen de terugkijktermijn van twee jaar sprake is van een drietal geregistreerde stafbare feiten wegens handelen in strijd met de Opiumwet en het Vuurwerkbesluit. Ook buiten de terugkijktermijn is sprake van een geregistreerd strafbaar feit wegens handelen in strijd met de Opiumwet, diefstal en eenvoudige belediging. Aan deze strafbare feiten komt, nu deze buiten de terugkijktermijn hebben plaatsgevonden, onvoldoende gewicht toe om zelfstandig ten grondslag te worden gelegd aan de beoordeling van de VOG-aanvraag. </para>
+    <para />
+    <parablock>
+      <para>Verweerder is van mening dat, indien de drugsdelicten worden herhaald in de door eiser beoogde functie, een risico bestaat voor het welzijn en de veiligheid van de samenleving. Dit risico is er in gelegen dat eiser het distributienetwerk van zijn werk- of opdrachtgever misbruikt om drugsdelicten te plegen. Daarbij kan worden gedacht aan het (doen) distribueren van verdovende middelen. Gelet hierop is voldaan aan het objectieve criterium en bestaat er volgens verweerder onvoldoende grondslag om op basis van het subjectieve criterium alsnog een VOG af te geven.</para>
+    </parablock>
+    <para />
+    <para>3. Het wettelijk kader is opgenomen in de bijlage en maakt onderdeel uit van deze uitspraak.</para>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Eiser betoogt dat niet is voldaan aan het objectieve criterium, omdat het door alle procedures en controles in de werkzaamheden niet mogelijk is het distributienetwerk te gebruiken. Er is daarom geen enkele belemmering voor een behoorlijke uitoefening van de functie waarvoor de VOG is aangevraagd. Ook vormt de uitoefening van de werkzaamheden geen gevaar voor de samenleving.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Verweerder stelt zich op het standpunt dat is voldaan aan het objectieve criterium. De VOG is aangevraagd voor de functie van [functie] bij [#] en daarbij is het algemene screeningsprofiel met risicogebied goederen van toepassing geacht. Verweerder dient zijn screening daarop te baseren. Het objectieve criterium is een algemene beoordeling van de vraag of de aangetroffen justitiële gegevens een risico voor de samenleving opleveren indien zij worden herhaald. Daarvan is in dit geval sprake, omdat het onder meer gaat om een drugsdelict binnen de terugkijktermijn en om diefstal buiten de terugkijktermijn. Dat misbruik van het distributienetwerk volgens eiser niet mogelijk is, maakt dit niet anders. Eiser is degene die met een heftruck goederen moet verplaatsen en daarmee is hij degene die op dat moment de macht heeft en beschikt over die goederen. Het valt ondanks de procedures en controles niet in het geheel uit te sluiten dat eiser het distributienetwerk misbruikt door bijvoorbeeld drugs te verpakken bij de goederen die hij moet verplaatsen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De rechtbank stelt vast dat de drugsdelicten die verweerder aan de afwijzing van de gevraagde VOG ten grondslag heeft gelegd zien op het aanwezig hebben van drugs. De rechtbank is van oordeel dat verweerder onvoldoende heeft gemotiveerd dat herhaling daarvan in de door eiser beoogde functie een risico oplevert voor het welzijn en de veiligheid van de samenleving. Eiser is niet veroordeeld voor het (doen) distribueren van verdovende middelen. Dat kan hem dan ook niet worden tegengeworpen bij de aanvraag van de VOG. De rechtbank acht verder onvoldoende gemotiveerd dat het (enkel) aanwezig hebben van drugs een risico oplevert voor het distributienetwerk van eisers werk- of opdrachtgever. </para>
+      <para />
+      <parablock>
+        <para>Ook de verwijzing van verweerder ter zitting naar het vonnis van 28 maart 2019, waarin door de rechtbank (in de strafzaak) werd overwogen dat sprake was van een hoeveelheid drugs die niet enkel bestemd was voor eigen gebruik, gaat niet op. Dat betreft een strafmaatoverweging, die niet in de weg staat aan het feit dat eiser voor de handel en vervoer van de drugs is vrijgesproken. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Verweerder kan eiser kortgezegd niet via deze weg verantwoordelijk houden voor een risico van herhaling van feiten waarvan hij is vrijgesproken door de rechtbank. Het risico dat volgens verweerder bij herhaling van die feiten in de door eiser beoogde functie bestaat voor het welzijn en de veiligheid van de samenleving, acht de rechtbank dan ook onvoldoende gemotiveerd. Gelet op het voorgaande is de rechtbank van oordeel dat niet is voldaan aan het objectieve criterium. Het betoog slaagt.</para>
+      </parablock>
+      <para />
+      <para>5. Gelet op het voorgaande behoeven de overige beroepsgronden geen bespreking.</para>
+      <para />
+      <para>6. Het beroep is gegrond en de rechtbank zal het bestreden besluit vernietigen. De rechtbank ziet geen aanleiding de rechtsgevolgen van het bestreden besluit in stand te laten of zelf in de zaak te voorzien. Verweerder zal daarom een nieuw besluit moeten nemen met inachtneming van deze uitspraak.</para>
+      <para />
+      <para>7. Er zijn geen voor vergoeding in aanmerking komende proceskosten.</para>
+      <para />
+      <para>8. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank</para>
+    </parablock>
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- draagt verweerder op een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.J. Maarleveld, rechter, in aanwezigheid van mr. M. van Excel, griffier. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 3 juli 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier			rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+    <parablock>
+      <para>BIJLAGE</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Wet justitiële en strafvorderlijke gegevens</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 28</emphasis>
+      </para>
+      <para>Een verklaring omtrent het gedrag is een verklaring van Onze Minister dat uit een onderzoek met betrekking tot het gedrag van de betrokken natuurlijke persoon of rechtspersoon ingesteld, gelet op het risico voor de samenleving in verband met het doel waarvoor de afgifte is gevraagd en na afweging van het belang van betrokkene, niet is gebleken van bezwaren tegen die natuurlijke persoon of rechtspersoon.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 35</emphasis>
+      </para>
+    </parablock>
+    <para>1. Onze Minister weigert de afgifte van een verklaring omtrent het gedrag, indien in de justitiële documentatie met betrekking tot de aanvrager een strafbaar feit is vermeld, dat, indien herhaald, gelet op het risico voor de samenleving en de overige omstandigheden van het geval, aan het doel waarvoor de verklaring omtrent het gedrag wordt gevraagd, in de weg zal staan.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 36</emphasis>
+      </para>
+    </parablock>
+    <para>1. Onze Minister kan bij zijn onderzoek met betrekking tot de afgifte van de verklaring omtrent het gedrag van een natuurlijk persoon kennis nemen van op de aanvrager betrekking hebbende justitiële gegevens alsmede van politiegegevens als bedoeld in artikel 1, onder a, van de Wet politiegegevens, met uitzondering van de gegevens waarover op grond van artikel 21, eerste lid, onderdeel e, geen mededeling kan worden gedaan aan de verzoeker, die gebruik maakt van zijn recht, als bedoeld in artikel 18, eerste lid.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Beleidsregels VOG-NP-RP 2018</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Paragraaf 3</emphasis>
+      </para>
+      <para>Ten behoeve van de beoordeling van een VOG-aanvraag ontvangt het COVOG alle justitiële gegevens betreffende de aanvrager die zijn geregistreerd in het JDS. De justitiële gegevens kunnen zowel uit Nederland als uit het buitenland afkomstig zijn. Aan de aanvrager die niet voorkomt in het JDS, wordt zonder meer een VOG afgegeven.</para>
+      <para>Wanneer de aanvrager voorkomt in het JDS wordt de vraag of een VOG kan worden afgegeven beoordeeld aan de hand van een objectief criterium en een subjectief criterium (zie hieronder paragraaf 3.2 en 3.3).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Paragraaf 3.1</emphasis>
+      </para>
+      <para>Bij de beoordeling van de justitiële gegevens van de aanvrager wordt een terugkijktermijn in acht genomen. Voor de terugkijktermijn zijn van belang:</para>
+    </parablock>
+    <para>1. de periode waarover wordt teruggekeken en</para>
+    <para>2. de uitgangspunten om te bepalen of een justitieel gegeven binnen de van toepassing zijnde terugkijktermijn valt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Paragraaf 3.1.1</emphasis>
+      </para>
+      <para>Terugkijktermijn in duur beperkt</para>
+      <para>In alle andere gevallen dan hiervoor genoemd, is sprake van een terugkijktermijn die in duur wordt beperkt. Dit houdt in dat de beoordeling van de aanvraag in beginsel plaatsvindt aan de hand van de justitiële gegevens die ten aanzien van de aanvrager gedurende de vier jaren voorafgaand aan het moment van beoordeling voorkomen in het JDS. Van deze terugkijktermijn van vier jaren wordt slechts afgeweken wanneer sprake is van één van de hieronder genoemde uitzonderingen. In dat geval geldt de daar genoemde terugkijktermijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Van de terugkijktermijn van vier jaren wordt afgeweken indien:</para>
+    </parablock>
+    <para>d. de VOG wordt aangevraagd door een persoon die ten tijde van de aanvraag de leeftijd van 23 jaren nog niet heeft bereikt. Behoudens het hiervoor gestelde, geldt in dat geval een terugkijktermijn van twee jaren, mits:</para>
+    <parablock>
+      <para>− er ten aanzien van de aanvrager geen justitiële gegevens worden aangetroffen die worden gekwalificeerd als misdrijven tegen de zeden, zoals hierboven genoemd, of geweldsmisdrijven waarvoor een vrijheidsstraf van zes jaar of meer kan worden opgelegd;</para>
+      <para>− er ten aanzien van de aanvrager geen sprake is van een justitieel gegeven dat betrekking heeft op (verdenking van) een misdrijf, als bedoeld in de artikelen 83, of 83b van het Wetboek van Strafrecht.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Indien in de voor de aanvraag van toepassing zijnde terugkijktermijn relevante justitiële gegevens zijn aangetroffen, betrekt het COVOG bij de beoordeling van de aanvraag ook alle overige voor de aanvraag relevante justitiële gegevens die buiten de terugkijktermijn liggen in de beoordeling van de aanvraag. Aan deze strafbare feiten komt, nu deze buiten de terugkijktermijn hebben plaatsgevonden, onvoldoende gewicht toe om zelfstandig te worden betrokken bij de beoordeling van de VOG-aanvraag. Deze strafbare feiten worden echter wel betrokken bij de subjectieve criteria en zullen derhalve een rol spelen bij de belangenafweging. Op grond van de zowel binnen als buiten de termijn aangetroffen strafbare feiten wordt een inschatting gemaakt van het risico dat de aanvrager opnieuw met justitie in aanraking komt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Paragraaf 3.2</emphasis>
+      </para>
+      <para>De afgifte van de VOG wordt in beginsel geweigerd indien wordt voldaan aan het objectieve criterium. Het objectieve criterium betreft de beoordeling of de justitiële gegevens die ten aanzien van de aanvrager zijn aangetroffen, indien herhaald, gelet op het risico voor de samenleving, een belemmering vormen voor een behoorlijke uitoefening van de functie/taak/bezigheid waarvoor de VOG is aangevraagd.</para>
+      <para>Het objectieve criterium bestaat uit de volgende elementen die hieronder nader worden uitgewerkt:</para>
+    </parablock>
+    <para>1. justitiële gegevens (strafbaar feit);</para>
+    <para>2. indien herhaald;</para>
+    <para>3. risico voor de samenleving en</para>
+    <para>4. een belemmering vormen voor een behoorlijke uitoefening van de functie/taak/bezigheid.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Paragraaf 3.3</emphasis>
+      </para>
+      <para>Op grond van het subjectieve criterium kan worden geoordeeld dat het belang dat een aanvrager heeft bij het verstrekken van de VOG zwaarder weegt dan het belang van de samenleving bij bescherming tegen het door middel van het objectieve criterium vastgestelde risico voor de samenleving. In dat geval wordt de VOG afgegeven ondanks dat wordt voldaan aan het objectieve criterium.</para>
+      <para>Voor de toepassing van het subjectieve criterium wordt onderscheid gemaakt tussen enerzijds aanvragen waarop het reguliere beoordelingskader van toepassing is (zie paragraaf 3.3.1) en anderzijds aanvragen waarop het verscherpte toetsingskader van paragraaf 3.3.2 van toepassing is (zie paragraaf 3.3.2).</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Paragraaf 3.3.1</emphasis>
+      </para>
+      <para>Het subjectieve criterium ziet op omstandigheden van het geval die ertoe kunnen leiden dat de objectieve vaststelling van een risico voor de samenleving ten aanzien van deze aanvrager niet zou moeten leiden tot een weigering van de afgifte van de VOG.</para>
+      <para>Omstandigheden van het geval die altijd in de beoordeling worden betrokken zijn:</para>
+      <para>− de afdoening van de strafzaak;</para>
+      <para>− het tijdsverloop;</para>
+      <para>− de hoeveelheid antecedenten.</para>
+      <para>Indien de aanvrager ten tijde van het plegen van een strafbaar feit minderjarig was, betrekt het COVOG dit in de beoordeling van de aanvraag.</para>
+      <para>Ten behoeve van een goede oordeelsvorming is het COVOG bevoegd inlichtingen in te winnen bij het Openbaar Ministerie en de reclassering.</para>
+      <para>Naast justitiële gegevens kunnen ook politiegegevens de beoordeling worden betrokken. In de politiesystemen kunnen bijvoorbeeld mutaties omtrent strafbare feiten aanwezig zijn, opgemaakte processen-verbaal en (dag)rapporten. Ondanks het feit dat deze informatie niet in alle gevallen tot vervolging heeft geleid, kan deze bij de beoordeling van de aanvraag worden meegewogen. Hierdoor wordt een betrouwbaar beeld verkregen van de integriteit van de aanvrager.</para>
+      <para>Omstandigheden waaronder het feit is gepleegd</para>
+      <para>In het geval dat het COVOG na weging van de omstandigheden van het geval niet tot een goede oordeelsvorming kan komen en twijfel heeft over de vraag of een VOG kan worden afgegeven, worden de omstandigheden waaronder het strafbare feit heeft plaatsgevonden in de beoordeling betrokken.</para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

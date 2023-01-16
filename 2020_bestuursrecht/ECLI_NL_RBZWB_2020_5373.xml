@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:5373</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-20T15:08:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 20_8913 VV</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5373">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5373</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-20T15:02:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:5373 Rechtbank Zeeland-West-Brabant , 03-11-2020 / AWB- 20_8913 VV</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:5373:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Sluiten woning voor 3 maanden op grond van artikel 13b van de Opiumwet</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:5373:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: BRE 20/8913 OPIUMW</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 3 november 2020 van de voorzieningenrechter in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoeker], verzoeker, wonende te [woonplaats verzoeker],</bridgehead>
+    <para>gemachtigde: mr. R.B.S. Link, advocaat te Wijchen</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Waalwijk, verweerder.</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para>Bij besluit van 30 september 2020 heeft de burgemeester besloten de woning van eiser aan [adres verzoeker] te [woonplaats verzoeker] (hierna de woning) voor de duur van 3 maanden te sluiten met ingang van 27 oktober 2020. </para>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen dit besluit bezwaar gemaakt. Hij heeft de voorzieningenrechter tevens verzocht om een voorlopige voorziening te treffen. De burgemeester heeft toegezegd te wachten met de sluiting van de woning tot de voorzieningenrechter een uitspraak heeft gedaan. </para>
+      <para>
+        <?linebreak?>Het verzoek om een voorlopige voorziening is besproken op de zitting van de rechtbank in Breda op 26 oktober 2020. Verzoeker was aanwezig, bijgestaan door zijn gemachtigde. <?linebreak?>De burgemeester heeft zich laten vertegenwoordigen door M. Kloosterman.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>
+      <?linebreak?>Overwegingen</title>
+    <bridgehead role="underline">Waarover gaat deze uitspraak ?</bridgehead>
+    <para>1. <?linebreak?>In deze uitspraak beslist de voorzieningenrechter over het verzoek om schorsing van het besluit tot sluiting van de woning. De voorzieningenrechter beoordeelt daarbij of het bezwaar van verzoeker een redelijke kans van slagen heeft. Aan de hand van de aangevoerde gronden beantwoordt de voorzieningenrechter de vraag of de burgemeester, gelet op de aangetroffen hoeveelheid hennepplanten, bevoegd is om sluiting van de woning te gelasten en zo ja, of hij bij afweging van de betrokken belangen in redelijkheid tot sluiting van de woning mag overgaan. Ook zal beoordeeld worden of de begunstigingstermijn zorgvuldig is vastgesteld.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wat is de aanleiding voor de sluiting ?</emphasis>
+      </para>
+    </parablock>
+    <para>2. <?linebreak?>Verzoeker is eigenaar en bewoner van de woning. Op 9 juli 2020 heeft de politie Zeeland-West-Brabant in de woning een hennepkwekerij aangetroffen. </para>
+    <para />
+    <parablock>
+      <para>In de bestuurlijke rapportage die de politie heeft opgemaakt, heeft de politie de aangetroffen situatie in de woning beschreven. In de woning zijn twee in werking zijnde kweekruimtes voor hennepplanten aangetroffen met in totaal 202 hennepplanten. Op de eerste verdieping zijn verder nog aangetroffen diverse slakkenhuisventilatoren, dozen met (flexibele) luchtslangen, metalen flenzen en verbindingsstukken voor de luchtafvoer, transformatoren en meerdere voedingskannen. Tevens werden in de woonkamer vers gedroogde henneptoppen aangetroffen met de takjes er nog aan. In de bestuurlijke rapportage is ook opgenomen dat er in de meterkasten zwaardere zekeringen waren aangebracht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Gelet op de aangetroffen situatie heeft de burgemeester aanleiding gezien om de woning op grond van artikel 13b van de Opiumwet voor 3 maanden te sluiten. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Waarom is verzoeker het niet eens met de sluiting ?</emphasis>
+        <?linebreak?>
+      </para>
+    </parablock>
+    <para>3. Verzoeker heeft in zijn verzoekschrift, samengevat, aangevoerd dat hij de kwekerij had voor het oogsten van CBD-zaden en dat dit legale handel is. Ook moeten zijn belangen zwaarder wegen dan die van de burgemeester. Er was geen sprake van loop naar de woning of overlast en de kwekerij is inmiddels ontmanteld. Er valt niets meer te herstellen. Door toch tot sluiting over te gaan is er sprake van een punitieve sanctie. Verzoeker kan nergens anders heen en door de sluiting zou hij op straat komen te staan. Dat is, gelet op de toename van coronabesmettingen, extra bezwaarlijk.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bestaat er een bevoegdheid tot sluiting van de woning ?</emphasis>
+        <?linebreak?>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Op grond van artikel 3 van de Opiumwet is het verboden een middel als bedoeld in de bij deze wet behorende lijst II te telen, te bereiden, te bewerken, te verwerken, te verkopen, af te leveren, te verstrekken of te vervoeren</para>
+      <para />
+      <parablock>
+        <para>Artikel 13b, eerste lid, van de Opiumwet bepaalt dat de burgemeester bevoegd is tot oplegging van een last onder bestuursdwang indien in woningen of lokalen dan wel in of bij woningen of zodanige lokalen behorende erven een middel als bedoeld in lijst I of II wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Ingevolge vaste rechtspraak van de hoogste bestuursrechter in dit soort zaken, de Afdeling bestuursrechtspraak van de Raad van State (ABRvS), kan als uitgangspunt worden aanvaard dat bij aanwezigheid van meer dan 5 gram (of 5 planten) softdrugs (het door het openbaar ministerie gehanteerde criterium voor eigen gebruik) de aangetroffen hoeveelheid softdrugs in beginsel (mede) bestemd wordt geacht voor de verkoop, aflevering of verstrekking. Het is dan vervolgens aan verzoeker om aannemelijk te maken dat de aangetroffen hoeveelheid softdrugs niet voor verkoop, verstrekking of aflevering aanwezig was. <footnote-ref linkend="_5de25a3e-5ce1-4f63-9895-b0ca2b9277fc" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <parablock>
+        <para>Verzoekers stelling dat hij de hennepkwekerij alleen voor het oogsten van CBD-zaden had is door hem op geen enkele wijze onderbouwd en komt de voorzieningenrechter ook geenszins aannemelijk voor. De voorzieningenrechter zal daarom aan deze stelling voorbij gaan. Omdat hennep vermeld staat op lijst II en er veel meer planten dan de gebruikershoeveelheid zijn aangetroffen, was de burgemeester bevoegd tot sluiting van de woning over te gaan. Overigens is dit ter zitting namens verzoeker ook erkend. Verzoeker is echter van mening dat de burgemeester geen gebruik mag maken van zijn bevoegdheid. <?linebreak?></para>
+        <para>
+          <emphasis role="underline">Past de sluiting van de woning in het beleid van de burgemeester ?</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Bij de toepassing van artikel 13b, eerste lid, van de Opiumwet heeft de burgemeester beleidsruimte. Dit betekent dat het aan de burgemeester is om de betrokken belangen af te wegen bij zijn besluit om van de bevoegdheid gebruik te maken. Het is aan de bestuursrechter om te toetsen of de burgemeester na afweging van de betrokken belangen in redelijkheid daartoe heeft kunnen besluiten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>De burgemeester heeft beleid vastgesteld<footnote-ref linkend="_c6b4c180-3e5d-4477-a877-5510f915c186" />. Op grond van dit beleid wordt bij een eerste constatering dat in de woning een handelshoeveelheid drugs van een middel als bedoeld in lijst II wordt aangetroffen de woning voor 3 maanden gesloten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>De sluiting van de woning voor de duur van 3 maanden past dus binnen het beleid van de gemeente.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Had de burgemeester reden moeten zien om van zijn beleid af te wijken ?</emphasis>
+          <?linebreak?>
+        </para>
+        <para>6.	De burgemeester moet alle omstandigheden van het geval betrekken in zijn beoordeling en bezien of deze op zichzelf dan wel tezamen met andere omstandigheden, moeten worden aangemerkt als bijzondere omstandigheden die maken dat het handelen overeenkomstig de beleidsregel gevolgen heeft die onevenredig zijn in verhouding tot de met de beleidsregel te dienen doelen<footnote-ref linkend="_03a0f361-eb68-414e-aaf6-bfb8f108bfee" />. Aan de voor bewoner mogelijk zeer ingrijpende gevolgen van de toepassing van artikel 13b, eerste lid, van de Opiumwet op een woning - die raakt aan het in artikel 8 van het EVRM neergelegde recht – dient een zwaar gewicht te worden toegekend bij de beoordeling van de vraag of de burgemeester in redelijkheid van de in die bepaling neergelegde bevoegdheid gebruik heeft kunnen maken en, zo ja, of de wijze waarop de bevoegdheid is toegepast evenredig is. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De ABRvS is in haar uitspraak van 28 augustus 2019<footnote-ref linkend="_8277ee3e-be5e-4504-a8f3-e8209ee76779" /> nader ingegaan op het toetsingskader dat zij hanteert om te toetsen of de burgemeester na afweging van de betrokken belangen in redelijkheid heeft kunnen besluiten om deze bevoegdheid te gebruiken. <?linebreak?>De voorzieningenrechter heeft dit toetsingskader gehanteerd en komt tot de conclusie dat de burgemeester geen reden heeft hoeven te zien om van zijn beleid af te wijken. Dit legt de voorzieningenrechter hierna uit.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is sluiting van de woning noodzakelijk ?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Aan de hand van de ernst en omvang van de overtreding zal beoordeeld moeten worden in hoeverre sluiting van de woning noodzakelijk is ter bescherming van het woon- en leefklimaat en het herstel van de openbare orde. </para>
+      <para />
+      <parablock>
+        <para>In de woning van verzoeker is een omvangrijke hennepkwekerij aangetroffen. <?linebreak?>De burgemeester heeft de situatie daarom als ernstig en grootschalig mogen aanmerken. Dat er geen meldingen van overlast zijn geweest of loop naar de woning, maakt dit niet anders. Verder is van belang dat de woning in een voor drugscriminaliteit kwetsbare wijk ligt. <?linebreak?>De burgemeester heeft sluiting van de woning daarom noodzakelijk kunnen achten ter bescherming van het woon- en leefklimaat en het herstel van de openbare orde. Anders dan door verzoeker is gesteld, is er dus sprake van een herstelsanctie en niet van een punitieve sanctie.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is sluiting van de woning evenredig ?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <parablock>
+        <para>Niet alleen moet sluiting van de woning noodzakelijk zijn, de sluiting moet ook evenredig zijn. Voor de beoordeling van de evenredigheid is van belang wat de gevolgen van de sluiting zijn voor verzoeker. Verzoeker zal zijn woning moeten verlaten. Voor zover verzoeker niet bij vrienden of familie terecht kan, zal hij tijdelijk woonruimte moeten huren. Ter zitting heeft verzoeker erkend dat het wel mogelijk is om tijdelijk iets te huren op een vakantiepark, maar dat hij daarvoor niet de financiële middelen heeft. </para>
+        <para>Omdat verzoeker in het geheel geen inzicht heeft gegeven in zijn financiën, is deze stelling voor de voorzieningenrechter echter niet te controleren, zodat daaraan voorbij gegaan wordt. Verder is van belang dat verzoeker ook bij de daklozenopvang terecht kan in het geval hij onverhoopt geen vervangende woonruimte zou kunnen vinden. Namens de burgemeester is ter zitting onweersproken naar voren gebracht dat de daklozenopvang inmiddels ook volledig coronaproof is ingericht. Verzoeker zal dan ook niet op straat hoeven te verblijven, zodat het enkele gegeven dat er inmiddels meer coronabesmettingen zijn niet maakt dat sluiting van de woning onevenredig is.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Verzoekers stelling ter zitting dat hij van zijn hypotheekverstrekker heeft vernomen dat overgegaan zal worden tot ontbinding van de hypotheekovereenkomst is niet onderbouwd met stukken. Hierdoor is niet duidelijk of daadwerkelijk tot opzegging van de hypotheekovereenkomst zal worden overgegaan en zo ja, wat de reden voor de opzegging is.  Daarnaast is de opzegging van de hypotheekovereenkomst, wat daar verder ook van zij, een civielrechtelijke kwestie tussen de hypotheekverstrekker en verzoeker waar de burgemeester buiten staat.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Is de begunstigingstermijn zorgvuldig ?</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+      <para>7. Uit de stukken blijkt dat de burgemeester op 27 augustus 2020 aan verzoeker heeft meegedeeld het voornemen te hebben om verzoekers woning te sluiten. Het besluit tot sluiting is genomen op 30 september 2020 waarbij aan verzoeker een termijn van ruim <?linebreak?>4 weken is gegeven voordat tot sluiting zal worden overgegaan. De voorzieningenrechter is van oordeel dat met deze termijn voldoende rekening is gehouden met de belangen van verzoeker in verhouding tot het belang van de burgemeester. Geoordeeld wordt dan ook dat de begunstigingstermijn zorgvuldig is vastgesteld.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wat betekent dit voor het verzoek om schorsing van de sluiting ?</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+      <para>8. Uit wat hiervoor is overwogen volgt dat niet geoordeeld kan worden dat het bezwaar van verzoeker een redelijke kans van slagen heeft. Het verzoek tot het treffen van een voorlopige voorziening zal daarom worden afgewezen. </para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>De voorzieningenrechter wijst het verzoek om een voorlopige voorziening af.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.L. Sierkstra, voorzieningenrechter, in aanwezigheid van mr. A.J.M. van Hees, griffier, op 3 november 2020 en is openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier*			voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>* De griffier is niet in de gelegenheid deze uitspraak mee te ondertekenen.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Als u het niet eens bent met deze uitspraak</title>
+    <para>Tegen deze uitspraak is geen (hoger) beroep mogelijk. </para>
+  </section>
+  <footnote id="_5de25a3e-5ce1-4f63-9895-b0ca2b9277fc" label="1">
+    <para> Bijvoorbeeld ECLI:NL:RVS:2019:4083</para>
+  </footnote>
+  <footnote id="_c6b4c180-3e5d-4477-a877-5510f915c186" label="2">
+    <para> Beleidsregels voor de toepassing van een last onder bestuursdwang en/of bestuurlijke waarschuwing ingevolge artikel 13b Opiumwet (Damoclesbeleid 2019)</para>
+  </footnote>
+  <footnote id="_03a0f361-eb68-414e-aaf6-bfb8f108bfee" label="3">
+    <para> Zie artikel 4:84 van de Algemene wet bestuursrecht</para>
+  </footnote>
+  <footnote id="_8277ee3e-be5e-4504-a8f3-e8209ee76779" label="4">
+    <para> ECLI:NL:RVS:2019:2912</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

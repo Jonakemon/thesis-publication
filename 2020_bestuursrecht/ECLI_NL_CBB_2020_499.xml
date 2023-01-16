@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:499</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-29T07:03:01</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-28</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1130</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#proceskostenveroordeling">Proceskostenveroordeling</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#schadevergoedingsuitspraak">Schadevergoedingsuitspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:499">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:499</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-27T08:10:31</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:499 College van Beroep voor het bedrijfsleven , 28-07-2020 / 18/1130</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:499:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Fosfaatrechten; overschrijding redelijke termijn; kostenveroordeling.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:499:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/1130 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 28 juli 2020 in de zaak tussen</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">de maatschap [naam 1] en [naam 2]</emphasis>, te [plaats] , appellante</para>
+      <para>(gemachtigde: mr. drs. C.C. van Harten),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, verweerder</bridgehead>
+    <para>(gemachtigde: mr. S.I. Schinkel), </para>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de Staat der Nederlanden (minister van Justitie en Veiligheid).</bridgehead>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 januari 2018 (het primaire besluit) heeft verweerder op grond van artikel 23, derde lid, van de Meststoffenwet (Msw) het fosfaatrecht van appellante vastgesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 1 mei 2018 (het bestreden besluit) heeft verweerder het bezwaar van appellante niet-ontvankelijk verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Appellante heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 maart 2020 (het wijzigingsbesluit) heeft verweerder het bezwaar gegrond verklaard, het bestreden besluit herzien en het primaire besluit herroepen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 7 mei 2020 heeft appellante het beroep ingetrokken met het verzoek om  vergoeding van de immateriële schade wegens overschrijding van de redelijke termijn als bedoeld in artikel 6 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden als wel om kostenvergoeding in bezwaar en beroep. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft op dit verzoek gereageerd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het College heeft de Staat als partij aangemerkt in verband met overschrijding van de redelijke termijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Geen van de partijen heeft binnen de gestelde termijn verklaard gebruik te willen maken van het recht ter zitting te worden gehoord, waarna het College het onderzoek met toepassing van artikel 8:57, derde lid, van de Algemene wet bestuursrecht (Awb) heeft gesloten.</para>
+    </parablock>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen </title>
+    <para />
+    <parablock>
+      <para>1.	Artikel 8:75a, eerste lid, eerste volzin, van de Awb bepaalt dat in geval van intrekking van het beroep omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener van het beroepschrift is tegemoetgekomen, het bestuursorgaan op verzoek van de indiener bij afzonderlijke uitspraak met toepassing van artikel 8:75 van de Awb in de kosten kan worden veroordeeld. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>In dit geval geldt als uitgangspunt dat de bezwaar- en beroepsfase tezamen niet langer mogen duren dan twee jaar (het bezwaar ten hoogste een half jaar en het beroep ten hoogste anderhalf jaar). Dit, behoudens factoren die aanleiding geven overschrijding van deze termijnen gerechtvaardigd te achten. De vergoeding van die schade komt, naar ieders aandeel in de overschrijding, ten laste van het bestuursorgaan respectievelijk de Staat. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Het bezwaarschrift dateert van 7 februari 2018. Op het moment van deze uitspraak is de tweejaarstermijn met ruim 24 weken overschreden. Appellante heeft daarom recht op een schadevergoeding van € 500,-. Omdat de behandeling van het bezwaar minder dan een half jaar in beslag heeft genomen, terwijl de behandeling van het beroep meer dan anderhalf jaar heeft geduurd is de overschrijding toe te rekenen aan de Staat. Het College zal daarom op de voet van artikel 8:88 van de Awb de Staat veroordelen tot betaling van een bedrag van <?linebreak?>€ 500,-.</para>
+      <para />
+      <para>3. Appellante heeft voorts verzocht om vergoeding van de in de bezwaarfase gemaakte kosten voor de door een derde verleende rechtsbijstand. Het College is met appellante van oordeel dat verweerder in het wijzigingsbesluit ten onrechte niet tot vergoeding is overgegaan. Verweerder is verantwoordelijk voor een zorgvuldige voorbereiding van een besluit en moet daarvoor de juiste gegevens vergaren. In bezwaar heeft appellante aangetoond dat verweerder is uitgegaan van onjuiste gegevens. Daarmee is naar het oordeel van het College aan de vereisten van artikel 7:15, tweede lid, van de Awb voldaan. </para>
+      <para />
+      <para>4. Het College ziet aanleiding om verweerder te veroordelen in de kosten die appellante in verband met de behandeling van het bezwaar en beroep redelijkerwijs heeft moeten maken. Deze kosten stelt het College op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het bezwaarschrift en 1 punt voor het beroepschrift, met een waarde per punt van € 525,- en een wegingsfactor 1). Tevens ziet het College aanleiding om de Staat te veroordelen in de kosten die appellante in verband met haar verzoek om schadevergoeding wegens overschrijding van de redelijke termijn redelijkerwijs heeft moeten maken. De proceskosten worden begroot op € 262,50 voor het verzoekschrift hangende beroep waarbij een wegingsfactor 0,5 wordt toegepast.</para>
+      <para />
+      <para>5. Verder wijst het College verweerder erop dat hij ingevolge artikel 8:41, zevende lid, van de Awb, gehouden is het door appellante betaalde griffierecht van € 338,- aan haar te vergoeden. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>Het College:</para>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 338,- aan appellante te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van appellante tot een bedrag van € 1.050,- en de Staat tot een bedrag van € 262,50;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt de Staat tot betaling van € 500,- aan appellante wegens geleden immateriële schade.  </para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.C. Stam, in aanwezigheid van mr. J.M.M. van Dalen griffier. De beslissing is in het openbaar uitgesproken op 28 juli 2020. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd		De griffier is verhinderd</para>
+      <para>de uitspraak te ondertekenen		de uitspraak te ondertekenen</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

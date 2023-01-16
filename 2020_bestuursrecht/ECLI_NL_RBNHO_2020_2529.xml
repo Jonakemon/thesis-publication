@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:2529</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-06T15:53:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">HAA 20/916 en HAA 20/922</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Alkmaar</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2529">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:2529</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-06T15:51:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:2529 Rechtbank Noord-Holland , 25-03-2020 / HAA 20/916 en HAA 20/922</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:2529:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Blokkering bijstandsuitkering. Gegrond vermoeden dat verzoekster geen recht (meer) heeft op een (volledige) bijstandsuitkering. Verzoek om een voorlopige voorziening afgewezen en beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:2529:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Alkmaar</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: HAA 20/916 en HAA 20/922</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 25 maart 2020 op het beroep en het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoekster] , te [woonplaats] , verzoekster</bridgehead>
+    <para>(gemachtigde: mr. M.T.A.M. Mes),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Het dagelijks bestuur van WerkSaam Westfriesland, verweerder</bridgehead>
+    <para>(gemachtigde: M.R. Ooievaar).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 4 februari 2020 (het primaire besluit) heeft verweerder de uitbetaling van bijstand aan verzoekster vanaf 23 januari 2020 geblokkeerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 februari 2020 (het bestreden besluit) heeft verweerder het bezwaar van verzoekster ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen het bestreden besluit beroep ingesteld. Tevens heeft verzoekster de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 11 maart 2020. Verzoekster is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Na afloop van de zitting is de voorzieningenrechter tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    <para />
+    <para>2. Verzoekster stelt spoedeisend belang te hebben bij het treffen van een voorlopige voorziening, omdat zij geen inkomsten heeft en daardoor niet in haar levensonderhoud en dat van haar minderjarige kind kan voorzien en haar vaste lasten niet meer kan betalen.  Naar het oordeel van de voorzieningenrechter heeft verzoekster dit ter zitting voldoende toegelicht en heeft zij een spoedeisend belang bij het verzoek daarmee voldoende aannemelijk gemaakt.</para>
+    <para />
+    <para>3. Verzoekster ontvangt vanaf 6 maart 2013 een uitkering op grond van de Participatiewet (PW). Naar aanleiding van een melding, inhoudende dat verzoekster een relatie zou hebben met [naam] (verder: [naam] ) en het vermoeden bestaat dat zij samenwonen op het adres van verzoekster, is verweerder een onderzoek gestart naar de rechtmatigheid van de aan haar verleende bijstand. In dat kader is dossieronderzoek gedaan en zijn bij diverse instanties gegevens opgevraagd. In de periode van 25 november 2019 tot en met 21 januari 2020 hebben waarnemingen plaatsgevonden bij het adres van verzoekster. Vervolgens heeft er op 21 januari 2020 een huisbezoek op het adres van verzoekster plaatsgevonden. Tevens zijn er een aantal getuigen gehoord. </para>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Bij brief van 21 januari 2020 heeft verweerder verzoekster uitgenodigd voor een gesprek op 21 januari 2020. In verband met een tandartsbezoek van verzoekster is dit gesprek niet doorgegaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Bij brief van 22 januari 2020 heeft verweerder verzoekster, onder verwijzing naar het onderzoek zoals genoemd onder rechtsoverweging 3, uitgenodigd voor een gesprek op 23 januari 2020, waarbij zij diende mee te nemen:</para>
+        <para>- de brief en een geldig legitimatiebewijs;<?linebreak?>- de afschriften van alle bankrekeningen waarover zij de beschikking heeft vanaf 1 januari 2017. <?linebreak?></para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Op 23 januari 2020 heeft er een gesprek met verzoekster plaatsgevonden over het vermoeden van het voeren van een gezamenlijke huishouding. Omdat verzoekster hierbij niet (voldoende) had gereageerd op de brief van 22 januari 2020, heeft verweerder bij besluit van 23 januari 2020 verzoeksters bijstandsuitkering vanaf 23 januari 2020 opgeschort en haar nogmaals verzocht om de reeds eerder gevraagde gegevens. Omdat verzoekster hieraan ook niet volledig heeft voldaan, heeft verweerder verzoekster bij brief van 30 januari 2020 nogmaals verzocht de gegevens te overleggen voor 6 februari 2020. Op 31 januari 2020 heeft verzoekster de bankafschriften ingeleverd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>Vervolgens heeft verweerder op 4 februari 2020 het primaire besluit genomen, waarin staat:<?linebreak?>“<emphasis role="bold">Opschorting uitkering</emphasis><?linebreak?>Wij hebben in een hersteltermijn van u gegevens gevraagd in het kader van het eerder genoemde onderzoek.(…) Dit betekent dat wij de opschorting van uw uitkering hierbij ongedaan maken.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Blokkeren betaling uitkering<?linebreak?>De door u ingeleverde bankafschriften leveren voor ons dusdanig veel vragen op dat wij hebben besloten de betaling van uw uitkering te blokkeren. Dit betekent dat wij uw recht op uitkering vanaf 23 januari 2020 (voorlopig) niet uitbetalen.</title>
+    <para />
+  </section>
+  <section>
+    <title>Uitnodiging voor een gesprek</title>
+    <para>In verband met de vragen die zijn gerezen en de afhandeling van het onderzoek nodigen wij u nogmaals uit voor een gesprek.”</para>
+    <para />
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Op 13 februari 2020 heeft vervolgens een gesprek met verzoekster plaatsgevonden, over de bankafschriften.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Bij afzonderlijk besluit van 25 februari 2020 heeft verweerder het bezwaarschrift van verzoekster tegen de opschorting van haar uitkering ongegrond verklaard. </para>
+      <para />
+      <para>4. Bij het bestreden besluit heeft verweerder het bezwaar van verzoekster ongegrond verklaard. Daaraan heeft verweerder ten grondslag gelegd dat het recht op bijstand hangende het onderzoek terecht is geblokkeerd, omdat uit het voorlopig onderzoek van de afdeling Handhaving naar voren komt dat verzoekster een gezamenlijke huishouding voert met [naam] waardoor zij niet langer zelfstandig recht zou hebben op een bijstandsuitkering, hetgeen zij niet heeft gemeld. Daarbij komt uit de bankafschriften naar voren dat er geld op haar rekening is gestort en kan zij de herkomst van deze stortingen niet verklaren. Bovendien heeft zij het ontvangen van de stortingen niet aan verweerder doorgegeven. Als gevolg van het voorgaande heeft verzoekster de inlichtingenplicht geschonden.</para>
+      <para />
+      <para>5. Of het blokkeren of stopzetten van de betaling van bijstand is geoorloofd, hangt volgens vaste jurisprudentie van de Centrale Raad van Beroep (CRvB), uitspraak van 28 april 2015, ECLI:NL:CRVB:2015:1387, af van het antwoord op de vraag of het bijstandverlenend orgaan op goede gronden van oordeel is, althans ten minste het gegronde vermoeden kan hebben, dat een betrokkene geen recht (meer) heeft op een (volledige) bijstandsuitkering. Als regel zal daartoe aanleiding bestaan als uit onderzoek gegevens bekend worden die erop duiden dat een betrokkene zijn wettelijke inlichtingenverplichting niet of niet volledig is nagekomen, maar nog onvoldoende grondslag bestaat om alvast tot herziening of intrekking van de bijstand over te gaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Verzoekster heeft aangevoerd dat er geen aanleiding bestond voor een blokkering van de uitkering en het in stand houden daarvan. Op grond van de afschriften zou alleen het recht op bijstand van verzoekster kunnen worden herzien, wat ziet op het verleden en niet op het recht op bijstand vanaf 23 januari 2020. Daarbij heeft verzoekster op 13 januari (de voorzieningenrechter begrijpt: februari) 2020 alle vragen beantwoord, zodat in ieder geval op die datum de uitkering had moeten worden gedeblokkeerd. Dat uit een voorlopig onderzoek van de afdeling Handhaving naar voren komt dat verzoekster een gezamenlijke huishouding voert met [naam] is geen reden om het recht op bijstand van verzoekster te blokkeren. Dat onderzoek is al begonnen in november 2019 en de uitkering over de maanden november en december 2019 en januari 2020 is gewoon uitbetaald ondanks dat onderzoek. Ook het gesprek op 23 januari 2020, over het vermoeden dat zij een gezamenlijke huishouding zou voeren met [naam] , is geen aanleiding geweest om het recht op bijstand te blokkeren. Verzoekster heeft de indruk dat het onderzoek naar het eventueel bestaan van een gezamenlijke huishouding nu wordt gebruikt als ondersteuning om het bezwaar tegen het voortduren van de blokkering ongegrond te verklaren. Het onderzoek naar de gezamenlijke huidhouding heeft echter helemaal niets opgeleverd en kan geen aanleiding zijn om de blokkering van het recht op bijstand van verzoekster te handhaven. Desgevraagd heeft verzoekster ter zitting aangegeven zich primair op het standpunt te stellen dat er ten tijde van de blokkering van de uitkering geen redelijk vermoeden bestond dat niet onverkort recht op bijstand bestond en subsidiair dat er ten tijde van het bestreden besluit in ieder geval geen gerechtvaardigd vermoeden hiervoor was.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>De voorzieningenrechter is met verweerder van oordeel dat ten tijde van het primaire besluit een gegrond vermoeden bestond dat verzoekster geen recht (meer) heeft op een (volledige) bijstandsuitkering, maar dat er op dat moment onvoldoende grond was om tot herziening en intrekking over te gaan. Uit de door verzoekster op 31 januari 2020 over de periode van 1 januari 2017 tot en met 23 januari 2020 ingeleverde bankafschriften blijkt onder meer dat in die periode kasstortingen op de rekening van verzoekster zijn gedaan ten bedrage van in totaal € 3.310,- en overboekingen door derden voor een bedrag van in totaal €1.256,-. Alleen al deze stortingen en boekingen, waarover verzoekster verweerder niet heeft ingelicht, rechtvaardigen het hierboven bedoelde vermoeden. Daarom is de conclusie dat verweerder de uitkering van verzoekster op 4 februari 2020 op goede gronden heeft geblokkeerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Verzoekster heeft in haar bezwaarschrift tegen het primaire besluit tevens bezwaar gemaakt tegen het voortduren van de blokkering. Daarbij heeft zij geen datum genoemd, zodat haar bezwaar tegen de voortduring van de blokkering moet worden geacht te zijn gericht tegen (het uitblijven van) de laatste specificatie die nog binnen de bezwaartermijn van zes weken valt. Voorts dient in een op dat bezwaar te nemen besluit de rechtmatigheid van het voortduren van de blokkering vanaf de desbetreffende kalendermaand tot aan het besluit op bezwaar te worden beoordeeld (zie de uitspraak van de CRvB van 2 augustus 2016, ECLI:NL:CRVB:2016:3025). Het voorgaande betekent dat in het onderhavige geval de vraag dient te worden beantwoord of de blokkering gedurende de gehele periode van 23 januari 2020 tot 25 februari 2020 rechtmatig was. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Naar het oordeel van de voorzieningenrechter kan niet worden geoordeeld dat de blokkering, gelet op het voor het vaststellen van het recht op bijstand benodigde onderzoek, ten tijde van het bestreden besluit onredelijk lang duurde. Daarbij betrekt de voorzieningenrechter dat er in de hier te beoordelen periode van een maand onderzoeksactiviteiten van de zijde van verweerder hebben plaatsgevonden. Zo heeft er op 13 februari 2020 een gesprek met verzoekster plaatsgevonden over onder meer de stortingen en overboekingen op haar bankrekening. De verklaringen die verzoekster voor die stortingen en overboekingen heeft gegeven bieden geen (volledige) duidelijkheid over de herkomst van die bedragen. Verweerder moet enige tijd worden gegund om hier nader onderzoek naar te doen, waarbij verweerder ook kan bezien of er een verband is tussen deze stortingen en overboekingen en het uit een eerder aangevangen onderzoek gerezen vermoeden dat verzoekster al enige tijd een gezamenlijke huishouding voert met [naam] . Ten tijde van het bestreden besluit duurde het onderzoek naar het een en ander nog niet onredelijk lang, in aanmerking genomen dat verzoekster de bankafschriften waarom door verweerder al op 22 januari 2020 is gevraagd, pas op 31 januari 2020 heeft overgelegd. </para>
+      <para />
+      <parablock>
+        <para>6.	Het beroep is ongegrond. Omdat het beroep ongegrond is, is er geen aanleiding om een voorlopige voorziening te treffen. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:<?linebreak?>-verklaart het beroep ongegrond;</para>
+      <para>- wijst het verzoek om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L.M. Kos, voorzieningenrechter, in aanwezigheid van mr. M.H. Boomsma, griffier. De beslissing is in het openbaar uitgesproken op 25 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan voor zover daarbij is beslist op het beroep binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

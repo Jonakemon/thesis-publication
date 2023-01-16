@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12167</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-30T14:59:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-25</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 7350</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12167">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12167</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-30T14:59:22</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12167 Rechtbank Den Haag , 25-11-2020 / AWB - 20 _ 7350</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12167:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>8:81 Awb, verzoek toegewezen, motiveringsgebrek, belangenafweging. Belang van verzoekster om niet te worden uitgezet tot een beslissing op bezwaar doorslaggevend. Zij zou anders gescheiden worden van haar zoontje die hier rechtmatig verblijft.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12167:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 20/7350 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [V-nummer]</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 25 november 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [verzoekster] ,</bridgehead>
+    <parablock>
+      <para>geboren op [geboortedatum] , van Chinese nationaliteit, verzoekster,</para>
+      <para>(gemachtigde: [naam] )</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, </bridgehead>
+    <parablock>
+      <para>verweerder,</para>
+      <para>(gemachtigde: [naam] ) </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met het besluit van 24 september 2020 (het bestreden besluit) heeft verweerder de aanvraag van verzoekster om verlening van een verblijfsvergunning regulier met als doel “familieleven op grond van artikel 8 van het EVRM<footnote-ref linkend="_3bba16fb-06c2-43a0-b132-cb5580ec4c82" />” afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen het bestreden besluit bezwaar gemaakt en om een voorlopige voorziening verzocht. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 16 november 2020. Verzoekster is verschenen, bijgestaan door haar gemachtigde. Voorts zijn verschenen [naam] (tolk Manderijn), [naam] (de partner van verzoekster) en [naam] , [functie] . Verweerder is vertegenwoordigd door zijn gemachtigde. De voorzieningenrechter heeft het onderzoek ter zitting gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>Op grond van artikel 8:81 van de Algemene wet bestuursrecht (Awb) gaat de voorzieningenrechter na of onverwijlde spoed, gelet op de betrokken belangen, het treffen van een voorlopige voorziening vereist. Bij de daarvoor vereiste belangenafweging gaat het om een afweging van enerzijds het belang van de verzoeker dat een onverwijlde voorziening wordt getroffen en anderzijds het door de onmiddellijke uitvoering van het besluit te dienen belang.<?linebreak?></para>
+        <para>
+          <emphasis role="italic">Standpunt verweerder</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Verweerder heeft de aanvraag van verzoekster afgewezen, omdat verzoekster niet beschikt over een geldige machtiging tot voorlopig verblijf (mvv) en dat zij niet in aanmerking komt voor vrijstelling van dit mvv-vereiste. De uitzetting van verzoekster is volgens verweerder niet in strijd met artikel 8 van het EVRM.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Verzoekster heeft hier familieleven met de heer [naam] (referent). Referent heeft hier een verblijfsvergunning regulier tot 15 juni 2023. Verzoekster heeft op 8 april 2008 asiel aangevraagd, maar die aanvraag is buitenbehandeling gesteld omdat verzoekster met onbekende bestemming was vertrokken. Sinds november 2010 heeft verzoekster een relatie met referent. Zij hebben ook samen een zoon, [naam] geboren op [geboortedatum] . Verzoekster, haar zoon en referent wonen samen op een adres in [plaatsnaam] . Maar dit wil volgens verweerder niet zondermeer zeggen dat verzoekster dan ook kan worden vrijgesteld van het mvv-vereiste. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Verweerder heeft het belang van het familieleven van verzoekster afgewogen tegen het belang van de Nederlandse staat. Daarover staat in het besluit het volgende. Verzoekster heeft hier nooit een verblijfsvergunning gehad. Dit heeft verweerder in het nadeel van verzoekster laten meewegen. In het voordeel van verzoekster weegt mee dat referent inkomen heeft en haar zoon hier naar school gaat. In het nadeel van verzoekster weegt verweerder mee dat zij destijds zich heeft onttrokken aan het toezicht van de Nederlandse staat en een valse naam had opgegeven. Verzoekster heeft de Nederlandse overheid voor een voldongen feit gesteld door hier een familieleven te beginnen, zonder dat zij hier rechtmatig verblijf had. Verder ziet verweerder geen belemmeringen om het gezinsleven in China uit te oefenen. De zoon en referent worden verondersteld daar nog wel banden te hebben. Verder ziet verweerder geen zodanig privé leven van verzoekster in Nederland, dat zij op grond daarvan moet worden vrijgesteld van het mvv-vereiste. Ook ziet verweerder geen aanleiding voor toepassing van de hardheidsclausule<footnote-ref linkend="_b0d0c874-06c5-4655-9a9d-b8480399d82f" />. Verzoekster kan terug naar China en daar een aanvraag doen. Dat haar zoon het dan drie maanden zonder haar zorg moet stellen, terwijl hij kampt met problemen op leer- en sociaal-emotioneel gebied, acht verweerder niet doorslaggevend. Zo kan referent hulp inschakelen voor de periode dat verzoekster in China is. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Beoordeling door de voorzieningenrechter</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Het geschil spitst zich hier toe op de vraag of verweerder wel de juiste toets voor de hardheidsclausule heeft aangelegd. Verzoekster voert hierbij aan dat zij voldoet aan alle eisen (zo heeft referent een verblijfsvergunning, voldoende inkomen en huisvesting) voor het verkrijgen van een mvv. Verweerder heeft volgens verzoekster hierbij onvoldoende acht geslagen op de Gezinsherenigingsrichtlijn<footnote-ref linkend="_ef09e9e2-2409-414b-9893-afd9198c3927" />. Verzoekster heeft onder andere verwezen naar een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 29 maart 2019<footnote-ref linkend="_95c6b17b-9bc7-48d4-b116-3d687ea6b483" />. Het gaat er om dat wanneer een vreemdeling bijzondere, persoonlijke feiten en omstandigheden aanvoert, die wellicht op zichzelf genomen niet voldoende zijn voor vrijstelling van het mvv-vereiste, maar in combinatie met de omstandigheid dat die vreemdeling aan alle materiële vereisten voor gezinshereniging voldoet, er wel toe kunnen leiden dat het verder zou gaan dan noodzakelijk is, indien verweerder vast zou houden aan het mvv-vereiste. De vraag of een vreemdeling aan alle materiële vereisten voor gezinshereniging voldoet dient verweerder te betrekken bij de beoordeling of de vreemdeling moet worden vrijgesteld van het mvv-vereiste. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Verweerder heeft op de zitting en in het verweerschrift – mede onder verwijzing naar de hierboven genoemde uitspraak van de Afdeling - aangevoerd dat het voldoen aan alle voorwaarden voor verlening van de verblijfsvergunning voor het gestelde verblijfsdoel geen reden is om de hardheidsclausule toe te passen. Verder heeft verweerder aangevoerd dat uit de uitspraak van de Afdeling van 29 maart 2019 niet kan worden afgeleid dat in het kader van ieder beroep op de hardheidsclausule moet worden onderzocht of aan alle overige verblijfsvoorwaarden wordt voldaan. Verweerder heeft in dit verband ook nog gewezen op onder andere de uitspraak van de Afdeling van 16 maart 2020<footnote-ref linkend="_66d2ad3d-f9bd-4011-9f08-3e411154b7b6" />. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>In deze zaak verschillen partijen niet wezenlijk over het antwoord op de vraag of verzoekster voldoet aan de materiële vereisten voor gezinshereniging. Gelet op de uitspraak van de Afdeling van 29 maart 2019 moet verweerder, wanneer een aanvrager om vrijstelling van het mvv-vereiste verzoekt, beoordelen of de aangevoerde bijzondere, persoonlijke feiten en omstandigheden, die wellicht op zichzelf genomen niet voldoende zijn voor vrijstelling, toch tot vrijstelling van het mvv-vereiste kunnen leiden. Daartoe moet verweerder beoordelen of het, gelet op de aangevoerde omstandigheden, onevenredig bezwarend zou zijn om vast te houden aan het mvv-vereiste, als de aanvrager daarnaast aan alle materiële vereisten voor gezinshereniging voldoet. Anders dan verweerder is de voorzieningenrechter van oordeel dat verweerder in het bestreden besluit onvoldoende is ingegaan op de vraag of het onevenredig bezwarend zou zijn om van verzoekster te verlangen dat zij, enkel om te voldoen aan het mvv-vereiste, voor drie maanden zou moeten terugkeren naar China. Verweerder heeft de door verzoekster aangevoerde persoonlijke feiten en omstandigheden weliswaar beoordeeld en daarover het standpunt ingenomen dat die niet leiden tot vrijstelling van het mvv-vereiste op grond van de hardheidsclausule, maar daarbij is verweerder niet ingegaan op de toets zoals die door de Afdeling is geformuleerd in rechtsoverweging 4.5 van de uitspraak van 29 maart 2019. Deze houdt in dat als de aangevoerde feiten en omstandigheden op zichzelf genomen niet voldoende zijn om in aanmerking te komen voor vrijstelling van het mvv-vereiste, verweerder wel moet beoordelen of het onevenredig bezwarend zou zijn om vast te houden dat vereiste, als de vreemdeling daarnaast aan alle materiële vereisten zou voldoen. Omdat verweerder dat niet heeft beoordeeld, is het besluit ondeugdelijk gemotiveerd. </para>
+      <para />
+      <para>4. Hoewel dit motiveringsgebrek misschien nog wel hersteld kan worden in de nog te nemen beslissing op bezwaar, ziet de voorzieningenrechter bij afweging van alle betrokken belangen, aanleiding om het verzoek toe te wijzen en het bestreden besluit te schorsen tot vier weken naar de nog te nemen beslissing op bezwaar. Hierbij kent de voorzieningenrechter doorslaggevend gewicht toe aan de belangen van verzoekster en haar zoon, om zolang de bezwaarprocedure loopt, niet van elkaar gescheiden te worden door uitzetting van verzoekster. </para>
+      <para />
+      <para>5. De voorzieningenrechter veroordeelt verweerder in de door verzoekster gemaakte proceskosten. Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het verzoekschrift en 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,-, en een wegingsfactor 1). Indien aan verzoekster een toevoeging is verleend, moet verweerder de proceskostenvergoeding betalen aan de rechtsbijstandsverlener. De voorzieningenrechter bepaalt verder dat verweerder aan verzoekster het door haar betaalde griffierecht vergoedt van € 178,-. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <para>- wijst het verzoek om voorlopige voorziening toe;</para>
+    <para>- schorst het bestreden besluit tot vier weken na de beslissing op bezwaar; </para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 178,- aan verzoekster te vergoeden;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoekster tot een bedrag van € 1.050,-. </para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.J.M. Langeveld, voorzieningenrechter, in aanwezigheid van R.E. Toonen, griffier. De beslissing is in het openbaar uitgesproken op 25 november 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de griffier </para>
+      <para>						de voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Rechtsmiddel</para>
+      <para>Tegen deze uitspraak staat geen rechtsmiddel open</para>
+    </parablock>
+  </section>
+  <footnote id="_3bba16fb-06c2-43a0-b132-cb5580ec4c82" label="1">
+    <para> Verdrag tot bescherming van de Rechten van de Mens en de fundamentele vrijheden.</para>
+  </footnote>
+  <footnote id="_b0d0c874-06c5-4655-9a9d-b8480399d82f" label="2">
+    <para> Paragraaf B1 artikel 4.1 van de Vreemdelingencirculaire.</para>
+  </footnote>
+  <footnote id="_ef09e9e2-2409-414b-9893-afd9198c3927" label="3">
+    <para> Richtlijn 2003/86/EG inzake het recht op gezinshereniging.</para>
+  </footnote>
+  <footnote id="_95c6b17b-9bc7-48d4-b116-3d687ea6b483" label="4">
+    <para> ECLI:NL:RVS:2019:1001.</para>
+  </footnote>
+  <footnote id="_66d2ad3d-f9bd-4011-9f08-3e411154b7b6" label="5">
+    <para> ECLI:NL:RVS:2020:759.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

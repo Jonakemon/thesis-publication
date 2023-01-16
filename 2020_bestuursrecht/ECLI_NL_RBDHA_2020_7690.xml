@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:7690</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-03T20:59:49</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-06</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 6761</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7690">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:7690</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-01T13:24:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:7690 Rechtbank Den Haag , 06-08-2020 / AWB - 19 _ 6761</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:7690:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>voorschriften; procesbelang afwezig omdat looptijd vajn subsidieprogramma is verstreken; geen rechtsmiddel gebruikt tegen subsidievaststelling</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:7690:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/6761</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 6 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">de besloten vennootschap met beperkte aansprakelijkheid BackMe.org B.V., </bridgehead>
+    <parablock>
+      <para>te Den Haag, eiseres</para>
+      <para>(gemachtigde: mr. J. Herfkens),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het bestuur van het Stimuleringsfonds voor de Journalistiek, verweerder</bridgehead>
+    <para>(gemachtigden: mr. J.P. Heinrich en mr. J. Kennis).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 19 juni 2019 (het primaire besluit) heeft verweerder de deelname aan en de subsidie voor de Accelerator 2019 beëindigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 september 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek heeft met behulp van Skype plaatsgevonden op 30 juni 2020. Namens  eiseres heeft de heer [A] deelgenomen aan de Skype-zitting, bijgestaan door zijn gemachtigde. Tevens hebben de gemachtigden van verweerder deelgenomen aan de Skype-zitting. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>1.	Backme (hierna: eiseres) is een platform dat ‘content creators’ (onderzoeksjournalisten, documentairemakers en fotografen) in staat stelt om hun werk onafhankelijk van advertenties en redacties aan het publiek aan te bieden. In 2018 en 2019 heeft eiseres deelgenomen aan het Accelerator programma (het subsidieprogramma). Dit begeleidingsprogramma verloopt in zogeheten sprints, waarbij elke deelnemer in samenwerking met zijn begeleider kan bepalen welk doel binnen welke periode wordt gesteld. Elke sprint staat gelijk aan een subsidieaanvraag en een evaluatie van de voorgaande sprint. Het begeleidingsprogramma en de daarvoor bedoelde subsidie zijn uitsluitend gericht op de ontwikkeling van een innovatieve oplossing voor een probleem in de journalistiek. Wanneer verweerder akkoord gaat met de opzet van de sprint wordt subsidie verstrekt of een andere vorm van steun geboden om de sprint uit te voeren. De totale duur van het programma bedraagt een half jaar en bestaat uit zes sprints. </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Bij besluit van 3 mei 2019 (het toelatingsbesluit) is eiseres toegelaten tot de Accelerator 2019. In verband met ervaringen rondom de deelname van eiseres in 2018 heeft verweerder in het toelatingsbesluit uitdrukkelijk gewezen op de verdere verscherping van het programma in 2019. Eiseres dient zich hiertoe onder meer te houden aan striktere regels, nieuwe tools en aangepaste werkmethodes. Deze verplichtingen zijn uitdrukkelijk in het toelatingsbesluit opgenomen om eiseres bewust te maken van het belang van strikte naleving van de termijnen, de verantwoordingseisen en andere verplichtingen. Hierbij heeft verweerder benadrukt dat het naleven van deze verplichtingen een basisvoorwaarde is voor toelating en deelname aan het subsidieprogramma. Daarnaast heeft verweerder nog andere verplichtingen verbonden aan het toelatingsbesluit. Deze zijn opgesomd onder artikel 1 t/m 6 in het toelatingsbesluit. Op grond van artikel 1, vijfde lid, van het toelatingsbesluit beoordeelt verweerder bij iedere sprint opnieuw in hoeverre een team voldoet aan de toelatingsvoorwaarden. Als een team niet, of niet langer voldoet aan deze voorwaarden, dan wordt de deelname van dit team aan het subsidieprogramma beëindigd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Eiseres heeft geen rechtsmiddelen ingesteld tegen de verplichtingen en vereisten, zoals vermeld in het toelatingsbesluit, zodat die gelden in de rechtsverhouding tussen eiseres en verweerder.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <para>Bij besluiten van 17 mei 2019 en 5 juni 2019 heeft verweerder op grond van de Regeling vaststelling tijdelijke subsidieregeling journalistieke innovatie 2019 (de Regeling) aan eiseres subsidie verleend voor sprint 1 en sprint 2. </para>
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Op 4 juni 2019 heeft een bespreking plaatsgevonden tussen de begeleider en (het team van) eiseres. Tijdens deze bespreking heeft de begeleider eiseres op de hoogte gesteld van de opvattingen van verweerder en hierbij aangegeven dat eiseres zich herhaaldelijk niet coöperatief heeft opgesteld en zich niet heeft gehouden aan de verplichtingen die zijn verbonden aan deelname aan het subsidieprogramma. Tussen 4 en 18 juni 2019 heeft eiseres aan haar begeleider te kennen gegeven geen meetsysteem te hanteren voor de experimenten in sprint 2. Ook de door verweerder aangedragen alternatieven voor het gebruikelijke meetsysteem heeft eiseres niet aanvaard. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Bij het primaire besluit heeft verweerder de subsidie(relatie) met onmiddellijke ingang beëindigd (het beëindigingsbesluit). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Eiseres is in de gelegenheid gesteld om haar bezwaren tegen dit besluit tijdens een hoorzitting toe te lichten. Eiseres heeft hiervan geen gebruik gemaakt. </para>
+      <para />
+      <para>2. Bij het bestreden besluit heeft verweerder het primaire besluit gehandhaafd en het bezwaar van eiseres ongegrond verklaard. Hieraan heeft verweerder ten grondslag gelegd dat eiseres zich niet aan de basisverplichting van het verlenen van loyale medewerking aan het subsidieprogramma heeft gehouden. Uit het door verweerder opgestelde Backme dossier 2019 volgt dat eiseres zich bij herhaling niet aan werkafspraken heeft gehouden, stukken te laat of onvolledig heeft ingediend en onjuiste informatie heeft verstrekt. Hierdoor is de uitvoering van de experimenten in het subsidieprogramma bemoeilijkt en bestond voor verweerder geen zicht meer op een verdere coöperatieve deelname en medewerking van eiseres aan het subsidieprogramma. Hiermee heeft eiseres de aan de subsidie verbonden verplichtingen geschonden. </para>
+      <para />
+      <para>3. Eiseres is het niet eens met het bestreden besluit en voert, kort weergegeven, aan dat verweerder uitgaat van onjuist vastgestelde feiten. Verweerder heeft achteraf een dossier opgebouwd (Backme dossier van 1 augustus 2019), waaruit volgens verweerder blijkt dat eiseres ‘niet mee wil werken’ en ‘zaken te laat, in verkeerde vorm en met verkeerde inhoud aanlevert’. Door van onvolledige, onjuiste en eenzijdig gepresenteerde feiten uit te gaan, heeft verweerder in strijd gehandeld met het zorgvuldigheids- , het gelijkheids-, het motiverings- en het evenredigheidsbeginsel. Het beëindigen van de deelname van eiseres en het stopzetten van de subsidie is in strijd met de wet. </para>
+      <para />
+      <para>4. De rechtbank overweegt het volgende. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Procesbelang</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Alvorens aan de inhoud van het beroep kan worden toegekomen, moet de rechtbank de vraag beantwoorden of eiseres belang heeft bij een oordeel van de rechtbank over de rechtmatigheid van het bestreden besluit. Volgens vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling), bijvoorbeeld de uitspraak van 25 oktober 2017 (ECLI:NL:RVS:2017:2862), is slechts sprake van voldoende belang indien de indiener van een beroepschrift daarbij een actueel en reëel belang heeft. Het resultaat dat de indiener nastreeft, moet daadwerkelijk kunnen worden bereikt en voor hem of haar feitelijk betekenis hebben.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Verweerder stelt zich, onder verwijzing naar de hiervoor vermelde uitspraak van de Afdeling, op het standpunt dat eiseres geen belang meer heeft bij deze beroepsprocedure, omdat toelating van eiseres tot het subsidieprogramma niet langer mogelijk is nu dit programma inmiddels is afgelopen. Daarnaast heeft verweerder gesteld dat inmiddels bij besluiten van 24 oktober 2019 vaststellingsbesluiten zijn genomen, waarbij de subsidieaanspraak van eiseres in verband met sprint 2 op nihil is vastgesteld. Tegen dit besluit heeft eiseres geen rechtsmiddelen aangewend. Evenmin heeft eiseres aannemelijk gemaakt dat zij enige schade heeft geleden doordat haar deelname aan het subsidieprogramma voortijdig is beëindigd, aldus verweerder. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>Eiseres heeft tijdens haar deelname aan de skype-zitting betoogd dat zij wel belang heeft bij haar beroep. Zij is immers subsidie misgelopen. Eiseres heeft voorts reputatieschade geleden als gevolg van de bekendmaking van het beëindigingsbesluit aan de andere deelnemers van het subsidieprogramma. Eiseres is hierdoor aan de publieke schandpaal genageld voordat zij in de gelegenheid is gesteld op de vermeende verwijten te reageren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>De rechtbank stelt vast dat eiseres niet meer kan deelnemen aan het subsidieprogramma, omdat dit inmiddels is afgelopen. Niet is gesteld dat eiseres in de toekomst weer aan het subsidieprogramma zou willen deelnemen, zodat niet kan worden vastgesteld dat belang is gelegen in een mogelijke toekomstige subsidierelatie. Gelet op het voorgaande heeft een beoordeling van de rechtmatigheid van het beëindigingsbesluit geen feitelijke betekenis. Het betoog van eiseres dat zij desalniettemin belang heeft bij haar beroep, omdat zij subsidie is misgelopen, slaagt niet. De rechtbank overweegt daartoe dat inmiddels in rechte is komen vast te staan dat de subsidieaanspraak van eiseres in verband met sprint 2 op nihil is vastgesteld. Verder is niet gesteld dat zij experimenten op eigen kosten heeft uitgevoerd die anders in latere sprints mogelijk zouden zijn vergoed als de subsidierelatie niet was beëindigd. De door eiseres gestelde reputatieschade levert evenmin belang op bij het beroep, nu eiseres met de enkele, niet onderbouwde, stelling dat zij reputatieschade heeft geleden naar het oordeel van de rechtbank niet aannemelijk heeft gemaakt dat zij daadwerkelijk schade heeft geleden als gevolg van het bestreden besluit. Een begin van bewijs ontbreekt immers. Daar komt bij dat niet is gebleken dat de gestelde reputatieschade een direct gevolg is van het beëindigingsbesluit. Eiseres betoogt immers dat juist het delen van de informatie over het beëindigen van de subsidie met de andere deelnemers ervoor heeft gezorgd dat de gestelde reputatieschade is ontstaan. De rechtbank ziet het delen van de informatie als een feitelijke handeling die los staat van het beëindigingsbesluit, zodat de causaliteit tussen de gestelde reputatieschade en het besluit ontbreekt. De door haar gestelde schade levert dan ook geen belang op bij het beroep.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>De rechtbank is van oordeel dat eiseres geen belang heeft bij haar beroep, zodat het beroep niet-ontvankelijk zal worden verklaard. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <parablock>
+        <para>5.	Hoewel de rechtbank, gelet op het voorgaande, niet toekomt aan de beoordeling van de beroepsgronden overweegt de rechtbank het volgende ten overvloede. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>De rechtbank stelt vast dat eiseres zich herhaaldelijk niet heeft gehouden aan de voorschriften en voorwaarden verbonden aan de subsidie. Zo weerspreekt eiseres bijvoorbeeld niet dat zij experimentkaarten en facturen onvolledig en te laat heeft ingediend en dat experimenten niet overeenkomstig de afspraken zijn uitgevoerd. Ook is btw meegerekend bij het factureren en betwist eiseres niet dat zij geen gebruik wilde maken van het meetinstrument <emphasis role="italic">Google Analytics</emphasis> bij de uitvoering van experimenten in het kader van sprint 2 en heeft evenmin in overeenstemming met verweerder een alternatief meetsysteem toegepast.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>De rechtbank ziet in hetgeen eiseres heeft betoogd geen rechtvaardiging voor het niet naleven van de aan de subsidie verleende voorschriften en vereisten. Daarbij verwijst de rechtbank naar het toelatingsbesluit, waarin de voorwaarden en verplichtingen duidelijk zijn opgenomen. Gelet hierop had het voor eiseres voldoende duidelijk moeten zijn waar zij aan moest voldoen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Verweerder heeft in het bestreden besluit en in het verweerschrift afdoende toegelicht dat eiseres structureel niet zorgvuldig omging met de aan de subsidie verbonden verplichtingen en dat met name de weigering van eiseres om het meetinstrument <emphasis role="italic">Google Analytics</emphasis> of een door verweerder aangedragen alternatief te gebruiken voor verweerder de druppel was die de emmer deed overlopen, nu het gebruik van een meetinstrument bij de uitvoering van experimenten een cruciale verplichting betreft, hetgeen ook duidelijk is omschreven in het document “Roadmap Accelerator 2019” onder 3C. Als de resultaten niet kunnen worden gemeten hebben de experimenten immers geen nut. Uit het Backme dossier blijkt verder dat dit met eiseres is besproken, zodat de rechtbank eiseres niet kan volgen in haar betoog dat het beëindigingsbesluit is genomen zonder enig overleg of voorafgaande waarschuwing. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>De rechtbank volgt eiseres niet in haar betoog dat zij ‘gewoon’ voldeed aan de vereisten voor deelname en subsidie, dat het niet naleven van deze verplichtingen haar zwaarder dan de andere deelnemers is aangerekend en dat de beëindiging van de subsidierelatie een buitenproportionele reactie is op wat in de beleving van eiseres kleine, niet structurele en/of inmiddels opgeloste misstappen waren. Hierbij is van belang dat – zoals ook hiervoor is overwogen – eiseres reeds bij aanvang van de subsidierelatie gewezen is op het feit dat de regels strikt dienen te worden nageleefd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>De rechtbank constateert verder dat de beroepsgronden grotendeels een herhaling zijn van wat eiseres in bezwaar naar voren heeft gebracht. Verweerder is hierop in het bestreden besluit voldoende gemotiveerd ingegaan. Eiseres heeft niet concreet aangevoerd op welke wijze die motivering van verweerder de rechterlijke toets niet kan doorstaan. Er is voor de rechtbank daarom geen aanleiding voor bespreking van die gronden.<?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>5.6.</nr>
+      <para>Van strijd met de door eiseres ingeroepen algemene beginselen van behoorlijk bestuur is de rechtbank niet gebleken. </para>
+      <para />
+      <parablock>
+        <para>6.	Gezien het vorenstaande heeft verweerder zich op goede gronden op het standpunt gesteld dat eiseres niet heeft voldaan aan de aan de subsidie verbonden verplichtingen en was verweerder bevoegd om de subsidie in te trekken op grond van artikel 4:48, eerste lid, onder b, van de Awb. </para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep niet-ontvankelijk.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 6 augustus 2020 door mr. G.P. Kleijn, voorzitter, en mr. D. Biever en mr. M.J.L. van der Waals, leden, in aanwezigheid van mr. J.R. van Veen, griffier. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

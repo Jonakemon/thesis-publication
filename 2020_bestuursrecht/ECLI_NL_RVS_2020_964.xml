@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:964</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-01T10:32:29</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201801582/4/R2</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:964">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:964</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-01T10:17:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:964 Raad van State , 01-04-2020 / 201801582/4/R2</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:964:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij tussenuitspraak van 30 oktober 2019, ECLI:NL:RVS:2019:3662, heeft de Afdeling het college opgedragen om binnen 12 weken na verzending van de tussenuitspraak met inachtneming van hetgeen daarin is overwogen het besluit van 24 juni 2019 waarbij een omgevingsvergunning is verleend voor het bouwen van een bouwwerk en het veranderen of aanbrengen van een uitweg aan de Oudelandseweg 44, te herstellen.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:964:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201801582/4/R2.</para>
+    <para>Datum uitspraak: 1 april 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak in het geding tussen:</para>
+    <para>[appellant A] en [appellant B] (hierna: tezamen en in enkelvoud: [appellant]), wonend te Woerden,</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Woerden,</para>
+    <para>verweerder.</para>
+    <para>Procesverloop</para>
+    <para>Bij tussenuitspraak van 30 oktober 2019, ECLI:NL:RVS:2019:3662, heeft de Afdeling het college opgedragen om binnen 12 weken na verzending van de tussenuitspraak met inachtneming van hetgeen daarin is overwogen het besluit van 24 juni 2019 waarbij een omgevingsvergunning is verleend voor het bouwen van een bouwwerk en het veranderen of aanbrengen van een uitweg aan de Oudelandseweg 44, te herstellen.</para>
+    <para>Bij besluit van 18 november 2019 heeft het college ter uitvoering van voormelde tussenuitspraak een gewijzigde omgevingsvergunning verleend voor het bouwen van een bouwwerk en het veranderen of aanbrengen van een uitweg aan de Oudelandseweg 44.</para>
+    <para>Daartoe in de gelegenheid gesteld heeft [appellant] een zienswijze naar voren gebracht.</para>
+    <para>Het college heeft een verweerschrift ingediend waarin is ingegaan op de zienswijze.</para>
+    <para>[appellant] en [belanghebbende] hebben nadere stukken ingediend.</para>
+    <para>De Afdeling heeft de zaak opnieuw aangevangen in een gewijzigde samenstelling in verband met het vertrek van het lid van de enkelvoudige kamer.</para>
+    <para>Geen der partijen heeft binnen de gestelde termijn verklaard gebruik te willen maken van het recht opnieuw ter zitting te worden gehoord, waarna de Afdeling het onderzoek heeft gesloten.</para>
+    <para>Overwegingen</para>
+    <para>1.    De Afdeling heeft in de tussenuitspraak naar aanleiding van het beroep van [appellant] overwogen dat het besluit van 24 juni 2019 een gebrek bevat en heeft daartoe het volgende overwogen. Op grond van de vigerende Nota Parkeernomen uit 2014 dienen 36 parkeerplaatsen te worden gerealiseerd. In het belang van de ruimtelijke kwaliteit is ervoor gekozen 2 parkeerplaatsen te laten vervallen vanwege de ontsluiting van het appartementengebouw voor de voetgangers en het realiseren van een plant vak voor een boom. De Afdeling acht gelet op de door het college aangedragen motivering aannemelijk dat het autobezit onder de verwachte doelgroep (senioren) lager blijkt te zijn dan bij andere doelgroepen en dat het 2de autobezit afneemt naarmate de leeftijd toeneemt. Evenwel volgt uit de omgevingsvergunning niet voor welke doelgroep de appartementen bestemd zijn. Tevens is niet gebleken dat bijvoorbeeld gelet op de indeling van de appartementen en de faciliteiten in de openbare ruimten het complex in het bijzonder geschikt zal zijn voor senioren. Gelet hierop is niet verzekerd dat in de appartementen uitsluitend of overwegend senioren komen te wonen en dat het realiseren van 34 parkeerplaatsen geen onevenredige afbreuk doet aan de parkeersituatie ter plaatse.</para>
+    <para>1.1.    Dit gebrek leidt tot het oordeel dat het besluit van 24 juni 2019 niet in overeenstemming is met het bij besluit van 20 december 2017 vastgestelde bestemmingsplan "Oudelandseweg 44" omdat niet inzichtelijk is gemaakt dat is voldaan aan het geformuleerde criterium voor afwijking zoals opgenomen in artikel 7, lid 7.1, onder c, van de planregels. Het beroep van [appellant] is gegrond, zodat het besluit van 24 juni 2019 dient te worden vernietigd.</para>
+    <para>1.2.    Het college heeft bij besluit van 18 november 2019 naar aanleiding van het genoemde gebrek de omgevingsvergunning gewijzigd. De wijziging houdt in dat in de situatietekening die deel uitmaakt van de bij het besluit van 18 november 2019 verleende omgevingsvergunning is voorzien in twee extra parkeerplaatsen met een totaal van 36 parkeerplaatsen. Hiermee is, aldus het college, voldaan aan de parkeernorm uit het bestemmingsplan en behoeft niet inzichtelijk te worden gemaakt dat is voldaan aan het criterium voor afwijking zoals opgenomen in artikel 7, lid 7.1, onder c, van de planregels.</para>
+    <para>2.    Het besluit van 18 november 2019 is ingevolge artikel 6:19 van de Algemene wet bestuursrecht (hierna: de Awb) mede onderwerp van het geding. Het beroep van [appellant] wordt geacht mede te zijn gericht tegen dit besluit.</para>
+    <para>2.1.    Voor zover [appellant] in haar zienswijze tegen het nieuwe besluit betoogt dat het college heeft verzuimd om aan haar een afschrift te doen toekomen van dat besluit overweegt de Afdeling dat het besluit van 18 november 2019 is gepubliceerd in de Woerdense Courant van 20 november 2019. Anders dan de opdracht luidt in de tussenuitspraak van 30 oktober 2019 heeft het college de uitkomst van de bestuurlijke lus niet meegedeeld aan [appellant]. In het nadere stuk heeft het college verklaard hiervan te hebben afgezien omdat uit correspondentie bleek dat de Afdeling de aanbiedingsbrief van het college van 25 november 2019 en het besluit van 18 november 2019 al aan [appellant] had verstuurd. Uit de zienswijze van [appellant] blijkt dat zij van de Afdeling deze brief met het besluit heeft ontvangen. Tevens heeft zij ook tijdig een zienswijze ingebracht tegen het besluit van 18 november 2019. Gelet hierop zijn haar belangen in zoverre niet geschaad. Het betoog faalt.</para>
+    <para>2.2.    In de zienswijze heeft [appellant] naar voren gebracht dat met het vergunnen van twee extra parkeerplaatsen is voldaan aan de parkeernorm uit het bestemmingsplan . Voorts heeft zij betoogt dat in de gewijzigde situatietekening, evenals de voorgaande tekening het aantal te bouwen appartementen te hoog is in verhouding tot de grootte van de bouwkavel. Ook biedt de bij de omgevingsvergunning behorende bouwtekening geen inzicht waar de fietsen en afvalcontainers geplaatst kunnen worden. Tevens betoogt [appellant] dat welstandscriteria met voeten worden getreden met het plan. Ten slotte betoogt [appellant] dat het college heeft verzuimd om aan haar een afschrift te doen toekomen van het gewijzigde besluit ook gelet op de opdracht in de tussenuitspraak van 30 oktober 2019.</para>
+    <para>2.3.    De Afdeling constateert, met partijen, dat met de gewijzigde situatietekening die voorziet in 36 parkeerplaatsen, het in de tussenuitspraak van 18 november 2019 gesignaleerde gebrek is hersteld. Daarmee heeft het college voldaan aan de in de tussenuitspraak gegeven opdracht.</para>
+    <para>2.4.    Voor zover [appellant] argumenten aanvoert die geen betrekking hebben op het aantal vergunde parkeerplaatsen betreft dit telkens aspecten die geen onderwerp vormen van de door de Afdeling aan het college gegeven opdracht, die immers uitsluitend ziet op de aanwezigheid van parkeerplaatsen, voor auto’s. Niet kan worden aanvaard dat, behoudens het geval dat een verandering van omstandigheden daartoe aanleiding geeft, in een zienswijze tegen een nadere motivering na toepassing van artikel 8:51d van de Awb, een appellant nieuwe argumenten kan aanvoeren om te bewerkstellingen dat de rechter terugkomt van een in de eerdere uitspraak als definitief bedoelde verwerping van een beroepsgrond. Een andere opvatting zou op onaanvaardbare wijze afbreuk doen aan de rechtszekerheid van andere partijen in een procedure als deze. Omdat het besluit op de door [appellant] genoemde punten niet is gewijzigd komt de Afdeling niet toe aan een bespreking van deze argumenten.</para>
+    <para>2.5.    Overigens hebben het college en [belanghebbende] ten aanzien van het stallen van fietsen naar voren gebracht dat fietsen kunnen worden geplaatst in de bergingen van de appartementen die zijn opgenomen in de bouwtekeningen. Tevens hebben zij toegelicht dat met de huidige inrichting van het perceel nog steeds voldoende ruimte is om een stalling te realiseren voor fietsen van bezoekers. Verder is door het college en [belanghebbende] naar voren gebracht dat voor het deponeren van afval gebruik zal worden gemaakt van afvalcontainers in de openbare ruimte buiten de gronden waar de omgevingsvergunning betrekking op heeft.</para>
+    <para>2.6.    Het van rechtswege ontstane beroep is ongegrond.</para>
+    <para>3.    Van voor vergoeding in aanmerking komende proceskosten van [appellant] is niet gebleken.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.    verklaart het beroep van [appellant A] en [appellant B] gericht tegen het besluit van het college van burgemeester en wethouders van Woerden van 24 juni 2019 gegrond;</para>
+    <para>II.    vernietigt het besluit van het college van burgemeester en wethouders van Woerden van 24 juni 2019, kenmerk 19U.11057;</para>
+    <para>III.    verklaart het beroep van [appellant A] en [appellant B] tegen het besluit van 18 november 2019 ongegrond;</para>
+    <para>IV.    gelast dat het college van burgemeester en wethouders van Woerden aan [appellant A] en [appellant B] het door hen voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 170,00 (zegge: honderdzeventig euro) vergoedt, met dien verstande dat betaling van genoemd bedrag aan één van hen het bestuursorgaan aan zijn betalingsverplichting heeft voldaan.</para>
+    <para>Aldus vastgesteld door mr. E.A. Minderhoud, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. E.M. Ouwehand, griffier.</para>
+    <para>Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.   </para>
+    <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    <para>Uitgesproken in het openbaar op 1 april 2020</para>
+    <para>224.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

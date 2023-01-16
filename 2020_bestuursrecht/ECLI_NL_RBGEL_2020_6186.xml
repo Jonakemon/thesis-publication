@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:6186</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-02T13:32:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">20-6128</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:6186">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:6186</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-23T15:24:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:6186 Rechtbank Gelderland , 20-11-2020 / 20-6128</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:6186:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Handhaving Noodverordening COVID-19, evenredigheid. Als gevolg van het aanwijzingsbesluit mag de horecazaak van verzoeker twee weken niet geopend zijn. Er is sprake van één overtreding en het besluit heeft grote gevolgen. Verweerder heeft niet gemotiveerd waarom niet gekozen is voor een lichter middel. De voorzieningenrechter wijst het verzoek toe en schorst het aanwijzingsbesluit.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:6186:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ARN 20/6128</para>
+      <para>
+        <?linebreak?>
+        <emphasis role="bold">proces-verbaal van de mondelinge uitspraak van de voorzieningenrechter van 20 november 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <bridgehead role="bold">
+      [verzoeker], te [woonplaats], verzoeker(gemachtigde: B. Brink),</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">De Voorzitter van de Veiligheidsregio Noord- en Oost-Gelderland, verweerder(gemachtigden: mr. I. Ritterbex en mr. M.F.M. van Lent).</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop <?linebreak?>Verweerder heeft in het besluit van 17 november 2020 het pand aan de [locatie] in [woonplaats] (waar horecazaak [naam] is gevestigd) aangewezen als locatie waar het van 16 november 2020 tot 30 november 2020 verboden is om zich daar te bevinden, behalve voor de bewoners van woningen die op de locatie zijn gelegen en voor personen die op de locatie noodzakelijke werkzaamheden verrichten.</title>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het besluit van 17 november 2020 bezwaar gemaakt. Hij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft online plaatsgevonden op 20 november 2020. Verzoeker is verschenen, bijgestaan door zijn gemachtigde. Verweerder is vertegenwoordigd door zijn gemachtigden. Ook was aanwezig M. Huisman, werkzaam bij de gemeente Harderwijk.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Na afloop van de behandeling van de zaak op de zitting heeft de voorzieningenrechter onmiddellijk op de zitting uitspraak gedaan.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para>- schorst het primaire besluit;</para>
+    <para>- draagt verweerder op het griffierecht van € 178,- aan verzoeker te vergoeden.</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter geeft hiervoor de volgende motivering.</para>
+    </parablock>
+    <para />
+    <para>1. In deze uitspraak beoordeelt de voorzieningenrechter of hij aanleiding ziet om het aanwijzingsbesluit te schorsen. De besluitvorming is gebaseerd op de Noodverordening COVID-19 Veiligheidsregio Noord- en Oost-Gelderland 6 november 2019 (de Noodverordening). Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <para>2. Het pand aan de [locatie], waar horecazaak [naam] is gevestigd, is aangewezen als locatie waar het verboden is zich te bevinden. De aanwijzing is met terugwerkende kracht ingegaan per maandag 16 november 2020 (de datum waarop het mondelinge bevel tot aanwijzing is gegeven) en loopt tot maandag 30 november 2020. Verzoeker exploiteert horecazaak [naam] als eenmanszaak. Hij heeft de voorzieningenrechter verzocht het besluit te schorsen, zodat hij zijn horecazaak weer kan openen. </para>
+    <para />
+    <para>3. Partijen zijn het er over eens de horecazaak van verzoeker op 14 november 2020 na 01:00 uur nog geopend was. Uit het mutatierapport van de politie blijkt dat ná 01:00 uur nog driemaal een bezorger en driemaal een klant van de locatie zijn vertrokken. Dit terwijl een eet- en drinkgelegenheid tussen 01:00 en 07:00 uur gesloten moet zijn.<footnote-ref linkend="_d1971c9b-4de3-42f2-a0c0-d0391e65601d" /> Daarom was verweerder bevoegd om handhavend op te treden. </para>
+    <para />
+    <para>4. Volgens verweerder is het noodzakelijk het pand aan te wijzen als verboden locatie. Deze mogelijkheid is opgenomen in artikel 2:5, eerste lid, van de Noodverordening.  </para>
+    <para />
+    <para>5. Verzoeker stelt dat hij in de veronderstelling was dat het toegestaan was om tot 02:00 uur geopend te zijn. Voor wat betreft het tijdstip van 02:23 uur stelt verzoeker dat de klant alleen iets vroeg in de deuropening en dat deze niet geholpen is. De bezorger die om 02:23 uur vertrok, bracht de laatste bestelling na enige vertraging weg. Verzoeker wijst er verder op dat het door de bijzonder pittige tijden en de vele wijzigingen van de noodverordeningen lastig is om van alles goed op de hoogte te blijven. Verzoeker voert verder aan dat zowel de informatiebrief van 26 oktober 2020 (waarmee de gemeente de horeca heeft geïnformeerd over de geldende regels) als het primaire besluit naar een onjuist adres zijn gestuurd en dus door hem niet zijn ontvangen. </para>
+    <para />
+    <para>6. De voorzieningenrechter stelt vast dat de informatiebrief van 26 oktober 2020 en het besluit zijn verzonden aan het adres dat bij de Kamer van Koophandel is geregistreerd als postadres van de horecazaak. Dat is een correcte bekendmaking. Ook anderszins had verzoeker kunnen weten dat de zaak na 01:00 uur gesloten moest zijn. Het lag op de weg van verzoeker om zich beter op de hoogte te stellen van de regels. Dat hij dit niet gedaan heeft, komt voor zijn rekening en risico. </para>
+    <para />
+    <para>7. Verweerder gaat er van uit dat sprake is van zes overtredingen. Maar anders dan verweerder is de voorzieningenrechter van oordeel dat slechts sprake is van één (voortdurende) overtreding. Die overtreding houdt in dat verzoeker de zaak heeft open gehouden tot 02:23 uur, in plaats van tot 01:00 uur. Dat doet geen afbreuk aan de bevoegdheid van verweerder om artikel 2:5, eerste lid, van de Noodverordening toe te passen. </para>
+    <para />
+    <para>8. Wel moet vervolgens worden beoordeeld of verweerder tot deze toepassing had moeten komen. Daarbij is met name van belang of sprake is van evenredigheid. Verweerder heeft in het besluit niet gemotiveerd waarom niet is gekozen voor een lichter middel. In het besluit staat wel dat de duur van de aanwijzing en de omvang van de aangewezen locatie proportioneel is in relatie tot het beoogde doel, maar verweerder legt in het besluit niet uit waarom bijvoorbeeld niet gekozen is voor het opleggen van een (minder ingrijpende) last onder dwangsom. In zoverre is het besluit gebrekkig. Ook op de zitting is die uitleg niet gegeven en is volstaan met de opmerking dat men hard wil optreden tegen overtredingen en dat daarbij geen ander middel past.</para>
+    <para />
+    <para>9. Vast staat dat slechts één overtreding heeft plaatsgevonden en dat niet eerder overtredingen van de Noodverordening of eerdere versies daarvan zijn geconstateerd. De consequentie van de sluiting is bovendien groot; verzoeker mist hierdoor immers twee weken aan inkomsten. Gelet op deze feiten en omstandigheden is in dit geval het belang bij schorsing groter dan het belang van verweerder tot onverkorte handhaving van de aanwijzing. Daarom is er aanleiding om het besluit te schorsen met ingang van heden. </para>
+    <para />
+    <para>10. De voorzieningenrechter wijst het verzoek dus toe en treft de voorlopige voorziening dat het besluit is geschorst per 20 november 2020. </para>
+    <para />
+    <para>11. Omdat de voorzieningenrechter het verzoek toewijst, moet verweerder aan verzoeker het griffierecht vergoeden.<footnote-ref linkend="_a962f077-67c4-4f82-816c-0d2929638aa5" /> Er zijn geen voor vergoeding in aanmerking komende proceskosten. </para>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is uitgesproken in het openbaar op 20 november 2020 door mr. W.P.C.G. Derksen, voorzieningenrechter, in aanwezigheid van mr. M. Kool, griffier.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De voorzieningenrechter en de griffier zijn niet in staat dit proces-verbaal te ondertekenen. </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para>voorzieningenrechter</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van dit proces-verbaal is verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel<?linebreak?>Tegen deze uitspraak staat geen rechtsmiddel open.</title>
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <footnote id="_d1971c9b-4de3-42f2-a0c0-d0391e65601d" label="1">
+    <para> Dit volgt uit artikel 2.0, tweede lid, onder s, van de Noodverordening. In de nieuwe Noodverordening die vanaf 18 november 2020 van kracht is een soortgelijke bepaling opgenomen, maar dan in artikel 2.3, vierde lid, onder b. </para>
+  </footnote>
+  <footnote id="_a962f077-67c4-4f82-816c-0d2929638aa5" label="2">
+    <para> Hierbij is van belang dat verzoeker de nog te ontvangen nota voor het griffierecht eerst zelf moet voldoen. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

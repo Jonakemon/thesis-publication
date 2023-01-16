@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:8436</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-31T15:04:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-18</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL 20.1509 en NL 20.1510</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8436">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8436</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-31T15:04:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-31</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:8436 Rechtbank Den Haag , 18-02-2020 / NL 20.1509 en NL 20.1510</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:8436:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>India, veilig land van herkomst voor eiser. Asielaanvraag op goede gronden afgewezen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:8436:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para>Zittingsplaats Amsterdam</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummers: NL20.1509 (beroep) en NL20.1510 (voorlopige voorziening)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [V-nummer]</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer en de voorzieningenrechter in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , eiser/verzoeker (hierna: eiser)</bridgehead>
+    <para>(gemachtigde: [naam] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: [naam] ).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met het besluit van 18 januari 2020 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd afgewezen als kennelijk ongegrond. Ook is besloten dat eiser Nederland onmiddellijk moet verlaten en is tegen hem een inreisverbod voor de duur van twee jaar uitgevaardigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld en de voorzieningenrechter verzocht om een voorlopige voorziening te treffen, inhoudende te bepalen dat hij niet mag worden uitgezet voordat op zijn beroep is beslist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 11 februari 2020. Eiser en zijn gemachtigde zijn verschenen. Als tolk is verschenen meneer [naam] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. De rechtbank/voorzieningenrechter (hierna: de rechtbank) heeft het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het asielrelaas</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Eiser heeft de Indiase nationaliteit en is geboren op [geboortedatum] . Hij heeft verklaard dat hij in november 2017 vanuit India vertrokken is naar Griekenland, met gebruikmaking van een toeristenvisum. Vanuit Griekenland is hij naar eigen zeggen via Spanje, Frankrijk en België in december 2019 Nederland ingereisd. </para>
+    <para />
+    <para>2. Eiser heeft aan zijn asielaanvraag ten grondslag gelegd dat hij problemen heeft met de familie van [naam] . In 2013 heeft de oom van eiser de verkiezingen in zijn woonplaats gewonnen. [naam] was het niet eens met deze uitkomst. Nadat eisers vader - [naam] - en zijn oom op 5 juli 2013 hadden vergaderd, zijn zij aangevallen door [naam] en zijn (schoon)zonen. [naam] en zijn (schoon)zonen zijn met een auto ingereden op de vader van eiser. Zij hadden wapens, een zwaard en andere scherpe voorwerpen bij zich en hebben de vader van eiser gedood. De politie heeft na het voorval geen actie ondernomen. Eiser heeft gezegd dat hij wraak ging nemen op de moordenaars. Vervolgens zijn er mensen achter eiser aangekomen die zeiden dat ze hem zouden vermoorden, zodat er niemand meer over is die wraak kan nemen. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De relevante elementen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Verweerder heeft in het asielrelaas van eiser de volgende relevante elementen onderscheiden:</para>
+      <para>- de identiteit, nationaliteit en herkomst van eiser;</para>
+      <para>- de problemen van eiser vanwege de dood van zijn vader. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Ondanks het ontbreken vaan identificerende documenten, worden de identiteit, nationaliteit en herkomst door verweerder geloofwaardig geacht. De problemen van eiser vanwege de dood van zijn vader heeft verweerder niet geloofwaardig geacht.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het bestreden besluit </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>4. 	Verweerder heeft de asielaanvraag afgewezen als kennelijk ongegrond, onder meer op grond van artikel 30b, eerste lid, aanhef en onder b, van de Vreemdelingenwet 2000 </para>
+        <para>(Vw 2000). Hieraan heeft verweerder ten grondslag gelegd dat India voor eiser een veilig land van herkomst is en dat hij voor zijn gestelde problemen de bescherming van de Indiase autoriteiten kan inroepen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het oordeel van de rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>De rechtbank stelt voorop dat India door verweerder als een veilig land van herkomst is aangemerkt<footnote-ref linkend="_82371e6f-20f1-423d-ad58-2b47715aeeff" /> en dat eiser niet gemotiveerd heeft betwist dat niet (langer) van deze algemene aanwijzing als veilig land van herkomst kan worden uitgegaan. Het ligt daarom op de weg van de eiser om aannemelijk te maken dat India in zijn specifieke geval toch niet veilig is. Vanwege dit rechtsvermoeden geldt daarbij een hoge drempel. Dit laat echter onverlet dat verweerder hetgeen eiser aanvoert over zijn specifieke individuele omstandigheden zal moeten onderzoeken en zal moeten motiveren of dit er al dan niet toe leidt dat India voor eiser niet veilig is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Naar het oordeel van de rechtbank heeft eiser niet aannemelijk gemaakt dat India voor hem geen veilig land van herkomst is en is niet gebleken dat hij in bewijsnood verkeert. De rechtbank acht voor dit oordeel het volgende van belang.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Allereerst heeft eiser wisselend verklaard over het aantal keren dat hij aangifte heeft gedaan bij de politie. Zo heeft hij tijdens het gehoor veilig land van herkomst in eerste instantie aangegeven dat hij drie keer naar de politie is geweest om aangifte te willen doen, vervolgens tijdens ditzelfde gehoor spreekt hij over twee of drie keren<footnote-ref linkend="_e21c8836-6034-482e-b851-d14c1524d8ac" /> en bij zijn correcties en aanvullingen geeft hij aan drie keer naar de politie te zijn gegaan. Naar het oordeel van de rechtbank heeft verweerder terecht overwogen dat eiser niet deugdelijk heeft uitgelegd waarom hij terugkomt op zijn eerdere, wisselende verklaringen. Dit doet afbreuk aan de geloofwaardigheid van zijn betoog dat hij pogingen heeft ondernomen om bescherming te krijgen in India en de Indiase autoriteiten hem deze niet kunnen bieden. Wat betreft de uitspraak van rechtbank Den Haag, zittingsplaats Amsterdam, van 2 september 2017<footnote-ref linkend="_fe0b882e-a841-4b83-b86f-f6a3e3c2e97d" />, waar eiser zich op dit punt op beroept, wijst de rechtbank er op dat deze uitspraak geen stand heeft gehouden in hoger beroep<footnote-ref linkend="_ea364f74-91da-4151-a9a4-72b24a65142d" />, waardoor die verwijzing hem alleen daarom al niet kan baten. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>Voor zover eiser aangeeft dat uit het feit dat de moordenaars van zijn vader nog steeds niet zijn opgepakt, opgemaakt kan worden dat de Indiase autoriteiten hem geen bescherming kunnen of willen bieden, heeft verweerder terecht opgemerkt dat eiser zich had kunnen wenden tot de hogere autoriteiten in India of tot de politie in een ander gebied in India. Niet gebleken is dat eiser dit heeft gedaan. Dat de politie en rechterlijke macht in India corrupt zijn, zoals eiser betoogt, wordt niet gevolgd, nu hij deze stelling onvoldoende heeft onderbouwd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>Verder heeft verweerder naar het oordeel van de rechtbank terecht geen aanleiding gezien om de door eiser overgelegde, originele documenten<footnote-ref linkend="_237226e1-9b7d-42ca-8174-3bf253fc2802" /> op echtheid te controleren. Ook indien de documenten als echt kunnen worden aangemerkt, heeft eiser daarmee namelijk niet aannemelijk gemaakt dat hij voor zijn gestelde problemen geen effectieve bescherming kan krijgen van de (hogere) Indiase autoriteiten. Hetzelfde geldt voor het eerder overgelegde krantenbericht<footnote-ref linkend="_cbf7bd9f-4be6-47f8-a94f-b2eacf97a4cf" /> dat volgens eiser ziet op de moord op zijn vader. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.6</nr>
+      <para>Omdat eiser niet aannemelijk heeft gemaakt dat India in zijn specifieke geval niet als veilig land van herkomst heeft te gelden, mag verweerder ervan uitgaan dat hij de bescherming van de Indiase autoriteiten kan inroepen voor zijn gestelde problemen vanwege de dood van zijn vader. Dit ongeacht de geloofwaardigheid van die problemen, nu hieruit niet evident blijkt dat er in dat geval sprake is van een situatie waarin het inroepen van bescherming bij voorbaat zinloos is of de dreigende situatie voor hem alleen maar erger zou maken. Verweerder heeft eisers asielaanvraag reeds daarom kunnen afwijzen als kennelijk ongegrond. Vanwege die afwijzingsgrond heeft verweerder eiser een onmiddellijke vertrekplicht kunnen opleggen en was verweerder in beginsel gehouden om tegen hem een inreisverbod voor de duur van twee jaar uit te vaardigen.<footnote-ref linkend="_e1a6bb57-eccc-4974-bced-4676aec30b8f" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.7</nr>
+      <para>Tot slot merkt de rechtbank ten aanzien van de maatregel van bewaring op dat eiser zo nodig nog voor een onderzoek ter zitting zal worden uitgenodigd. Op die zitting zal eiser in de gelegenheid worden gesteld om zijn beroepsgronden over die maatregel nader toe te lichten. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	Verweerder heeft eisers asielaanvraag kunnen afwijzen als kennelijk ongegrond. Het beroep is ongegrond. Omdat op het beroep is beslist, wordt het verzoek om een voorlopige voorziening afgewezen. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank in de zaak met nummer NL20.1509: </para>
+    </parablock>
+    <para>- verklaart het beroep ongegrond. </para>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter in de zaak met nummer NL20.1510: </para>
+    </parablock>
+    <para>- wijst het verzoek om voorlopige voorziening af. </para>
+    <para />
+    <parablock>
+      <para>
+        <?linebreak?>Deze uitspraak is gedaan door mr. A.K. Mireku, (voorzieningen)rechter, in aanwezigheid van D.G.T. de Hoop, griffier<emphasis role="italic">. </emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is in het openbaar gedaan en bekendgemaakt op:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan, voor zover uitspraak is gedaan op het beroep, hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen één week na de dag van bekendmaking. </para>
+    </parablock>
+  </section>
+  <footnote id="_82371e6f-20f1-423d-ad58-2b47715aeeff" label="1">
+    <para> Vgl. de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 10 maart 2017, ECLI:NL:RVS:2017:641.</para>
+  </footnote>
+  <footnote id="_e21c8836-6034-482e-b851-d14c1524d8ac" label="2">
+    <para> Zie pagina 14 en 15 van het gehoor veilig land van herkomst.</para>
+  </footnote>
+  <footnote id="_fe0b882e-a841-4b83-b86f-f6a3e3c2e97d" label="3">
+    <para>ECLI:NL:RBAMS:2017:6864 .</para>
+  </footnote>
+  <footnote id="_ea364f74-91da-4151-a9a4-72b24a65142d" label="4">
+    <para> ECLI:NL:RVS:2018:2538.</para>
+  </footnote>
+  <footnote id="_237226e1-9b7d-42ca-8174-3bf253fc2802" label="5">
+    <para> Volgens eiser twee originele schooldocumenten, de originele overlijdensakte van [naam] en de originele aangifte van zijn oom van de moord op [naam] . </para>
+  </footnote>
+  <footnote id="_cbf7bd9f-4be6-47f8-a94f-b2eacf97a4cf" label="6">
+    <para> https://www.tribuneindia.com/2013/20130707/punjab.htm. </para>
+  </footnote>
+  <footnote id="_e1a6bb57-eccc-4974-bced-4676aec30b8f" label="7">
+    <para> Op grond van achtereenvolgens artikel 62, tweede lid, aanhef onder b, van de Vw 2000 en artikel 66a, eerste lid, aanhef en onder a, van de Vw 2000. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

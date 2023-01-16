@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:294</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-31T17:35:45</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-16</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL 19.16770</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:294">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:294</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-17T11:09:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:294 Rechtbank Den Haag , 15-01-2020 / NL 19.16770</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:294:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Een 65-jarige Syrische asielzoekster, die in Nederland door haar familie wordt verzorgd, hoeft haar asielaanvraag niet in Polen te laten beoordelen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:294:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL19.16770</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [nummer]</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiseres] , eiseres</bridgehead>
+    <para>(gemachtigde: mr. J. Singh),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. M. Singh).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 juli 2019 (het bestreden besluit) heeft verweerder de aanvraag van eiseres van 12 februari 2019 tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd niet in behandeling genomen op de grond dat Polen verantwoordelijk is voor de behandeling van de aanvraag.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft op 18 juli 2019 tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 6 augustus 2019. Eiseres is verschenen, bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde mr. F. Gieskes. De rechtbank heeft het onderzoek geschorst om verweerder in de gelegenheid te stellen medisch onderzoek te laten uitvoeren. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 16 oktober 2019 heeft verweerder de resultaten van dat onderzoek overgelegd. Op 4 november 2019 heeft verweerder een verweerschrift ingediend. Met een bericht van </para>
+      <para>19 november 2019 heeft eiseres daarop gereageerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 7 januari 2020 heeft een tweede zitting plaatsgevonden. Eiseres is vertegenwoordigd door haar gemachtigde. Ook was haar zoon [zoon 1] aanwezig. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde mr. M. Singh. De rechtbank heeft het onderzoek gesloten. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het geschil</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>Eiseres is een 65-jarige Syrische vrouw, geboren op [geboortedag] 1955. Zij komt uit [woonplaats] , aan de Eufraat, in het oosten van Syrië. Eiseres is een weduwe met vijf kinderen. In Syrië woonde zij samen met een van haar zoons, [zoon 2] , en zijn vrouw. Eiseres verklaart dat haar kinderen al eerder uit Syrië zijn gevlucht om te voorkomen dat zij in de oorlog moesten meevechten. Twee van haar zonen hebben rechtmatig verblijf in Nederland, één zoon verblijft in Zweden, en haar twee dochters in Turkije en Duitsland.</para>
+        <para>
+          [woonplaats] werd lange tijd gecontroleerd door de Islamitische Staat. Eiseres is zelf tot eind september 2018 gebleven. Zij verklaart toen te zijn gevlucht omdat haar woning was ingestort na vliegtuigbombardementen en alle mensen die zij kent al waren vertrokken. </para>
+        <para>Haar zoon [zoon 2] en zijn vrouw hebben een asielvergunning in Nederland. Haar andere zoon, [zoon 3] , is al langer in Nederland en is genaturaliseerd tot Nederlander. Eiseres vraagt in Nederland asiel omdat zij net als in Syrië bij haar zoon [zoon 2] wil wonen. Zij voert aan dat zij vanwege haar medische gesteldheid afhankelijk is van zijn zorg. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <parablock>
+        <para>Eiseres is via Wit-Rusland en Polen van Syrië naar Nederland gereisd. Zij is het grondgebied van de Europese Unie ingereisd via Polen. Uit de Dublinverordening (de Verordening (EU) 604/2013) volgt naar verweerder stelt dat Polen in dat geval verantwoordelijk is voor de behandeling van de asielaanvraag van eiseres. Verweerder heeft de Poolse autoriteiten verzocht eiseres terug te nemen. Zij hebben daarmee ingestemd op </para>
+        <para>19 april 2019. Verweerder heeft de aanvraag van eiseres vervolgens niet in behandeling genomen op grond van artikel 30, eerste lid, van de Vreemdelingenwet 2000. Dat heeft tot gevolg dat eiseres dient terug te keren naar Polen, een land waar zij geen familie heeft.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Op de eerste zitting van 6 augustus 2019 heeft verweerder verzocht om aanhouding om de medische gesteldheid van eiseres nader te kunnen onderzoeken. Dat heeft geresulteerd in een rapport van het Bureau Medische Advisering (BMA) van 16 oktober 2019. Uit het rapport komen de volgende conclusies naar voren. Bij eiseres is sprake van een depressief toestandsbeeld en een posttraumatische stressstoornis. Dat uit zich in een sterke doodswens, slechte zelfzorg, slecht slapen met nachtmerries en grote angst bij overvliegende vliegtuigen. De behandelaar schat de suïcidaliteit laag in omdat haar familie voor haar zorgt. Eiseres heeft ook een flinke artrose in haar schouder en knieën. Dat heeft geleid tot een breuk in haar schouder nadat zij van een fiets is gevallen bij een overvliegend vliegtuig. Ze krijgt medische behandeling van een huisarts, een psychiater en een fysiotherapeut en veel medicatie. De huisarts geeft juist aan dat zonder intensieve verzorging van haar kinderen het risico op een nieuwe suïcidepoging bijzonder groot lijkt. Volgens het BMA blijkt uit het dossier niet dat mantelzorg essentieel is voor het slagen van de behandeling. Eiseres kan reizen met voorwaarden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Volgens verweerder vormen de persoonlijke omstandigheden van eiseres geen aanleiding om haar niet over te dragen aan Polen. Eiseres voert aan dat Nederland verantwoordelijk is voor de behandeling van haar asielaanvraag op grond van de artikelen 9, 16 en 17 van de Dublinverordening. De rechtbank beoordeelt dit geschil als volgt. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Artikel 9 van de Dublinverordening</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>2.	Artikel 9 van de Dublinverordening gaat over ‘gezinsleden’. Daaronder vallen volgens de Dublinverordening alleen ouder-kind relaties waarbij sprake is van minderjarige kinderen.<footnote-ref linkend="_6764082b-b279-46fb-bc77-901b39c604c2" /> Dat is hier niet het geval. Al om die reden is de rechtbank met verweerder eens dat het beroep van eiseres op dit artikel niet kan slagen.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Artikel 16 van de Dublinverordening</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Kern van het geschil tussen partijen is de vraag of verweerder de asielaanvraag van eiseres in behandeling moet nemen op grond van artikel 16 van de Dublinverordening. Eiseres heeft gemotiveerd betoogd dat sprake is van een afhankelijkheidsrelatie tussen haar en haar in Nederland wonende zonen, in ieder geval met haar zoon [zoon 2] en zijn vrouw. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <parablock>
+        <para>Artikel 16, eerste lid van de Dublinverordening houdt in, voor zover hier van belang:</para>
+        <para>
+          <emphasis role="italic">Wanneer, wegens een zwangerschap, een pasgeboren kind, een ernstige ziekte, een zware handicap of hoge leeftijd, een verzoeker afhankelijk is van de hulp van zijn kind [..] dat wettig verblijft in een van de lidstaten, [..] zorgen de lidstaten er normaliter voor dat de verzoeker kan blijven bij of wordt verenigd met dat kind [..], op voorwaarde dat er in het land van herkomst familiebanden bestonden, het kind [..] in staat is voor de afhankelijke persoon te zorgen en de betrokkenen schriftelijk hebben verklaard dat zij dit wensen. </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>Zoals volgt uit de preambule (16) van de Dublinverordening is het bestaan van een dergelijke afhankelijkheidsrelatie een bindend verantwoordelijkheidscriterium. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <parablock>
+        <para>De Europese Commissie heeft de Uitvoeringsverordening (EC) 1560/2003 (hierna: Uitvoeringsverordening) vastgesteld<footnote-ref linkend="_2b2a48fd-26c9-46ac-971a-653fe455017d" /> om nader invulling te geven aan de regeling over afhankelijkheidsrelaties. Daaruit blijkt voor zover van belang het volgende: </para>
+        <para>
+          <emphasis role="italic">Artikel 11, tweede lid, bepaalt dat situaties van afhankelijkheid zo veel mogelijk worden beoordeeld op grond van objectieve elementen, zoals medische attesten. Wanneer dergelijke elementen niet voorhanden zijn of niet kunnen worden overgelegd, kunnen de humanitaire redenen alleen worden geacht te zijn bewezen op grond van door de betrokken personen verstrekte overtuigende inlichtingen.</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">Artikel 11, derde lid, bepaalt dat, teneinde te beoordelen of hereniging van de betrokken personen nodig en wenselijk is, rekening wordt gehouden met:</emphasis>
+        </para>
+      </parablock>
+      <para>a. <emphasis role="italic">a) de familiesituatie die bestond in het land van herkomst;</emphasis></para>
+      <para>
+        <emphasis role="italic">b) de omstandigheden die ertoe hebben geleid dat de betrokken personen van elkaar werden gescheiden;</emphasis>
+      </para>
+      <para>
+        <emphasis role="italic">c) de stand van de verschillende in de lidstaten lopende asielprocedures of procedures inzake het vreemdelingenrecht.</emphasis>
+      </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>Uit het beleid van verweerder over afhankelijke personen<footnote-ref linkend="_1f645e1a-ef44-49cb-abb2-0366b36b539c" /> volgt dat verweerder op grond van overgelegde medische stukken, verklaringen van medici en van de vreemdeling vaststelt dat de vreemdeling zorg nodig heeft en daarin afhankelijk is van de hulp van zijn kind die wettig in Nederland verblijft. Verweerder past artikel 16, eerste lid, van de Dublinverordening toe in gevallen waarin:</para>
+      <para>- wordt voldaan aan de criteria die volgen uit artikel 16, eerste lid, van Dublinverordening; en</para>
+      <para>- rekening is gehouden met de voorwaarden genoemd in artikel 11, derde lid, van de Uitvoeringsverordening.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6</nr>
+      <para>Verweerder past dit artikel niet toe in het geval van eiseres omdat volgens verweerder niet is voldaan aan de voorwaarden van artikel 16, eerste lid van de  Dublinverordening. Verweerder betoogt daartoe dat niet blijkt dat sprake is van een afhankelijkheidsrelatie. Het BMA heeft namelijk geconcludeerd dat uit het dossier niet blijkt dat mantelzorg essentieel is voor het slagen van de behandeling. Verder heeft eiseres niet concreet gemaakt welke zorgtaken haar zoon precies verricht. Uit haar verklaringen volgt ook dat met name haar schoondochter veel voor haar doet, maar zij valt niet onder de in artikel 16 van de Dublinverordening genoemde personen. Omdat al niet voldaan is aan de voorwaarden van artikel 16, eerste lid, van de Dublinverordening hoeft verweerder de criteria genoemd in artikel 11, derde lid, van de Uitvoeringsverordening niet meer te beoordelen, aldus verweerder.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7</nr>
+      <parablock>
+        <para>De rechtbank overweegt ten eerste dat de Europese Commissie met de Uitvoeringsverordening beoogd heeft een aantal concrete regelingen uit de Dublinverordening te preciseren.<footnote-ref linkend="_1cd21e61-1bb4-48ad-9e7e-55eff2901876" /> Met artikel 11 van die verordening heeft de Europese Commissie aldus invulling willen geven aan de elementen van beoordeling<footnote-ref linkend="_22bc4af4-f9f2-4de5-9c4c-e3c7137b8da1" /> of sprake is van een afhankelijkheidsrelatie. Het gaat dus niet om aanvullende voorwaarden. </para>
+        <para>Artikel 11, derde lid, van de Uitvoeringsverordening stelt tekstueel gezien ook geen dwingende eisen, maar biedt in het belang van hereniging juist aanknopingspunten om te komen tot toepassing van artikel 16, eerste lid, van de Dublinverordening. Daarbij wordt niet de eis gesteld dat het daarbinnen om medische gegevens dient te gaan.</para>
+        <para>Naar het oordeel van de rechtbank had verweerder bij de beoordeling dan ook moeten betrekken dat eiseres en haar zoon ook in Syrië samenleefden, dat zij door oorlogsgeweld van elkaar zijn gescheiden en dat haar zoon hier al enige jaren een asielvergunning heeft. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8</nr>
+      <para>Uit het BMA-advies volgt verder dat eiseres onder behandeling staat van een huisarts en een psychiater. Een stuk van de psychiater P.J. Verhagen van 2 augustus 2019 zit ook in het dossier. De psychiater concludeert daarin dat sprake is van suïcidaliteit bij eiseres. Hij schat de suïcidaliteit op dat moment echter laag in omdat zij verzorgd wordt door haar familie. Zoals blijkt uit het BMA-advies geeft ook de huisarts aan dat zonder verzorging van haar kinderen het risico op een suïcidepoging door eiseres groot is. Eiseres zelf heeft verklaard dat haar zoon en schoondochter haar helpen met alles, waaronder eten en aankleden. Ook brengen zij haar overal naartoe. Beide in Nederland wonende zoons waren op de eerste zitting aanwezig en zoon [zoon 3] ook op de tweede zitting. Zij bevestigden dit beeld. Verweerders standpunt dat de zorgtaken onvoldoende (concreet) aannemelijk zijn gemaakt, volgt de rechtbank dan ook niet. Voor zover verweerder meent dat sprake moet zijn van specifieke, fysieke zorgtaken en het niet (ook) kan gaan om mentale ondersteuning, is onduidelijk waarop verweerder dat baseert, daargelaten dat uit het voorgaande ook concrete fysieke zorgtaken naar voren komen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.9</nr>
+      <para>Voor verweerder is verder leidend dat uit het BMA-advies niet blijkt dat mantelzorg essentieel is voor het slagen van de medische behandeling. De rechtbank oordeelt dat uit het regelgevend kader evenmin volgt dat dit een doorslaggevend criterium is. Artikel 16, eerste lid, van de Dublinverordening ziet bijvoorbeeld ook op situaties waarin personen afhankelijk zijn van de hulp van hun familieleden vanwege een zwangerschap, een pasgeboren kind of een hoge leeftijd. Dat duidt op een breder begrip van hulp en ondersteuning dan alleen essentiële (mantel)zorg voor het welslagen van een medische behandeling. Uit artikel 11, tweede lid, van de Uitvoeringsverordening volgt verder dat, ingeval van gebrek aan objectief bewijs, situaties van afhankelijkheid ook aannemelijk kunnen worden op grond van slechts door de betrokkene zelf verstrekte inlichtingen. Ook dat verhoudt zich moeizaam met het standpunt van verweerder dat afhankelijkheid alleen wordt aangenomen ingeval van een BMA-advies dat zorg noodzakelijk acht voor het slagen van de medische behandeling. Het eigen beleid van verweerder ondersteunt een dergelijke beperkte toets overigens ook niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.10</nr>
+      <para>Daar komt bij dat het BMA zijn conclusie dat de zorg van de familie van eiseres niet essentieel is niet inzichtelijk heeft gemaakt. Zoals voormeld hebben twee artsen zich op het standpunt gesteld dat suïcidegevaar bij eiseres bestaat als zij geen ondersteuning van haar familie krijgt. Het BMA concludeert vervolgens dat uit het dossier niet blijkt dat mantelzorg essentieel is voor het slagen van de behandeling. Daarmee is echter niet iets gezegd over het belang van de mantelzorg voor de gezondheid van eiseres, en de informatie van de behandelaars wijst juist op problemen in dat opzicht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.11</nr>
+      <para>De rechtbank is het wel met verweerder eens dat het goed mogelijk is dat een BMA-arts tot een andere conclusie komt dan behandelaars. Het advies van het BMA is een deskundigenadvies waarvan verweerder in beginsel mag uitgaan. Staan blijft dan echter wel dat het BMA inzichtelijk moet maken waarom een ander standpunt wordt ingenomen. Verweerder heeft ter zitting op dit punt verwezen naar een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State.<footnote-ref linkend="_b968af10-ae2d-49f1-a688-1183734bdad7" /> Die uitspraak kan verweerder echter niet baten. Zoals volgt uit overweging 2.2.1 daarvan heeft het BMA in die zaak anders dan de behandelaars geen suïciderisico aangenomen omdat “<emphasis role="italic">uit de medische gegevens volgens het BMA geen aanwijzingen te destilleren zijn voor psychotische fenomenen, een geobjectiveerde tentamen suïcide in de voorgeschiedenis, een actuele of recente psychiatrische opname, een reëel suïcidegevaar in het kader van een psychiatrisch ziektebeeld of vitale functies bedreigende somatische problematiek.” </emphasis>Een dergelijke uitleg of onderbouwing ontbreekt in het BMA-advies van eiseres volledig. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Vanwege al het voorgaande volgt de rechtbank verweerder niet in het standpunt dat eiseres geen afhankelijk persoon is als bedoeld in artikel 16 van de Dublinverordening. De rechtbank benadrukt dat dit een bindend verantwoordelijkheidscriterium is en niet, zoals artikel 17, een discretionaire bevoegdheid waarbij aan verweerder ruime beleidsvrijheid toekomt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Omdat de strikt medisch-technische component hier niet de doorslag geeft, ziet de rechtbank geen aanleiding om het verzoek van eiseres te honoreren om - ter verdere beoordeling van de zaak - een onafhankelijke medisch deskundige te benoemen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De rechtbank verklaart het beroep gegrond en vernietigt het bestreden besluit. Dat betekent dat verweerder een nieuw besluit moet nemen op de asielaanvraag van eiseres met inachtneming van deze uitspraak. De rechtbank stelt hiervoor een termijn van zes weken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten. Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht vast op € 1.312,50 (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting en 0,5 punt voor het verschijnen ter nadere zitting met een waarde per punt van € 525,- en een wegingsfactor 1). </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit;</para>
+      </listitem>
+      <listitem>
+        <para>draagt verweerder op om binnen zes weken na verzending van deze uitspraak een nieuw besluit te nemen;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van verzoeker tot een bedrag van </para>
+      </listitem>
+    </itemizedlist>
+    <para>€ 1.312,50.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.J. Tijselink, rechter, in aanwezigheid van mr. M. Pier, griffier.</para>
+    </parablock>
+    <para />
+  </section>
+  <footnote id="_6764082b-b279-46fb-bc77-901b39c604c2" label="1">
+    <para> Artikel 2, onder g, van de Dublinverordening</para>
+  </footnote>
+  <footnote id="_2b2a48fd-26c9-46ac-971a-653fe455017d" label="2">
+    <para> In overeenstemming met artikel 16, derde lid, van de Dublinverordening </para>
+  </footnote>
+  <footnote id="_1f645e1a-ef44-49cb-abb2-0366b36b539c" label="3">
+    <para> Als neergelegd in paragraaf C2/5 van de Vreemdelingencirculaire 2000</para>
+  </footnote>
+  <footnote id="_1cd21e61-1bb4-48ad-9e7e-55eff2901876" label="4">
+    <para> Zoals volgt uit preambule (1) van de Uitvoeringsverordening (EC) 1560/2003</para>
+  </footnote>
+  <footnote id="_22bc4af4-f9f2-4de5-9c4c-e3c7137b8da1" label="5">
+    <para> Als bedoeld in artikel 16, derde lid, van de Dublinverordening </para>
+  </footnote>
+  <footnote id="_b968af10-ae2d-49f1-a688-1183734bdad7" label="6">
+    <para> ECLI:NL:RVS:2011:BU3498</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

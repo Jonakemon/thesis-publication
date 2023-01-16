@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:4255</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-03T10:45:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-05-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3431</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:4255">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:4255</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-03T10:42:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:4255 Rechtbank Rotterdam , 14-05-2020 / AWB - 19 _ 3431</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:4255:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>BC Wft, bestuurlijke boete wegens feitelijk leidinggeven aan overtreding van art 4:11 Wft. Evenredigheid en hoogte boete. Beroep ongegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:4255:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 19/3431</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 14 mei 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam], te [woonplaats], eiser,</bridgehead>
+    <para>gemachtigde: mr. J.W. Spanjer,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Stichting Autoriteit Financiële Markten (AFM), verweerster,</bridgehead>
+    <para>gemachtigde: mr. A.J. de Heer.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 28 december 2018 (het primaire besluit, hierna: het boetebesluit) heeft de AFM aan [eiser] een bestuurlijke boete opgelegd van € 50.000,- wegens het feitelijk leiding geven aan overtreding van artikel 4:11, eerste lid, van de Wet op het financieel toezicht (Wft) door [naam onderneming] ([onderneming]) in de periode van 1 oktober 2014 tot 25 mei 2016. Tevens heeft de AFM besloten tot openbaarmaking van het boetebesluit (het publicatiebesluit).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eiser] heeft bezwaar gemaakt tegen het primaire besluit. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 29 mei 2019 (het bestreden besluit) heeft de AFM het bezwaar van [eiser] ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eiser] heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De AFM heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Omdat desgevraagd geen van partijen heeft aangegeven ter zitting te willen worden gehoord, sluit de rechtbank met toepassing van artikel 8:57, eerste en derde lid, van de Algemene wet bestuursrecht (Awb) het onderzoek. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feitenoverzicht</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>1.1</nr>
+      <parablock>
+        <para>
+          [onderneming] is op 30 november 1999 opgericht. Zij beschikte van 23 april 2002 tot 5 december 2017 over een vergunning van de AFM voor het ontvangen en doorgeven van orders met betrekking tot financiële instrumenten, vermogensbeheer (vanaf 24 juni 2004) en beleggingsadvies (vanaf 1 november 2007). [eiser] was van 1 december 2003 tot 25 mei 2016 statutair bestuurder van [onderneming] en was van 2 december 2003 tot 13 april 2016 bij de AFM aangemeld als dagelijks beleidsbepaler van [onderneming]. </para>
+        <para>
+          [naam 2] ([naam 2]) was van 2 oktober 2013 tot 25 mei 2016 statutair bestuurder van [onderneming] en was van 31 juli 2007 tot 13 april 2016 bij de AFM aangemeld als dagelijks beleidsbepaler van [onderneming]. </para>
+        <para>
+          [naam 3] ([naam 3]) was van 24 mei 2016 tot 5 december 2017 statutair bestuurder van [onderneming] en was van 13 april 2016 tot 5 december 2017 bij de AFM aangemeld als dagelijks beleidsbepaler van [onderneming]. </para>
+        <para>
+          [naam 4] was van 25 mei 2016 tot 20 september 2017 statutair bestuurder van [onderneming] en was van 13 april 2016 tot 5 december 2017 bij de AFM aangemeld als dagelijks beleidsbepaler van [onderneming].</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Op 5 augustus 2015 heeft de AFM aan [onderneming] kenbaar gemaakt dat zij voornemens was de vergunning van [onderneming] in te trekken. Daarna heeft [onderneming] een reorganisatieplan gemaakt en uitgevoerd. Voorts heeft [onderneming] aan de AFM kenbaar gemaakt dat er twee kandidaat-bestuurders, [naam 3] en [naam 4], zijn. De AFM heeft op 13 april 2016 besloten tot goedkeuring van [naam 3] en [naam 4] als dagelijks beleidsbepalers van [onderneming], en ingestemd met het terugtreden van [eiser] en [naam 2] als dagelijks beleidsbepalers. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>De reorganisatie, wijzigingen in de bedrijfsvoering en signalen over de inrichting van de bedrijfsvoering van [onderneming] waren aanleiding voor nader onderzoek. Op 7 december 2016 heeft de AFM een onaangekondigd onderzoek bij [onderneming] verricht. Op 17 augustus 2017 heeft de AFM opnieuw een voornemen uitgebracht tot intrekking van de vergunning van [onderneming]. Uiteindelijk is op verzoek van [onderneming] haar vergunning per 5 december 2017 ingetrokken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>De resultaten van het door de AFM uitgevoerde onderzoek zijn met betrekking tot [eiser] neergelegd in een onderzoeksrapport van 17 september 2018. De AFM heeft op dezelfde datum het voornemen tot het opleggen van een bestuurlijke boete aan hem kenbaar gemaakt. Na kennis te hebben genomen van de zienswijze van [eiser] heeft de AFM het primaire besluit genomen. Vervolgens heeft besluitvorming plaatsgevonden als weergegeven onder het procesverloop. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>Op 9 januari 2019 heeft de AFM het primaire besluit gepubliceerd. Inmiddels is ook het bestreden besluit gepubliceerd en daarbij kenbaar gemaakt dat beroep is ingesteld. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het bestreden besluit</emphasis>
+        </para>
+      </parablock>
+      <para>2. In het bestreden besluit heeft de AFM zich op het standpunt gesteld dat [onderneming] in de periode van 1 oktober 2014 tot 25 mei 2016 geen adequaat beleid voerde dat een integere uitoefening van haar bedrijf waarborgde, zoals artikel 4:11 van de Wft bepaalt. [naam 3] was in de genoemde periode als dagelijks beleidsbepaler actief binnen [onderneming], terwijl hij (nog) niet als zodanig bij de AFM was aangemeld. Daarnaast voerde [onderneming] geen adequaat beleid ter voorkoming van belangenverstrengeling en ook geen adequaat beleid ter voorkoming en beheersing van belangenconflicten. De AFM wijst daarbij op de rol van [onderneming] bij de beursgang van [onderneming 2], waarvan [naam 3] bestuurder en enig aandeelhouder is. Voorts is er sprake van diverse andere overtredingen van de Wft en het Besluit Gedragstoezicht financiële ondernemingen Wft. Zo werd er niet voldaan aan de bewaarplicht, werden klachten van cliënten over haar dienstverlening niet adequaat afgehandeld, werd er in praktijk geen invulling gegeven aan de compliancefunctie, werd het dagelijks beleid van [onderneming] van 13 april 2016 tot 20 september 2017 in de praktijk niet bepaald door twee personen en heeft [onderneming] twee incidenten niet bij de AFM gemeld.  </para>
+      <para>De bestuurlijke boete aan [eiser] is opgelegd wegens het feitelijk leiding geven aan deze overtredingen in de periode van 1 oktober 2014 tot 25 mei 2016. Hoewel [eiser] op de hoogte was van de overtredingen, nam hij daartegen geen maatregelen, waarmee hij de aanmerkelijke kans aanvaardde dat de overtredingen zich zouden voordoen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Overtreding en feitelijk leidinggeven</emphasis>
+        </para>
+      </parablock>
+      <para>3. [eiser] heeft in beroep aangevoerd dat zijn gronden uitsluitend betrekking hebben op het evenredigheidsbeginsel en de hoogte van de boete. </para>
+      <para>Gelet daarop stelt de AFM zich terecht op het standpunt dat [eiser] de overtreding van artikel 4:11, eerste lid, van de Wft door [onderneming] niet betwist. De rechtbank stelt vast dat dit ernstige overtredingen zijn, die in samenhang bezien de conclusie rechtvaardigen dat [onderneming] in de periode van - voor zover hier van belang - 1 oktober 2014 tot 25 mei 2016 artikel 4:11, eerste lid, van de Wft heeft overtreden. [eiser] heeft evenmin betwist dat hij feitelijk leiding heeft gegeven aan de overtreding in genoemde periode. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De boete</emphasis>
+        </para>
+      </parablock>
+      <para>4. Gelet op hetgeen hiervoor is overwogen was de AFM bevoegd [eiser] te beboeten en heeft zij in redelijkheid gebruik kunnen maken van deze bevoegdheid, ook gezien de ernst van de overtreding.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1</nr>
+      <para>Dat [naam 3] een grotere rol in de overtreding heeft gespeeld dan [eiser] en dat [eiser] een ‘first offender’ zou zijn, betekent niet dat de AFM [eiser] in het geheel geen boete mocht opleggen. De overtredingen zijn hem als feitelijk leidinggevende toe te rekenen. Op [eiser] rustte de verantwoordelijkheid om ervoor te zorgen dat [onderneming] over een adequaat beleid beschikte dat een integere bedrijfsuitoefening waarborgt, en om ervoor te zorgen dat [onderneming] beschikte over dagelijks beleidsbepalers waarvan de AFM voorafgaand vast heeft kunnen stellen dat deze geschikt en betrouwbaar zijn. [eiser] heeft verder nagelaten maatregelen te treffen om de overtreding te beëindigen. Dat [naam 3] en [onderneming 2] ontegenzeggelijk een rol hebben gespeeld bij de overtredingen, doet niet af aan de verantwoordelijkheid van [eiser] en heeft de AFM bovendien reeds aanleiding gegeven tot verlaging van de boete. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>De stellingen van [eiser] dat cliënten schadeloos zouden zijn gesteld en hij niet van de overtreding heeft geprofiteerd, heeft de AFM evenmin tot het oordeel hoeven leiden dat de boete onevenredig is. Ook als deze omstandigheden onderbouwd zouden zijn, doen ze niet af aan de boetewaardigheid van de overtredingen. De genoemde omstandigheden hebben voor de AFM ook geen aanleiding hoeven vormen om de boete (verder) te matigen. Hoewel dit in het verweerschrift in 3.15 tot en met 3.20 duidelijker is verwoord, acht de rechtbank dit punt voldoende gemotiveerd in het bestreden besluit. [eiser] heeft niet toegelicht op welke wijze hij de cliënten van [onderneming] destijds schadeloos heeft gesteld, met welke documenten hij dat zou kunnen aantonen en welke pogingen hij heeft ondernomen om aan deze stukken te komen, zodat de AFM niet heeft kunnen vaststellen of en in hoeverre de schadelijke effecten van de overtreding hierdoor zijn weggenomen en dat dit tot matiging van de boete zou moeten leiden. De enkele stelling dat [eiser] na zijn vertrek geen toegang had tot (de archieven van) [onderneming] en geen bemoeienis meer met [onderneming] had,  is daartoe onvoldoende.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>Ook de omstandigheid dat eiser niet langer van plan is werkzaam te zijn in de financiële sector maakt niet dat de AFM geen bestraffende sanctie in de vorm van een boete kan opleggen voor een ernstige overtreding in het verleden of dat hierin aanleiding bestaat voor verdere matiging. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>Dat enige tijd is verstreken tussen de overtreding (1 oktober 2014 tot 25 mei 2016) en het opleggen van de boete (28 december 2018) maakt evenmin dat er van de boete af had moeten worden gezien. De AFM heeft er terecht op gewezen dat de bevoegdheid tot het opleggen van een bestuurlijke boete als hier aan de orde gelet op het bepaalde in artikel 5:45, eerste lid, van de Awb pas vervalt vijf jaar nadat de overtreding heeft plaatsgevonden. De boete is binnen deze termijn opgelegd. De AFM startte eind 2016 met haar onderzoek en ontving eind april 2017 de laatste reactie van [onderneming] op haar informatieverzoeken. Vervolgens dienden de gegevens te worden geanalyseerd hetgeen in een onderzoeksrapport en voornemen heeft geresulteerd in september 2018. [eiser] is vervolgens in de gelegenheid gesteld zijn zienswijze te geven alvorens het boetebesluit werd genomen. Niet valt in te zien waarom het verstrijken van deze termijn, waarbij naar het oordeel van de rechtbank zorgvuldig onderzoek werd gedaan en voldoende gelegenheid voor reactie werd gegeven, tot matiging van de boete zou moeten leiden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5</nr>
+      <para>
+        [eiser] stelt dat de boete moet worden gematigd vanwege de publicatie ervan, omdat in het algemeen geldt dat publicatie schade tot gevolg heeft en, net als bij de strafmaat in strafzaken, tot een verlaging van de straf dient te leiden. De rechtbank volgt dit standpunt niet. De AFM was op grond van artikel 1:97, eerste en derde lid, van de Wft verplicht tot publicatie van het boetebesluit over te gaan. [eiser] omschrijft bovendien de gestelde schade ten gevolge van de publicatie niet. Indien hij schade heeft ondervonden, is dit het directe gevolg van zijn feitelijk leiding geven aan de overtreding door [onderneming]. Dat [eiser] onevenredige schade heeft geleden door de publicatie is gesteld noch gebleken. Voor matiging van de boete op grond hiervan bestaat dan ook geen aanleiding. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.6</nr>
+      <parablock>
+        <para>De boete is voorts verder gematigd op grond van de beperkte draagkracht van [eiser]. Hoewel hij geen volledig verifieerbaar overzicht van zijn financiële positie heeft gegeven, is voor de AFM duidelijk dat zijn vermogen en inkomsten relatief beperkt zijn. </para>
+        <para>Er is rekening gehouden met zijn beperkte inkomsten en het beslag dat op een deel van zijn woning is gelegd. De rechtbank is van oordeel dat de AFM terecht geen aanleiding heeft gezien tot verdere matiging van de boete. [eiser] heeft, ook in beroep, niet aannemelijk gemaakt dat hij de opgelegde boete niet kan dragen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.7</nr>
+      <para>Het voorgaande leidt tot de conclusie dat de boete van € 50.000,- in stand blijft. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para>5. Het beroep is ongegrond. </para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>-	verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.J. van Spengen, rechter, in aanwezigheid van </para>
+      <para>mr. E. Naaijen-van Kleunen, griffier. De uitspraak is gedaan op 14 mei 2020. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier is buiten staat De rechter is verhinderd te tekenen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

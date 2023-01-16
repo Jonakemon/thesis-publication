@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:3493</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-14T11:16:48</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 19/2209</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#opTegenspraak">Op tegenspraak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3493">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3493</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-14T10:57:36</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:3493 Rechtbank Noord-Nederland , 30-09-2020 / LEE 19/2209</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:3493:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Pilot snelvaren moet worden gezien als afwijking van het beleid. Afwijken van het beleid betreft een bevoegdheid van verweerder, maar daaraan worden wel hoge motiveringseisen gesteld. Daaraan is in dit geval niet voldaan. Daarnaast is de nautische veiligheid niet voldoende onderbouwd door het ontbreken van daartoe strekkende voorschriften. Stikstof en geluidsoverlast en het specialiteitsbeginsel.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:3493:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Groningen</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummer: LEE 19/2209</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 30 september 2020 in de zaak tussen</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de Natuur- en Landschapsvereniging “De Wâlden, De Marren”</emphasis>, gevestigd te Rottevalle (gemeente Smallingerland), eiseres,</para>
+      <para>(gemachtigde: mr. M.T. Hoen),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van gedeputeerde staten van de provincie Fryslân, verweerder,</bridgehead>
+    <para>(gemachtigde: mr. I.J. Wind-Middel).</para>
+    <para />
+    <parablock>
+      <para>Als <emphasis role="bold">derde-partij</emphasis> heeft aan het geding deelgenomen: het college van burgemeester en wethouders van de gemeente Tytsjerksteradiel, derde-belanghebbende,</para>
+      <para>(gemachtigde: [naam 1] ).</para>
+    </parablock>
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para>Bij besluit van 4 juni 2019 (het bestreden besluit) heeft verweerder, onder weerlegging van de zienswijze van verzoekster, het aanwijzingsbesluit betreffende de aanwijzing van snelvaargebieden pilot Burgumer Mar 2019-2020 vastgesteld.</para>
+    <para />
+    <parablock>
+      <para>Tegen het bestreden besluit heeft verzoekster beroep ingesteld. Dit beroep is geregistreerd onder het procedurenummer LEE 19/2209. Tevens heeft verzoekster bij brief van 13 juni 2019 de voorzieningenrechter verzocht een voorlopige voorziening te treffen. Dit verzoek om voorlopige voorziening is geregistreerd onder het procedurenummer LEE 19/2208.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 18 juli 2019 heeft de voorzieningenrechter bij wijze van voorlopige voorziening het bestreden besluit van 4 juni 2019 van verweerder geschorst tot en met de dag van verzending van de uitspraak van de voorzieningenrechter op het aanhangige verzoek om voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij uitspraak van 2 augustus 2019 heeft de voorzieningenrechter het verzoek om voorlopige voorziening toegewezen en heeft bepaald dat de bij uitspraak van 18 juli 2019 uitgesproken schorsing van het bestreden besluit van 4 juni 2019 wordt verlengd tot zes weken, nadat door de rechtbank is beslist op het beroep van eiseres.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 29 oktober 2019 heeft verweerder het bestreden besluit van 4 juni 2019 gewijzigd in die zin dat in het zuidwestelijke kwadrant van het Burgumer Mar mag worden snelgevaren en gewaterskied in de periode van 15 juni (of later) tot en met 15 september (of eerder) in de jaren 2019 en 2020, binnen het tijdvak van 09:00 - 18.00 uur.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Ingevolge artikel 6:19, eerste lid, van de Algemene wet bestuursrecht (Awb) heeft het beroep van eiseres van rechtswege mede betrekking op het besluit van 29 oktober 2019.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De gronden van beroep zijn bij brief van 19 december 2019 aangevuld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op de zitting van 20 augustus 2020.</para>
+      <para>Eiseres is vertegenwoordigd door [naam 2] , ing. [naam 3] en [naam 4] , bijgestaan door haar gemachtigde.</para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en [naam 7].</para>
+      <para>Derde-belanghebbende is vertegenwoordigd door zijn gemachtigde en [naam 8].</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+  </section>
+  <section>
+    <title>Feiten en omstandigheden</title>
+    <para>1.	Bij haar oordeelsvorming betrekt de rechtbank de navolgende feiten en omstandigheden.</para>
+    <para />
+    <parablock>
+      <para>Door provinciale besluitvorming is ingevolge de Beleidsnotitie snelle watersport in Fryslân (hierna: de Beleidsnotitie) sinds 2004 het snelvaren op het Burgumer Mar niet toegestaan. Het Burgumer Mar en omgeving maken deel uit van de ecologische hoofdstructuur (hierna: EHS). Sindsdien zijn meerdere verzoeken bij verweerder ingediend om het snelvaren op het Burgumer Mar weer mogelijk te maken, resulterend in een concreet initiatief vanuit de gemeenschap in 2016. </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Het college van burgemeester en wethouders van de gemeente Tytsjerksteradiel (hierna: het college van B&amp;W) heeft bij brief van 30 mei 2017 aan verweerder verzocht om te onderzoeken of snelvaren op het Burgumer Mar kan worden toegestaan. Daarbij heeft het college van B&amp;W aan verweerder verzocht om bij dit onderzoek de navolgende aspecten te onderzoeken:</para>
+      <para>- er moet rekening worden gehouden met de veiligheid van alle gebruikers op het Burgumer Mar;</para>
+      <para>- er moet rekening worden gehouden met de natuurlijke kernwaarden in het gebied als onderdeel van de EHS;</para>
+      <para>- er moet geen sprake zijn van onevenredige overlast.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Verweerder heeft bij brief van 18 juli 2017 aan het college van B&amp;W te kennen gegeven dat er sprake is van een positieve grondhouding ten aanzien van voormeld verzoek, maar dat de bevoegdheid om het snelvaren op het Burgumer Mar mogelijk te maken en af te wijken van de vigerende Beleidsnotitie, bij Provinciale Staten (PS) ligt. Gelet hierop wil verweerder een zo compleet mogelijk onderbouwd voorstel aan PS voorleggen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <parablock>
+        <para>Op 13 februari 2018 heeft [naam 5] , werkzaam bij [bureau 1] , een rapportage “Indicatieve natuurtoets van snelvaren op het Burgumer Mar” opgesteld.</para>
+        <para>Op 4 april 2018 hebben [naam 5] en [naam 6] , werkzaam bij [bureau 1] , een rapportage “Natuurtoets snelvaren Burgumer Mar” opgesteld.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>In haar vergadering van 25 april 2018 heeft PS besloten:</para>
+      <para>a.	om kennis te nemen van het verzoek van het college van B&amp;W om het initiatief voor wat betreft het snelvaren op het Burgumer Mar in de vorm van een pilot verder te onderzoeken;</para>
+      <para>b.	om positief om te gaan met voormeld verzoek, maar nu nog geen beleidswijziging door te voeren;</para>
+      <para>c.	om op korte termijn de geschiktheid van de aangevraagde locatie het Burgumer Mar op alle relevante aspecten te vergelijken met een aantal alternatieve locaties in de omgeving; in de loop van 2018 PS over de uitkomsten daarvan te rapporteren, zodat PS dit jaar over het element ‘locatiekeuze snelvaren Noardeast-Fryslân’ een voorlopig besluit kan nemen in afwachting van de ‘brede watersportvisie’;</para>
+      <para>d.	om de gemeente Tytsjerksteradiel te vragen om in het kader van de aanwezige alternatieve locaties in overleg te gaan met de initiatiefnemers, waarbij de provincie als bevoegde instantie de regie van het proces heeft en inhoudelijk meedenkt over de aspecten natuur en veiligheid op het water;</para>
+      <para>e.	het onderzoek naar de alternatieve locaties zo op te zetten dat daarna beleidsmatige uitspraken kunnen worden gedaan door PS en dat die gebruikt kunnen worden als bouwsteen voor de aangekondigde ‘Brede watersportvisie’. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Op 19 september 2018 heeft het [bureau 3] een akoestisch onderzoek naar de mogelijkheid van een snelvaartzone op het Burgumer Mar opgesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <para>Op 1 oktober 2018 hebben [naam 5] en [naam 6] , werkzaam bij [bureau 1] , een rapportage “Aanvullende ecologische verkenning snelvaren Burgumer Mar” opgesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Op 16 oktober 2018 heeft het [bureau 2] een nadere analyse “Snelvaren op en rondom het Burgumer Mar” opgesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.8.</nr>
+      <para>In zijn vergadering van 13 november 2018 heeft verweerder besloten om:</para>
+      <para>1. de uitkomsten van de uitgevoerde onderzoeken voor kennisgeving aan te nemen;</para>
+      <para>2. het toegevoegde PS-stuk gewijzigd vast te stellen en aan te bieden voor behandeling op 19 december 2018, inhoudende dat PS besluit om:</para>
+      <parablock>
+        <para>I.	kennis te nemen van de conclusie dat voor het snelvaren in Noordoost-Friesland het Burgumer Mar de meest geschikte locatie lijkt te zijn;</para>
+        <para>II.	de uitkomsten van het onderzoek inzake het snelvaren op het Burgumer Mar als input mee te nemen in de ‘Visie waterrecreatie’, maar ook voor de actualisatie van de beleidsnotitie ‘Snelle watersport in Fryslân’;</para>
+        <para>III.	vooruitlopend op de onder besluitpunt II. genoemde actualisatie te komen tot een partiële wijziging van de beleidsnotitie ‘Snelle watersport in Fryslân’, zodat het snelvaren op het Burgumer Mar voor een periode van twee jaar mogelijk kan worden gemaakt in de vorm van een proef, onder de voorwaarden dat het snelvaren alleen is toegestaan:</para>
+        <para>a.	in de periode tussen 15 juni en 15 september;</para>
+        <para>b.	tussen 10.00 en 18.00 uur;</para>
+        <para>c.	op het zuidwestelijke- of zuidoostelijke deel van het meer.</para>
+        <para>IV.	voor de pilot een budget van 70.000 euro beschikbaar te stellen door de toegevoegde begrotingswijziging vast te stellen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.9.</nr>
+      <parablock>
+        <para>In haar vergadering van 19 december 2018 heeft PS besloten om:</para>
+        <para>I.	in te stemmen met de conclusie dat voor het snelvaren in Noordoost-Fryslân het Burgumer Mar de meest geschikte locatie lijkt te zijn;</para>
+        <para>II.	de uitkomsten van het onderzoek inzake het snelvaren op het Burgumer Mar als input mee te nemen in de ‘Visie waterrecreatie’, maar ook voor de actualisatie van de beleidsnotitie ‘Snelle watersport in Fryslân’;</para>
+        <para>III.	vooruitlopend op de onder besluitpunt II. genoemde actualisatie te komen tot een partiële wijziging van de beleidsnotitie ‘Snelle watersport in Fryslân’, zodat het snelvaren op het Burgumer Mar voor een periode van twee jaar mogelijk kan worden gemaakt in de vorm van een proef, onder de voorwaarden dat het snelvaren alleen is toegestaan:</para>
+      </parablock>
+      <para>a.	in de periode tussen 15 juni en 15 september;</para>
+      <para>b.	tussen 10.00 en 18.00 uur;</para>
+      <para>c.	op het zuidwestelijke- of zuidoostelijke deel van het meer.</para>
+      <para>IV.	voor de pilot een budget van 90.000 euro (inclusief 70.000 euro voor toezicht/ bedrijfsvoering) beschikbaar te stellen door de toegevoegde begrotingswijziging vast te stellen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.10.</nr>
+      <parablock>
+        <para>Verweerder heeft op 19 maart 2019 een ontwerp-aanwijzingsbesluit snelvaartgebied pilot Burgumer Mar vastgesteld.</para>
+        <para>Dit ontwerp-aanwijzingsbesluit is door verweerder ter inzage gelegd en gepubliceerd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.11.</nr>
+      <para>Naar aanleiding van voormeld ontwerp-aanwijzingsbesluit heeft eiseres bij brief van 4 mei 2019 een zienswijze bij verweerder ingediend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.12.</nr>
+      <para>Verweerder heeft naar aanleiding van de ingediende zienswijzen op 27 mei 2019 een reactienota vastgesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.13.</nr>
+      <para>Bij het bestreden besluit van 4 juni 2019 heeft verweerder, onder weerlegging van de zienswijze van verzoekster, het aanwijzingsbesluit betreffende de aanwijzing van snelvaargebieden pilot Burgumer Mar 2019-2020 vastgesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.14.</nr>
+      <para>Bij besluit van 29 oktober 2019 heeft verweerder het bestreden besluit van 4 juni 2019 gewijzigd in die zin dat in het zuidwestelijke kwadrant van het Burgumer Mar mag worden snelgevaren en gewaterskied in de periode van 15 juni (of later) tot en met 15 september (of eerder) in de jaren 2019 en 2020, binnen het tijdvak van 09:00 – 18.00 uur.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Toepasselijke regelgeving</title>
+    <para>2. Ingevolge artikel 3, eerste lid, van de Scheepvaartverkeerswet (Svw) kan, voor zover relevant, behoudens het bepaalde in artikel 3, tweede lid, toepassing van artikel 4 slechts geschieden in het belang van:</para>
+    <para>a.	het verzekeren van de veiligheid en het vlotte verloop van het scheepvaartverkeer;</para>
+    <para>b.	het instandhouden van scheepvaartwegen en het waarborgen van de bruikbaarheid daarvan;</para>
+    <para>c.	het voorkomen of beperken van schade door het scheepvaartverkeer aan de waterhuishouding, oevers en waterkeringen, of werken gelegen in of over scheepvaartwegen;</para>
+    <para>d.	het voorkomen of beperken van externe veiligheidsrisico’s in verband met schepen;</para>
+    <para>e.	het voorkomen of beperken van verontreiniging door schepen.</para>
+    <para>Ingevolge artikel 3, tweede lid, van de Svw kan toepassing van artikel 4 ten behoeve van een in het een in het eerste lid genoemd belang mede geschieden in het belang van het voorkomen of beperken van:</para>
+    <para>a.	hinder of gevaar door het scheepvaartverkeer voor personen die zich anders dan op een schip te water bevinden;</para>
+    <para>b.	schade door het scheepvaartverkeer aan de landschappelijke of natuurwetenschappelijke waarden van een gebied waarin scheepvaartwegen zijn gelegen.</para>
+    <para>Ingevolge artikel 4, eerste lid, van de Svw worden bij algemene maatregel van bestuur regels gesteld met betrekking tot:</para>
+    <para>a.	het deelnemen aan het scheepvaartverkeer op scheepvaartwegen.</para>
+    <para>Ingevolge artikel 4, tweede lid, van de Svw kunnen de onder het eerste lid, onder a, bedoeld regels slechts inhouden:</para>
+    <para>a.	verplichtingen met betrekking tot:</para>
+    <parablock>
+      <para>	1.	het varen en het ligplaats nemen met schepen en andere vaartuigen;</para>
+      <para>	(…);</para>
+    </parablock>
+    <para>b.	andere verplichtingen van verkeersdeelnemers of andere personen aan boord van schepen en andere vaartuigen met betrekking tot het deelnemen aan het scheepvaartverkeer;</para>
+    <para>c.	verplichtingen van andere personen dan die genoemd in onderdeel b, met betrekking tot het deelnemen aan het scheepvaartverkeer.</para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>De in artikel 4, eerste lid, van de Svw bedoelde algemene maatregel van bestuur is het Besluit administratieve bepalingen scheepvaartverkeer (BABS).</para>
+        <para>Ingevolge artikel 13, eerste lid, van het BABS kunnen voor scheepvaartwegen waar verkeerstekens die een gebod of een verbod dan wel een aanbeveling of een inlichting bevatten niet doelmatig zijn, verkeerstekens worden vervangen door bekendmakingen met dezelfde strekking als een verkeersteken. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Ingevolge artikel 1.01, sub 5, van het Binnenvaartpolitiereglement (BPR) wordt in dit reglement verstaan onder:</para>
+      <para>- een snel schip:	groot motorschip, dat met een snelheid van meer dan 40 km per uur ten opzichte van het water kan varen.</para>
+      <para>Ingevolge artikel 1.01, sub 17, van het BPR wordt in dit reglement verstaan onder:</para>
+      <para>- een snelle motorboot:	klein schip dat, bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen.</para>
+      <para>Ingevolge artikel 1.01, sub 18, van het BPR wordt in dit reglement verstaan onder:</para>
+      <para>- een waterscooter:	snelle motorboot gebouwd of ingericht om door een of meer personen skiënd door of over het water te worden voortbewogen.</para>
+      <para>Ingevolge artikel 7.02, eerste lid, van het BPR mogen een schip, een drijvend voorwerp en een drijvende inrichting geen ligplaats nemen:</para>
+      <para>a.	op een gedeelte van de vaarweg, waar bij algemene regeling dan wel krachtens een bekendmaking met dezelfde strekking als een verkeersteken ligplaats nemen is verboden;</para>
+      <para>b.	in een vak van of op een plaats in de vaarweg aangewezen door de bevoegde autoriteit.</para>
+      <parablock>
+        <para>Ingevolge artikel 8.05, tweede lid, van het BPR draagt de bestuurder draagt er zorg voor dat de motor van een snelle motorboot geen onnodige geluidhinder veroorzaakt.</para>
+        <para>Ingevolge artikel 8.05, derde lid, van het BPR draagt de bestuurder er zorg voor dat de motor van een stilliggende snelle motorboot niet onnodig lang of zonder redelijk doel in werking wordt gehouden.</para>
+        <para>Ingevolge artikel 8.06, eerste lid, van het BPR mag een snelle motorboot niet sneller varen dan 20 km per uur ten opzichte van het water. De bevoegde autoriteit kan vaarwegen of gedeelten daarvan aanwijzen waarop dit verbod niet van toepassing is dan wel waarop een andere maximum snelheid van toepassing is, daarbij kan onderscheid worden gemaakt tussen snel varen overdag of ’s nachts, tussen bedrijfsmatige vaart en recreatieve vaart en veerdiensten.</para>
+        <para>Ingevolge artikel 8.06, tweede lid, van het BPR is het verboden te waterskiën of te doen waterskiën of op soortgelijke wijze van de vaarweg gebruik te maken of gebruik te doen maken. De bevoegde autoriteit kan vaarwegen of gedeelten daarvan aanwijzen waarop dit verbod overdag niet van toepassing is.</para>
+        <para>Ingevolge artikel 8.06, vierde lid, van het BPR moeten een waterskiër en een persoon die op soortgelijke wijze van de vaarweg gebruik maakt zich zodanig gedragen, dat geen gevaar of hinder voor andere gebruikers van de vaarweg kan worden veroorzaakt.</para>
+        <para>Ingevolge artikel 8.07 van het BPR moet de schipper van een snelle motorboot er zorg voor dragen, dat niet in strijd met de artikelen 8.05 en 8.06 wordt gehandeld.</para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para>3.	Tussen partijen is in geschil of verweerder in redelijkheid tot het Aanwijzingsbesluit heeft kunnen komen. Dienaangaande overweegt de rechtbank als volgt.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Karakter van het aanwijzingsbesluit</emphasis>
+      </para>
+      <para>Het aanwijzingsbesluit heeft tot doel om een deel van het Burgumer Mar aan te wijzen in het kader van een pilot voor snelvaren. Gelet op het aanwijzingsbesluit en de daarbij behorende voorschriften en tekeningen dient het aanwijzingsbesluit naar het oordeel van de rechtbank te worden beschouwd als een besluit van algemene strekking, waartegen rechtsmiddelen kunnen worden aangewend. Eiseres heeft tegen het ontwerpbesluit een zienswijze ingediend, zodat zij ook in dat kader ontvankelijk is in haar beroep.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">Strijd met vigerend (provinciaal) beleid</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Eiseres betoogt dat het Aanwijzingsbesluit in strijd komt met het vastgestelde provinciale (recreatie)beleid waarin de kernbegrippen rust en ruimte op en rondom de meren in Noordoost-Fryslân centraal staan. In dit verband wijst eiseres erop dat vorengenoemde kernbegrippen als waarden zijn gesteld tegenover het drukke water in Zuidwest-Fryslân. Indien speedboten gaan snelvaren op het Burgumer Mar, zal de bestaande rust op en rondom het Burgumer Mar in de visie van eiseres onherroepelijk teniet worden gedaan. Daarmee zullen de in jaren opgebouwde waarden van rust, ruimte en natuur op en rondom het Burgumer Mar verloren gaan voor de vele recreanten die juist daarvoor naar het Burgumur Mar komen. Indien het huidige imago van rust en ruimte op en rondom de Burgumer Mar verloren gaat wegens overlast van geluid en uitstoot van speedboten, zal dit imago in de toekomst volgens eiseres slechts met grote moeite kunnen worden herwonnen. Daarnaast gaan door het snelvaren de kenmerkende natuurwaarden van het Burgumur Mar en omgeving verloren. Om die redenen moet niet worden overgegaan tot het houden van de in geding zijnde pilot, aldus eiseres.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <parablock>
+        <para>Verweerder stelt zich op het standpunt dat PS op 27 februari 2019 de visie “Water-recreatie in Fryslân” heeft vastgesteld. In dit verband wijst verweerder erop dat in die visie ruimte wordt geboden voor een divers palet aan gebruiksmogelijkheden. Volgens verweerder is de onderhavige pilot juist bedoeld om voordat wordt overgegaan tot een definitieve uitvoering van het Aanwijzingsbesluit inzicht te krijgen in de ecologische en andere gevolgen van snelvaren op het Burgumer Mar en daarmee de (on)mogelijkheden daarvoor. Naar de mening van verweerder biedt het provinciale beleidskader wel degelijk ruimte voor de in geding zijnde pilot. Daarnaast wijst verweerder erop dat met het besluit van </para>
+        <para>19 december 2018 van PS het beleidskader rondom snelle watersport in Fryslân zodanig is aangepast dat dit voor de duur van de pilot wel op het Burgumer Mar kan. Daarbij acht verweerder van belang dat na afloop van de pilot de uitkomsten worden meegenomen in een evaluatie en eventuele bijstelling van het beleidskader “Snelle watersport in Fryslân”, een en ander als uitwerking van de visie “Waterrecreatie in Fryslân”.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De rechtbank stelt vast dat het vigerende provinciale beleid, zoals dat met name is neergelegd in laatstgenoemde stukken en in de provinciale “verordening"Romte”, voor de meren in Noord-Oost-Fryslân - waaronder het Burgumer Mar als onderdeel van de ecologische hoofdstructuur (hierna: de EHS) - aangeeft dat bij de ontwikkeling van projecten en/of plannen moet worden uitgegaan van de voor dat gebied aangegeven kernwaarden rust en ruimte. Gelet hierop is de rechtbank van oordeel dat de pilot snelvaren op het Burgumer Mar als een inbreuk op deze regelgeving dient te worden beschouwd, aangezien deze pilot niet past in genoemde kernwaarden. Hoewel aan verweerder en PS niet de bevoegdheid kan worden ontzegd om naar aanleiding van gewijzigde inzichten eerder gemaakte beleidsmatige keuzes ongedaan te maken of daarvan gedeeltelijk af te wijken, dienen aan de uitoefening van die bevoegdheid uit een oogpunt van onder meer rechtszekerheid hoge motiveringseisen te worden gesteld. Naar het oordeel van de rechtbank is in dit geval bij de vaststelling van het Aanwijzingsbesluit de afwijking van het vastgestelde beleid niet deugdelijk gemotiveerd. Hierbij neemt de rechtbank in aanmerking dat uit het besluitvormingsproces blijkt dat het bestreden besluit er kennelijk (slechts) toe strekt om een pilot te kunnen houden, waarvan de resultaten te zijner tijd als input worden beschouwd voor een eventuele aanpassing van de visie “Waterrecreatie in Fryslân”, de beleidsnotitie “Snelle watersport in Fryslân” en het provinciaal streekplan. Van een gemotiveerde beleidswijziging of wijziging van regelgeving op het vlak van snelvaren op het Burgumur Mar, waar een aanwijzingsbesluit als het onderhavige op dient te berusten, is thans derhalve nog geen sprake. Evenmin is door verweerder dan wel PS duidelijk gemaakt of, en zo ja, om welke redenen snelvaren thans in afwijking van het eerdere consistente standpunt in dezen (wel) moet worden toegestaan. De rechtbank wijst in dit verband op hetgeen [bureau 1] in het rapport “Natuurtoets snelvaren Burgumur Mar” expliciet aangeven, te weten dat het aspect rust als wezenlijke waarde voor het Burgumur Mar dat deel uitmaakt van de EHS heeft te gelden en dat het evident is dat deze waarde door snelvaren wordt aangetast. Hetzelfde geldt voor de door [bureau 1] in voormeld rapport geconstateerde dreigende aantasting van natuurwaarden, zoals onder meer de verstoring van diverse op de zogeheten rode lijst opgenomen vogelsoorten. Terecht merkt dit onderzoeksbureau dan ook op dat het aan verweerder dan wel PS is om te beoordelen of dit acceptabel wordt geacht. Een dergelijke afweging valt echter niet terug te vinden in het dossier en maakt dan ook geen onderdeel uit van de motivering van het bestreden besluit. Verweerder lijkt zich in dat opzicht te hebben beperkt tot een verwijzing naar de door [bureau 1] uitgebrachte rapporten alsmede het rapport van het [bureau 2] , waarmee de motiveringsplicht wordt geschonden. De door verweerder naar voren gebrachte stelling dat verweerder en leden van PS met voor- en tegenstanders van gedachten hebben gewisseld over voormelde pilot en dat die input bij de afweging en de beoordeling zou zijn betrokken, heft naar het oordeel van de rechtbank die schending van de motiveringsplicht niet op. Datzelfde geldt voor de opmerking van de kant van verweerder dat het hier (slechts) een pilot betreft en dat eerst nadien een definitief standpunt wordt bepaald of snelvaren (blijvend) moet worden toegestaan op het Burgumur Mar. Datzelfde geldt tevens voor het eerst ter zitting naar voren gebrachte standpunt van verweerder dat de watersport in Fryslân aantrekkelijk dient te worden gehouden voor jong en oud. Een en ander verhoudt zich niet met de eis dat een besluit als het onderhavige met inachtneming van het geldende rechtsregime moet worden genomen en voor wat betreft de daarbij te maken keuze deugdelijk moet zijn gemotiveerd. Gelet hierop is de rechtbank van oordeel dat er in zoverre een motiveringsgebrek aan het bestreden besluit kleeft.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Veiligheid op het Burgumer Mar</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Eiseres betoogt dat uit de uitspraak van 1 juli 2004 van de rechtbank Leeuwarden, kenbaar uit ECLI:NL:RBLEE:2004:AP9373, volgt dat verweerder terecht het snelvaren op het Burgumer Mar uit veiligheidsoverwegingen niet meer mogelijk heeft gemaakt. In dit verband vraagt eiseres zich af wat er sinds die tijd is veranderd. Eiseres wijst erop dat het sinds 2004 alleen maar drukker is geworden op het Burgumer Mar, in die zin dat er sprake is van meer (rustige) recreatievaart. Meer boten en meer mensen met kano’s, roeiboten, sloepen en meer zeilers. In de visie van eiseres is daardoor het risico op ongelukken alleen maar toegenomen als daar ook nog raceboten tussendoor moeten laveren. Voor eiseres is het dan ook onbegrijpelijk dat het snelvaren nu ineens weer wordt toegestaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <parablock>
+        <para>Verweerder stelt zich op het standpunt dat het gewijzigde Aanwijzingsbesluit zijn oorsprong vindt in de Svw en het BPR. Volgens verweerder heeft het Aanwijzingsbesluit dan ook enkel betrekking op de ordening van het scheepvaartverkeer op scheepvaartwegen en de verkeersreglementering die daarbij hoort. Hieruit volgt volgens verweerder dat de belangen-afweging die hoort bij het Aanwijzingsbesluit dan ook slechts hiertoe is beperkt. In de visie van verweerder is bij het gewijzigde Aanwijzingsbesluit van het vaargebied voor de snelle watersport, gelet op het BPR,  met name een afweging gemaakt of de nautische veiligheid in het Zuidwestelijk kwadrant van het Burgumer Mar kan worden gewaarborgd. In dit verband wijst verweerder erop dat uit het rapport van [bureau 2] volgt dat dit snelvaar-gebied volledig kan worden afgebakend ten opzichte van de rest van het meer. Doorgaande vaarbewegingen van en naar het zuidelijk deel van het meer zullen niet snel het gebied doorkruisen. De nabijheid van het vakantiepark en de recreatieve vaart die dit park genereert is hierbij nog een punt van aandacht. Om de nautische veiligheid te waarborgen zijn volgens verweerder daarom met inachtneming van de aanbevelingen van [bureau 2] in het gewijzigde Aanwijzingsbesluit beperkingen opgenomen. In dit verband wijst verweerder erop dat het snelvaargebied duidelijk moet worden afgebakend, waardoor overige watersporters zoals zeilers, surfers, surfers, sloepvaarders en kanovaarders voldoende ruimte hebben op het Burgumer Mar om hun hobby uit te oefenen. Daarbij is volgens verweerder ook betrokken dat uit drone-onderzoek (2018) blijkt dat de Burgumer Mar relatief rustig is. Voorts wordt de veiligheid in de visie van verweerder blijkens het monitortingsplan gehandhaafd door frequent toezicht en waar nodig handhaving. Het gaat volgens verweerder om de objectieve veiligheid (aantal en soort overtredingen) en daarnaast</para>
+        <para>om registratie van eventuele (bijna) ongevallen. In dit verband wijst verweerder erop dat om intensief toezicht op het Burgumer Mar te kunnen uitvoeren, in 2019 vanuit het beschikbaar gestelde budget een extra speedboot is ingezet bovenop de reeds beschikbare vloot. Naast handhaving door de provincie is ook samenwerking met de waterpolitie gezocht en gevonden. In onderlinge afstemming is in 2019 het toezicht uitgevoerd, met als gevolg dat nagenoeg dagelijks toezicht is uitgevoerd (zo blijkt ook uit de beschikbare werkroosters). Daarmee is het Burgumer Mar in die periode volgens verweerder nagenoeg het meest intensief gecontroleerde meer van Fryslân.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De rechtbank stelt vast dat uit het gewijzigde Aanwijzingsbesluit volgt dat het is toegestaan om in het zuidwestelijke kwadrant van het Burgumer Mar met een grotere snelheid dan 9 km/u en met een grotere snelheid dan 20 km/u te varen en te waterskiën in de periode van 15 juni tot en met 15 september in de jaren 2019 en 2020 binnen het tijdvak van 09:00 – 18.00 uur. De rechtbank stelt vast dat de in het gewijzigde Aanwijzingsbesluit opgenomen beperkingen geen betrekking hebben op de hoeveelheid maximaal toegestane vaarbewegingen en boten per dag in het betreffende tijdvak in het zuidwestelijke kwadrant van het Burgumer Mar. Gelet hierop is de rechtbank van oordeel dat het gewijzigde Aanwijzingsbesluit in zoverre voor wat betreft het aspect van de nautische veiligheid ondeugdelijk is gemotiveerd. In dit verband wijst de rechtbank erop dat de gemachtigde van verweerder ter zitting te kennen heeft gegeven dat het op grond van het Aanwijzingsbesluit voor snelvaren aangewezen zuidwestelijke kwadrant van het Burgumer Mar eveneens toegankelijk is voor en gebruikt kan worden door langzamere recreatievaart en zwemmers. Verder wijst de rechtbank er in dit verband op dat de gemachtigde van verweerder ter zitting te kennen heeft gegeven dat voor wat betreft het maximum aantal boten dat in voormeld kwadrant snelvaart in dit geval gekozen is voor een moreel beroep op het gezond verstand van de bestuurders in plaats van regulering door middel van voorschriften, behorend bij het gewijzigde Aanwijzingsbesluit. Gelet op de gedingstukken en voormelde verklaringen ter zitting had het naar het oordeel van de rechtbank vanuit overwegingen in het kader van de nautische veiligheid in de rede gelegen dat verweerder het aantal boten dat tegelijkertijd in voormeld kwadrant mag snelvaren had gemaximeerd, te meer nu duidelijk is geworden dat ook de langzame recreatievaart en zwemmers gelijktijdig met het snelvaren gebruik mogen maken van voormeld kwadrant. Gelet hierop is de rechtbank van oordeel dat er in zoverre een motiveringsgebrek aan het bestreden besluit kleeft.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Stikstofdeposite</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Verzoekster betoogt dat in dit geval een volledig doorlopen procedure in het kader van de Wet natuurbescherming (Wnb) ontbreekt, zodat de door verweerder verleende ontheffing nog niet definitief is. In dit verband wijst verzoekster erop dat er door haar een bezwaarschrift is ingediend tegen de door verweerder verleende ontheffing ingevolge de Wnb. Volgens verzoekster is een Wnb-ontheffing een absolute voorwaarde om de pilot snel-varen Burgumer Mar te kunnen uitvoeren. Sinds de recente uitspraak van 29 mei 2019 van de Afdeling bestuursrechtspraak van de Raad van State (AbRvS) inzake de Programmatische aanpak stikstof (PAS), kenbaar uit ECLI:NL:RVS:2019:1603, is die kwestie in de visie van verzoekster des te prangender, aangezien de pilot snelvaren tot een (veel) hogere dispositie van stikstof zal leiden op nabijgelegen Natura 2000-gebieden zoals de Alde Feanen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Verweerder stelt zich op het standpunt dat de tijdelijke ontheffing van 9 april 2019, partieel gewijzigd bij beslissing op bezwaar van 29 oktober 2019, voor het pilotproject is verleend (op een onderzoeksgrondslag), omdat niet uitgesloten kan worden dat vernieling en/of beschadiging van enkele nesten van in het riet broedende vogels door golfslag mogelijk is als gevolg van het snelvaren op het Burgumer Mar. Het gaat hierbij om de kleine karekiet en fuut. Overige verstoringen van door de Wnb beschermde natuurwaarden zijn volgens verweerder niet aan de orde. In dit verband wijst verweerder erop dat de ontheffing verschillende voorwaarden bevat, zoals een monitoringsplicht van de effecten op de natuurwaarden door het snelvaren alsmede een onderzoek naar de effecten van golfslag in verband met de eventuele verstoring van de rietvogels. Verder wijst verweerder erop dat in de ontheffing is gemotiveerd dat in beginsel geen vergunning nodig is op grond van de Wnb voor watervogels op het meer vanwege de mitigerende maatregelen die worden genomen (de benodigde afstand tot de oever, de beperkingen in vaarperiode en de venstertijden). Omdat tegelijkertijd echter niet geheel valt uit te sluiten dat een enkel nest verloren kan gaan van rietbroeders door golfslag, is hiervoor een ontheffing verleend. In de visie van verweerder is er in zoverre geen belemmering om het gewijzigde Aanwijzingsbesluit uit te voeren. Daarbij acht verweerder van belang dat de onderhavige ontheffing formeel bezien geen onderdeel uitmaakt van het gewijzigde Aanwijzingsbesluit. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <parablock>
+        <para>Ingevolge artikel 1, eerste lid, van het gewijzigde Aanwijzingsbesluit mag in het navolgende gebied met een grotere snelheid dan 9 km/u, als bedoeld in het besluit van gedeputeerde Staten van Fryslân van 9 oktober 1990, no. WM.9017941 5, en met een grotere</para>
+        <para>snelheid dan 20 km/u worden gevaren en gewaterskied als bedoeld in artikel 8.06 van het BPR:</para>
+        <para>- 	Zuidwestelijk kwadrant van de Burgumer Mar binnen de gele markering conform tekening bijlage 1;</para>
+        <para>Ingevolge artikel 1, tweede lid, van het gewijzigde Aanwijzingsbesluit mag in het zuidwestelijk kwadrant worden snelgevaren en gewaterskied in de periode van 15 juni</para>
+        <para>(of later) tot en met 15 september (of eerder) in de jaren 2019 en 2020, binnen het tijdvak van 09:00 uur - 18:00 uur.</para>
+        <para>Ingevolge artikel 2, tweede lid, van het gewijzigde Aanwijzingsbesluit is het niet toegestaan te snelvaren in het aangewezen gebied met een snelle motorboot waarvan de water-verplaatsing meer bedraagt dan 1,5 mᶾ.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <parablock>
+        <para>In de toelichting is met betrekking tot artikel 1, tweede lid, van het gewijzigde Aanwijzingsbesluit vermeld dat het tijdvak wordt aangewezen als maximaal tijdvak. Het is mogelijk dat dit tijdvak wordt aangepast, indien uit berekening van de stikstofdepositie blijkt dat het aantal vaaruren zodanig moet worden ingeperkt om te kunnen voldoen aan de vigerende normstelling. Aangezien de discussie rondom de problematiek met betrekking tot de stikstofdepositie ten tijde van dit besluit nog niet is uitgekristalliseerd, kan het zijn dat de huidige normstelling nog wordt aangepast. Minimaal zes weken voorafgaand aan de start van de pilot zal met een recente stikstofberekening en de dan geldende normstelling het maximaal aantal vaaruren worden bepaald en daarmee de in te stellen periode. Communicatie hierover vindt tijdig plaats via de gebruikelijke publicatiekanalen.</para>
+        <para>In de toelichting van artikel 2, tweede lid, van het Aanwijzingsbesluit is vermeld dat deze bepaling is opgenomen om grote snelle motorboten met enorme waterverplaatsing te kunnen weren. Het bepalen van de mᶾ waterverplaatsing is voor een handhaver redelijk eenvoudig</para>
+        <para>in te schatten. Het gewicht van een lichaam (in dit geval de boot) is gelijk aan gewicht van de verplaatste vloeistof (Wet van Archimedes).</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5.</nr>
+      <para>De rechtbank stelt vast dat verweerder bij besluit van 9 april 2019, partieel gewijzigd bij besluit op bezwaar van 29 oktober 2019, een tijdelijke ontheffing ingevolge de Wnb heeft verleend voor de pilot snelvaren op het Burgumer Mar. Voor de activiteit als bedoeld in artikel 2.7, tweede lid, van de Wnb is een aparte vergunning aangevraagd. Dat is een keuze van de aanvrager. Het is, anders dan eisers menen, niet verplicht om aan te haken. Dit betekent dat er in zoverre geen sprake is van strijdigheid met artikel 2.27 van de Wabo (vgl. AbRvS, 13 maart 2019, ECLI:NL:RVS:2019:803). Gelet hierop ligt ter beoordeling van de rechtbank uitsluitend de vraag voor of de Wnb in dit geval op voorhand aan de uitvoerbaarheid van het gewijzigde Aanwijzingsbesluit in de weg staat. De rechtbank beantwoordt voormelde vraag ontkennend en overweegt daartoe als volgt. In hetgeen eiseres in haar algemeenheid zonder concrete, verifieerbare onderliggende stukken of rapportages heeft gesteld voor wat betreft de stikstofdepositie op het Natura 2000-gebied Alde Feanen ziet de rechtbank geen aanleiding om tot de conclusie te komen dat de Wnb op voorhand aan de uitvoering van dit project in de weg staat. Deze grond van eiseres slaagt niet.</para>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Geluidsoverlast</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Eiseres betoogt dat er ten onrechte geen beoordeling door verweerder is verricht met betrekking tot geluidsoverlast op het [vakantiepark] ”.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Onder verwijzing naar een uitspraak van 18 september 2002 van de Afdeling bestuursrechtspraak van de Raad van State (AbRvS), kenbaar uit ECLI:NL:RVS:2002: AE7801, stelt verweerder zich op het standpunt dat de Svw, die overigens ten opzichte van destijds niet relevant gewijzigd is, duidelijk aangeeft welke belangen een rol mogen spelen bij de beantwoording van de vraag welke gebieden wel of niet in aanmerking komen voor reglementering. In dit verband wijst verweerder erop dat het BPR is gebaseerd op artikel 3 van de Svw. Dit artikel is geplaatst in het hoofdstuk “Ordening van het scheepvaartverkeer op scheepvaartwegen”. Die ordening strekt naar de mening van verweerder en blijkens de duidelijke tekst van die bepaling, enkel ten dienste van de daarin genoemde belangen. In de visie van verweerder wordt het specialiteitsbeginsel dus strikt toegepast gelet op de stelligheid van de wettekst.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>In de Memorie van Toelichting bij de Svw (TK 1987/88, 20 893, nr. 3) is op pagina 27 onder meer vermeld dat ook in andere wetten dan de hiervoor bedoelde scheepvaartwetten bepalingen voorkomen die mede kunnen worden toegepast in verband met bepaalde aspecten voor het gebruik van wateren met schepen. Te denken valt hierbij vooral aan wetten op het terrein van het milieubeheer, zoals de Natuurbeschermingswet (Stb. 1967, 572) en de Wet geluidhinder (Stb. 1979, 99), die incidenteel kunnen leiden tot uitvoeringsmaatregelen die voor een bepaald watergebied mede het gebruik daarvan door het scheepvaartverkeer beperken of verbieden met als doel het milieu in dat gebied te beschermen tegen de daarvoor nadelige gevolgen van het scheepvaartverkeer. Deze regelingen op zich komen niet in strijd met de regeling in het onderhavige wetsvoorstel, doordat daarin mede met het oog op vorenbedoelde wetten in artikel 3 niet is voorzien in de mogelijkheid om op grond van artikel 4 verkeersreglementering vast te stellen met als doel de bescherming van milieubelangen. Wel zal bij de toepassing van die wetten ten aanzien van het scheepvaartverkeer mede rekening moeten worden gehouden met de belangen van het doorgaande scheepvaartverkeer.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4.</nr>
+      <para>Gelet op het specialiteitsbeginsel kan de grond van eiseres voor wat betreft de gestelde geluidsoverlast op voormeld vakantiepark naar het oordeel van de rechtbank niet leiden tot de conclusie dat het gewijzigde aanwijzingsbesluit om die reden onrechtmatig is. Reeds om deze reden slaagt deze grond van eiseres niet.</para>
+      <para />
+      <para>8. Gelet op rechtsoverwegingen 4.3. en 5.3. berust het bestreden besluit op een ondeugdelijke motivering. Om die reden is het beroep van eiseres gegrond en komt het bestreden besluit voor vernietiging in aanmerking. Aangezien het bestreden besluit betrekking heeft op de tijdvakken van 15 juni tot en met 15 september in de jaren 2019 en 2020, ziet de rechtbank geen aanleiding voor het toepassen van een bestuurlijke lus en wordt in dit geval volstaan met de vernietiging van het bestreden besluit.</para>
+      <para />
+      <para>9. Aangezien het beroep gegrond wordt verklaard, ziet de rechtbank aanleiding om verweerder ingevolge artikel 8:75 van de Awb in de proceskosten van eiseres te veroordelen. Onder toepassing van het Besluit proceskosten bestuursrecht (Bpb) kunnen deze kosten worden begroot op € 1.078,40, waarvan € 1.050,-- in verband met door een derde beroepsmatig verleende rechtsbijstand en € 28,40, zijnde de reiskosten van de vertegenwoordigers van eiseres. Verder ziet de rechtbank aanleiding om te bepalen dat verweerder het door eiseres betaalde griffierecht ad € 333,-- aan hen dient te vergoeden.   </para>
+      <para>Beslist wordt als volgt.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond en vernietigt het bestreden besluit;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiseres ten bedrage van € 1.078,40 en bepaalt dat verweerder deze kosten aan eiseres dient te vergoeden;</para>
+    <para>- bepaalt dat verweerder het door eiseres betaalde griffierecht ad € 333,-- aan haar dient te vergoeden.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. L. Mulder, voorzitter, mr. E.M. Visser en mr. D. Pool, leden, in aanwezigheid van mr. H.L.A. van Kats als griffier. </para>
+      <para>De beslissing is in het openbaar uitgesproken op 30 september 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier                                                                                         De voorzitter</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending van deze uitspraak hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden op:</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

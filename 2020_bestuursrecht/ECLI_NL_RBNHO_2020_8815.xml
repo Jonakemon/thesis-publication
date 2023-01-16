@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:8815</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-11T14:30:09</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">HAA 20/4776</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#vereenvoudigdeBehandeling">Vereenvoudigde behandeling</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Alkmaar</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:references rdfs:label="Wetsverwijzing" bwb:resourceIdentifier="jci1.31:c:BWBR0005252&amp;artikel=6&amp;g=2009-10-01">Wet openbaarheid van bestuur 6</dcterms:references>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:8815">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:8815</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-11-11T09:50:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:8815 Rechtbank Noord-Holland , 05-11-2020 / HAA 20/4776</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:8815:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>BNT inmiddels beslist op Wob-verzoek. Bestuurlijke dwangsom afgewezen, wel proceskostenveroordeling en vergoeding van het griffierecht.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:8815:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para>Zittingsplaats Alkmaar</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 20/4776</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 5 november 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. P.R. Botman),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Den Helder</emphasis>, verweerder.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <parablock>
+      <para>Eiser heeft op 10 september 2020 bij de rechtbank beroep ingesteld in verband met het niet tijdig nemen van een besluit op zijn verzoek om informatie op grond van de Wet openbaarheid van bestuur (Wob) van 19 mei 2020.</para>
+      <para>Verweerder heeft op 1 oktober 2020 een verweerschrift ingediend.</para>
+      <para>Eiser heeft bij brief van 16 oktober 2020 op het verweerschrift gereageerd.</para>
+    </parablock>
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <orderedlist numeration="arabic">
+      <listitem>
+        <para>De rechtbank doet op grond van artikel 8:54 van Algemene wet bestuursrecht (Awb) uitspraak zonder zitting.</para>
+      </listitem>
+      <listitem>
+        <para>Ingevolge artikel 6:2, aanhef en onder b, van de Awb wordt voor de toepassing van wettelijke voorschriften over bezwaar en beroep, het niet tijdig nemen van een besluit met een besluit gelijkgesteld. Tegen het niet tijdig beslissen staat dan ook beroep bij de rechtbank open.</para>
+      </listitem>
+      <listitem>
+        <para>Ingevolge artikel 6:12, tweede lid, van de Awb kan het beroepschrift worden ingediend zodra:	<?linebreak?>a.	het bestuursorgaan in gebreke is tijdig een besluit te nemen, en	<?linebreak?>b.	twee weken zijn verstreken na de dag waarop belanghebbende het bestuursorgaan schriftelijk heeft medegedeeld dat het in gebreke is. </para>
+      </listitem>
+      <listitem>
+        <para>Op grond van artikel 6, eerste lid, van de Wob beslist het bestuursorgaan op het verzoek om informatie zo spoedig mogelijk, doch uiterlijk binnen vier weken gerekend vanaf de dag na die waarop het verzoek is ontvangen.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <para>5. Eiser heeft op 19 mei 2020 een verzoek ingediend. Gelet op het voorgaande had verweerder uiterlijk op 17 juni 2020 op het verzoek moeten beslissen. De rechtbank stelt vast dat deze beslistermijn is verstreken. De rechtbank stelt voorts vast dat eiser verweerder bij brief van 13 juli 2020 heeft meegedeeld dat hij in gebreke is en dat sindsdien twee weken zijn verstreken. </para>
+    <para>6. De rechtbank stelt vast dat verweerder inmiddels op 1 oktober 2020 een schriftelijke beslissing heeft genomen op het verzoek van eiser.</para>
+    <para>7. Ingevolge artikel 6:20, derde lid, van de Awb heeft het beroep wegens het niet tijdig nemen van een besluit mede betrekking op het alsnog genomen besluit, tenzij dit geheel aan het beroep tegemoetkomt. </para>
+    <para>8. Eiser heeft bij brief van 16 oktober 2020 verzocht om de verbeurde dwangsommen vast te stellen, verweerder te veroordelen tot vergoeding van de proceskosten en het griffierecht.</para>
+    <para>9. Per 1 oktober 2016 is de Wob gewijzigd. Met ingang van die datum is paragraaf 4.1.3.2 van de Awb niet langer van toepassing op de Wob en wordt dus geen dwangsom meer verbeurd bij het niet tijdig beslissen op grond van deze wet.</para>
+    <para>10. Omdat verweerder inmiddels een besluit heeft genomen en er geen recht bestaat op een dwangsom, heeft eiser geen belang meer bij een procedure over het niet tijdig nemen van een besluit door verweerder. Het beroep van eiser is daarom kennelijk niet-ontvankelijk.</para>
+    <para>11. De rechtbank ziet wel aanleiding voor een proceskostenveroordeling. Verweerder heeft immers pas beslist nadat eiser (terecht) beroep had ingesteld bij de rechtbank. </para>
+    <para>12. De rechtbank bepaalt dat verweerder daarom aan eiser het door hem betaalde griffierecht van € 178,- vergoedt. Daarnaast ziet de rechtbank aanleiding om verweerder te veroordelen in de kosten die eiser in verband met de behandeling van het beroep redelijkerwijs heeft moeten maken. Deze kosten zijn met toepassing van het Besluit proceskosten bestuursrecht begroot op € 262,50 (1 punt, wegingsfactor 0,5). </para>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:	<?linebreak?>-	verklaart het beroep niet-ontvankelijk;	<?linebreak?>-	veroordeelt verweerder in de proceskosten tot een bedrag van in totaal € 262,50;<?linebreak?>-	draagt verweerder op het betaalde griffierecht van € 178,- aan eiser te vergoeden.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. E. Jochem, rechter, in aanwezigheid van A.C. Karels, griffier. De beslissing is in het openbaar uitgesproken op 5 november 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel </title>
+    <parablock>
+      <para>Tegen deze uitspraak kan verzet worden gedaan bij deze rechtbank. </para>
+      <para>Het verzet dient gedaan te worden door het indienen van een verzetschrift binnen zes weken na de dag van verzending van de uitspraak door de griffier. De indiener van het verzetschrift kan daarbij vragen in de gelegenheid te worden gesteld over het verzet te worden gehoord.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

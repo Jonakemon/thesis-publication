@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBZWB:2020:5885</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-01T16:33:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-11-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Zeeland-West-Brabant" scheme="overheid.RechterlijkeMacht">Rechtbank Zeeland-West-Brabant</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-13</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 20_8190  VV en AWB- 20_7892</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5885">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBZWB:2020:5885</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-01T16:31:40</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBZWB:2020:5885 Rechtbank Zeeland-West-Brabant , 13-11-2020 / AWB- 20_8190  VV en AWB- 20_7892</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBZWB:2020:5885:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verlenen van een omgevingsvergunning voor het verbouwen van een bestaand kerkgebouw tot hotel</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBZWB:2020:5885:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK ZEELAND-WEST-BRABANT</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: BRE 20/8190 WABOA VV en BRE 20/7892 WABOA </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van 13 november 2020 van de voorzieningenrechter in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam hotel verzoekers] , te [vestigingsplaats verzoekers] , verzoekster,</bridgehead>
+    <para>gemachtigde: mr. N. Oulad Abdelkrim,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Terneuzen</emphasis>, verweerder.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als derde partij heeft aan het geding deelgenomen: </para>
+      <para>
+        <emphasis role="bold">
+          [naam vergunninghouder]
+        </emphasis>, te [verstigingsplaats vergunninghouder] , vergunninghoudster. <?linebreak?></para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <parablock>
+      <para>Verzoekster heeft beroep ingesteld tegen de beslissing op bezwaar van 15 juni 2020 van het college (bestreden besluit). Het bestreden besluit ziet op het verlenen van een omgevingsvergunning voor het verbouwen van een bestaand kerkgebouw tot hotel op de locatie [adres kerkgebouw] te [verstigingsplaats vergunninghouder] . Zij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+      <para>
+        <?linebreak?>Het onderzoek ter zitting heeft plaatsgevonden in Middelburg op 30 oktober 2020. Namens verzoekster was daarbij aanwezig haar gemachtigde en [naam betrokkene] . Het college heeft zich laten vertegenwoordigen door N. van Hurck. Namens vergunninghoudster waren aanwezig [namen betrokkenen]. </para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <bridgehead role="italic">1.	Feiten </bridgehead>
+    <para />
+    <parablock>
+      <para>Verzoekster exploiteert [naam hotel verzoekers] aan [adres hotel verzoekers] in [vestigingsplaats verzoekers]. Vergunninghoudster is voornemens een hotel te openen aan [adres kerkgebouw] te [vestigingsplaats verzoekers]. </para>
+      <para>
+        <?linebreak?>Vergunninghoudster heeft op 31 januari 2020 een aanvraag ingediend bij het college voor een omgevingsvergunning voor het verbouwen van een bestaand kerkgebouw tot hotel. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft het bestreden besluit voorbereid door middel van de uniforme openbare voorbereidingsprocedure.<footnote-ref linkend="_7ef1ebfa-7c8a-45bc-b56f-cc9618c9dfdf" /></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Met ingang van 25 maart 2020 heeft het college een ontwerpbesluit ter inzage gelegd strekkende tot het verlenen van de aangevraagde omgevingsvergunning.</para>
+      <para>Bij brief van 5 mei 2020 heeft verzoekster daar een zienswijze tegen ingediend. Uit de stempel op het stuk blijkt dat het college de zienswijze op 6 mei 2020 heeft ontvangen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het college heeft verzoekster bij brief van 25 mei 2020 medegedeeld voornemens te zijn om de zienswijze van verzoekster niet-ontvankelijk te verklaren. Volgens het college heeft verzoekster de zienswijze buiten de daarvoor gestelde termijn ingediend. De zienswijze is volgens het college op 6 mei 2020 afgegeven aan de balie.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Verzoekster heeft daar bij brief van 29 mei 2020 op gereageerd.</title>
+    <para />
+    <parablock>
+      <para>Bij bestreden besluit heeft het college de aangevraagde omgevingsvergunning verleend voor het bouwen van een bouwwerk, het afwijken van het bestemmingsplan en voor het brandveilig gebruik. De zienswijze van verzoekster is in dat besluit niet-ontvankelijk verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft daar op 4 augustus 2020 beroep tegen ingesteld en heeft op 27 augustus 2020 een verzoek om een voorlopige voorziening ingediend. <?linebreak?><emphasis role="italic">2.	Gronden </emphasis></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft, kort samengevat, aangevoerd dat het college haar zienswijze tegen de ontwerpomgevingsvergunning ten onrechte niet-ontvankelijk heeft verklaard. Daarnaast heeft het college op onjuiste wijze kennis gegeven van het bestreden besluit. Ook had het college geen toestemming kunnen verlenen voor het afwijken van het bestemmingsplan, omdat het verlenen van de omgevingsvergunning in strijd is met de Hotelvisie van de gemeente Terneuzen en omdat het college onvoldoende rekening heeft gehouden met het concurrentiebelang van verzoekster. Zij heeft de voorzieningenrechter verzocht om het bestreden besluit te schorsen tot de bestuursrechter uitspraak heeft gedaan in de beroepsprocedure. </para>
+    </parablock>
+    <para />
+    <bridgehead role="italic">3.	Kortsluiting  </bridgehead>
+    <para />
+    <parablock>
+      <para>Op grond van artikel 8:81, eerste lid, van de Algemene wet bestuursrecht (Awb) kan de voorzieningenrechter van de rechtbank die bevoegd is of kan worden in de hoofdzaak, op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter is van oordeel dat nader onderzoek niet kan bijdragen aan de beoordeling van de hoofdzaak en doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    </parablock>
+    <para>
+      <?linebreak?>
+      <emphasis role="italic">4.	Wettelijk kader </emphasis>
+    </para>
+    <para />
+    <parablock>
+      <para>De relevante wettelijke bepalingen zijn opgenomen in een bijlage, die deel uitmaakt van deze uitspraak. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para>
+      <emphasis role="italic">5.	Zienswijze </emphasis>
+      <?linebreak?>
+    </para>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Verzoekster heeft aangevoerd dat het college haar zienswijze tegen het ontwerpbesluit ten onrechte niet-ontvankelijk heeft verklaard. In het verweerschrift en ter zitting is dat door het college bevestigd.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>De voorzieningenrechter constateert dat het college de zienswijze van verzoekster ten onrechte niet-ontvankelijk heeft verklaard, wegens het niet tijdig indienen van de zienswijze. Het ontwerpbesluit is op 25 maart 2020 ter inzage gelegd.<footnote-ref linkend="_42fa0549-b164-442b-b99a-4dc8c8bed71c" /> De termijn waarbinnen zienswijzen konden worden ingediend tegen dat ontwerp liep tot uiterlijk 6 mei 2020. Die termijn ving aan met ingang van de dag waarop het ontwerpbesluit ter inzage is gelegd en is verlengd tot en met de eerstvolgende dag die niet een zater-, zon- of feestdag is.<footnote-ref linkend="_8f8867e3-3896-4574-8b9b-42bc7363b4f0" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <parablock>
+        <para>Dat betekent dat het college bij de vaststelling van het bestreden besluit ten onrechte geen rekening heeft gehouden met de bezwaren van verzoekster. Het college heeft niet getoetst of die bezwaren aanleiding gaven om de definitieve omgevingsvergunning ten opzichte van de ontwerpvergunning gewijzigd vast te stellen. Het bestreden besluit berust daarmee niet op een deugdelijke motivering en is naar het oordeel van de voorzieningenrechter in strijd met artikel 3:46 van de Awb, waarin is bepaald dat een besluit dient te berusten op een deugdelijke motivering. De voorzieningenrechter zal het beroep daarom gegrond verklaren. De voorzieningenrechter ziet  – nu het college in het verweerschrift en ter zitting een nadere onderbouwing van het bestreden besluit heeft gegeven – aanleiding om zelf in de zaak te voorzien door de zienswijze alsnog ontvankelijk verklaren en vervolgens te beoordelen of het bestreden besluit (voor het overige) in stand kan blijven. <?linebreak?></para>
+        <para>
+          <emphasis role="italic">6.	Kennisgeving bestreden besluit </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Verzoekster heeft daarnaast aangevoerd dat het college op onjuiste wijze kennis heeft gegeven van het bestreden besluit. In het Gemeenteblad is kennis gegeven van een omgevingsvergunning voor het bouwen en het brandveilig gebruik, terwijl het ook een omgevingsvergunning is voor het afwijken van het bestemmingsplan. Daarnaast heeft verzoekster pas op 8 juli 2020 een exemplaar van het bestreden besluit ontvangen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>De bekendmaking van besluiten die tot een of meer belanghebbenden zijn gericht, geschiedt door toezending of uitreiking aan hen, onder wie begrepen de aanvrager.<footnote-ref linkend="_f132ff0a-b1f0-4354-b6ca-54eb61375f47" /> Omdat het besluit is voorbereid met toepassing van de uniforme openbare voorbereidingsprocedure geldt daarnaast dat van het besluit kennis wordt gegeven, doordat de daarop betrekking hebbende stukken ter inzage worden gelegd en doordat een exemplaar van het besluit wordt toegezonden aan degenen die over het ontwerp van het besluit zienswijzen naar voren hebben gebracht. Voorafgaand aan de terinzagelegging geeft het bestuursorgaan in een of meer dag-, nieuws-, of huis-aan-huisbladen of op een andere geschikte wijze kennis van de terinzagelegging. Volstaan kan worden met het vermelden van de zakelijke inhoud.<footnote-ref linkend="_ccc7b692-0bbe-4f1d-b736-f003d4456604" /> Van belang is dat de inhoud van de kennisgeving van het ontwerpbesluit voor de belanghebbenden voldoende informatie bevat om te kunnen beoordelen of het wenselijk is om het ter inzage gelegde ontwerpbesluit in te zien en eventueel naar aanleiding daarvan een beroepschrift in te dienen.<footnote-ref linkend="_13f7c2dc-5753-43a0-bc35-ef3cd6729074" /><?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>De voorzieningenrechter is van oordeel dat gebreken kleven aan de kennisgeving van het bestreden besluit. Het college heeft verzuimd om een exemplaar van het besluit met of zo spoedig mogelijk na de bekendmaking aan verzoekster toe te sturen. Verzoekster heeft het besluit namelijk pas op 8 mei 2020 ontvangen. Daarnaast stelt verzoekster terecht dat in de kennisgeving in het Gemeenteblad niet de volledige zakelijke inhoud van het bestreden besluit vermeld staat. In de kennisgeving staat namelijk niet dat ook een omgevings-vergunning is verleend voor het afwijken van het planologisch regime, terwijl dat wel essentiële informatie is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <parablock>
+        <para>De voorzieningenrechter ziet aanleiding deze gebreken te passeren met toepassing van artikel 6:22 van de Awb. Niet is gebleken dat verzoekster is benadeeld door de gebreken. Daarbij heeft de voorzieningenrechter in aanmerking genomen dat verzoekster kennelijk tijdig op de hoogte is geraakt van het besluit en de inhoud daarvan. Verzoekster heeft namelijk tijdig beroep ingesteld en heeft gronden aan kunnen voeren tegen de inhoud van het bestreden besluit.<footnote-ref linkend="_be0a7ede-ceee-48fe-b6b9-aed9821b0a85" /><?linebreak?></para>
+        <para>
+          <emphasis role="italic">7.	Afwijken van het bestemmingsplan</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Op het perceel is bestemmingsplan ‘Biervliet’ van toepassing. Aan het perceel is de bestemming ‘Maatschappelijk’ en de functieaanduiding ‘Religie’ toegekend. Uit de planregels blijkt dat het perceel uitsluitend bestemd is voor religieuze voorzieningen.<footnote-ref linkend="_da03816c-6fa5-4943-a8b1-18fee7c0f6c7" /> Tussen partijen is niet in geschil dat het gebruiken van het perceel voor het exploiteren van een hotel in strijd is met die bestemming. Het college heeft voor die strijdigheid toestemming verleend met toepassing van de zogenoemde kruimelgevallenregeling.<footnote-ref linkend="_1e1676ae-7154-44cb-b837-6a6d9af88aa7" /> Ter zitting is duidelijk geworden dat tussen partijen niet in geschil is dat sprake is van het kruimelgeval dat is genoemd in artikel 4, onderdeel 9, van bijlage II bij het Bor: “het gebruiken van bouwwerken, eventueel in samenhang met bouwactiviteiten die de bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, mits, voor zover gelegen buiten de bebouwde kom, het uitsluitend betreft een logiesfunctie voor werknemers of de opvang van asielzoekers of andere categorieën vreemdelingen.” </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Verzoekster heeft aangevoerd dat het college geen toestemming had mogen verlenen voor het in strijd met het bestemmingsplan in gebruik nemen van de kerk als hotel. Een dergelijke ontwikkeling is volgens verzoekster in strijd met de Hotelvisie van de gemeente Terneuzen, waarin staat dat de uitbreiding van hotelkamers dient te gebeuren bij bestaande hotels. Ook heeft het college volgens verzoekster onvoldoende rekening gehouden met het concurrentiebelang van verzoekster. Als gevolg van de ontwikkeling zal het goede ondernemersklimaat worden aangetast. De verhuurbaarheid van de kamers in het hotel van verzoekster zal afnemen en dat zal leiden tot omzetverlies voor verzoekster.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <para>Het college is op grond de Wabo alleen bevoegd om een omgevingsvergunning te verlenen voor het afwijken van het bestemmingsplan, wanneer dat in overeenstemming is met een goede ruimtelijke ordening. De beslissing om al dan niet met toepassing van artikel 2.12, eerste lid, aanhef en onder a, onder 2º, van de Wabo een omgevingsvergunning te verlenen voor het afwijken van het bestemmingsplan behoort tot de bevoegdheid van het college, waarbij het college beleidsruimte heeft en de rechter de beslissing terughoudend moet toetsen. Dat wil zeggen zich moet beperken tot de vraag of het college in redelijkheid tot het besluit heeft kunnen komen om daarvoor wel of geen omgevingsvergunning te verlenen.<footnote-ref linkend="_aa82d315-e054-4330-90e9-36d91aec6f00" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.4</nr>
+      <para>Naar het oordeel van de voorzieningenrechter heeft het college in het bestreden besluit te summier gemotiveerd en onderbouwd waarom het gebruik van de kerk als hotel past binnen een goede ruimtelijke ordening en blijkt uit het bestreden besluit niet dat bij de belangenafweging rekening is gehouden met de Hotelvisie en de belangen van verzoekster. In het bestreden besluit staat daar enkel over opgemerkt: <emphasis role="italic">“Er zijn volgens het college geen ruimtelijke relevante belangen aan de orde die zich verzetten tegen de toestemming en ook is niet aannemelijk geworden dat een onevenredige afbreuk wordt gedaan aan het straat- en bebouwingsbeeld, de milieusituatie, de verkeersveiligheid, de sociale veiligheid en de gebruiksmogelijkheden van de aangrenzende gronden”. </emphasis></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.5</nr>
+      <para>Het bestreden besluit berust daarmee niet op een deugdelijke motivering en is naar het oordeel van de voorzieningenrechter in strijd met artikel 3:46 van de Awb. De voorzieningenrechter zal het beroep daarom gegrond verklaren en zal het bestreden besluit vernietigen voor zover daarbij niet voldoende is gemotiveerd dat het bestreden besluit in overeenstemming is met een goede ruimtelijke ordening. </para>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter ziet aanleiding om de rechtsgevolgen van dit vernietigde deel van het bestreden besluit in stand te laten. Het college heeft in het verweerschrift en ter zitting expliciet aangegeven op welke wijze het college in het bestreden besluit had willen (en moeten) motiveren. Naar het oordeel van de voorzieningenrechter heeft het college op die wijze in beroep alsnog in voldoende mate gemotiveerd waarom de afwijking van het bestemmingsplan in overeenstemming is met een goede ruimtelijke ordening en op welke wijze de belangen van verzoekster zijn meegewogen. Die motivering doorstaat naar het oordeel van de voorzieningenrechter de toets aan het recht. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Ter zitting heeft het college erkend dat de Hotelvisie weliswaar oud is – namelijk is vastgesteld in december 2008 – maar nog wel steeds van kracht is, zodat aan dit beleid dient te worden getoetst. Het college heeft gemotiveerd dat het in gebruik nemen van de kerk als hotel niet in strijd is met de Hotelvisie, omdat in die Hotelvisie (slechts) staat dat uitbreiding van het aantal hotelkamers binnen het driesterrensegment ‘bij voorkeur’ plaatsvindt bij bestaande hotels. Dat sluit niet uit dat een dergelijke uitbreiding ook kan plaatsvinden door het openen van een nieuw hotel. Daar heeft het college aan toegevoegd dat het in gebruik nemen van de kerk als hotel ook van belang is voor het behoud van het kerkgebouw. De rechtbank overweegt dat de Hotelvisie in elk geval ruimte laat voor uitbreiding en is van oordeel dat het college terecht heeft gesteld dat uit de woorden ‘bij voorkeur’ niet meer volgt dan een voorkeur. Het college heeft zich dus op het standpunt kunnen stellen dat de Hotelvisie niet aan nieuwvestiging van een hotel in de weg staat. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>In het verweerschrift en ter zitting heeft het college ook toegelicht op welke manier rekening is gehouden met het concurrentiebelang van verzoekster. Het college heeft gesteld dat dit belang niet kan leiden tot weigering van de vergunning, omdat verzoekster niet heeft aangetoond dat het in gebruik nemen van de kerk als hotel zal leiden tot een minder goed ondernemersklimaat, omzetverlies bij verzoekster of een duurzame ontwrichting van het voorzieningenniveau. <?linebreak?></para>
+        <para>Uit vaste jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State volgt volgens de voorzieningenrechter dat het college in redelijkheid geen doorslaggevend gewicht heeft hoeven toekennen aan het concurrentiebelang van verzoekster. Uitgangspunt van deze rechtspraak is namelijk dat concurrentieverhoudingen bij een planologische belangenafweging in beginsel geen in aanmerking te nemen belang zijn. Dat is alleen anders als zich een duurzame ontwrichting van het voorzieningenniveau zal voordoen die niet door dwingende redenen wordt gerechtvaardigd. Een mogelijke afname van de omzet van verzoekster ten gevolge van het openen van het kerkhotel leidt niet tot een duurzame ontwrichting van het voorzieningenniveau. De vrees voor de komst van nog meer concurrenten, leidt dat evenmin. Voor de beoordeling van de vraag of gevreesd moet worden voor een duurzame ontwrichting van het voorzieningenniveau is doorslaggevend te achten of inwoners van een bepaald gebied niet langer op een aanvaardbare afstand van hun woning kunnen voorzien in hun eerste levensbehoeften.<footnote-ref linkend="_522c4050-b797-4fa9-8fc0-6591a2d9adf5" /> Zoals het college terecht heeft gesteld, heeft verzoekster niet met objectieve en verifieerbare gegevens onderbouwd dat van een dergelijke ontwrichting sprake zal zijn bij komst van het kerkhotel.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">9.	Het verzoek om een voorlopige voorziening </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <para>Gegeven deze uitkomst in de hoofdzaak is er geen aanleiding om een voorlopige voorziening te treffen. Het verzoek om schorsing van het bestreden besluit zal worden afgewezen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">10.	Griffierecht en proceskosten </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Nu het beroep gegrond wordt verklaard, bepaalt de voorzieningenrechter dat het college aan verzoekster het door haar betaalde griffierecht voor het beroep vergoedt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2</nr>
+      <para>Daarnaast zal het college worden veroordeeld in de door verzoeksters gemaakte proceskosten. Vanwege de uitkomst van de hoofdzaak ziet de voorzieningenrechter aanleiding te bepalen dat deze kosten op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand worden vastgesteld op € 1.050,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en wegingsfactor 1). </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>De voorzieningenrechter:</para>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>wijst het verzoek om een voorlopige voorziening af; <?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>verklaart het beroep gegrond;<?linebreak?></para>
+      </listitem>
+      <listitem>
+        <para>vernietigt het bestreden besluit voor zover daarbij de zienswijze van verzoekster niet-ontvankelijk is verklaard; </para>
+      </listitem>
+      <listitem>
+        <para>voorziet zelf in de zaak en verklaart de zienswijze van verzoekster ontvankelijk; </para>
+      </listitem>
+    </itemizedlist>
+    <para>- bepaalt dat deze uitspraak in de plaats treedt van dat vernietigde gedeelte van het bestreden besluit;</para>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>vernietigt het bestreden besluit voor zover daarbij niet voldoende is gemotiveerd en onderbouwd dat de omgevingsvergunning in overeenstemming is met een goede ruimtelijke ordening; </para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat de rechtsgevolgen van dat vernietigde gedeelte van het bestreden besluit in stand blijven;</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <itemizedlist mark="-">
+      <listitem>
+        <para>draagt verweerder op het betaalde griffierecht van € 354,- aan verzoekster te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt verweerder in de proceskosten van verzoekster tot een bedrag van € 1.050,-. </para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.M.J. Kok, rechter, in aanwezigheid van mr. N. van Asten, griffier, op 13 november 2020 en openbaar gemaakt door middel van geanonimiseerde publicatie op www.rechtspraak.nl. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan voor zover daarbij is beslist op het beroep binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+    <parablock>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de Afdeling bestuursrechtspraak van de Raad van State worden verzocht om het treffen van een voorlopige voorziening. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage </title>
+    <para />
+  </section>
+  <section>
+    <title>Wettelijk kader <?linebreak?></title>
+    <bridgehead role="italic">1.	Wet algemene bepalingen omgevingsrecht (Wabo)</bridgehead>
+    <para />
+    <parablock>
+      <para>Ingevolge <emphasis role="underline">artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht</emphasis> is het verboden zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit het bouwen van een bouwwerk. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 2.10, eerste lid, onder c, van de Wabo</emphasis> staat: voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, wordt de omgevingsvergunning geweigerd indien de activiteit in strijd is met het bestemmingsplan, de beheersverordening of het exploitatieplan, of de regels die zijn gesteld krachtens artikel 4.1, derde lid, of 4.3, derde lid, van de Wet ruimtelijke ordening, tenzij de activiteit niet in strijd is met een omgevingsvergunning die is verleend met toepassing van artikel 2.12. </para>
+      <para>
+        <emphasis role="underline">Artikel 2.10, tweede lid, van de Wabo</emphasis> voegt daar aan toe: in gevallen als bedoeld in het eerste lid, onder c, wordt de aanvraag mede aangemerkt als een aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, en wordt de vergunning op de grond, bedoeld in het eerste lid, onder c, slechts geweigerd indien vergunningverlening met toepassing van artikel 2.12 niet mogelijk is.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 2.1, eerste lid, onder c, van de Wabo</emphasis> bepaalt dat het verboden is om zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit het gebruiken van gronden of bouwwerken in strijd met het bestemmingsplan. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 2.12, eerste lid onder a, van de Wabo </emphasis>staat: voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, kan de omgevingsvergunning slechts worden verleend indien de activiteit niet in strijd is met een goede ruimtelijke ordening en indien de activiteit in strijd is met het bestemmingsplan: </para>
+      <para>1°. 	met toepassing van de in het bestemmingsplan of de beheersverordening 	opgenomen regels inzake afwijking,</para>
+      <para>2°. 	in de bij algemene maatregel van bestuur aangewezen gevallen, of</para>
+      <para>3°. 	in overige gevallen, indien de motivering van het besluit een goede ruimtelijke 	onderbouwing bevat. <?linebreak?></para>
+      <para>In <emphasis role="underline">artikel 2.7 van het Besluit omgevingsrecht (Bor)</emphasis> staat: Als categorieën gevallen als bedoeld in artikel 2.12, eerste lid, onder a, onder 2°, van de wet worden aangewezen de categorieën gevallen in artikel 4 van bijlage II. Voor verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de wet waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet van het bestemmingsplan wordt afgeweken, komt ingevolge <emphasis role="underline">artikel 4, negende lid, van de bijlage</emphasis> in aanmerking: het gebruiken van bouwwerken, eventueel in samenhang met bouwactiviteiten die de bebouwde oppervlakte of het bouwvolume niet vergroten, en van bij die bouwwerken aansluitend terrein, mits, voor zover gelegen buiten de bebouwde kom, het uitsluitend betreft een logiesfunctie voor werknemers of de opvang van asielzoekers of andere categorieën vreemdelingen. </para>
+    </parablock>
+    <para />
+    <bridgehead role="italic">2	Bestemmingsplan [naam bestemmingsplan] </bridgehead>
+    <para />
+    <parablock>
+      <para>Ten aanzien van het perceel is bestemmingsplan ‘[naam bestemmingsplan]’ vastgesteld. Aan het perceel is de bestemming ‘Maatschappelijk’ en de functieaanduiding ‘Religie’ toegekend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>In <emphasis role="underline">artikel 13.1, onder d van de planregels</emphasis> staat: De op de verbeelding voor 'Maatschappelijk' (M) aangewezen gronden zijn bestemd voor ter plaatse van de functieaanduiding (re): uitsluitend religieuze voorzieningen. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <footnote id="_7ef1ebfa-7c8a-45bc-b56f-cc9618c9dfdf" label="1">
+    <para> Artikel 3.10, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht (Wabo). </para>
+  </footnote>
+  <footnote id="_42fa0549-b164-442b-b99a-4dc8c8bed71c" label="2">
+    <para> Artikel 3:11, eerste lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_8f8867e3-3896-4574-8b9b-42bc7363b4f0" label="3">
+    <para> Artikel 3:15, eerste lid, jo. 3:16, eerste en tweede lid, van de Awb jo. artikel 3.12, vijfde lid, van de Wabo jo. artikel 1, eerste lid, van de Algemene Termijnenwet. </para>
+  </footnote>
+  <footnote id="_f132ff0a-b1f0-4354-b6ca-54eb61375f47" label="4">
+    <para> Artikel 3:41, eerste lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_ccc7b692-0bbe-4f1d-b736-f003d4456604" label="5">
+    <para> Artikel 3:43, eerste lid, jo. artikel 3:44, eerste lid, onder a en onder b, jo. artikel 3:11, eerste lid jo. artikel 3:12, eerste lid, van de Awb. </para>
+  </footnote>
+  <footnote id="_13f7c2dc-5753-43a0-bc35-ef3cd6729074" label="6">
+    <para> ABRvS 23 augustus 2016, ECLI:NL:RVS:2016:2386 en ABRvS 18 juli 2018, ECLI:NL:RVS:2018:2338, r.o. 7.2. </para>
+  </footnote>
+  <footnote id="_be0a7ede-ceee-48fe-b6b9-aed9821b0a85" label="7">
+    <para> ABRvS 13 juli 2011, ECLI:NL:RVS:2011:BR1436, r.o. 2.1; ABRvS 10 januari 2018, ECLI:NL:RVS:2018:34, r.o. 6.2 en 6.3; ABRvS 5 september 2007, ECLI:NL:RVS:2007:BB2910, r.o. 2.5 en ABRvS 8 februari 2016, ECLI:NL:RVS:2016:417, r.o. 6.4 en 6.5. </para>
+  </footnote>
+  <footnote id="_da03816c-6fa5-4943-a8b1-18fee7c0f6c7" label="8">
+    <para>Artikel 13.1, onder d, van de planregels. </para>
+  </footnote>
+  <footnote id="_1e1676ae-7154-44cb-b837-6a6d9af88aa7" label="9">
+    <para>Artikel 2.1, eerste lid, onder c, jo. 2.12, eerste lid, onder a, onder 2, van de Wabo en artikel 4, bijlage II bij het Besluit omgevingsrecht (Bor). </para>
+  </footnote>
+  <footnote id="_aa82d315-e054-4330-90e9-36d91aec6f00" label="10">
+    <para> ABRvS 16 december 2015, ECLI:NL:RVS:2015:3845, r.o. 6.1. </para>
+  </footnote>
+  <footnote id="_522c4050-b797-4fa9-8fc0-6591a2d9adf5" label="11">
+    <para>ABRvS 16 december 2015, ECLI:NL:RVS:2015:3845, r.o. 6.2. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

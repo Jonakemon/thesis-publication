@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12401</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-08T09:55:58</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-11-20</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 8100</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12401">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12401</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-08T09:55:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12401 Rechtbank Den Haag , 20-11-2020 / AWB - 19 _ 8100</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12401:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Wob-verzoek - opheffing en inkorting van buslijn - geen documenten beschikbaar volgens verweerder - ongegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12401:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/8100</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 20 november 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Wijkvereniging Benoordenhout, eiser</bridgehead>
+    <para>(gemachtigde: E. Molenaar),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">Het college van burgemeester en wethouders van de gemeente Den Haag, verweerder</bridgehead>
+    <para>(gemachtigde: V. Boender-Wiebinga).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 mei 2019 (het primaire besluit) heeft verweerder aan eiseres kenbaar gemaakt dat de documenten waarop het namens eiseres ingediende Wob-verzoek betrekking heeft, niet bij hem beschikbaar zijn.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 20 november 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard.<?linebreak?></para>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft, via een Skype-verbinding, plaatsgevonden op <?linebreak?>11 november 2020. Beide partijen hebben zich laten vertegenwoordigen door hun gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Op 8 februari 2020 is namens eiseres op grond van de Wet openbaarheid van bestuur (Wob) een verzoek ingediend bij de Vervoerautoriteit Metropoolregio Rotterdam Den Haag (MRDH) om meer informatie over de totstandkoming van het HTM-vervoerplan 2019, waaronder en specifiek hier van belang: <?linebreak?>- de gegevens inzake en overwegingen tot opheffing van buslijn 18 (Rijswijk-Clingendael); <?linebreak?>- idem betreffende het inkorten van de huidige buslijn 20 (Den Haag Centraal Station – Duinzigt);<?linebreak?>- wanneer en op welke wijze burgers betrokken zijn bij de opheffing van buslijn 18 respectievelijk het inkorten van de route van de huidige buslijn 20.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>De MRDH heeft op 8 april 2019, onder verwijzing naar artikel 4 van de Wob, het onder 1.1. genoemde deel van het Wob-verzoek doorgestuurd naar verweerder. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Verweerder heeft bij het primaire besluit aan eiseres kenbaar gemaakt dat de eerste twee gevraagde gegevens niet in zijn bezit zijn, omdat verweerder niet over die beslissingen gaat. Verweerder stelt hierover dan ook geen stukken te kunnen overleggen. Over het betrekken van burgers heeft verweerder gesteld dat de MRDH de concept vervoerplannen  zonder directe burgerinspraak vaststelt en naar de deelgemeentes stuurt voor een reactie. Verweerder heeft zijn reactie opgesteld aan de hand van een openbare vergadering van de raadscommissie leefomgeving waarbij de conceptreactie is besproken. De stukken die betrekking hebben op dit proces zijn al openbaar.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Op 16 oktober 2019 is door de Adviescommissie bezwaarschriften (hierna: de adviescommissie) een hoorzitting gehouden. De adviescommissie heeft naar aanleiding van de hoorzitting vragen gesteld aan verweerder.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <para>Op 4 november 2019 heeft de adviescommissie hierop een nader stuk ontvangen van verweerder met antwoorden op de gestelde vragen. De adviescommissie heeft verweerder vervolgens geadviseerd het bezwaar ongegrond te verklaren.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <para>Bij het bestreden besluit heeft verweerder het primaire besluit, onder verwijzing naar het advies van de adviescommissie, gehandhaafd. Hierin is aanvullend overwogen dat de uiteindelijke overwegingen die hebben geleid tot het opheffen en inkorten van respectievelijk de voormalige en huidige buslijn 18 zijn gemaakt door de MRDH. Verweerder beschikt daarom ook niet over documenten waarin de betreffende overwegingen zijn gemaakt. Daarnaast zijn er ook geen documenten bij verweerder beschikbaar van eerdere jaren waaruit blijkt dat toen al is gesproken over het opheffen en inkorten van de buslijn. </para>
+      <para />
+      <para>3. Eiseres kan zich niet verenigen met het bestreden besluit. Namens haar wordt aangevoerd dat er documenten aanwezig zouden moeten zijn bij verweerder over de rol van de gemeente bij de totstandkoming van het HTM-vervoerplan 2019. Uit de toelichting van het vervoerdersbedrijf HTM tijdens het raadsoverleg van 23 mei 2019 over de totstandkoming van vervoerplannen blijkt namelijk dat er uitvoerig overleg plaatsvindt tussen HTM en verweerder bij de voorbereiding van nieuwe vervoersplannen. Voorts blijkt uit een telefoongesprek dat namens eiseres met HTM heeft plaatsgevonden dat verweerder al jaren eerder met HTM plannen heeft besproken over de wijziging van buslijnen, waaronder buslijn 18. Dit sluit aan op het feit dat in de Busconcessie 2019-2034 (van begin 2017) de opheffing van buslijn 18 al wordt vermeld. Dit betekent volgens eiseres dat verweerder toen al op de hoogte was van de opheffing en daarover in gesprek was met HTM. Dat verweerder dus niet over meer documenten beschikt, is niet te volgen. Tot slot stelt eiseres dat sprake is van schending van het zorgvuldigheidsbeginsel, nu er geen gesprek heeft plaatsgevonden met eiseres voordat op het Wob-verzoek is beslist. </para>
+      <para />
+      <para>4. De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Volgens vaste rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling, zie bijvoorbeeld de uitspraak van 21 februari 2018, ECLI:NL:RVS:2018:591), is het, wanneer een bestuursorgaan stelt dat na onderzoek is gebleken dat een bepaald document niet onder hem berust en een dergelijke mededeling niet ongeloofwaardig voorkomt, in beginsel aan degene die om informatie verzoekt om aannemelijk te maken dat, in tegenstelling tot de uitkomsten van het onderzoek door het bestuursorgaan, dat document toch onder het bestuursorgaan berust.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>De rechtbank stelt vast dat verweerder naar aanleiding van de hoorzitting op <?linebreak?>16 oktober 2020 nader onderzoek heeft gedaan. In reactie op de vragen van de adviescommissie heeft verweerder kenbaar gemaakt dat uit navraag en nader onderzoek is gebleken dat er geen andere stukken zijn. Ook is verweerder niet bekend met een liaison persoon tussen verweerder en HTM, waardoor van eventuele andere stukken bij een dergelijk persoon geen sprake is. Ter zitting van de rechtbank heeft verweerder voorts toegelicht dat er, zoals gebruikelijk, voor het wob-verzoek en de aanvullende vragen van de adviescommissie contact is geweest met de betreffende vak-afdeling binnen de gemeente die inhoudelijk op de hoogte is van het onderwerp. Hierbij is specifiek gevraagd naar e-mails en het digitale archief.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De voorgaande aanvulling en de toelichting ter zitting van verweerder, in combinatie met de gegeven toelichting van verweerder in het primaire en het bestreden besluit, maakt dat het de rechtbank niet ongeloofwaardig voorkomt dat verweerder niet beschikt over meer stukken. Het is dan ook aan eiseres om aannemelijk te maken dat verweerder toch beschikt over meer, tot dusver niet openbaar gemaakte, stukken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>De rechtbank constateert dat eiseres voornamelijk op basis van drie bronnen betoogt dat verweerder over meer stukken zou moeten beschikken. Dit betreft de volgende bronnen:<?linebreak?>- de presentatie van [A] (Manager reizigers, innovatie en contractmanagement van HTM) tijdens de raadscommissievergadering van 23 mei 2019 over het opstellen van de vervoersplannen van HTM;<?linebreak?>- het telefoongesprek op 9 april 2019 tussen de gemachtigde van eiseres en [A] ;<?linebreak?>- de Busconcessie 2019-2034, Plan A: Vervoerkundige visie (19 april 2017) van HTM.</para>
+      <para />
+      <parablock>
+        <para>Naar het oordeel van de rechtbank heeft eiseres met voornoemde bronnen niet aannemelijk gemaakt dat verweerder, ondanks dat verweerder naar aanleiding van nader onderzoek heeft gesteld dat er niet meer stukken zijn, toch beschikt over meer stukken. Onder verwijzing naar hetgeen overwogen onder 4.2. stelt de rechtbank dat niet is gebleken dat verweerder onvoldoende heeft gezocht waardoor in redelijkheid kan worden verwacht dat er meer stukken zouden zijn. De rechtbank wijst voorts op de toelichting van verweerder ter zitting dat er wel telefonisch contact is geweest met de betreffende instanties, maar dat de inhoud van die gesprekken niet in stukken is vastgelegd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.5.</nr>
+      <para>Ten aanzien van de stelling van eiseres dat verweerder, althans de betreffende vak-afdeling, met eiseres in gesprek had moeten gaan alvorens op het Wob-verzoek te beslissen, overweegt de rechtbank als volgt. De rechtbank stelt vast dat in dit geval geen sprake is van een Wob-verzoek dat nader gepreciseerd moest worden, nu het verzoek op zichzelf voldoende helder was. Anders dan eiseres stelt, is in dit verband dan ook geen sprake van een schending van het zorgvuldigheidsbeginsel. </para>
+      <para />
+      <parablock>
+        <para>Ter zitting is gebleken dat op 23 januari 2020 een gesprek heeft plaatsgevonden tussen partijen. De rechtbank stelt vast dat er een verschil van mening bestaat over de vraag of dit gesprek betrekking had op het Wob-verzoek van eiseres. Ondanks dat het, gelet op het eerdere aanbod van verweerder om in gesprek te gaan, zorgvuldiger was geweest van verweerder om tijdens het gesprek op 23 januari 2020 explicieter te zijn over het doel van het gesprek, was verweerder niet gehouden om in het kader van het Wob-verzoek in gesprek te gaan. Het gesprek van 23 januari 2020 en de onenigheid over de aard van dat gesprek kan dan ook niet tot een ander oordeel leiden.<?linebreak?>5.	Het beroep is ongegrond.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6.	Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. A.E. Dutrieux, rechter, in aanwezigheid van <?linebreak?>mr. J.F.A. Bleichrodt, griffier. De beslissing is in het openbaar uitgesproken op20 november 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier is verhinderd te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

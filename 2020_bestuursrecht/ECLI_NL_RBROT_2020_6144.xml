@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBROT:2020:6144</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-15T15:00:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-13</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Rotterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Rotterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-10</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ROT 20/3289</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Rotterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:6144">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBROT:2020:6144</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-13T15:13:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBROT:2020:6144 Rechtbank Rotterdam , 10-07-2020 / ROT 20/3289</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBROT:2020:6144:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Toewijzing vovo – uitschrijving brp – onduidelijk waar verzoekster verbleef ten tijde van 2 huisbezoeken – verzoekster lijkt soms wel in woning te verblijven – voordeel twijfel</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBROT:2020:6144:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold caps">Rechtbank Rotterdam</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: ROT 20/3289</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 10 juli 2020 op het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [naam verzoekster] , te [woonplaats verzoekster] , verzoekster,</bridgehead>
+    <para>gemachtigde: mr. E.B. Jobse,</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Rotterdam, verweerder,</bridgehead>
+    <para>gemachtigde: mr. P. Badal.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft bezwaar gemaakt tegen het besluit van verweerder van 28 mei 2020 (het bestreden besluit). Dit besluit gaat over de uitschrijving van verzoekster uit de Basisregistratie Personen (BRP). Verzoekster wil ingeschreven blijven staan in de BRP, totdat er op haar bezwaarschrift is beslist. Zij heeft daarom gevraagd om schorsing van het bestreden besluit. Dit wordt een ‘voorlopige voorziening’ genoemd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Vanwege de omstandigheden rond het coronavirus is er geen fysieke zitting gehouden bij de rechtbank. De gemachtigden van verzoekster en verweerder zijn op 30 juni 2020 telefonisch gehoord door de voorzieningenrechter.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Verzoekster stond bij de BRP ingeschreven op het adres [adres] . Verweerder heeft verzoekster uitgeschreven uit de BRP, omdat zij geen aangifte van adreswijziging heeft doorgegeven en er na onderzoek geen feitelijke verblijfplaats van verzoekster bekend is geworden. Verzoekster is het niet eens met de uitschrijving, omdat zij nog steeds zou wonen op het BRP-adres en het onderzoek van verweerder onvoldoende is geweest.</para>
+    <para />
+    <para>2. De voorzieningenrechter kijkt of het bezwaarschrift van verzoekster kans van slagen heeft. Hij geeft daarbij een voorlopig oordeel over deze zaak. Als deze zaak in beroep wordt voorgelegd aan de rechtbank, hoeft de rechtbank het oordeel van de voorzieningenrechter niet per se te volgen.</para>
+    <para />
+    <para>3. De wet geeft verweerder de mogelijkheid om iemand ambtshalve uit te schrijven uit de BRP<footnote-ref linkend="_049543f4-0efd-4262-a655-8112a00c71e1" />. Ambtshalve betekent dat de uitschrijving niet gebeurt naar aanleiding van een adreswijziging, maar dat verweerder zelf het initiatief neemt om iemand uit te schrijven.</para>
+    <para />
+    <parablock>
+      <para>Om iemand ambtshalve uit te schrijven, moet er zijn voldaan aan drie voorwaarden:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>die persoon kan niet worden bereikt op het BRP-adres;</para>
+      </listitem>
+      <listitem>
+        <para>er is geen aangifte van verhuizing ontvangen;</para>
+      </listitem>
+      <listitem>
+        <para>na gedegen onderzoek zijn geen (andere) verblijf- en adresgegevens van die persoon bekend geworden.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Uit het dossier komt het volgende naar voren. Verweerder heeft het BRP-adres van verzoekster in onderzoek genomen, omdat iemand zich wilde inschrijven op dat adres en er al zes mensen op dat adres ingeschreven stonden. Dat waren verzoekster en haar moeder, en dan nog vier mensen die geen familie van elkaar waren. Verweerder heeft huisbezoeken afgelegd op 5 april 2019 en 28 januari 2020. Uit het huisbezoek van 5 april 2019 kwam naar voren dat drie van de vijf slaapkamers gebruikt werden en dat geen van de slaapkamers op dat moment door verzoekster werd gebruikt. Uit het huisbezoek van 28 januari 2020 kwam naar voren dat alle vijf de slaapkamers gebruikt werden en dat geen van de slaapkamers op dat moment door verzoekster werd gebruikt.</para>
+      <para />
+      <parablock>
+        <para>Verweerder heeft vervolgens aan verzoekster gevraagd om bewijsstukken op te sturen, om aannemelijk te maken dat zij op het BRP-adres woonachtig is. Het is de voorzieningenrechter niet bekend welke stukken er precies zijn gevraagd, omdat de brief voor het opvragen van de stukken niet in het dossier zit. Uit het dossier wordt wel duidelijk dat er in ieder geval is gevraagd om kopieën van het Nederlandse en Marokkaanse paspoort, bankafschriften, bewijzen van afspraken en vervoersbewijzen.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Tijdens het telefonisch horen heeft verweerder verklaard dat de uitschrijving met name is gebaseerd op verklaringen die verzoekster op 1 mei 2020 heeft afgelegd in een telefoongesprek met verweerder. Deze verklaringen zouden namelijk tegenstrijdig zijn aan de verklaringen die haar moeder op die dag telefonisch heeft afgelegd. Verder hebben verzoekster en haar moeder foto’s van de woning opgestuurd en uit die foto’s blijkt volgens verweerder dat er geen persoonlijke spullen van verzoekster in de woning aanwezig zijn. Daarnaast heeft verzoekster volgens verweerder onvoldoende gegevens overgelegd om aannemelijk te maken dat zij wél op het BRP-adres woonachtig is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>De voorzieningenrechter stelt vast dat verweerder verzoekster en haar moeder heeft uitgeschreven uit het BRP. De enkele omstandigheid dat zij tegenstrijdige verklaringen hebben afgelegd, betekent echter niet zonder meer dat beiden niet op het BRP-adres woonachtig zijn. Het zou heel goed kunnen dat de ene persoon er wel woont en de andere persoon niet. Daarnaast is niet duidelijk hoe verweerder tot de conclusie is gekomen dat er geen persoonlijke spullen van verzoekster in de woning aanwezig zijn. Het is daarom van belang om te kijken naar de bewijsstukken die verzoekster bij verweerder heeft ingeleverd.</para>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter vraagt zich echter af of hij de beschikking heeft over het volledige dossier. Verzoekster geeft namelijk op een gegeven moment aan dat zij een afspraak bij de orthodontist heeft ingeleverd, maar die afspraak zit niet in het dossier. Daarnaast is aan verzoekster en haar moeder in eerste instantie gevraagd om bankafschriften in te leveren over de periode vanaf 1 januari 2020. Die bankafschriften lijken in het dossier te zitten. Vervolgens wordt aan verzoekster en haar moeder op 13 maart 2020 gevraagd om bankafschriften in te leveren over de periode vanaf 1 januari 2019. Op 17 maart 2020 wordt door verweerder nog uitgelegd hoe die gegevens aangeleverd moeten worden. Op 17 maart 2020 worden er bankafschriften van verzoekster ingeleverd. Het is de voorzieningenrechter echter niet duidelijk of verzoekster de gevraagde bankafschriften over de periode vanaf 1 januari 2019 heeft ingeleverd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4</nr>
+      <para>De voorzieningenrechter stelt vast dat verzoekster wel kopieën van haar Nederlandse paspoort heeft ingeleverd. Uit de stempels in haar paspoort komt naar voren dat zij mogelijk op het moment van het eerste huisbezoek (5 april 2019) in het buitenland was. Uit de stempels in haar paspoort blijkt echter niet dat zij in het buitenland was ten tijde van het tweede huisbezoek (28 januari 2020). Aangezien alle vijf de slaapkamers op dat moment gebruikt werden door derden, komt de vraag op waar verzoekster op dat moment verbleef.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5</nr>
+      <para>De voorzieningenrechter vindt dat beide partijen nog zaken moeten aantonen. Zo dient verweerder met een overzicht te komen van de inschrijvingen op het BRP-adres van de verschillende bewoners, zodat kan worden gezien op welke momenten er kamers bezet waren. Ook dienen alle stukken die verzoekster heeft ingeleverd, in het dossier te komen. Verzoekster dient meer duidelijkheid te geven over haar verblijf in het buitenland (wanneer verbleef zij in het buitenland en wanneer in Nederland). En waar verbleef zij op het moment dat alle kamers waren verhuurd? Verder dient zij een volledig overzicht van haar bankafschriften in te leveren over de periode vanaf 1 januari 2019, voor zover zij dit niet al heeft gedaan. Uit het dossier komt naar voren dat verzoekster vanaf 1 november 2019 drie maanden zou hebben gewerkt. Verzoekster dient hierover meer informatie te verschaffen (waar heeft zij gewerkt, werkgeversverklaring, loonstroken).</para>
+      <para />
+      <para>4. De voorzieningenrechter vindt dat er op dit moment nog te veel onduidelijkheden zijn over het verblijf van verzoekster. Uit het dossier komt wel naar voren dat tijdens het tweede huisbezoek (28 januari 2020) door één van de huurders is gezegd dat verzoekster de week erop haar intrek zou nemen in de woning, omdat één van de huurders zou verhuizen. Het lijkt er dus op dat verzoekster op sommige momenten wel in de woning verblijft. De voorzieningenrechter zal verzoekster daarom op dit moment het voordeel van de twijfel geven. Dit betekent echter niet dat zij niet meer haar best hoeft te doen om aannemelijk te maken dat zij woonachtig is op het BRP-adres. </para>
+      <para />
+      <para>5. Gelet op wat er hiervoor is overwogen, ziet de voorzieningenrechter aanleiding om het bestreden besluit te schorsen.</para>
+      <para />
+      <para>6. Omdat de voorzieningenrechter het verzoek toewijst, moet verweerder aan verzoekster het door haar betaalde griffierecht vergoeden. Daarnaast zal de voorzieningenrechter verweerder veroordelen in de door verzoekster gemaakte proceskosten. Deze kosten stelt de voorzieningenrechter op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050 (1 punt voor het indienen van het verzoekschrift, 1 punt voor het telefonische horen met een waarde per punt van € 525 en wegingsfactor 1). </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para>- wijst het verzoek om voorlopige voorziening toe en schorst het bestreden besluit tot zes weken na de bekendmaking van de beslissing op het bezwaar van verzoekster;</para>
+    <para>- bepaalt dat verweerder aan verzoekster het betaalde griffierecht van € 178 vergoedt;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoekster tot een bedrag van € 1.050.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan op 10 juli 2020 door mr. A.P. Hameete, voorzieningenrechter, in aanwezigheid van E.C. Petrusma, griffier. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De griffier en de voorzieningenrechter zijn verhinderd de uitspraak te ondertekenen.</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier	voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+  </section>
+  <footnote id="_049543f4-0efd-4262-a655-8112a00c71e1" label="1">
+    <para> Dit kan op grond van artikel 2.22 van de Wet BRP.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

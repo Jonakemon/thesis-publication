@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:1064</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-18T13:32:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-14</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 923</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:1064">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:1064</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-17T12:52:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-18</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:1064 Rechtbank Noord-Holland , 14-02-2020 / AWB - 19 _ 923</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:1064:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Handhavingsverzoek gebruik verdiepingsvloer museum. Beroep gegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:1064:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19/923</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 14 februari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigden: mr. R. Timmers en mr. G. Kuijper),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van de gemeente Haarlem</bridgehead>
+    <parablock>
+      <para>verweerder</para>
+      <para>(gemachtigde: mr. P.L. Bos).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als derde-partijen hebben aan het geding deelgenomen: </para>
+    </parablock>
+    <para>1. <emphasis role="bold">de gemeente Haarlem (afdeling Vastgoed)</emphasis>, te Haarlem, gemachtigde: mr. E.H.P. Brans,</para>
+    <para>2. <emphasis role="bold">Frans Hals Museum</emphasis>, te Haarlem, gemachtigde: mr. T.Q. de Booys.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 28 maart 2018 (het primaire besluit) heeft verweerder beslist op eisers handhavingsverzoek van 20 maart 2018.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 16 januari 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 12 december 2019. Eiser heeft zich laten vertegenwoordigen door [naam 1] [naam 2] en zijn gemachtigden. Verweerder heeft zich laten vertegenwoordigen door [naam 3] en zijn gemachtigde. Voor de gemeente Haarlem (afdeling Vastgoed) zijn verschenen zijn gemachtigde en mr. M. Eddini. Frans Hals Museum heeft zich laten vertegenwoordigen door zijn gemachtigde en [naam 4] . </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Eiser is eigenaar van het appartementsrecht gelegen aan [locatie] in Haarlem. Dit zijn de begane grond en souterrain van dat gebouw. Op de daarboven gelegen eerste verdieping van dat gebouw bevindt zich een deel van het Frans Hals Museum/De Hallen Haarlem (het museum), meer specifiek de Verweyhal. De gemeente Haarlem, afdeling Vastgoed, is eigenaar van het appartementsrecht behorende bij die verdieping. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Eiser heeft verweerder op 20 maart 2018 gevraagd om handhavend op te treden door het museum per direct te sluiten omdat de draagkracht van de verdiepingsvloer (de vloer) volgens hem niet toereikend is. Hij meent dat de huidige situatie onveilig is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>In het primaire besluit van 28 maart 2018 heeft verweerder besloten het museum niet te sluiten met bestuursdwang omdat geen sprake is van onderschrijding van het afkeurniveau van de vloer. Verder wijst verweerder het handhavingsverzoek in zoverre toe dat met het bestuur van het museum dwingende en handhaafbare afspraken zijn gemaakt om het gebruik te beperken. Verweerder zegt toe dat op die afspraken toezicht zal worden gehouden.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Het bestreden besluit gaat – verkort weergegeven – over het volgende. Volgens verweerder voldoet de bestaande eerste verdiepingsvloer van het pand niet aan artikel 2.7 van het Bouwbesluit 2012. De vloer is plaatselijk onvoldoende sterk om een gewenste veranderlijke belasting van 500 kg/m2 op de vloer te dragen. Dit blijkt uit rapporten van Pieters Bouwtechniek van 12 juni 2015 en 12 december 2017. Verweerder heeft met het museum dwingende afspraken gemaakt over het gebruik van de vloer. Deze afspraken zijn neergelegd in een brief van 28 maart 2018. Naar aanleiding van de bezwaren van eiser is deskundigenadvies ingewonnen bij CrowdProfessionals. Uit zijn advies van 27 augustus 2018 blijkt onder meer dat de maatregelen onvoldoende zijn voor het garanderen van de maximum aantal aanwezigen in relatie tot de draagkracht van de vloer. Het museum heeft naar aanleiding van dat advies op 18 september 2018 een aanvullende instructie opgesteld voor zijn medewerkers. Met deze en de oorspronkelijke maatregelen is sprake van een gelijkwaardige oplossing als bedoeld in artikel 1.3. van het Bouwbesluit, aldus verweerder. De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Gelet op het algemeen belang dat gediend is met handhaving, zal in geval van overtreding van een wettelijk voorschrift het bestuursorgaan dat bevoegd is om met een last onder bestuursdwang of onder dwangsom op te treden, in de regel van deze bevoegdheid gebruik moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd, dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisering bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Vast staat dat de vloer niet voldoet aan de eisen die daaraan gesteld worden in artikel 2.7 van het Bouwbesluit, omdat die niet voldoet aan de belastbaarheidseisen van NEN 8700. Daarmee zijn de staat en het gebruik van de vloer in strijd met artikel 2 van de Woningwet. Tussen partijen is niet in geschil dat het museum en de eigenaren (de gemeente Haarlem afdeling Vastgoed en eiser) als overtreders moeten worden beschouwd, in de zin van artikel 5:1 van de Algemene wet bestuursrecht (Awb).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>Omdat de overtreding in dit geval betrekking heeft op artikel 2.7 van het Bouwbesluit, zou de overtreding ook met toepassing van artikel 1.3 van het Bouwbesluit ongedaan gemaakt kunnen worden. Het eerst lid van artikel 1.3 van het Bouwbesluit bepaalt namelijk dat aan een in hoofdstuk 2 tot en met 7 van het Bouwbesluit gesteld voorschrift niet voldaan behoeft te worden indien het bouwwerk of het gebruik daarvan anders dan door toepassing van het desbetreffende voorschrift ten minste dezelfde mate van veiligheid, bescherming van de gezondheid, bruikbaarheid, energiezuinigheid en bescherming van het milieu biedt als is beoogd met de in die hoofdstukken gestelde voorschriften. Volgens verweerder is hieraan voldaan wanneer het museum handelt volgens de opgelegde last (de last).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>De last ziet erop de onder 2.2 genoemde overtreding ongedaan te maken. Aan het museum zijn met betrekking tot de vloer in een aantal afzonderlijke documenten gebruiksbeperkingen opgelegd. Deze gebruiksbeperkingen houden in dat de opslagruimte op de eerste verdieping (in de stukken omschreven als het blauwe deel) niet meer gebruikt of betreden zal worden, dat de toestroom in een van de zalen (in de stukken omschreven als het gele deel) beperkt wordt tot maximaal 100 personen tegelijk en dat de toestroom tot het in de stukken met rood aangegeven deel wordt beperkt tot maximaal 25 personen tegelijk. Voor het rode gedeelte geldt verder dat een suppoost toezicht houdt op het aantal bezoekers. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2</nr>
+      <para>Eiser stelt dat de last onvoldoende duidelijk is. Deze beroepsgrond slaagt. Uitgangspunt is dat de last die is gegeven in het kader van de bestuurlijke handhaving, gelet op de daaraan verbonden verstrekkende gevolgen zodanig duidelijk en concreet geformuleerd moet zijn dat degene tot wie de last is gericht niet in het duister hoeft te tasten over hetgeen gedaan of nagelaten moet worden ten einde toepassing van de aangekondigde dwangmaatregelen te voorkomen (ECLI:NL:RVS:2007:BC0553). Dat geldt ook voor degene die om handhaving verzoekt. Ook die moet weten wanneer aan de last is voldaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3</nr>
+      <para>In het primaire besluit heeft verweerder weliswaar aangegeven dat met het museum dwingende en handhaafbare afspraken zijn gemaakt in de vorm van een gebruiksbeperking, maar die afspraken en gebruiksbeperking worden daarin niet omschreven. Het bestreden besluit is verder gebaseerd op het advies van de Adviescommissie van 19 december 2018. In dat advies staat dat de afspraken zijn vastgelegd in een brief van 28 maart 2018 van verweerder aan het museum. Ook vermeldt het advies dat het museum op 18 september 2018 een aanvullende instructie heeft opgesteld voor zijn medewerkers. De last is dus niet uit het primaire besluit, noch uit de beslissing op het bezwaar, te herleiden. Wat de last inhoudt moet worden afgeleid uit diverse losse stukken. Bovendien zijn tijdens de bezwaarprocedure aanvullende afspraken gemaakt met het museum, zoals blijkt uit de memo van het museum van 18 september 2018. Daarvoor is geen gewijzigd besluit genomen, in de zin van artikel 6:19 van de Awb. Ook is de rechtbank ter zitting gebleken dat de bedoeling is dat de gebruiksbeperkende maatregelen tijdelijk gelden. Het zou gaan om een ‘noodmaatregel’ in afwachting van een constructieve oplossing voor de vloer. Een en ander blijkt echter niet uit het bestreden besluit. Ook is onduidelijk voor hoe lang de maatregel zal gelden. Al het voorgaande maakt dat de last onvoldoende duidelijk is. Het beroep slaagt reeds hierom.</para>
+      <para />
+      <parablock>
+        <para>4. Daarnaast slaagt ook de beroepsgrond dat de last onvolledig is. De last is in zijn huidige vorm namelijk niet te handhaven. In geen van de stukken wordt tot uitdrukking gebracht wat de dwangmaatregelen zijn als niet aan het besluit wordt voldaan (dat wil zeggen als de afspraken niet worden nageleefd). Verweerder heeft daarover desgevraagd verklaard dat bij niet-naleving van de afspraken onderzocht zou kunnen worden of de noodzaak bestaat om een last onder dwangsom of bestuursdwang op te leggen. Aldus heeft verweerder niet volledig op het handhavingsverzoek beslist. Immers had reeds bij het bestreden besluit een beslissing moeten worden genomen over eventuele dwangmaatregelen bij niet-naleving van de afspraken en zou dat niet pas achteraf moeten worden onderzocht. Het beroep slaagt ook hierom.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Eiser heeft verder aangevoerd dat de opgelegde gebruiksbeperkingen niet kunnen worden beschouwd als een gelijkwaardige oplossing zoals bedoeld in artikel 1.3 van het Bouwbesluit. De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <para>Anders dan de voorzieningenrechter in zijn uitspraak van 28 maart 2018 heeft geoordeeld, is naar het oordeel van de rechtbank met de gebruiksbeperking geen sprake van een gelijkwaardige oplossing als bedoeld in het Bouwbesluit. Artikel 1.3 van het Bouwbesluit bepaalt dat een oplossing gelijkwaardig is als die ten minste dezelfde mate van veiligheid, bescherming van de gezondheid, bruikbaarheid, energiezuinigheid en bescherming van het milieu biedt als is beoogd met de in de hoofdstukken 2 tot en met 7 gestelde voorschriften. In dit geval zou de oplossing dus gelijkwaardig moeten zijn aan een vloer die voldoet aan de NEN 8700 norm, die kortgezegd inhoudt dat de vloer ten minste een bepaalde belastbaarheid heeft. Vaststaat dat daarvoor een renovatie van de vloer nodig is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>De gemeente Haarlem (afdeling Vastgoed) en eiser, gezamenlijk de eigenaren van het pand, hebben toegelicht dat zij beide de noodzaak inzien van renovatie van de vloer. Zij verschillen echter van mening over de belastbaarheid die daarbij dient te worden aangehouden, de manier van renoveren en over de kostenverdeling van de renovatie. Ook verweerder heeft uitgesproken dat zij de voorkeur heeft voor renovatie van de vloer. Het komt de rechtbank dan ook onvolledig voor dat verweerder heeft gekozen enkel het museum een gebruiksbeperking op te leggen, zonder met de eigenaren te komen tot afspraken over renovatie van de vloer. De toelichting ter zitting dat de eigenaren ‘er niet uitkomen’ en de ‘stemmingen staken’ is ook niet bevredigend. Verweerder is de gezaghebber die kan gelasten dat partijen de overtreding ongedaan maken of ongedaanmaking daarvan dulden. Daarvoor is geen instemming van de eigenaren vereist. De kostenverdeling en de manier van renoveren zijn vervolgens civiele zaken die verweerder in zijn hoedanigheid als bestuurder niet zou moeten aangaan en waarover de eigenaren tot afspraken zullen moeten komen. Ook de stelling dat de maatregel als tijdelijke (nood)maatregel geldt totdat de eigenaren eruit zijn is niet bevredigend. Als verweerder gehoor wilde geven aan de vraag om genoeg tijd om de renovatie te plannen en uit te voeren, had hij dat tot uitdrukking kunnen brengen in een (lange) begunstigingstermijn. </para>
+      <para />
+      <parablock>
+        <para>Het is niet ondenkbaar dat tijdens die begunstigingstermijn vervolgens een gebruiksbeperking zou gelden. Die gebruiksbeperking zou dan echter in tijd beperkt zijn. Bovendien zou dan op de permanente oplossing gehandhaafd worden en niet enkel op de gebruiksbeperking als zodanig. Het is dat verschil tussen handhaving op een permanente oplossing met in de tussentijd een gebruiksbeperking en enkel handhaving op een tijdelijke gebruiksbeperking, waarin voor de rechtbank tot uitdrukking komt waarom geen sprake is van een gelijkwaardige oplossing. Renovatie van de vloer zou een permanente oplossing zijn. De gebruiksbeperking is niet bedoeld om permanent te gelden, maar is bedoeld om de eigenaren de tijd te geven tot renovatie te komen. Reeds daarom levert de gebruiksbeperking niet een gelijkwaardige oplossing op als constructief voldoen aan de NEN 8700 norm. Het beroep slaagt ook hierom.</para>
+      </parablock>
+      <para />
+      <para>6. Eiser heeft tot slot gesteld dat het gebruik van de eerste verdieping als museum in strijd is met het bestemmingsplan. De rechtbank komt niet toe aan een inhoudelijke beoordeling van dat standpunt. Eiser heef dat pas in de bezwaarfase gesteld. De beslissing die verweerder daarover heeft genomen in het bestreden besluit moet in zoverre worden gezien als een primair besluit, en het beroep als bezwaar daartegen. Verweerder zal over dat deel afzonderlijk een beslissing op het bezwaar moeten nemen.</para>
+      <para />
+      <para>7. Het beroep is gegrond en de rechtbank vernietigt het bestreden besluit. Vanwege de verschillende genoemde zorgvuldigheidsgebreken kunnen de rechtsgevolgen van het bestreden besluit niet in stand blijven. Verweerder zal daarom een nieuw besluit moeten nemen op het bezwaarschrift met inachtneming van deze uitspraak. De rechtbank stelt hiervoor een termijn van zes weken. In dat nieuwe besluit moet een handhavingsbeslissing worden genomen die is gericht op permanente ongedaanmaking van de overtreding – tenzij sprake is van een bijzondere omstandigheid als bedoeld in 2.1. Verweerder dient daarbij te bepalen wanneer de overtreding ongedaan is gemaakt. Hij bepaalt daarbij bijvoorbeeld de belastbaarheid van de vloer die na de begunstigingstermijn dient te zijn bereikt. Die beslissing moet worden opgenomen in het handhavingsbesluit en afdwingbaar zijn met een dwangmaatregel. Voor de tussentijd tijdens de begunstigingstermijn kan een tijdelijke oplossing worden geformuleerd. Die moet dan ook in het handhavingsbesluit worden opgenomen, duidelijk zijn en afdwingbaar zijn met een dwangmaatregel. </para>
+      <para />
+      <para>8. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt. </para>
+      <para />
+      <para>9. De rechtbank veroordeelt verweerder verder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 525,- en een wegingsfactor 1). Ook de deskundigenkosten ten bedrage van € 2.880,- zijn voldoende onderbouwd en in redelijkheid gemaakt, zodat die ook voor vergoeding in aanmerking komen. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:<?linebreak?>-	verklaart het beroep gegrond;<?linebreak?>-	vernietigt het bestreden besluit;</para>
+    </parablock>
+    <para>- draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+    <para>- draagt verweerder op het betaalde griffierecht van € 174,- aan eiser te vergoeden;</para>
+    <para>- veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 3.930,-.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.J. Maarleveld, rechter, in aanwezigheid van </para>
+      <para>mr. F. Vermeij, griffier. De beslissing is in het openbaar uitgesproken op 14 februari 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter		</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:373</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-06-02T12:57:35</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-05-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-06-02</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/2243</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:373">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:373</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-29T08:04:06</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-06-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:373 College van Beroep voor het bedrijfsleven , 02-06-2020 / 18/2243</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:373:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Verordening (EG) nr. 853/2004</para>
+      <para />
+      <para>Hoger beroep bestuurlijke boete onvoldoende verwarmde messenhouders in kuikenslachterij. Rapport van bevindingen mocht worden aangevuld. Appellante heeft geen duidelijkheid verschaf over alternatief systeem.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:373:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak </para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>Zaaknummer: 18/2243</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 2 juni 2020 op het hoger beroep van:<?linebreak?></bridgehead>
+    <bridgehead role="bold">
+      [naam 1] B.V., te [plaats] , appellante, </bridgehead>
+    <para>(gemachtigde: mr. P.J.G.G. Sluijter),</para>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Rotterdam van 21 september 2018, kenmerk ROT 17/4409, in het geding tussen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>appellante</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>en<?linebreak?></bridgehead>
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, de minister,</bridgehead>
+    <para>(gemachtigde: mr. ing. H.D. Strookman).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Appellante heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam (rechtbank) van 21 september 2018 (niet gepubliceerd).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft een reactie op het hogerberoepschrift ingediend.</para>
+      <para>
+        <?linebreak?>Het onderzoek ter zitting heeft plaatsgevonden op 16 januari 2020. Dit hoger beroep is tegelijk behandeld met andere hoger beroepen van appellante, namelijk 18/2235, 18/2236, 18/2237, 18/2238, 18/2239, 18/2240, 18/2241, 18/2242, 18/2244, 18/2245 en 18/2728.</para>
+      <para>Appellante, vertegenwoordigd door [naam 2] en [naam 3] , is verschenen, bijgestaan door haar gemachtigde. De minister heeft zich laten vertegenwoordigen door zijn gemachtigde. Voor de minister zijn tevens verschenen drs. J.D. Greep, drs. R. Visser, drs. C. de Bruin, drs. B. van der Linden en drs. B. Braarels.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Voor een uitgebreide weergave van het verloop van de procedure en de in dit geding van belang zijnde feiten en omstandigheden, voor zover niet bestreden, wordt verwezen naar de aangevallen uitspraak, die als bijlage II aan deze uitspraak is gehecht. Het College volstaat met het volgende en gaat voor de beoordeling van deze zaak uit van het wettelijk kader zoals dat is opgenomen in bijlage I bij deze uitspraak. Beide bijlagen maken deel uit van de uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Bij besluit van 23 december 2016 (het primaire besluit) heeft de minister aan appellante een boete opgelegd van € 2.500,- vanwege een overtreding van de Wet dieren. Het betreft de boetezaak 201606433, waarin de minister – kort gezegd – een boete heeft opgelegd omdat de temperatuur van het water in de sterilisatoren te laag was. Het gaat hierbij volgens de minister om overtreding van artikel 3, eerste lid, in verbinding met punt 3 van hoofdstuk II van sectie I van bijlage III van Verordening (EG) nr. 853/2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (Verordening nr. 853/2004).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Bij besluit van 6 juli 2017 (het bestreden besluit), waartegen het beroep bij de rechtbank was gericht, heeft de minister het bezwaar van appellante ongegrond verklaard en het primaire besluit gehandhaafd.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de rechtbank</title>
+    <para />
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Voor zover het College hierna delen van de aangevallen uitspraak citeert, geldt daarbij dat hierin appellante is aangeduid als ‘eiseres’ en de minister als ‘verweerder’.		</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>In de aangevallen uitspraak heeft de rechtbank het beroep van appellante tegen het bestreden besluit ongegrond verklaard.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para>3. <?linebreak?>Voor zover appellante in hoger beroep enkel heeft verwezen naar de door haar in bezwaar en beroep aangevoerde standpunten, stelt het College vast dat appellante niet met een op het bestreden besluit, onderscheidenlijk de aangevallen uitspraak, toegespitste motivering nader heeft uiteengezet waarom het bestreden besluit, respectievelijk de aangevallen uitspraak, de rechterlijke beoordeling in hoger beroep niet kan doorstaan. Het College gaat derhalve aan deze standpunten voorbij.</para>
+    <para />
+    <para>4. Het College zal de in geding zijnde boete hierna beoordelen aan de hand van de door appellante tegen de aangevallen uitspraak aangevoerde beroepsgronden. Het College zal eerst beoordelen of de rechtbank terecht heeft geconcludeerd dat appellante de door de minister geconstateerde overtreding heeft begaan. Vervolgens zal het College de andere beroepsgronden bespreken. </para>
+    <para />
+    <para>5. Het College wijst erop dat het ingevolge artikel 6:2, eerste lid, van de Wet dieren verboden is in strijd te handelen met bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling aangewezen voorschriften van EU-verordeningen betreffende onderwerpen waarop deze wet van toepassing is. Het hiervoor in 1.2 genoemde voorschrift van artikel 3, eerste lid, van Verordening nr. 853/2004 is ingevolge artikel 2.4, eerste lid, van de Regeling dierlijke producten aangewezen als een voorschrift van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de Wet dieren.  </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Vaststelling overtreding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>6.1</nr>
+      <para>De rechtbank heeft, voor zover hier van belang, het volgende overwogen:</para>
+      <para />
+      <parablock>
+        <para>“2.1 Verweerder heeft de boete gebaseerd op een rapport van bevindingen dat op 14 oktober 2016 op ambtsbelofte is opgemaakt door een toezichthouder van de NVWA met toezichthoudernummer 32730. De toezichthouder beschrijft in dit rapport dat hij op 14 oktober 2016 omstreeks 08.00 uur in het bedrijf van eiseres was in het kader van regulier toezicht. Hij heeft twee sterilisatoren gecontroleerd in de aanvoerhal, op de panklaarafdeling en in de delenhal. Deze controle heeft hij gedaan door gebruik te maken van een door de NVWA ter beschikking gestelde gekalibreerde thermometer. Hij zag dat de sterilisatoren in de aanvoerhal (aansnijders) een temperatuur hadden van 40,9 en 42,9 graden Celsius, op de panklaarafdeling een temperatuur van 82,1 en 80,6 graden Celsius en in de delenhal een temperatuur van 11,7 en 15,7 graden Celsius: in die hal stonden de sterilisatoren zelfs nog niet aan. Hij constateerde dat de uitsnijderij (waaronder de delenhal), waar vlees van pluimvee werd bewerkt niet beschikte over de nodige voorzieningen om gereedschap te ontsmetten met heet water van ten minste 82 graden Celsius en dat daar geen alternatief systeem met een gelijkwaardig effect aanwezig was. Toen de toezichthouder de chef van de delenhal/inpak van het bedrijf van eiseres hiermee confronteerde, heeft deze, nadat hem de cautie was gegeven, verklaard dat men vergeten was de sterilisatoren aan te zetten. </para>
+        <para>Bij het verweerschrift van 22 september 2017 heeft verweerder een aanvullend/gewijzigd rapport van bevindingen van dezelfde toezichthouder gevoegd dat op ambtsbelofte is opgemaakt op 21 augustus 2017. De enige wijzigingen ten opzichte van het eerdere rapport is dat de toezichthouder heeft toegevoegd dat hij <emphasis role="italic">tijdens het slachtproces</emphasis> (cursivering door de rechtbank) heeft geconstateerd dat de uitsnijderij waar vlees van pluimvee werd verwerkt niet beschikte over de nodige voorzieningen om gereedschap te ontsmetten met heet water van ten minste 82 graden Celsius of over een alternatief systeem met een gelijkwaardig <emphasis role="italic">steriliserend</emphasis> effect. </para>
+        <para>(…) </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3.</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank blijkt in voldoende mate uit het rapport van bevindingen van 14 oktober 2016 en 21 augustus 2017 wat de toezichthouder eiseres heeft verweten. De toezichthouder heeft geconstateerd dat de in het bedrijf van eiseres aangetroffen sterilisatoren niet de vereiste temperatuur hadden. Hierdoor kon het gereedschap voor de slacht van pluimvee niet op de juiste wijze worden ontsmet. In het aanvullend proces-verbaal van 21 augustus 2017 staat expliciet dat de constateringen door de toezichthouder tijdens het slachtproces zijn gedaan. Maar ook uit het rapport van bevindingen van 14 oktober 2016 blijkt al dat het slachtproces was aangevangen op het moment van de controle door de toezichthouder. Op pagina 1 van dit rapport staat immers dat de toezichthouder heeft geconstateerd dat de uitsnijderij <emphasis role="italic">waar vlees van pluimvee werd bewerkt</emphasis> (cursivering door de rechtbank) niet beschikte over de nodige voorzieningen om gereedschap te ontsmetten met heet water van ten minste 82 graden Celsius of een alternatief systeem met een gelijkwaardig effect. Anders dan eiseres in beroep stelt, vindt de rechtbank deze omschrijving in het rapport voldoende duidelijk en concreet om aan te nemen dat het slachtproces op dat moment al was begonnen. Er is dus geen grond voor het oordeel dat het rapport van bevindingen op dit punt onvoldoende duidelijk is en dat verweerder het rapport in beroep niet had mogen aanvullen. </para>
+        <para>Verweerder heeft ter zitting toegelicht dat de delenhal deel uitmaakt van de uitsnijderij. In het rapport staat dat eiseres […] rapport is aangezegd voor de delenhal (waar de sterilisatoren niet aan stonden). Uit het rapport blijkt dat de sterilisatoren in de delenhal op het tijdstip van de controle door de toezichthouder (8.00 uur) nog niet aan stonden. Hoewel in het rapport ook de aanvoerhal en de panklaarafdeling worden genoemd, heeft de geconstateerde overtreding uitsluitend betrekking op de delenhal, aldus verweerder. Op die afdeling heeft de toezichthouders geconstateerd dat de twee sterilisatoren een temperatuur van 11,7 graden en 15,7 graden Celsius hadden. Eiseres heeft dat ook niet betwist. </para>
+        <para>Uit het rapport blijkt verder dat eiseres niet over een alternatief systeem met een gelijkwaardig steriliserend effect beschikte. Eiseres stelt in beroep slechts dat er een andere methode voor ontsmetting binnen haar bedrijf wordt gehanteerd, maar zij heeft dit tijdens de controle niet toegelicht. Indien eiseres andere methoden van ontsmetting zou hanteren, dan had dit voor de toezichthouder zichtbaar moeten zijn. Eiseres is in de gelegenheid gesteld om tijdens de controle te reageren op de bevindingen van de toezichthouder en zij had op dat moment kunnen aantonen dat er een alternatief ontsmettingssysteem beschikbaar was. De chef delenhal/inpak heeft op dat moment alleen verklaard dat men was vergeten om de sterilisatoren aan te zetten. De rechtbank volgt eiseres niet in haar stelling dat het op de weg van verweerder lag om nader te onderzoeken of er een alternatief systeem voor de ontsmetting van het gereedschap aanwezig was. Dit volgt ook niet uit artikel 3, eerste lid, en bijlage III, sectie I, hoofdstuk II, punt 3 van Verordening 853/2004. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4.</nr>
+      <parablock>
+        <para>Gelet op het voorgaande heeft verweerder terecht vastgesteld dat eiseres niet beschikte over de nodige voorzieningen om gereedschap adequaat te ontsmetten. Verweerder gaat er terecht van uit dat het er om gaat dat de apparatuur om te ontsmetten voorhanden en in werking is; niet of er zich een onhygiënische situatie heeft voorgedaan. In de bijlage III, sectie I, hoofdstuk II, onder punt 3 van de Verordening 853/2004 staat het als volgt omschreven: “… moeten beschikken over de nodige voorzieningen…. ”. Die voorzieningen moeten dus klaar staan en geschikt zijn om te ontsmetten. Daar gaat het om. Als de apparatuur niet klaarstaat en geschikt is, is het risico te groot dat bijvoorbeeld een slachter ervoor kiest om een mes dat op de grond valt weer te gebruiken, zonder het op de vereiste wijze te ontsmetten; als hij op dat moment de apparatuur nog moet aanzetten, kost dat teveel oponthoud. Over de uitleg van de bepaling van genoemd punt 3 kan in die zin geen twijfel bestaan.</para>
+        <para>Verweerder heeft dus terecht vastgesteld dat eiseres artikel 3, eerste lid, en bijlage III, sectie I, hoofdstuk II, punt 3 van Verordening 853/2004, gelezen in samenhang met artikel 6.2, eerste lid, van de Wet dieren en artikel 2.4, eerste lid, aanhef en onder d, van de Regeling dierlijke producten heeft overtreden. Gelet op artikel 8.6 en artikel 8.7 van de Wet dieren, in samenhang gelezen met artikel 2.2, eerste lid, onder c, van het Besluit handhaving en overige zaken Wet dieren, artikel 1.2 en de bijlage van de Regeling handhaving en overige zaken Wet dieren was verweerder bevoegd om eiseres een boete van € 2.500,- op te leggen.”</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Appellante voert aan dat het rapport van bevindingen niet vermeldt dat gedurende het productieproces sprake was van onvoldoende verwarmde messenhouders. De rechtbank heeft volgens appellante ten onrechte overwogen dat dit zou blijken uit het oorspronkelijke rapport van bevindingen, omdat daarin wordt gesproken over de uitsnijderij, maar daarmee wordt een plaats aangeduid en niet een activiteit. Bovendien beschikte appellante over gelijkwaardige alternatieve systemen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Het College gaat ervan uit dat de rechtbank in de aangevallen uitspraak abusievelijk verwijst naar (punt 3 van) sectie I van hoofdstuk II van bijlage III van Verordening nr. 853/2004 in de plaats van (punt 3 van) sectie II van hoofdstuk II van bijlage III van deze verordening. Het is evident dat de voorschriften uit sectie I, die betrekking hebben op vlees van als landbouwhuisdieren gehouden hoefdieren niet van toepassing is ten aanzien van appellante die een pluimveeslachterij exploiteert. Genoemde sectie II is van toepassing op vlees van pluimvee. Appellante heeft hieromtrent ook niets aangevoerd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>De minister heeft de boete in deze zaak gebaseerd op de bevindingen van de toezichthouder van de NVWA bij de controle die is uitgevoerd op 14 oktober 2016. De bevindingen hiervan zijn neergelegd in het rapport van bevindingen van 14 oktober 2016. Dit rapport van bevindingen is aangevuld op 21 augustus 2017. De rechtbank heeft deze bevindingen weergegeven in het hiervoor geciteerde punt 2.1 van de aangevallen uitspraak, waarnaar het College op deze plaats verwijst.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.5</nr>
+      <para>Volgens vaste jurisprudentie van het College, waaronder de uitspraak van 21 juni 2017 (ECLI:NL:CBB:2017:230), mag een bestuursorgaan in beginsel uitgaan van de bevindingen in een toezichtrapport, indien de controle is verricht en het rapport is opgemaakt door een hiertoe bevoegde controleur en het rapport zelf geen grond biedt om aan de juistheid van de bevindingen te twijfelen. Het ligt dan op de weg van degene bij wie de controle is verricht om aannemelijk te maken dat de bevindingen niettemin onjuist zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.6</nr>
+      <para>Tussen partijen staat vast dat de boete is opgelegd, omdat de toezichthouder bij de controle op 14 oktober 2016 omstreeks 08.00 uur in de delenhal heeft geconstateerd dat de sterilisatoren niet aan stonden. Appellante betwist dat op het moment van deze constatering het productieproces gaande was, nu dit niet valt af te leiden uit het rapport van bevindingen van 14 oktober 2016. Ter zitting heeft zij daarbij toegelicht dat in de delenhal onder meer vers kippenvlees wordt gefileerd en dat dit fileren niet direct bij het opstarten van het productieproces begint. Gelet ook op het tijdstip van de controle, circa twee uur na de start van het productieproces, en de verklaring van de chef delenhal/inpak tegenover de toezichthouder dat men was vergeten de sterilisatoren aan te zetten, ziet het College in de toelichting van appellante ter zitting geen grond om aan de juistheid van de bevindingen te twijfelen. Het College is daarbij met de rechtbank van oordeel dat verweerder het rapport van bevindingen in de beroepsfase heeft mogen aanvullen met het rapport van bevindingen van 21 augustus 2017, nu het gaat om een verduidelijking van de gedane constatering op 14 oktober 2016 dat de uitsnijderij waar het vlees van pluimvee werd bewerkt niet beschikte over de nodige voorzieningen om gereedschap te ontsmetten met heet water van ten minste 82 graden Celsius of een alternatief systeem met een gelijkwaardig effect.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.7</nr>
+      <para>Appellante beperkt zich tot de enkele stelling dat zij over een alternatief systeem beschikt. Nu zij deze stelling geenszins heeft onderbouwd met feiten en omstandigheden, laat staan heeft beargumenteerd waarom sprake is van een acceptabel alternatief systeem als bedoeld in punt 3 van hoofdstuk II van sectie II van bijlage III van Verordening nr. 853/2004, volgt het College appellante niet in deze stelling. Appellante heeft daarover, hoewel hiertoe uitdrukkelijk ter zitting in de gelegenheid gesteld, geen duidelijkheid verschaft.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.8</nr>
+      <parablock>
+        <para>Gelet op het vorenstaande was de minister bevoegd appellante een boete op te leggen wegens de hier aan de orde zijnde overtreding.</para>
+        <para>
+          <?linebreak?>
+          <emphasis role="underline">Overige beroepsgronden</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Keuze minister voor opleggen boetes </emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>Appellante heeft aangevoerd dat de minister ten aanzien van haar bedrijf een lik-op-stukbeleid voert waarbij iedere vermeende onvolkomenheid wordt vastgelegd in een rapport van bevindingen en leidt tot een boete. De minister heeft ten onrechte geen rekening gehouden met dit ‘nultolerantiebeleid’, waardoor appellante financieel en in haar bedrijfsvoering zwaar wordt belast door het moeten voeren van veel bezwaar- en beroepsprocedures.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Voor zover appellante hiermee heeft willen betogen dat de minister niet in redelijkheid tot het opleggen van de in geding zijnde boete heeft kunnen besluiten, ziet het College voor dat oordeel geen grond in de specifiek hiertoe door appellante genoemde redenen. Het gaat bij het opleggen van een boete als hier in geding om de aanwending van een discretionaire bevoegdheid, waarbij de minister bij het maken van deze keuze beschikt over beleidsruimte. Gesteld noch gebleken is dat ter zake beleid van de minister van toepassing is waaruit volgt dat het opleggen van deze boete achterwege had moeten blijven. De minister heeft gewezen op het belang van de bescherming van de volksgezondheid en voedselveiligheid, dat wordt gediend door de overtreden wettelijke voorschriften van Verordening nr. 853/2004, en het grote belang van adequate handhaving van deze voorschriften ter bescherming van dat belang. Volgens de minister is het opleggen van een boete, die bestraffend van aard is en gericht is op leedtoevoeging, wegens de in geding zijnde overtreding, gelet op alle feiten en omstandigheden, een geschikte en passende sanctie voor appellante. Op het bedrijf van appellante zijn over een langere periode bij controles een groot aantal overtredingen op het gebied van de volksgezondheid, voedselveiligheid, het dierenwelzijn en de diergezondheid geconstateerd. Van een incidentele overtreding is dus geen sprake. In dit verband heeft de minister ter zitting uiteengezet dat, voordat is besloten om op het bedrijf van appellante geconstateerde overtredingen te sanctioneren met bestuurlijke boetes, er veel en regelmatig overleg tussen appellante en de NVWA heeft plaatsgevonden om tot verbetering van de naleving van de betreffende wet- en regelgeving te komen en dat  met het oog daarop eerst waarschuwingen aan haar zijn opgelegd. Toen verbetering uitbleef, heeft de minister besloten de handhaving ‘op te schalen’ en boetes op te leggen. Nadat de erkenning van de slachterij van appellante in de eerste helft van 2017 gedeeltelijk is geschorst, appellante een verbeterplan heeft ingediend en deze schorsing is opgeheven, is de situatie op het bedrijf volgens de minister spectaculair verbeterd. Die stijgende lijn is vastgehouden. Er worden minder overtredingen geconstateerd. Appelante heeft een en ander niet  weersproken. Onder deze omstandigheden acht het College de keuze van de minister om in de onderhavige zaak gebruik te maken van zijn bevoegdheid om een boete op te leggen niet onaanvaardbaar. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Hoogte boete </emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>Appellante betwist voorts de hoogte van de opgelegde boete met een beroep op artikel 5:46, derde lid, van de Algemene wet bestuursrecht (Awb). Volgens appellante had de minister een lagere boete moeten opleggen wegens een aantal bijzondere omstandigheden als bedoeld in deze bepaling. Appellante heeft hiertoe aangevoerd dat zij van de aan de boete ten grondslag gelegde gedraging geen enkel economisch voordeel heeft genoten en dat sprake is van niet te vermijden voorvallen in het productieproces, die haar economische belang juist schaden. Voorts heeft de minister ten onrechte geen rekening gehouden met het door hem ten aanzien van appellante gevoerde lik-op-stuk beleid, wat naast voor haar belastende besluiten in meerdere gevallen leidt tot het door de minister gegrond (moeten) verklaren van door haar ingediende bezwaarschriften. Door het (moeten) voeren van veel bezwaar- en beroepsprocedures wordt appellante financieel en in haar bedrijfsvoering zwaar belast. Voorts staat de opeenstapeling van boetebesluiten volgens appellante in geen verhouding tot de financiële positie van haar bedrijf.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2</nr>
+      <para>Het College stelt vast dat de hoogte van de bestuurlijke boete die mag worden opgelegd wegens de in geding zijnde overtreding op grond van artikel 8.8 van de Wet dieren wettelijk is vastgelegd in het Besluit handhaving en overige zaken Wet dieren (Besluit handhaving) en de Regeling handhaving en overige zaken Wet dieren (Regeling handhaving). Niet gebleken is dat de minister met betrekking tot de in geding zijnde boete een onjuiste toepassing heeft gegeven aan hetgeen in deze regelingen is bepaald omtrent de hoogte van de boete. Appellante heeft weliswaar gesteld dat de minister de boete had moeten halveren op grond van artikel 2.3, aanhef en onder a, van het Besluit handhaving, maar zij heeft niet concreet gemotiveerd waarom de in deze bepaling bedoelde risico’s of gevolgen van een overtreding voor volksgezondheid gering zijn of ontbreken. Gegeven de bevindingen van de toezichthouders in de onderhavige boetezaak en gelet op de aard van de hier aan de orde zijnde overtreding, acht het College niet aannemelijk dat die gevolgen gering zijn of ontbreken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3</nr>
+      <para>Ingevolge artikel 5:46, derde lid, van de Awb legt het bestuursorgaan, indien de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgesteld, niettemin een lagere boete op indien de overtreder aannemelijk maakt dat de vastgestelde bestuurlijke boete wegens bijzondere omstandigheden te hoog is. In hetgeen appellante heeft aangevoerd in het kader van deze bepaling ziet het College geen reden om de boete verdergaand te matigen of te schrappen. Zoals het College onder meer heeft geoordeeld in de uitspraak van 23 april 2019, ECLI:NL:CBB:2019:167, brengt artikel 6 van het EVRM mee dat de rechter dient te toetsen of de hoogte van de opgelegde boete in redelijke verhouding staat tot de ernst en de verwijtbaarheid van de overtreding. Voor bij wettelijk voorschrift vastgestelde boetebedragen vormt artikel 5:46, derde lid, van de Awb het kader waarin de op artikel 6 van het EVRM gestoelde evenredigheidstoets wordt voltrokken. Binnen dit kader kan en behoort te worden beoordeeld of de ingevolge artikel 2.2, eerste lid, aanhef en onder c, van het Besluit handhaving, gelezen in samenhang met artikel 1.2 van de Regeling handhaving, voorgeschreven boete in het concrete geval evenredig is aan met name de aard en ernst van de geconstateerde overtreding, de mate waarin deze aan de overtreder kan worden verweten en, zo nodig, de omstandigheden waaronder de overtreding is begaan. De door appellante genoemde omstandigheden zijn geen omstandigheden waarin de minister aanleiding had moeten zien om de boete te matigen of te schrappen. Gelet op hetgeen hiervoor in 7.2 is overwogen met betrekking tot de aanpak van het bedrijf van appellante door de minister, leidt de enkele stelling van appellante dat zij financieel en in haar bedrijfsvoering zwaar wordt belast door de bezwaar- en beroepsprocedures en dat zij geen economisch voordeel heeft gehad van de gesanctioneerde gedragingen, niet tot de conclusie dat de boete onevenredig is. Op het bedrijf van appellante was sprake was van een situatie waarin over een langere periode structureel  overtredingen van wettelijke voorschriften op het gebied van de volksgezondheid, de voedselveiligheid, de dierengezondheid en het dierenwelzijn zijn geconstateerd door de minister, terwijl appellante er niet in slaagde om wat dit betreft wezenlijke verbeteringen door te voeren, ondanks herhaald overleg met de NVWA en andere maatregelen die door de NVWA en de minister zijn opgelegd. Dit blijkt ook uit de uitspraken van heden van het College in de hiervoor in het procesverloop genoemde andere hoger beroepsprocedures van appellante 18/2235, 18/2236, 18/2237, 18/2238, 18/2239, 18/2240, 18/2241, 18/2242, 18/2244 en 18/2245. Genoemde omstandigheden komen dan ook voor rekening en risico van appellante. Appellante heeft haar stelling dat de opeenstapeling van boetebesluiten in geen verhouding staat tot de financiële positie van haar bedrijf niet met feiten onderbouwd. Appellante heeft op geen enkele wijze op enig moment in de procedure inzicht gegeven in de financiële positie van haar bedrijf. Ter zitting heeft appellante desgevraagd verklaard dat zij dit inzicht ook niet zal geven. De financiële positie van appellante geeft daarom geen grond voor het oordeel dat de boete moet worden gematigd of op nihil moet worden vastgesteld.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Proceskostenveroordeling</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>9.1</nr>
+      <para>Appellante betoogt dat de rechtbank de proceskostenvergoeding ten onrechte heeft gematigd. Zij wijst er op dat alle beroepen meerdere boetebesluiten omvatten, die elk voor zich nopen tot bestudering en bespreking van de feiten en de juridische merites van de betreffende zaak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2</nr>
+      <parablock>
+        <para>Het College stelt vast dat de rechtbank ten aanzien van de proceshandelingen in het inhoudelijke beroep gericht tegen het bestreden besluit, anders dan in andere van de hiervoor genoemde hoger beroepsprocedures, geen proceskostenveroordeling heeft uitgesproken. Deze beroepsgrond treft dan ook geen doel.</para>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+          <?linebreak?>
+        </para>
+      </parablock>
+      <para>10. Het hoger beroep is gezien het voorgaande ongegrond. De aangevallen uitspraak dient te worden bevestigd.</para>
+      <para />
+      <para>11. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para />
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing </title>
+    <para />
+    <para />
+    <parablock>
+      <para>Het College bevestigt de aangevallen uitspraak.<?linebreak?></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. S.C. Stuldreher, mr. H.S.J. Albers en mr. J.A.M. van den Berk, in aanwezigheid van mr. A. Verhoeven, griffier. De beslissing is in het openbaar uitgesproken op 2 juni 2020. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De voorzitter is verhinderd de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De griffier is verhinderd de uitspraak te ondertekenen. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage I: van toepassing zijnde wettelijke voorschriften</title>
+    <para />
+    <parablock>
+      <para>Verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong luidt, voor zover van belang, als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 3</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>		Algemene verplichtingen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. Exploitanten van levensmiddelenbedrijven dienen te voldoen aan de toepasselijke bepalingen van bijlagen II en III.</para>
+      <para>
+        <?linebreak?>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bijlage III</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Specifieke voorschriften</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Sectie II: Vlees van pluimvee en lagomorfen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Hoofdstuk II: voorschriften voor slachthuizen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Exploitanten van levensmiddelenbedrijven moeten ervoor zorgen dat de bouw, de indeling en de uitrusting van slachthuizen waar pluimvee of lagomorfen worden geslacht, aan de volgende eisen voldoen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3. Zij moeten beschikken over de nodige voorzieningen om gereedschap te ontsmetten met heet water van ten minste 82 °C of over een alternatief systeem met een gelijkwaardig effect.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Wet dieren luidt, voor zover van belang, als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	“Artikel 6:2 Strafbaarstelling overtredingen EU-verordeningen<?linebreak?>	1. Het is verboden in strijd te handelen met bij of krachtens algemene maatregel van 	bestuur of bij ministeriële regeling aangewezen voorschriften van EU-verordeningen.</para>
+      <para>
+        <?linebreak?>	(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>	Artikel 8:7 Bevoegdheid<?linebreak?>Onze Minister kan een overtreder een bestuurlijke boete opleggen	</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 8.8 Hoogte bestuurlijke boete</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen kan worden opgelegd.</para>
+      <para>
+        <?linebreak?>2. De op grond van het eerste lid te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht per overtreding, begaan door een rechtspersoon of een vennootschap, of, indien dat meer is, 10 procent van de jaaromzet in het boekjaar voorafgaande aan het boekjaar waarin de boete wordt opgelegd.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Regeling dierlijke producten luidt, voor zover van belang, als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 2.4 Verbodsbepalingen EU-verordeningen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. Voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de wet zijn:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>d. de artikelen 3 en 4, eerste tot en met vierde lid, 5 en 7, eerste lid, van verordening (EG) nr. 853/2004;”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het Besluit handhaving en overige zaken wet dieren, luidt voor zover van belang, als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 2.2 Boetecategorieën</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1. De hoogte van de bestuurlijke boete die Onze Minister aan een overtreder voor een overtreding kan opleggen wordt overeenkomstig de volgende boetecategorieën vastgesteld:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>a. categorie 1: € 500;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>b. categorie 2: € 1500;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>c. categorie 3: € 2500;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>d. categorie 4: € 5000;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>e. categorie 5: € 10.000 of, indien dat meer is, 10% van de jaaromzet.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>2. Indien de hoogte van de krachtens het derde lid aangewezen boetecategorie door het met de overtreding te behalen economische voordeel aanmerkelijk wordt overschreden, kan Onze Minister een bestuurlijke boete opleggen van ten hoogste categorie 5, bedoeld in het eerste lid.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>3. Bij ministeriële regeling worden de bepalingen waarvoor in geval van overtreding een bestuurlijke boete kan worden opgelegd, ingedeeld overeenkomstig de daarbij aangewezen boetecategorie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>4. In de regeling, bedoeld in het derde lid, kan worden bepaald dat de hoogte van de bestuurlijke boete voor een overtreding wordt vastgesteld op het bedrag behorende bij de naast hogere boetecategorie ten opzichte van de categorie, bedoeld in het derde lid, indien bij de betreffende gedraging een in die regeling vastgesteld percentage dieren van het totaal aantal betrokken dieren was betrokken op een in die regeling aangewezen wijze.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2.3 Gevolgen volksgezondheid, diergezondheid en dierenwelzijn</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Indien de risico’s of de gevolgen van een overtreding voor de volksgezondheid, 	diergezondheid, dierenwelzijn of milieu:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>a. gering zijn of ontbreken, wordt het bedrag, bedoeld in artikel 2.2, eerste lid, gehalveerd;</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>b. ernstig zijn, wordt het bedrag, bedoeld in artikel 2.2, eerste lid, verdubbeld.”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Regeling handhaving en overige zaken Wet dieren luidt, voor zover van belang, als volgt:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“Artikel 1.2 Indeling categorieën bestuurlijke boete</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De hoogte van de bestuurlijke boete, bedoeld in artikel 2.2, eerste lid, van het besluit, wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlage bij deze regeling voor desbetreffende overtredingen zijn vastgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bijlage als bedoeld in artikel 1.2 van de Regeling handhaving en overige zaken Wet dieren</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…) Categorie</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Regeling dierlijke producten</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>(…)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2.4, eerste lid, onderdeel d						3”</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Algemene wet bestuursrecht luidt, voor zover van belang, als volgt<?linebreak?></para>
+      <para>“Artikel 5:41<?linebreak?>	Het bestuursorgaan legt geen bestuurlijke boete op voor zover de overtreding niet aan de overtreder kan worden verweten.</para>
+      <para>
+        <?linebreak?>	(…)<?linebreak?></para>
+      <para>Artikel 5:46<?linebreak?>	1. De wet bepaalt de bestuurlijke boete die wegens een bepaalde overtreding ten 	hoogste kan worden opgelegd.<?linebreak?>	(…)<?linebreak?>	3. Indien de hoogte van de bestuurlijke boete bij wettelijk voorschrift is vastgelegd, legt het 	bestuursorgaan niettemin een lagere bestuurlijke boete op indien de overtreder aannemelijk 	maakt dat de vastgestelde bestuurlijke boete wegens bijzondere 	omstandigheden te hoog is.”<?linebreak?></para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>
+      <?linebreak?>Bijlage II: de aangevallen uitspraak</title>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

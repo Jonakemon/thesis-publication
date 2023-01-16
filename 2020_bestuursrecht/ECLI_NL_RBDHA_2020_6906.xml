@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:6906</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-08-07T09:00:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-07-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-07-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">NL18.17712</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:6906">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:6906</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-07-28T15:03:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-08-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:6906 Rechtbank Den Haag , 21-07-2020 / NL18.17712</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:6906:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Asiel, Rohingya, eiser niet aannemelijk gemaakt dat hij afkomstig is uit Rhakine, gestelde problemen ongeloofwaardig geacht, situatie van eiser was niet zodanig dat hij risico loopt op schending van artikel 3 EVRM</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:6906:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: NL18.17712</para>
+    </parablock>
+    <bridgehead role="bold">
+      <?linebreak?>uitspraak van de enkelvoudige kamer in de zaak tussen</bridgehead>
+    <bridgehead role="bold">
+      [eiser] , eiser, V-nummer [V-nummer]</bridgehead>
+    <para>(gemachtigde: mr. J.M.M. Heilbron),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de staatssecretaris van Justitie en Veiligheid, verweerder</bridgehead>
+    <para>(gemachtigde: mr. F. Coenen).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 september 2018 (het bestreden besluit) heeft verweerder de aanvraag van eiser tot het verlenen van een verblijfsvergunning asiel voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 (hierna: Vw) afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft nadere stukken ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft via videoverbinding (skype) plaatsgevonden op 2 juli 2020. </para>
+      <para>Eiser is verschenen, bijgestaan door zijn gemachtigde. Als tolk is verschenen N.N. Lwin. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Eiser stelt te zijn geboren op [geboortedag] 1988 en de Myanmarese nationaliteit te hebben. Hij heeft op 4 januari 2018 de onderhavige aanvraag ingediend.</para>
+    <para />
+    <para>2. Eiser heeft, kort samengevat, het volgende aan zijn asielaanvraag ten grondslag gelegd. Op 9 mei 2017 rond 23:00 uur zijn zeven personen de woning van zijn tante, waar hij met zijn vrouw en kinderen logeerde, binnengedrongen op zoek naar illegale Rohingya’s. Eiser was niet aanwezig. Twee aanwezige monniken hebben de woning doorzocht en eisten van de politie dat zij de bewoners zouden arresteren, wat de politie heeft geweigerd. Vervolgens is buiten chaos ontstaan en uiteindelijk is de groep weggegaan. Daarna is eiser erachter gekomen dat hij werd gevolgd. Eiser is daarom met zijn gezin gaan onderduiken op wisselende adressen. Hij heeft ook andere problemen ondervonden als gevolg van zijn afkomst en geloof, aldus eiser.</para>
+    <para />
+    <para>3. Verweerder heeft de aanvraag van eiser op grond van artikel 31 Vw als ongegrond afgewezen. Als relevante elementen van het asielrelaas van eiser worden door verweerder onderscheiden:</para>
+    <para>- identiteit, nationaliteit en etniciteit als Rohingya;</para>
+    <para>- incident op 9 mei 2017 in relatie tot betrokkene en het daarmee samenhangende onderduiken;</para>
+    <para>- overige problemen vanwege etniciteit en geloof.</para>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de identiteit, nationaliteit en etniciteit als Rohingya, afgezien van zijn gestelde geboorteplaats [geboorteplaats 1] in [gebied] , geloofwaardig geacht. Het incident op 9 mei 2017 en het onderduiken heeft verweerder ongeloofwaardig geacht en de overige problemen gedeeltelijk ongeloofwaardig. Er is volgens verweerder geen sprake van een situatie van vervolging in vluchtelingrechtelijke zin. Daarvoor zijn de door eiser genoemde problemen onvoldoende zwaarwegend. Ook heeft eiser niet aannemelijk gemaakt dat hij bij uitzetting een reëel risico op ernstige schade loopt, als bedoeld in artikel 3 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (hierna: EVRM).</para>
+    </parablock>
+    <para />
+    <para>4. Eiser betoogt dat verweerder het in Werkinstructie 2014/10 (hierna: WI 2014/10) neergelegde toetsingskader niet op een juiste wijze heeft gehanteerd bij de beoordeling van zijn aanvraag.</para>
+    <parablock>
+      <para>	Eiser betoogt verder dat verweerder ten onrechte ongeloofwaardig heeft geacht dat eiser is geboren in [geboorteplaats 1] , in plaats van in [geboorteplaats 2] . Hij heeft verklaard dat [geboorteplaats 2] als gevolg van omkoping als geboorteplaats op zijn identiteitsbewijs is gekomen en dat die gegevens zijn overgenomen in zijn paspoort. Dat verweerder ongeloofwaardig acht dat eiser voor het verkrijgen van het paspoort geen documenten heeft hoeven overleggen waaruit zijn geboorte in [geboorteplaats 2] blijkt, heeft verweerder niet met bronnen onderbouwd.</para>
+      <para>	Voorts betoogt eiser dat zijn relaas over het incident van 9 mei 2017 wordt ondersteund door ingebrachte stukken die als objectief verifieerbare bronnen kunnen worden aangemerkt, zoals de brief van Vluchtelingenwerk Nederland met bijlagen en een filmpje op de Facebookpagina van “All News”, waarin zijn tante wordt geïnterviewd over het incident. Gelet op deze bewijsstukken is het onbegrijpelijk dat verweerder heeft geoordeeld dat hij niet aannemelijk heeft gemaakt dat het incident hem persoonlijk treft. Uit de stukken blijkt dat de politie op zoek was naar ‘illegale Rohingya’ en dat de chaos op straat begon nadat de politie die niet heeft aangetroffen. Eiser was de enige Rohingya die bij zijn tante verbleef en was dus de aanleiding voor de controle. Ook heeft verweerder zich ten onrechte op het standpunt gesteld dat eiser niet aannemelijk heeft gemaakt dat hij op het moment van het incident bij zijn tante verbleef en de stelling dat eiser zijn relaas zou hebben gestoeld op het filmpje wordt door verweerder niet nader gemotiveerd. Nu de verklaringen van eiser in grote lijnen geloofwaardig zijn had hem het voordeel van de twijfel moeten worden gegeven conform WI 2014/10. Ook heeft verweerder ten onrechte overwogen dat hij wisselend zou hebben verklaard over het tijdstip waarop de situatie weer was genormaliseerd. Hij heeft daarin onderscheid gemaakt tussen de situatie boven in de woning en beneden op straat. Verweerder heeft dat niet onderkend. Ook betekent de omstandigheid dat eiser het adres van zijn tante niet weet niet dat het ongeloofwaardig is dat hij daar heeft verbleven. Als je weet hoe je ergens moet komen is het immers minder relevant om het adres te weten. Verder heeft hij niet wisselend of tegenstrijdig verklaard over hoeveel mensen de woning van zijn tante zijn binnengedrongen. Hij heeft vanaf het begin af aan aangegeven dat dit 7 personen waren (2 monniken en 5 burgers/aanhangers van Mabatha) en dat daarnaast ook politie aanwezig was. Ook kan hem niet worden verweten dat hij tijdens het gehoor niet uitgebreid heeft verklaard over de reden van de inval bij zijn tante, aangezien daar tijdens het gehoor door verweerder ook niet op is doorgevraagd. Gelet op het voornemen heeft hij dit in zijn zienswijze nader toegelicht. Het standpunt van verweerder dat het niet aan de gehoorambtenaar is om vragen ‘maar te blijven herhalen’ doet geen recht aan de samenwerkingsverplichting. Verder is verweerder niet ingegaan op eisers zienswijze ten aanzien van de vermissing van zijn tante. Met betrekking tot de informatie op Facebook betoogt eiser dat deze informatie hem voor het eerst in de beschikking is tegengeworpen. Dit is in strijd met het beginsel van hoor en wederhoor. Daarnaast voert hij aan dat het klopt dat hij één keer uit eten is geweest in de tijd dat hij ondergedoken zat, maar dat hij met de auto heen en weer is gegaan en door een ander van het gezelschap op sociale media is getagd in plaats van dat hij dat zelf heeft gedaan. Verder voert hij aan dat hij, anders dan verweerder stelt, geen neef of andere familie in Nederland heeft, alleen vrienden. </para>
+      <para>	Eiser betoogt verder dat de bewijslast voor hem te hoog wordt gelegd. Hij heeft een oprechte inspanning geleverd zijn verzoek met uitvoerige verklaringen en stukken te onderbouwen. Voorts gaat het om de “overall credibility” en kan één inconsistentie niet leiden tot het oordeel dat zijn relaas ongeloofwaardig is.</para>
+      <para>	Gelet op voorgaande dient de persoonlijke betrokkenheid van eiser bij het incident van 9 mei 2017 geloofwaardig te worden geacht. Gelet daarop, maar ook gelet op de algemene situatie voor Rohingya in Myanmar loopt hij bij terugkeer risico op schending van artikel 3 van het EVRM. Eiser wijst hierbij op de uitspraak van de rechtbank Den Haag, zittingsplaats Rotterdam, van 30 juli 2018 (ECLI:NL:RBDHA:2018:9348).</para>
+      <para>	Voorts betoogt eiser dat de hoogte van de door verweerder toegekende dwangsom wegens het niet tijdig beslissen niet juist is.</para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank overweegt als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Tussen partijen is niet in geschil dat de situatie voor Rohingya in Myanmar niet gemakkelijk is en dat zij te maken krijgen met discriminatie, met name in Rakhine. Dit blijkt ook uit de door eiser overgelegde landeninformatie. Verweerder heeft zich evenwel niet ten onrechte op het standpunt gesteld dat eiser niet aannemelijk heeft gemaakt dat hij afkomstig is uit Rakhine. In het paspoort van eiser staat vermeld dat hij is geboren in [geboorteplaats 2] . Dit paspoort is echt bevonden. Hoewel de stelling van eiser dat een authentiek paspoort op frauduleuze wijze kan worden verkregen wordt ondersteund door de door hem overgelegde landeninformatie, heeft verweerder zich op het standpunt mogen stellen dat eiser daarmee niet aannemelijk heeft gemaakt dat hij zij paspoort ook op frauduleuze wijze heeft verkregen. Verweerder heeft er voorts ter zitting op gewezen dat eiser tijdens het Eerste Gehoor heeft verklaard dat hij zijn paspoort gemakkelijk heeft verkregen en heeft daarbij geen melding gemaakt van fraude of corruptie. Ook in de correcties en aanvullingen op dit gehoor wordt hier niets over gezegd. Verweerder heeft dan ook mogen uitgaan van de informatie zoals die staat vermeld in het echt bevonden paspoort. Bovendien wijst de rechtbank erop dat eiser zijn vaste woon- en verblijfsplaats in [geboorteplaats 2] heeft gehad en dat derhalve niet wordt ingezien dat eiser bij terugkeer zich in Rakhine dient te vestigen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2</nr>
+      <parablock>
+        <para>Verweerder heeft niet betwist dat op 9 mei 2017 een incident heeft plaatsgevonden, zoals door eiser omschreven. Dit wordt ook bevestigd door algemene landeninformatie. Verweerder heeft zich echter niet ten onrechte op het standpunt gesteld dat eiser onvoldoende aannemelijk heeft gemaakt dat eiser persoonlijk werd geraakt door het incident, in die zin dat de zoektocht van de monniken en politie specifiek op hem was gericht. Eiser heeft verklaard dat [A] , met wie zijn tante een zakelijk conflict zou hebben, de monniken op hen zou hebben afgestuurd. Ook zijn tante wijst in het filmpje waarin zij is geïnterviewd naar [A] . Verweerder heeft er niet ten onrechte op gewezen dat dit enkel vermoedens zijn. Voorts blijkt uit de verklaringen van zowel eiser als van zijn tante in het filmpje dat de monniken eerst op de vijfde etage hebben gezocht en daarna pas bij de tante op de achtste verdieping zijn binnengevallen. Op de vijfde etage zouden ook illegale Rohingya verblijven. Aangenomen kan worden dat de monniken en Mabatha-aanhangers op zoek waren naar illegale Rohingya, maar hiermee is niet aannemelijk gemaakt dat ze specifiek naar eiser op zoek waren. Verweerder heeft er daarbij niet ten onrechte op gewezen dat niet valt in te zien dat de monniken, als zij specifiek eiser zochten, hem na dit incident niet elders zouden hebben gevonden, nu eiser heeft verklaard daarna bij andere familieleden in de stad en ook in dezelfde wijk te hebben verbleven. Daarbij komt dat verweerder het bevreemdend heeft mogen achten dat eiser het adres van zijn tante niet weet, ondanks dat hij daar enige tijd heeft verbleven, terwijl hij wel alle adressen van de andere familieleden waar zij daarna hebben verbleven kan noemen.</para>
+        <para>	Verweerder heeft de door eiser gestelde problemen dan ook niet ten onrechte ongeloofwaardig geacht. Hetgeen eiser daarover verder heeft aangevoerd behoeft geen bespreking. Het is de rechtbank voorts niet gebleken dat verweerder bij de beoordeling WI 2014/10 op onjuiste wijze zou hebben toegepast.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Voorts is niet gebleken dat eiser na het incident op 9 mei 2017 werd gezocht door de autoriteiten. Hij heeft daarna immers legaal in en uit kunnen reizen met zijn paspoort. Ook anderszins is niet gebleken dat eiser bij terugkeer heeft te vrezen voor een schending van artikel 3 van het EVRM. Zoals reeds eerder is overwogen is tussen partijen niet in geschil dat er in Myanmar jegens Rohingya wordt gediscrimineerd, maar verweerder heeft zich in redelijkheid op het standpunt kunnen stellen dat de situatie voor eiser zodanig is dat eiser heeft te vrezen voor vervolging dan wel dat er sprake is van een reëel risico op ernstige schade. Eiser heeft kunnen studeren, wonen, had een koopwoning, werkte als leidinggevende, had voldoende inkomsten om van te leven en geld te sparen en heeft sociale contacten kunnen onderhouden. Voorts is uit het relaas van eiser niet gebleken dat hij niet bij de politie bescherming kon vinden. Eiser heeft een paspoort en het staatsburgerschap. Hij heeft in [geboorteplaats 2] kennelijk een normaal leven kunnen leiden. Eiser heeft ook zelf verklaard dat hij niets te vrezen heeft van de autoriteiten van zijn land. Voorts heeft verweerder er terecht op gewezen dat het gaat om terugkeer naar [geboorteplaats 2] , en niet om terugkeer naar Rakhine. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Ten aanzien van eisers beroep op het gelijkheidsbeginsel, overweegt de rechtbank dat verweerder er terecht op heeft gewezen dat de rechtbank in de uitspraak van 30 juli 2018 heeft geoordeeld dat de geloofwaardigheidsbeoordeling in die zaak onzorgvuldig was en onvoldoende gemotiveerd. Verweerder heeft voorts verklaard dat de in die zaak door de vreemdeling gestelde problemen daarna geloofwaardig zijn geacht. Daarvan is in dit geval geen sprake. Het beroep op het gelijkheidsbeginsel slaagt dan ook niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5</nr>
+      <para>Eiser heeft verweerder op 1 augustus 2018 in gebreke gesteld wegens het niet tijdig nemen van een besluit. Verweerder was dus gehouden uiterlijk 15 augustus 2018 te beslissen op de asielaanvraag van eiser. Ingevolge artikel 4:15, tweede lid, aanhef en onder b, van de Algemene wet bestuursrecht wordt de termijn voor het geven van een beschikking opgeschort zolang de vertraging aan de aanvrager kan worden toegerekend. Eiser heeft in zijn zienswijze van 23 augustus 2018 voor het eerst melding gemaakt van het filmpje op Facebook, waarbij is vermeld dat een vertaling daarvan zo spoedig mogelijk zal worden overgelegd. Die vertaling is op 20 september 2018 overgelegd. Verweerder heeft zich in redelijkheid op het standpunt kunnen stellen dat de zorgvuldigheid gebood de vertaling af te wachten, nu in de zienswijze is vermeld dat in het interview de inval en het doel van die inval in de woning van de tante wordt besproken. Dit raakt het relaas van eiser in grote mate en kon derhalve van belang zijn voor de geloofwaardigheidsbeoordeling. Voorts is uit onderzoek gebleken dat eiser het filmpje reeds op 10 mei 2017 op zijn eigen Facebookpagina heeft geplaatst. Niet valt in te zien dat dit filmpje en de vertaling daarvan niet eerder overgelegd konden worden. De stelling van eiser dat de noodzaak daartoe pas bestond na het voornemen, doet daar niet aan af, nu het aan eiser is zijn asielaanvraag zo mogelijk met documenten te onderbouwen. Verweerder heeft zich dan ook terecht op het standpunt gesteld dat de vertraging bij het nemen van het besluit aan eiser is toe te rekenen. Verweerder heeft dan ook terecht de verbeurde dwangsom niet doorberekend over de periode van 24 augustus 2018 tot en met 20 september 2018.</para>
+      <para />
+      <para>6. Het beroep is ongegrond.</para>
+      <para />
+      <para>7. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. E.S.G. Jongeneel, rechter, in aanwezigheid van mr. A. Nobel, griffier.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Als gevolg van de maatregelen rondom het Corona virus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. De uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+      <para>Deze uitspraak is gedaan op: 21 juli 2020</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para />
+      <para>
+        <emphasis role="bold">Rechtsmiddel</emphasis>
+      </para>
+      <para>Tegen deze uitspraak kan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State binnen vier weken na de dag van bekendmaking.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

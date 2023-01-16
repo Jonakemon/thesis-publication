@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:6345</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-01-05T10:18:38</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-17</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-12-17</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AMS 20/ 6370 en 20/6371</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:6345">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:6345</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2021-01-05T10:17:51</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2021-01-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:6345 Rechtbank Amsterdam , 17-12-2020 / AMS 20/ 6370 en 20/6371</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:6345:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>8:81 Awb, gebiedsontzegging, 2:78, tweede lid,  APV Amstelveen.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:6345:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummers: AMS 20/6370 en AMS 20/6371</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">proces-verbaal van de mondelinge uitspraak van de voorzieningenrechter van</bridgehead>
+    <bridgehead role="bold">14 december 2020 in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker] , zonder vaste woon- of verblijfplaats, verzoeker,</bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [verzoekster] ,</emphasis> zonder vast woon- of verblijfplaats, verzoekster,</para>
+      <para>tezamen: verzoekers</para>
+      <para>(gemachtigde: mr. A.C.R. Molenaar),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van Amstelveen, verweerder,</bridgehead>
+    <para>(gemachtigde: mr. R. Meyer).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>In twee afzonderlijke besluiten van 30 oktober 2020 (de bestreden besluiten) heeft de burgemeester verzoekers het bevel gegeven zich met ingang van 31 oktober 2020 tot en met 24 december 2020 niet te begeven in de in het besluit genoemde gebieden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben tegen de bestreden besluiten bezwaar gemaakt. Zij hebben de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. De burgemeester heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 14 december 2020. Verzoekers zijn daar zoals tevoren is bericht niet verschenen. De burgemeester heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Direct na het sluiten van het onderzoek op de zitting heeft de voorzieningenrechter uitspraak gedaan.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst in beide zaken het verzoek om een voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter geeft hiervoor de volgende motivering.</para>
+    </parablock>
+    <para />
+    <para>1. De burgemeester heeft aan verzoekers (broer en zus) een gebiedsontzegging voor de duur van krap acht weken opgelegd, met ingang van 31 oktober 2020 tot en met 24 december 2020. Het verbod geldt voor: </para>
+    <para>1. Het gebied begrensd door het zuidelijke deel van de Rijksweg A9 [het gebied] <?linebreak?> <?linebreak?> </para>
+    <para>Verzoekers hebben daar volgens de burgemeester herhaaldelijk de openbare orde verstoord. Dit leidt de burgemeester af uit recente informatie van de politie en handhavingsmedewerkers. De burgemeester baseert zijn besluit op artikel 2:78 van de Algemene Plaatselijke Verordening van de gemeente Amstelveen (APV).<footnote-ref linkend="_462e8da2-2e62-4af2-bbcc-21b6edd06380" /></para>
+    <para />
+    <para>2. Naar het oordeel van de voorzieningenrechter is voldaan aan de voorwaarden die artikel 2:78, tweede lid, van de APV stelt voor het opleggen van een gebiedsontzegging, namelijk een herhaalde schending van de openbare orde en veroorzaken van overlast nadat er een bevel is gegeven. Uit het besluit en de stukken in het dossier blijkt dat het hier gaat om ten minste veertien gedragingen van verzoekers, of van een van beide van hen, in de periode augustus tot en met oktober 2020. Het ging in die periode om slapen aan de openbare weg in park of portiek, bedelen, behoeftes doen in het openbaar, wat een inbreuk inhoudt op de APV. Aan verzoekers is toen een ambtelijk bevel gegeven als bedoeld in het eerste lid van artikel 2:78 van de APV. Dit bevel hield in een gebiedsontzegging voor 48 uur voor de periode 24 tot en met 26 oktober 2020.<footnote-ref linkend="_1056ca78-f7fd-44b9-8eb7-ced20ee6e9cf" /></para>
+    <parablock>
+      <para>Verzoekers hebben dat bevel al genegeerd op 24 oktober 2020.<footnote-ref linkend="_d571a084-3b6e-4012-b09c-17d523231525" /> Dit is het overtreding van een ambtelijk bevel als bedoeld in artikel 184 van het Wetboek van Strafrecht. Verzoekers zijn hiervoor gedagvaard en ieder gestraft met een geldboete. Hieruit volgt dat zij een strafbaar feit pleegden en ook een herhaalde aantasting van de openbare orde, althans het veroorzaken van overlast. </para>
+      <para>Hoewel het vooral hinder is wat verzoekers veroorzaken, is er al vanaf 2019 sprake van behoefte doen bijvoorbeeld naast de flat aan de [straat] . Schelden als verzoekers op hun gedrag worden aangesproken. Behoefte doen in de speeltuin waar ook kinderen aanwezig zijn. Bedelen, soms intimiderend. Naaktlopen. Bedreiging van burgers die klagen over het gedrag van verzoekers. Er is dus wel degelijk overlast en door de tijd heen is een openbare ordeprobleem ontstaan. </para>
+      <para>Omdat verzoekers na het eerdere bevel hun gedrag weer hebben herhaald, kon de burgemeester verzoekers een gebiedsontzegging opleggen. </para>
+    </parablock>
+    <para />
+    <para>3. Ook de duur van de gebiedsontzegging vindt de voorzieningenrechter acceptabel. Uit het dossier blijkt dat de gemeente verzoekers meerdere keren hulp heeft aangeboden, zelfs in de vorm van een woning. Echter verzoekers willen dat niet; zij hebben dat steeds geweigerd. De burgemeester heeft dus wel degelijk naar andere oplossing gezocht dan een gebiedsontzegging. Het besluit is dan ook noodzakelijk en in verhouding tot het te dienen doel. Namelijk de rust in de wijk die gelet op de vele meldingen van burgers terug moet komen. </para>
+    <para />
+    <para>4. Voor een proceskosten veroordeling bestaat geen aanleiding en evenmin om de burgemeester op te dragen het griffierecht aan verzoekers te vergoeden.   </para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. E.J. Otten, voorzieningenrechter, in aanwezigheid van R.E. Toonen, griffier, op 14 december 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier	</para>
+      <para>						voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen hoger beroep open.</para>
+    <para />
+  </section>
+  <footnote id="_462e8da2-2e62-4af2-bbcc-21b6edd06380" label="1">
+    <para> Artikel 2:78 van de APV luidt:</para>
+    <para>1. De burgemeester kan in het belang van de openbare orde, het voorkomen of beperken van overlast, het voorkomen of beperken van aantastingen van het woon- of leefklimaat, de veiligheid van personen of goederen, de gezondheid of de zedelijkheid aan een persoon die strafbare feiten of openbare orde verstorende handelingen verrichten een bevel geven zich gedurende ten hoogste 48 uur niet in een of meer bepaalde delen van de gemeente op een openbare plaats op te houden.</para>
+    <para>2. Met het oog op de in het eerste lid genoemde belangen kan de burgemeester aan een persoon aan wie tenminste eenmaal een bevel als bedoeld in dat lid is gegeven en die opnieuw strafbare feiten of openbare orde verstorende handelingen verricht, een bevel geven zich gedurende ten hoogste 8 weken niet in een of meer bepaalde delen van de gemeente op een openbare plaats op te houden.</para>
+    <para>3. Een bevel krachtens het tweede lid kan slechts worden gegeven als het strafbare feit of de openbare orde verstorende handeling binnen 6 maanden na het geven van een eerder bevel, gegeven op grond van het eerste of tweede lid, plaatsvindt. (…).</para>
+  </footnote>
+  <footnote id="_1056ca78-f7fd-44b9-8eb7-ced20ee6e9cf" label="2">
+    <para> Zie de bevelen van 22 oktober 2020.</para>
+  </footnote>
+  <footnote id="_d571a084-3b6e-4012-b09c-17d523231525" label="3">
+    <para> Zie het proces-verbaal van bevindingen en mutatierapport politie van 24 oktober 2020 en de dagvaarding van 25 oktober 2020 om op 9 november 2020 te verschijnen voor de politierechter.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

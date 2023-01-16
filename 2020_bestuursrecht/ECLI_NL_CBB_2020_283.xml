@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:CBB:2020:283</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-22T10:15:15</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/College_van_Beroep_voor_het_bedrijfsleven" scheme="overheid.RechterlijkeMacht">College van Beroep voor het bedrijfsleven</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-21</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">18/1214</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2018:3768" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">Eerste aanleg: ECLI:NL:RBROT:2018:3768, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:283">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:CBB:2020:283</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-21T07:25:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-21</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:CBB:2020:283 College van Beroep voor het bedrijfsleven , 21-04-2020 / 18/1214</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:CBB:2020:283:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bestuurlijke boete wegens overtreding van artikel 2.19, eerste lid, van de Wet dieren</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:CBB:2020:283:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para>uitspraak</para>
+    <para />
+    <bridgehead role="bold">COLLEGE VAN BEROEP VOOR HET BEDRIJFSLEVEN</bridgehead>
+    <para />
+    <parablock>
+      <para>zaaknummer: 18/1214</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 21 april 2020 op het hoger beroep van:</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [naam 1] , te [plaats 1] , appellant</bridgehead>
+    <para>(gemachtigde: mr. E.H. Bokhorst),</para>
+    <para />
+    <parablock>
+      <para>tegen de uitspraak van de rechtbank Rotterdam van 16 mei 2018, kenmerk ROT 17/2559, in het geding tussen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>appellant</para>
+      <para>
+        <?linebreak?>en</para>
+    </parablock>
+    <bridgehead role="bold">de minister van Landbouw, Natuur en Voedselkwaliteit, de minister</bridgehead>
+    <para>(gemachtigde: mr. ing. H.D. Strookman).</para>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop in hoger beroep</title>
+    <para />
+    <parablock>
+      <para>Appellant heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank Rotterdam (rechtbank) van 16 mei 2018 (de aangevallen uitspraak, niet gepubliceerd).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De minister heeft een reactie op het hogerberoepschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 25 februari 2020. Appellant en zijn gemachtigde zijn, met kennisgeving vooraf, niet verschenen. De minister heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Grondslag van het geschil</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Het College gaat uit van de volgende feiten en omstandigheden. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para>Op 30 januari 2016 heeft een toezichthouder van de Nederlandse Voedsel- en Warenautoriteit tijdens een hengstenkeuring in de [naam 2] te [plaats 2] geconstateerd dat appellant uitsluitend op recept af te leveren diergeneesmiddelen (URA-diergeneesmiddelen) <?linebreak?>– in dit geval vier tubes Equiworm P REG NL 9848- URA – in de cabine van zijn vrachtauto had liggen. Het was de toezichthouder bekend dat de vergunning van appellant voor het op recept afleveren van URA-diergeneesmiddelen is ingetrokken per 1 juni 2014. De toezichthouder heeft zijn bevindingen neergelegd in een rapport van bevindingen van 4 februari 2016. In het rapport van bevindingen is vermeld dat appellant, nadat hem was meegedeeld dat hij niet tot antwoorden verplicht was, het volgende heeft verklaard: “Deze wormmiddelen zijn bestemd voor een klant. Deze wormmiddelen zijn niet van mij, maar van [naam 3] [toevoeging van het College: een ruitershop].”</para>
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Naar aanleiding van het rapport van bevindingen heeft de minister appellant bij brief van 28 juli 2016 een voornemen tot het opleggen van een bestuurlijke boete van € 10.000,- (bestaande uit een bedrag van € 5.000,- voor de overtreding, vermeerderd met € 5.000,- wegens recidive) gezonden. Volgens de minister heeft appellant zonder vergunning URA-diergeneesmiddelen voorhanden of in voorraad gehad, hetgeen een overtreding is van artikel 2.19, eerste lid, van de Wet dieren, gelezen in samenhang met artikel 4.1, eerste lid, van het Besluit diergeneesmiddelen. Bij brief van 12 augustus 2016 heeft appellant zijn zienswijze over het voornemen naar voren gebracht.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4</nr>
+      <para>Bij besluit van 16 september 2016 (het primaire besluit) heeft de minister een bestuurlijke boete van € 10.000,- aan appellant opgelegd.<?linebreak?></para>
+    </paragroup>
+    <paragroup>
+      <nr>1.5</nr>
+      <para>Appellant heeft bezwaar gemaakt tegen het primaire besluit, omdat hij van mening was dat hij ten onrechte is beboet en dat de boete niet in verhouding stond tot de overtreding.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6</nr>
+      <para>Bij besluit van 16 maart 2017 (het bestreden besluit), waartegen het beroep bij de rechtbank was gericht, heeft de minister het bezwaar van appellant ongegrond verklaard en het primaire besluit gehandhaafd. De minister heeft hieraan ten grondslag gelegd dat uit het rapport van bevindingen is gebleken dat appellant artikel 2.19, eerste lid, van de Wet dieren, gelezen in samenhang met artikel 4.1, eerste lid, van het Besluit diergeneesmiddelen heeft overtreden. Voor de minister was er geen reden om aan de bevindingen van de toezichthouder te twijfelen. Mede gelet op de in het recente verleden aan appellant opgelegde boetes voor dezelfde soort overtredingen, acht de minister het niet geloofwaardig dat de tubes ontwormingsmiddel die in de vrachtauto van appellant zijn aangetroffen, bestemd waren voor eigen gebruik, zoals appellant in bezwaar heeft betoogd. Daarnaast heeft appellant blijkens het rapport van bevindingen eerder verklaard dat de aangetroffen tubes ontwormingsmiddelen bestemd waren voor een klant. In zijn zienswijze heeft appellant vervolgens verklaard dat hij zes tubes ontwormingsmiddel had, waarvan hij twee tubes verkocht had aan een klant.<?linebreak?>Wat betreft de hoogte van de bestuurlijke boete stelt de minister dat de basis hiervoor wordt gevormd door de bedragen die bij de boetecategorieën horen zoals weergegeven in de bijlage van de Regeling handhaving en overige zaken wet dieren, in dit geval categorie 4, hetgeen blijkens artikel 2.2, eerste lid, aanhef en onder d, van het Besluit handhaving en overige zaken Wet dieren (Besluit handhaving) gelijk staat aan een basisboete van € 5.000,-. Bij het vaststellen van de hoogte van de basisbedragen is uitgegaan van de situatie waarin zich geen bijzondere omstandigheden voordoen. Factoren die aanleiding kunnen geven om het basisbedrag te verhogen of te verlagen zijn de (geringe) ernst van de overtreding, de normadressaat en recidive. Het boetebedrag is met € 5.000,- verhoogd wegens recidive. De minister is niet gebleken dat de aard en ernst van de overtreding of andere omstandigheden nopen tot het afwijken van het aldus vastgestelde boetebedrag. Ook is de minister niet gebleken van omstandigheden die op grond van artikel 2.3 van het Besluit handhaving tot een halvering of verdubbeling van het boetebedrag moeten leiden.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Uitspraak van de rechtbank</title>
+    <para />
+    <parablock>
+      <para>2.		De rechtbank heeft het beroep van appellant ongegrond verklaard. De rechtbank heeft, voor zover voor het hoger beroep van belang, het volgende overwogen, waarbij voor eiser appellant moet worden gelezen en voor verweerder de minister.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>“(…)</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.4.</nr>
+      <parablock>
+        <para>Naar het oordeel van de rechtbank blijkt uit het rapport van bevindingen in voldoende mate dat eiser op het moment van de controle vier tubes van het ontwormingsmiddel Equiworm voorhanden had zonder dat hij in het bezit was van de vereiste vergunning. Verweerder heeft terecht niet geloofwaardig bevonden dat de vier tubes, die de toezichthouder in de vrachtwagen van eiser heeft aangetroffen, bestemd waren voor eisers eigen pony’s, zoals eiser in zijn zienswijze en de gronden van zijn beroep heeft gesteld. Verweerder heeft kunnen uitgaan van de in het rapport weergegeven verklaring van eiser dat de aangetroffen ontwormingsmiddelen niet van eiser zelf waren, maar van de ruitershop [naam 3] en dat deze bestemd waren voor een klant. De rechtbank ziet geen aanleiding om eiser niet te houden aan deze verklaring. De rechtbank vindt van belang dat eiser in deze procedure wisselend heeft verklaard over de bestemming van de aangetroffen ontwormingsmiddelen. Zo heeft eiser in zijn zienswijze van 12 augustus 2016 naar voren gebracht dat hij eigenlijk zes tubes Equiworm in zijn vrachtwagen had en dat hij een zeurende klant twee tubes heeft verkocht tegen de kostprijs. Vier tubes waren volgens eiser bestemd voor zijn eigen pony’s en niet voor de verkoop. Dit is een wezenlijk andere verklaring dan tijdens het verhoor. In de gronden van bezwaar van 18 oktober 2016 heeft eiser gesteld dat hij tubes Equiworm had gekocht bij de ruitershop [naam 3] en dat hij daar ook een recept voor had. Omdat eiser de ontwormingsmiddelen voor zijn eigen pony’s had gekocht, lagen deze bij zijn eigen spullen in de cabine van de vrachtwagen. Een goede klant van eiser had gezien dat eiser die tubes had en had net zo lang gezeurd totdat eiser hem twee tubes gaf. Gelet op deze wisselende verklaringen en het feit dat eiser bovendien aanvankelijk tegenover de toezichthouder heeft ontkend dat er ontwormingsmiddelen in zijn kraam of vrachtwagen aanwezig waren, vindt de rechtbank het niet aannemelijk dat de tubes Equiworm voor eigen gebruik waren bestemd.</para>
+        <para>Eisers verklaring ter zitting dat hij vergeetachtig en verstrooid is, maakt niet dat het hem niet kan worden tegengeworpen dat hij niet meteen tijdens het verhoor tegenover de toezichthouder heeft verklaard dat de diergeneesmiddelen voor eigen gebruik waren. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>2.5.</nr>
+      <para>Gelet op het voorgaande heeft verweerder terecht vastgesteld dat eiser URA-diergeneesmiddelen voorhanden of in voorraad had zonder in het bezit te zijn van de vereiste vergunning. Verweerder heeft dus terecht vastgesteld dat eiser artikel 2.19, eerste lid, van de Wet dieren heeft overtreden. </para>
+      <para />
+      <parablock>
+        <para>(…)</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>Zoals verweerder in het verweerschrift en ter zitting terecht heeft opgemerkt komt de overtreden norm naar zijn aard niet in aanmerking voor halvering van de boete op grond van artikel 2.3 van het Besluit handhaving. Het gaat hier namelijk om een algemene norm waaraan iemand wel of niet voldoet. De risico’s of gevolgen voor de volksgezondheid, de diergezondheid of het dierenwelzijn hebben hier slechts een indirecte rol. Verweerder heeft zich verder terecht op het standpunt gesteld dat in deze zaak sprake is van recidive. Op 19 december 2014 is aan eiser een boete opgelegd van € 5.000,- wegens een overtreding van artikel 2.19, eerste lid, van de Wet dieren. Bij besluit van 8 mei 2015 heeft verweerder het bezwaar tegen dit boetebesluit ongegrond verklaard. Nu sinds het onherroepelijk worden van dit besluit nog geen vijf jaar zijn verstreken, heeft verweerder terecht het boetebedrag met € 5.000,- verhoogd, zodat de totale boete € 10.000,- bedraagt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>Verweerder heeft zich ook terecht op het standpunt gesteld dat geen sprake is van bijzondere omstandigheden in de zin van artikel 5:46, derde lid, van de Awb. Er is in het geval van eiser sprake van meerdere vergelijkbare overtredingen waarvoor hij boetes heeft gekregen. Eiser heeft van deze eerdere boetes dus kennelijk niet geleerd. Ook na de intrekking van zijn vergunning, heeft eiser URA-middelen voorhanden gehad in de zin van die bepaling.”</para>
+      <para />
+      <para>
+        <?linebreak?>
+      </para>
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Beoordeling van het geschil in hoger beroep</title>
+    <para>3. <?linebreak?>In hoger beroep handhaaft appellant al hetgeen eerder door hem naar voren is gebracht met betrekking tot de oplegging en hoogte van de boete. In aanvulling daarop stelt appellant dat hij zich niet met de redenering van de rechtbank kan verenigen dat de overtreden norm naar zijn aard niet in aanmerking komt voor halvering van de boete op grond van artikel 2.3, aanhef en onder a, van het Besluit handhaving omdat het zou gaan om een algemene norm waaraan iemand wel of niet voldoet. Appellant meent dat deze redenering onjuist is. Ter zitting bij de rechtbank heeft de minister gesteld dat het gaat om een administratieve verplichting. Zou het verwijt dat appellant wordt gemaakt niet betrekking hebben op een handeling maar op een administratieve verplichting, dan rust daar blijkens de bijlage als bedoeld in artikel 1.2 van de Regeling handhaving en overige zaken Wet dieren geen boete op. Daarnaast stelt appellant dat artikel 2.3, aanhef en onder a, van het Besluit handhaving het door de rechtbank gehanteerde criterium “de aard van de overtreden norm” niet kent. Artikel 2.3, aanhef en onder a, van het Besluit handhaving kent slechts het criterium van “de risico’s of gevolgen van een overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu”. Omdat naar de mening van appellant sprake is van ontbrekende of geringe risico’s, had de boete volgens hem gehalveerd moeten worden.</para>
+    <para />
+    <para>4. In zijn verweerschrift stelt de minister allereerst vast dat appellant handelt in benodigdheden voor paarden en voor de ruitersport. Volgens de minister is appellant een professionele handelaar, omdat hij met deze producten op onder andere markten staat en hij een aantal klanten in Nederland van zijn waren voorziet. Verder stelt de minister vast dat appellant in de afgelopen jaren meerdere overtredingen op het gebied van de diergeneesmiddelen heeft begaan. Appellant is volgens de minister in 2014 driemaal beboet voor het voorhanden hebben dan wel te koop aanbieden van URA-diergeneesmiddelen, zijnde ontwormingsmiddelen. Ook is appellant in 2019 door de strafrechter veroordeeld voor drie overtredingen van voorschriften gesteld bij artikel 2.19 van de Wet dieren vanwege het in bezit hebben van een grote hoeveelheid URA-diergeneesmiddelen, zijnde ontwormingsmiddelen. Ten aanzien van de hogerberoepsgronden van appellant merkt de minister op dat hij op goede gronden van mening is dat de aangetroffen tubes ontwormingsmiddelen tot de handelsvoorraad van appellant behoorde. Zo maakt de toezichthouder volgens de minister geen melding van het feit dat één van de tubes aangebroken was, hetgeen bij eigen gebruik wel te verwachten zou zijn geweest. Bovendien heeft appellant, nadat hem de cautie was gegeven, verklaard dat de ontwormingsmiddelen bestemd waren voor een klant en dat de ontwormingsmiddelen niet van hem waren, maar van [naam 3] . Gelet op het feit dat appellant geen vergunning had om als kleinhandelaar op te treden, was het appellant volgens de minister niet toegestaan om in URA-diergeneesmiddelen te handelen. Tevens heeft appellant in zijn zienswijze verklaard dat hij twee tubes heeft verkocht. In het kader van de hoogte van de boete voert de minister aan dat het feit dat appellant niet voor het eerst artikel 2.19, eerste lid, van de Wet dieren heeft overtreden, als een strafverzwarende omstandigheid wordt gezien op grond van artikel 2.5 van het Besluit handhaving. Appellant heeft volgens de minister ook toegegeven dat hij URA-diergeneesmiddelen heeft doorverkocht. Dat appellant slechts een kleine hoeveelheid tubes ontwormingsmiddel in zijn bezit had en hij naar zijn zeggen maar twee tubes zou hebben verkocht, is voor de minister geen reden om de boete matigen.</para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De overtreding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>5.1</nr>
+      <para>Het College ziet zich voor de vraag gesteld of appellant artikel 2.19, eerste lid, van de Wet dieren heeft overtreden. Het College beantwoordt deze vraag bevestigend en overweegt daartoe als volgt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Artikel 2.19, eerste lid, van de Wet dieren bepaalt – voor zover van belang – dat het verboden is een handeling te verrichten die ertoe strekt een diergeneesmiddel voorhanden of in voorraad te hebben, voor zover deze handeling niet is toegestaan krachtens een vergunning die is verstrekt ingevolge een bij of krachtens algemene maatregel van bestuur ter uitvoering van een bindend onderdeel van een EU-rechtshandeling vastgesteld voorschrift of een bij ministeriële regeling aangewezen voorschrift van een EU-verordening inzake het in de handel brengen, vervaardiging, invoer, of het bezit van, handel in of verstrekken van een diergeneesmiddel. Bij de vaststelling van de overtreding heeft de minister zich voor de feiten gebaseerd op het rapport van bevindingen. Volgens vaste jurisprudentie van het College, waaronder de uitspraak van 21 juni 2017 (ECLI:NL:CBB:2017:230), mag een bestuursorgaan in beginsel uitgaan van de bevindingen in zo een rapport, indien de controle is verricht en het rapport is opgemaakt door een hiertoe bevoegde controleur en het rapport zelf geen grond biedt om aan de juistheid van de bevindingen te twijfelen. Het ligt dan op de weg van degene bij wie de controle is verricht om aannemelijk te maken dat de bevindingen niettemin onjuist zijn.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3</nr>
+      <para>Het College onderschrijft het oordeel van de rechtbank dat de minister terecht heeft vastgesteld dat appellant artikel 2.19, eerste lid, van de Wet dieren heeft overtreden, waarbij het College de overwegingen van de rechtbank onder 2.4, zoals hiervoor aangehaald, geheel tot de zijne maakt. Overigens staat, ook indien uitgegaan zou worden van de laatste verklaring van appellant, vast dat hij twee tubes aan een derde heeft verstrekt. De minister was dan ook bevoegd om een bestuurlijke boete op te leggen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4</nr>
+      <para>Wat betreft het betoog van appellant over de administratieve verplichting merkt het College op dat de minister, naar het College mede aan de hand van het proces-verbaal van de zitting begrijpt, ter zitting van de rechtbank heeft gezegd dat het al dan niet hebben van een vergunning een administratieve verplichting betreft. Niet bedoeld is dat de overtreding van artikel 2.19, eerste lid, van de Wet dieren ziet op een administratieve verplichting. Ook deze hogerberoepsgrond faalt.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De hoogte van de boete </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Het College stelt vast dat een overtreding van artikel 2.19, eerste lid, van de Wet dieren een boete van € 5.000,- oplevert. Tevens is het College met de rechtbank van oordeel dat de minister het boetebedrag voor de overtreding van artikel 2.19, eerste lid, van de Wet dieren wegens recidive op grond van artikel 2.5, eerste lid, van het Besluit handhaving mocht verhogen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Wat betreft het halveren van de boete stelt het College vast dat de rechtbank onder 3.2 van haar uitspraak, hiervoor aangehaald, heeft overwogen dat de overtreden norm naar zijn aard niet in aanmerking komt voor halvering van de boete op grond van artikel 2.3, aanhef en onder a, van het Besluit handhaving. Zoals het College heeft overwogen in zijn uitspraak van 23 april 2019 (ECLI:NL:CBB:2019:167) biedt deze bepaling echter geen aanknopingspunten voor een restrictieve uitleg en had het op de weg van de minister gelegen om de risico’s en gevolgen van de in het geding zijnde overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu te bekijken en om te bezien of deze aanleiding geven om de boete te halveren. In zoverre slaagt de hierop betrekking hebbende hogerberoepsgrond van appellant.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3</nr>
+      <para>Ten aanzien van de risico’s en gevolgen van de in het geding zijnde overtreding voor de volksgezondheid, diergezondheid, dierenwelzijn of milieu overweegt het College als volgt. Voor het voorhanden of in voorraad hebben van URA-diergeneesmiddelen is een vergunning vereist. Daarnaast kunnen dergelijke diergeneesmiddelen enkel op recept verkregen worden. Deze regels zijn gesteld ter bescherming van de dier- en volksgezondheid. In dit geval gaat het om URA-diergeneesmiddelen waarbij verkeerd gebruik tot resistentie kan leiden. Van een situatie dat slechts sprake is van geringe risico’s of gevolgen is naar het oordeel van het College dan ook geen sprake, ook al betreft de overtreding slechts enkele tubes. Dit brengt mee dat er geen aanleiding is de boete te halveren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4</nr>
+      <para>Ook overigens zijn geen bijzondere omstandigheden gesteld of gebleken die aanleiding geven tot matiging van de boete.</para>
+      <para />
+      <para>7. Het voorgaande leidt tot de conclusie dat het hoger beroep van appellant niet slaagt. Het College zal de aangevallen uitspraak bevestigen. </para>
+      <para />
+      <para>8. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para>
+        <emphasis role="bold">Beslissing</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>Het College bevestigt de aangevallen uitspraak.<?linebreak?></para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Deze uitspraak is gedaan door mr. W.A.J. van Lierop, mr. M.M. Smorenburg en mr. J.A.M. van den Berk, in aanwezigheid van mr. C.H.R. Mattheussens, griffier. De beslissing is in het openbaar uitgesproken op 21 april 2020. </para>
+      </parablock>
+      <para />
+      <para />
+      <parablock>
+        <para>De voorzitter is verhinderd de uitspraak te ondertekenen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De griffier is verhinderd de uitspraak te ondertekenen. </para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+</uitspraak>
+</open-rechtspraak>

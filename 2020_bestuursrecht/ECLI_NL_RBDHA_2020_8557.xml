@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:8557</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-10T10:40:04</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-05</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 6003</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8557">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:8557</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-10T10:38:19</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:8557 Rechtbank Den Haag , 05-08-2020 / AWB - 19 _ 6003</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:8557:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bestuurlijke boete Arbeidstijdenbesluit vervoer. Voorziening in vrachtwagen aangetroffen waarmee mbt tot registratie rij- en rusttijden gefraudeerd kan worden.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:8557:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/6003</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 5 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">de vennootschap naar buitenlands recht [vennootschap]</emphasis>, te [vestigingsplaats] [land] ), eiseres</para>
+      <para>(gemachtigde: mr. M.S. Kikkert),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Infrastructuur en Waterstaat, verweerder</bridgehead>
+    <para>(gemachtigde: mr. W.P. van Kooten-Vroegindeweij).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 10 juli 2018 (het primaire besluit) heeft verweerder aan eiseres een bestuurlijke boete ter hoogte van € 4.400,- opgelegd wegens overtreding van artikel 2.4:13, tweede lid, van het Arbeidstijdenbesluit vervoer (hierna: Abtv) gelezen in samenhang met artikel 32, derde lid, van Verordening (EU) nr. 165/2014.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 12 augustus 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 25 juni 2020.</para>
+      <para>Eiseres en verweerder hebben zich laten vertegenwoordigen door hun gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. In het proces-verbaal van 4 april 2017 staat dat een toezichthouder van de politie op 2 maart 2017 het voertuig met kenteken [kenteken] heeft gecontroleerd op naleving van de Arbeidstijdenwet (hierna: Atw) en het Atbv. De chauffeur van het voertuig verrichtte ten tijde van de inspectie vervoer ten behoeve van eiseres. Bij een nader onderzoek van het voertuig bij een erkende werkplaats is een voorziening in het voertuig aangetroffen die kan worden aangewend voor manipulatie van de tachograaf. Dit is in strijd met artikel 2.4:13, tweede lid, van het Atbv, gelezen in samenhang met artikel 32, derde lid, van Verordening (EU) nr. 165/2014 (hierna: Verordening 165/2014). Op 6 juli 2018 heeft de verbalisant een aanvullend proces-verbaal opgesteld. Bij het primaire besluit heeft verweerder eiseres een bestuurlijke boete van € 4.400,- opgelegd.</para>
+    <para />
+    <parablock>
+      <para>Verweerder heeft dit besluit in bezwaar gehandhaafd.</para>
+    </parablock>
+    <para />
+    <para>2. De relevante wettelijke bepalingen zijn opgenomen in de bijlage die onderdeel uitmaakt van deze uitspraak.</para>
+    <para />
+    <para>3. Eiseres betoogt dat verweerder onvoldoende heeft bewezen dat Verordening (EG) nr. 561/2006 (hierna: Verordening 561/2006) van toepassing is. Zij voert daartoe aan dat in het proces-verbaal alleen is opgenomen dat de verordening van toepassing is, omdat dit uit de vrachtbrief zou blijken. Nadere toelichting of de vrachtbrief ontbreekt echter, zodat dit niet te controleren is. Op basis van de enkele conclusie van de verbalisant kan geen bestuurlijke boete worden opgelegd. Zij wijst in dit kader tevens naar de uitspraak van 4 september 2019 van de Afdeling bestuursrechtspraak van de Raad van State (ECLI:NL:RVS:2019:3037). De bewijslast ligt op verweerder. Het enkele feit dat een controle plaatsvindt binnen de Europese Unie betekent niet dat om die reden Verordening 561/2006 van toepassing is.</para>
+    <para />
+    <parablock>
+      <para>Eiseres betoogt voorts dat het onderzoek onrechtmatig is. Zij voert daartoe aan dat er naar aanleiding van de wegcontrole geen sprake was van ‘voldoende bewijs voor een gegrond vermoeden van fraude’, zoals bedoeld in artikel 38, tweede lid, van Verordening 165/2014. Volgens het proces-verbaal was er alleen sprake van ‘afwijkende meetresultaten’. Nadere informatie over die afwijkende meetresultaten ontbreekt. Verder voert eiseres aan dat verweerder pas na bezwaar iets opmerkt over de datum van installatie en kalibratie van de tachograaf en de datum van het installeren van de pulsgever. Een pulsgever is slijtagegevoelig en moet naar verloop van tijd worden vervangen. Dat duidt niet op fraude en is ook niet als zodanig genoemd in het proces-verbaal of het aanvullend proces-verbaal. De vrachtwagen is dan ook ten onrechte overgebracht naar een garage voor nader onderzoek. Het bewijs is dan ook onrechtmatig verkregen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verder betoogt eiseres dat verweerder geen bewijs heeft geleverd voor de conclusie dat zij fraude heeft gepleegd. Uit het proces-verbaal blijkt alleen dat er een extra draad is aangebracht aan de bewegingssensor, waardoor deze niet meer in de originele staat verkeerde. Daarmee heeft verweerder niet aangetoond dat met die draad ook daadwerkelijk kon worden gemanipuleerd. Een enkele draad is daarvoor onvoldoende en er kan dan ook niet worden gesproken van een manipulatievoorziening, aldus eiseres.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft gemotiveerd verweer gevoerd.</para>
+    </parablock>
+    <para />
+    <para>4. De rechtbank overweegt als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>4.1</nr>
+      <para>De Afdeling heeft in haar uitspraak van 4 september 2019 overwogen dat het opleggen van een bestuurlijke boete een sanctie is met een punitief karakter, hetgeen met zich brengt dat aan de bewijsvoering van de overtreding en aan de motivering van het sanctiebesluit strenge eisen worden gesteld. Gelet op de waarborgen die voortvloeien uit artikel 6, tweede lid, van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, geldt als uitgangspunt dat op het bestuursorgaan de bewijslast rust dat van een overtreding sprake is. In geval van twijfel dient aan de betrokkene het voordeel van de twijfel te worden gegund.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2</nr>
+      <para>Verweerder heeft er terecht op gewezen dat in het proces-verbaal is opgenomen dat de verbalisant op basis van het kentekenbewijs heeft vastgesteld dat artikel 2.3:1 van het Abtv en Verordening 561/2006 van toepassing waren, omdat het een vrachtwagen met een laadvermogen van meer dan 500 kilogram betrof. Voorts staat in het proces-verbaal dat de verbalisant aan de hand van de vrachtbrief heeft vastgesteld dat het wegvervoer uitsluitend plaatsvond binnen de Gemeenschap of tussen de Gemeenschap, Zwitserland en de landen die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte. Verweerder heeft van dit op ambtseed opgemaakte proces-verbaal mogen uitgaan. Verweerder heeft er daarbij ter zitting op gewezen dat de verbalisant is opgeleid dergelijke inspecties uit te voeren.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3</nr>
+      <para>De rechtbank overweegt dat uit artikel 38, tweede lid, van Verordening 165/2014 volgt dat de inspecteur bevoegd is om een voertuig door te verwijzen naar een erkende werkplaats als bij controle voldoende bewijs wordt gevonden voor een gegrond vermoeden van fraude. In het proces-verbaal staat dat tijdens de controle afwijkende meetresultaten werden vastgesteld bij het gebruik van de tachograaf. In het aanvullend proces-verbaal staat dat na aansluiting van een multimeter op de bedrading aan de achterzijde van de voertuigunit waarden werden gemeten ten aanzien van het stroomverbruik, die afweken van de gebruikelijke waarden en dat uit ervaring is gebleken dat dergelijke afwijkingen kunnen duiden op de aanwezigheid van een manipulatievoorziening. De Afdeling heeft in haar uitspraak van 30 oktober 2019 (ECLI:NL:RVS:2019:3644) overwogen dat afwijkende stroomwaardes voor het betreffende type pulsgever voldoende bewijs opleveren voor een gegrond vermoeden van fraude, als bedoeld in artikel 38, tweede lid, van Verordening 165/2014. Verweerder heeft ook op dit punt van de door de verbalisant, die deskundig is op dit terrein, op ambtseed opgemaakte processen-verbaal mogen uitgaan. De omstandigheid dat in de processen-verbaal de gemeten stroomwaardes niet zijn genoemd, maakt naar het oordeel van de rechtbank niet dat er sprake is van een onrechtmatig onderzoek. De verbalisant heeft het voertuig op grond van de metingen dan ook voor nader onderzoek naar een erkende werkplaats mogen doorverwijzen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4</nr>
+      <para>In het proces-verbaal is voorts opgenomen dat er extra bedrading op de printplaat van de pulsmeter was gesoldeerd, waarmee een wijziging is aangebracht op een controlemiddel. Uit het aanvullend proces-verbaal blijkt dat het gaat om een modificatie in de bewegingssensor en dat met het aanbrengen daarvan invloed kan worden uitgeoefend op het signaal betreffende de snelheid van het voertuig en/of de afgelegde afstand. Hiermee kan vervolgens invloed worden uitgeoefend op de gegevens die in een tachograaf of op een bestuurderskaart worden geregistreerd en kunnen deze gegevens worden vervalst, verborgen, uitgewist of worden vernietigd. Met het aanbrengen van de modificatie in de bewegingssensor voldeed deze niet meer aan de in Verordening 165/2014 neergelegde voorschriften betreffende de constructie en installatie van tachografen. Zoals hiervoor reeds is overwogen mocht verweerder van de op ambtseed opgemaakte processen-verbaal uitgaan. Voor zover eiseres heeft gesteld dat de extra draad mogelijk een gevolg is van reparatie, heeft verweerder erop gewezen dat garages de pulsgever niet mogen repareren. Verweerder heeft zich gelet op voorgaande op het standpunt mogen stellen dat er sprake was van een voorziening als bedoeld in artikel 32, derde lid, van Verordening 165/2014. Verweerder heeft de overtreding daarmee voldoende bewezen. De vraag of eiseres vervolgens gebruik heeft gemaakt van de voorziening en daadwerkelijk fraude heeft gepleegd, doet voor de vastgestelde overtreding niet ter zake. Het enkele feit dat de aangebrachte draad manipulatie mogelijk maakt, is in dit verband voldoende.</para>
+      <para />
+      <para>5. Het bestreden besluit berust op goede gronden. Het beroep is ongegrond </para>
+      <para />
+      <para>6. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. D. Biever, rechter, in aanwezigheid van mr. A. Nobel, griffier. Deze uitspraak is gedaan op 5 augustus 2020. Als gevolg van de maatregelen rondom het coronavirus is deze uitspraak nu niet uitgesproken op een openbare uitsprakenzitting. Dat zal op een later moment alsnog gebeuren. Deze uitspraak wordt zo snel mogelijk gepubliceerd op www.rechtspraak.nl.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>BIJLAGE</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 6</para>
+      <para>(…)</para>
+      <para>2.Een ieder tegen wie een vervolging is ingesteld, wordt voor onschuldig gehouden totdat zijn schuld in rechte is komen vast te staan.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Arbeidstijdenbesluit vervoer (Atbv)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2.3:1</para>
+      <para>Met uitsluiting van het Arbeidstijdenbesluit zijn dit hoofdstuk en de daarop berustende bepalingen van toepassing op iedere verplaatsing, die geheel of gedeeltelijk over voor openbaar gebruik toegankelijke wegen plaats vindt in lege of beladen toestand, alsmede de direct daarmee samenhangende werkzaamheden, van:</para>
+    </parablock>
+    <para>a. een vrachtauto waarvan het kentekenbewijs een laadvermogen van meer dan 500 kilogram vermeldt, alsmede een losse trekker;</para>
+    <para>(…).</para>
+    <para />
+    <parablock>
+      <para>Artikel 2.4:13</para>
+      <para>(…)</para>
+    </parablock>
+    <para>2. Voor zover verordening (EG) nr. 561/2006 van toepassing is, is het verboden te handelen in strijd met de artikelen 1, eerste lid, tweede alinea, 3, eerste lid, 27, 29, tweede lid, 32, eerste tot en met vierde lid, 33, eerste en tweede lid, 34, behoudens het derde lid, onder b, tweede alinea, 35, 36, eerste en tweede lid, 37, eerste lid, eerste volzin en tweede lid van verordening (EU) nr. 165/2014.</para>
+    <para />
+    <parablock>
+      <para>Artikel 8:1</para>
+    </parablock>
+    <para>1. Het niet naleven van de artikelen (…), 2.4:13, tweede tot en met vierde lid, (…), levert een overtreding op.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Verordening (EU) nr. 165/2014 van het Europees Parlement en van de Raad van 4 februari 2014 betreffende tachografen in het wegvervoer, tot intrekking van Verordening (EEG) nr. 3821/85 van de Raad betreffende het controleapparaat in het wegvervoer en tot wijziging van Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 32</para>
+      <para>(…)</para>
+    </parablock>
+    <para>3. Het is verboden gegevens op het registratieblad, op de tachograaf of op de bestuurderskaart opgeslagen gegevens, of afdrukken van de tachograaf te vervalsen, te verbergen, uit te wissen of te vernietigen. Manipulatie van de tachograaf, het registratieblad of de bestuurderskaart die kan leiden tot het vervalsen, uitwissen of vernietigen van de gegevens en/of afgedrukte informatie is verboden. In het voertuig mag geen voorziening aanwezig zijn die met dit doel kan worden gebruikt.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>Artikel 38</para>
+      <para>(…)</para>
+    </parablock>
+    <para>2. Indien controleambtenaren na het uitvoeren van een controle voldoende bewijs hebben gevonden voor een gegrond vermoeden van fraude, zijn zij bevoegd om het voertuig door te verwijzen naar een erkende werkplaats om aanvullende tests te verrichten en met name om na te gaan dat de tachograaf:</para>
+    <para>a. a) correct werkt;</para>
+    <para>b) correct gegevens registreert en opslaat, en dat de ijkparameters correct zijn.</para>
+    <para>3. Controleambtenaren krijgen de bevoegdheid om erkende werkplaatsen te verzoeken de in lid 2 bedoelde testen en specifieke testen uit te voeren om na te gaan of er manipulatie- instrumenten aanwezig zijn. Indien manipulatie-instrumenten worden ontdekt, kunnen de apparatuur, inclusief het instrument zelf, de voertuigunit of de onderdelen daarvan en de bestuurderskaart, uit het voertuig worden verwijderd en als bewijsmateriaal worden gebruikt overeenkomstig de nationale regelgeving betreffende procedures voor het behandelen van dergelijk bewijsmateriaal.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Verordening (EG) nr. 561/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot harmonisatie van bepaalde voorschriften van sociale aard voor het wegvervoer, tot wijziging van Verordeningen (EEG) nr. 3821/85 en (EG) nr. 2135/98 van de Raad en tot intrekking van Verordening (EEG) nr. 3820/85 van de Raad</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 2</para>
+    </parablock>
+    <para>1. Deze verordening is van toepassing op wegvervoer:</para>
+    <para>a. a) van goederen waarbij de toegestane maximummassa van de voertuigen, dat van de aanhangwagens of opleggers inbegrepen, meer dan 3,5 ton bedraagt; of</para>
+    <para>b) van personen door voertuigen die zijn gebouwd of permanent zijn toegerust om meer dan negen personen, de bestuurder daaronder begrepen, te kunnen vervoeren en die daartoe zijn bestemd.</para>
+    <para>2. Deze verordening is, ongeacht het land waar het voertuig is ingeschreven, van toepassing op wegvervoer dat plaatsvindt:</para>
+    <para>a. a) uitsluitend binnen de Gemeenschap; of</para>
+    <para>b) tussen de Gemeenschap, Zwitserland en de landen die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte</para>
+    <para>3. De AETR is, in plaats van deze verordening, van toepassing op internationale vervoersactiviteiten over de weg die gedeeltelijk buiten de in lid 2 gedefinieerde gebieden plaatsvinden, met:</para>
+    <para>a. a) voertuigen die zijn ingeschreven in de Gemeenschap of in landen die overeenkomstsluitende partij zijn bij de AETR, voor de gehele rit.</para>
+    <para>b) voertuigen die zijn ingeschreven in een derde land dat geen overeenkomstsluitende partij is bij de AETR, alleen voor het gedeelte van de rit dat plaatsvindt op het grondgebied van de Gemeenschap of van landen die overeenkomstsluitende partij zijn bij de AETR.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

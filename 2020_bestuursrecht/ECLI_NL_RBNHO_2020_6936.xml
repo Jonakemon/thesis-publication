@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:6936</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T12:30:27</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-08-31</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 5224</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6936">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:6936</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-07T08:54:23</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-07</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:6936 Rechtbank Noord-Holland , 31-08-2020 / AWB - 19 _ 5224</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:6936:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Weigering omgevingsvergunning eerste fase. Evident privaatrechtelijke belemmering.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:6936:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 19 / 5224</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 31 augustus 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Guarden Square B.V., te Haarlem , eiseres</bridgehead>
+    <para>(gemachtigde: mr. P.H. Revermann),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Haarlemmermeer</emphasis>, verweerder </para>
+      <para>(gemachtigde: mr. M. van der Hijden).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Als derde-partijen hebben aan het geding deelgenomen: <emphasis role="bold">[derde partij 1] B.V. </emphasis>(gemachtigde: mr. G. Bosma) en<emphasis role="bold"> [derde partij 2] </emphasis>(gemachtigde: mr. A. Barada). </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 26 maart 2019 (het primaire besluit) heeft verweerder aan eiseres op grond van artikel 2.1, eerste lid, aanhef en onder c, in samenhang met artikel 2.12, eerste lid, aanhef en onder a, onder 2e, van de Wet algemene bepalingen omgevingsrecht (Wabo) een omgevingsvergunning eerste fase als bedoeld in artikel 2.5 van de Wabo verleend voor het oprichten van een woon- en winkelcomplex met vier bouwlagen (variant 1) op de locatie Concourslaan/Tuinweg (L3293) in Hoofddorp .</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluiten van 8 november 2019 (de bestreden besluiten) heeft verweerder de bezwaren van [derde partij 1] , [derde partij 2] , en [naam 1] gegrond verklaard. Verweerder heeft daarbij bepaald dat het primaire besluit wordt herroepen en de omgevingsvergunning eerste fase (variant 1) alsnog wordt geweigerd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen de bestreden besluiten beroep ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 20 juli 2020. Eiseres is verschenen in de persoon van [naam 2] . Verweerder en [derde partij 1] hebben zich laten vertegenwoordigen door hun gemachtigden. [derde partij 2] is in persoon verschenen, bijgestaan door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1</nr>
+      <para>Verweerder heeft aan de bestreden besluiten ten grondslag gelegd dat sprake is van een evident privaatrechtelijke belemmering. Het bouwplan heeft deels betrekking op gronden die eigendom zijn van [derde partij 1] ( [perceel 1] ) en [naam 1] ( [perceel 2] (de percelen). </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2</nr>
+      <para> Bij brief van 8 november 2019 heeft verweerder de bestreden besluiten aan eiseres verzonden. Bij brief van 14 november 2019 heeft verweerder de inhoud van de bestreden besluiten nogmaals aan eiseres bevestigd. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3</nr>
+      <para>Eiseres heeft beroep ingesteld tegen de brief van 14 november 2019. Ter zitting is besproken dat eiseres heeft bedoeld beroep in te stellen tegen de bestreden besluiten. De rechtbank zal het beroep van eiseres daarom opvatten als gericht tegen de bestreden besluiten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.1</nr>
+      <para>Eiseres voert aan dat geen sprake is van een evident privaatrechtelijke belemmering.  Het bouwplan voorziet weliswaar gedeeltelijk in een bouw op de percelen, maar daarmee is niet evident dat het bouwplan geen doorgang kan vinden. De percelen betreffen slechts een klein deel van de grond waarop het bouwplan betrekking heeft. Eiseres was ten tijde van de bestreden besluiten in gesprek met [derde partij 1] en [naam 1] over de koop van de percelen en is dat nog steeds. Er is inmiddels overeenstemming bereikt over de totale koopsom voor de percelen. Ten aanzien van de verdere uitwerking zijn nog niet alle aspecten tussen partijen geregeld. Het is de verwachting dat binnen afzienbare termijn algehele overeenstemming zal worden bereikt. Verweerder heeft bij de bestreden besluiten dan ook ten onrechte alsnog geweigerd de omgevingsvergunning te verlenen vanwege een evident privaatrechtelijke belemmering. Daarbij komt dat de omgevingsvergunning in ieder geval verleend had kunnen worden onder de opschortende voorwaarde dat de vergunning in werking treedt wanneer overeenstemming over de verkoop van de gronden is bereikt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2</nr>
+      <para>Verweerder stelt zich op het standpunt dat sprake is van een evident privaatrechtelijke belemmering. Een deel van de grond waarop het bouwplan betrekking heeft, is in eigendom van [derde partij 1] en [naam 1] . Zij zijn niet bereid met het realiseren van het bouwplan op de percelen in te stemmen. Ten tijde van de bestreden besluiten was tussen eiseres en [derde partij 1] en [naam 1] geen overeenstemming bereikt over de verkoop van de percelen aan eiseres of een samenwerkingsverband. Ook op dit moment bestaat daarop geen zicht. Vaststaat dat eiseres daardoor het bouwplan niet kan verwezenlijken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.3</nr>
+      <para>
+        [derde partij 1] heeft in aanvulling op de stellingen van verweerder  gewezen op het feit dat geen sprake is van onderhandelingen en overeenstemming in de zin die eiseres daaraan geeft. Er zijn tussen eiseres en [derde partij 1] en [naam 1] slechts vrijblijvende gesprekken gevoerd voor het geval zij om wat voor reden dan ook op enig moment de percelen niet zelf zullen gebruiken (geen zelfrealisatie). De door eiseres gestelde overeenstemming over de prijs (wat daar ook van zij) zou daarom slechts een voorwaardelijke overeenstemming kunnen zijn. Bovendien zou die overeenstemming gezien het gestelde in overweging 2.1 gebonden zijn aan een set van andere voorwaarden waarover geen overeenstemming bestaat. Met [naam 1] is überhaupt geen enkele overeenstemming bereikt, ook niet over de prijs. Verder heeft [derde partij 1] gewezen op het feit dat verweerder bij besluit van 21 november 2018 een omgevingsvergunning aan haar heeft verleend voor de uitvoering van een bouwplan op de percelen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.4</nr>
+      <para>Uit rechtspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) blijkt dat voor het oordeel van de bestuursrechter dat een privaatrechtelijke belemmering aan de verlening van een omgevingsvergunning op grond van artikel 2.12 van de Wabo in de weg staat, slechts aanleiding bestaat wanneer deze een evident karakter heeft. De burgerlijke rechter is immers de eerste aangewezene om de vraag te beantwoorden of een privaatrechtelijke belemmering in de weg staat aan de uitvoering van een activiteit. Een privaatrechtelijke belemmering is eerst evident, indien zonder nader onderzoek kan worden vastgesteld dat voor de realisering van het bouwwerk de toestemming van een ander is vereist en die ander die toestemming niet geeft en niet hoeft te geven.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.5</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder zich terecht op het standpunt gesteld dat sprake is van een evident privaatrechtelijke belemmering omdat het bouwplan deels betrekking heeft op gronden die eigendom zijn van [derde partij 1] en [naam 1] (de percelen) en zij (vooralsnog) niet bereid zijn mee te werken aan een overdracht van hun eigendom een eiseres. De stellingen van eiseres bieden geen grond voor een ander oordeel. De vraag of sprake is van een evident privaatrechtelijke belemmering moet worden beoordeeld aan de hand van de feiten en omstandigheden, zoals die van toepassing waren op het moment dat de bestreden besluiten genomen werden (ex tunc). Door eiseres is slechts gesteld dat partijen ten tijde van de bestreden besluiten (november 2019) in gesprek waren. Daaruit blijkt niet dat [derde partij 1] en [naam 1] ten tijde van de bestreden besluiten in het realiseren van het bouwplan moesten berusten of daartoe bereid waren. De stelling van eiseres dat er nu (medio 2020) zicht is op een algehele overeenstemming over een verkoop, maakt dat niet anders. Deze stelling heeft geen betrekking op de situatie ten tijde van de bestreden besluiten. Daarbij komt dat eiseres haar stelling niet heeft onderbouwd. Dit terwijl zowel verweerder, als [derde partij 1] uitdrukkelijk hebben aangevoerd dat [derde partij 1] en [naam 1] de percelen voor eigen doeleinden willen gebruiken, en weersproken hebben dat sprake is van (zicht op) een (onvoorwaardelijke) overeenstemming over een verkoop. De omgevingsvergunning is dan ook terecht geweigerd. De rechtbank neemt daarbij in aanmerking dat van het verlenen van een omgevingsvergunning onder de door eiseres gestelde opschortende voorwaarde, geen sprake kan zijn. Een dergelijke voorwaarde is geen voorwaarde in de zin van artikel 2.22 van de Wabo. De beroepsgrond slaagt niet.</para>
+      <para />
+      <para>3. Ten overvloede overweegt de rechtbank ten aanzien van de stelling van [derde partij 1] dat de aanvraag van eiseres voor de omgevingsvergunning buiten behandeling gelaten had moeten worden, als volgt. [derde partij 1] heeft aan haar stelling ten grondslag gelegd dat het bouwplan van eiseres niet gerealiseerd kan worden omdat het bouwplan deels betrekking heeft op de gronden van [derde partij 1] en [naam 1] . De aanvraag van eiseres kan daarom niet als een aanvraag van een belanghebbende beschouwd kan worden. De rechtbank is van oordeel dat het leerstuk uit de jurisprudentie van de Afdeling waar deze stelling van [derde partij 1] betrekking op heeft, in deze niet van toepassing is. Dat leerstuk is (met name) van toepassing op een aanvraag voor een omgevingsvergunning op grond van artikel 2.1, eerste lid, onder a, van de Wabo, maar niet op een aanvraag op grond van artikel 2.1, eerste lid, onder c, van de Wabo.</para>
+      <para />
+      <para>4. Het beroep van eiseres is ongegrond. </para>
+      <para />
+      <para>5. Er is geen aanleiding voor een proceskostenveroordeling.</para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.H. Lange, rechter, in aanwezigheid van R.I. ten Cate, griffier. De uitspraak is gedaan op 31 augustus 2020. Als gevolg van maatregelen rondom het Coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								rechter </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:12560</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-10T14:30:24</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB 20-221 VK</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12560">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:12560</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-12-10T14:29:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-12-10</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:12560 Rechtbank Den Haag , 29-10-2020 / AWB 20-221 VK</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:12560:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Beroep gegrond, 8:29 Awb, voldoende aanleiding geweest om onderzoek in te stellen, onvoldoende gemotiveerd dat van meet af aan sprake is geweest van een schijnhuwelijk.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:12560:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Amsterdam</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 20/221 </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>V-nummer: [V-nummer]</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer voor vreemdelingenzaken in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] ,</bridgehead>
+    <parablock>
+      <para>geboren op [geboortedatum] , van Marokkaanse nationaliteit, eiser</para>
+      <para>(gemachtigde: [naam] ),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>de staatssecretaris van Justitie en Veiligheid, verweerder</para>
+      <para>(gemachtigde: [naam] )</para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Met een besluit van 23 april 2019 (het primaire besluit) heeft verweerder de verblijfsvergunning van eiser met terugwerkende kracht ingetrokken tot 27 november 2013, het verzoek om verlenging van deze vergunning afgewezen en een inreisverbod voor de duur van twee jaren opgelegd. Het daartegen gemaakte bezwaar is met een besluit van 19 december 2019 (het bestreden besluit) ongegrond verklaard. Met dat besluit heeft verweerder aan eiser ambtshalve een verblijfsdocument EU/EER met aantekening “Residence card for a family member of an EU citizen” verstrekt. Verweerder heeft ook het inreisverbod opgeheven.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 9 januari 2020 heeft de rechtbank het beroepschrift van eiser ontvangen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Ten aanzien van enkele op de zaak betrekking hebbende stukken heeft verweerder een beroep gedaan op artikel 8:29, eerste lid, van de Algemene wet bestuursrecht (Awb) en medegedeeld dat alleen de rechtbank van die stukken kennis mag nemen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 13 mei 2020 heeft de rechtbank, in een andere samenstelling, geoordeeld dat de kennisneming van de stukken die verweerder met toepassing van artikel 8:29, eerste lid, van de Awb heeft ingediend, tot de rechtbank beperkt dient te blijven. Eiser heeft de rechtbank toestemming verleend mede op grond van die stukken uitspraak te doen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 8 juni 2020. Eiser is verschenen, bijgestaan door zijn gemachtigde. Verweerder is vertegenwoordigd door zijn voornoemde gemachtigde. Ook was ter zitting aanwezig [naam] , hierna referent. De rechtbank heeft het onderzoek ter zitting geschorst en verweerder opgedragen nog een aantal stukken te overleggen. </para>
+      <para>Verweerder heeft deze stukken overgelegd. Ten aanzien van deze stukken heeft verweerder eveneens een beroep gedaan op artikel 8:29, eerste lid, van de Awb en medegedeeld dat alleen de rechtbank van die stukken kennis mag nemen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 30 juni 2020 heeft de rechtbank, in een andere samenstelling, geoordeeld dat de kennisneming van de stukken die verweerder met toepassing van artikel 8:29, eerste lid, van de Awb heeft ingediend, tot de rechtbank beperkt dient te blijven. De rechtbank heeft kennisgenomen van die stukken. Eiser heeft de rechtbank toestemming verleend mede op grond van die stukken uitspraak te doen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Nadat partijen toestemming hebben gegeven om zonder nadere zitting uitspraak te doen, heeft de rechtbank het onderzoek gesloten.</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Feiten en omstandigheden </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>1.	Eiser heeft op 27 november 2013 een vergunning gekregen voor verblijf bij referent. Voorafgaande hieraan verbleef eiser meerdere jaren illegaal in Nederland. In die periode had hij een relatie met [naam] . Met haar heeft hij een zoon die in [geboortejaar] is geboren. In 2013 zijn eiser en referent getrouwd. Zij staan in de basisregistratie personen (brp) ingeschreven op het adres [adres] in [plaatsnaam] (de woning). Op 8 september 2017 heeft eiser een verzoek om naturalisatie ingediend. In 2018 heeft verweerder een melding binnengekregen. Deze melding was voor verweerder aanleiding om te onderzoeken of eiser en referent een schijnrelatie hebben. De vreemdelingenpolitie heeft onderzoek gedaan. Daarbij is gesproken met drie straatgenoten op de nummers [nummer] , [nummer] en [nummer] en met twee bekenden van eiser. De woning is twee keer bezocht. Bij het eerste huisbezoek hebben de verbalisanten met referent gesproken en bij het tweede met eiser. Ook is onderzoek gedaan naar een mogelijk ander adres van eiser. Dit onderzoek heeft geresulteerd in een rapport van 15 februari 2019 (het rapport). Op grond van dit rapport heeft verweerder het voornemen uitgebracht om de verblijfsvergunning van eiser in te trekken met terugwerkende kracht tot 27 november 2013, de aanvraag voor verlenging van de vergunning af te wijzen en een inreisverbod op te leggen. De reden is dat de relatie tussen eiser en referent volgens verweerder een schijnrelatie is. Eiser heeft een zienswijze ingediend. Daarna zijn eiser en referent op 26 maart 2019 afzonderlijk van elkaar gehoord. Eiser heeft meerdere stukken overgelegd ter onderbouwing van zijn standpunt dat het geen schijnrelatie betreft. Vervolgens heeft verweerder het primaire besluit genomen. In de bezwaarfase heeft eiser nog meer stukken ingebracht om aannemelijk te maken dat zijn relatie met referent geen schijnrelatie is. Verder heeft hij onderbouwd dat hij zorg draagt voor zijn zoon. Verweerder heeft in het bestreden besluit zijn standpunt gehandhaafd dat sprake is van een schijnrelatie. Verweerder heeft eiser wel op grond van het arrest Chavez-Vilchez<footnote-ref linkend="_c45375ea-b6aa-40a4-9cc4-2cce3f4cf1e8" /> een EU‑verblijfsdocument verleend. Het verzoek om naturalisatie is op 26 april 2019 afgewezen. Eiser heeft daartegen bezwaar gemaakt. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De standpunten van partijen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Verweerder vindt dat eiser onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden. Niet aannemelijk is dat eiser en referent een gemeenschappelijke huishouding voeren en dat zij een duurzame exclusieve relatie hebben. Volgens verweerder is daarom sprake van een schijnhuwelijk tussen eiser en referent. Als dit bekend was geweest dan was aan eiser nooit een verblijfsvergunning voor verblijf bij partner verleend. Daarom trekt verweerder de verleende vergunning in en wijst hij het verzoek om verlenging van deze vergunning af.<footnote-ref linkend="_81509ace-6964-4486-959a-a63a5d3e94b7" /> Verweerder baseert zijn standpunt op het rapport van de vreemdelingenpolitie, op door hem geconstateerde tegenstrijdigheden tussen de verklaringen van eiser, referent en anderen en op nader genoemde punten die verweerder vreemd vindt. Het door eiser overgelegde bewijs leidt niet tot een ander oordeel. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Eiser bestrijdt dat hij een schijnrelatie heeft. Hij vindt daarom dat verweerder zijn vergunning ten onrechte heeft ingetrokken en dat verweerder deze vergunning had moeten verlengen. Hij meent allereerst dat de melding onvoldoende was om onderzoek te mogen doen. Verder betwist hij meerdere onderdelen van het rapport. Hij heeft toegelicht dat de verklaringen van hem en referent niet tegenstrijdig of vreemd zijn. Hij vindt dat verweerder ten onrechte de door hem overgelegde verklaringen terzijde heeft geschoven als niet objectief. Ook overigens heeft hij voldoende tegenbewijs geleverd met betrekking tot de invulling van het huwelijk met referent. Ten slotte heeft verweerder onvoldoende rekening gehouden met het feit dat in het stadsdeel waar hij woont een homoseksuele relatie niet geaccepteerd wordt, zeker niet voor een Marokkaanse man. Eiser en referent leven daarom wat meer onder de radar, zo heeft eiser verklaard.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het oordeel van de rechtbank</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>3.	De rechtbank zal eerst ingaan op het beoordelingskader. Daarna zal de rechtbank bespreken of de melding voldoende was om nader onderzoek te mogen doen. Vervolgens komt de wijze waarop verweerder onderzoek heeft gedaan aan de orde. Verweerder heeft aan zijn standpunt dat geen sprake is van een gezamenlijke huishouding onder meer ten grondslag gelegd dat eiser en referent niet samenwonen. Daar zal de rechtbank vervolgens op ingaan. Daarna zal de rechtbank de overige aspecten die verweerder ten grondslag heeft gelegd aan zijn oordeel dat het een schijnrelatie betreft, behandelen. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Het beoordelingskader</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De intrekking van een verblijfsvergunning is een belastend besluit. Daarom ligt de bewijslast bij verweerder. Verweerder heeft de verblijfsvergunning ingetrokken met ingang van de datum waarop de vergunning is verleend. Daarom moet verweerder aannemelijk maken dat van meet af aan sprake was van een schijnrelatie. De afwijzing van de aanvraag tot verlenging van de verblijfsvergunning is gebaseerd op de intrekking van de vergunning. Dat betekent dat daarvoor dezelfde bewijslast geldt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Uit de jurisprudentie van de Afdeling bestuursrechtspraak van de Raad van State (Afdeling) volgt dat het enkele feit dat partners getrouwd zijn onvoldoende is. Er moet tussen de partners ook een werkelijk huwelijksleven bestaan.<footnote-ref linkend="_1a424b04-89a1-4cb1-a2f8-75c829f6cccc" /></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Was de melding voldoende voor nader onderzoek?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Eiser betoogt dat er geen gegronde vermoedens waren als bedoeld in artikel 16, vierde lid, van de Gezinsherenigingsrichtlijn<footnote-ref linkend="_16d80489-3387-460e-a96e-11302ce5fe0a" /> om nader onderzoek te doen. Volgens eiser doet geen van de indicaties genoemd in de richtsnoeren van de Commissie<footnote-ref linkend="_4f9b7a35-ae60-43ba-8cf3-de7b20a85210" /> zich voor. Verder is de melding vals.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>Verweerder meent dat op grond van de melding wel aanleiding was om onderzoek te doen. Hij heeft in het primaire besluit bekendgemaakt dat de strekking van deze melding is dat eiser zijn huwelijk enkel is aangegaan om in Nederland verblijfsrecht te verkrijgen, maar dat hij feitelijk vrijgezel is. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>De beroepsgrond van eiser slaagt niet. Bij het antwoord op de vraag wanneer een vermoeden van misbruik mag worden aangenomen heeft verweerder beoordelingsruimte. De in de richtsnoeren opgenomen lijst met concrete aanwijzingen die kunnen leiden tot het instellen van een onderzoek naar eventueel misbruik heeft een niet-limitatief karakter. Het staat verweerder dan ook vrij andere omstandigheden in de beoordeling te betrekken. De rechtbank kan wel toetsen of de door verweerder daartoe in aanmerking genomen concrete aanwijzingen het instellen van een onderzoek rechtvaardigen.<footnote-ref linkend="_3531e9dc-5cdd-4de2-9c34-98b868eec905" />Nadat partijen daarvoor toestemming hebben gegeven, heeft de rechtbank de stukken betreffende de melding beoordeeld. Naar het oordeel van de rechtbank zijn deze stukken zodanig concreet dat verweerder zich niet ten onrechte op het standpunt heeft gesteld dat nader onderzoek gerechtvaardigd is.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">De wijze waarop onderzoek is gedaan</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Eiser en referent voelen zich onheus behandeld door de wijze waarop verweerder onderzoek heeft gedaan. Zij vinden dat verweerder uitsluitend bezig is geweest met het zoeken naar bevestiging van de melding. Zij voelden zich geïntimideerd bij de huisbezoeken. Dat geldt in het bijzonder voor referent. Ook snappen zij niet waarom de verbalisanten bij het werk van referent zijn langsgegaan toen ze hem niet thuis aantroffen. Ten slotte vinden zij het onjuist dat zij niet aansluitend aan het dubbelgehoor de mogelijkheid hebben gekregen om te reageren op de geconstateerde verschillen. Gewoonlijk biedt verweerder die gelegenheid indien relevante verschillen zijn geconstateerd. In dit geval is na het gehoor juist gezegd dat er geen relevante verschillen waren. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Zoals de rechtbank hiervoor heeft vastgesteld, heeft verweerder niet ten onrechte aanleiding gezien om nader onderzoek te doen. Dat hij daarbij heeft gekozen voor het laten doen van een huisbezoek en het stellen van vragen aan buurtgenoten, acht de rechtbank niet onrechtmatig. De rechtbank is het wel met eiser eens dat niet blijkt waarom het voor het onderzoek nodig was dat de verbalisanten naar het werk van referent gingen om hem daar te spreken toen zij referent niet thuis aantroffen en waarom zij daar vervolgens ook zijn blijven wachten toen referent in bespreking was. De rechtbank snapt wel dat dit voor referent onprettig was. Het maakt het bestreden besluit echter niet onrechtmatig. Wat betreft het dubbelgehoor acht de rechtbank wel aannemelijk dat het eenvoudiger is om direct na een gehoor opheldering te geven over eventuele verschillen. Dat neemt niet weg dat eiser later in de procedure alsnog uitleg heeft kunnen geven. Voor zover eiser vindt dat het onderzoek inhoudelijk onzorgvuldig is geweest omdat is gekeken met een te beperkte blik, komt dat hierna aan de orde. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Is er sprake van samenwoning? </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Het standpunt van verweerder dat eiser niet in de woning woont, is gebaseerd op de verklaringen van buurtgenoten, de huisbezoeken en de verklaringen van eiser en referent. Verweerder is van mening dat de door eiser overgelegde verklaringen van buurtgenoten niet objectief zijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Eiser vindt dat het onderzoek door de politie onzorgvuldig en vooringenomen is geweest. Hij meent dat vooral gezocht is naar bevestiging van de melding. Hij heeft dit onderbouwd met verklaringen van buurtgenoten en nadere stukken waaruit volgens hem blijkt dat hij wel in de woning verblijft. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>De rechtbank overweegt dat volgens vaste rechtspraak een inschrijving in het brp in het algemeen een vermoeden oplevert dat de betrokkene zijn hoofdverblijf heeft op het adres waarop hij is ingeschreven.<footnote-ref linkend="_777ab3fb-3c30-4648-bab5-13f353157050" /> Het is aan verweerder om dit vermoeden te weerleggen en aannemelijk te maken dat het hoofdverblijf van eiser niet de woning is. De rechtbank zal dat hierna bespreken en daarbij ingaan op de verklaringen van buurtgenoten en de bij de huisbezoeken aangetroffen spullen. Ook zal de rechtbank bespreken of er aanwijzingen zijn dat eiser elders woont.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De verklaringen van buurtgenoten </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Met betrekking tot de verklaringen van de buurtgenoten staat in het rapport het volgende: </para>
+      <para />
+      <parablock>
+        <para>De bewoonster van nummer [bewoner adres 1] : </para>
+        <para>
+          <emphasis role="italic">“Op de vraag wie er op nummer [adres 4] woont hoorden wij haar zeggen: “Ik denk dat daar een man alleen woont”. </emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De bewoonster van nummer [bewoner adres 2] . </para>
+        <para>
+          <emphasis role="italic">“Op onze vragen hoorden wij haar het volgende zeggen: “Ik woon hier sinds vier jaar. Ik ken de buurman van nummer [adres 4] , ik maak wel eens een praatje met hem. Hij woont daar alleen.”</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De bewoonster van nummer [bewoner adres 3]</para>
+        <para>
+          <emphasis role="italic">“Op weg naar onze dienstauto zagen wij in de deuropening van de woning met nummer [bewoner adres 3] een vrouw staan. Wij legitimeerden ons aan deze vrouw en vroegen haar of ze haar buurman van nummer [adres 4] kende. Wij hoorden haar hierop zeggen: “Ja maar eigenlijk alleen maar van goeiemorgen zeggen”. Op de vraag of deze buurman een vriend had, hoorden wij haar zeggen: “Ik heb nooit een vriend van hem daar gezien.”</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <para>In beginsel mag verweerder afgaan op de juistheid van een op ambtseed/ambtsbelofte opgesteld proces-verbaal. Verweerder dient wel te beoordelen of het voldoende zorgvuldig tot stand is gekomen. Uit het proces-verbaal blijkt niet dat de verklaringen nog een keer zijn voorgehouden aan de betrokkenen om te checken of de verbalisant de betrokkenen goed heeft begrepen. Het valt de rechtbank verder op dat het proces-verbaal op dit punt weinig gedetailleerd is. Niet blijkt welke vragen precies zijn gesteld en of is doorgevraagd. Niet blijkt wat de bewoonster van nummer [bewoner adres 1] bedoelde met: “ik denk”. Daarom hecht de rechtbank weinig waarde aan deze verklaring. De bewoonster van nummer [bewoner adres 2] woont daar vier jaar en kan dus in ieder geval niets zeggen over de periode daarvoor. Eiser heeft verder een verklaring overgelegd van haar echtgenoot. Deze verklaart dat eiser daar wel woont. Verweerder heeft deze verklaring ter zijde geschoven als niet objectief. Eiser heeft toegelicht dat de familie van nummer [bewoner adres 2] afkomstig is uit Marokko en dat voor hen een homoseksuele relatie onaanvaardbaar is en des te meer nu eiser Marokkaan is. De houding in zo’n geval is om de relatie stil te zwijgen, aldus eiser, en het heeft hem dan ook moeite gekost om de verklaring van de echtgenoot te verkrijgen. De rechtbank vindt de uitleg van eiser niet op voorhand onaannemelijk. Eiser heeft ook een verklaring overgelegd van de bewoonster van nummer [bewoner adres 3] . Zij verklaart dat zij dacht dat de politie informeerde naar de buurman van nummer [adres 5] . Die woont volgens haar wel alleen en is psychisch niet in orde. De rechtbank stelt vast dat in één vraag is gevraagd naar de buurman en nummer [adres 4] . Verder is niet in geschil dat op nummer [adres 5] één man woont. Daarom acht de rechtbank de verklaring van de bewoonster op nummer [bewoner adres 3] niet op voorhand onaannemelijk. Zij verklaart verder dat zij er zelf twee jaar woont. Daarom kan zij in ieder geval niet verklaren over de periode daarvoor. Ten slotte heeft eiser een verklaring overgelegd van de bewoonster van nummer [adres 6] . Zij verklaart dat zij al 32 jaar ter plaatse woont en dat eiser al ongeveer 10 jaar daar woont. Daarnaast heeft degene aan wie eiser mantelzorg verleent ten overstaan van de verbalisanten als woonadres de straat genoemd waar eiser woont.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.3.</nr>
+      <para>Gelet op de geringe gedetailleerdheid van het rapport op dit punt, de inhoud van de verklaringen die eiser heeft overgelegd, en de op verweerder rustende bewijslast, kon verweerder in dit geval niet volstaan met de overweging dat aan de overgelegde verklaringen geen waarde toekomt omdat zij niet objectief zijn. Naar het oordeel van de rechtbank mocht verweerder de verklaringen van de buurtgenoten uit het rapport dan ook niet aan zijn besluit ten grondslag leggen zonder daarnaar nader onderzoek te doen.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De in de woning aanwezige spullen</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>Verweerder heeft zich naar aanleiding van het rapport op het standpunt gesteld dat er in de woning geen persoonlijke spullen liggen van eiser. De kledingkast met spullen van eiser was bij het tweede huisbezoek onveranderd ten opzichte van het eerste huisbezoek. Eiser wist bovendien niet waar de handdoeken lagen. Ook zijn er geen foto’s van eiser aanwezig in de woning.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Eiser betwist dat er geen spullen van hem in huis liggen. Hij heeft verder een verklaring gegeven voor de handdoeken, de foto’s en de spullen in zijn kledingkast.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.3.</nr>
+      <para>De rechtbank ontleent aan het rapport het volgende. Tijdens het eerste huisbezoek was referent aanwezig. Uit het rapport blijkt dat referent naar aanleiding van vragen van de verbalisanten over het adres waar eiser mantelzorger is een map pakt waarin een stuk zit waarop het adres en de naam van de verzorgde staat vermeld. Referent verklaart ook dat hij geen foto’s heeft van hem en eiser samen en dat hij ook geen foto’s heeft van zijn kinderen. De verbalisanten zien aan de muur een fotocollage hangen met jonge kinderen. Referent verklaart dat dat zijn kinderen zijn, maar dat de kinderen al veel ouder zijn. In de slaapkamer zien de verbalisanten een tweepersoonsbed staan. Aan één kant liggen een elektrisch scheerapparaat en een telefoonlader. In een andere kamer staat een kast met kleren. Volgens referent zijn dit de kleren van eiser. Het betreft onder andere schoenen maat [schoenmaat] . Op de kast staat een bus scheerschuim en in de badkamer liggen scheermesjes. Referent verklaart dat eiser zich met scheerschuim scheert. Een week later bellen verbalisanten eiser en vragen waar hij is. Hij verklaart dat hij thuis is en daar treffen zij hem vervolgens ook aan. Zij vragen naar de sleutels. De sleutel die eiser aanwijst als de sleutel van de voordeur, blijkt dat ook te zijn. Desgevraagd pakt eiser zijn paspoort uit een kast in de woonkamer. De verbalisanten constateren dat de inhoud van de kledingkast onveranderd is sinds het eerste huisbezoek, met uitzondering van een zwarte jas. De verbalisanten vragen eiser waar de schone handdoeken liggen en hij wijst op handdoeken aan een wasrek. De verbalisanten constateren daarna dat er schone handdoeken liggen in de kastenwand in de grote slaapkamer. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.4.</nr>
+      <para>De rechtbank stelt vast dat er relevante spullen in de woning liggen van eiser, zoals zijn paspoort en administratie. Ook heeft eiser door het overleggen van stukken aannemelijk gemaakt dat hij in de woning post ontvangt. Daarnaast hebben de verbalisanten zowel een elektrisch scheerapparaat als spullen om nat te scheren aangetroffen. Eiser heeft toegelicht dat hij nat scheert en referent elektrisch. De rechtbank acht dit niet onaannemelijk. De rechtbank acht het verder aannemelijk dat de kleding in de kast in de andere kamer van eiser is. In dat verband is van belang dat eiser heeft toegelicht dat zijn schoenmaat afwijkt van die van referent en dat de schoenen in de kast zijn maat hebben. Verweerder heeft dat niet ontkracht omdat de verbalisanten dat niet hebben onderzocht. Verweerder vindt het vreemd dat de inhoud van de kledingkast bij het eerste en tweede huisbezoek, met uitzondering van een jas, gelijk was. Eiser heeft hierover verklaard dat hij nieuwe kleding draagt tot deze versleten is en dat hij dan weer nieuwe koopt. In de kast hing destijds verder zomerkleding. De kleding die hij destijds gebruikte slingerde op het bed en elders in huis slingeren ook schoenen, aldus eiser. Daarom is de inhoud van de kast in de tussentijd niet veranderd, zo begrijpt de rechtbank. De rechtbank begrijpt op zich wel dat verweerder het niet veranderen van de kast vreemd acht. Daar staat tegenover dat uit het rapport niet blijkt dat de verbalisanten eiser hiermee hebben geconfronteerd. Eiser heeft zijn verklaring dus niet ter plekke kunnen geven. De verbalisanten hebben dus ook niet kunnen checken of de verklaring klopt. Verder zijn er met uitzondering van de kast geen foto’s gemaakt. Daarom kan de rechtbank over de kleding geen oordeel geven. De rechtbank is van oordeel dat verweerder in redelijkheid niet vreemd heeft kunnen achten dat in de woning geen meubels van eiser staan. Eiser is bij referent gaan inwonen en op dat moment was de woning al geheel ingericht. Verweerder heeft ook aan zijn standpunt dat eiser niet ter plaatse woont, niet ten grondslag kunnen leggen dat eiser bij de vraag waar de schone handdoeken zijn naar het wasrek met schone handdoeken heeft gewezen en niets heeft gezegd over de kast. Uit het rapport blijkt namelijk niet dat de verbalisanten op dit punt hebben doorgevraagd. Verweerder heeft nog gewezen op de afwezigheid van foto’s van eiser en referent gezamenlijk, terwijl er wel een fotolijst is met foto’s van de kinderen van referent. De rechtbank overweegt dat referent in 2013 heeft verklaard dat hij niet veel foto’s heeft, ook niet van zijn zus, andere vrienden en kennissen en dat hij hoe dan ook weinig foto’s maakt en van mensen al helemaal niet. De rechtbank stelt vast dat referent bij het huisbezoek ook heeft verklaard dat hij geen foto’s heeft van eiser en hem samen en dat hij niet zo van de foto’s is. Referent heeft verder toegelicht dat hij de fotolijst met foto’s van zijn kinderen al geruime tijd geleden van de moeder van de kinderen heeft gekregen. Daarmee heeft hij naar het oordeel van de rechtbank een adequate verklaring gegeven voor het feit dat van zijn kinderen wel foto’s aanwezig zijn. Uit het rapport blijkt niet dat er nog andere foto’s in het huis staan.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Woont eiser elders?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>Volgens informatie van de IND zou eiser slapen op het adres van restaurant Marhaba. Blijkens het rapport zijn de verbalisanten dat nagegaan en hebben zij vastgesteld dat dit niet zo is. Ook hebben de verbalisanten nog in een nabij dit restaurant gelegen pand onderzoek gedaan. Ten slotte hebben zij nog onderzocht of eiser bij degene woont aan wie  hij mantelzorg verleent. Deze onderzoeken hebben geen aanwijzing opgeleverd dat eiser op de onderzochte plaatsen woont.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para>Volgens verweerder hebben referent en de degene aan wie eiser mantelzorg verleent tegenstrijdig verklaard over waar eiser de nacht van 10 op 11 januari 2019 heeft geslapen. De rechtbank stelt vast dat referent op 11 januari 2019 heeft verklaard dat eiser niet thuis heeft geslapen. Hij werkt ’s nachts in een [werk 1] of [werk 2] en is daarna meteen naar het adres gegaan waar hij mantelzorger is, aldus de verklaring van referent. De hulpbehoevende heeft op 15 januari 2019 verklaard dat hij eiser afgelopen week ’s nachts niet heeft gezien. Daarmee is er wel onduidelijkheid over waar eiser na zijn werk is heengegaan. Daaruit kan echter niet worden afgeleid dat eiser elders woont. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie met betrekking tot het hoofdverblijf</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>11. De rechtbank volgt verweerder met betrekking tot de afwezigheid van spullen niet of kan daarover door gebrek aan informatie geen oordeel geven. Daarbij komt dat verweerder niet zonder nader onderzoek af had mogen gaan op de in het rapport genoteerde verklaringen van de buren. Ook komt gewicht toe aan het feit dat de informatie over een ander woonadres onjuist is gebleken. Op grond van de beschikbare informatie heeft verweerder zich dan ook niet op het standpunt kunnen stellen dat eiser ter plaatse niet zijn hoofdverblijf heeft en al helemaal niet dat dit van meet af aan zo was.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline italic">Zijn er andere redenen om een schijnrelatie aan te nemen?</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>12. Verweerder heeft aan zijn standpunt dat eiser en referent geen gemeenschappelijk huishouden voeren en geen duurzame exclusieve relatie hebben ten grondslag gelegd dat zij over hun relatie op essentiële onderdelen tegenstrijdig hebben verklaard. Van partners die gehuwd zijn, mag volgens verweerder worden verwacht dat zij op deze onderdelen gelijkluidend verklaren. Verder zijn volgens verweerder meerdere zaken die eiser en referent wel of juist niet verklaren, niet in overeenstemming met wat verwacht mag worden van partners die zeggen een gemeenschappelijke huishouding te voeren en een duurzame exclusieve relatie te hebben. Het betreft met elkaar doorgebrachte tijd, de wederzijdse zorg, kennis over en contact met familie, vrienden en kennissen en nog wat overige punten. De rechtbank zal deze achtereenvolgens bespreken.  </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Zijn de verklaringen van eiser en referent op essentiële onderdelen verschillend?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.1.</nr>
+      <para>Verweerder werpt eiser tegen dat hij en referent tegenstrijdig hebben verklaard over de start van hun relatie, het schilderwerk in huis, de supermarkt waar referent zijn boodschappen doet en het tijdstip waarop eiser en referent de avond voor het gehoor van 26 maart 2019 naar bed zijn gegaan. Ook hebben zij tegenstrijdig verklaard over het gebruik van elkaars pinpassen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.2.</nr>
+      <para>De rechtbank is van oordeel dat verweerder zich ten onrechte op het standpunt heeft gesteld dat eiser en referent tegenstrijdig hebben verklaard over het ontstaan van de relatie. Beiden verklaren hetzelfde over de feiten, namelijk dat ze elkaar hebben ontmoet in 2006, dat zij elkaar sindsdien hebben gezien, dat eiser bij referent over de vloer kwam en bij hem bleef slapen, dat eiser toen nog samenwoonde met zijn toenmalige vriendin en dat eiser in 2009 bij referent is ingetrokken. Uit het enkele feit dat eiser het contact dat sinds 2006 is ontstaan al in 2006 kwalificeert als een relatie, die hij onderhield naast de relatie met zijn toenmalige vriendin, en referent het contact pas in 2009 kwalificeert als een echte relatie, blijkt naar het oordeel van de rechtbank niet dat tegenstrijdig is verklaard over het ontstaan van de relatie. Dit ziet namelijk op hoe eiser en referent het hebben ervaren. Daarnaast heeft verweerder ten onrechte tegengeworpen dat eiser en referent in de mvv-procedure in 2013 niet hebben verklaard over de toenmalige vriendin van eiser. Eiser is bij een dergelijke procedure niet verplicht om een melding te maken van een eerdere relatie. Deze was op dat moment al in ieder geval vier jaar voorbij. In de procedure is verder wel de zoon van eiser aan de orde gekomen. Dat blijkt uit de verklaring van 25 oktober 2013 die referent in het kader van de aanvraag van eiser voor een verblijfsvergunning voor verblijf bij referent heeft opgesteld.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.3.</nr>
+      <para>De rechtbank is verder van oordeel dat eiser en referent niet tegenstrijdig hebben verklaard over het schilderwerk aan huis. Beiden hebben verklaard dat referent recentelijk een bedrijf heeft ingehuurd voor schilderwerkzaamheden. Beiden hebben verklaard dat eiser het huis van referent ook heeft geverfd. Op de vraag of eiser zelf nog schildert, zoals hij aan het begin verklaarde, antwoordt hij dat hij daar nu geen tijd meer voor heeft. Referent specificeert vervolgens dat het bedrijf bezig is met het schilderen van de buitenkant. Eiser heeft de binnenkant geverfd. Uit de verklaring van referent van 25 oktober 2013 blijkt dat dit in 2008 was. Verweerder heeft dan ook ten onrechte tegengeworpen dat tegenstrijdig is verklaard op dit punt. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.4.</nr>
+      <para>De rechtbank constateert dat eiser en referent wel tegenstrijdig hebben verklaard over waar referent meestal zijn deel van de boodschappen haalt. Eiser heeft namelijk verklaard dat referent dat doet bij de [naam 2] , maar referent verklaart dat hij vrijwel altijd naar de [naam 3] gaat. In beroep heeft eiser aangevoerd dat referent zich bij het gehoor heeft vergist. Ter onderbouwing heeft hij rekeningafschriften overgelegd van de bankrekening van referent over de periode 1 april 2019 tot en met 29 februari 2020. Hierin staan 65 betalingen vermeld bij de [naam 2] en 15 bij de [naam 3] . Deze afschrijvingen ondersteunen het standpunt van eiser. Verweerder heeft hier ten onrechte niet op gereageerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.5.</nr>
+      <para>Wat betreft de tegenstrijdige verklaringen over de pinpas tijdens het dubbelgehoor overweegt de rechtbank als volgt. Eiser heeft verklaard dat hij nooit gebruik maakt van de pinpas van referent. Referent heeft op de vraag of hij en eiser bankpassen delen het volgende verklaard: </para>
+      <para />
+      <parablock>
+        <para>	“<emphasis role="italic">Nou, niet zo van ‘alsjeblieft’, maar als ik denk dat hij even boodschappen moet halen, dan denk ik: ga maar boodschappen doen dan…”</emphasis></para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>De rechtbank vindt dit wel tegenstrijdig. Eiser heeft als uitleg gegeven dat referent het had over de periode dat eiser nog geen bankrekening en dus ook nog geen pinpas had. Eiser zou het hebben gehad over de tijd erna, toen hij zelf een pinpas had. De rechtbank kan die uitleg echter niet rijmen met de verklaringen tijdens het dubbelgehoor. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>13.6.</nr>
+      <para>Naar het oordeel van de rechtbank hebben eiser en referent ook tegenstrijdig verklaard over de avond voor het simultaan gehoor. Zo heeft eiser verklaard dat hij en referent om 20.00 naar bed zijn gegaan en dat hij om 21.30 weer is opgestaan om te werken. Referent heeft verklaard dat zij om 22.00 uur naar bed zijn gegaan. Dat wekt bevreemding, gezien het zeer recente tijdsverloop. De rechtbank vindt de gegeven verklaring dat referent slordig heeft verklaard, omdat hij altijd om 22.00 uur naar bed gaat, zodat hij met vroeg moet hebben bedoeld dat hij eerder naar bed ging, onvoldoende.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De met elkaar doorgebrachte tijd </emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.1.</nr>
+      <para>Verweerder heeft erop gewezen dat eiser en referent weinig tijd met elkaar doorbrengen. Zij gaan ook niet met elkaar op vakantie, maar gaan wel zonder elkaar op reis. Dat wijst volgens verweerder ook op een schijnrelatie.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.2.</nr>
+      <para>De rechtbank stelt vast dat eiser heeft verklaard dat hij zeven dagen per week werkt en dat hij ook ’s nachts werkt terwijl referent overdag werkt. Verweerder stelt terecht dat eiser geen contract heeft overgelegd waaruit zijn werktijden blijken. De rechtbank overweegt dat de in het rapport opgenomen verklaring van degene aan wie eiser mantelzorg verleent wel ondersteunt dat eiser `s nachts werkt. Niet in geschil is dat referent in het weekend regelmatig naar zijn hoogbejaarde moeder gaat. Ook is niet in geschil dat referent de nodige tijd besteedt aan zijn museumbussen. Verder levert eiser mantelzorg aan een oude man. Alles bij elkaar is aannemelijk dat zij veel activiteiten hebben afzonderlijk van elkaar. Daaruit volgt echter niet zondermeer dat eiser en referent geen gezamenlijke huishouding voeren of geen echte relatie hebben. Eiser heeft met een brief van 10 maart 2019 verklaard dat deze situatie nu twee jaar duurt. Verweerder heeft dat niet betwist. Dat partners elkaar in een relatie door omstandigheden een periode minder zien, heeft verweerder naar het oordeel van de rechtbank in redelijkheid niet vreemd kunnen achten. De rechtbank is verder van oordeel dat verweerder zich in redelijkheid niet op het standpunt heeft kunnen stellen dat het vreemd is dat eiser ervoor kiest om mantelzorg te verlenen in plaats van tijd te besteden met referent terwijl hij daar ook niet voor wordt betaald. De rechtbank overweegt dat eiser al ruim tien jaar mantelzorg aan de betrokkene verleent. Deze is oud en staat op een wachtlijst voor een verpleeghuis. Dat eiser dan niet stopt met het verlenen van de zorg, acht de rechtbank vooral te prijzen. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>14.3.</nr>
+      <para>Wat betreft de vakanties overweegt de rechtbank als volgt. Referent heeft drie keer met een collega een stedentripje gemaakt. Dat aantal rechtvaardigt niet de conclusie van verweerder dat hij regelmatig stedentripjes maakt met een collega. Gebleken is dat eiser drie keer zonder referent naar Marokko is gegaan. De reden voor deze reizen was het doen van het inburgeringsexamen en bezoek aan zijn zieke vader. Zowel eiser als referent hebben verklaard dat referent niet mee is gegaan omdat hij het te druk had. Het is juist dat referent in 2013 heeft verklaard dat hij met eiser als hij een verblijfsvergunning zou krijgen met vakantie zou kunnen gaan. Niet in geschil is dat zij dat niet hebben gedaan. Evenmin is echter gebleken dat een van hen meer dan de hiervoor genoemde reizen heeft gemaakt. Gelet hierop heeft verweerder dit niet zonder nadere motivering kunnen tegenwerpen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">De wederzijdse zorg</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>15.	De rechtbank is van oordeel dat verweerder onvoldoende heeft gemotiveerd dat geen sprake is van wederzijdse zorg. Allereerst volgt uit de overgelegde stukken dat referent anders dan verweerder betoogt, financieel zorg draagt voor eiser. Zo betaalt referent belastingaanslagen, inburgeringskosten en medische kosten voor eiser. Weliswaar draagt eiser niet bij in de vaste lasten, maar verweerder heeft hierbij het verschil tussen het inkomen en vermogen van eiser en referent onvoldoende meegewogen. Bovendien geeft het feit dat eiser niet hoeft bij te dragen aan de vaste lasten en bij referent woont, juist blijk van financiële zorg van referent aan eiser. Verder heeft verweerder ten onrechte tegengeworpen dat in het geheel niet is gebleken dat eiser een bijdrage levert in de kosten van het gezamenlijke levensonderhoud en in de aanschaf van gemeenschappelijke spullen. Zo heeft referent verklaard dat hij zuinig is op zijn spullen en niet zomaar nieuwe meubels koopt. Daarnaast hebben eiser en referent beiden verklaard dat referent de huishoudelijke taken op zich neemt, dat hij kookt en dat hij boodschappen doet. Eiser betaalt voor de boodschappen die hij doet. Eiser en referent hebben hierover gelijkluidend verklaard. De rechtbank ziet geen grond om hieraan te twijfelen. Met betrekking tot de hoogte van eisers financiële bijdrage wijst de rechtbank nogmaals op het verschil in inkomen en vermogen. De rechtbank acht het niet onbegrijpelijk dat eiser geen kennis heeft van de vaste lasten en van leveranciers. Referent heeft de kosten daarvan immers altijd voor zijn rekening genomen. Bovendien heeft referent verklaard dat de afschrijving hiervan automatisch gaat. Niet in geschil is dat eiser en referent geen gemeenschappelijke rekening hebben. Het hebben van een gezamenlijke rekening kan naar het oordeel van de rechtbank bijdragen aan het oordeel dat betrokkenen een gezamenlijke huishouding hebben. Uit het niet hebben daarvan kan echter niet het omgekeerde worden afgeleid. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Te weinig kennis van en contact met elkaars familie, vrienden en bekenden?</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>16.1.</nr>
+      <para>Niet in geschil is dat referent de namen van de broers en zus van eiser niet weet. Eiser heeft toegelicht dat zijn broers en zus in Marokko wonen en referent hen nooit heeft ontmoet. Zij spreken ook alleen Arabisch. De rechtbank is van oordeel dat deze verklaring onvoldoende is gelet op de duur van het huwelijk. Verweerder heeft dit daarom niet ten onrechte vreemd geacht. Verder blijkt dat eiser niet op bezoek gaat bij de zus van referent. Referent doet dit echter evenmin. Uit de verklaring van de zus blijkt ook dat wederzijdse bezoeken heel beperkt zijn. Uit de verklaringen van eiser en referent blijkt verder dat eiser vroeger meeging naar de moeder van referent, maar de laatste twee jaar niet. De rechtbank is van oordeel dat verweerder zich niet ten onrechte op het standpunt heeft gesteld dat het vreemd is dat eiser nooit meer meegaat. Eiser heeft niet onderbouwd dat het vanwege zijn werk nooit meer mogelijk is. Met betrekking tot het contact met de wederzijdse kinderen overweegt de rechtbank als volgt. Niet in geschil is dat referent geen contact heeft met de zoon van eiser en eiser dat niet heeft met de eveneens in [geboortejaar] geboren kinderen van referent. De rechtbank overweegt dat eiser heeft uitgelegd dat hij zijn zoon nog niet heeft verteld over zijn relatie met referent en dat hij dat wil doen als zijn zoon ouder is. De rechtbank acht dit gelet op de achtergrond van eiser niet ongeloofwaardig. De kinderen van referent zijn donorkinderen. Referent ziet zijn kinderen eens per drie maanden. Zij wonen in [adres 7] . Eiser heeft de namen van de kinderen genoemd, maar kent niet die van de moeder. De rechtbank acht het gezien de omstandigheden niet onbegrijpelijk dat eiser geen contact met de kinderen van referent heeft. Verweerder heeft het niet ten onrechte vreemd geacht dat hij de naam van de moeder niet weet. Referent heeft niet toegelicht waarom hij zijn kinderen niet heeft ingelicht over zijn huwelijk. Zonder die uitleg heeft verweerder dit ook niet ten onrechte vreemd geacht. Wat betreft de kennis over elkaars kinderen merkt de rechtbank op dat daarover in het gehoor vrijwel geen vragen zijn gesteld. In het primaire besluit heeft verweerder vermeld dat referent de naam van de zoon van eiser zou hebben genoemd en zou hebben verklaard dat hij verder niets van hem weet. De rechtbank heeft deze passage niet aangetroffen in het gehoor en evenmin in het rapport. Over de zoon van eiser zijn in het gehoor zelfs in het geheel geen vragen gesteld. Daarom kan verweerder hier naar het oordeel van de rechtbank geen conclusies aan verbinden. Het verwijt van verweerder dat eiser en referent hun relatie geheim houden, deelt de rechtbank niet. Uit de verklaringen blijkt dat hun directe vrienden en kennissen en ook de collega’s van referent van hun relatie weten. Op het niet inlichten van hun kinderen is de rechtbank hiervoor ingegaan. Naar het oordeel van de rechtbank heeft verweerder in de huidige tijd in redelijkheid niet vreemd kunnen achten dat eiser zijn familie en zijn Marokkaanse collega’s en vrienden niet heeft ingelicht over zijn relatie. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>16.2.</nr>
+      <parablock>
+        <para>Wat betreft de vrienden en bekenden overweegt de rechtbank dat eiser verklaart dat referent weinig vrienden heeft. Hij noemt vervolgens twee namen. Referent noemt deze twee personen ook als zijn vrienden en noemt nog een derde persoon. Eiser noemt als zijn vrienden twee personen bij naam. Dit zijn gemeenschappelijke vrienden. Hij zegt ook dat hij nog wat Marokkaanse vrienden heeft. Referent kent de Marokkaanse vrienden van eiser niet. Verweerder heeft het niet ten onrechte vreemd geacht dat referent hier zo weinig van weet. </para>
+        <para>Verweerder heeft ook bij zijn standpunt betrokken dat referent de naam van de man niet weet waar eiser mantelzorg aan geeft. Uit het rapport blijkt dat eiser het volgende heeft verklaard:</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“Hij </emphasis>(rechtbank: eiser) <emphasis role="italic">is meteen van het [werk 1] naar het adres gegaan waar hij mantelzorger is. Ik weet het adres niet. Ik kan wel de naam opzoeken.” </emphasis></para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Vervolgens haalt referent een stuk uit een map met daarop de naam van degene aan wie eiser mantelzorg levert. Uit deze passage blijkt inderdaad dat referent niet spontaan de naam kan noemen. Naar het oordeel van de rechtbank heeft verweerder dit niet ten onrechte vreemd geacht.  </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Overige zaken</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>17.1.</nr>
+      <para>Verweerder heeft op nog meerdere punten gewezen die volgens hem vreemd zijn. Verweerder heeft gewezen op het feit dat eiser niet weet over de eigendomssituatie van het huis van de moeder van referent en ook niet over de inhoud van zijn testament. Ook hebben eiser en referent weinig telefonisch contact. Verder weet referent niet de naam te noemen van het [werk adres] waar eiser werkt. Ten slotte heeft verweerder gewezen op de verklaringen van degene aan wie eiser mantelzorg verleent en degene bij wie eiser zijn fiets laat maken (de fietsenmaker). Uit beide verklaringen volgt dat eiser en referent geen relatie hebben, aldus verweerder.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>17.2.</nr>
+      <para>Gebleken is dat referent en zijn zus de eigenaar zijn van het huis van zijn moeder. Dit is een financiële regeling. Feitelijk woont de moeder in het huis. Vast staat dat eiser en referent niet in gemeenschap van goederen zijn getrouwd. Dat eiser niet weet van de regeling heeft verweerder in redelijkheid niet zondermeer vreemd kunnen achten. Niettemin valt wel op dat eiser niet zoveel zegt te weten van hoe referent zijn zaken heeft geregeld. Hij verklaart namelijk ook dat hij niet weet wat er in het testament van referent staat. Ter zitting heeft referent verklaard dat hij wel wat heeft geregeld voor eiser, maar dat eiser hier niet van wil weten. De rechtbank stelt vast dat deze verklaring erg laat is gegeven. Bovendien heeft referent tijdens het gehoor over zijn erfenis hier niet over gesproken, maar alleen over zijn kinderen. Verder heeft verweerder het niet ten onrechte vreemd geacht dat referent de naam van het [werk adres] niet weet waar eiser werkt. Wat betreft degene aan wie eiser mantelzorg verstrekt, overweegt de rechtbank als volgt. Deze man heeft volgens het rapport verklaard dat hij niets weet over de relatie van eiser. Eiser heeft toegelicht dat hij met deze man niet veel over zijn eigen leven praat omdat deze man vooral bezig is met zichzelf; het feit dat hij naar een verpleegtehuis moet, houdt hem vooral bezig. Hoewel het op zich niet onbegrijpelijk is, is de rechtbank toch van oordeel dat na tien jaar meer kennis mag worden verwacht. Ook in de verklaring die eiser van hem heeft overgelegd, geeft deze man niet veel meer informatie over de relatie van eiser en referent. Daarom heeft verweerder dit niet ten onrechte vreemd geacht. De rechtbank stelt verder vast dat de verklaring van de fietsenmaker niet overeenkomt met welke andere informatie dan ook. Daarom hecht de rechtbank aan deze verklaring weinig waarde. Als de verklaring toch gevolgd zou worden, blijkt daar bovendien niet uit dat de relatie van eiser en referent vanaf het begin een schijnrelatie is geweest. Verweerder heeft zich ten slotte ongemotiveerd op het standpunt gesteld dat eiser niet heeft onderbouwd dat hij vooral telefonisch contact heeft met referent. Eiser heeft een groot aantal afschriften overgelegd van de vaste huislijn en de mobiele telefoon van referent. Hieruit blijkt dat de mobiele telefoons van eiser en referent niet heel frequent maar wel regelmatig contact hebben gemaakt. De huislijn heeft ook regelmatig contact gemaakt met het mobiele nummer van referent. Eiser stelt dat hij dan heeft gebeld met referent. Verweerder heeft deze gegevens niet kenbaar bij zijn besluit betrokken. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Eindconclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>18. Zoals de rechtbank hiervoor al heeft overwogen, heeft verweerder zich op grond van de beschikbare informatie niet op het standpunt kunnen stellen dat eiser zijn hoofdverblijf niet in de woning heeft. Daarmee valt een belangrijke pijler van het standpunt van verweerder dat eiser en referent geen gezamenlijke huishouding en geen exclusieve duurzame relatie hebben weg. Daarnaast acht de rechtbank de meeste van de door verweerder genoemde tegenstrijdigheden niet tegenstrijdig. Ook heeft verweerder onvoldoende gemotiveerd dat geen sprake is van wederzijdse zorg. Bij de onderdelen over de samen doorgebrachte tijd, de kennis en contacten met vrienden en familie en bij de overige zaken zijn er naar het oordeel van de rechtbank meerdere punten die verweerder in redelijkheid niet vreemd heeft kunnen vinden, dan wel die verweerder niet juist heeft beoordeeld. Dat neemt niet weg dat verweerder meerdere punten niet ten onrechte wel vreemd heeft geacht. Met het wegvallen van een zo substantieel deel van de motivering, dient verweerder zich echter opnieuw te beraden en te motiveren of hij vindt dat het huwelijk van eiser en referent een schijnhuwelijk is en zo ja of dat dan van meet af aan het geval was. Het bestreden besluit is wat betreft de intrekking van de vergunning dan ook niet zorgvuldig voorbereid en niet draagkrachtig gemotiveerd. Aangezien de afwijzing van de aanvraag om de vergunning te verlengen op dezelfde motivering is gebaseerd, kleeft aan dat deel van het bestreden besluit hetzelfde gebrek.</para>
+      <para />
+      <para>19. Uit het vorenstaande volgt dat het beroep gegrond is. Het bestreden besluit dient te worden vernietigd wegens strijd met de artikelen 3:2 en 7:12, eerste lid, van de Awb. De rechtbank acht het niet opportuun om een bestuurlijke lus toe te passen. Verweerder dient daarom binnen zes weken een nieuw besluit te nemen met inachtneming van de uitspraak.  </para>
+      <para />
+      <para>20. De rechtbank veroordeelt verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,-- (1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting, met een waarde per punt van <?linebreak?>€ 525,--, en een wegingsfactor 1). </para>
+      <para />
+      <para>21. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat verweerder aan eiser het door hem betaalde griffierecht vergoedt. </para>
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank,</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <para />
+    <para>- vernietigt het bestreden besluit;</para>
+    <para />
+    <para>- draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen op het bezwaar met inachtneming van deze uitspraak;</para>
+    <para />
+    <para>- draagt verweerder op het betaalde griffierecht van € 178,-- aan eiser te vergoeden; </para>
+    <para />
+    <para>
+      <emphasis role="italic">- 	</emphasis>veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1.050,--.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. H.B. van Gijn, rechter, in aanwezigheid van <?linebreak?>mr. T. Pourjalili, griffier. De beslissing is in het openbaar uitgesproken op  <?linebreak?></para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>									 rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kunnen partijen binnen vier weken na de dag van verzending daarvan hoger beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State (adres: Raad van State, Afdeling bestuursrechtspraak, Hoger beroep vreemdelingenzaken, Postbus 20019, 2500 EA 's‑Gravenhage). Naast de vereisten waaraan het beroepschrift moet voldoen op grond van artikel 6:5 van de Awb (zoals het overleggen van een afschrift van deze uitspraak) dient het beroepschrift ingevolge artikel 85, eerste lid, van de Vw 2000 een of meer grieven te bevatten. Artikel 6:6 van de Awb (herstel verzuim) is niet van toepassing. </para>
+  </section>
+  <footnote id="_c45375ea-b6aa-40a4-9cc4-2cce3f4cf1e8" label="1">
+    <para> Arrest van het Hof van Justitie van de Europese Unie van 10 mei 2017, ECLI:EU:C:2017:354.</para>
+  </footnote>
+  <footnote id="_81509ace-6964-4486-959a-a63a5d3e94b7" label="2">
+    <para> Verweerder verwijst naar de artikelen 18 en 19 van de Vreemdelingenwet (Vw) 2000 en de hoofdstukken B1/6.3 en B7/3 van de Vreemdelingencirculaire (Vc) 2000.</para>
+  </footnote>
+  <footnote id="_1a424b04-89a1-4cb1-a2f8-75c829f6cccc" label="3">
+    <para> Zie de uitspraak van 8 april 2020, ECLI:NL:RVS:2020:998.</para>
+  </footnote>
+  <footnote id="_16d80489-3387-460e-a96e-11302ce5fe0a" label="4">
+    <para> Richtlĳn 2003/86/EG van de Raad van 22 september 2003 inzake het recht op gezinshereniging.</para>
+  </footnote>
+  <footnote id="_4f9b7a35-ae60-43ba-8cf3-de7b20a85210" label="5">
+    <para> De mededeling van de Commissie aan het Europees Parlement en de Raad van 2 juli 2009 betreffende richtsnoeren voor een betere omzetting en toepassing van Richtlijn 2004/38/EG (COM 2009, 313).</para>
+  </footnote>
+  <footnote id="_3531e9dc-5cdd-4de2-9c34-98b868eec905" label="6">
+    <para> Zie de uitspraak van de Afdeling van 20 juli 2016, ECLI:NL:RVS:2016:2006.</para>
+  </footnote>
+  <footnote id="_777ab3fb-3c30-4648-bab5-13f353157050" label="7">
+    <para> Zie de uitspraak van de Afdeling van 5 augustus 2015, ECLI:NL:RVS:2015:2498.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

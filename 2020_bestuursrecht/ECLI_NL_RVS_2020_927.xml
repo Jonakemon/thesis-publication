@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:927</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-01T10:31:46</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-01</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201903438/1/A1</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:927">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:927</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-01T10:16:20</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-01</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:927 Raad van State , 01-04-2020 / 201903438/1/A1</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:927:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 14 september 2017 heeft het college van burgemeester en wethouders van Hoorn aan [vergunninghouder] een omgevingsvergunning verleend voor het in strijd met het bestemmingsplan uitbreiden van de woning en het aanpassen van de entree van die woning op het perceel aan de [locatie] in Zwaag. [vergunninghouder] woont op het perceel. Hij wil onder meer zijn woning vergroten door deze aan de achterkant uit te breiden, de bestaande kap van het hoofdgebouw boven de garage naar voren te trekken, de entree te vergroten en verhogen, de bestaande kap van het hoofdgebouw naar voren door te trekken tot op de uitbouw aan de voorgevel en door in het voordakvlak twee dakkapellen te plaatsen.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:927:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201903438/1/A1.</para>
+    <para>Datum uitspraak: 1 april 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant A] en [appellant B] (hierna tezamen en in enkelvoud: [appellant]), wonend te Zwaag, gemeente Hoorn,</para>
+    <para>appellanten,</para>
+    <para>tegen de uitspraak van de rechtbank Noord-Holland van 21 maart 2019 in zaak nr. 18/2987 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>het college van burgemeester en wethouders van Hoorn.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 14 september 2017 heeft het college aan [vergunninghouder] een omgevingsvergunning verleend voor het in strijd met het bestemmingsplan uitbreiden van de woning en het aanpassen van de entree van die woning op het perceel aan de [locatie] in Zwaag (hierna: het perceel).</para>
+    <para>Bij besluit van 31 mei 2018 heeft het college, naar aanleiding van het door [appellant] daartegen gemaakte bezwaar, het besluit van 14 september 2017 in stand gelaten.</para>
+    <para>Bij uitspraak van 21 maart 2019 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>Het college en [vergunninghouder] hebben een schriftelijke uiteenzetting gegeven.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 7 februari 2020, waar [appellant], bijgestaan door mr. E. Erkamp, rechtsbijstandverlener in Amsterdam, en het college, vertegenwoordigd door M. Klarenbeek, zijn verschenen. Verder is ter zitting [vergunninghouder] gehoord.</para>
+    <para>Overwegingen</para>
+    <para>1.    [vergunninghouder] woont op het perceel. Hij wil onder meer zijn woning vergroten door deze aan de achterkant uit te breiden, de bestaande kap van het hoofdgebouw boven de garage naar voren te trekken, de entree te vergroten en verhogen, de bestaande kap van het hoofdgebouw naar voren door te trekken tot op de uitbouw aan de voorgevel en door in het voordakvlak twee dakkapellen te plaatsen. Niet langer in geschil is dat een gedeelte van deze bouwactiviteiten in strijd is met het ter plaatse geldende bestemmingsplan "Bangert en Oosterpolder, fase 1 en 2" (hierna: het bestemmingsplan), omdat door het verhogen van de entree en het doortrekken van het dak boven de garage de maximaal toegestane bouw- en goothoogte voor bijbehorende bouwwerken wordt overschreden.</para>
+    <para>    Het college heeft een omgevingsvergunning voor bouwen als bedoeld in artikel 2.1, eerste lid, aanhef en onder a, in samenhang met artikel 2.10 van de Wet algemene bepalingen omgevingsrecht (hierna: de Wabo) en voor afwijken van het bestemmingsplan als bedoeld in artikel 2.1, eerste lid, aanhef en onder c, in samenhang met artikel 2.12, eerste lid, aanhef en onder a, onder ˚2, van de Wabo en artikel 4, eerste lid, van Bijlage II van het Besluit omgevingsrecht verleend.</para>
+    <para>    [appellant] woont naast het perceel. Hij is het er niet mee eens dat de vergunning is verleend, omdat hij vreest voor een rommelig straatbeeld en minder bezonning op zijn perceel.</para>
+    <para>2.    [appellant] betoogt dat de rechtbank heeft miskend dat de omgevingsvergunning is verleend in strijd met artikel 2.10, eerste lid, onder d, van de Wabo, omdat er geen deugdelijk welstandsadvies aan het besluit ten grondslag ligt. Hij voert aan dat dat de Commissie voor Monumenten en Welstand (hierna: de welstandscommissie) had moeten toetsen aan het stuk "Bangert en Oosterpolder, bouwregels gemeentelijke kavels, fase 1, Hoge Hemen" van de Afdeling Stadsontwikkeling van de gemeente Hoorn van januari 2008 (hierna: het stuk). [appellant] noemt dit stuk het beeldkwaliteitsplan. In het stuk staat dat de voorgevel op 5,5 m van de erfgrens moet liggen, terwijl het bouwplan ertoe leidt dat de voorgevel dichterbij de erfgrens komt te liggen. Dit leidt volgens [appellant] tot een rommelig straatbeeld.</para>
+    <para>2.1.    Artikel 2.1, eerste lid, onder a, van de Wabo luidt:</para>
+    <para>"Het is verboden zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit: het bouwen van een bouwwerk."</para>
+    <para>    Artikel 2.10, eerste lid, aanhef en onder d, luidt:</para>
+    <para>"Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, wordt de omgevingsvergunning geweigerd indien: het uiterlijk of de plaatsing van het bouwwerk waarop de aanvraag betrekking heeft, met uitzondering van een tijdelijk bouwwerk dat geen seizoensgebonden bouwwerk is, zowel op zichzelf beschouwd als in verband met de omgeving of de te verwachten ontwikkeling daarvan, in strijd is met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in artikel 12a, eerste lid, onder a, van de Woningwet, tenzij het bevoegd gezag van oordeel is dat de omgevingsvergunning niettemin moet worden verleend."</para>
+    <para>2.2.    Voor een advies over de welstandstoetsing geldt dat, hoewel het college niet aan een welstandsadvies is gebonden en de verantwoordelijkheid voor welstandstoetsing bij hem berust, het college op dat advies mag afgaan, nadat het is nagegaan of dit advies op zorgvuldige wijze tot stand is gekomen, de redenering daarin begrijpelijk is en de getrokken conclusies daarop aansluiten. Het overnemen van een welstandsadvies behoeft in beginsel geen nadere toelichting. Dit is anders indien de aanvrager of een derdebelanghebbende een advies van een andere deskundig te achten persoon of instantie heeft overgelegd dan wel concrete aanknopingspunten voor twijfel aan de zorgvuldigheid van de totstandkoming van het advies, de begrijpelijkheid van de in het advies gevolgde redenering of het aansluiten van de conclusies daarop naar voren heeft gebracht.</para>
+    <para>2.3.    Het stuk biedt kaders voor het ontwerp van huizen die onder meer aan de Schouwmeester in Zwaag werden gebouwd. De rechtbank heeft echter terecht overwogen dat het stuk geen onderdeel uitmaakt van de welstandsnota. Verder leidt de omstandigheid dat het stuk in het verleden een keer bij een welstandsadvies is betrokken, niet tot het oordeel dat het daarom als beleid moet worden aangemerkt. Het stuk heeft dan ook in zoverre geen bindende werking heeft, wat betekent dat de welstandscommissie hier geen rekening mee hoefde te houden bij het opstellen van het advies. De welstandscommissie heeft wel het belangrijkste uitgangspunt van het stuk in ogenschouw genomen, namelijk dat het huis een landelijke uitstraling moet hebben. In zoverre heeft de welstandscommissie, onverplicht, met het stuk rekening gehouden. Omdat het huis volgens de welstandscommissie na de verbouwing een meer landelijke uitstraling zal hebben, heeft de welstandscommissie een positief advies afgegeven. Nu de welstandscommissie de uitstraling van de woning bij het advies heeft betrokken, is er, anders dan [appellant] heeft aangevoerd, geen aanleiding voor het oordeel dat de welstandscommissie geen rekening heeft gehouden met de invloed van het bouwplan op de omgeving.     </para>
+    <para>    In de omstandigheid dat het huis van [vergunninghouder] na uitvoering van het bouwplan niet langer dezelfde voorgevelrooilijn zal hebben als het huis van [appellant], hoefde het college in redelijkheid geen aanleiding te zien om van het welstandsadvies af te wijken, omdat, nog daargelaten dat dit een onderwerp is dat in een bestemmingsplan wordt geregeld, het hier gaat om vrijstaande huizen die in ontwerp van elkaar verschillen, waardoor een afwijkende voorgevelrooilijn niet onredelijk veel invloed zal hebben op het straatbeeld.</para>
+    <para>     Gelet op het voorgaande heeft [appellant] geen aanknopingspunten naar voren gebracht op grond waarvan moet worden getwijfeld aan de zorgvuldigheid van de totstandkoming van het advies. De Afdeling ziet dan ook geen aanleiding voor het oordeel dat de rechtbank ten onrechte heeft overwogen dat het college zich op dit advies mocht baseren.</para>
+    <para>    Het betoog faalt.</para>
+    <para>3.    [appellant] betoogt verder dat de rechtbank heeft miskend dat het stuk had moeten worden betrokken bij beantwoording van de vraag of het bouwplan in strijd is met een goede ruimtelijke ordening.</para>
+    <para>4.    Artikel 2.1, eerste lid, onder c, van de Wabo luidt:</para>
+    <para>"Het is verboden zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit: het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan […]"</para>
+    <para>4.1.    Artikel 2.12 van de Wabo luidt:</para>
+    <para>"1. Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, kan de omgevingsvergunning slechts worden verleend indien de activiteit niet in strijd is met een goede ruimtelijke ordening en:</para>
+    <para>a. indien de activiteit in strijd is met het bestemmingsplan of de beheersverordening:</para>
+    <para>    […]</para>
+    <para>    2°. in de bij algemene maatregel van bestuur aangewezen gevallen,</para>
+    <para>    […]"</para>
+    <para>4.2.    De rechtbank heeft terecht geoordeeld dat het stuk geen deel uitmaakt van het bestemmingsplan en ook verder geen gemeentelijk beleid is en dat het college daarom niet verplicht was om dit stuk bij zijn beoordeling te betrekken.</para>
+    <para>    Het betoog faalt.   </para>
+    <para>5.    [appellant] betoogt dat de rechtbank verder niet heeft onderkend dat het bouwplan in strijd is met een goede ruimtelijke ordening, omdat het ertoe leidt dat op zijn perceel minder bezonning zal zijn, terwijl het dakvlak dat voor de garage uit zal steken, voor [vergunninghouder] geen functie heeft</para>
+    <para>5.1.    Ter zitting heeft [vergunninghouder] toegelicht dat het dakvlak om bouwkundige redenen naar voren moet worden gehaald. Dit zal leiden tot enige schaduwhinder, maar uit het rapport "Bezonningsstudie" van GEO-informatie van 18 mei 2018 blijkt dat desondanks binnen de zogenoemde strenge TNO-norm wordt gebleven, wat betekent dat er in de periode 21 januari - 22 november ten minste drie zonuren per dag zijn.</para>
+    <para>     Het college stelt zich op het standpunt dat het, gelet hierop, de schaduwhinder niet onevenredig vindt en daarom daarin geen aanleiding ziet om de gevraagde omgevingsvergunning te weigeren. Er is geen aanleiding voor het oordeel dat het college zich niet op de TNO-norm mocht baseren. Anders dan [appellant] heeft aangevoerd, heeft het college geen eigen bezonningsnormen vastgesteld. De Afdeling is daarom van oordeel dat de rechtbank terecht heeft overwogen dat het college zich in redelijkheid op dit standpunt heeft kunnen stellen.</para>
+    <para>    Het betoog faalt.</para>
+    <para>6.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.</para>
+    <para>7.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para>Aldus vastgesteld door mr. E.J. Daalder, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. M.L.M van Loo, griffier.</para>
+    <para>Het lid van de enkelvoudige kamer is verhinderd de uitspraak te ondertekenen.   </para>
+    <para>De griffier is verhinderd de uitspraak te ondertekenen.</para>
+    <para>Uitgesproken in het openbaar op 1 april 2020</para>
+    <para>811.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

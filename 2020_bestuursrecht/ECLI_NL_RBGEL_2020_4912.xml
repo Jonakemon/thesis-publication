@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:4912</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-25T12:13:17</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-23</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-22</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 3557</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:4912">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:4912</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-25T12:11:02</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-25</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:4912 Rechtbank Gelderland , 22-09-2020 / AWB - 19 _ 3557</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:4912:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Weigering intrekking milieuvergunning</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:4912:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold"> RECHTBANK GELDERLAND</bridgehead>
+    <para>Zittingsplaats Arnhem</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/3557</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van</bridgehead>
+    <para />
+    <parablock>
+      <para>in de zaak tussen</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [eiser 1] , te [woonplaats] , </bridgehead>
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [eiser 2]
+        </emphasis>, te [woonplaats] ,</para>
+      <para>
+        <emphasis role="bold">
+          [eiser 3]
+        </emphasis>, te [woonplaats] ,</para>
+      <para>eisers</para>
+      <para>(gemachtigde: ing. M.H. Middelkamp),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van gedeputeerde staten van de provincie Gelderland, verweerder.</bridgehead>
+    <para />
+    <parablock>
+      <para>Als derde-partij heeft aan het geding deelgenomen: <emphasis role="bold">[derde-partij]</emphasis>, te [woonplaats] , vergunninghouder. </para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 25 september 2018 (het primaire besluit) heeft verweerder het verzoek van eisers om intrekking van de aan de derde-partij verleende omgevingsvergunning afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 21 mei 2019 (het bestreden besluit) heeft verweerder het bezwaar van eisers ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eisers hebben tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft plaatsgevonden op 26 augustus 2020. Namens eisers is hun gemachtigde verschenen. Verweerder is vertegenwoordigd door R. Feber. Namens de derde-partij is [derde-partij] verschenen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De derde-partij exploiteerde op het perceel [locatie] te [woonplaats] een varkenshouderij. Voor deze varkenshouderij heeft verweerder op 8 juni 2010 een revisievergunning verleend. Deze revisievergunning is gelijkgesteld met een omgevingsvergunning voor de activiteit “milieu” (milieuvergunning).<footnote-ref linkend="_07c7d17b-cf35-4127-9db0-356ea1a2a3db" /></para>
+    <para>Bij besluit van 30 juni 2011 heeft verweerder een veranderingsvergunning verleend. </para>
+    <para />
+    <parablock>
+      <para>In de milieuvergunning zijn de volgende dieraantallen en stalsystemen vergund:</para>
+    </parablock>
+    <mediaobject>
+      <imageobject>
+        <imagedata align="center" scale="100" fileref="80a02e22-9b6a-40bc-b40b-6a31c48d6c75" depth="281" width="507" format="image/png" />
+      </imageobject>
+    </mediaobject>
+    <para />
+    <para>2. Door een brand in 2017 zijn de stallen verwoest en zijn alle varkens omgekomen. </para>
+    <para>Op 23 oktober 2017 hebben eisers verweerder naar aanleiding van deze brand verzocht om de (milieu)vergunning van het bedrijf in te trekken. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Dwangsom vanwege niet tijdig beslissen</emphasis>
+      </para>
+    </parablock>
+    <para>3. Eisers stellen dat zij verweerder in gebreke hebben gesteld vanwege het niet tijdig beslissen op hun bezwaarschrift. Volgens eisers heeft verweerder ten onrechte de hoogte van de verbeurde dwangsom niet vastgesteld. </para>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Voor het verschuldigd zijn van een dwangsom wegens het niet tijdig beslissen dient een ingebrekestelling te zijn verzonden aan verweerder. Dit volgt uit artikel 4:17, derde lid, van de Algemene wet bestuursrecht (Awb). Op de zitting hebben eisers een ingebrekestelling van 10 augustus 2018 overgelegd. Maar deze ingebrekestelling ziet op het niet tijdig nemen van een beluit op de aanvraag, dus op het nemen van het primaire besluit, en niet op het niet tijdig nemen van de beslissing op bezwaar. Eisers hebben verder geen ingebrekestelling overgelegd die in het kader van het niet tijdig nemen van de beslissing op bezwaar is verzonden. Reeds daarom slaagt de beroepsgrond niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het niet opstellen van een milieueffectrapport</emphasis>
+        </para>
+        <para>4.	Eisers betogen dat verweerder ten onrechte geen milieueffectrapport heeft opgesteld. </para>
+        <para>Eisers verzoeken om prejudiciële vragen te stellen aan het Hof van Justitie over het nemen van het bestreden besluit zonder milieueffectrapport. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <parablock>
+        <para>In bijlage 1 bij het Besluit milieueffectrapportage (besluit m.e.r) staat onder categorie C14 dat een m.e.r-plicht geldt bij de oprichting, wijziging of uitbreiding van een installatie voor meer dan 3.000 vleesvarkens. Van een oprichting of uitbreiding is in dit geval geen sprake. </para>
+        <para>In onderdeel A, onder 2, van de bijlage bij het besluit m.e.r wordt onder “wijziging” verstaan een reconstructie of verandering anderszins van bestaande inrichtingen. Ook daarvan is bij een intrekking geen sprake. Het opstellen van een milieueffectrapport is dus niet verplicht bij het beoordelen van een verzoek tot intrekking. De rechtbank ziet geen aanleiding om hierover prejudiciële vragen te stellen. De beroepsgrond slaagt niet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">De van belang zijnde intrekkingsgronden</emphasis>
+        </para>
+      </parablock>
+      <para>5. De intrekkingsgronden van een omgevingsvergunning zijn opgenomen in artikel 2.33 van de Wet algemene bepalingen omgevingsrecht (Wabo). Dit artikel, voor zover hier van belang, luidt als volgt:</para>
+      <parablock>
+        <para>“1 Het bevoegd gezag trekt de omgevingsvergunning in, voor zover:</para>
+        <para>(…)</para>
+      </parablock>
+      <para>b. deze betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, indien door toepassing van artikel 2.31, eerste lid, aanhef en onder b, redelijkerwijs niet kan worden bereikt dat in de inrichting of het mijnbouwwerk ten minste de voor de inrichting of het mijnbouwwerk in aanmerking komende beste beschikbare technieken worden toegepast;</para>
+      <para>(…)</para>
+      <para>d. de inrichting of het mijnbouwwerk ontoelaatbaar nadelige gevolgen voor het milieu veroorzaakt en toepassing van artikel 2.31 daarvoor redelijkerwijs geen oplossing biedt;</para>
+      <para>(…)</para>
+      <para>2 Het bevoegd gezag kan de omgevingsvergunning geheel of gedeeltelijk intrekken, voor zover: </para>
+      <para>(…)</para>
+      <para>d. deze betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, indien:</para>
+      <parablock>
+        <para>(…);</para>
+        <para>2°.de inrichting of het mijnbouwwerk geheel of gedeeltelijk is verwoest;</para>
+        <para>(…).”</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Het aspect Beste Beschikbare Technieken</emphasis>
+        </para>
+      </parablock>
+      <para>6. Eisers betogen dat verweerder in het aspect Beste Beschikbare Technieken (BBT) ten onrechte geen aanleiding heeft gezien tot intrekking. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Verweerder heeft voor wat betreft de intrekkingsgrond uit artikel 2.33, eerste lid, onder b, van de Wabo overwogen dat in het kader van de vergunningverlening reeds is getoetst aan het vereiste dat ten minste BBT moeten worden toegepast. Uit de uitspraak van de Afdeling van 17 augustus 2016 volgt dat artikel 2.33, eerste lid, onder b, ziet op ontwikkelingen van de technische mogelijkheden tot bescherming van het milieu of ontwikkelingen van de kwaliteit van het milieu die zich hebben voorgedaan ná de vergunningverlening.<footnote-ref linkend="_4fec10ff-e5eb-4675-9588-cdb47a0caf9a" /> Na vergunningverlening is alleen de nieuwe BREF Intensieve pluimvee- en varkenshouderij in 2017 van toepassing geworden. Verweerder heeft getoetst aan de aspecten uit de BREF en geconcludeerd dat het niet nodig is om de voorschriften die aan de milieuvergunning zijn gesteld te wijzigen. De milieuvergunning voldoet volgens verweerder nog steeds aan de eisen met betrekking tot BBT. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Eisers hebben alleen gesteld dat de inrichting niet conform BBT is, maar dit standpunt niet verder onderbouwd. Op de zitting hebben eisers verklaard dat aan de derde-partij lasten onder dwangsom zijn opgelegd, maar niet aangegeven waarvoor deze zijn opgelegd. Dat een last onder dwangsom is opgelegd betekent ook niet dat in de inrichting geen BBT worden toegepast. De beroepsgrond slaagt niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Ontoelaatbare milieugevolgen</emphasis>
+        </para>
+        <para>7.	Eisers betogen dat verweerder in de aspecten geurhinder, fijnstof en stikstof ten onrechte geen aanleiding gezien tot intrekking. Met betrekking tot het aspect “stikstof” betogen eisers verder dat verweerder ten onrechte geen rekening heeft gehouden met de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (Afdeling) van 29 mei 2019.<footnote-ref linkend="_17135aae-6cca-4c96-a65a-2f8bf8e174f3" /></para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Uit rechtspraak van de Afdeling volgt dat voor het antwoord op de vraag of toepassing gegeven kan worden aan artikel 2.33, eerste lid, aanhef en onder d, van de Wabo niet doorslaggevend is of de vergunde situatie in het belang van de bescherming van het milieu opnieuw zou kunnen worden vergund. Van belang is of de door de verleende omgevingsvergunningen ontstane milieugevolgen dermate ernstig zijn dat zij niet slechts als ongewenst, maar zonder meer als ontoelaatbaar kunnen worden aangemerkt.<footnote-ref linkend="_0835f876-beed-4ad8-8f47-46bbcefaaeef" /></para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Eisers hebben in beroep niet nader onderbouwd waarom volgens hun de milieugevolgen van de inrichting voor wat betreft geurhinder, fijnstof en stikstof als ontoelaatbaar dienen te worden aangemerkt en dus het gemotiveerde standpunt van verweerder hierover niet juist zou zijn. De beroepsgrond slaagt niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Intrekking wegens dierenwelzijn</emphasis>
+        </para>
+        <para>8.	Eisers betogen dat verweerder de vergunning had moeten intrekken in verband met het dierenwelzijn. Verweerder had rekening moeten houden met het beroepsverbod dat in Duitsland aan de derde-partij is opgelegd. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1.</nr>
+      <para>Verweerder heeft met betrekking tot dierenwelzijn onder verwijzing naar de uitspraak van de Afdeling van 12 november 1998<footnote-ref linkend="_02805665-71d0-48c7-902f-6518642a2ac5" /> overwogen dat dit een aspect betreft dat in een vergunningsprocedure niet aan de orde kan komen, en dat daarvoor aparte regelgeving bestaat in de vorm van de Wet dieren en het Besluit houders van dieren. Het toezicht daarop ligt bij de minister van landbouw, natuur en voedselkwaliteit. Verweerder is niet bevoegd om na te gaan of aan de regels van het Besluit houders van dieren wordt voldaan en daarom kan dit ook niet in de afweging worden betrokken, aldus verweerder.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.2.</nr>
+      <parablock>
+        <para>Dit standpunt is juist. Voor zover sprake is van strijd met dierenwelzijnswetgeving kan hiertegen op grond van de door verweerder genoemde wetgeving handhavend worden opgetreden, maar kan dat niet leiden tot intrekking van de omgevingsvergunning. </para>
+        <para>Verweerder hoefde ook niet in te trekken omdat aan de derde-partij in Duitsland een beroepsverbod zou zijn opgelegd. Want er is geen bevoegdheid die het mogelijk maakt om een omgevingsvergunning in te trekken vanwege een beroepsverbod in het buitenland.</para>
+        <para>De beroepsgrond slaagt niet. </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Proceskosten bezwaarfase</emphasis>
+        </para>
+        <para>9.	Eisers betogen dat het primaire besluit is aangepast, maar dat ten onrechte geen proceskosten zijn toegekend in de bezwaarfase. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.1.</nr>
+      <para>Op grond van artikel 7:15, tweede lid, van de Awb worden de kosten die de belanghebbende in verband met de behandeling van het bezwaar redelijkerwijs heeft moeten maken, door het bestuursorgaan uitsluitend vergoed op verzoek van de belanghebbende voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>9.2.</nr>
+      <para>Herroeping vindt plaats als een ontvankelijk bezwaar leidt tot intrekking of wijziging van het primaire besluit. In dit geval heeft het bezwaar geleid tot verbetering van de motivering. Een verbetering van de motivering is geen herroeping van een besluit.<footnote-ref linkend="_6a61bd50-b5a1-4974-82a8-08014a342ac4" /> Omdat geen sprake is van herroeping, heeft verweerder terecht overwogen dat geen aanleiding bestaat om een proceskostenvergoeding toe te kennen. De beroepsgrond slaagt niet. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+        <para>10.	Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>verklaart het beroep ongegrond. </para>
+    </parablock>
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="3">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <tbody>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Deze uitspraak is gedaan door mr. M.J.M. Verhoeven, voorzitter, mr. W.P.C.G. Derksen en mr. J.J.W.P. van Gastel, rechters, in tegenwoordigheid van mr. E. Mengerink, griffier. </para>
+              <para>De beslissing is in het openbaar uitgesproken op: </para>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>voorzitter</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Afschrift verzonden aan partijen op:</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>
+                <emphasis role="bold">Rechtsmiddel</emphasis>
+              </para>
+              <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+  </section>
+  <footnote id="_07c7d17b-cf35-4127-9db0-356ea1a2a3db" label="1">
+    <para> Artikel 2.1, eerste lid, onder e, van de Wabo. </para>
+  </footnote>
+  <footnote id="_4fec10ff-e5eb-4675-9588-cdb47a0caf9a" label="2">
+    <para>ECLI:NL:RVS:2016:2245.</para>
+  </footnote>
+  <footnote id="_17135aae-6cca-4c96-a65a-2f8bf8e174f3" label="3">
+    <para>ECLI:NL:RVS:2019:1603.</para>
+  </footnote>
+  <footnote id="_0835f876-beed-4ad8-8f47-46bbcefaaeef" label="4">
+    <para> Zie onder meer de uitspraak van de Afdeling van 19 februari 2020 (ECLI:NL:RVS:2020:504). </para>
+  </footnote>
+  <footnote id="_02805665-71d0-48c7-902f-6518642a2ac5" label="5">
+    <para>ECLI:NL:RVS:1998:AH7754.</para>
+  </footnote>
+  <footnote id="_6a61bd50-b5a1-4974-82a8-08014a342ac4" label="6">
+    <para> Zie ter vergelijking overweging 2.4.1 van de uitspraak van de Afdeling van 21 december 2011 (ECLI:NL:RVS:2011:BU8862). </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

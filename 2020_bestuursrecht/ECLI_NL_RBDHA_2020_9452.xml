@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:9452</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-14T09:00:08</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-09-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 4265</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9452">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9452</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-09-29T15:11:59</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-14</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:9452 Rechtbank Den Haag , 30-09-2020 / AWB - 20 _ 4265</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:9452:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Subsidietender Ontwikkelingssamenwerking 2019. Onderscheid bij toetsing van bezoldigingscriterium op grond van vestigingsplaats topfunctionaris van subsidieaanvrager niet ongerechtvaardigd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:9452:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 20/4265</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 30 september 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Stichting Save the Children Nederland, te Den Haag, eiseres</bridgehead>
+    <para>(gemachtigde: mr. J. Wijmans),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Buitenlandse Handel en Ontwikkelingssamenwerking, verweerder</bridgehead>
+    <para>(gemachtigden: mr. C.P.M. Vijver - van de Pas en mr. M. Dekker).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 24 april 2020 (het bestreden besluit) heeft verweerder de subsidieaanvraag van eiseres afgewezen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 17 juni 2020 heeft verweerder het daartegen door eiseres gemaakte bezwaar overeenkomstig haar verzoek doorgezonden aan de rechtbank ter behandeling als beroepschrift.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het beroep is met toepassing van artikel 8:52 van de Algemene wet bestuursrecht (Awb) versneld behandeld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 16 september 2020.</para>
+      <para>Eiseres is verschenen, vertegenwoordigd door [A] en [B] , bijgestaan door een kantoorgenoot van gemachtigde, mr. A.E.M. van den Berg. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden. Tevens zijn namens verweerder verschenen [C] en [D] .</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Eiseres heeft op 12 maart 2020 een aanvraag ingediend voor een projectsubsidie op grond van het Besluit tot vaststelling voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, Seksuele en Reproductieve Gezondheid en Rechten Partnerschap Fonds (hierna: de Beleidsregels), een subsidietender. Een van de alliantiepartners van het project is Population Council Kenya, gevestigd in Nairobi.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Met het bestreden besluit heeft verweerder de subsidieaanvraag in fase 1 van de tenderprocedure afgewezen. De aanvraag van eiseres is afgewezen omdat de bezoldiging van de directeur van de alliantiepartner niet in verhouding staat tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie, nu deze relevante elementen onvoldoende zijn uitgelegd in de aanvraag. Verweerder heeft hiermee de aanvraag afgewezen op grond van het drempelcriterium neergelegd in de bijlage, hoofdstuk 3, onder B, Fase 1: D.6. van de Beleidsregels waarin vereisten zijn opgenomen omtrent de maximale bezoldiging van bestuursleden en managers van deelnemende organisaties.<?linebreak?></para>
+      <para>2. Eiseres is het niet eens met het bestreden besluit en voert, kort weergegeven, aan dat er geen juridische grondslag is voor het criterium neergelegd in D.6. Voor een bezoldigingsvereiste ontbreekt een wettelijke grondslag en eiseres verwijst naar de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 5 juli 2017 (ECLI:NL:RVS:2017:1774). Daarbij komt dat het bezoldigingsvereiste voor de toetsing een ongerechtvaardigd onderscheid maakt naar de vestigingslocatie van het management- of bestuurslid en ook om die reden buiten toepassing moet blijven. Eiseres voert subsidiair aan dat, als uitgegaan moet worden van de geldigheid van het vereiste, de toepassing van het bezoldigingscriterium in strijd is met het gelijkheidsbeginsel en het rechtszekerheidsbeginsel. De toelichting die verweerder heeft gegeven op het redelijkheidscriterium volgt niet uit de beleidsregels en deze mag haar dan ook niet achteraf worden tegengeworpen. Verder stelt eiseres dat haar aanvraag voldoet aan het drempelcriterium.</para>
+      <para />
+      <para>3. De van belang zijnde wet- en regelgeving is opgenomen in de bijlage bij deze uitspraak.</para>
+      <para />
+      <para>4. De rechtbank overweegt als volgt.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Wettelijke grondslag</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Eiseres heeft de juridische grondslag van het bezoldigingscriterium betwist. Volgens haar heeft verweerder het door de Afdeling in de uitspraak van 5 juli 2017 geconstateerde gebrek in de toepasselijke regelgeving niet hersteld. Verweerder heeft zich op het standpunt gesteld dat met de wetswijziging van de Kaderwet subsidies Ministerie van Buitenlandse Zaken (Staatsblad 2019, 48) de criteria voldoende in de wet zijn verankerd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>De rechtbank is van oordeel dat sprake is van een wettelijke grondslag voor het stellen van het bezoldigingsvereiste. Zoals volgt uit artikel 4:39 van de Awb en de door eiseres aangehaalde uitspraak van de Afdeling, vergt een niet-doelgebonden verplichting, in dit geval het bezoldigingsvereiste, een wettelijke grondslag. Met inwerkingtreding van de genoemde wetswijziging is de wettelijke grondslag voor het stellen van het bezoldigingsvereiste in het leven geroepen. Verweerder is ingevolge artikel 3, derde lid, aanhef en onder a, van de Kaderwet subsidies Ministerie van Buitenlandse Zaken bevoegd de subsidieverstrekking afhankelijk te stellen van het beloningsbeleid van de subsidieaanvrager. Verweerder is krachtens het eerste en tweede lid bevoegd om bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling regels vast te stellen over de aanvraag van een subsidie en de voorwaarden waaronder de subsidie wordt verleend. Van zijn bevoegdheid heeft de rechtsvoorganger van verweerder gebruik gemaakt door bij ministeriële regeling de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 vast te stellen. Daarop voortbouwend heeft verweerder bij besluit van 22 november 2019 in het Besluit vaststelling beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (SRGR Partnerschap Fonds) beleid vastgesteld waaronder het bezoldigingsvereiste onder D.6. hier in geschil.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Voor het oordeel dat voor het bevoegd kunnen stellen van een bezoldigingsvereiste een wijziging van het Subsidiebesluit Ministerie van Buitenlandse Zaken noodzakelijk is, zoals eiseres heeft betoogd, is geen aanleiding. De Kaderwet subsidies Ministerie van Buitenlandse Zaken maakt het – zoals hiervoor onder 5.2 weergegeven – mogelijk vereisten omtrent de bezoldiging te stellen en geeft verweerder de bevoegdheid om nadere regels in een ministeriële regeling neer te leggen. Met het vastleggen van het bezoldigingsvereiste in de Beleidsregels, een ministeriële regeling, is hieraan voldaan.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Onderscheid</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Tussen partijen is niet in geschil dat het stellen van een bezoldigingsvereiste, gelet op het maatschappelijke draagvlak om subsidies niet toe te kennen aan organisaties die een te hoge bezoldiging toekennen aan hun topfunctionarissen, in beginsel gerechtvaardigd is. Partijen zijn verdeeld over de vraag of het bezoldigingscriterium van D.6. van de Beleidsregels een ongerechtvaardigd onderscheid inhoudt. Voor leden van het management en bestuur in Nederland en de Europese Unie (EU) of in Noorwegen, Zwitserland, Japan, de VS en Canada  (zoals bedoeld in D.6.A, D.6.B en D.6.C. van de Beleidsregels) (hierna: groep A) en in overige landen (zoals bedoeld in D.6.D. van de Beleidsregels) gevestigde penvoerders of alliantiepartners (hierna: groep B), geldt immers een afzonderlijke toets.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Voor de toetsing aan het bezoldigingsvereiste dient voor een lid van groep A een loonstrook te worden overgelegd waaruit blijkt dat zijn bezoldiging onder de gegeven norm - een bedrag - ligt. Voor een lid van groep B dient de subsidieaanvrager te motiveren waarom de bezoldiging in redelijke verhouding staat tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie, zoals volgt uit de Beleidsregels. Eiseres betoogt dat hiermee een materieel onderscheid wordt gemaakt bij de toetsing van het bezoldigingsvereiste, namelijk voldoen aan een voorgeschreven normbedrag tegenover voldoen aan een redelijkheidstoets. Ook wordt een formeel onderscheid gemaakt; voor een lid van groep A volstaat het overleggen van een loonstrook terwijl voor een lid van groep B een uitgebreide motivering moet worden gegeven. Verweerder heeft betoogd dat het onderscheid noodzakelijk is omdat voor de organisaties gevestigd in landen van groep B geen eenvoudige of uniforme rekenmethode beschikbaar is voor het stellen van een kwantitatieve norm.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>Eiseres heeft in haar betoog verwezen naar het gelijkheidsbeginsel, artikel 1 van de Grondwet, artikel 26 van het Internationaal verdrag inzake burgerrechten en politieke rechten, artikel 14 van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) en artikel 1 van het Twaalfde Protocol bij het EVRM. Het is vaste rechtspraak, bijvoorbeeld de uitspraak van de Afdeling van 6 mei 2020 (ECLI:NL:RVS:2020:1194), dat niet iedere ongelijke behandeling is verboden, maar alleen die welke als discriminatie moet worden beschouwd omdat een redelijke en objectieve rechtvaardiging ervoor ontbreekt. Dit betekent dat alleen dan sprake is van verboden discriminatie als het gemaakte onderscheid geen gerechtvaardigde doelstelling heeft of als er geen redelijke verhouding bestaat tussen de maatregel die het onderscheid maakt en het daarmee beoogde gerechtvaardigde doel.</para>
+      <para />
+      <parablock>
+        <para>7. </para>
+        <para>Verweerder heeft naar het oordeel van de rechtbank aannemelijk gemaakt dat het niet goed mogelijk is om een eenduidige kwantitatieve bezoldigingsnorm vast te stellen voor alle landen. Voor Nederland en de EU is het mogelijk om aan te sluiten bij de bezoldiging van de Directeur-Generaal Internationale Samenwerking van het Ministerie van Buitenlandse Zaken (de DG-norm) en de Wet normering topinkomens. Voor een aantal Westerse landen, genoemd onder D.6.C., biedt EUROSTAT gegevens om een aangepaste norm te berekenen. Verweerder heeft ervoor gekozen om voor de landen van groep B, geen harde kwantitatieve norm vast te stellen omdat er geen robuuste omrekenmethode op het niveau van EUROSTAT toepasbaar is en dermate breed is dat deze logisch en hanteerbaar is van bijvoorbeeld Maleisië, tot Afghanistan tot Mozambique.<?linebreak?></para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Nu de hiervoor genoemde gegevens voor de overige landen, zoals bedoeld in D.6.D. van de Beleidsregels, niet (in gelijke mate) voorhanden zijn, kan verweerder naar het oordeel van de rechtbank – mede gelet op zijn aanzienlijke beoordelingsruimte – niet gehouden worden voor die landen een kwantitatieve norm te stellen. Niet is gebleken van een eenduidige methode om voor de landen van groep B een maximale bezoldiging vast te stellen. Het zou voor verweerder een aanzienlijke last zijn om voorafgaand aan het openstellen van de aanvraagprocedure voor elk land een onderzoek uit te voeren teneinde een maximumbezoldiging of uitgangspunt vast te stellen. De door eiseres ter zitting aangevoerde dagvergoedingen die worden gehanteerd door de Verenigde Naties (VN) en de EU kunnen niet zonder meer gehanteerd worden voor het opstellen van een degelijke norm. De dagvergoedingen worden opgesteld voor het personeel dat in een gebied op een specifiek project wordt geplaatst en zijn om die reden niet geheel vergelijkbaar. Zo heeft verweerder ter zitting gemotiveerd dat de dagvergoedingen bedoeld zijn voor tijdelijke werkzaamheden en onder meer hotelkosten betreffen. Dit maakt dat VN- en EU-personeel veelal niet is te vergelijken met een management- of bestuurslid van een subsidieaanvrager of een alliantiepartner. De koopkracht van een in het projectland gevestigde persoon (resident of non-resident) wordt sterk bepaald door het gebied of zelfs het stadsdeel van waaruit hij werkt en de actieradius van zijn werkzaamheden. Verweerder mocht voorts belang toekennen aan het feit dat voor de overige landen het bij uitstek de subsidieaanvrager is die naar het individuele geval kan motiveren waarom de bezoldiging redelijk is en, indien van toepassing, een vergelijking kan maken met salariëring bij onder de VN ressorterende organisaties. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>Verweerder was naar het oordeel van de rechtbank evenmin gehouden tot het toepassen van een redelijkheidstoets voor alle landen. Bij het opstellen van de DG-norm en de Wet normering topinkomens wordt reeds rekening gehouden met verschillende factoren, zoals koopkrachtgegevens. In deze normen zit reeds een (deel van de) redelijkheidstoets, die geldt voor de overige landen, verdisconteerd. Daarbij geldt de EU als een economische unie waardoor een onderscheid tussen de lidstaten van de EU in beginsel niet geoorloofd is. De rechtbank overweegt dat het gelet hierop tevens een aanzienlijke uitvoeringslast voor verweerder zou zijn om de bezoldigingen van alle topfunctionarissen van de subsidieaanvragers aan een inhoudelijke redelijkheidstoets te onderwerpen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3.</nr>
+      <para>De onder 7.1 tot en met 7.3 genoemde omstandigheden in combinatie met het niet betwiste uitgangspunt dat recht moet worden gedaan aan de relevante verschillen tussen de landen bij het vaststellen van wat nog als een redelijke bezoldiging kan gelden, maakt naar het oordeel van de rechtbank dat er een gerechtvaardigd doel is voor het onderscheid. </para>
+      <para />
+      <para>8. Vervolgens ziet de rechtbank zich voor de vraag gesteld of de maatregel in redelijke verhouding staat tot het daarmee beoogde gerechtvaardigde doel. Als gevolg van het onderscheid moet voor een management- of bestuurslid uit een van de overige landen een motivering worden gegeven, in tegenstelling tot het enkel overleggen van een loonstrook. De rechtbank volgt verweerder in zijn betoog dat bij het openstellen van een functie en in de sollicitatieprocedure mag worden verwacht dat de bezoldiging van een topfunctionaris wordt vastgesteld aan de hand van – onder meer – krapte op de arbeidsmarkt, de functie, het budget, en het personeel waarover leiding wordt gegeven. Ook ligt het in de lijn der verwachtingen dat de subsidieaanvrager de loonkosten als onderdeel van de budgetprognose zal moeten kunnen onderbouwen. Het motiveren van de bezoldiging van een management- of bestuurslid in fase 1 van de subsidieprocedure acht de rechtbank in dit licht dan ook niet onredelijk bezwarend. De rechtbank is van oordeel dat het geven van een motivering van de hoogte van de bezoldiging niet disproportioneel is en in redelijke verhouding staat tot het gerechtvaardigde doel van het onderscheid. </para>
+      <para />
+      <para>9. Uit het voorgaande volgt dat de rechtbank van oordeel is dat verweerder met de toepassing van de criteria neergelegd in D.6. van de Beleidsregels geen ongerechtvaardigd onderscheid maakt.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Rechtszekerheid</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1.</nr>
+      <para>De subsidieaanvrager dient volgens de Beleidsregels te motiveren dat de bezoldiging van het management- of bestuurslid in een overig land in redelijke verhouding staat tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie. Volgens eiseres geeft verweerder verschillende interpretaties aan deze criteria in het bestreden besluit en het verweerschrift. Eiseres heeft met deze interpretaties geen rekening kunnen houden in haar aanvraag en de Beleidsregels zijn om die reden in strijd met het rechtszekerheidsbeginsel.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.2.</nr>
+      <para> De rechtbank is van oordeel dat de bewoordingen in de Beleidsregels voldoende duidelijk zijn en verweerder niet in strijd met de rechtszekerheid heeft gehandeld. De terminologie die verweerder heeft gebruikt in het bestreden besluit en het verweerschrift bevat een begrijpelijke uitleg van de Beleidsregels. De Beleidsregels bieden in combinatie met het aanvraagformulier een mogelijkheid voor eiseres om een motivering te geven die ingaat op de genoemde aspecten. Niet valt in te zien dat deze aspecten in de Beleidsregels onvoldoende concreet of nodeloos vaag zijn verwoord. Ter zitting heeft verweerder in dit verband tevens aangevoerd dat de subsidieaanvragers vragen kunnen stellen aan verweerder en er vragen en antwoorden (q&amp;a’s) beschikbaar zijn. Het lag dan ook op de weg van eiseres om zo nodig verduidelijking te vragen indien het haar niet duidelijk was waar de gevraagde toelichting op doelde en welke elementen daarin moesten worden verwerkt. De veronderstelling over wat als afdoende motivering gold, die leefde bij eiseres op grond van een eerdere aanvraag met een summiere toelichting op dit punt in combinatie met het feit dat de bezoldiging van de betrokken bestuurder onder de WNT-norm bleef, dient in dit kader voor haar rekening en risico te blijven. Voorts heeft verweerder ter zitting verklaard dat bij deze tender slechts 4 aanvragers er niet in zijn geslaagd te voldoen aan het criterium van D.6 van de Beleidsregels. <?linebreak?></para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Motivering van de subsidieaanvraag</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>11. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>11.1</nr>
+      <para>De motivering voor de hoogte van de bezoldiging van € 184.750, -- voor de Country Director in de aanvraag luidt:</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">“Population Counci Kenya is a locally registered non-governmental organisation with a</emphasis>
+        </para>
+        <para>
+          <emphasis role="italic">local, regional and international scope. Population Council Kenya is governed by an dependent /ocal board. We lead high quality research and develop programmes throughout sub-Saharan Africa covoring a broad range of technical areas. These include, but are not limited to, research to: Reduce maternal mortality; build protective health, social, and economic assets tor adolescent girls; reduce HIV transmission; respond to sexual and gender based violence; address disrespect and abuse in maternity care; assess various service-integration models; and strengthen evidence for programmes related to unintended pregnancy and elimination of female genital mutilation/cutting. Our Leadership and Management Team consists of Senior researchers with over 15 years of research and management experience. Salary considerations include individual skilIs, experience and expertise, their expansive roles in the organisation and overall tenure."</emphasis>
+        </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.2.</nr>
+      <para>Eiseres stelt dat de aanvraag voldoet aan het criterium en uit de motivering voldoende volgt dat de bezoldiging redelijk is. Er is toegelicht dat de organisatie hoogwaardige onderzoek- en ontwikkelingsprogramma’s leidt in diverse Afrikaanse landen en het Leadership en Managementteam bestaat uit senior onderzoekers met meer dan 15 jaar ervaring in research en management. Ook is toegelicht dat het salaris onder meer is afgestemd op de vaardigheden, ervaring, expertise, de uitbreidende rollen binnen de organisatie en de ambtsvervulling in het algemeen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>11.3</nr>
+      <para>De rechtbank is van oordeel dat verweerder in redelijkheid de motivering zoals gegeven op het aanvraagformulier onvoldoende heeft mogen achten. In de toelichting van eiseres wordt enkel een aantal afwegingen over het salarisniveau weergegeven. Er is geen concrete uitleg gegeven over deze afwegingen en waarom deze passen bij de bezoldiging in kwestie. Evenmin is daarbij gemotiveerd ingegaan op de aspecten die genoemd zijn in de Beleidsregels. Eiseres is blijven steken in algemene bewoordingen. Verweerder heeft in redelijkheid mogen vaststellen dat daarmee onduidelijk is of de bezoldiging redelijk is en de afwijzingsgrond mogen toepassen. Daarbij heeft verweerder er ten slotte terecht op gewezen dat dezelfde toelichtende tekst is gegeven voor een senior associate van de organisatie.</para>
+    </paragroup>
+    <paragroup>
+      <nr>11.4</nr>
+      <para>De rechtbank overweegt, en volgt verweerder in zijn betoog, dat nu de bezoldiging van de beoogde directrice in Nairobi hoger is dan de directeur van de Nederlandse penvoerder van eiseres en de directeur van een Nederlandse mede-indiener, van eiseres mag worden verwacht om een uitvoerige motivering te geven. Zo had eiseres in haar motivering kunnen aanvoeren dat een hogere bezoldiging noodzakelijk is voor het aantrekken en behouden van een hoog gekwalificeerde, beperkt beschikbare onderzoeker of directeur, zoals eiseres in beroep heeft gemotiveerd.<?linebreak?></para>
+      <para>12. Niet in geschil is dat in een tenderprocedure het uitgangspunt geldt dat het na de sluitingsdatum voor het indienen van de subsidieaanvraag niet mogelijk is om de aanvraag aan te vullen. De nadere motivering in beroep kan daarom niet leiden tot het voldoen aan het bezoldigingsvereiste. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>13. De rechtbank concludeert dat verweerder het bezoldigingsvereiste zoals neergelegd in D.6. van de Beleidsregels mag hanteren en hij in redelijkheid de subsidieaanvraag van eiseres heeft afgewezen. Het beroep is ongegrond.</para>
+      <para />
+      <para>14. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. G.P. Kleijn, voorzitter, en mr. E.S.G. Jongeneel en mr. D. Biever, leden, in aanwezigheid van mr. G.A. Verhoeven, griffier. De beslissing is in het openbaar uitgesproken op 30 september 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						voorzitter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    <para />
+  </section>
+  <section>
+    <title>Bijlage | Juridisch Kader</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Kaderwet subsidies Ministerie van Buitenlandse Zaken</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Artikel 3:</para>
+    </parablock>
+    <para />
+    <para>1. Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling worden de activiteiten waarvoor subsidie kan worden verstrekt nader bepaald en worden nadere regels voor die verstrekking vastgesteld.</para>
+    <para />
+    <para>2. Bij of krachtens algemene maatregel van bestuur of bij ministeriële regeling kunnen voorts regels worden vastgesteld met betrekking tot:</para>
+    <para>a. de vaststelling van een subsidieplafond;</para>
+    <para>b. het bedrag van de subsidie dan wel de wijze waarop dit bedrag wordt bepaald;</para>
+    <para>c. de aanvraag van een subsidie en de besluitvorming daarover;</para>
+    <para>d. de bevoegdheid om besluiten te nemen over subsidieverlening;</para>
+    <para>e. de voorwaarden waaronder de subsidie wordt verleend;</para>
+    <para>f. de verplichtingen voor de subsidieontvanger, waaronder de rapportage over toepassing van de subsidie;</para>
+    <para>g. de vaststelling van de subsidie;</para>
+    <para>h. de betaling van de subsidie en de eventuele verlening van voorschotten;</para>
+    <para>i. de rapportage over de doeltreffendheid en de effecten van de verstrekte subsidies in de praktijk en</para>
+    <para>j. overige onderwerpen die betrekking hebben op de uitvoering van deze wet.</para>
+    <para />
+    <para>3. In aanvulling op het bepaalde krachtens het eerste en tweede lid kan de verstrekking van subsidie afhankelijk worden gesteld van het voldoen aan beoordelingsmaatstaven, niet strekkende tot verwezenlijking van het doel van de subsidie, met betrekking tot:</para>
+    <para>a. het beloningsbeleid van de subsidieaanvrager,</para>
+    <para>b. het integriteitsbeleid van de subsidieaanvrager,</para>
+    <para>c. de naleving van algemeen gangbare normen van maatschappelijk verantwoord ondernemen door de subsidieaanvrager</para>
+    <para>d. de naleving van internationaal aanvaarde humanitaire principes door de subsidieaanvrager,</para>
+    <para>e. de positie van vrouwen,</para>
+    <parablock>
+      <para>f.de gevolgen voor het milieu,</para>
+      <para>g.de gevolgen voor internationaal erkende burger-, politieke, economische, sociale en culturele rechten van mensen en</para>
+    </parablock>
+    <para>h. overige uit oogpunt van algemeen belang bij algemene maatregel van bestuur geregelde beoordelingsmaatstaven.</para>
+    <para />
+    <para>4. Aan de subsidie kunnen verplichtingen worden verbonden met betrekking tot de bij of krachtens deze wet geregelde beoordelingsmaatstaven.</para>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Besluit vaststelling beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (SRGR Partnerschap Fonds)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bijlage, hoofdstuk 3, onder B, Fase 1: D.6:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>A. De maximale bezoldiging van de individuele leden van het management en bestuur van een in Nederland gevestigde penvoerder of alliantiepartner (niet zijnde de penvoerder) bedraagt, uiterlijk met ingang van het tijdvak waarvoor subsidie wordt gevraagd, per kalenderjaar ten hoogste EUR 189.000 (bruto) bij een dienstverband van een 36-urige werkweek.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Genoemd bedrag bestaat uit:</para>
+    </parablock>
+    <para>1. de beloning (de som van de periodiek betaalde beloningen en winstdelingen en bonusbetalingen);</para>
+    <para>2. de belastbare vaste en variabele onkostenvergoedingen;</para>
+    <para>3. beloningen betaalbaar op termijn, zoals vakantiegeld, 13e maand, werkgeversdeel pensioenbijdrage, etc.</para>
+    <para />
+    <parablock>
+      <para>B. Deze eis is ook van toepassing voor alliantiepartners (niet zijnde de penvoerder) die zijn gevestigd in een EU-lidstaat, waarbij voor alliantiepartners (niet zijnde de penvoerder) uit EU-lidstaten die niet zijn aangesloten bij de euro geldt dat omrekening van de lokale valuta naar de euro geschiedt op grond van de corporate rates (annex 4) die door het ministerie worden gehanteerd met ingang van 1 januari 2020. Voor de toepassing van deze beleidsregels wordt het Verenigd Koninkrijk beschouwd als EU-lidstaat.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>C. Gelet op de koopkrachtgegevens gepubliceerd door EUROSTAT (comparative price levels 2018)31 geldt voor alliantiepartners (niet zijnde de penvoerder) gevestigd in één van de volgende landen een aangepaste norm, op grond van het algemene inkomensniveau in de betreffende landen:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>• Noorwegen	NOK 2.490.214;</para>
+      <para>• Zwitserland	CHF 278.675;</para>
+      <para>• Japan		YEN 20.617.531;</para>
+      <para>• VS/Canada	USD 205.350.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>D. De maximale bezoldiging van de individuele leden van het management en bestuur van een penvoerder of alliantiepartner (niet zijnde de penvoerder) gevestigd in overige landen, staat met ingang van het tijdvak waarvoor subsidie wordt gevraagd in redelijke verhouding tot het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Toelichting:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Ad A/B/C/D</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De penvoerder specificeert de hoogte van de bezoldiging (inclusief toeslagen) van elk van de leden van het management (inclusief CEO) en bestuur van de eigen organisatie en alle overige alliantiepartners per de datum van de ingang van het subsidietijdvak:</para>
+    </parablock>
+    <para>- Functie</para>
+    <para>- Beloning (de som van de periodiek betaalde beloningen en winstdelingen en bonusbetalingen)</para>
+    <para>- Belastbare vaste en variabele onkostenvergoedingen</para>
+    <para>- Beloningen betaalbaar op termijn, zoals vakantiegeld, 13e maand, werkgeversdeel pensioenbijdrage e.a.</para>
+    <para>- Omvang aanstelling (in uren per week)</para>
+    <para />
+    <parablock>
+      <para>Voor alliantiepartners (niet zijnde de penvoerder) uit EU-lidstaten die niet zijn aangesloten bij de euro en voor penvoerders en overige alliantiepartners uit landen buiten de EU, anders dan de landen onder C., geldt dat omrekening van de lokale valuta naar de euro geschiedt op grond van de corporate rates (annex 4) die door het ministerie worden gehanteerd met ingang van 1 januari 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Ad A/B/C</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De penvoerder specificeert de hoogte van de bezoldiging (beloning, belastbare vaste en variabele onkostenvergoedingen en beloningen betaalbaar op termijn) van de individuele leden van het management en bestuur van de eigen organisatie en overige alliantiepartners voor zover in de EU, Noorwegen, Zwitserland, Japan en/of VS/Canada gevestigd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Geef daarbij ook de omvang van de aanstelling aan waaraan de bezoldiging is verbonden (zie ook hieronder onder NB).</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Voor Nederlandse organisaties die vallen onder de reikwijdte van de Wet normering topinkomens (WNT) hoeft geen specificatie te worden gegeven, maar volstaat een verwijzing naar de jaarlijks op uiterlijk 1 juli openbaar gemaakte WNT-gegevens, tenzij deze informatie per 1 januari 2019 in verband met een wijziging in de bezoldiging niet meer geldig is. (De WNT-gegevens dienen op internet openbaar gemaakt te worden voor een periode van tenminste zeven jaar. Deze moeten algemeen toegankelijk en eenvoudig te vinden zijn.)</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Ad D</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De penvoerder specificeert de hoogte van de bezoldiging (beloning, belastbare vaste en variabele onkostenvergoedingen en beloningen betaalbaar op termijn) van de individuele leden van het management en bestuur van de eigen organisatie en overige alliantiepartners voor zover buiten de EU en Noorwegen, Zwitserland, Japan en/of VS/Canada gevestigd. De penvoerder licht de verhouding tussen deze hoogte en het niveau van de functie, de geografische ligging en de omvang en complexiteit van de organisatie(s) toe.</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>NB:</title>
+    <para />
+    <parablock>
+      <para>Toelichting op criterium:</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het bezoldigingsmaximum is afgeleid van de bezoldiging van de Directeur-Generaal Internationale Samenwerking (DGIS) van het ministerie van Buitenlandse Zaken. DGIS valt onder de cao voor Rijksambtenaren waarin een 36-urige werkweek als voltijds dienstverband wordt aangemerkt. Indien het dienstverband van een managementlid of bestuurder bij de betrokken organisatie minder dan 36 uur per week betreft, wordt het bezoldigingsmaximum van EUR 189.000 pro-rato verlaagd en gerelateerd aan de deeltijdfactor van het dienstverband (omvang aanstelling/36*EUR 189.000). Bij een dienstverband van meer dan 36 uur blijft het bezoldigingsmaximum EUR 189.000. Wanneer de organisatie de deeltijdfactor verstrekt in de subsidieaanvraag, is dit het uitgangspunt voor de berekening van het verlaagde bezoldigingsmaximum. Wanneer de deeltijdfactor niet wordt verstrekt, wordt uitgegaan van een omvang van een voltijds dienstverband van 36 uur.</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

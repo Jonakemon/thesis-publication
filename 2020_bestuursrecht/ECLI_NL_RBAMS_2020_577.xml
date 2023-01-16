@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBAMS:2020:577</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-13T10:06:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-03</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Amsterdam" scheme="overheid.RechterlijkeMacht">Rechtbank Amsterdam</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-03</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 1772</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Amsterdam</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>Belastingblad 2020/211 met annotatie van J.C. Scherff</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:577">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBAMS:2020:577</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-09T13:35:56</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBAMS:2020:577 Rechtbank Amsterdam , 03-02-2020 / AWB - 19 _ 1772</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBAMS:2020:577:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>WOZ, objectafbakening gemeenschappelijke passage, huurwaardekapitalisatie-methode, gegevens vergelijkingsobjecten onvoldoende controleerbaar, gegrond</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBAMS:2020:577:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK AMSTERDAM</bridgehead>
+    <para>Bestuursrecht</para>
+    <para />
+    <parablock>
+      <para>zaaknummer: AMS 19/1772 </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 4 februari 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiseres] , te Sassenheim, eiseres</bridgehead>
+    <para>(gemachtigde: [gemachtigde] ),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">De heffingsambtenaar van de gemeente Amsterdam, verweerder</bridgehead>
+    <para />
+    <parablock>
+      <para>Partijen worden hierna aangeduid als ‘ [eiseres] ’ en ‘de heffingsambtenaar’. </para>
+    </parablock>
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>De heffingsambtenaar heeft in de beschikking van 28 februari 2018 de WOZ-waarde van de onroerende zaak op het adres [adres 1] te Amsterdam voor het kalenderjaar 2018 vastgesteld op € 585.000,-. In hetzelfde document heeft de heffingsambtenaar ook de aanslag onroerende zaakbelasting 2018 bekendgemaakt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft hiertegen bezwaar gemaakt. In de uitspraak op bezwaar van 11 februari 2019 </para>
+      <para>(de bestreden uitspraak) heeft de heffingsambtenaar het bezwaar ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen de bestreden uitspraak beroep ingesteld. De heffingsambtenaar heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op de zitting van 7 januari 2020. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        [eiseres] heeft zich laten vertegenwoordigen door haar gemachtigde. De heffingsambtenaar is verschenen in de persoon van de heer M.A. Boerhorst, bijgestaan door de heer [persoon] , taxateur. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">De aanleiding voor deze procedure</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. [eiseres] is eigenaar van de onroerende zaak. De onroerende zaak is een winkelruimte die thans als slijterij in gebruik is, met een oppervlakte van 150 m² en een opslag van 30m². De gemeenschappelijke passage tussen de slijterij, de drogist en de naastgelegen supermarkt is voor 26 m² door de heffingsambtenaar aan het object toegerekend.</para>
+    <para />
+    <para>2. Partijen zijn het niet eens over de hoogte van de WOZ-waarde van de onroerende zaak op de waardepeildatum 1 januari 2017. Bepalend is de staat waarin het object op die datum verkeert.<footnote-ref linkend="_44be8887-103c-447c-b3f2-a683a91921bb" /></para>
+    <para />
+    <para>3. [eiseres] vindt dat de heffingsambtenaar de WOZ-waarde te hoog heeft vastgesteld. [eiseres] vindt dat de waarde van de onroerende zaak vastgesteld moet worden op € 342.000,-.</para>
+    <para />
+    <para>4. De heffingsambtenaar vindt dat hij de waarde niet te hoog heeft vastgesteld.  Hij heeft de WOZ-waarde van de onroerende zaak in beroep onderbouwd aan de hand van de huurwaardekapitalisatie-methode. Dit is een vergelijkingsmethode die met name wordt toegepast op niet-woningen. Bij de huurwaardekapitalisatie-methode wordt de bruto huurwaarde van een object vermenigvuldigd met een kapitalisatiefactor.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wat vindt de rechtbank van deze zaak?</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Processuele grond</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>5. [eiseres] vindt dat het verweerschrift te laat is ingediend en dat de rechtbank dit stuk daarom buiten beschouwing moet laten. [eiseres] beroept zich hierbij op artikel 8:42 eerste lid van de Algemene wet bestuursrecht (Awb). De rechtbank overweegt hierover als volgt. Artikel 8:42 eerste lid Awb bepaalt dat het bestuursorgaan binnen vier weken na verzending van de gronden van het beroepsschrift de op de zaak betrekking hebbende stukken aan de bestuursrechter zendt en een verweerschrift <emphasis role="italic">kan</emphasis> indienen. Indien de bestuursrechter om een verweerschrift heeft verzocht, dient het bestuursorgaan binnen vier weken een verweerschrift in. De rechtbank heeft de heffingsambtenaar met de brief van </para>
+    <para>2 mei 2019 verzocht de op de zaak betrekking hebbende stukken op te sturen. In deze brief is ook meegedeeld dat het de heffingsambtenaar vrij staat om tot tien dagen voor de zitting een verweerschrift in te dienen. Het verweerschrift en bijgesloten taxatierapport zijn door de heffingsambtenaar ruim voor de zitting, op 4 december 2019 aan rechtbank toegezonden en op 6 december 2019 aan gemachtigde van [eiseres] doorgestuurd. De rechtbank is van oordeel dat er geen sprake is van termijnoverschrijding door de heffingsambtenaar en ziet dan ook geen reden om het verweerschrift in verband met de goede procesorde buiten beschouwing te laten. Deze grond slaagt niet.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Objectafbakening</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. [eiseres] stelt dat de heffingsambtenaar bij de bepaling van de waarde van het object is uitgegaan van een onjuiste objectafbakening. Zij voert aan dat de passage tussen de slijterij, de drogist en de naastgelegen supermarkt een gemeenschappelijke ruimte is die uitgezonderd dient te worden van het object. </para>
+    <para />
+    <para>7. De heffingsambtenaar heeft op de zitting betoogt dat de slijterij gebruik maakt van de passage om handelswaar uit te stallen en dat de passage daarom naar rato aan de slijterij moet worden toegekend. </para>
+    <para />
+    <para>8. Deze stelling van de heffingsambtenaar faalt. Ingevolge artikel 16, aanhef en onderdeel c, van de Wet WOZ moet voor de toepassing van de Wet WOZ als één onroerende zaak worden aangemerkt een gedeelte van een gebouwd eigendom dat blijkens zijn indeling is bestemd om als afzonderlijk geheel te worden gebruikt. Volgens vaste rechtspraak behoort een belastingobject te worden afgebakend naar de kleinst mogelijke zelfstandige eenheid. Naar het oordeel van de rechtbank is de passage niet als zelfstandig WOZ-object aan te merken nu het zich niet leent voor afzonderlijk gebruik en evenmin zelfstandig te verhuren is. De passage werpt slechts nut af voor de verhuurde winkelruimten en is daarmee op één lijn te stellen met algemene voorzieningen zoals liften en andere verkeersruimten.<footnote-ref linkend="_3014b7d1-2562-4caa-afdc-d6264ffb891f" /></para>
+    <para />
+    <para>9. Uit het vorenstaande volgt dat ten aanzien van de onroerende zaak sprake is van een onjuiste objectafbakening en dat de bestreden uitspraak op die grond vernietigd dient te worden. Dit betekent dat de rechtbank de als tertiair aangemerkte eenheden in het ‘overzicht taxatiewaarden’ (taxatiematrix) buiten beschouwing laat. De rechtbank zal daarom schattenderwijs zelf tot een vaststelling van de in artikel 17, tweede lid, van de Wet WOZ bedoelde waarde komen en neemt daarbij het volgende in aanmerking.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inhoudelijke beoordeling</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>10. De WOZ-waarde van de onroerende zaak is de waarde van de onroerende zaak in het economische verkeer. Dat is de prijs die de meeste biedende koper zou betalen voor de onroerende zaak als deze op de meest geschikte wijze en na de beste voorbereiding te koop zou zijn aangeboden. De heffingsambtenaar moet aannemelijk maken dat hij de waarde van de onroerende zaak op de peildatum, 1 januari 2017, niet te hoog heeft vastgesteld. </para>
+    <para />
+    <para>11. De heffingsambtenaar heeft ter onderbouwing van de waarde een taxatierapport en een taxatiematrix ingediend. De taxatiematrix bevat gegevens van recent verkochte objecten (3 objecten) ter onderbouwing van de kapitalisatiefactor en recent verhuurde objecten (3 objecten) ter onderbouwing van de huurwaarde per m². Volgens de heffingsambtenaar valt uit de verkoop- en huurprijzen van deze vergelijkingsobjecten af te leiden dat de WOZ-waarde van het object niet te hoog is vastgesteld. </para>
+    <para />
+    <para>12. Op de zitting heeft eiseres haar grond met betrekking tot het meerekenen van de tuin van vergelijkingsobject [adres 2] (vergelijkingsobject verkoop 1) ingetrokken zodat deze verder geen bespreking behoeft.</para>
+    <para />
+    <para>13. [eiseres] heeft aangevoerd dat de vergelijkingsobjecten [adres 3] en [adres 4] (vergelijkingsobjecten verkoop 2 en 3) alsmede [adres 5] en [adres 6] (vergelijkingsobjecten huur 1 en 2) niet terug te vinden zijn in de door haar geraadpleegde systemen. De heffingsambtenaar heeft hiertegen ingebracht dat alle verkopen afkomstig zijn uit het kadaster en geschoond zijn op niet-gelieerde verkopen. De gegevens die ten grondslag liggen aan de vergelijkingspanden huur zijn afkomstig uit de huurcontracten. De relevante beschrijvingen zijn kort opgenoemd onder de foto’s van de panden in het taxatierapport. </para>
+    <para />
+    <para>14. De rechtbank is, met [eiseres] , van oordeel dat controleerbaar moet zijn op welke voorwaarden en tussen welke partijen de verkopen hebben plaatsgevonden en de huurovereenkomsten zijn opgesteld. De rechtbank is van oordeel dat de heffingsambtenaar met de in voorgaande overweging genoemde werkwijze heeft verzuimd om deze gegevens voldoende inzichtelijk te maken. De heffingsambtenaar is daarnaast voldoende in de gelegenheid gesteld om onderbouwende stukken in te brengen in reactie op de aanvullende gronden die door de rechtbank op 27 december 2019 zijn doorgestuurd. De rechtbank gaat daarom niet in op het aanbod van de heffingsambtenaar om alsnog aan een bewijsopdracht te voldoen. Dit heeft tot gevolg dat de vergelijkingsobjecten [adres 3] en [adres 4] en de vergelijkingspanden [adres 5] en [adres 6] komen te vervallen als vergelijkingsobject. Vergelijking op basis van de resterende enkele verkoop en de resterende enkele huurprijs is onvoldoende. De heffingsambtenaar heeft dan ook niet aannemelijk gemaakt dat hij de waarde van de onroerende zaak niet te hoog heeft vastgesteld. </para>
+    <para />
+    <para>15. Omdat de heffingsambtenaar niet aan de op hem rustende bewijslast heeft voldaan, komt de rechtbank toe aan de vraag of [eiseres] de door haar verdedigde waarde aannemelijk heeft gemaakt. </para>
+    <para />
+    <para>16. [eiseres] heeft in het beroepschrift een WOZ-waarde van € 342.000,- bepleit. Ter onderbouwing van haar standpunt heeft [eiseres] een taxatierapport van [bedrijf] van 30 oktober 2018 overgelegd. Het taxatierapport bevat een analyse van de huurwaarden van [adres 7] , [adres 8] en [adres 9] alsmede gegevens en recente verkoopcijfer van vergelijkingsobject [adres 10] . De rechtbank is van oordeel dat [eiseres] niet is geslaagd de door haar verdedigde waarde aannemelijk te maken, omdat zij de eigen berekening van de kapitalisatiefactor onvoldoende duidelijk heeft gemaakt. De rechtbank zal daarom schattenderwijs zelf tot een vaststelling van de in artikel 17, tweede lid, van de Wet WOZ bedoelde waarde komen. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Conclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>17. De rechtbank stelt zelf - schattenderwijs - de waarde van het object voor het belastingjaar 2018 vast op € 515.000,-. De aanslag onroerendezaakbelasting moet voor dit belastingjaar in overeenstemming met deze waarde worden verminderd. </para>
+    <para />
+    <para>18. Omdat de rechtbank het beroep gegrond verklaart, bepaalt de rechtbank dat de heffingsambtenaar aan [eiseres] het door haar betaalde griffierecht vergoedt. </para>
+    <para />
+    <para>19. De rechtbank veroordeelt de heffingsambtenaar in de door [eiseres] gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op €1.572,- (1 punt voor het indienen van het bezwaarschrift, 1 punt voor het verschijnen op de hoorzitting, met een waarde per punt van € 261,- en een wegingsfactor 1, en daarnaast 1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen op de zitting, met een waarde per punt van € 525,- en een wegingsfactor 1). </para>
+    <para />
+    <para>20. Daarnaast dient de heffingsambtenaar de kosten te vergoeden die [eiseres] heeft gemaakt voor het laten opstellen van  het taxatierapport van het object. Deze kosten stelt de rechtbank op grond van de Richtlijn van de belastingkamers van de gerechtshoven inzake vergoeding van proceskosten bij WOZ-taxaties (Stcrt. 2018, nr. 28 796) vast op € 128,26 (2 uur, € 53,- per uur, vermeerderd met 21% BTW). In totaal bedragen de door de heffingsambtenaar aan [eiseres] te vergoeden proceskosten (voor kosten rechtsbijstand en taxatiekosten) dus € 1.700,26,-</para>
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>verklaart het beroep gegrond; </para>
+      </listitem>
+      <listitem>
+        <para>vernietigt de bestreden uitspraak op bezwaar;</para>
+      </listitem>
+      <listitem>
+        <para>stelt de WOZ-waarde van het object vast op € 515.000,-;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat de aanslag onroerende zaakbelasting overeenkomstig deze waarde wordt verminderd;</para>
+      </listitem>
+      <listitem>
+        <para>bepaalt dat deze uitspraak in de plaats treedt van de vernietigde bestreden uitspraak op bezwaar;</para>
+      </listitem>
+      <listitem>
+        <para>draagt de heffingsambtenaar op het betaalde griffierecht van € 345,- aan [eiseres] te vergoeden;</para>
+      </listitem>
+      <listitem>
+        <para>veroordeelt de heffingsambtenaar in de proceskosten van [eiseres] tot een bedrag van € 1.700,26,-.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. J.H.M. van de Ven, rechter, in aanwezigheid van </para>
+      <para>N. van der Kroft, griffier<emphasis role="italic">. </emphasis>De beslissing is in het openbaar uitgesproken op 4 februari 2020.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>griffier </para>
+      <para>rechter</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wat kunt u doen als u het niet eens bent met deze uitspraak?</title>
+    <para>Tegen deze uitspraak kunt u binnen zes weken na de dag van verzending daarvan hoger beroep instellen bij het gerechtshof Amsterdam, Postbus 1312, 1000 BH Amsterdam.<?linebreak?></para>
+    <para />
+  </section>
+  <footnote id="_44be8887-103c-447c-b3f2-a683a91921bb" label="1">
+    <para> Zie artikel 18, eerste en tweede lid, van de Wet Waardering onroerende zaken (Wet WOZ).</para>
+  </footnote>
+  <footnote id="_3014b7d1-2562-4caa-afdc-d6264ffb891f" label="2">
+    <para>  Vergelijk de uitspraak van Rechtbank Gelderland van 18 april 2013, ECLI:NL:RBGEL:2013:BZ7320.</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

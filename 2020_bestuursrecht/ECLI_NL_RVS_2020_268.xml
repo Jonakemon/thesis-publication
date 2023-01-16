@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:268</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-07T11:51:43</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201905060/1/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBROT:2019:4213" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#bekrachtiging/bevestiging">Eerste aanleg: ECLI:NL:RBROT:2019:4213, Bekrachtiging/bevestiging</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:268">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:268</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-29T10:16:33</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:268 Raad van State , 29-01-2020 / 201905060/1/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:268:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 11 januari 2018 heeft de minister voor Rechtsbescherming besloten op een verzoek van [appellant] op grond van artikel 35, eerste lid, van de Wet bescherming persoonsgegevens. Bij brief van 27 november 2017 heeft [appellant] de minister op grond van artikel 35, eerste lid, van de Wbp verzocht hem mede te delen of hem betreffende persoonsgegevens worden verwerkt. Bij het in bezwaar gehandhaafde besluit van 11 januari 2018 heeft de minister [appellant] een overzicht verstrekt van gegevens die hem betreffen en die door Dienst Justis van het Ministerie van Justitie en Veiligheid zijn verwerkt. [appellant] kan zich daarmee niet verenigen.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:268:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201905060/1/A3.</para>
+    <para>Datum uitspraak: 29 januari 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>[appellant], wonend te [woonplaats],</para>
+    <para>tegen de uitspraak van de rechtbank Rotterdam van 24 mei 2019 in zaak nr. 18/3056 in het geding tussen:</para>
+    <para>[appellant]</para>
+    <para>en</para>
+    <para>de minister voor Rechtsbescherming.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 11 januari 2018 heeft de minister besloten op een verzoek van [appellant] op grond van artikel 35, eerste lid, van de Wet bescherming persoonsgegevens (hierna: de Wbp).</para>
+    <para>Bij besluit van 26 april 2018 heeft de minister het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 24 mei 2019 heeft de rechtbank het door [appellant] daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft [appellant] hoger beroep ingesteld.</para>
+    <para>De minister heeft een schriftelijke uiteenzetting gegeven.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 20 januari 2020, waar [appellant], bijgestaan door mr. G.A. Soebhag, advocaat te Rotterdam, en de minister, vertegenwoordigd door mr. M. Ibrahim, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.    Bij brief van 27 november 2017 heeft [appellant] de minister op grond van artikel 35, eerste lid, van de Wbp verzocht hem mede te delen of hem betreffende persoonsgegevens worden verwerkt. Bij het in bezwaar gehandhaafde besluit van 11 januari 2018 heeft de minister [appellant] een overzicht verstrekt van gegevens die hem betreffen en die door Dienst Justis van het Ministerie van Justitie en Veiligheid zijn verwerkt. [appellant] kan zich daarmee niet verenigen.</para>
+    <para>Hoger beroep</para>
+    <para>2.    [appellant] betoogt dat de rechtbank ten onrechte heeft geoordeeld dat het overzicht aan de vereisten van artikel 35, tweede lid, van de Wbp voldoet. Hij stelt dat het overzicht niet volledig is. Zo ontbreken daarin gegevens over een eerdere verstrekking. Ook had de minister daarbij de netwerktekening die Dienst Justis van zijn gegevens heeft gemaakt moeten verstrekken. [appellant] vermoedt dat het overzicht pas opgesteld is na zijn verzoek van 27 november 2017 om zaken te verhullen. Omdat het overzicht van gegevens niet volledig is, kan hij geen gebruik maken van zijn correctierecht van artikel 36, eerste lid, van de Wbp. Het overzicht is voorts niet in een begrijpelijke vorm verstrekt. Verder heeft de minister ten onrechte geen omschrijving van het doel of de doeleinden van de verwerking gegeven. Ook betoogt [appellant] dat de rechtbank ten onrechte geen proceskostenveroordeling ten laste van de minister heeft uitgesproken.</para>
+    <para>2.1.    Op dit geding is de Wbp van toepassing, omdat het besluit van 26 april 2018 voor de intrekking van die wet en het van toepassing worden van de Algemene verordening gegevensbescherming is genomen.</para>
+    <para>    Artikel 35, eerste lid, van de Wbp luidde: "De betrokkene heeft het recht zich vrijelijk en met redelijke tussenpozen tot de verantwoordelijke te wenden met het verzoek hem mede te delen of hem betreffende persoonsgegevens worden verwerkt. De verantwoordelijke deelt de betrokkene schriftelijk binnen vier weken mee of hem betreffende persoonsgegevens worden verwerkt."</para>
+    <para>    Het tweede lid luidde: "Indien zodanige gegevens worden verwerkt, bevat de mededeling een volledig overzicht daarvan in begrijpelijke vorm, een omschrijving van het doel of de doeleinden van de verwerking, de categorieën van gegevens waarop de verwerking betrekking heeft en de ontvangers of categorieën van ontvangers, alsmede de beschikbare informatie over de herkomst van de gegevens."</para>
+    <para>2.2.    Zoals de Afdeling eerder heeft overwogen (onder meer de uitspraak van 16 juli 2014, ECLI:NL:RVS:2014:2594) is het uitgangspunt van de Wbp dat een ieder in de gelegenheid moet zijn na te kunnen gaan waar gegevens over hem zijn vastgelegd en verwerkt. De Wbp legt in artikel 35 de houder ter zake een mededelingsverplichting op: indien persoonsgegevens worden verwerkt, verstrekt de houder betrokkene een volledig overzicht daarvan in begrijpelijke vorm alsmede beschikbare informatie over de herkomst van die gegevens.</para>
+    <para>    De Wbp voorziet niet in een recht op inzage in stukken waarin persoonsgegevens zijn opgenomen. Gegeven het aan de Wbp ten grondslag liggende transparantiebeginsel is inzage in stukken waarin persoonsgegevens zijn opgenomen enkel aan de orde indien niet op andere wijze adequaat kan worden voorzien in kennisgeving van die persoonsgegevens dan wel mededeling van de herkomst daarvan, behoudens toepasselijkheid van de in artikel 43 van de Wbp vervatte weigeringsgronden.</para>
+    <para>    Het is daarom voldoende dat aan de aanvrager, bedoeld in artikel 35, tweede lid, van de Wbp, een volledig overzicht in begrijpelijke vorm van deze persoonsgegevens wordt verstrekt, voorzien van een omschrijving van het doel of de doeleinden van de verwerking, de categorieën van gegevens waarop de verwerking betrekking heeft en de ontvangers of categorieën van ontvangers, alsmede de beschikbare informatie over de herkomst van de gegevens, zodat de aanvrager die gegevens kan controleren op hun juistheid en kan controleren of ze in overeenstemming met de Wbp zijn verwerkt.</para>
+    <para>3.    In het besluit van 11 januari 2018 staat dat de gegevens in het overzicht in het kader van de Wet controle rechtspersonen aan de politie zijn verstrekt. Het doel van deze verwerking is het voorkomen en bestrijden van misbruik van rechtspersonen, waaronder het plegen van misdrijven en overtredingen van financieel-economische aard door of door middel van deze rechtspersonen. In het overzicht staan persoonsgegevens van [appellant] met daarbij een vermelding van de categorie van gegevens waarop de persoonsgegevens betrekking hebben en de herkomst van de gegevens. Als persoonsgegevens staan ook namen van buitenlandse bedrijven waarvan [appellant] bestuurder is of is geweest. Daarbij staat ook zijn bestuursperiode en op welke datum het bedrijf is opgeheven. Als herkomst van de gegevens over de buitenlandse bedrijven is Companies House vermeld. De minister stelt dat het verstrekte overzicht volledig en begrijpelijk is en dat er niet meer gegevens van [appellant] door Dienst Justis zijn verwerkt. In het besluit van 26 april 2018 heeft de minister aanvullend toegelicht dat de gegevens op 3 april 2015 aan de politie zijn verstrekt.</para>
+    <para>    De Afdeling volgt [appellant] niet in zijn stelling dat het overzicht onvolledig is. [appellant] stelt dat eerder een verstrekking heeft plaatsgevonden en dat gegevens daarover ten onrechte niet in het overzicht zijn vermeld. Dat een eerdere verstrekking heeft plaatsgevonden, heeft hij niet aannemelijk gemaakt. Volgens [appellant] had de minister de netwerktekening, waarin de onderlinge relevante relaties tussen hem en andere personen en bedrijven worden weergegeven, moeten verstrekken. Gelet op artikel 35, tweede lid, van de Wbp hoefde de mededeling dat hem betreffende persoonsgegevens worden verwerkt, die tekening niet te bevatten. Verder valt niet in te zien waarom het overzicht, dat in een tabel is neergelegd, niet begrijpelijk is. Voor zover [appellant] stelt dat de gegevens in het overzicht niet juist zijn, kan hij op grond van artikel 36 de minister verzoeken die gegevens te wijzigen. De Afdeling volgt [appellant] ook niet in zijn stelling dat het overzicht ten onrechte na zijn verzoek is opgesteld. De gegevens over hem zijn geregistreerd in het zogeheten werkproces TRACK IV, zoals de minister heeft toegelicht. Naar aanleiding van zijn verzoek daartoe is het overzicht uit dit werkproces opgesteld. Dat het overzicht na zijn verzoek is opgesteld, is niet in strijd met een rechtsregel. Verder is in het besluit van 26 april 2018 het voorkomen en bestrijden van misbruik van rechtspersonen als doel van de verwerking vermeld. Dat de minister een omschrijving van het doel van de verwerking niet kenbaar heeft gemaakt, is dus niet juist. Gelet op het vorenstaande heeft de rechtbank terecht geen grond gezien voor het oordeel dat de minister niet aan zijn mededelingsverplichting van artikel 35, eerste lid, van de Wbp heeft voldaan. Omdat de rechtbank het beroep terecht ongegrond heeft verklaard, bestond er geen aanleiding voor een proceskostenvergoeding.</para>
+    <para>    Het betoog faalt.</para>
+    <para>Slotsom</para>
+    <para>4.    Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd.</para>
+    <para>5.    Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>bevestigt de aangevallen uitspraak.</para>
+    <para>Aldus vastgesteld door mr. C.J. Borman, lid van de enkelvoudige kamer, in tegenwoordigheid van mr. K.S. Man, griffier.</para>
+    <para>w.g. Borman    w.g. Man</para>
+    <para>lid van de enkelvoudige kamer    griffier</para>
+    <para>Uitgesproken in het openbaar op 29 januari 2020</para>
+    <para>629.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBDHA:2020:9993</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-22T09:00:11</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-06</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Den_Haag" scheme="overheid.RechterlijkeMacht">Rechtbank Den Haag</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 2533</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegMeervoudig">Eerste aanleg - meervoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9993">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBDHA:2020:9993</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-08T10:27:18</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-22</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBDHA:2020:9993 Rechtbank Den Haag , 08-10-2020 / AWB - 19 _ 2533</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBDHA:2020:9993:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Omgevingsvergunning geweigerd voor het veranderen van de functie wonen van 18 studentenwoningen naar de functie logies. Verblijfsduur van een aantal weken tot een aantal maanden is naar het oordeel van de rechtbank niet voldoende duurzaam om als 'wonen' te kunnen worden aangemerkt. Verweerder heeft in redelijkheid het belang bij het voorzien in de woningvoorraad kunnen laten prevaleren boven het belang bij het versterken van de logiesfunctie.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBDHA:2020:9993:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK DEN HAAG</bridgehead>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: SGR 19/2533</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de meervoudige kamer van 8 oktober 2020 in de zaak tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">Downtown Property B.V., te Den Haag, eiseres</bridgehead>
+    <para>(gemachtigde: mr. J. Geelhoed),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van burgemeester en wethouders van Den Haag, verweerder</bridgehead>
+    <para>(gemachtigde: mr. M.J.F.P. Larive-Bonsen).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 27 juni 2018 (het primaire besluit) heeft verweerder geweigerd om een omgevingsvergunning te verlenen voor het veranderen van de functie wonen van 18 studentenwoningen aan de Scheepmakersstraat naar de functie logies.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 6 maart 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiseres en verweerder hebben nadere stukken ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 16 juni 2020. De zaak is gevoegd behandeld met de zaken met nummers 19/5479, 19/5503, 19/5505, 18/7433, 19/7434, 19/7435, 19/7436 en 19/7437. Eiseres heeft zich laten vertegenwoordigen door haar bestuurder [A] , bijgestaan door haar gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Tevens zijn namens verweerder [B] en [C] verschenen.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Aanleiding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Het gebouw aan de Scheepmakersstraat is een voormalige boter- en margarinefabriek van N.V. De Veluwe. Lentze Property Management heeft in 2013 de bedrijfsruimtes op de begane grond van het gebouw gekocht. Verweerder heeft op 25 juni 2013 een omgevingsvergunning verleend voor het veranderen en splitsen van de bedrijfsruimtes tot 18 woningen. In het bestemmingsplan “Rivierenbuurt 2013” heeft het perceel een woonbestemming gekregen. Eiseres heeft op 22 december 2017 een aanvraag gedaan om de functie wonen (studentenunits) te wijzigen naar de functie logies. Eiseres wil de woningen gebruiken voor short stay-doeleinden. </para>
+    <bridgehead role="italic">De besluiten</bridgehead>
+    <para />
+    <para>2. In het primaire besluit heeft verweerder zich op het standpunt gesteld dat de aanvraag niet past binnen de woonbestemming. Verweerder heeft geen medewerking verleend aan afwijking van het bestemmingsplan. De aanvraag past weliswaar in de gemeentelijke hotelstrategie ‘Check in The Hague: Roomservice 2.0’, maar verweerder heeft in haar belangenafweging meer gewicht toegekend aan het belang bij het behoud van de bestaande kleinschalige wooneenheden voor de prioritaire doelgroepen studenten en young urban professionals. Verweerder heeft zich in het bestreden besluit op het standpunt gesteld dat sprake is van botsende beleidsdoelen en dat het belang bij het voorzien in de woningbehoefte zwaarder is bevonden dan het versterken van de logiesfunctie.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">De vergunning van 25 juni 2013 </emphasis>
+        <?linebreak?>
+      </para>
+    </parablock>
+    <para>3. Eiseres voert aan dat het gebruik van de woningen voor short stay al is toegestaan in de vergunning van 25 juni 2013. Eiseres stelt dat het doel van de aanvraag van 25 maart 2013 was om de bedrijfsruimtes te verbouwen tot een studentenhotel. Eiseres heeft ter zitting toegelicht dat zij een deel van dit studentenhotel voor short stay wilde gebruiken, waar studenten periodes van een aantal weken tot een aantal maanden konden verblijven. Eiseres stelt dat dit is besproken met [B] die vanuit de gemeente bij de aanvraag was betrokken. Volgens eiseres was short stay op basis van het destijds geldende beleid toegestaan binnen het gebruik van het perceel voor wonen. Eiseres heeft een verklaring van architect [architect] overgelegd, waarin staat dat hij navraag heeft gedaan naar de mogelijkheden voor short stay en daarop te horen kreeg dat dit was toegestaan binnen de woonbestemming.</para>
+    <para />
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Verweerder stelt zich op het standpunt dat de aanvraag van 25 maart 2013 expliciet zag op een wijziging van de indeling van de bedrijfsruimtes naar 18 studentenwoningen en dat het gebruik zag op de functie ‘wonen’. Verweerder betwist dat destijds een aanvraag is gedaan voor short stay. In het besluit van 25 juni 2013 is hiervoor ook geen toestemming gegeven. [B] heeft op zitting verklaard dat hij geen toezegging heeft gedaan dat short stay was toegestaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.2.</nr>
+      <para>In de aanvraag van 25 maart 2013 staat dat het gaat om een omgevingsvergunning voor de activiteit bouwen. De indeling van het gebouw aan de Scheepmakersstraat wordt gewijzigd naar 18 studentenwoningen. Het gebouw zal worden gebruikt voor wonen, aldus de aanvraag. In het besluit van 25 juni 2013 staat dat de aanvraag in overeenstemming is met het bestemmingsplan en dat een omgevingsvergunning als bedoeld in artikel 2.1, lid 1, sub a, van de Wabo wordt verleend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.3.</nr>
+      <para>De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.4.</nr>
+      <para>Ten tijde van de aanvraag van 25 maart 2013 en het besluit van 25 juni 2013 was het bestemmingsplan “Rivierenbuurt” van kracht. Op basis van dit bestemmingsplan had het perceel de bestemming “Gedetailleerde en gemengde bebouwing”. Hier was op grond van artikel 14 van de planregels toegestaan: wonen (in de vorm van eengezins- en/of meergezinsshuizen), kantoren, restaurants en cafés, detailhandel en aanverwante dienstverlening (met uitzondering van hotels, restaurants en cafés), andere bedrijven (met uitzondering van hotels) en welzijnsvoorzieningen.	 </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.5.</nr>
+      <para>In het bestemmingsplan “Rivierenbuurt” is niet omschreven wat onder ‘wonen’ wordt verstaan. Volgens vaste jurisprudentie moet in dat geval bij de interpretatie van dat begrip aansluiting worden gezocht bij het normale spraakgebruik, waarin ‘wonen’ een zekere duurzaamheid vereist (vergelijk daarvoor onder meer de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 26 februari 2020, ECLI:NL:RVS:2020:588).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.6.</nr>
+      <para>De rechtbank volgt eiseres niet in haar betoog dat zij bij de aanvraag van 25 maart 2013 een studentenhotel of short stay heeft aangevraagd. In de aanvraag staat dat het gaat om een verbouwing ten behoeve van studentenwoningen en hierin wordt op geen enkele wijze melding gemaakt van een studentenhotel of short stay. Het is in eerste instantie aan de aanvrager om te specificeren wat hij aanvraagt, zodat het bestuur hierop kan beslissen. De aanvraag om studentenwoningen was naar het oordeel van de rechtbank voldoende duidelijk voor verweerder om op te beslissen. Er bestond dan ook geen aanleiding om aan eiseres te vragen deze aanvraag te verduidelijken. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.7.</nr>
+      <para>Voor zover eiseres betoogt dat zij niet expliciet in haar aanvraag had hoeven zetten dat zij het gebouw ook wilde gebruiken voor een studentenhotel en short stay, omdat dit gebruik op grond van het vorige bestemmingsplan “Rivierenbuurt” was toegestaan binnen de functie ‘wonen’, volgt de rechtbank dit ook niet. De door eiseres genoemde verblijfsduur van een aantal weken tot een aantal maanden is naar het oordeel van de rechtbank niet voldoende duurzaam om als ‘wonen’ te kunnen worden aangemerkt. Dit betekent dat het gebruik van het gebouw voor een studentenhotel en short stay op grond van het bestemmingsplan “Rivierenbuurt” niet was toegestaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.8.</nr>
+      <para>De rechtbank oordeelt vervolgens dat in het besluit van 25 juni 2013 ook geen toestemming is gegeven voor het gebruik van het gebouw voor een studentenhotel en short stay. In het besluit is beslist op de aanvraag om het gebouw te gebruiken voor wonen. Dit was in overeenstemming met het bestemmingsplan, zodat de omgevingsvergunning kon worden verleend. Dat voorafgaand aan de aanvraag overleg is geweest tussen eiseres en de gemeente leidt niet tot een ander oordeel. Eiseres heeft niet aannemelijk gemaakt dat vanuit de gemeente concrete toezeggingen zijn gedaan dat zij het gebouw (in strijd met het bestemmingsplan) mocht gebruiken voor een studentenhotel of short stay. De verklaring van architect [architect] is hiertoe onvoldoende, reeds gelet op het feit dat deze verklaring ter zitting door [B] , die de toezegging volgens eiseres zou hebben gedaan, wordt tegengesproken.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.9.</nr>
+      <para>Dit betekent dat het gebruik van het gebouw voor een studentenhotel en short stay op grond van het voorgaande bestemmingsplan “Rivierenbuurt” niet was toegestaan en dat verweerder hiervoor in het besluit van 25 juni 2013 ook geen toestemming heeft verleend. De aanvraag van 25 maart 2013 en de verleende vergunning zagen niet op een omzetting van bedrijfsruimtes naar een studenthotel, maar naar studentenwoningen binnen de functie ‘wonen’. Voor zover eiseres betoogt dat zij het gebouw feitelijk als studentenhotel en voor short stay heeft gebruikt en dat dit gebruik onder het overgangsrecht van het huidige bestemmingsplan “Rivierenbuurt 2013” valt, slaagt dit niet. In artikel 28, lid 28.2, van de planregels bij het bestemmingsplan “Rivierenbuurt 2013” staat dat het overgangsrecht niet van toepassing is op gebruik dat reeds in strijd was met het vorige bestemmingsplan.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het zorgvuldigheidsbeginsel</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>4. Eiseres voert verder aan dat het bestreden besluit niet met de vereiste zorgvuldigheid is voorbereid. Verweerder had eiseres moeten vragen om op te helderen voor welke vormen van short stay zij het gebouw wil gebruiken. Volgens eiseres volgt uit de rechtspraak dat voldoende duurzame vormen van short stay zijn toegestaan binnen een woonbestemming. Eiseres wijst daarbij op de brief van brief van 23 mei 2017 van wethouder Joris Wijsmuller. Verweerder had bij eiseres moeten nagaan om wat voor verblijfstermijnen het in de aanvraag ging, aldus eiseres.<?linebreak?>4.1. 	De rechtbank overweegt als volgt.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>In het huidige bestemmingsplan “Rivierenbuurt 2013” heeft het perceel de bestemming “Wonen”. Op grond van artikel 18, lid 18.1, van de planregels zijn de voor “Wonen” aangewezen gronden bestemd voor wonen. In het bestemmingsplan is niet omschreven wat onder ‘wonen’ wordt verstaan.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>In de brief van 23 mei 2017 van wethouder Joris Wijsmuller staat dat het gebruik van een ruimte in overeenstemming dient te zijn met de bestemming die op de betreffende ruimte rust. Voor woningen geldt dat deze gebruikt dienen te worden om in te wonen. Als vuistregel wordt gehanteerd dat verblijf binnen een bestemming “Wonen” alleen mogelijk is indien de huurder langer dan 4 maanden in de woning verblijft en zich inschrijft.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>De rechtbank oordeelt dat het besluit zorgvuldig is voorbereid. In de aanvraag staat dat het gaat om het wijzigen van de functie wonen naar de functie logies. De gemachtigde van eiseres heeft tijdens de hoorzitting in de bezwaarfase gezegd dat het gaat om flexibele short stay van 1 tot 8 maanden. Eiseres heeft ter zitting toegelicht dat het gaat om short stay met een duur van enkele weken tot een aantal maanden. Zoals hiervoor onder 3.7 is overwogen is dit volgens de rechtbank onvoldoende duurzaam om als ‘wonen’ te kunnen worden aangemerkt. Verweerder heeft zich dan ook terecht op het standpunt gesteld dat het duidelijk was dat de aanvraag zag op het wijzigen van het toegestane gebruik om vormen van logies/short stay mogelijk te maken die niet waren toegestaan binnen de woonbestemming. Als eiseres het gebouw wil gebruiken voor woonvormen die wel voldoende duurzaam zijn om een woonkarakter aanwezig te achten, dan is dat op grond van de huidige woonbestemming al toegestaan. Eiseres heeft hiervoor geen vergunning nodig, zodat voor verweerder geen aanleiding bestond om eiseres te vragen om dit op te helderen. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het vertrouwensbeginsel</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>5. Eiseres voert vervolgens aan dat het besluit is genomen in strijd met het vertrouwensbeginsel. Volgens eiseres is in het Haags Initiatieven Team (HIT) en door de afdelingen Wonen en Economie positief geadviseerd over de omzetting naar een logiesfunctie. Eiseres heeft ter onderbouwing hiervan een aantal stukken van haar bemiddelaar ‘De Projectloods’ overgelegd die betrekking hebben op de behandeling van haar initiatief in het HIT, een verslag van 6 februari 2017 van een bespreking op 19 januari 2019 in het Omgevingsvergunningenoverleg (OVO), een e-mailwisseling met ambtenaar [D] en voormelde verklaring van architect [architect] .</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1.</nr>
+      <para>Verweerder stelt zich op het standpunt dat het HIT een verkennend overleg is waar initiatieven kunnen worden voorgelegd om een eerste indruk te krijgen. Volgens verweerder blijkt uit de stukken van het OVO dat eiseres een aanvraag moest indienen om short stay beoordeeld te krijgen. Uit de e-mailwisselingen en het advies volgt duidelijk dat er op dat moment nog geen aanvraag was ingediend en het nog ging om een initiatief. Gelet hierop heeft eiseres aan de e-mail van [D] ook geen gerechtvaardigd vertrouwen kunnen ontlenen.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.3.</nr>
+      <para>Voor een geslaagd beroep op het vertrouwensbeginsel is vereist dat de betrokkene aannemelijk maakt dat van de zijde van de overheid toezeggingen of andere uitlatingen zijn gedaan of gedragingen zijn verricht waaruit de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht afleiden of en zo ja, hoe het bestuursorgaan in een concreet geval een bevoegdheid zou uitoefenen. Verder is vereist dat de toezegging, andere uitlating of gedraging aan het bevoegde bestuursorgaan kan worden toegerekend. Dat is het geval indien de betrokkene in de gegeven omstandigheden redelijkerwijs kon en mocht veronderstellen dat degene die de uitlating deed of de gedraging verrichtte de opvatting van het bevoegde orgaan vertolkte (vergelijk bijvoorbeeld de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 6 mei 2020, ECLI:NL:RVS:2020:1185).</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.4.</nr>
+      <para>In de door eiseres overgelegde notitie van haar bemiddelaar ‘De Projectloods’ van 9 december 2016 staat dat is medegedeeld dat het gebruik van woningen voor short stay niet conform het bestemmingsplan is. In het door eiseres overgelegde verslag van het OVO van 6 februari 2017 staat dat short stay in strijd is met het bestemmingsplan, maar eventueel kan worden aangevraagd. De short stay functie wordt alleen op aanvraag behandeld. Indien het bestemmingsplan geen short stay toestaat op de locatie dan zal dat dit gerepareerd moeten worden. Een bestemmingsplanwijziging kan plaatsvinden indien de short stay functie past in de hotelstrategie. Op basis van de hotelstrategie zal een deel van de bestaande short stay woningen in de handhaving terecht komen, aldus het verslag van het OVO. In de door eiseres overgelegde e-mailwisseling met ambtenaar [D] van 21 februari 2017 staat dat de afdeling Wonen bereid is om mee te werken aan het mogelijk maken van een logiesfunctie en dat eiseres een logiesontheffing kan aanvragen. Eiseres heeft ten slotte een e-mail van Chris Langerak van de Projectloods van 5 juli 2018 overgelegd waarin staat dat het initiatief is besproken in het HIT en een verklaring van de architect [architect] van 24 januari 2020 waarin staat dat in het HIT positief is geadviseerd over omzetting naar logiesfunctie.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.5.</nr>
+      <para>De rechtbank ziet in de documenten die gaan over het HIT en het OVO geen concrete toezeggingen over het mogelijk maken van short stay. Dat in het HIT positief zou zijn geadviseerd over het plan van eiseres is niet gebleken en overigens hiertoe ook onvoldoende, aangezien dit volgens verweerder slechts een verkennend overleg is, hetgeen eiseres niet heeft betwist. Het verslag van het OVO bevat naar het oordeel van de rechtbank ook geen concrete toezegging dat short stay wordt toegestaan. In dit verslag staat weliswaar dat het bestemmingsplan moet worden gerepareerd, maar hierin wordt het voorbehoud gemaakt dat short stay alleen op aanvraag wordt behandeld en dat dit moet passen in de hotelstrategie. De overgelegde e-mail van [D] heeft eiseres naar het oordeel van de rechtbank niet zonder meer het gerechtvaardigde vertrouwen kunnen geven dat verweerder short stay zou toestaan. Het was eiseres op dat moment immers op basis van het overleg in het OVO van één maand daarvoor al duidelijk dat short stay alleen op aanvraag werd beoordeeld en slechts mogelijk was als dit past binnen de hotelstrategie, terwijl uit de e-mailwisseling volgt dat nog geen aanvraag was ingediend.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het motiveringsbeginsel</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>6. Eiseres voert aan dat verweerder onvoldoende heeft gemotiveerd waarom het belang bij het voorzien in de woningbehoefte zwaarder weegt dan het versterken van de logiesfunctie. Volgens eiseres volgt dit uit geen enkel beleidsstuk. Volgens eiseres wordt de woningvoorraad voor reguliere woningen bovendien niet verminderd als short stay in haar gebouw wordt toegestaan. Het gaat immers om studentenwoningen die volgens eiseres geen onderdeel zijn van de reguliere woningvoorraad. De woningen mogen bovendien worden gebruikt voor de tijdelijke huisvesting van arbeidsmigranten en kamerverhuur, waarmee ze ook aan de woningvoorraad kunnen worden onttrokken, aldus eiseres. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>De rechtbank overweegt als volgt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <para>Uit de beleidsdocumenten ‘Agenda Ruimte voor de stad’ en de woonvisie ‘2017-2030’ volgt dat verweerder verwacht dat Den Haag de komende jaren met meer dan 4000 nieuwe inwoners per jaar groeit. Deze bevolkingstoename zal voor een deel een plek krijgen binnen het Central Innovation District, waar het perceel van eiseres ook in ligt. Studenten en Young Urban Professionals zijn benoemd als prioritaire doelgroep waarvoor passende woonruimte beschikbaar moet zijn. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.3.</nr>
+      <para>In de hotelstrategie ‘Check in The Hague: roomservice 2.0’ staat dat de gemeente in beginsel positief staat tegenover initiatieven van private partijen in de toeristische kerngebieden Binnenstad en Scheveningen en dat zij initiatieven in deze gebieden indien mogelijk zal faciliteren. Het kan hierbij gaan om zowel bestaande hotels (met uitbreidings- of verbeterplannen) als om nieuwe initiatieven die daadwerkelijk iets toevoegen aan het bestaande aanbod in de stad. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.4.</nr>
+      <para>Anders dan eiseres betoogt, heeft verweerder naar het oordeel van de rechtbank in redelijkheid het belang bij het voorzien in de woningvoorraad kunnen laten prevaleren boven het belang bij het versterken van de logiesfunctie. Verweerder heeft toegelicht dat Den Haag de komende jaren te maken zal krijgen met een grote bevolkingstoename en dat het van belang is om te voorzien in voldoende passende woonruimte. Verweerder heeft er daarom in redelijkheid voor kunnen kiezen om niet mee te werken aan het omzetten van de woningen naar logies. Verweerder heeft toegelicht dat nieuwe logiesfuncties wel mogelijk zijn bij nieuwbouw of bij verbouw van bedrijfspanden. De rechtbank volgt eiseres verder niet in haar stelling dat van onttrekking van woningen aan de woningvoorraad geen sprake is. Dat sprake is van studentenwoningen, dat hier ook arbeidsmigranten mogen wonen en dat hier kamers mogen worden verhuurd, maakt niet dat de woningen geen deel uitmaken van de woningvoorraad. In de woonvisie ‘2017-2030’ worden studenten juist genoemd als prioritaire doelgroep waarvoor passende woonruimte beschikbaar moet zijn. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Het gelijkheidsbeginsel</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>7. 	Eiseres stelt dat sprake is van strijd met het gelijkheidsbeginsel. Volgens eiseres heeft verweerder in andere gevallen het belang bij het versterken van de logiesfunctie wel zwaarder laten wegen dan het belang bij het voorzien in de woningbehoefte. Eiseres wijst op de gebouwen aan het Rijswijkseplein, de Boomsluiterskade en de Lekstraat 85 waar verweerder short stay heeft toegestaan. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1.</nr>
+      <para>Verweerder stelt zich op het standpunt dat de vergelijking met de gebouwen aan het Rijswijkseplein, de Boomsluiterskade en de Lekstraat 85 niet opgaat. Het gebouw aan het Rijswijkseplein valt binnen een ander bestemmingsplan en heeft een gemengde bestemming. Het bouwplan voor de Boomsluiterskade is in 2010 vergund met een projectbesluit onder de vigeur van het vorige bestemmingsplan “Rivierenbuurt”. Het gebouw aan de Lekstraat 85 werd niet bewoond, zodat geen sprake was van onttrekking aan de woningvoorraad.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2.</nr>
+      <para>De rechtbank oordeelt dat het besluit niet is genomen in strijd met het gelijkheidsbeginsel. De door eiseres genoemde situatie aan de Boomsluiterskade is geen gelijk geval, omdat deze situatie al tien jaar geleden is vergund met een projectbesluit onder een ander bestemmingsplan. In de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State van 24 juli 2019 (ECLI:NL:RVS:2019:2527) is al overwogen dat de situatie aan de Lekstraat 85 ook geen gelijk geval is, aangezien dat gebouw niet werd bewoond. In dat geval ging het bovendien om het omzetten van een bedrijfsruimte naar logies, terwijl het in deze zaak, zoals volgt uit 3.8, gaat om omzetten van woningen naar een logiesfunctie. Wat betreft de door eiseres genoemde situatie aan het Rijswijkseplein, heeft verweerder toegelicht dat dit gebouw valt onder een ander bestemmingsplan en een gemengde bestemming heeft. Binnen deze bestemming zijn naast wonen ook andere functies toegestaan. Verweerder heeft hiermee naar het oordeel van de rechtbank aannemelijk gemaakt dat sprake is van verschillen tussen beide situaties. Eiseres heeft dit niet gemotiveerd betwist en heeft evenmin nader aangegeven waarom de door verweerder genoemde verschillen voor de toepassing van het gelijkheidsbeginsel niet relevant zijn. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Conclusie</emphasis>
+        </para>
+      </parablock>
+      <para />
+      <para>8. Het beroep is ongegrond.<?linebreak?></para>
+      <para>9. Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank verklaart het beroep ongegrond.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.H. Smits, voorzitter, en mr. J.J.P. Bosman en </para>
+      <para>mr. J. Schaaf, leden, in aanwezigheid van M. de Graaf, griffier. De beslissing is in het openbaar uitgesproken op 8 oktober 2020. </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier						rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op:</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening.</para>
+  </section>
+</uitspraak>
+</open-rechtspraak>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:7771</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-05T14:55:41</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-02</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">HAA 20/3879 en HAA 20/4001</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorzieningbodemzaak">Voorlopige voorziening+bodemzaak</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:7771">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:7771</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-05T14:54:52</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:7771 Rechtbank Noord-Holland , 29-09-2020 / HAA 20/3879 en HAA 20/4001</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:7771:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>afwijzing verklaring VOG. Beroep ongegrond. Verzoek om voorlopige voorziening afgewezen</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:7771:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-HOLLAND</bridgehead>
+    <para />
+    <parablock>
+      <para>Zittingsplaats Haarlem</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: HAA 20/4001 en HAA 20/3879</para>
+      <para>
+        <?linebreak?>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter van 29 september 2020 op het beroep en het verzoek om voorlopige voorziening in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <bridgehead role="bold">
+      [verzoeker] , te [woonplaats] , verzoeker/eiser (hierna: verzoeker)(gemachtigde: mr. K. Cras),</bridgehead>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">De Minister voor Rechtsbescherming, verweerder(gemachtigde: mr. V.N. Chaudron).</bridgehead>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop <?linebreak?>Bij besluit van 31 januari 2020 (het primaire besluit) heeft verweerder de aanvraag van verzoeker voor een Verklaring omtrent gedrag (VOG) voor de functie van medewerker hoofdkantoor en inrichting bij de Dienst Justitiële Inrichtingen (DJI) in Den Haag afgewezen.</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 18 juni 2020 (het bestreden besluit) heeft verweerder het bezwaar van verzoeker ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoeker heeft tegen het bestreden besluit beroep ingesteld. Hij heeft de voorzieningenrechter gevraagd om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 15 september 2020. Verzoeker is verschenen, bijgestaan door zijn gemachtigde. Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Na afloop van de zitting is de voorzieningenrechter tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De voorzieningenrechter doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om voorlopige voorziening, maar ook op het beroep. </para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>Verzoeker heeft op 16 december 2019 een VOG aangevraagd voor het verrichten van de functie medewerker hoofdkantoor en inrichting bij de DJI in Den Haag. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Verweerder heeft deze aanvraag bij het primaire besluit afgewezen. Daaraan is ten grondslag gelegd dat in het geval van verzoeker een terugkijktermijn geldt van 30 jaar, verlengd met acht jaar, vijf maanden en vijf dagen. Uit het Justitieel Documentatie Systeem (JDS) volgt dat verzoeker binnen deze termijn op [datum 1] 2002 is veroordeeld voor moord, op [datum 2] 2000 is veroordeeld wegens verduistering in dienstbetrekking, op [datum 3] 1999 een transactie is overeengekomen van 500,- gulden wegens het bezit van een valse of vervalste reispas en op [datum 4] 1998 een transactie van afstand is overeengekomen vanwege verbreking zegel. Deze strafbare feiten vormen, indien herhaald, gelet op het risico voor de samenleving, een belemmering voor een behoorlijke uitoefening van de door verzoeker beoogde functie van medewerker hoofdkantoor en inrichting bij de DJI. Aan het objectieve criterium is volgens verweerder dan ook voldaan. Verder heeft verweerder zich in het kader van het subjectieve criterium op het standpunt gesteld dat het belang van beperking van de risico’s voor de samenleving zwaarder weegt dan het belang van verzoeker bij verkrijging van een VOG. </para>
+        <para>1. </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <para />
+    </paragroup>
+    <paragroup>
+      <para />
+    </paragroup>
+    <paragroup>
+      <para />
+    </paragroup>
+    <paragroup>
+      <para />
+      <para />
+      <para>1. Verweerder heeft het primaire besluit bij het bestreden besluit gehandhaafd. Verweerder heeft daarin overwogen dat hij, gelet op de functie waarvoor de VOG is aangevraagd, een juiste terugkijktermijn heeft gehanteerd. Hij heeft zich terecht op het standpunt gesteld dat aan het objectieve criterium is voldaan en dat er geen omstandigheden zijn die aanleiding geven om op grond van het subjectieve criterium toch over te gaan tot afgifte van de VOG. </para>
+      <para />
+      <para>4. Verzoeker heeft in beroep gesteld dat de VOG ten onrechte niet is toegekend op basis van het subjectieve criterium. Volgens verzoeker volgt uit de door hem overgelegde stukken dat het risico op recidive, bijna 20 jaar na het daadwerkelijke justitiecontact en gelet op de persoonlijke ontwikkelingen sindsdien, voldoende is beperkt om tot toewijzing van de VOG over te gaan. De aard van het delict en de zwaarte van de straffen doen hieraan volgens hem niet af. De weigering van de VOG heeft onevenredig nadelige gevolgen voor verzoeker. Verzoeker is, ondanks bekendheid van zijn werkgever met zijn criminele verleden, reeds tien jaar binnen de DJI werkzaam, waarbij hij heeft laten zien dat hij geen enkel risico vormt. Er heeft zich geen enkel incident voorgedaan. Hij heeft dit werk, gelet op de referenties en aanbevelingen, uitstekend gedaan. Verzoeker heeft geen andere werkervaring, dan die met justitiabelen. Zijn verleden maakt nu juist dat hij goed is in zijn werk. Weigering van deze VOG betekent dat verzoeker werkloos wordt en een ervaren kracht verloren zal gaan. Hierin had verweerder aanleiding moeten zien om tot toewijzing van de VOG over te gaan. </para>
+      <para />
+      <para>5. Tussen partijen is in geschil of verweerder op goede gronden geen aanleiding heeft gezien om vanwege het subjectieve criterium tot afgifte van de VOG over te gaan. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>Ingevolge paragraaf 3.3 van de Beleidsregels VOG-NP-RP 2018 kan op grond van het subjectieve criterium worden geoordeeld dat het belang dat een aanvrager heeft bij het verstrekken van de VOG zwaarder weegt dan het belang van de samenleving bij bescherming tegen het door middel van het objectieve criterium vastgestelde risico voor de samenleving. In dat geval wordt de VOG afgegeven ondanks dat wordt voldaan aan het objectieve criterium.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>6.2.</nr>
+      <parablock>
+        <para>Ingevolge paragraaf 3.3.1 van deze Beleidsregels ziet het subjectieve criterium op omstandigheden van het geval die ertoe kunnen leiden dat de objectieve vaststelling van een risico voor de samenleving ten aanzien van deze aanvrager niet zou moeten leiden tot een weigering van de afgifte van de VOG.</para>
+        <para>Omstandigheden van het geval die altijd in de beoordeling worden betrokken zijn:</para>
+      </parablock>
+      <para>- de afdoening van de strafzaak;</para>
+      <para>- het tijdsverloop;</para>
+      <para>- de hoeveelheid antecedenten.</para>
+      <para />
+      <para>7. Het primaat voor het maken van deze belangenafweging ligt bij verweerder. De rechtbank kan deze afweging slechts terughoudend toetsen. </para>
+      <para />
+      <para>8. Verweerder heeft zich op het standpunt gesteld dat de verstreken periode sinds verzoekers laatste veroordeling op 23 januari 2002, bezien in het licht van de in verzoekers geval geldende (verlengde) terugkijktermijn te kort is om te concluderen dat het risico voor de samenleving in voldoende mate is afgenomen. Voorts is verzoeker binnen de terugkijktermijn meermalen met justitie in aanraking gekomen waaronder ook tijdens een opgelegde proeftijd. De vergrijpen zijn verzoeker door de rechtbank, gelet op de opgelegde straffen, niet licht aangerekend. Hoewel uit de door verzoeker overgelegde stukken kan worden opgemaakt dat de kans op herhaling is gereduceerd, is dit volgens verweerder nog niet in die mate het geval dat afgifte van de VOG gerechtvaardigd is. Aan de positieve ontwikkelingen van verzoeker heeft verweerder in het licht van het voorgaande geen doorslaggevende betekenis toegekend. Volgens verweerder is het risico voor de samenleving in onvoldoende mate afgenomen om toewijzing van de VOG te rechtvaardigen.</para>
+      <para />
+      <para>9. De rechtbank is van oordeel dat verweerder zich op basis van voornoemde motivering in redelijkheid op het standpunt heeft kunnen stellen dat bij de belangenafweging op grond van het subjectieve criterium een groter gewicht moet worden toegekend aan het risico voor de samenleving dan aan het belang van verzoeker bij afgifte van een VOG. Verweerder heeft daarbij van zwaarwegend belang mogen vinden dat voor de door verzoeker geambieerde functie hoge integriteitseisen zijn gesteld, die door de DJI zelf zijn opgeworpen. Daarbij is van belang dat verzoeker herhaaldelijk met justitie in aanraking is geweest en dat het om zware vergrijpen gaat, die hem niet licht zijn aangerekend. Verweerder heeft daarbij in aanmerking kunnen nemen dat de verstreken periode sinds verzoekers laatste veroordeling, bezien in het licht van de in verzoekers geval geldende (verlengde) terugkijktermijn, te kort is om te concluderen dat het risico voor de samenleving in voldoende mate is afgenomen. Aan de omstandigheid dat verzoeker op de goede weg is en de reclassering de kans op herhaling laag inschat, hoefde verweerder, gezien dat korte tijdsverloop, niet zodanig gewicht toe te kennen dat hij alsnog tot afgifte van de VOG diende over te gaan. Verder heeft verweerder in de door verzoeker gestelde onevenredige gevolgen van de weigering van de gevraagde VOG geen grond hoeven vinden om toch tot afgifte van een VOG over te gaan. De gestelde omstandigheden dat verzoeker zonder de VOG niet of nauwelijks kans heeft om in deze functie bij de DJI werkzaam te zijn, terwijl hij daar gelet op de door hem overgelegde referenties naar tevredenheid werkzaam is en de DJI hem graag in dienst zou willen nemen, heeft verweerder gezien de vergrijpen en de zwaarte daarvan niet zwaarder hoeven laten wegen dan het belang de samenleving te beschermen tegen het door middel van het objectieve criterium vastgestelde risico. </para>
+      <para />
+      <para>10. Het beroep is ongegrond. Gelet hierop is er geen aanleiding om een voorlopige voorziening te treffen. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+      <para>
+        <emphasis role="bold">Beslissing</emphasis>
+      </para>
+      <para />
+      <parablock>
+        <para>De voorzieningenrechter:<?linebreak?>- verklaart het beroep ongegrond;<?linebreak?>- wijst het verzoek om voorlopige voorziening af.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <?linebreak?>Deze uitspraak is gedaan door mr. S.A. Steinhauser, voorzieningenrechter, in aanwezigheid van  F. Voskamp, griffier. De uitspraak is uitgesproken op 29 september 2020. Vanwege de maatregelen rondom het coronavirus is deze uitspraak niet in het openbaar uitgesproken. Zodra dit weer mogelijk is zal dit, indien nodig, alsnog gebeuren.</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+      <para />
+      <informaltable>
+        <tgroup cols="2">
+          <colspec colname="colA" />
+          <colspec colname="colB" />
+          <tbody>
+            <row>
+              <entry>
+                <para>griffier</para>
+              </entry>
+              <entry>
+                <para>voorzieningenrechter</para>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <para />
+      <para />
+      <para />
+      <parablock>
+        <para>Een afschrift van deze uitspraak is verzonden aan partijen op:</para>
+      </parablock>
+      <para />
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <bridgehead>Rechtsmiddel<?linebreak?>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</bridgehead>
+</uitspraak>
+</open-rechtspraak>

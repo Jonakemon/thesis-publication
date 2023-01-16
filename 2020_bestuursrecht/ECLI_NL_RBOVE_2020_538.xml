@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBOVE:2020:538</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-12T20:35:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Overijssel" scheme="overheid.RechterlijkeMacht">Rechtbank Overijssel</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-02-11</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">ak_19_2430 en ak_19_2431</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Zwolle</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:538">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBOVE:2020:538</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-12T11:32:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-12</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBOVE:2020:538 Rechtbank Overijssel , 11-02-2020 / ak_19_2430 en ak_19_2431</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBOVE:2020:538:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De voorzieningenrechter oordeelt dat het ministerie van VWS terecht een last onder dwangsom heeft opgelegd aan een jeugdhulporganisatie en terecht heeft besloten dat de organisatie een rapport van de Inspectie Gezondheidszorg en Jeugd publiceert met een bijbehorend persbericht.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBOVE:2020:538:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK OVERIJSSEL</bridgehead>
+    <para>Zittingsplaats Zwolle</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 19/2430 en AWB 19/2431</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de voorzieningenrechter op de verzoeken om voorlopige voorziening in de zaken tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [stichting] , te Enschede, verzoekster,</bridgehead>
+    <para>gemachtigde: mr. C.G. Mensink,</para>
+    <para />
+    <parablock>
+      <para>en </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de minister van Volksgezondheid, Welzijn en Sport, verweerder,</bridgehead>
+    <para>gemachtigde: mr. M.P. Man.</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop </title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 december 2019 (het bestreden besluit I) heeft verweerder verzoekster een last onder dwangsom opgelegd. De last houdt in dat verzoekster zo spoedig mogelijk voldoet aan de in het besluit opgenomen vereisten en normen en dat zij geen nieuwe jeugdigen mag aannemen tot zij aan deze normen en eisen voldoet, na toetsing vastgesteld door de Inspectie  Gezondheidszorg en Jeugd (IGJ). Aan deze last is een dwangsom verbonden van € 2000,- per week dat niet aan de last wordt voldaan tot een maximum van € 20.000,-. Verweerder heeft verzoekster daarbij een begunstigingstermijn gegeven van twee maanden, die aanvangt op de eerste dag na dagtekening van het besluit.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van eveneens 13 december 2019 (het bestreden besluit II) heeft verweerder besloten de zakelijke weergave van de last onder dwangsom en het rapport van de IGJ met een bijbehorend persbericht openbaar te maken.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekster heeft tegen de bestreden besluiten bezwaar gemaakt. Zij heeft daarnaast de voorzieningenrechter verzocht om  voorlopige voorzieningen te treffen. Het verzoek om voorlopige voorziening met betrekking tot de last onder dwangsom is geregistreerd onder nummer AWB 19/2430 en het verzoek om voorlopige voorziening met betrekking tot de openbaarmaking is geregistreerd onder nummer AWB 19/2431.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 4 februari 2020. Verzoekster is verschenen bij [naam] , bijgestaan door de gemachtigde.</para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. Tevens zijn ter zitting verschenen inspecteurs [inspecteur 1] en [inspecteur 2] , werkzaam bij de IGJ.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <para>2. Verzoekster biedt sinds 2011 jeugdhulp en verblijf aan jeugdigen en jongvolwassenen. Zij is begonnen als gezinshuis, waarin een echtpaar de rol van gezinshuisouders vervult.</para>
+    <parablock>
+      <para>Op 5 maart 2019 heeft de IGJ bij verzoekster een onaangekondigde inspectie uitgevoerd naar de kwaliteit van de door verzoekster verleende jeugdhulp. Dit onderzoek is uitgevoerd aan de hand van het toetsingskader Verantwoorde Hulp voor Jeugd (het toetsingskader). </para>
+      <para>De IGJ heeft op 25 april 2019 rapport uitgebracht, waaruit naar voren komt dat verzoekster op het moment van onderzoek voldeed aan 6 van de 29 verwachtingen uit het toetsingskader.</para>
+    </parablock>
+    <para />
+    <para>3. Verzoekster is naar aanleiding van het onderzoek in de gelegenheid gesteld maatregelen te treffen en een verbeterplan op te stellen dat verbeteracties bevat op alle onvoldoende verwachtingen. Verzoekster heeft twee verbeterplannen ingezonden, maar beide zijn door de IGJ als onvoldoende beoordeeld.</para>
+    <para />
+    <para>4. Bij brief van 21 juni 2018 heeft verweerder verzoekster geïnformeerd over het voornemen tot het geven van een aanwijzing ex artikel 9.3 van de Jeugdwet. Verzoekster heeft een zienswijze ingediend.  </para>
+    <para />
+    <para>5. Bij besluit van 4 juli 2019 heeft verweerder aan verzoekster een aanwijzing op grond van artikel 9.3 van de Jeugdwet gegeven, inhoudende dat verzoekster gedurende de looptijd van de aanwijzing geen nieuwe jeugdigen mag aannemen. Verzoekster mag weer jeugdigen aannemen indien na toetsing door de inspectie is vastgesteld dat verzoekster voldoet aan alle 14 in de aanwijzing genoemde vereisten en normen.</para>
+    <para>De aanwijzing geldt voor een termijn van vier maanden. Een zakelijke weergave van de aanwijzing wordt openbaar gemaakt.</para>
+    <para />
+    <parablock>
+      <para>Tegen deze aanwijzing en openbaarmaking zijn geen rechtsmiddelen aangewend.</para>
+    </parablock>
+    <para />
+    <para>6. Op 2 oktober 2019 heeft de IGJ een bezoek gebracht aan verzoekster, waarbij is geconstateerd dat verdere verbetering en afronding van ingezette verbeteracties noodzakelijk is op vrijwel alle genoemde normen in de aanwijzing.</para>
+    <para />
+    <parablock>
+      <para>Op 5 november 2019 heeft de IGJ wederom een onaangekondigd huisbezoek afgelegd, waarbij is geconstateerd dat binnen de in de aanwijzing gegeven termijn van vier maanden door verzoekster niet of niet volledig is voldaan aan elf van de veertien normen die in de aanwijzing zijn opgenomen. Naar aanleiding hiervan heeft verweerder zijn voornemen kenbaar gemaakt een last onder dwangsom op te leggen.</para>
+      <para>Verzoekster heeft een zienswijze ingediend.</para>
+    </parablock>
+    <para />
+    <para>7. Vervolgens is verweerder overgegaan tot de besluitvorming, zoals in de rubriek ‘Procesverloop’ is weergegeven.</para>
+    <para />
+    <para>8. Verzoekster stelt zich op het standpunt dat de bestreden besluiten in de bezwaarprocedure geen stand zullen houden. </para>
+    <parablock>
+      <para>Verzoekster kon (en kan) zich niet vinden in de aanwijzing. Daarnaast is aangevoerd dat de maatstaf die gehanteerd moet worden vastgesteld is in de (vorm van de ) “Kwaliteitscriteria Gezinshuizen”. Als een gezinshuis voldoet aan deze criteria voldoet een gezinshuis aan de eisen die de Jeugdwet daaraan stelt. Deze criteria zijn niet opgesteld door de overheid/de IGJ, maar de totstandkoming ervan is wel gefinancierd door de overheid.</para>
+      <para>Verzoekster voldoet aan deze criteria. Ter onderbouwing van dit standpunt heeft verzoekster een rapport overgelegd van J. Coopmans, van CoopmansAdvies te Brummen d.d. </para>
+      <para>10 december 2019, een ongedateerde onderbouwing van de aan verzoekster verbonden orthopedagoge (volgens verzoekster van medio januari 2020) en een verklaring van 20 december 2019 van één van de voogden van een bij verzoekster geplaatst kind.</para>
+    </parablock>
+    <para />
+    <para>9. De voorzieningenrechter overweegt als volgt.</para>
+    <para />
+    <para>10. Voor het van toepassing zijnde wettelijke kader volstaat de voorzieningenrechter met een verwijzing naar het verweerschrift van 31 januari 2020.</para>
+    <para />
+    <para>11. Voorop dient te worden gesteld dat de aanwijzing van 4 juli 2019 onherroepelijk is, nu daartegen geen rechtsmiddelen zijn aangewend. Daarmee staat vast dat verzoekster niet voldeed aan de in deze aanwijzing opgenomen 14 normen en eisen en zij in de gelegenheid is gesteld om binnen vier maanden alsnog aan deze normen en eisen te voldoen. Als gevolg van deze aanwijzing heeft na afloop van de periode van 4 maanden, op 5 november 2019, weer een controle plaatsgevonden door de daartoe bevoegde inspecteurs van de IGJ. De inspecteurs hebben controle gedaan aan de hand van het toetsingskader. Dit toetsingskader is, zoals ter zitting is toegelicht, een richtlijn van  de IGJ aan het veld.</para>
+    <para>Naar het oordeel van de voorzieningenrechter hebben de inspecteurs dit toetsingskader mogen hanteren. </para>
+    <para />
+    <para>12. De door verzoekster bestreden besluiten zien op de situatie zoals deze was op de peildatum in geding, te weten 5 november 2019. </para>
+    <para>Tijdens de controle op 5 november 2019 door de inspecteurs van IGJ is gebleken dat verzoekster binnen de gestelde termijn van 4 maanden aan 11 van de 14 normen en eisen van de aanwijzing niet voldaan had. </para>
+    <para />
+    <para>13. De weerlegging van de geconstateerde gebreken door verzoekster met de door haar bij het verzoek overgelegde, hiervoor genoemde stukken, dateren echter van ná de peildatum 5 november 2019. Daarnaast is de voorzieningenrechter van oordeel dat een weerlegging van hetgeen in het rapport van de IGJ is opgenomen ontbreekt. De enkele stelling van verzoekster dat naar haar mening wel aan de criteria van het toetsingskader wordt voldaan is daarvoor onvoldoende.</para>
+    <para />
+    <para>14. Op grond van het bepaalde in artikel 9.5 van de Jeugdwet, in samenhang met artikel 5:32 van de Algemene wet bestuursrecht (Awb) is de inspectie bevoegd een last onder dwangsom op te leggen wegens het niet voldoen aan de aanwijzing. Deze last onder dwangsom strekt ertoe dat er alsnog binnen een door de inspectie bepaalde begunstigingstermijn aan de aanwijzing wordt voldaan.</para>
+    <para />
+    <para>15. Naar voorlopig oordeel van de voorzieningenrechter heeft verweerder van zijn bevoegdheid om een last onder dwangsom op te leggen gebruik kunnen maken. Het belang van het bieden van jeugdhulp van voldoende kwaliteit weegt hierbij zwaar.</para>
+    <para />
+    <para>16. De door verweerder gehanteerde begunstigingstermijn is niet onredelijk. De voorzieningenrechter merkt hierbij op dat, voordat een dwangsom eventueel verbeurd wordt, na afloop van de begunstigingstermijn weer een controle door de inspecteurs van de IGJ zal plaatsvinden.</para>
+    <para />
+    <para>17. Zoals in artikel 9.7 van de Jeugdwet, in samenhang met de bijlage bij het Besluit Openbaarmaking, is bepaald is openbaarmaking van het rapport van de inspectie en de zakelijke weergeven van de last onder dwangsom dwingend voorgeschreven.</para>
+    <para />
+    <para>18. Op grond van hetgeen hiervoor is overwogen is de voorzieningenrechter van oordeel dat de door verzoekster bestreden besluiten in bezwaar stand zullen houden.</para>
+    <para />
+    <para>19. Als gevolg hiervan wijst de voorzieningenrechter de verzoeken af.</para>
+    <para />
+    <para>20. Voor een proceskostenveroordeling bestaat geen aanleiding. </para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter wijst de verzoeken om voorlopige voorziening af.</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. W.J.B. Cornelissen, voorzieningenrechter, in aanwezigheid van Y. van Arnhem, griffier. De beslissing is in het openbaar uitgesproken op</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier								voorzieningenrechter</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: <?linebreak?></para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

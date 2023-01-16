@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNHO:2020:7800</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-08T15:37:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-05</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Holland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Holland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-09-29</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 19 _ 5194</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Haarlem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:7800">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNHO:2020:7800</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-08T15:36:32</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNHO:2020:7800 Rechtbank Noord-Holland , 29-09-2020 / AWB - 19 _ 5194</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNHO:2020:7800:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Weigering toekenning trekgewicht aan elektrisch voertuig, besluitbegrip, gelijkheidsbeginsel, vertrouwensbeginsel, er is sprake van een typegoedkeuring door de fabrikant, dus de maximaal toelaatbare getrokken massa’s mogen niet groter zijn dan de door de fabrikant bepaalde maximummassa’s.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNHO:2020:7800:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <para>
+    <emphasis role="bold">RECHTBANK NOORD-HOLLAND</emphasis>
+  </para>
+  <parablock>
+    <para>Zittingsplaats Haarlem</para>
+  </parablock>
+  <parablock>
+    <para>Bestuursrecht</para>
+  </parablock>
+  <parablock>
+    <para>zaaknummer: HAA 19 / 5194</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">uitspraak van de enkelvoudige kamer van 29 september 2020 in de zaak tussen</emphasis>
+    </para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">
+        [eiseres] B.V.</emphasis>, te [vestigingsplaats] , eiseres,</para>
+  </parablock>
+  <parablock>
+    <para>en</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">de directie van de Dienst Wegverkeer (RDW)</emphasis>, verweerder </para>
+    <para>(gemachtigde: mr. B. Weening).</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Procesverloop</emphasis>
+    </para>
+  </parablock>
+  <parablock>
+    <para>Bij besluit van 26 april 2019 (het primaire besluit), heeft verweerder de aanvraag van eiseres om aan voertuig Hyundai Kona , kenteken [#] , trekgewichten toe te kennen, afgewezen.</para>
+  </parablock>
+  <parablock>
+    <para>Bij besluit van 21 oktober 2019 (het bestreden besluit) heeft verweerder het bezwaar van eiseres ongegrond verklaard. </para>
+  </parablock>
+  <parablock>
+    <para>Eiseres heeft tegen het bestreden besluit beroep ingesteld. </para>
+  </parablock>
+  <parablock>
+    <para>Verweerder heeft geen verweerschrift ingediend.</para>
+  </parablock>
+  <parablock>
+    <para>Het onderzoek op de zitting heeft plaatsgevonden op 18 augustus 2020. Eiseres is verschenen in de persoon van [naam 1] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde. </para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Overwegingen</emphasis>
+    </para>
+  </parablock>
+  <parablock>
+    <para>1.1 Eiseres heeft in februari 2019 een aanvraag gedaan om aan voertuig Hyundai Kona , kenteken [#] (het voertuig), trekgewichten toe te kennen. De fabrikant heeft voor dit type voertuig geen trekgewichten vastgesteld. In het kentekenregister staat bij het onderdeel trekgewichten vermeld: ‘niet geregistreerd’.</para>
+  </parablock>
+  <parablock>
+    <para>1.2 Op 19 april 2019 is het voertuig in het testcentrum van verweerder in Lelystad gekeurd. Eiseres heeft daartoe een formulier ondertekend waarmee zij verzoekt het geremd trekgewicht van 0 kg naar 1500 kg te verhogen en het maximum gewicht van het samenstel vast te stellen op 3670 kg. In het testrapport van de keuring staat dat het voertuig voldoet aan de gestelde eisen, en dat geen bezwaar bestaat tegen verlening van een nationale toelating overeenkomstig de in dit rapport genoemde onderwerpen. In een bij dit testrapport behorend document van diezelfde datum staat dat een geremde AHW (aanhangwagen) massa van 1306 kg wordt toegekend en dat de massa van het samenstel 3476 kg bedraagt. De beide documenten zijn ondertekend door de heer [naam 2] (verder: [naam 2] ), technisch inspecteur.</para>
+  </parablock>
+  <parablock>
+    <para>1.3 Bij e-mail van 26 april 2019 (het primaire besluit) heeft [naam 2] eiseres bericht dat geen trekgewichten aan het voertuig worden toegekend. In deze e-mail wijst [naam 2] er op dat hij op 19 april 2019 heeft benadrukt dat de fabrikant geen trekgewichten voor het voertuig heeft opgegeven en daartoe ook geen verklaring heeft afgelegd. Vanuit de visie en overtuiging van eiseres dat het voor het voertuig technisch mogelijk is om een aanhangwagen te trekken, is dit getoetst. De uitkomst van de test was dat het voertuig een geremde aanhangwagen van maximaal 1306 kg kan trekken. Dit is echter een theoretische mogelijkheid omdat een verklaring van de fabrikant dat dit voor het voertuig is toegestaan, ontbreekt. </para>
+  </parablock>
+  <parablock>
+    <para>1.4 Bij e-mail van later die dag heeft de [functie] van het Klant Contact Centrum (KCC) gereageerd op een verzoek van eiseres om informatie over het toekennen van trekgewichten aan het voertuig. In deze e-mail staat dat een fabrikant door middel van testen vaststelt welke voertuigenconfiguratie een voertuig krijgt. Het is mogelijk dat een voertuig na een keuring alsnog trekgewichten krijgt. De fabrikant van een voertuig kan daartoe een verklaring afgeven. Een andere mogelijkheid is het vragen van individuele goedkeuring bij de afdeling Voertuig, Regelgeving en Toelating (VRT).</para>
+  </parablock>
+  <parablock>
+    <para>1.5 Bij e-mail van 26 juni 2019 heeft de heer [naam 3] , [functie] testcentrum, aan eiseres bevestigd dat bij verweerder aanvragen ingediend kunnen worden voor het toekennen of verhogen van aanhangwagenmassa’s. Verweerder gaat er daarbij vanuit dat de garanties van de te trekken massa altijd via de fabrikant zijn te achterhalen. Verweerder hanteert op grond van artikel 5 van Verordening (EU) nr. 1230/2012 van de Commissie van 12 december 2012 tot uitvoering van Verordening (EU)  nr. 661/2009 van het Europees Parlement en de Raad wat typegoedkeuringsvoorschriften voor massa’s en afmetingen van motorvoertuigen en aanhangwagens daarvan betreft en tot wijziging van Richtlijn 2007/46/EG van het Europees Parlement en de Raad (de Verordening) als stelregel dat wanneer de fabrikant geen aanhangwagenmassa’s aan een voertuig heeft toegekend, verweerder dit ook niet doet. </para>
+  </parablock>
+  <parablock>
+    <para>1.6 Verweerder heeft aan het bestreden besluit ten grondslag gelegd dat het niet is toegestaan om voor een voertuig hogere maximaal toelaatbare trekgewichten te bepalen, dan door de fabrikant zijn vastgesteld (zie artikel 5, tweede lid, van de Verordening). </para>
+  </parablock>
+  <parablock>
+    <para>1.7 Het wettelijk kader is opgenomen in een bijlage bij deze uitspraak.</para>
+  </parablock>
+  <parablock>
+    <para>2.1 Eiseres voert aan dat de e-mail van 26 april 2019 van [naam 2] geen besluit is in de zin van de Algemene wet bestuursrecht (Awb). De e-mail bevat geen rechtsmiddelenclausule en is niet ondertekend. De beslissing vermeld in het testrapport en het bijbehorende document van 19 april 2019 blijft daarom gelden. </para>
+  </parablock>
+  <parablock>
+    <para>2.2 Verweerder stelt zich op het standpunt dat het testrapport en het bijbehorende document van 19 april 2019 slechts het technische resultaat van de keuring weergeven. Het daadwerkelijke besluit is vastgelegd in de e-mail van 26 april 2019. Dat er geen rechtsmiddelenclausule onder staat, maakt niet dat het geen besluit is. </para>
+  </parablock>
+  <parablock>
+    <para>2.3 Op grond van artikel 1:3, eerste lid, van de Awb is een besluit een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. Voor het toevoegen van trekgewichten aan het kenteken van een voertuig is goedkeuring van verweerder vereist (artikel 98 en 99 van de Wegenverkeerswet, in samenhang met artikel 6.1, eerste lid, en artikel 6.3, eerste lid, aanhef en onder m, van de Regeling voertuigen). Gelet op de inhoud en formulering van de e-mail van 26 april 2019 is de e-mail bedoeld als reactie op de aanvraag van eiseres om aan het voertuig trekgewichten toe te kennen. In de e-mail is concreet en ondubbelzinnig een beslissing daarover meegedeeld. De rechtbank is dan ook van oordeel dat verweerder zich terecht op het standpunt heeft gesteld dat de e-mail van 26 april 2019 een besluit is. Het feit dat de rechtsmiddelenclausule onder het besluit ontbreekt doet daaraan, zoals verweerder terecht heeft gesteld, niet af. Naar het oordeel van de rechtbank doet ook het feit dat het besluit niet is ondertekend en het feit dat [naam 2] gezien het gestelde door verweerder in overweging 5.2 niet bevoegd was om het primaire besluit te nemen, daaraan niet af. Dit te meer nu bij het bestreden besluit dit bevoegdheidsgebrek is hersteld. De vraag of het testrapport met het bijbehorende document van 19 april 2019 al dan niet een besluit is, behoeft geen beantwoording, omdat deze documenten niet ter toetsing voorliggen. De beroepsgrond slaagt niet.</para>
+  </parablock>
+  <parablock>
+    <para>3.1	Eiseres voert aan dat verweerder ten onrechte heeft geweigerd trekgewichten voor het voertuig vast te stellen omdat de fabrikant geen trekgewichten voor het voertuig heeft bepaald. Eiseres is van mening dat zij met de fabrikant van het voertuig gelijk gesteld moet worden, zodat artikel 5, tweede lid, van de Verordening niet aan het toekennen van trekgewichten in de weg staat. Dit volgt uit de definitie van ‘fabrikant’ in artikel 3, onderdeel 27, van Richtlijn 2007/46/EG van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen, en technische eenheden die voor dergelijke voertuigen zijn bestemd (Kaderrichtlijn). Deze definitie is op grond van artikel 2 van de Verordening ook van toepassing ten aanzien van het gestelde in de Verordening. Dit volgt verder uit het feit dat een aanvraag voor een individuele goedkeuring wordt ingediend door de fabrikant óf door de eigenaar van het voertuig (artikel 24, vierde lid, van de Kaderrichtlijn). Dit volgt bovendien uit de door verweerder vastgestelde werkwijze ‘Individuele goedkeuringseisen en wijze van keuren’ (de werkwijze). In de versie van januari 2015 staat in hoofdstuk 44A Massa’s en afmetingen: ‘<emphasis role="italic">Daar waar verder over specificaties van de fabrikant wordt gesproken, moet worden gelezen “de fabrikant of de eigenaar van het voertuig of door een persoon die namens hen optreedt” (zie ook de Kaderrichtlijn hoofdstuk X. artikel 24, punt 4)`. </emphasis>Eiseres heeft op 19 april 2019 een verklaring ondertekend waarbij zij de verantwoordelijkheid van de fabrikant op dit punt heeft overgenomen.</para>
+  </parablock>
+  <parablock>
+    <para>3.2	Verweerder stelt zich op het standpunt dat vanwege het feit dat de fabrikant geen trekgewichten voor het voertuig heeft vastgesteld, het niet mogelijk is alsnog trekgewichten aan het voertuig toe te kennen (artikel 5, tweede lid, van de Verordening). Eiseres kan niet gelijk gesteld worden aan de fabrikant. Eiseres voldoet als natuurlijke persoon niet aan de definitie opgenomen in artikel 3, onderdeel 27, van de Kaderrichtlijn. De verwijzing naar artikel 24, vierde lid, van de Kaderrichtlijn maakt dit niet anders. Artikel 24, vierde lid, van de Kaderrichtlijn betreft de individuele goedkeuring, en niet het toekennen van trekgewichten.</para>
+  </parablock>
+  <parablock>
+    <para>3.3 Zoals geoordeeld in overweging 2.3 dient verweerder de toekenning van trekgewichten aan een reeds tot het verkeer op de weg toegelaten voertuig goed te keuren (zie artikel 98 en 99 van de Wegenverkeerswet, in samenhang met artikel 6.1, eerste lid, en artikel 6.3, eerste lid, aanhef en onder m, van de Regeling voertuigen). Verweerder heeft ter zitting toegelicht dat het uitgangspunt daarbij is, dat de ten tijde van de toelating van het voertuig op de weg van toepassing zijnde vereisten van toepassing blijven. Naar het oordeel van de rechtbank volgt dit ook uit het gestelde in artikel 99 van de Wegenverkeerswet en hoofdstuk 6 van de Regeling voertuigen. Tussen partijen staat vast dat het voertuig van eiseres middels een zogenaamde typegoedkeuring tot het verkeer op de weg is toegelaten. Voor voertuigen die middels een typegoedkeuring op de weg zijn toegelaten, geldt ingevolge artikel 5, tweede lid, van de Verordening dat de maximaal toelaatbare getrokken massa’s niet groter mogen zijn dan de door de fabrikant bepaalde maximummassa’s. Tussen partijen staat verder vast dat de fabrikant van het voertuig geen trekgewichten voor het voertuig heeft bepaald. Naar het oordeel van de rechtbank heeft verweerder dan ook terecht geweigerd om trekgewichten aan het voertuig toe te kennen. </para>
+  </parablock>
+  <parablock>
+    <para>3.4 De beroepsgronden van eiseres geven geen aanleiding voor een ander oordeel.</para>
+  </parablock>
+  <parablock>
+    <para>3.5 De definitie van het begrip fabrikant in artikel 2, onderdeel 27, van de Kaderrichtlijn, luidt: ‘<emphasis role="italic">persoon of instantie die tegenover de goedkeuringsinstantie verantwoordelijk is voor alle aspecten van de typegoedkeurings- en vergunningsprocedure en die instaat voor de overeenstemming van de productie. Het is niet noodzakelijk dat deze persoon of instantie rechtstreeks betrokken is bij alle fasen van de bouw van het voertuig, het systeem, het onderdeel of de technische eenheid dat/die aan de goedkeuringsprocedure wordt onderworpen.</emphasis> Verweerder heeft ter zitting terecht toegelicht dat eiseres als eigenaar van het voertuig, die niet bij de bouw van het voertuig betrokken is geweest en daarvoor ook niet verantwoordelijk is, niet aan deze definitie voldoet.</para>
+  </parablock>
+  <parablock>
+    <para>3.6 Naar het oordeel van de rechtbank volgt uit artikel 24, vierde lid, van de Kaderrichtlijn geen gelijkstelling van de eigenaar van een voertuig met de fabrikant van het voertuig. Verweerder heeft er bovendien terecht op gewezen dat dit artikel betrekking heeft op de individuele goedkeuring voor het in het verkeer brengen van een voertuig, en niet op het verzoek van eiseres om trekgewichten aan het voertuig toe te kennen.</para>
+  </parablock>
+  <parablock>
+    <para>3.7 Uit de door eiseres aangehaalde tekst van de werkwijze, versie van januari 2015, volgt naar het oordeel van de rechtbank evenmin dat een eigenaar gelijk wordt gesteld aan de fabrikant. Los van het feit dat verweerder ter zitting heeft toegelicht dat de werkwijze voor interne doeleinden is bestemd, geldt dat ten tijde van het bestreden besluit de versie van september 2019 van toepassing was. In de versie van september 2019 staat de door eiser in overweging 3.1 aangehaalde tekst niet opgenomen. Daarbij komt dat de betreffende tekst in de werkwijze in de versie van januari 2015 betrekking heeft op de massa’s als bedoeld in punt 2, van bijlage I, deel A van de Verordening, terwijl de trekmassa’s geregeld zijn in punt 3 en 4, van deel A van deze bijlage.</para>
+  </parablock>
+  <parablock>
+    <para>3.8 Ook de door eiseres ondertekende verklaring heeft naar het oordeel van de rechtbank niet tot gevolg dat eiseres gelijkgesteld kan worden met de fabrikant. De rechtbank begrijpt dat eiseres verwijst naar het formulier genoemd in overweging 1.2. Dit formulier bevat slechts een orderbevestiging. </para>
+  </parablock>
+  <parablock>
+    <para>4.1	Eiseres voert aan (voor zover zij niet als fabrikant gezien kan worden) dat punt 5 en 6 van de Verordening de mogelijkheid bieden om van artikel 5, tweede lid, van de Verordening af te wijken. Verweerder heeft ten onrechte van deze mogelijkheid geen gebruik gemaakt.</para>
+  </parablock>
+  <parablock>
+    <para>4.2	Verweerder stelt zich op het standpunt dat punt 5 en 6 van de Verordening slechts overwegingen van de Europese Commissie betreffen en geen vastgestelde regelgeving. Daarbij komt dat de daar genoemde maxima niet de technisch toelaatbare getrokken massa’s betreffen.</para>
+  </parablock>
+  <parablock>
+    <para>4.3	De rechtbank is met verweerder van oordeel dat punt 5 en 6 van de Verordening overwegingen betreffen en niet een in de Verordening vastgestelde regeling. Voor zover eiseres bedoeld heeft een beroep te doen op artikel 6 van de Verordening, geldt dat op grond van dat artikel slechts afgeweken kan worden van bepaalde daarin genoemde regelingen. De regeling van artikel 5, tweede lid, van de Verordening wordt in artikel 6 van de Verordening niet genoemd. De beroepsgrond slaagt niet.</para>
+  </parablock>
+  <parablock>
+    <para>5.1 Eiseres voert aan dat sprake is van strijd met het vertrouwensbeginsel. Het KCC heeft in een telefoongesprek in februari 2019 aan eiseres bevestigd dat het mogelijk is om trekgewichten voor het voertuig te laten vaststellen. Eiseres verwijst daarvoor naar een e-mail van 26 april 2019. Daarbij komt dat [naam 2] tijdens de keuring op 19 april 2019 mondeling heeft toegezegd dat nu het voertuig door de keuring is gekomen, trekgewichten zouden worden toegekend. Dit blijkt ook uit het door [naam 2] opgestelde testrapport en het bijbehorende document van 19 april 2019 (Zie overweging 1.2 en 1.4). </para>
+  </parablock>
+  <parablock>
+    <para>5.2 Verweerder stelt zich op het standpunt dat geen sprake is van een uitdrukkelijke en ondubbelzinnige toezegging door [naam 2] , die daartoe ook niet bevoegd is. Ook het KCC is daartoe niet bevoegd. Van een gerechtvaardigd gewekt vertrouwen is geen sprake.</para>
+  </parablock>
+  <parablock>
+    <para>5.3 In de uitspraak van Afdeling bestuursrechtspraak van de Raad van State (de Afdeling) van 29 mei 2019, ECLI:NL:RVS:2019:1694 heeft de Afdeling een stappenplan uiteengezet, dat moet worden gevolgd bij de beoordeling van een beroep op het vertrouwensbeginsel. Het gaat om de volgende drie vragen: (1) Is er sprake van een toezegging ? (2) Kan deze toezegging aan het bestuursorgaan worden toegerekend ? (3) Moet het gerechtvaardigd gewekt vertrouwen worden gehonoreerd ? </para>
+  </parablock>
+  <parablock>
+    <para>5.4 Van een toezegging is sprake als uitlatingen of gedragingen van een ambtenaar redelijkerwijs de indruk wekken van een welbewuste standpuntbepaling van het bestuur over de manier waarop een bevoegdheid al dan niet zal worden uitgeoefend. Om een toezegging aan te nemen, dient de uitlating en/of gedraging in ieder geval te zijn toegesneden op de concrete situatie. Algemene voorlichting, of uitlatingen over een ander geval of tegen een derde, zijn niet aan te merken als een toezegging. Eiseres heeft niet aannemelijk gemaakt dat in februari 2019 daadwerkelijk een telefoongesprek met het KCC heeft plaatsgevonden met de door eiseres gestelde inhoud. Dit blijkt niet uit de e-mail van 26 april 2019 (zie overweging 1.4). Eiseres heeft dit ook niet op andere wijze aannemelijk gemaakt. Verder geldt dat [naam 2] in zijn e-mail van 26 april 2019 (een week na het gesprek op 19 april 2019) heeft gecommuniceerd dat geen trekgewichten voor het voertuig op het kenteken zullen worden bijgeschreven. Indien en voor zover op 19 april 2019 al vertrouwen bij eiseres gewekt zou zijn, is [naam 2] daarop in zijn e-mail van 26 april 2019 uitdrukkelijk teruggekomen. Dit terwijl eiseres op basis van de op 19 april 2019 verkregen informatie nog niet iets had gedaan of nagelaten. Naar het oordeel van de rechtbank is dan ook geen sprake van een toezegging. De overige vragen (2 en 3) behoeven geen bespreking. De beroepsgrond slaagt niet.</para>
+  </parablock>
+  <parablock>
+    <para>6.1 Eiseres voert aan dat het gelijkheidsbeginsel is geschonden. Bij haar beroepschrift heeft eiseres een lijst van Hyundai Kona ’s overgelegd, waarvoor wel trekgewichten staan geregistreerd. </para>
+  </parablock>
+  <parablock>
+    <para>6.2 Verweerder stelt zich op het standpunt dat van gelijke gevallen geen sprake is. Verweerder is voor alle voertuigen op de lijst van gelijke gevallen nagegaan wat voor een soort motor er in zit. Alle voertuigen hebben een benzine/diesel motor. </para>
+  </parablock>
+  <parablock>
+    <para>6.3 Ingevolge artikel 3, eerste lid, van de Verordening dient de fabrikant het trekgewicht per uitvoering van een voertuigtype te bepalen. Uit de definitie van voertuigtype in artikel 2, onder 1, van de Verordening, in samenhang met Bijlage II, deel B, van de Kaderrichtlijn volgt dat het soort motor (verbranding/elektrisch/hybride) een van de onderscheidende criteria is. Verweerder heeft gemotiveerd gesteld dat de voertuigen op de lijst van gelijke gevallen een benzine/diesel motor hebben, terwijl het voertuig van eiseres een elektrische motor heeft. Eiseres heeft dit niet weersproken. De rechtbank is dan ook van oordeel dat eiseres niet aannemelijk heeft gemaakt dat sprake is van gelijke gevallen. Het beroep op het gelijkheidsbeginsel slaagt niet.</para>
+  </parablock>
+  <parablock>
+    <para>7.1 Eiseres voert aan dat het zorgvuldigheidsbeginsel geschonden is. Eiseres voert daartoe verschillende redenen aan. Voor zover relevant vat de rechtbank deze als volgt samen:</para>
+  </parablock>
+  <itemizedlist mark="-">
+    <listitem>
+      <para>de verschillende werknemers van verweerder waren niet/nauwelijks bereikbaar;</para>
+    </listitem>
+    <listitem>
+      <para>de hoorzitting van 25 juni 2019 is door verweerder op de dag zelf afgezegd, onder de toezegging dat er een nieuwe datum hiervoor gepland zou worden;</para>
+    </listitem>
+    <listitem>
+      <para>zonder dat die hoorzitting heeft plaatsgevonden, heeft verweerde op 30 augustus 2019 een beslissing op bezwaar genomen (het oorspronkelijke bestreden besluit);</para>
+    </listitem>
+    <listitem>
+      <para>bij het oorspronkelijke bestreden besluit was een verslag van een telefonische hoorzitting gevoegd, die niet heeft plaatsgevonden.</para>
+    </listitem>
+    <listitem>
+      <para>pas nadat eiseres daarover contact met verweerder heeft opgenomen, is alsnog een datum voor een hoorzitting vastgesteld (3 september 2019). </para>
+    </listitem>
+    <listitem>
+      <para>deze hoorzitting is verplaats naar 13 september 2019 omdat de brief van verweerder hierover niet tijdig door eiseres is ontvangen. </para>
+    </listitem>
+    <listitem>
+      <para>het oorspronkelijke bestreden besluit is pas bij brief van 12 september 2019 ingetrokken. </para>
+    </listitem>
+    <listitem>
+      <para>de beslistermijn voor het nemen van een beslissing op het bezwaar is zonder bericht van verweerder overschreden;</para>
+    </listitem>
+    <listitem>
+      <para>het verslag van de hoorzitting van 13 september 2019 is niet correct en niet compleet. Bovendien heeft deze hoorzitting (anders dan in het verslag vermeld) op reguliere wijze en niet telefonisch plaatsgevonden.</para>
+    </listitem>
+  </itemizedlist>
+  <parablock>
+    <para>7.2 Verweerder stelt zich op het standpunt dat een en ander inderdaad niet vlekkeloos verlopen is, maar dat uiteindelijk alles is hersteld. Het oorspronkelijke bestreden besluit is ingetrokken en er heeft vervolgens alsnog een hoorzitting plaatsgevonden. Ten aanzien van de gestelde overschrijding van de beslistermijn geldt dat het eiseres toentertijd vrij heeft gestaan om verweerder daarvoor in gebreke te stellen, maar dat eiseres dat niet heeft gedaan. </para>
+  </parablock>
+  <parablock>
+    <para>7.3 De rechtbank is met verweerder van oordeel dat de door verweerder gevolgde procedure niet optimaal is, maar dat geen sprake is van strijd met het zorgvuldigheidbeginsel, die een vernietiging van het bestreden besluit tot gevolg moet hebben. Verweerder heeft terecht gewezen op het feit dat er alsnog een hoorzitting heeft plaatsgevonden, waarin eiseres haar bezwaar nader heeft kunnen toelichten. Verweerder heeft ook terecht gewezen op het feit dat het eiseres toentertijd vrij heeft gestaan om verweerder voor de overschrijding van de beslistermijn in gebreke te stellen, maar dat niet heeft gedaan (artikel 6:12 van de Awb). De rechtbank is voor wat betreft het verslag van de hoorzitting van oordeel dat op grond van artikel 7:7 van de Awb volstaan kan worden met een korte en zakelijke weergave van wat er is besproken. Eiseres heeft niet concreet gemotiveerd waarom het verslag van de hoorzitting daaraan niet voldoet. De overige stellingen van eiseres betreffen naar het oordeel van de rechtbank omstandigheden, die eiseres mogelijk als niet prettig heeft ervaren, maar die niet de beoordeling van de aanvraag van eiseres betreffen. De beroepsgrond slaagt niet.</para>
+  </parablock>
+  <para>8. Het beroep van eiseres is ongegrond. Aan bespreking van de door eiseres verzochte schadevergoeding wordt niet toegekomen (artikel 8:88 van de Awb). Er is geen aanleiding voor een proceskostenveroordeling.</para>
+  <parablock>
+    <para>
+      <emphasis role="bold">Beslissing</emphasis>
+    </para>
+  </parablock>
+  <parablock>
+    <para>De rechtbank verklaart het beroep ongegrond.</para>
+  </parablock>
+  <parablock>
+    <para>Deze uitspraak is gedaan door mr. J.H. Lange, rechter, in aanwezigheid van R.I. ten Cate, griffier. De uitspraak is gedaan op 29 september 2020. Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak, voor zover nodig, alsnog in het openbaar uitgesproken.</para>
+  </parablock>
+  <parablock>
+    <para>griffier								rechter</para>
+  </parablock>
+  <parablock>
+    <para>Afschrift verzonden aan partijen op:</para>
+  </parablock>
+  <parablock>
+    <para>
+      <emphasis role="bold">Rechtsmiddel</emphasis>
+    </para>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+  </parablock>
+  <section>
+    <title>Bijlage</title>
+    <para />
+  </section>
+  <section>
+    <title>Algemene wet bestuursrecht</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 1:3, eerste lid</emphasis>
+      </para>
+      <para>Onder besluit wordt verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling. </para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Wegenverkeerswet</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 98</emphasis>
+      </para>
+      <para>Indien in de bouw of inrichting van een voertuig dat ingevolge hoofdstuk III tot het verkeer op de weg is toegelaten, na die toelating wijziging is aangebracht, dient die wijziging, voor zover dit bij ministeriële regeling is bepaald, te zijn goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 99</emphasis>
+      </para>
+    </parablock>
+    <para>1. Goedkeuring wordt op aanvraag en tegen betaling op door de Dienst Wegverkeer vastgestelde wijze, van het daarvoor door deze dienst vastgestelde tarief door deze dienst verleend, indien de aangebrachte wijziging bij een door deze dienst verrichte keuring heeft voldaan aan de ingevolge hoofdstuk III en hoofdstuk V voor deze goedkeuring vastgestelde eisen. De keuring kan mede omvatten die delen van het voertuig waarvoor de aangebrachte wijziging gevolgen heeft.</para>
+    <para />
+    <para>2. Bij ministeriële regeling kunnen regels worden vastgesteld betreffende het door de aanvrager voor de keuring ter beschikking stellen van het voertuig, het door de aanvrager overleggen van bescheiden en verstrekken van inlichtingen ter zake van de keuring alsmede betreffende de wijze waarop de keuring wordt verricht. </para>
+    <para />
+  </section>
+  <section>
+    <title>Regeling voertuigen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 6.1, eerste lid </emphasis>
+      </para>
+    </parablock>
+    <para>1. De in paragraaf 2 vermelde wijzigingen in de constructie van gekentekende voertuigen, moeten, voor zover niet anders is bepaald, zijn goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg, waarbij moet worden voldaan aan de in paragraaf 2 ter zake van de betrokken wijziging vermelde eisen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 6.3, eerste lid, onderdeel m </emphasis>
+      </para>
+    </parablock>
+    <para>1. Bij wijziging in de constructie van een voertuig waardoor de onderstaande voertuiggegevens wijzigen en na deze wijziging niet meer overeenstemmen met het kentekenregister, moet het voertuig voldoen aan de in bijlage IV voor het betrokken voertuig opgenomen eisen, voor zover die eisen verband houden met de aangebrachte wijziging:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">[…]</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>m.	de technisch toegestane te trekken aanhangwagenmassa’s van voertuigen, met uitzondering van motorfietsen, driewielige motorrijtuigen en bromfietsen;</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">[…]</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold underline">Verordening (EU) nr. 1230/2012 van de Commissie van 12 december 2012 tot uitvoering van Verordening (EU)  nr. 661/2009 van het Europees Parlement en de Raad wat typegoedkeuringsvoorschriften voor massa’s en afmetingen van motorvoertuigen en aanhangwagens daarvan betreft en tot wijziging van Richtlijn 2007/46/EG van het Europees Parlement en de Raad </emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 2, onder 1e</emphasis>
+      </para>
+    </parablock>
+    <para>1. Voertuigtype: een verzameling voertuigen zoals gedefinieerd in bijlage II, deel B, bij de Richtlijn 12007/46/EG.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 3, eerste lid</emphasis>
+      </para>
+    </parablock>
+    <para>1. De fabrikant bepaalt voor elke uitvoering van een voertuigtype en ongeacht de staat van voltooiing van het voertuig de volgende massa’s:</para>
+    <para />
+    <para />
+    <para>a. a)	de technisch toelaatbare maximummassa in beladen toestand;</para>
+    <para />
+    <para>b)	de technisch toelaatbare maximummassa in beladen toestand van de combinatie;</para>
+    <para />
+    <para>c)	de technisch toelaatbare getrokken maximummassa;</para>
+    <para />
+    <para>d)	de technisch toelaatbare maximummassa op de assen of de technisch toelaatbare maximummassa op een groep assen;</para>
+    <para />
+    <para>e)	de technisch toelaatbare maximummassa’s op het (de) koppelpunt(en), waarbij rekening wordt gehouden met de technische kenmerken van de koppelingen die op het voertuig zijn of kunnen worden gemonteerd, naargelang het geval.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 5, eerste lid</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>1. Voor de registratie en het in het verkeer brengen van voertuigen waarvoor krachtens deze verordening typegoedkeuring is verleend, bepalen de nationale autoriteiten voor elke variant en uitvoering van het voertuigtype alle hierna genoemde massa’s die krachtens Richtlijn 96/53/EG zijn toegestaan voor nationaal of internationaal verkeer:</para>
+    <para />
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>de maximaal toelaatbare massa in beladen toestand bij registratie/in het verkeer brengen;</para>
+      </listitem>
+      <listitem>
+        <para>de maximaal toelaatbare massa op de as(sen) bij registratie/in het verkeer brengen;</para>
+      </listitem>
+      <listitem>
+        <para>de maximaal toelaatbare massa op de groep assen bij registratie/in het verkeer brengen;</para>
+      </listitem>
+      <listitem>
+        <para>e maximaal toelaatbare getrokken massa bij registratie/in het verkeer brengen;</para>
+      </listitem>
+      <listitem>
+        <para>de maximaal toelaatbare massa in beladen toestand van de combinatie bij registratie/in het verkeer brengen.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <parablock>
+      <para>De nationale autoriteiten stellen de procedure vast voor de bepaling van de in de eerste alinea bedoelde maximaal toelaatbare massa’s bij registratie/in het verkeer brengen. Zij wijzen de bevoegde autoriteit aan die belast is met de bepaling van deze massa’s en specificeren welke gegevens aan die bevoegde autoriteit moeten worden verstrekt.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 5, tweede lid</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. De overeenkomstig de in lid 1 bedoelde procedure bepaalde maximaal toelaatbare massa’s bij registratie/in het verkeer brengen mogen niet groter zijn dan de in artikel 3, lid 1, bedoelde maximummassa’s.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold underline">Richtlijn 2007/46/EG van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen, en technische eenheden die voor dergelijke voertuigen zijn bestemd (Kaderrichtlijn)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 3, onderdeel 27, </emphasis>
+      </para>
+      <para>Voor de toepassing van deze richtlijn en de in bijlage IV genoemde regelgevingen, tenzij daarin anders is bepaald, wordt verstaan onder:</para>
+    </parablock>
+    <para />
+    <para>27.	„ fabrikant”: persoon of instantie die tegenover de goedkeuringsinstantie verantwoordelijk is voor alle aspecten van de typegoedkeurings- en vergunningsprocedure en die instaat voor de overeenstemming van de productie. Het is niet noodzakelijk dat deze persoon of instantie rechtstreeks betrokken is bij alle fasen van de bouw van het voertuig, het systeem, het onderdeel of de technische eenheid dat/die aan de goedkeuringsprocedure wordt onderworpen;</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Artikel 24, vierde lid</emphasis>
+      </para>
+    </parablock>
+    <para>4.  Een aanvraag om individuele goedkeuring wordt ingediend door de fabrikant of de eigenaar van het voertuig of door een persoon die namens hen optreedt, op voorwaarde dat deze persoon in de Gemeenschap is gevestigd.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bijlage II, deel B, onder 1.</emphasis>
+      </para>
+    </parablock>
+    <para>1. Met betrekking tot categorie M1</para>
+    <para>Een ‘type’ bestaat uit voertuigen die ten minste op de volgende essentiële punten niet van elkaar verschillen:</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">[…]</emphasis>
+      </para>
+    </parablock>
+    <para>- Motor (verbranding/elektrisch/hybride)</para>
+    <bridgehead role="italic">[…]</bridgehead>
+    <para />
+  </section>
+  <section>
+    <title>Individuele goedkeuringseisen en wijze van keuren, </title>
+    <bridgehead role="bold underline">voertuig classificaties M1, M2, M3, N1, N2, N3, O1, O2, O3, O4, datum eerste toelating per 1 juli 2014, versie: januari 2015</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">44A Massa’s en afmetingen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline italic">[…]</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Individuele toelatingseis</emphasis>
+      </para>
+      <para>Voertuig moet voldoen aan bijlage I, deel A van de Verordening (EU) nr. 1230/2012.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Indien de in punt 2 van bijlage I, deel A, bedoelde gegevens ontbreken worden deze als volgt vastgesteld:</para>
+    </parablock>
+    <para />
+    <orderedlist numeration="loweralpha">
+      <listitem>
+        <para>Bij het vaststellen van b en c dienen de voorwaarden zoals vermeld in onderstaande wijze van keuren in acht te worden genomen.</para>
+      </listitem>
+      <listitem>
+        <para>Indien van fabriekswege de technische maximumlast onder elk der assen van het voertuig niet bekend is wordt dit onder de verantwoordelijkheid van de aanvrager vastgesteld door middel van wegen en berekenen. Bij weging wordt de technische maximumlast onder elk der assen vastgesteld door het voertuig in rijklare toestand per as te wegen waarbij op elke aanwezige zitplaats een massa van 75 kg is aangebracht;</para>
+      </listitem>
+      <listitem>
+        <para>Indien van fabriekswege de technisch toegestane maximum massa van het voertuig niet bekend is, wordt hiervoor de som aangehouden van de onder b. bepaalde technisch toegestane maximumlast onder elk der assen.</para>
+      </listitem>
+    </orderedlist>
+    <para />
+    <parablock>
+      <para>Daar waar verder over specificaties van de fabrikant wordt gesproken, moet worden gelezen “de fabrikant of de eigenaar van het voertuig of door de persoon die namens hen optreedt” (zie ook 2007/46 EG hoofdstuk X, artikel 24, punt 4.). De eisen m.b.t. gebruikershandleidingen zijn niet van toepassing.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">[…]</emphasis>
+      </para>
+    </parablock>
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

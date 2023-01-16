@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBMNE:2020:1056</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-27T11:39:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-20</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Midden-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Midden-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-23</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB - 20 _ 762</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Utrecht</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:1056">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBMNE:2020:1056</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-27T11:30:21</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBMNE:2020:1056 Rechtbank Midden-Nederland , 23-03-2020 / AWB - 20 _ 762</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBMNE:2020:1056:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Illegale bingo koffiehuis tijdens Ramadan - intrekking horecavergunning - beslissing tot onthouding van de vergunning voor een jaar wordt door de rechtbank vernietigd omdat deze maatregel disproportioneel is - beroep gegrond.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBMNE:2020:1056:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK MIDDEN-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Utrecht</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: UTR 20/762 en UTR 20/763</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">uitspraak van de enkelvoudige kamer en de voorzieningenrechter van 23 maart 2020 op het verzoek om de voorlopige voorziening en op het beroep in de zaak tussen</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">
+      [verzoeker/eiser] , te [woonplaats] , verzoeker/eiser</bridgehead>
+    <para>(gemachtigde: drs. C. van Oosten),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Utrecht, verweerder</bridgehead>
+    <para>(gemachtigde: mr. A. Erdogan).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 13 juni 2019 (het primaire besluit) heeft verweerder de horecavergunning van verzoeker/eiser (hierna eiser) ingetrokken en bepaald dat eiser het eerstkomende jaar niet in aanmerking komt voor een nieuwe horecavergunning.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen dit besluit bezwaar ingesteld en de voorzieningenrechter verzocht om een voorlopige voorziening te treffen. De voorzieningenrechter heeft dit verzoek op 5 september 2019 afgewezen. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 14 januari 2020 (het bestreden besluit) heeft verweerder het bezwaar van eiser ongegrond verklaard. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen het bestreden besluit beroep ingesteld. Eiser heeft daarnaast de voorzieningenrechter verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft de voorzieningenrechter en de rechtbank de op de zaak betrekking hebbende stukken toegezonden en heeft ten aanzien van twee bestuurlijke rapportages van 22 april 2016 (stuk A en B) een beroep gedaan op artikel 8:29 van de Algemene wet bestuursrecht (Awb). </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij beslissing van 4 maart 2020 heeft de rechtbank geoordeeld dat de beperkte kennisneming van processtuk A niet gerechtvaardigd is en processtuk B geen betrekking heeft op deze zaak. Hierop heeft verweerder op 6 maart 2020 processtuk A in de procedure ingebracht, waarbij de namen van de verdachten en opsporingsambtenaren zijn weggelakt.  </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 9 maart 2020. Eiser heeft zich laten vertegenwoordigen door zijn gemachtigde. Verweerder heeft zich tevens laten vertegenwoordigen door zijn gemachtigde en [A] .</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. Na afloop van de zitting is de rechtbank tot de conclusie gekomen dat nader onderzoek niet kan bijdragen aan de beoordeling van de zaak. De rechtbank doet daarom op grond van artikel 8:86 van de Algemene wet bestuursrecht (Awb) niet alleen uitspraak op het verzoek om een voorlopige voorziening, maar ook op het beroep. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Inleiding</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>2. Eiser is eigenaar van het horecabedrijf ‘ [horecabedrijf] ’ aan de [adres] in [vestigingsplaats] . </para>
+    <para />
+    <para>3. Verweerder heeft de horecavergunning van eiser ingetrokken omdat in het koffiehuis illegale bingo werd georganiseerd. Verweerder heeft zich bij deze beslissing gebaseerd op een melding waarin is gezegd dat er bij eiser al jaren tijdens de Ramadan een illegale bingo wordt georganiseerd waar veel geld in omgaat en waardoor veel gezinnen onder druk komen te staan. Daarnaast heeft verweerder zich gebaseerd op de controle die vervolgens is uitgevoerd. Tijdens deze controle werd geconstateerd dat op dat moment bingo werd gespeeld. Er is een bingo apparaat aangetroffen en een leidinggevende had bingo kaarten en verschillende coupures van 5, 10, 20 en 50 euro in zijn zak. </para>
+    <para />
+    <para>4. Illegale bingo is volgens verweerder een overtreding van artikel 1, aanhef en onder a, van de Wet op de kansspelen (Wok). Dat artikel houdt een verbod in om zonder vergunning gelegenheid te geven mede te dingen naar prijzen en premies, indien de aanwijzing der winnaars geschiedt door enige kansbepaling waarop de deelnemers in het algemeen geen overwegende invloed kunnen uitoefenen. Daarnaast is volgens verweerder gehandeld in strijd met artikel 2:21, tweede lid, van de Algemene Plaatselijke Verordening (APV), waarin staat dat het verboden is om zonder vergunning een speelgelegenheid te exploiteren of te doen exploiteren.  </para>
+    <para />
+    <para>5. Verweerder heeft aan de intrekking van de vergunning de volgende juridische bepalingen ten grondslag gelegd:</para>
+    <para>- eiser voldoet niet langer aan de voorwaarde dat hij in geen enig opzicht van slecht levensgedrag is (artikel 10, eerste lid, aanhef en onder b, in samenhang bezien met artikel 7, eerste lid, aanhef en onder b, van de Horecaverordening gemeente Utrecht 2018 (Horecaverordening));</para>
+    <para>- vanuit het horecabedrijf hebben zich feiten voorgedaan die de vrees wettigen dat het van kracht blijven van de horecavergunning een gevaar oplevert voor de openbare orde, veiligheid of zedelijkheid (artikel 10, eerste lid, aanhef en onder e, van de Horecaverordening);</para>
+    <para>- de openbare orde, veiligheid of de woon- en leefsituatie in de omgeving van het horecabedrijf wordt op ontoelaatbare wijze verstoord door de aanwezigheid van het horecabedrijf (artikel 10, eerste lid, aanhef en onder f, van de Horecaverordening). </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Openbare orde</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>6. Eiser voert aan dat er geen grondslag is om zijn vergunning in te trekken. Niet is gebleken dat de openbare orde in het geding is of wordt verstoord. Verweerder legt het begrip ‘openbare orde’ te ruim uit. Eiser organiseerde de bingo alleen tijdens de Ramadan. Bingokaarten kostten maar één euro en de opbrengst werd gebruikt voor het bekostigen van de iftarmaaltijden. Er is geen sprake van de ‘exploitatie van een speelgelegenheid’. Er is ook niet gebleken dat er klachten van de woonomgeving zijn binnengekomen, zodat niet gezegd kan worden dat de openbare orde is verstoord. </para>
+    <para />
+    <para>7. De rechtbank stelt vast dat niet in geschil is dat er een bingo heeft plaatsgevonden in de weekenden tijdens de Ramadan, in de periode van 2016 tot en met 2019. Tijdens deze bingo-avonden zijn loten verkocht en konden op geld waardeerbare prijzen worden gewonnen. Voor het organiseren van deze bingo heeft eiser geen vergunning aangevraagd. Gelet hierop is de rechtbank van oordeel dat verweerder terecht heeft gesteld dat sprake is van schending van het in artikel 1, eerste lid, aanhef en onder a, van de Wok genoemde verbod, en schending van het in artikel 2:21, tweede lid van de APV gestelde verbod. Dat eiser stelt de opbrengsten te hebben gebruikt voor iftarmaaltijden staat hier niet aan in de weg. Eiser heeft deze stelling immers niet (met stukken) onderbouwd. De rechtbank verwijst hierbij tevens naar het oordeel van de voorzieningenrechter in r.o. 8 van haar uitspraak.</para>
+    <para />
+    <para>8. De rechtbank is van oordeel dat verweerder zich in redelijkheid op het standpunt heeft kunnen stellen dat met deze illegale gokactiviteiten de openbare orde, veiligheid of de woon- en leefsituatie in de omgeving van het horecabedrijf op ontoelaatbare wijze wordt verstoord én dat het van kracht blijven van de horecavergunning een gevaar oplevert voor de openbare orde, veiligheid en zedelijkheid. Als zonder toestemming of vergunning wordt gegokt, wordt de openbare orde nadelig beïnvloed. De rechtbank verwijst hiervoor naar de uitspraak van 24 oktober 2018 van de Afdeling bestuursrechtspraak van de Raad van State.<footnote-ref linkend="_a079b960-61c1-47e5-8185-13272ecec904" />Bij illegale gokactiviteiten is geen sprake van consumentenbescherming, verslavingspreventie en correcte afdracht van middelen. Ook al gaat het maar om loten van € 1-, per stuk. Daarbij heeft verweerder van belang mogen vinden dat niet is gebleken dat eiser maatregelen heeft getroffen om te waken tegen de hiervoor geschetste problematiek. Verder kan met illegale gokactiviteiten niet worden gewaarborgd dat minderjarigen geen toegang krijgen tot de activiteiten. Daarnaast geldt in het algemeen dat illegale gokactiviteiten criminaliteit aantrekken. Uit het proces-verbaal blijkt duidelijk dat er personen bij eiser komen om mee te doen aan een illegale bingo tijdens de Ramadan. Een dergelijke stroom van bezoekers en de aanwezigheid van geld, met tevens de kans op winst of verlies, zorgt voor een gevaar voor de openbare orde en doet afbreuk aan het woon- en leefklimaat. Daarbij vindt de rechtbank van belang dat eiser heeft erkend dat hij al meerdere jaren tijdens de Ramadan deze bingo organiseert. Dat niet is gebleken van klachten uit de woonomgeving maakt niet dat verweerder zich niet op dit standpunt heeft kunnen stellen. Voldoende is immers al dat vaststaat dat deze problematiek zich kán voordoen door de illegale bingo. Niet nodig is dat het gevaar zich al geopenbaard heeft. Verweerder heeft dan ook niet een te ruime uitleg aan het begrip openbare orde gegeven. De beroepsgrond faalt. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Slecht levensgedrag</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>9. Eiser betoogt vervolgens dat verweerder ten onrechte heeft gesteld dat hij van slecht levensgedrag is. Eiser wist immers niet dat hij een vergunning nodig had om deze bingo te kunnen organiseren. Dit had hij ook niet hoeven weten omdat er veel cafés in Utrecht zijn die bingo organiseren. Daarnaast is ook niet gebleken dat eiser de bingo geheim heeft proberen te houden. Zo heeft eiser de factuur voor het bingo apparatuur gewoon in zijn boekhouding opgenomen. Volgens eiser volgt ook niet uit het proces-verbaal van de controle dat hij de bingo geheim probeerde te houden. De controleurs werden in eerste instantie niet binnen gelaten omdat het voor eiser niet duidelijk was dat zij controleurs waren. Ook stelt eiser dat de controleurs vooringenomen waren, onder meer omdat zij bij de controle meteen politie hadden klaargezet. Het feit dat de melding pas op een later moment is opgemaakt, doet eiser ook twijfelen of er wel daadwerkelijk een melding is gedaan. </para>
+    <para />
+    <para>10. De rechtbank overweegt dat verweerder de vergunning alleen al vanwege het gevaar voor, en de verstoring van de openbare orde heeft kunnen intrekken. Desondanks zal de rechtbank nog nader ingaan op de beroepsgrond over het slechte levensgedrag. Deze kwalificatie kan immers gevolgen hebben voor eiser op het moment dat hij weer een nieuwe vergunning zou aanvragen. </para>
+    <para />
+    <para>11. De rechtbank stelt voorop dat bij de beoordeling of een leidinggevende van slecht levensgedrag is in de zin van artikel 7, eerste lid, aanhef en onder b van de Horecaverordening, op grond van vaste rechtspraak geen beperkingen gelden ten aanzien van de feiten en omstandigheden die bij de beoordeling van het levensgedrag mogen worden betrokken.<footnote-ref linkend="_c054b04b-0447-477a-8677-31e18cafd8bf" /> Verweerder heeft – kort samengevat – gesteld dat eiser van slecht levensgedrag is omdat er in zijn bedrijf illegale bingo werd georganiseerd en hij dit niet heeft tegengehouden. De rechtbank is van oordeel dat verweerder zich op dit standpunt heeft mogen stellen. Eiser is als eigenaar verantwoordelijk voor de gang van zaken in het horecabedrijf en was er in dit geval ook van op de hoogte dat er bingo werd georganiseerd in zijn koffiehuis. Van hem mag worden verwacht dat hij er streng op toeziet dat in zijn pand geen illegale (gok)activiteiten plaatsvinden. Dat eiser, naar gesteld, er niet van op de hoogte was dat een vergunning nodig was, maakt dit niet anders. Hij had immers wel kunnen weten dat dit nodig was. Het had op zijn weg gelegen om hierover navraag te doen bij de instanties, eventueel met hulp van anderen. Dat er andere cafés in Utrecht zijn die ook bingo organiseren maakt dit niet anders, omdat hieruit op zichzelf niet blijkt of zij al dan niet een vergunning hebben aangevraagd. Eiser had moeten nagaan aan welke voorwaarden er voldaan moest worden in zijn specifieke situatie. Bovendien heeft verweerder naar het oordeel van de rechtbank uit de gang van zaken bij de controle mogen concluderen dat eiser op zijn minst twijfel had of de bingo wel was toegestaan. Verweerder heeft uit het proces-verbaal van de controle af mogen leiden dat eiser de bingo probeerde te verbergen, omdat in het proces-verbaal staat dat de controleurs in eerste instantie niet binnen werden gelaten. Eiser heeft twijfels geuit bij de inhoud van dit proces-verbaal. De rechtbank overweegt hierover dat in beginsel van de juistheid van een ambtsedig proces-verbaal mag worden uitgegaan.<footnote-ref linkend="_2ee1a100-999b-4fdc-ba1e-2fcbc28db1b2" /> In wat eiser hierover naar voren heeft gebracht ziet de rechtbank geen reden om aan de juistheid van het proces-verbaal te twijfelen. De stelling van eiser dat zij, bij gebrek aan legitimatie, niet wisten wie de controleurs waren en dat ze daarom niet binnen werden gelaten volgt de rechtbank niet. Uit het proces-verbaal blijkt namelijk dat de controleurs zich snel hebben gelegitimeerd en dat zij hierna ook in eerste instantie de rokersruimte waar de bingo werd georganiseerd niet binnen kwamen. Dit getuigt niet van een meewerkende houding bij eiser, maar meer van een houding waarbij geprobeerd wordt iets te verbergen. </para>
+    <para />
+    <para>12. De rechtbank ziet voorts geen aanknopingspunten voor het standpunt van eiser dat verweerder vooringenomen was tijdens de controle. De controleurs hebben de controle naar aanleiding van een melding uitgevoerd. Ter zitting heeft verweerder toegelicht dat het in zo’n geval niet ongebruikelijk is dat er voor de zekerheid politie wordt klaargezet. De rechtbank ziet geen aanleiding om aan deze uitleg te twijfelen en evenmin aan de melding die volgens verweerder voorafgaand aan de controle is gedaan. Het enkele feit dat de melding pas op een later moment is vastgelegd in een proces-verbaal is daarvoor onvoldoende, omdat het niet ongebruikelijk is om zo’n melding pas later vast te leggen. De rechtbank overweegt tot slot nog dat verweerder zich terecht op het standpunt heeft gesteld dat de eis van goed levensgedrag niet in strijd is met de Dienstenrichtlijn.<footnote-ref linkend="_9c89ff72-57c5-4200-9b2b-cc3237614749" /> Hiertoe verwijst de rechtbank naar rechtspraak van de ABRvS.<footnote-ref linkend="_44fdf6fd-c7f6-44bc-b13b-10a3a36b1f8f" /></para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Tussenconclusie</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>13. De rechtbank is van oordeel dat verweerder zich op het standpunt heeft mogen stellen dat er gevaar was voor en verstoring van de openbare orde en dat er bij eiser sprake was van slecht levensgedrag. Omdat verweerder zich op dit standpunt heeft gesteld, was hij volgens artikel 10 van de Horecaverordening verplicht om de vergunning van eiser in te trekken. Voor zover het beroep gericht is tegen de intrekking, slaagt deze daarom niet. De rechtbank zal nu bespreken of het beroep gericht tegen het besluit dat verweerder voor deze locatie een jaar lang geen vergunning zal verlenen slaagt. </para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">Het onthouden van een nieuwe vergunning voor een jaar</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para>14. Eiser voert aan dat 12 maanden niet meer in aanmerking komen voor een nieuwe vergunning, gelet op het verwijt dat eiser wordt gemaakt, een te zware maatregel is. De maatregel lijkt op deze manier vooral punitief bedoeld te zijn en niet doelmatig. Volgens eiser heeft verweerder onvoldoende gemotiveerd waarom een periode van 12 maanden nodig zou zijn. </para>
+    <para />
+    <para>15. Verweerder heeft als doel van de maatregel gesteld dat op deze manier de bekendheid van dit horecabedrijf als goklocatie én de gang naar het bedrijf wordt doorbroken. Hiermee wordt het gevaar voor de openbare orde weggenomen. Voor wat betreft de periode van 12 maanden heeft verweerder zich aangesloten bij zijn vaste gedragslijn waarbij aansluiting wordt gezocht bij het beleid bij sluitingen van panden uit de Handhavingsstrategie Horeca. Volgens de Handhavingsstrategie wordt een pand voor 6 maanden gesloten als de eigenaar geen verwijt kan worden gemaakt, en voor 12 maanden als de eigenaar wel een verwijt kan worden gemaakt. Omdat eiser volgens verweerder een verwijt kan worden gemaakt, is voor de periode van een jaar gekozen. </para>
+    <para />
+    <para>16. De rechtbank is van oordeel dat verweerder terecht heeft gesteld dat eiser wel een verwijt kan worden gemaakt. Zoals hiervoor al is overwogen, is eiser als eigenaar immers verantwoordelijk voor de gang van zaken in zijn horecabedrijf en wist hij dat er bingo georganiseerd werd. Hij had moeten weten dat dit niet was toegestaan, zonder vergunning. Omdat eiser desondanks niet heeft ingegrepen, kan hem een verwijt worden gemaakt. Verweerder heeft in die zin zijn vaste gedragslijn juist toegepast. </para>
+    <para />
+    <para>17. Echter, ook als er sprake is van toepassing van een vaste gedragslijn moet de maatregel van verweerder nog wel proportioneel zijn. De maatregel moet geschikt zijn voor het dienen van een gerechtvaardigd doel en ook in verhouding staan tot dit doel. Verweerder is volgens artikel 9, vierde lid van de Horecaverordening ook niet verplicht om deze maatregel op te leggen. De voorzieningenrechter heeft in de uitspraak van 5 september 2019 overwogen dat verweerder onvoldoende had gemotiveerd dat de onthouding van de vergunning voor de duur van een jaar nodig was om de door verweerder gestelde doelen te realiseren. De voorzieningenrechter achtte de motivering niet voldoende omdat onvoldoende aannemelijk was gemaakt dat er gedurende het hele jaar een gang naar verzoekers pand is vanwege de mogelijkheid tot illegaal gokken en dat het pand als zodanig bekend staat. Immers was slechts aannemelijk dat de bingo tijdens de Ramadan werd georganiseerd. De voorzieningenrechter gaf verweerder dan ook de opdracht om de keuze voor deze maatregel beter te motiveren. </para>
+    <para />
+    <para>18. In de beslissing op bezwaar en ook ter zitting heeft verweerder de keuze voor deze maatregel nader gemotiveerd. Op zitting heeft verweerder gesteld dat het aannemelijk is dat de bingo niet alleen tijdens de Ramadan plaatsvond, maar ook daarbuiten. Ter onderbouwing heeft verweerder gewezen op een politierapportage uit 2016 die kort voor de zitting is overgelegd. Uit deze rapportage is volgens verweerder af te leiden dat eiser vanaf 2016 al betrokken is bij illegale gokpraktijken. Zijn bedrijf wordt in dit rapport namelijk genoemd als pand waar maandelijks geld wordt opgehaald door een criminele organisatie die zich bezig houdt met illegaal gokken. </para>
+    <para>De rechtbank is van oordeel dat uit deze rapportage niet valt af te leiden dat eiser in de periode van 2016 tot en met 2019 ook buiten de Ramadan bingo organiseerde. Hierbij acht de rechtbank van belang dat het rapport geen betrekking heeft op bingo, maar op goklocaties met computerapparatuur en gokzuilen én dat het gaat het om een rapportage uit 2016, die op zichzelf niet direct iets zegt over de periode daarna. Ter zitting heeft verweerder erkend dat er geen concrete aanwijzingen zijn dat er bijvoorbeeld in 2018 en 2019 ook buiten de periode van de Ramadan illegaal gegokt werd in het koffiehuis van eiser. Dat niet uitgesloten is dat de bingo ook buiten de Ramadan plaatsvond, zoals verweerder op zitting heeft gesteld, vindt de rechtbank onvoldoende om ervan uit te kunnen gaan dat dit ook daadwerkelijk het geval is en om een dermate ingrijpende maatregel op te leggen. De rechtbank gaat dan ook uit van de situatie dat de bingo alleen tijdens de Ramadan werd georganiseerd in de jaren 2016 tot en met 2019. Dit strookt ook met de verklaring van eiser en met de anonieme melding. </para>
+    <para />
+    <para>19. De rechtbank is van oordeel dat onder deze omstandigheden de maatregel die verweerder heeft opgelegd disproportioneel is, omdat het niet in verhouding staat tot het met de maatregel gediende doel. Daarvoor is voor de rechtbank doorslaggevend dat de bingo slechts tijdens een duidelijk afgebakende periode, de Ramadan, plaatsvindt, terwijl met de maatregel een veel langere periode wordt getroffen. Het argument van verweerder dat hij met de maatregel de bekendheid en de loop eruit wil halen kan geen stand houden. Niet is immers gebleken dat dit in de periode buiten de Ramadan nodig is. De maatregel zou buiten de periode van de Ramadan daarom ook geen doel dienen. De rechtbank ziet niet in dat verweerder niet op andere, minder vergaande, manieren kan bewerkstelligen dat het gevaar voor de openbare orde wordt weggenomen en de loop en bekendheid uit het pand wordt gehaald. Verweerder zou dit kunnen doen door specifieke voorwaarden te stellen bij een eventueel nieuw te verlenen vergunning. Bijvoorbeeld zou bepaald kunnen worden dat het bedrijf tijdens de eerstvolgende Ramadan (op bepaalde tijdstippen) gesloten is. De nu opgelegde maatregel tot het op voorhand onthouden van een vergunning aan eiser, met welke lengte dan ook, is in deze specifieke situatie echter geen geschikt middel om het door verweerder beoogde doel te dienen. </para>
+    <bridgehead role="italic">Conclusie </bridgehead>
+    <para />
+    <para>20. Gelet op het voorgaande is het beroep gegrond. De rechtbank vernietigt het besluit voor zover het ziet op de beslissing dat eiser een jaar lang niet in aanmerking komt voor een nieuwe vergunning. Dit betekent dat eiser een nieuwe aanvraag voor een vergunning kan doen en verweerder die aanvraag moet toetsen. Dit betekent niet dat eiser automatisch een vergunning zal krijgen. Niet uitgesloten is bijvoorbeeld dat het feit dat verweerder eiser heeft aangemerkt als een persoon met slecht levensgedrag in het nadeel van eiser uitvalt. Dit valt echter buiten de uitspraak van de rechtbank. </para>
+    <para>De rechtbank zal verweerder niet opdragen om een nieuw besluit te nemen en zal ook niet zelf in de zaak voorzien. Een nieuw besluit van verweerder is namelijk afhankelijk van het feit of eiser een nieuwe aanvraag voor een vergunning indient. Er valt dan ook geen vervangend besluit te nemen. </para>
+    <para />
+    <para>21. Vanwege de gegrondheid van het beroep, veroordeelt de rechtbank verweerder in de door eiser gemaakte proceskosten. Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050,- (1 punt voor het indien van het beroepschrift, 1 punt voor het verschijnen ter zitting, met een waarde per punt van € 525,- en een wegingsfactor 1). Daarnaast bepaalt de rechtbank dat verweerder het griffierecht aan eiser moet vergoeden.  </para>
+    <para />
+    <para>22. Omdat het besluit voor zover het ziet op de intrekking van de vergunning wel in stand kan blijven, wijst de voorzieningenrechter de voorlopige voorziening van eiser af. </para>
+    <para />
+    <para>23. De voorzieningenrechter ziet gelet op hetgeen in de hoofdzaak is overwogen aanleiding voor een veroordeling in de proceskosten. De voorzieningenrechter stelt de kosten op grond van het Bpb op € 525,- (1 punt voor het verzoekschrift, met een waarde per punt van € 525,- en een wegingsfactor 1). Ook dient verweerder het griffierecht aan eiser te vergoeden. </para>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: </para>
+    </parablock>
+    <parablock>
+      <para> verklaart het beroep gegrond;</para>
+      <para> vernietigt het bestreden besluit voorzover het ziet op de beslissing dat verweerder voor deze locatie een jaar lang geen vergunning zal verlenen;</para>
+      <para> veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1.050,-; </para>
+      <para> draagt verweerder op het betaalde griffierecht van € 178,- aan eiser te vergoeden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <parablock>
+      <para> wijst het verzoek om een voorlopige voorziening af;</para>
+      <para> veroordeelt verweerder in de proceskosten tot een bedrag van € 525,-;</para>
+      <para> draagt verweerder op het betaalde griffierecht van € 178,- aan eiser te vergoeden.  </para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. M.C. Verra, rechter, in aanwezigheid van mr. L. Ruizendaal-van der Veen, griffier. De beslissing is in het openbaar uitgesproken op 23 maart 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="italic">(de rechter is niet in de gelegenheid deze uitspraak mede te ondertekenen)</emphasis>
+      </para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>griffier							rechter</para>
+    </parablock>
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden aan partijen op: </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.</para>
+    <para />
+    <para />
+  </section>
+  <footnote id="_a079b960-61c1-47e5-8185-13272ecec904" label="1">
+    <para> ABRvS 24 oktober 2018 ECLI:NL:RVS:2018:3439. </para>
+  </footnote>
+  <footnote id="_c054b04b-0447-477a-8677-31e18cafd8bf" label="2">
+    <para> Zie bijvoorbeeld Afdeling Bestuursrechtspraak van de Raad van State 23 september 2009 ECLI:NL:RVS:2009:BJ8293. </para>
+  </footnote>
+  <footnote id="_2ee1a100-999b-4fdc-ba1e-2fcbc28db1b2" label="3">
+    <para> ABRvS 17 april 2013 ECLI:NL:RVS:2013:BZ7701. </para>
+  </footnote>
+  <footnote id="_9c89ff72-57c5-4200-9b2b-cc3237614749" label="4">
+    <para> Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt. </para>
+  </footnote>
+  <footnote id="_44fdf6fd-c7f6-44bc-b13b-10a3a36b1f8f" label="5">
+    <para> ABRvS 18 december 2019 ECLI:NL:RVS:2019:4258. </para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

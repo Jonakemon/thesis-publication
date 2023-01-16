@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:2015</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-23T12:33:55</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-26</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-03-27</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">AWB- 20_1709</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#voorlopigeVoorziening">Voorlopige voorziening</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht_bestuursprocesrecht">Bestuursrecht; Bestuursprocesrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:2015">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:2015</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-03-27T09:27:37</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-03-27</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:2015 Rechtbank Gelderland , 27-03-2020 / AWB- 20_1709</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:2015:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>13b Opiumwet; de naar aanleiding van het corona virus getroffen van rijkswege getroffen maatregelen in combinatie met de reeds slechte gezondheid van een van de verzoekers is een bijzondere omstandigheid die verweerder bij de beoordeling dient te betrekken; verzoek om voorlopige voorziening toegewezen</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:2015:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para>Zittingsplaats Arnhem</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummer: AWB 20/1709</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de voorzieningenrechter van 27 maart 2020</bridgehead>
+    <para />
+    <parablock>
+      <para>op het verzoek om voorlopige voorziening in de zaak tussen</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">
+          [verzoeker] </emphasis>(verzoeker 1)<emphasis role="bold">, [verzoekster 2] </emphasis>(verzoekster 2) <emphasis role="bold">en [verzoeker 3] </emphasis>(verzoeker 3), te [woonplaats] , verzoekers</para>
+      <para>(gemachtigde: mr. R. Laatsman),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">de burgemeester van de gemeente Heumen, verweerder</bridgehead>
+    <para>(gemachtigde: mr. J.W.M. Hagelaars).</para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 maart 2020 heeft de burgemeester besloten het erf met de opstallen, inclusief de woningen, op het perceel [locatie] en [locatie] in [woonplaats] (het perceel) voor de duur van 1 jaar te sluiten.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verzoekers hebben tegen dit besluit bezwaar gemaakt. Zij hebben de voorzieningenrechter tevens verzocht om een voorlopige voorziening te treffen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek op de zitting heeft telefonisch plaatsgevonden op 24 maart 2020. Verzoeker 3 was aanwezig, bijgestaan door de gemachtigde. Verweerder is vertegenwoordigd door zijn gemachtigde en N. Arts. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Waarover gaat deze uitspraak?</emphasis>
+      </para>
+    </parablock>
+    <para>1. In deze uitspraak beslist de voorzieningenrechter over het verzoek om schorsing van het besluit tot sluiting van het erf met de opstallen, waaronder twee woningen, van verzoekers op het perceel. De voorzieningenrechter beoordeelt voor de vraag of hij schorst of het bezwaar een redelijke kans van slagen heeft. Daarbij beantwoordt hij aan de hand van de aangevoerde gronden de vraag of de burgemeester gelet op de aangetroffen hoeveelheid verdovende middelen bevoegd is om sluiting van het perceel (de woning en overige opstallen) te gelasten, zo ja, of hij bij afweging van de betrokken belangen in redelijkheid tot sluiting van het perceel mag overgaan en zo ja, of de begunstigingstermijn zorgvuldig is. De voorzieningenrechter oordeelt in deze uitspraak dat de burgemeester bevoegd is tot sluiting over te gaan maar dat hij ten aanzien van de woning met [locatie] onvoldoende rekening heeft gehouden met het corona virus en de naar aanleiding daarvan getroffen maatregelen door de rijksoverheid in combinatie met de reeds slechte gezondheid van verzoeker 1. Dat betekent dat de voorzieningenrechter het besluit voor zover dat ziet op de woning met [locatie] schorst. Dit legt de voorzieningenrechter hieronder uit. <?linebreak?>Het oordeel van de voorzieningenrechter heeft een voorlopig karakter en bindt de rechtbank in een (eventueel) bodemgeding niet.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Wat is de aanleiding voor de sluiting?</emphasis>
+      </para>
+    </parablock>
+    <para>2. Op het perceel, dat volgens mededeling van verzoekers eigendom is van verzoekster 2, bevinden zich de woning met [locatie] , waar verzoeker 1 en verzoekster 2 wonen, de woning met nummer [locatie] , waar verzoeker 3 woont, een loods en andere opstallen. Op dinsdag 17 december 2019 is tijdens een integrale controle geconstateerd dat in de loods op het perceel een productielocatie van synthetische drugs aanwezig was. Deze locatie was niet meer in werking en deels ontmanteld. Tevens werd bij die controle een hennepkwekerij aangetroffen, alsmede in het gastenverblijf op het perceel 126 kilogram illegaal vuurwerk. </para>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <para>In de bestuurlijke rapportage van 22 januari 2020, die de politie in verband met de aangetroffen situatie opmaakte, heeft de politie de situatie ter plaatse omschreven. De loods was te betreden via een toegangsdeur aan de rechtervoorzijde. Links van de toegangsdeur bevond zich een schuifdeur voorzien van een hangslot. De loods was verdeeld in diverse ruimtes. De toegangsdeur kwam uit op een gang die toegang gaf tot enkele ruimtes gelegen aan de rechterzijde van de loods. Een aantal van deze ruimtes was in gebruik als hennepkwekerij.<?linebreak?>Via de genoemde gang werd ook toegang verkregen tot de grote ruimte gelegen achter de schuifdeur. In deze grote ruimte aan de linkerkant van de loods waren een aantal stallen aanwezig. Deze ruimtes werden gebruikt voor opslag van diverse goederen. Aan de achterzijde van deze grote ruimte was een houten wand aangebracht voorzien van platen isolatiemateriaal. In deze wand bevond zich een grote deur, voorzien van een zwenkwiel. Deze deur gaf toegang tot een ruimte die zich uitstrekte over de gehele breedte van de loods. Bij het betreden van deze ruimte rook de politie direct de typische en kenmerkende geur van amfetamineachtige stoffen. Aan de inrichting van deze ruimte zag de politie dat deze in gebruik is geweest voor het vervaardigen c.q. verwerken van synthetische drugs. </para>
+      <para />
+      <paragroup>
+        <nr>2.1.1.</nr>
+        <parablock>
+          <para>Deze productieruimte was verdeeld in een aantal ruimtes, namelijk: </para>
+          <para>Ruimte L, de productie-/labruimte </para>
+          <para>Ruimte H, verbindingshal naar ruimtes S en G </para>
+          <para>Ruimet S, scheidingsruimte </para>
+          <para>Ruimte G, gaswasser ruimte </para>
+          <para>De voorlopige interpretatie door de Landelijke Faciliteit Ondersteuning Ontmantelen (LFO) is dat de aangetroffen goederen en chemicaliën typische goederen en chemicaliën zijn welke aangetroffen worden op locaties waar synthetische drugs vervaardigd of bewerkt worden. Gezien de aangetroffen productiemiddelen (reactie en destillatieketels), verpakkingen met chemicaliën (MAPA, fosforzuur, BMK, formamide, mierenzuur, caustic soda (natriumhydroxide/loog), scheitrechters/maatbekers met kleine hoeveelheden amfetaminebase (olie)-indicatief), was het achterste deel van deze loods zeer waarschijnlijk ingericht geweest en gebruikt voor het op zeer grote schaal (2x reactieketels van rond de 2000 liter) vervaardigen c.q. bewerken van BenzylMethylKeton (BMK) vanuit een pre-precursor (MAPA) met behulp van een sterk zuur (fosforzuur), waarna de ter plaatse vervaardigde BMK middels de Leuckart methode werd omgezet in ruwe amfetamine base(olie) met behulp van formamide, mierenzuur en natriumhydroxide. De ruwe amfetaminebase werd vervolgens met de 2 stoomdestillatieopstellingen gedestilleerd (gezuiverd). </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.1.2.</nr>
+        <parablock>
+          <para>Er zijn - zo is vermeld in de bestuurlijke rapportage - twee geruimde kweekruimtes aangetroffen in de schuur op het perceel. De kweekruimte was afgesloten door een dichte deur. Deze deur is geforceerd om in kweekruimtes te komen. In kweekruimte A stond een omkasting welke was gevuld met potgrond gemixt met perlietkorrels. Er staken nog afgeknipte stengels uit de grond. In totaal hingen in kweekruimte A, 6 assimilatielampen. Alle hennepplanten werden door middel van een irrigatiesysteem van een vloeistof voorzien. De luchtverversing en luchtafvoer werd gerégeld door een aan- en afzuiginstallatie. In de ruimte lagen 7 zwaar verkleurde droogrekken en een vervuilde cannacutter. De cannacutter lag op een tafel. Op diezelfde tafel lag een plastic zak met 380 gram hennepgruis. Bij de deur links in de hoek lagen veel hennepresten op de grond. Daar stond ook een rode emmer met daarin afgeknipte hennep en een knipschaar. In totaal konden er in kweekruimte A 97 planten staan. </para>
+          <para>Kweekruimte B was te bereiken door de deur links in de hoek van kweekruimte A. Ook Kweekruimte B betrof een geruimde kwekerij. Kweekruimte B is in totaal 20 m2. Hiervan is 13 m2 gebruikt als daadwerkelijke kweekruimte. </para>
+          <para>In kweekruimte B stond een omkasting met potgrond gemixt met perlietkorrels. Op de potgrond lag nog een hoopje afgeknipte stengels met stekblokjes. Ook waren de volgende goederen aanwezig: Assimilatie lampen, een groene waterton, een deel van een cannacutter, netten, transformatoren, koolstoffilters, luchtzuigers, temperatuur­ventilatieregelaar en een slakkenhuis. </para>
+          <para>In de kweekruimte zat een gat in de muur waar de afzuiging op aan was gesloten. Aan de buitenzijde van het pand was deze zichtbaar. De muren waren beplakt met isolatiefolie. In totaal hingen er in de kweekruimte 7 assimilatielampen. Alle hennepplanten werden door middel van een irrigatiesysteem van een vloeistof voorzien. In de kweekruimte bevonden zich 2 koolstoffilters. De luchtverversing en luchtafvoer werd geregeld door een aan- en afzuiginstallatie. In totaal konden in deze kweekruimte 205 hennepplanten worden geteeld. </para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>2.1.3.</nr>
+        <para>De bestuurlijke rapportage vermeldt verder dat in de woning met [locatie] bleek dat dat de ijkschroefgleuven op de elektriciteitsmeter waren beschadigd. (…) Dit duidt op het terugdraaien van de meterstand. (…) Door de manipulatie werd de afgenomen elektriciteit ten behoeve van de hennepplantage en het huishoudelijk verbruik niet via de elektriciteitsmeter geregistreerd. </para>
+        <para />
+      </paragroup>
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <para>Verweerder ziet hierin aanleiding het gehele perceel, inclusief de opstallen, op grond van artikel 13b van de Opiumwet te sluiten voor de duur van één jaar, ingaande 23 maart 2020.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Waarom is verzoeker het hier niet mee eens?</emphasis>
+        </para>
+        <para>3.	Verzoekers betogen dat het amfetamine laboratorium slechts was gevestigd in de loods. De loods is inmiddels leeg. Sluiting van het hele perceel dient daarom geen doel. Er was bovendien geen loop naar het perceel. Het laboratorium en de hennepkwekerij waren bovendien bij ontdekking ook niet in werking. Sluiting is ook disproportioneel. De belangen van verzoekers zijn groot. Zij hebben geen alternatieve huisvesting, zeker niet voor een jaar. Zij waren niet betrokken bij het laboratorium en de hennepkwekerij en zijn dan ook te kwalificeren als onschuldige medebewoners. Op de zitting hebben zij de naam van de huurder genoemd. Verweerder had hen daarom gelet op het bij verweerder geldende beleid alternatieve huisvesting aan moeten bieden.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>3.1.</nr>
+      <para>Zo er al een bevoegdheid is tot sluiting, dan is sluiting van het gehele perceel onevenredig in verhouding tot het met de beleidsregel te dienen doel. Verweerder had daarom van zijn beleidsregel moeten afwijken. Verzoeker 1 heeft een ernstige ziekte in een vergevorderd stadium en is vatbaar voor het corona virus. Sluiting van het gehele perceel is bovendien in strijd met het recht op wonen, het recht op family life en het recht op eigendom.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Bestaat er een bevoegdheid tot sluiting van het perceel?</emphasis>
+        </para>
+      </parablock>
+      <para>4. Op grond van artikel 13b, eerste lid, van de Opiumwet is de burgemeester bevoegd tot oplegging van een last onder bestuursdwang:<?linebreak?>a. indien in een woning of lokaal of op een daarbij behorend erf een middel als bedoeld in lijst I of II dan wel aangewezen krachtens artikel 3a, vijfde lid, wordt verkocht, afgeleverd of verstrekt dan wel daartoe aanwezig is;</para>
+      <para>b. een voorwerp of stof als bedoeld in artikel 10a, eerste lid, onder 3°, of artikel 11a voorhanden is.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>Ter zitting heeft verweerder verduidelijkt dat de grondslag voor de sluiting is het onder sub b genoemde, derhalve dat verzoekers voorwerpen, vervoermiddelen, stoffen, gelden of andere betaalmiddelen voorhanden hebben, waarvan zij weten of ernstige reden hebben om te vermoeden dat zij bestemd zijn tot het telen, bereiden, bewerken, verwerken,  verkopen, afleveren, verstrekken of vervoeren van een middel als bedoeld in lijst I. Amfetamine staat op lijst I.  </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Ter zitting is van de zijde van verzoekers bevestigd dat hetgeen is aangetroffen valt onder het bepaalde in artikel 10a, eerste lid, onder 3°, van de Opiumwet. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <para>De burgemeester is dus bevoegd om tot oplegging van een last onder bestuursdwang over te gaan. De voorzieningenrechter is van oordeel dat verweerder bevoegd was sluiting van het gehele perceel te gelasten. De ruimtes in de loods die waren ingericht ten behoeve van het laboratorium en de hennepkwekerij zijn alleen via de voorzijde van de loods bereikbaar en in de woning met [locatie] is elektriciteitsfraude gepleegd ten behoeve van de hennepkwekerij. Op de zitting heeft verzoeker gesteld dat van elektriciteitsfraude geen sprake was en dat de elektriciteitsmaatschappij kort voor de ontdekking van het laboratorium en de kwekerij nog een controle heeft uitgevoerd aan de meterkast en dat er toen geen onregelmatigheden waren geconstateerd. De voorzieningenrechter stelt vast dat verzoeker dit niet nader heeft onderbouwd. Daarom is er nu geen reden voor het oordeel dat de burgemeester niet uit mocht gaan van de bestuurlijke rapportage van de politie. Wel zal dit punt in de bezwaarfase nader onderzocht moeten worden. Dit geldt eveneens voor het betoog van verzoekers dat de loods was verhuurd.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Past de sluiting van de woning in het beleid van de burgemeester?</emphasis>
+        </para>
+        <para>5.	De bevoegdheid tot toepassing van artikel 13b, eerste lid, van de Opiumwet biedt de burgemeester beleidsruimte. Dit betekent dat het aan de burgemeester is om de betrokken belangen af te wegen bij zijn besluit om van de bevoegdheid gebruik te maken. Het is aan de bestuursrechter in een (eventueel) bodemgeding om te toetsen of de burgemeester na afweging van de betrokken belangen in redelijkheid daartoe heeft kunnen besluiten.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.1</nr>
+      <para>De burgemeester heeft beleid vastgesteld.<footnote-ref linkend="_abf0a04e-03f7-471f-9676-5629f08e0496" /> Indien er sprake is van voorhanden zijn van productiemiddelen voor harddrugs, zoals bedoeld in artikel 10a, eerste lid, onder 3°, van de Opiumwet, schrijft het beleid ten behoeve van lokalen bij de eerste constatering sluiting voor één jaar voor. Het aantreffen van een hennepkwekerij met 200 of meer, maar minder dan 500 planten, leidt tot sluiting voor een periode van zes maanden. Dit beleid past binnen de grenzen van het kader waarbij volgens vaste rechtspraak het beleid niet onredelijk wordt geacht. </para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>5.2.</nr>
+      <para>De sluiting van het perceel voor de duur van een jaar past binnen dit beleid.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Had de burgemeester reden moeten zien om van dit beleid af te wijken?</emphasis>
+        </para>
+        <para>6.	De burgemeester moet vervolgens alle omstandigheden van het geval betrekken in zijn beoordeling en bezien of deze op zichzelf dan wel tezamen met andere omstandigheden, moeten worden aangemerkt als bijzondere omstandigheden die maken dat het handelen overeenkomstig de beleidsregel gevolgen heeft die onevenredig zijn in verhouding tot de met de beleidsregels te dienen doelen.<footnote-ref linkend="_a5b1e396-37b1-4fc0-819d-5aee0e351581" /> Dat staat in artikel 4:84 van de Algemene wet bestuursrecht (Awb). Aan de voor bewoners mogelijk zeer ingrijpende gevolgen van de toepassing van artikel 13b, eerste lid, van de Opiumwet op een woning - die raakt aan het in artikel 8 van het EVRM neergelegde recht – dient een zwaar gewicht te worden toegekend bij de beoordeling van de vraag of de burgemeester in redelijkheid van de in die bepaling neergelegde bevoegdheid gebruik heeft kunnen maken en, zo ja, of de wijze waarop de bevoegdheid is toegepast evenredig is.<footnote-ref linkend="_5f28b98c-166f-4b3c-8c7e-c98514a4abf2" /> De Afdeling bestuursrechtspraak van de Raad van State (Afdeling) is in haar uitspraak van 28 augustus 2019<footnote-ref linkend="_f6b30b41-a89f-46d3-96bd-ac037ee2377a" /> nader ingegaan op het toetsingskader dat zij hanteert om te toetsen of de burgemeester na afweging van de betrokken belangen in redelijkheid heeft kunnen besluiten om deze bevoegdheid te gebruiken. De voorzieningenrechter hanteert hier dit toetsingskader en beantwoordt de vraag bevestigend: de burgemeester had reden moeten zien om van zijn beleid af te wijken. Dit legt de voorzieningenrechter in 6.1 en 6.2 uit.</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is sluiting van het perceel noodzakelijk?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.1.</nr>
+      <para>In de eerste plaats wordt aan de hand van de ernst en omvang van de overtreding beoordeeld in hoeverre sluiting van het perceel noodzakelijk is ter bescherming van het woon- en leefklimaat en het herstel van de openbare orde. Op het perceel van verzoekers is een (ontmanteld) amfetamine laboratorium aangetroffen, waarbij grondstoffen en apparatuur zijn aangetroffen. Daarbij heeft verweerder mogen betrekken dat sprake was van faciliteiten ten behoeve van het produceren van drugs. Verweerder heeft de situatie daarom als ernstig en grootschalig mogen aanmerken. Verweerder heeft sluiting van het perceel daarom noodzakelijk kunnen achten ter bescherming van het woon- en leefklimaat en het herstel van de openbare orde.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="italic">Is sluiting van het perceel evenredig?</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>6.2</nr>
+      <para>Niet alleen moet sluiting van het perceel noodzakelijk zijn, de sluiting moet ook evenredig moet zijn. Voor de beoordeling van de evenredigheid is hier van belang wat de gevolgen van de sluiting zijn voor verzoekers.</para>
+      <para />
+      <paragroup>
+        <nr>6.2.1</nr>
+        <para>Inherent aan een sluiting van een woning is dat bewoners de woning moeten verlaten. Dit is op zichzelf dan ook geen bijzondere omstandigheid. Dat wordt anders als de betrokkene een bijzondere binding heeft met de woning, bijvoorbeeld om medische redenen. Daarbij gaat het niet om een binding met de omgeving van de woning, maar specifiek om een binding met de woning zelf. Daarbij is van belang in hoeverre de betrokkene zelf geschikte vervangende woonruimte kan regelen, maar is ook een rol weggelegd voor de burgemeester. Gelet op de vereiste evenredigheid van de sluiting kan het passend zijn dat de burgemeester informeert naar de mogelijkheden van vervangende huisvesting. Dit geldt ook in geval sprake is van (een vermoeden van) betrokkenheid bij de productie van harddrugs.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.2.2.</nr>
+        <para>Verzoeker 2 heeft een ernstige ziekte. Uit een brief van zijn huisarts van 24 maart 2020 blijkt dat hij in een slechte conditie verkeert en kwetsbaar is voor infecties, waaronder het corona virus. Het is belangrijk dat hij zoveel mogelijk contact met andere mensen vermijdt, zo stelt de huisarts. Verweerder heeft in deze brief en de van overheidswege getroffen maatregelen geen aanleiding gezien de sluiting op te schorten. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.2.3.</nr>
+        <para>De voorzieningenrechter is enerzijds van oordeel dat onvoldoende is aangetoond dat <?linebreak?>verzoeker 1 in verband met zijn gezondheid een bijzondere binding heeft met zijn woning. De voorzieningenrechter is echter anderzijds ook van oordeel dat het corona virus en de naar aanleiding daarvan getroffen maatregelen door de rijksoverheid in combinatie met de reeds slechte gezondheid van verzoeker 1 een bijzondere omstandigheid is die verweerder bij de beoordeling dient te betrekken. Hierdoor rust op de burgemeester de verplichting te onderzoeken in hoeverre binnen de geboden begunstigingstermijn alternatieve huisvesting gewaarborgd is. Het is de voorzieningenrechter niet gebleken dat de burgemeester deze omstandigheden in voldoende mate in zijn beoordeling heeft betrokken. Op de zitting is verder gebleken dat de burgemeester het niet tot zijn verantwoordelijkheid heeft gerekend om zeker te stellen dat er alternatieve woonruimte voor verzoeker 1 aanwezig is. </para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>6.2.4.</nr>
+        <para>Omdat onvoldoende is onderzocht of alternatieve huisvesting voor verzoeker 1 is gewaarborgd, is het besluit voor wat betreft de woning met [locatie] onvoldoende zorgvuldig tot stand gekomen. Dit geldt echter uitdrukkelijk alleen voor deze woning. Zoals  hiervoor overwogen is de burgemeester gelet op de aangetroffen situatie bevoegd tot sluiting van het perceel over te gaan en past de sluiting binnen zijn beleid. Dit geldt ook voor de sluiting van de woning met nummer [locatie] . Er zijn geen bijzondere omstandigheden aangevoerd die maken dat sluiting van de woning [locatie] onevenredig zou zijn of waardoor op de burgemeester een grotere onderzoeksverplichting rust. De getroffen overheidsmaatregelen ter bestrijding van het corona virus alleen is daartoe onvoldoende.</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline">Wat betekent dit voor het verzoek om schorsing van de sluiting?</emphasis>
+          </para>
+        </parablock>
+        <para>7. Dit leidt tot het oordeel dat het besluit tot sluiting van de woning met [locatie] onder de gegeven omstandigheden (combinatie van de medische situatie van verzoeker 1 en de van overheidswege getroffen maatregelen in verband met bestrijding van het corona visus) onvoldoende zorgvuldig is voorbereid. De burgemeester heeft daardoor onvoldoende gemotiveerd waarom niet met toepassing van artikel 4:84 van de Awb de woning met [locatie] niet is uitgezonderd van de sluiting. Het bezwaarschrift heeft op dit punt daarom een redelijke kans van slagen. Dit betekent dat er aanleiding is om het verzoek om voorlopige voorziening toe te wijzen en het besluit te schorsen voor zover dit ziet op sluiting van de woning met [locatie] tot twee weken na de door verweerder te nemen beslissing op bezwaar. De rest van het perceel valt niet binnen de schorsing.</para>
+        <para />
+        <para>8. Omdat het verzoek wordt toegewezen, krijgen verzoekers een vergoeding voor de proceskosten die zij hebben gemaakt. De burgemeester moet die betalen. Die kosten worden als volgt berekend. Verzoekers hebben zich laten bijstaan door een gemachtigde. Deze gemachtigde heeft twee proceshandelingen verricht: het indienen van het verzoekschrift en de behandeling op de (telefonische) zitting. Deze proceshandeling leveren twee punten op met een waarde van € 525,-. Toegekend wordt € 1.050,-. De burgemeester moet ook het door verzoekers betaalde griffierecht van € 178,- aan hen vergoeden.</para>
+        <para />
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De voorzieningenrechter:</para>
+    </parablock>
+    <para />
+    <para>- wijst het verzoek om voorlopige voorziening toe;</para>
+    <para>- schorst het besluit voor zover het betrekking heeft op sluiting van de woning [locatie] in [woonplaats] tot twee weken na de door verweerder te nemen beslissing op bezwaar;</para>
+    <para>- veroordeelt verweerder in de proceskosten van verzoekers ten bedrage van € 1.050,-;</para>
+    <para>- gelast dat verweerder het door verzoekers betaalde griffierecht groot € 178,- aan hen vergoedt.</para>
+    <para />
+    <para />
+    <informaltable>
+      <tgroup cols="3">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <tbody>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Deze uitspraak is gedaan door mr. W.P.C.G. Derksen, voorzieningenrechter, in tegenwoordigheid van mr. M.H.Y. Snoeren-Bos, griffier. </para>
+              <para>De beslissing is uitgesproken op: 27 maart 2020</para>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>De voorzieningenrechter en de griffier zijn verhinderd de uitspraak te ondertekenen.</para>
+              <para />
+              <para />
+              <para />
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>voorzieningenrechter</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Afschrift verzonden aan partijen op:</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>
+                <emphasis role="bold">Rechtsmiddel</emphasis>
+              </para>
+              <para>Tegen deze uitspraak staat geen rechtsmiddel open.</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+  </section>
+  <footnote id="_abf0a04e-03f7-471f-9676-5629f08e0496" label="1">
+    <para> Drugsbeleid gemeente Heumen 2019, in werking getreden op 21 mei 2019</para>
+  </footnote>
+  <footnote id="_a5b1e396-37b1-4fc0-819d-5aee0e351581" label="2">
+    <para> Vergelijk ABRvS 26 oktober 2016, ECLI:NL:RVS:2016:2840. Artikel 4:84 van de Awb luidt: het bestuursorgaan handelt overeenkomstig de beleidsregel, tenzij dat voor een of meer belanghebbenden gevolgen zou hebben die wegens bijzondere omstandigheden onevenredig zijn in verhouding tot de met die beleidsregel te dienen doelen</para>
+  </footnote>
+  <footnote id="_5f28b98c-166f-4b3c-8c7e-c98514a4abf2" label="3">
+    <para> Zie ABRvS 11 december 2013, ECLI:NL:RVS:2013:2362.</para>
+  </footnote>
+  <footnote id="_f6b30b41-a89f-46d3-96bd-ac037ee2377a" label="4">
+    <para> ABRvS 28 augustus 2019, ECLI:NL:RVS:2019:2912</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>

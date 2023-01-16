@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBNNE:2020:3458</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-29T11:59:53</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Noord-Nederland" scheme="overheid.RechterlijkeMacht">Rechtbank Noord-Nederland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-10-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">LEE 20-302</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Groningen</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>OGR-Updates.nl 2020-0233</rdf:li>
+          <rdf:li>Omgevingsvergunning in de praktijk 2020/8372</rdf:li>
+          <rdf:li>JOM 2020/549</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3458">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBNNE:2020:3458</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-10-09T14:56:28</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-10-09</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBNNE:2020:3458 Rechtbank Noord-Nederland , 08-10-2020 / LEE 20-302</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBNNE:2020:3458:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Rechtstreeks beroep en versnelde behandeling. Wnb-vergunning. Intern salderen. Uitleg van vergunningsvoorschrift van eerdere Nbw-vergunning. Rechtszekerheid brengt letterlijke lezing van dit voorschrift met zich. Gelet op voorschrift en de uitbreiding van de capaciteit en omvang is de eerdere Nbw-vergunning komen te vervallen. Ontoereikende passende beoordeling mocht niet aan het bestreden besluit ten grondslag worden gelegd.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBNNE:2020:3458:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK NOORD-NEDERLAND</bridgehead>
+    <para>Zittingsplaats Groningen</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Zaaknummer: LEE 20/302</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van 8 oktober 2020 in de zaak tussen</bridgehead>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">1.a.	[eiseres]</emphasis>, gevestigd te [plaats] eiseres sub 1.a.,</para>
+      <para>
+        <emphasis role="bold">1.b.	[eiseres]</emphasis> gevestigd te [plaats], eiseres sub 1.b.,</para>
+      <para>
+        <emphasis role="bold">1.c.	[eiseres]</emphasis>, gevestigd te [plaats], eiseres sub 1.c.,</para>
+      <para>hierna gezamenlijk te noemen: eisers,</para>
+      <para>	(gemachtigde: mr. B.N. Kloostra),</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">het college van gedeputeerde staten van de provincie Groningen, verweerder,</bridgehead>
+    <para>(gemachtigde: mr. H.J.M. Besselink).</para>
+    <para />
+    <parablock>
+      <para>Als <emphasis role="bold">derde-partij</emphasis> heeft aan het geding deelgenomen: de besloten vennootschap met beperkte aansprakelijkheid EEW Energy from Waste Delfzijl B.V., gevestigd te Farmsum, vergunninghoudster,</para>
+      <para>(gemachtigde: mr. M.M. Kaajan).</para>
+    </parablock>
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para>Bij besluit van 15 november 2019 (het bestreden besluit) heeft verweerder aan vergunning-houdster een vergunning onder voorschriften ingevolge artikel 2.7, tweede lid, van de Wet natuurbescherming (Wnb) verleend voor het uitbreiden van de huidige inrichting en het in werking hebben van een derde afvalverbrandingslijn bij vergunninghoudster op het perceel [plaats]</para>
+    <para />
+    <parablock>
+      <para>Tegen het bestreden besluiten hebben eisers bij brief van 27 december 2019 een bezwaar-schrift bij verweerder ingediend. Daarbij hebben eisers verweerder verzocht om het bezwaar-schrift ingevolge artikel 7:1a van de Algemene wet bestuursrecht (Awb) door te sturen naar de rechtbank om als rechtstreeks beroep te worden behandeld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij brief van 23 januari 2020 heeft verweerder ingestemd met dit verzoek en het bezwaar-schrift als beroepschrift doorgezonden aan de rechtbank.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft een verweerschrift ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De zaak is behandeld op de zitting van 3 september 2020.</para>
+      <para>Eiseres sub 1.a. is vertegenwoordigd door [naam] bijgestaan door haar gemachtigde.</para>
+      <para>Eiseres sub 1.b. is vertegenwoordigd door [naam] bijgestaan door haar gemachtigde.</para>
+      <para>Eiseres sub 1.c. is vertegenwoordigd door haar gemachtigde.</para>
+      <para>Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigde en </para>
+      <para>mr. W.D. van Laar.</para>
+      <para>Vergunninghoudster heeft zich laten vertegenwoordigen door haar gemachtigde en </para>
+      <para>
+        [naam], [functie].</para>
+    </parablock>
+    <para />
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para />
+  </section>
+  <section>
+    <title>Feiten en omstandigheden</title>
+    <para>1.	Bij haar oordeelsvorming betrekt de rechtbank de navolgende feiten en omstandigheden.</para>
+    <para />
+    <paragroup>
+      <nr>1.1.</nr>
+      <para>Bij besluit van 21 maart 2017 heeft verweerder een vergunning onder voorschriften ingevolge artikel 2.7, tweede lid, van de Wet natuurbescherming (Wnb) verleend voor het uitbreiden met en het in werking hebben van een derde afvalenergiecentrale bij vergunning-houdster op het perceel [plaats].</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.2.</nr>
+      <para>Bij uitspraak van 3 oktober 2019 heeft de rechtbank het beroep van eisers gegrond verklaard, het besluit van 21 maart 2017 van verweerder vernietigd en verweerder opgedragen om binnen de in artikel 3.18 van de Awb genoemde termijnen die aanvangen na de dag van verzending van deze uitspraak een nieuw besluit te nemen met inachtneming van deze uitspraak.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.3.</nr>
+      <parablock>
+        <para>Vergunninghoudster heeft op 9 oktober 2019 een aanvraag om vergunning, als bedoeld in artikel 2.7, tweede lid, van de Wnb, voor het uitbreiden van de huidige inrichting en het in werking hebben van een derde afvalverbrandingslijn op het perceel [plaats] bij verweerder ingediend.</para>
+        <para>Aan deze aanvraag heeft vergunninghoudster een memo “actualisatie passende beoordeling stikstof Wnb derde lijn EEW” van Arcadis Nederland B.V. (hierna: Arcadis) ten grondslag gelegd.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.4.</nr>
+      <para>Vergunninghoudster heeft bij brief van 15 oktober 2019 aan verweerder verzocht niet langer een besluit te nemen op de eerder ingediende aanvraag d.d. 23 februari 2016 om een vergunning, als bedoeld in artikel 2.7, tweede lid, van de Wnb, voor het uitbreiden van de huidige inrichting en het in werking hebben van een derde afvalverbrandingslijn op het perceel [plaats]</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.5.</nr>
+      <para>Verweerder heeft bij brief van 26 november 2019 aan vergunninghoudster medegedeeld dat de eerder op 23 februari 2016 ingediende aanvraag als ingetrokken wordt beschouwd.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.6.</nr>
+      <parablock>
+        <para>Naar aanleiding van de door vergunninghoudster ingediende aanvraag om vergunning, als bedoeld in artikel 2.7, tweede lid, van de Wnb heeft eiseres sub 1.c. bij brief van 2 november 2019 een zienswijze bij verweerder ingediend.</para>
+        <para>Naar aanleiding van de door vergunninghoudster ingediende aanvraag om vergunning, als bedoeld in artikel 2.7, tweede lid, van de Wnb hebben eiseres sub 1.a. en eiseres sub 1.b. een zienswijze bij verweerder ingediend.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>1.7.</nr>
+      <para>Bij het bestreden besluit heeft verweerder aan vergunninghoudster een vergunning onder voorschriften ingevolge artikel 2.7, tweede lid, van de Wet natuurbescherming (Wnb) verleend voor het uitbreiden van de huidige inrichting en het in werking hebben van een derde afvalverbrandingslijn bij vergunninghoudster op het perceel [plaats].</para>
+      <para />
+    </paragroup>
+  </section>
+  <section>
+    <title>Toepasselijke regelgeving</title>
+    <parablock>
+      <para>2.	Ingevolge artikel 2, derde lid, van de Habitatrichtlijn wordt in op grond van deze richtlijn genomen maatregelen rekening gehouden met de vereisten op economisch, sociaal en cultureel gebied, en met de regionale en lokale bijzonderheden.</para>
+      <para>Ingevolge artikel 6, eerste lid, van de Habitatrichtlijn treffen de Lid-Staten voor de speciale beschermingszones de nodige instandhoudingsmaatregelen; deze behelzen zo nodig passende specifieke of van ruimtelijke-ordeningsplannen deel uitmakende beheersplannen en passende wettelijke, bestuursrechtelijke of op een overeenkomst berustende maatregelen, die beantwoorden aan de ecologische vereisten van de typen natuurlijke habitats van bijlage I en de soorten van bijlage II die in die gebieden voorkomen.</para>
+      <para>Ingevolge artikel 6, tweede lid, van de Habitatrichtlijn treffen de Lid-Staten passende maatregelen om ervoor te zorgen dat de kwaliteit van de natuurlijke habitats en de habitats van soorten in de speciale beschermingszones niet verslechtert en er geen storende factoren optreden voor de soorten waarvoor de zones zijn aangewezen voor zover die factoren, gelet op de doelstellingen van deze richtlijn een significant effect zouden kunnen hebben.</para>
+      <para>Ingevolge artikel 6, derde lid, van de Habitatrichtlijn wordt voor elk plan of project dat niet direct verband houdt met of nodig is voor het beheer van het gebied, maar afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor zo'n gebied, een passende beoordeling gemaakt van de gevolgen voor het gebied, rekening houdend met de instandhoudingsdoelstellingen van dat gebied. Gelet op de conclusies van de beoordeling van de gevolgen voor het gebied en onder voorbehoud van het bepaalde in lid 4, geven de bevoegde nationale instanties slechts toestemming voor dat plan of project nadat zij de zekerheid hebben verkregen dat het de natuurlijke kenmerken van het betrokken gebied niet zal aantasten en nadat zij in voorkomend geval inspraakmogelijkheden hebben geboden.</para>
+      <para>Ingevolge artikel 6, vierde lid, van de Habitatrichtlijn neemt de Lid-Staat, indien een plan of project, ondanks negatieve conclusies van de beoordeling van de gevolgen voor het gebied, bij ontstentenis van alternatieve oplossingen, om dwingende redenen van groot openbaar belang, met inbegrip van redenen van sociale of economische aard, toch moet worden gerealiseerd, alle nodige compenserende maatregelen om te waarborgen dat de algehele samenhang van Natura 2000 bewaard blijft. De Lid-Staat stelt de Commissie op de hoogte van de genomen compenserende maatregelen.</para>
+      <para>Wanneer het betrokken gebied een gebied met een prioritair type natuurlijke habitat en/of een prioritaire soort is, kunnen alleen argumenten die verband houden met de menselijke gezondheid, de openbare veiligheid of met voor het milieu wezenlijke gunstige effecten dan wel, na advies van de Commissie, andere dwingende redenen van groot openbaar belang worden aangevoerd.</para>
+    </parablock>
+    <para />
+    <paragroup>
+      <nr>2.1.</nr>
+      <parablock>
+        <para>Ingevolge artikel 2.7, eerste lid, van de Wnb stelt een bestuursorgaan een plan dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied, en dat afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor een Natura 2000-gebied, uitsluitend vast indien is voldaan aan artikel 2.8, met uitzondering van het negende lid.</para>
+        <para>Ingevolge artikel 2.7, tweede lid, van de Wnb is het verboden zonder vergunning van gedeputeerde staten projecten te realiseren of andere handelingen te verrichten die gelet op de instandhoudingsdoelstellingen voor een Natura 2000-gebied de kwaliteit van de natuurlijke habitats of de habitats van soorten in dat gebied kunnen verslechteren of een significant verstorend effect kunnen hebben op de soorten waarvoor dat gebied is aangewezen.</para>
+        <para>Ingevolge artikel 2.7, derde lid, van de Wnb verlenen gedeputeerde staten een vergunning als bedoeld in het tweede lid uitsluitend indien is voldaan aan:</para>
+      </parablock>
+      <para>a. artikel 2.8, met uitzondering van het negende lid, wanneer de vergunning betrekking heeft op een project dat niet direct verband houdt met of nodig is voor het beheer van een Natura 2000-gebied, en dat afzonderlijk of in combinatie met andere plannen of projecten significante gevolgen kan hebben voor een Natura 2000-gebied, of</para>
+      <para>b. artikel 2.8, negende lid, wanneer zij betrekking heeft op andere handelingen dan projecten als bedoeld in onderdeel a.</para>
+      <parablock>
+        <para>Ingevolge artikel 2.8, eerste lid, van de Wnb maakt het bestuursorgaan, onderscheidenlijk de aanvrager van de vergunning voor een plan als bedoeld in artikel 2.7, eerste lid, of een project als bedoeld in artikel 2.7, derde lid, onderdeel a, een passende beoordeling van de gevolgen voor het Natura 2000-gebied, rekening houdend met de instandhoudings-doelstellingen voor dat gebied.</para>
+        <para>Ingevolge artikel 2.8, tweede lid, van de Wnb hoeft, in afwijking van het eerste lid, geen passende beoordeling te worden gemaakt, ingeval het plan of het project een herhaling of voortzetting is van een ander plan, onderscheidenlijk project, of deel uitmaakt van een ander plan, voor zover voor dat andere plan of project een passende beoordeling is gemaakt en een nieuwe passende beoordeling redelijkerwijs geen nieuwe gegevens en inzichten kan opleveren over de significante gevolgen van dat plan of project.</para>
+        <para>Ingevolge artikel 2.8, derde lid, van de Wnb stelt het bestuursorgaan het plan uitsluitend vast, en verlenen gedeputeerde staten voor het project, bedoeld in het eerste lid, uitsluitend een vergunning, indien uit de passende beoordeling de zekerheid is verkregen dat het plan, onderscheidenlijk het project de natuurlijke kenmerken van het gebied niet zal aantasten.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>2.2.</nr>
+      <parablock>
+        <para>Op 7 oktober 2019 heeft verweerder de Beleidsregel intern en extern salderen provincie Groningen 2019 (hierna: de beleidsregel) vastgesteld.</para>
+        <para>Ingevolge artikel 1, onderdeel f, van de beleidsregel wordt onder intern salderen verstaan: situatie waarbij het aangevraagde project per saldo zelf niet leidt tot een toename van N-depositie ten opzichte van de eerdere toestemming binnen de begrenzing van één project of locatie.</para>
+        <para>Ingevolge artikel 1, onderdeel k, van de beleidsregels wordt onder referentiesituatie verstaan: verleende vigerende en onherroepelijke natuurvergunning, of bij gebrek aan een natuurvergunning een op de Europese referentiedatum aanwezig toestemming, met dien verstande dat de laagst vergunde situatie vanaf de referentiedatum geldt.</para>
+        <para>Ingevolge artikel 1, onderdeel o, van de beleidsregel wordt onder toestemming verstaan: onherroepelijke vigerende natuurvergunning, of onherroepelijke vergunning dan wel geldende melding op grond van de Wet algemene bepalingen omgevingsrecht (Wabo) onderdeel milieu, Wet milieubeheer (Wm) of van de Hinderwet, of feitelijke uitvoering van een activiteit waarvoor op de referentiedatum geen vergunning nodig was en die sindsdien onafgebroken aanwezig is geweest of afzonderlijke activiteit waarvoor geen natuur-vergunning nodig was, maar die wel voldoet aan artikel 2.8 van de Wnb.</para>
+        <para>Ingevolge artikel 7, eerste lid, van de beleidsregel mag een activiteit alleen worden ingezet ten behoeve van intern salderen voor zover de N-emissie was toegestaan in de referentie-situatie en sindsdien onafgebroken aanwezig is geweest of nog kan zijn tot het moment van intrekking van de toestemming, zodat hervatting van de activiteit mogelijk was zonder dat daarvoor een natuurvergunning voor de realisering van een project is vereist.</para>
+        <para>Ingevolge artikel 7, zesde lid, van de beleidsregel hanteert verweerder bij het beoordelen van een aanvraag voor een natuurvergunning als uitgangspunt dat alleen gebruik wordt gemaakt van de in de toestemming opgenomen N-emissie voor zover de capaciteit aantoonbaar feitelijk is gerealiseerd.</para>
+        <para>Ingevolge artikel 7, zevende lid, van de beleidsregel gaat verweerder bij de beoordeling van de feitelijke gerealiseerde capaciteit, bedoeld in het zesde lid, uit van de op het moment van indienen van de aanvraag op grond van een toestemming volledig opgerichte installaties of gebouwen. </para>
+      </parablock>
+      <para />
+    </paragroup>
+  </section>
+  <section role="overwegingen">
+    <title>Overwegingen</title>
+    <para>3.	Tussen partijen is in geschil of verweerder terecht en op juiste gronden een vergunning ingevolge artikel 2.7, tweede lid, van de Wnb heeft verleend voor het uitbreiden van de huidige inrichting en het in werking hebben van een derde afvalverbrandingslijn bij vergunninghoudster op het perceel [plaats] Dienaangaande overweegt de rechtbank als volgt.</para>
+    <para />
+    <paragroup>
+      <nr>4.1.</nr>
+      <para>De rechtbank stelt vast dat het vergunde project betrekking heeft op de wijziging van de installatie binnen de inrichting van vergunninghoudster, waarbij de vergunning ingevolge de Natuurbeschermingswet (Nbw) van 2007 is opgegaan in de vergunning ingevolge de Wnb van 2019.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.2.</nr>
+      <para>Aan het bestreden besluit heeft verweerder ten grondslag gelegd dat het vernietigde besluit en de daaraan ten grondslag liggende aanvraag ervan uitgingen dat er een toename van depositie zou ontstaan ten opzichte van de eerder vergunde situatie. Dat besluit is bij uitspraak van de rechtbank vernietigd, en de daaraan ten grondslag liggende aanvraag is ingetrokken. Vergunninghoudster heeft vervolgens echter een nieuwe aanvraag ingediend waarin, anders dan in de eerdere aanvraag, niet langer een vergunning wordt gevraagd voor een uitbreiding van emissies, maar waarin uitdrukkelijk is aangegeven dat in de nieuwe situatie, met de derde afvalverbrandingslijn, het totaal aan emissies (en dus deposities) niet hoger zal zijn dan hetgeen in de in 2007 verleende natuurvergunning is toegestaan. In dit verband wijst verweerder erop dat in voorschrift 2.4 van de bedoelde natuurvergunning is bepaald dat de emissies aan onder meer NOx en NH3 beperkt dienen te blijven tot hetgeen is vergund in het kader van de Wm. Voor NOx betrof dat een hoeveelheid van 161,4 ton/jaar en voor NH3 een hoeveelheid van 11,5 ton/jaar. In de aanvraag die ten grondslag ligt aan het thans bestreden besluit is door middel van een actualisatie op de passende beoordeling uit 2016 duidelijk gemaakt dat de gevraagde vergunning niet voorziet in een toename van voor deze depositie relevante emissies, en dat zal worden verzekerd dat de eerder vergunde emissies aan NOx en NH3 niet zullen worden overschreden. De nieuwe aanvraag is dus principieel anders dan de aanvraag, die ten grondslag lag aan de vernietigde vergunning. Nu er geen toename van deposities zal ontstaan ten opzichte van de eerder vergunde situatie, kunnen volgens verweerder negatieve effecten van depositie door verzurende en ver-mestende emissies wel degelijk worden uitgesloten.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.3.</nr>
+      <parablock>
+        <para>Eisers betogen dat ook de natuurvergunning uit 2007 voor de verbrandings-installaties 1 en 2 het overigens niet toe staat om een nieuw project in de vorm van een derde verbrandingsinstallatie daaronder te scharen. In dit verband wijzen eisers erop dat een vergunning ingevolge de Wnb en de Habitatrichtlijn niet verleend wordt voor emissies, maar voor een project, waarvan de feitelijke effecten op beschermde natuur beoordeeld dienen te worden, alvorens daarvoor vergunning kan worden verleend. Er is onder een dergelijke vergunning in de visie van eisers dus ook geen ‘ruimte’ die aan een ander project kan worden toegekend. Zou het project voor een derde verbrandingsinstallatie toch onder de natuur-vergunning uit 2007 worden geschaard, dan zal dit bovendien tot gevolg hebben dat de geldigheid van die vergunning daarmee wordt beëindigd. In de natuurvergunning uit 2007 is immers in voorschrift 5 van de vergunning het volgende bepaald:</para>
+        <para>“5. Looptijd vergunning</para>
+        <para>De vergunning geldt qua toestemming voor realisatie van de installatie tot 31 december 2010.</para>
+        <para>De vergunning geldt qua toestemming voor het in de passende beoordeling vastgelegde</para>
+        <para>beoogde gebruik (en productie-omvang) en regulier onderhoud van de installatie vanaf het</para>
+        <para>moment van afgifte tot een eventuele wijziging in dit gebruik c.q. de vergunde</para>
+        <para>productieomvang.”</para>
+        <para>Volgens eisers is de natuurvergunning uit 2007 geldig ‘tot een eventuele wijziging in dit gebruik c.q. de vergunde productieomvang’ en zou dus haar geldigheid conform het geldende rechtskader uit de Wnb en de Habitatrichtlijn verliezen op grond van</para>
+        <para>voorschrift 5 van die vergunning als daaronder een geheel nieuw project, zoals een derde</para>
+        <para>verbrandingsinstallatie, zou gaan vallen. Een nieuwe overkoepelende vergunning voor de verbrandingsinstallaties 1 en 2 én de nieuwe verbrandingsinstallatie zal in de visie van eisers eveneens niet kunnen worden verleend, omdat significante effecten van de drie installaties gezamenlijk niet met zekerheid kunnen worden uitgesloten.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>4.4.</nr>
+      <para>Verweerder stelt zich op het standpunt dat eisers niet kunnen worden gevolgd in de in rechtsoverweging 4.2. weergegeven stelling. In dit verband wijst verweerder erop dat de vergunning van 2007 betrekking heeft op de verbrandingslijnen 1 en 2. Bij het thans bestreden besluit is voor een derde verbrandingslijn een vergunning verleend, maar daarmee is de productieomvang van de lijnen 1 en 2 niet veranderd. Naar de mening van verweerder geldt de vergunning uit 2007 derhalve nog steeds.</para>
+      <para />
+      <paragroup>
+        <nr>4.5.1.</nr>
+        <parablock>
+          <para>De rechtbank stelt vast dat aan de verleende vergunning ingevolge de Nbw d.d. 13 juni 2007 voorschrift 5 met betrekking tot de looptijd van de vergunning is verbonden. Dit voorschrift luidt als volgt:</para>
+          <para>“De vergunning geldt qua toestemming voor realisatie van de installatie tot 31 december 2010. De vergunning geldt qua toestemming voor het in de passende beoordeling vastgelegde beoogde gebruik (en productie-omvang) en regulier onderhoud van de installatie vanaf het moment van afgifte tot een eventuele wijziging in dit gebruik c.q. de vergunde productie-omvang. Een dergelijke voorgenomen wijziging dient aan de regiodirecteur Noord kenbaar gemaakt te worden (t.a.v. het Nb-wet team).”</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.2.</nr>
+        <para>Partijen worden verdeeld gehouden door de vraag op welke wijze het in rechts-overweging 4.5.1. weergegeven voorschrift 5 van voormelde Nbw-vergunning dient te worden uitgelegd. Dienaangaande overweegt de rechtbank als volgt.</para>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>4.5.3.</nr>
+        <parablock>
+          <para>De rechtbank overweegt dat de rechtszekerheid doorgaans met zich brengt dat bij de uitleg van een aan een Nbw-vergunning verbonden voorschrift als voorschrift 7 zoveel mogelijk wordt aangesloten bij de letterlijke tekst daarvan (vgl. Afdeling bestuursrecht-spraak van de Raad van State (AbRvS), 2 september 2020, ECLI:NL:RVS:2020:2091). Een uitleg die aansluit bij het doel, de strekking of het systeem van de voorschriften komt veelal pas aan de orde als de tekst van het betrokken voorschrift onduidelijk is. Naar het oordeel van de rechtbank doet deze uitzondering zich in dit geval niet voor. In dit verband heeft de gemachtigde van verweerder ter zitting uiteengezet dat in voormeld voorschrift niet meer gelezen kan worden dan dat de geldigheid van de vergunning vervalt, indien er sprake is van een wijziging van het beoogde gebruik en dat dit niet aan de orde is. Verder heeft de gemachtigde van verweerder ter zitting in dit verband verklaard dat er geen sprake is van een hogere emissie en dat om die reden een wijziging van de vergunning niet aan de orde is. Volgens de gemachtigde van verweerder brengt een redelijke uitleg van voormeld voorschrift 5 uit een oude vergunning dan ook met zich dat een wijziging dient te worden gemeld en dat daarna wordt beoordeeld of dit tot een wijziging van de vergunning heeft geleid. Naar het oordeel van de rechtbank kan de door verweerder voorgestane, redelijke uitleg van voormeld voorschrift 5 in dit geval niet worden gevolgd, omdat die zich niet verhoudt met de letterlijke lezing van dit voorschrift (vgl. AbRvS, 2 september 2020, ECLI: NL:RVS:2020:2091). Hierbij neemt de rechtbank in aanmerking dat er in dit geval sprake is (geweest) van een wijziging van de productie-omvang van de installatie als gevolg van een in 2013 verleende omgevingsvergunning. Gelet hierop is op grond van een letterlijke interpretatie van voormeld voorschrift 5 de Nbw-vergunning d.d. 13 juni 2007 komen te vervallen. In hetgeen partijen hebben aangevoerd, ziet de rechtbank geen aanleiding om in dit geval af te wijken van het uitgangspunt dat in het kader van de rechtszekerheid bij de uitleg van voorschrift 5 van de Nbw-vergunning zo veel als mogelijk wordt aangesloten bij de letterlijke tekst daarvan. Van een onduidelijke tekst of formulering in voormeld voor-schrift is naar het oordeel van de rechtbank geen sprake. Evenmin kan gezegd worden dat de tekst van voormeld voorschrift zich niet verhoudt met de doelstelling of de bedoeling van de Nbw. De ter zitting naar voren gebrachte stelling van verweerder dat er sprake is van een oude vergunning leidt de rechtbank, wat daar verder ook van zij, niet tot een andere conclusie.  </para>
+          <para>Uit de voorgaande overwegingen volgt, los van de vraag of intern salderen in dit specifieke geval tot de mogelijkheden behoort, dat met de in 2013 verleende omgevingsvergunning de productie-omvang van de installatie is gewijzigd en dat op grond van voormeld voorschrift daarmee de Nbw-vergunning d.d. 13 juni 2007 is komen te vervallen. Deze grond van eisers slaagt.</para>
+        </parablock>
+        <para />
+        <para>5. Uit rechtsoverweging 4.5.3. volgt dat de door Arcadis opgestelde passende beoordeling gebaseerd is op het onjuiste uitgangspunt dat de eerder verleende Nbw-vergunning d.d. 13 juni 2007 ten tijde van het opstellen daarvan nog bestond. Dit brengt naar het oordeel van de rechtbank met zich dat verweerder voormelde passende beoordeling voor het onderhavige project niet aan het bestreden besluit ten grondslag heeft mogen leggen. Gelet hierop stelt de rechtbank vast dat verweerder in dit geval toepassing heeft gegeven aan artikel 2.7, tweede lid, van de Wnb zonder dat er voor het onderhavige project in zijn geheel een toereikende passende beoordeling is gemaakt, terwijl die in dit geval wel is vereist. Hieruit volgt dat het bestreden besluit is genomen in strijd met artikel 2.7, tweede lid, van de Wnb. Dit brengt met zich dat het beroep van eisers ook in zoverre gegrond is en het bestreden besluit voor vernietiging in aanmerking komt. </para>
+        <para />
+        <para>6. Aangezien het beroep gegrond wordt verklaard, ziet de rechtbank aanleiding om verweerder ingevolge artikel 8:75 van de Awb in de proceskosten van eisers te veroordelen. Onder toepassing van het Besluit proceskosten bestuursrecht (Bpb) kunnen deze kosten worden begroot op in totaal € 1.097,20, waarvan € 1.050,-- (beroepschrift één punt en het verschijnen ter zitting één punt; waarde per punt € 525,--; gewicht van de zaak: gemiddeld) in verband met door een derde beroepsmatig verleende rechtsbijstand en € 47,20, zijnde de reiskosten van de vertegenwoordiger van eiseres sub 1.a. (Emden – Groningen v.v.). Verder ziet de rechtbank aanleiding om te bepalen dat verweerder het door eisers betaalde griffie- recht ad € 354,-- aan hen dient te vergoeden.</para>
+        <para />
+        <parablock>
+          <para>Beslist wordt als volgt.</para>
+        </parablock>
+        <para />
+        <para />
+        <para />
+      </paragroup>
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank:</para>
+    </parablock>
+    <para />
+    <para>- verklaart het beroep gegrond;</para>
+    <para>- vernietigt het bestreden besluit;</para>
+    <para>- veroordeelt verweerder tot vergoeding van de bij eisers in verband met de behandeling van het beroep opgekomen proceskosten tot een bedrag van in totaal </para>
+    <para>	€ 1.097,20 en bepaalt dat verweerder deze kosten aan hen dient te vergoeden;</para>
+    <para>- bepaalt dat verweerder aan eisers het door hen voor de behandeling van het beroep betaalde griffierecht ten bedrage van € 333,-- vergoedt, met dien verstande dat bij betaling van genoemd bedrag aan één van hen verweerder aan zijn betalings-verplichting heeft voldaan.</para>
+    <para />
+    <parablock>
+      <para>Deze uitspraak is gedaan door mr. R.L. Vucsán, rechter, in aanwezigheid van </para>
+      <para>mr. H.L.A. van Kats als griffier. </para>
+      <para>De beslissing is in het openbaar uitgesproken op 8 oktober 2020.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>De griffier                                                                                         De rechter</para>
+    </parablock>
+    <para />
+  </section>
+  <section>
+    <title>Rechtsmiddel</title>
+    <parablock>
+      <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending van deze uitspraak hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. </para>
+      <para>Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+    </parablock>
+    <para />
+    <para />
+    <para />
+    <parablock>
+      <para>Afschrift verzonden op:</para>
+    </parablock>
+  </section>
+</uitspraak>
+</open-rechtspraak>

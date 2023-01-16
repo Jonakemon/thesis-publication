@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:GHARL:2020:137</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-11T12:42:10</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-08</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Gerechtshof_Arnhem-Leeuwarden" scheme="overheid.RechterlijkeMacht">Gerechtshof Arnhem-Leeuwarden</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-08</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">Wahv 200.242.122/01</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Leeuwarden</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#strafrecht">Strafrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2020:137">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:GHARL:2020:137</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-02-11T12:41:44</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-02-11</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:GHARL:2020:137 Gerechtshof Arnhem-Leeuwarden , 08-01-2020 / Wahv 200.242.122/01</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:GHARL:2020:137:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>De betrokkene werkte in de auto op zijn laptop. Dat valt onder parkeren.</para>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:GHARL:2020:137:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <para />
+    <para />
+    <bridgehead role="bold">GERECHTSHOF ARNHEM-LEEUWARDEN  </bridgehead>
+    <para>zittingsplaats Leeuwarden</para>
+    <para />
+    <informaltable>
+      <tgroup cols="2">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <tbody>
+          <row>
+            <entry>
+              <para>Zaaknummer </para>
+            </entry>
+            <entry>
+              <para>: Wahv 200.242.122/01</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>CJIB-nummer </para>
+            </entry>
+            <entry>
+              <para>: 206498569 </para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para>Uitspraak d.d.</para>
+            </entry>
+            <entry>
+              <para>: 8 januari 2020</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">Arrest</emphasis> op het hoger beroep inzake de Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wahv) tegen de beslissing van de kantonrechter van de rechtbank Rotterdam van 20 juni 2018, betreffende</para>
+    </parablock>
+    <para />
+    <para />
+    <bridgehead role="bold">
+      [betrokkene] B.V. (hierna: de betrokkene),</bridgehead>
+    <para>gevestigd te [A] , vertegenwoordigd door [B] .</para>
+    <para />
+    <para />
+    <bridgehead role="bold">De beslissing van de kantonrechter</bridgehead>
+    <para>De kantonrechter heeft het beroep van de betrokkene tegen de beslissing van de officier van justitie ongegrond verklaard.  </para>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section>
+    <title>Het verloop van de procedure</title>
+    <parablock>
+      <para>De betrokkene heeft hoger beroep ingesteld tegen de beslissing van de kantonrechter. </para>
+      <para>De advocaat-generaal heeft de gelegenheid gekregen een verweerschrift in te dienen. Van die gelegenheid is geen gebruik gemaakt. </para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Beoordeling</title>
+    <para>1. Bij de inleidende beschikking is aan de betrokkene als kentekenhouder een sanctie opgelegd van € 90,- voor: “Parkeren op parkeergelegenheid, terwijl voertuig niet tot de aangegeven categorie op groep voertuigen behoorde”. Deze gedraging zou zijn verricht op 6 april 2017 om 14:56 uur op de Benedenheulstraat in Rotterdam met het voertuig met het kenteken [YY-000-Y] .</para>
+    <para />
+    <para>2. Het bezwaar van de betrokkene houdt in dat haar voertuig weliswaar heeft gestaan op een parkeerstrook die blijkens het aanwezige bord E8 uit bijlage I bij het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990) was bestemd voor vrachtwagens, maar dat dat in dit geval niet was verboden, omdat geen sprake was van parkeren maar van stilstaan. De betrokkene merkt daarbij op dat in artikel 23 van het RVV 1990, dat expliciet gaat over het stilstaan van een voertuig, de parkeerstrook voor vrachtwagens (bord E8) niet wordt genoemd. Ook verwijst de vertegenwoordiger van de betrokkene naar het eerder gevoerde verweer dat hij de auto niet heeft verlaten: als de ambtenaar die de sanctie heeft opgelegd echt in de auto had gekeken, had hij dat gezien dat de vertegenwoordiger van de betrokkene, zoals ook met enige moeite is te zien op de foto’s in het dossier, op de bestuurderstoel zat, werkend op de laptop. </para>
+    <para />
+    <para>3. De onderhavige gedraging, met feitcode R397D, ziet op een overtreding van artikel 24, eerste lid, onder d van het RVV 1990. Dit artikel houdt - voor zover hier van belang - het volgende in: “De bestuurder mag zijn voertuig niet parkeren op een parkeergelegenheid voor zover zijn voertuig niet behoort tot de op het bord of op het onderbord aangegeven voertuigcategorie of groep voertuigen.”</para>
+    <para />
+    <para />
+    <para>4. Niet in geschil is dat het voertuig van de betrokkene een personenauto betreft en evenmin dat het stond op een door middel van het bord E8 aangeduide parkeergelegenheid voor vrachtauto’s, zodat daar parkeren met het voertuig van de betrokkene niet was toegestaan. Voor de vaststelling of de gedraging is verricht is van belang om vast te stellen of sprake was van parkeren.</para>
+    <para />
+    <para>5. Artikel 1, aanhef en onder ac, van het RVV 1990 verstaat onder parkeren: “Het laten stilstaan van een voertuig anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden of lossen van goederen.”</para>
+    <para />
+    <para>6. Het hof is van oordeel dat in de onderhavige zaak sprake is geweest van parkeren. De vertegenwoordiger van de betrokkene heeft weliswaar gesteld dat hij in de auto aanwezig was, maar heeft niet gesteld, laat staan aannemelijk gemaakt, dat voormelde uitzondering voor onmiddellijk in- of uitstappen van passagiers of voor het onmiddellijk laden of lossen van goederen, zich hier voordoet. Gelet hierop kan worden vastgesteld dat de onder 1 vermelde gedraging is verricht.</para>
+    <para />
+    <para>7. Het bezwaar van de betrokkene treft geen doel. Het hof zal de beslissing van de kantonrechter bevestigen.</para>
+    <para />
+    <para />
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para>Het gerechtshof:</para>
+    <para />
+    <parablock>
+      <para>bevestigt de beslissing van de kantonrechter.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Dit arrest is gewezen door mr. Van Schuijlenburg, in tegenwoordigheid van mr. Arntz als griffier en op een openbare zitting uitgesproken.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+</uitspraak>
+</open-rechtspraak>

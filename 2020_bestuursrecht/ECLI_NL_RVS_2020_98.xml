@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RVS:2020:98</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-05-04T12:37:03</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Raad_van_State" scheme="overheid.RechterlijkeMacht">Raad van State</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-01-15</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">201901939/1/A3</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#hogerBeroep">Hoger beroep</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">'s-Gravenhage</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:relation rdfs:label="Formele relatie" ecli:resourceIdentifier="ECLI:NL:RBZWB:2019:361" psi:type="http://psi.rechtspraak.nl/hogerBeroep" psi:aanleg="http://psi.rechtspraak.nl/eerdereAanleg" psi:gevolg="http://psi.rechtspraak.nl/gevolg#(Gedeeltelijke) vernietiging en zelf afgedaan">Eerste aanleg: ECLI:NL:RBZWB:2019:361, (Gedeeltelijke) vernietiging en zelf afgedaan</dcterms:relation>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+          <rdf:li>AB 2020/98 met annotatie van C.M.M. van Mil</rdf:li>
+          <rdf:li>JOM 2020/22</rdf:li>
+          <rdf:li>JB 2020/39</rdf:li>
+          <rdf:li>Gst. 2020/36 met annotatie van B. Assink</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:98">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RVS:2020:98</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-01-15T10:17:57</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-01-15</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RVS:2020:98 Raad van State , 15-01-2020 / 201901939/1/A3</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RVS:2020:98:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <para>Bij besluit van 12 januari 2018 heeft de burgemeester bij Merlijn een dwangsom van € 6.000,00 ingevorderd wegens het verstrekken van alcoholhoudende drank aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt.</para>
+    </inhoudsindicatie>
+  <uitspraak xml:space="preserve" lang="nl" id="ECLI:NL:RVS:2020:98:DOC" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <parablock>
+    <para>201901939/1/A3.</para>
+    <para>Datum uitspraak: 15 januari 2020</para>
+    <para>AFDELING</para>
+    <para>BESTUURSRECHTSPRAAK</para>
+    <para>Uitspraak op het hoger beroep van:</para>
+    <para>Bowling-Bistro Merlijn B.V., gevestigd te Oosterhout,</para>
+    <para>appellante,</para>
+    <para>tegen de uitspraak van de rechtbank Zeeland-West-Brabant van 29 januari 2019 in zaak nr. 18/4706 in het geding tussen:</para>
+    <para>Merlijn</para>
+    <para>en</para>
+    <para>de burgemeester van Oosterhout.</para>
+    <para>Procesverloop</para>
+    <para>Bij besluit van 12 januari 2018 heeft de burgemeester bij Merlijn een dwangsom van € 6.000,00 ingevorderd wegens het verstrekken van alcoholhoudende drank aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt.</para>
+    <para>Bij besluit van 6 juni 2018 heeft de burgemeester het door Merlijn daartegen gemaakte bezwaar ongegrond verklaard.</para>
+    <para>Bij uitspraak van 29 januari 2019 heeft de rechtbank het door Merlijn daartegen ingestelde beroep ongegrond verklaard. Deze uitspraak is aangehecht.</para>
+    <para>Tegen deze uitspraak heeft Merlijn hoger beroep ingesteld.</para>
+    <para>De burgemeester heeft een schriftelijke uiteenzetting gegeven.</para>
+    <para>De Afdeling heeft de zaak ter zitting behandeld op 28 augustus 2019, waar Merlijn, vertegenwoordigd door haar [directeur], bijgestaan door mr. F. Wubbena, advocaat te Oosterhout, en de burgemeester, vertegenwoordigd door mr. R.A.M. Mutsaers, zijn verschenen.</para>
+    <para>Overwegingen</para>
+    <para>Inleiding</para>
+    <para>1.    Merlijn exploiteert een horeca-inrichting in Oosterhout. De horeca-inrichting bestaat uit een bistro, een grand café en een bowling.</para>
+    <para>2.    Op 16 april 2016 heeft een buitengewoon opsporingsambtenaar geconstateerd dat bij de toegang van Merlijn geen controle werd uitgevoerd op de leeftijd van de bezoekers, dat aan de bar alcoholhoudende drank werd verkocht aan twee jonge personen zonder dat hun leeftijd werd gecontroleerd en dat aan vier andere personen die niet onmiskenbaar de leeftijd van 18 jaar hadden bereikt, alcoholhoudende drank werd verkocht zonder dat hun leeftijd werd gecontroleerd. De burgemeester heeft zich toen op het standpunt gesteld dat Merlijn artikel 20, eerste en derde lid, van de Drank- en Horecawet (hierna: de Dhw) heeft overtreden. Bij besluit van 28 september 2016 heeft hij Merlijn onder aanzegging van een dwangsom gelast artikel 20 van de Dhw niet opnieuw te overtreden. De dwangsom is gesteld op € 6.000,00 per overtreding, met een maximum van € 30.000,00.</para>
+    <para>3.    Op 16 december 2017 heeft opnieuw een controle plaatsgevonden in de horeca-inrichting. Deze controle is uitgevoerd door [ambtenaar], buitengewoon opsporingsambtenaar in dienst van de gemeente Etten-Leur en door de burgemeester aangewezen als toezichthouder op de naleving van de Dhw. Hij werd vergezeld door een buitengewoon opsporingsambtenaar in dienst van de gemeente Oosterhout en door twee personen van onderscheidenlijk 20 en 21 jaar die in dienst waren van de gemeente Breda en door de burgemeester waren aangewezen als toezichthouders op de naleving van de Dhw (hierna ook: de jonge toezichthouders). [ambtenaar] en de jonge toezichthouders maakten deel uit van een zogenoemde handhavingspool, waaraan verschillende gemeenten - waaronder Breda, Etten-Leur en Oosterhout - deelnemen. [ambtenaar] is tijdens de controle niet zelf in de horeca-inrichting geweest. Alleen de jonge toezichthouders zijn naar binnen gegaan. Via WhatsApp hielden zij contact met elkaar. [ambtenaar] heeft op ambtsbelofte een boeterapport opgesteld. Daarin verwijst hij naar het relaas van bevindingen dat een van de jonge toezichthouders op ambtsbelofte heeft opgesteld. In het boeterapport staat dat [ambtenaar] heeft waargenomen dat de jonge toezichthouders niet onmiskenbaar de leeftijd van 18 jaar hadden bereikt. Volgens het relaas van bevindingen hebben de jonge toezichthouders bier besteld en afgerekend, zonder dat hun leeftijd daarbij door het barpersoneel is gecontroleerd. Op basis hiervan heeft de burgemeester zich op het standpunt gesteld dat Merlijn de bij het besluit van 28 september 2016 opgelegde dwangsom heeft verbeurd. Bij het besluit van 12 januari 2018 heeft de burgemeester deze dwangsom ingevorderd.</para>
+    <para>Regelgeving</para>
+    <para>4.    Artikel 20 van de Dhw luidt:</para>
+    <para>"1 Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt. […]</para>
+    <para>3 De vaststelling, bedoeld in het eerste en tweede lid:</para>
+    <para>a. geschiedt aan de hand van een document als bedoeld in artikel 1, eerste lid, van de Wet op de identificatieplicht, dan wel op een bij of krachtens algemene maatregel van bestuur aangewezen andere wijze;</para>
+    <para>b. blijft achterwege, indien het een persoon betreft die onmiskenbaar de vereiste leeftijd heeft bereikt.</para>
+    <para>[…]"</para>
+    <para>Aangevallen uitspraak</para>
+    <para>5.    De rechtbank is Merlijn niet gevolgd in het betoog dat artikel 20, eerste lid, van de Dhw niet overtreden kan zijn als degene aan wie alcohol is verstrekt niet minderjarig was. De overtreding betreft niet het verstrekken van alcohol aan een minderjarige, maar het verstrekken van alcohol aan iemand van wie niet is vastgesteld dat deze meerderjarig is.</para>
+    <para>    Naar het oordeel van de rechtbank kan het op ambtsbelofte opgemaakte boeterapport de conclusie dragen dat de twee toezichthouders niet onmiskenbaar de leeftijd van 18 jaar hadden bereikt. De vaststelling van de buitengewoon opsporingsambtenaar is gebaseerd op de criteria kleding, lichaamstaal, uiterlijk en gedrag. De toezichthouders waren 20 en 21 jaar. Bij zo'n jonge leeftijd kan eigenlijk per definitie niet worden gezegd dat de leeftijd van 18 jaar onmiskenbaar is bereikt. Daarbij is van belang dat, zoals in het verweerschrift van de burgemeester is opgemerkt, in het kader van de NIX18-campagne van de rijksoverheid een verificatieleeftijd van 25 jaar wordt gehanteerd. De burgemeester heeft op basis van het boeterapport en het relaas van bevindingen terecht aangenomen dat Merlijn op 16 december 2017 artikel 20 van de Dhw heeft overtreden.</para>
+    <para>    De rechtbank heeft het verzoek van Merlijn om de toezichthouders te horen, afgewezen. De rechtbank had geen enkele twijfel over de conclusie dat de twee toezichthouders de leeftijd van 18 jaar niet onmiskenbaar hadden bereikt. Naar het oordeel van de rechtbank heeft het horen van de toezichthouders dan geen meerwaarde en dient het belang bij geheimhouding van hun identiteit te prevaleren boven het belang van Merlijn om hen te kunnen horen.</para>
+    <para>    Over de hoogte van de dwangsom heeft de rechtbank overwogen dat die is bepaald in de opgelegde last onder dwangsom van 28 september 2016 en dat die in deze procedure niet meer ter discussie kan worden gesteld. De rechtbank is niet gebleken van bijzondere omstandigheden op grond waarvan de burgemeester geheel of gedeeltelijk van de invordering had moeten afzien.</para>
+    <para>Beoordeling van het hoger beroep</para>
+    <para>6.    Merlijn betoogt dat de rechtbank ten onrechte niet is ingegaan op haar stelling dat in de sanctietabel, behorend bij het geldende Alcohol- en Horecasanctiebeleid 2014 gemeente Oosterhout, geen dwangsom is opgenomen voor overtreding van artikel 20, derde lid, van de Dhw. Daarom had volgens haar nooit een last onder dwangsom mogen worden opgelegd.</para>
+    <para>6.1.    Het besluit van 28 september 2016 tot oplegging van een last onder dwangsom staat in rechte vast. De rechtbank heeft daarom terecht overwogen dat dit besluit in deze procedure niet ter discussie kan worden gesteld.</para>
+    <para>    Het betoog faalt.</para>
+    <para>7.    Merlijn betoogt verder dat de rechtbank heeft miskend dat artikel 20, eerste lid, van de Dhw niet kan zijn overtreden als alcohol is verstrekt aan iemand die 18 jaar of ouder is. In dat geval wordt niet toegekomen aan de vraag of die persoon onmiskenbaar de vereiste leeftijd heeft bereikt in de zin van het derde lid. Dit wordt bevestigd door de geschiedenis van de totstandkoming van artikel 20 (Kamerstukken II 1997/98, 25 969, nr. 3), waarin staat dat het doel van de wet is om zo veel mogelijk te voorkomen dat alcohol wordt geschonken aan personen die de vereiste leeftijd nog niet hebben bereikt. De burgemeester miskent dit doel en maakt in dit geval misbruik van zijn bevoegdheid om op te treden tegen overtreding van artikel 20 van de Dhw, aldus Merlijn.</para>
+    <para>7.1.    In artikel 20, eerste lid, van de Dhw is bepaald dat het verboden is alcoholhoudende drank te verstrekken aan een persoon van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt. Dit betekent dat alleen alcoholhoudende drank mag worden verstrekt aan iemand bij wie deze vaststelling wél heeft plaatsgevonden. Artikel 20, eerste lid, is dus, afgezien van de uitzondering in het derde lid, reeds overtreden indien alcoholhoudende drank is verstrekt zonder dat de leeftijd van de ontvanger van de drank is vastgesteld. Voor de vraag of deze bepaling is overtreden, is niet bepalend wat de leeftijd van de ontvangers van de alcoholhoudende drank is. Het in de geschiedenis van de totstandkoming van artikel 20 van de Dhw vermelde doel van deze bepaling maakt dit niet anders. Het doel om zo veel mogelijk te voorkomen dat alcoholhoudende drank wordt geschonken aan personen die de vereiste leeftijd nog niet hebben bereikt, wordt bovendien ook gediend door voorafgaand aan de verstrekking van alcoholhoudende drank de leeftijd van de betrokkene te controleren. De rechtbank heeft terecht geen grond gevonden voor het oordeel dat de burgemeester misbruik heeft gemaakt van zijn bevoegdheid tot handhaving van artikel 20 van de Dhw.</para>
+    <para>    Het betoog faalt.</para>
+    <para>8.    Merlijn betoogt verder dat de rechtbank de burgemeester ten onrechte is gevolgd in zijn standpunt dat de jonge toezichthouders niet onmiskenbaar de leeftijd van 18 jaar hadden bereikt. De rechtbank had niet tot haar oordeel mogen komen zonder de identiteit van die toezichthouders te kennen. De rechtbank heeft haar oordeel louter gebaseerd op hetgeen bijzonder opsporingsambtenaar [ambtenaar] en de jonge toezichthouders zelf naar voren hebben gebracht. Daarmee is de rechtbank eraan voorbijgegaan dat in het boeterapport en in het relaas van bevindingen niet is gemotiveerd wat in dit geval de kleding, de lichaamstaal, het uiterlijk en het gedrag van de toezichthouders waren. Dat iemand 20 of 21 jaar is, betekent voorts niet dat niet onmiskenbaar kan zijn dat hij of zij de vereiste leeftijd van 18 jaar heeft bereikt. Dat verschilt per persoon. Dat in de NIX18-campagne een verificatieleeftijd van 25 jaar wordt gehanteerd, betekent niet dat iedere persoon die jonger is dan 25 jaar nog niet onmiskenbaar 18 jaar of ouder is. Verder heeft de rechtbank het verzoek om de jonge toezichthouders te horen, ten onrechte afgewezen. Anders dan de rechtbank heeft overwogen, moet wel worden betwijfeld of de toezichthouders niet onmiskenbaar 18 jaar of ouder waren. Van belang is dat alle medewerkers van Merlijn bekend zijn met haar strenge alcoholbeleid. Indien er enige twijfel zou zijn geweest over de leeftijd van de toezichthouders, dan zouden zij nooit alcohol aan hen hebben verstrekt. Door het niet kenbaar maken van de identiteit wordt het recht op gelijke proceskansen (equality of arms) geschonden, aldus Merlijn. Zij verzoekt de Afdeling om de toezichthouders alsnog te horen.</para>
+    <para>8.1.    Het aan de besluiten van de burgemeester ten grondslag gelegde boeterapport is zeer summier. In het boeterapport staat: "Ik zag dat tijdens de leeftijdsgrenzeninspectie de toezichthouders […] en […] niet onmiskenbaar de leeftijd van 18 jaar hadden bereikt aan de hand van Kleding, Lichaamstaal, Uiterlijk en Gedrag." De vermelde aspecten kleding, lichaamstaal, uiterlijk en gedrag zijn niet nader omschreven. In het relaas van bevindingen van de twee toezichthouders staat: "Wij, toezichthouder 1 [en] toezichthouder 2, hebben niet onmiskenbaar de leeftijd van 18 jaar bereikt." Waarom dit het geval zou zijn, is niet toegelicht. De burgemeester heeft de identiteit van de twee jonge toezichthouders niet bekendgemaakt. Hun namen zijn weggelakt uit het boeterapport en het relaas van bevindingen. De burgemeester heeft te kennen gegeven dat hij hun namen en leeftijden weet en dat hij beschikt over het besluit waarbij zij zijn aangewezen als toezichthouders, maar dat hij verder geen gegevens over hen heeft. Verder heeft de burgemeester toegelicht dat de jonge toezichthouders door de gemeente Breda waren ingehuurd bij een eenmansbedrijf. Gesteld is dat de persoon die dit bedrijf voerde, een screening uitvoerde door aan ervaringsdeskundigen te vragen om aan de hand van foto's van de betrokken personen te beoordelen of zij onmiskenbaar 18 jaar of ouder waren. De laatste screening zou hebben plaatsgevonden in februari 2018. De burgemeester beschikt niet over een rapportage waarin de uitkomsten van de screening staan. De persoon die het bedrijf voerde, weigerde namelijk om deze te verstrekken. Ook weigerde hij om andere gegevens en foto's van de toezichthouders te verstrekken aan de burgemeester. De persoon achter het bedrijf is in 2018 overleden, waardoor het thans niet meer mogelijk is om nadere gegevens te verkrijgen. De burgemeester kan in dit geval dus niet, al dan niet onder de voorwaarde dat alleen de rechter er met toepassing van artikel 8:29 van de Algemene wet bestuursrecht kennis van mag nemen, nadere gegevens over de toezichthouders verschaffen.</para>
+    <para>8.2.    De Afdeling is, anders dan de rechtbank, van oordeel dat het boeterapport niet de conclusie kan dragen dat de jonge toezichthouders niet onmiskenbaar de leeftijd van 18 jaar hadden bereikt. Daarvoor is bepalend dat hun identiteit niet is bekendgemaakt en dat vrijwel geen gegevens over hen beschikbaar zijn. De niet toegelichte stelling in het boeterapport over kleding, lichaamstaal, uiterlijk en gedrag van de toezichthouders en het feit dat zij destijds slechts enkele jaren ouder dan 18 jaar waren, zijn onvoldoende. Onder deze omstandigheden is niet na te gaan of de burgemeester op basis van het boeterapport en het relaas van bevindingen terecht heeft aangenomen dat Merlijn op 16 december 2017 artikel 20 van de Dhw heeft overtreden. De rechtbank heeft dan ook ten onrechte overwogen dat de burgemeester zijn besluit hierop heeft mogen baseren.</para>
+    <para>    Het betoog slaagt.</para>
+    <para>9.    Het betoog is alleen al hierom gegrond. Hetgeen Merlijn voor het overige heeft aangevoerd, behoeft geen bespreking. Ook is er onder deze omstandigheden geen aanleiding om de jonge toezichthouders alsnog te horen.</para>
+    <para>10.    Het hoger beroep is gegrond. De aangevallen uitspraak dient te worden vernietigd. Doende hetgeen de rechtbank zou behoren te doen, zal de Afdeling het beroep tegen het besluit van de burgemeester van 6 juni 2018 alsnog gegrond verklaren. Dat besluit komt wegens strijd met artikel 3:2 van de Algemene wet bestuursrecht voor vernietiging in aanmerking. De Afdeling zal op na te melden wijze in de zaak voorzien. Het besluit van 12 januari 2018 zal worden herroepen. De Afdeling zal bepalen dat deze uitspraak in de plaats treedt van het vernietigde besluit.</para>
+    <para>11.    De burgemeester dient op na te melden wijze tot vergoeding van de proceskosten te worden veroordeeld.</para>
+    <para>Beslissing</para>
+    <para>De Afdeling bestuursrechtspraak van de Raad van State:</para>
+    <para>I.    verklaart het hoger beroep gegrond;</para>
+    <para>II.    vernietigt de uitspraak van de rechtbank Zeeland-West-Brabant van 29 januari 2019 in zaak nr. 18/4706;</para>
+    <para>III.    verklaart het bij de rechtbank ingestelde beroep gegrond;</para>
+    <para>IV.    vernietigt het besluit van de burgemeester van Oosterhout van 6 juni 2018, kenmerk IO18033101;</para>
+    <para>V.    herroept het besluit van de burgemeester van Oosterhout van 12 januari 2018, kenmerk IO18002214;</para>
+    <para>VI.    bepaalt dat deze uitspraak in de plaats treedt van het vernietigde besluit;</para>
+    <para>VII.    veroordeelt de burgemeester van Oosterhout tot vergoeding van bij Bowling-Bistro Merlijn B.V. in verband met de behandeling van het bezwaar opgekomen proceskosten tot een bedrag van € 1.050,00 (zegge: duizendvijftig euro), geheel toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand;</para>
+    <para>VIII.    veroordeelt de burgemeester van Oosterhout tot vergoeding van bij Bowling-Bistro Merlijn B.V. in verband met de behandeling van het beroep en het hoger beroep opgekomen proceskosten tot een bedrag van € 2.138,67 (zegge: tweeduizend honderdachtendertig euro en zevenenzestig cent), waarvan € 2.100,00 is toe te rekenen aan door een derde beroepsmatig verleende rechtsbijstand;</para>
+    <para>IX.    gelast dat de burgemeester van Oosterhout aan Bowling-Bistro Merlijn B.V. het door haar betaalde griffierecht ten bedrage van € 857,00 (zegge: achthonderdzevenenvijftig euro) voor de behandeling van het beroep en het hoger beroep vergoedt.</para>
+    <para>Aldus vastgesteld door mr. H.G. Sevenster, voorzitter, en mr. G.M.H. Hoogvliet en mr. C.C.W. Lange, leden, in tegenwoordigheid van mr. H. Herweijer, griffier.</para>
+    <para>w.g. Sevenster    w.g. Herweijer</para>
+    <para>voorzitter    griffier</para>
+    <para>Uitgesproken in het openbaar op 15 januari 2020</para>
+    <para>640.</para>
+  </parablock>
+</uitspraak>
+</open-rechtspraak>

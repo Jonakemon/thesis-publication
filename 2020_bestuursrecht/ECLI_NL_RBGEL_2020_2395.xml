@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<open-rechtspraak>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ecli="https://e-justice.europa.eu/ecli" xmlns:tr="http://tuchtrecht.overheid.nl/" xmlns:eu="http://publications.europa.eu/celex/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:bwb="bwb-dl" xmlns:cvdr="http://decentrale.regelgeving.overheid.nl/cvdr/" xmlns:psi="http://psi.rechtspraak.nl/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <rdf:Description>
+      <dcterms:identifier>ECLI:NL:RBGEL:2020:2395</dcterms:identifier>
+      <dcterms:format>text/xml</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-30T13:00:14</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-29</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:creator rdfs:label="Instantie" resourceIdentifier="http://standaarden.overheid.nl/owms/terms/Rechtbank_Gelderland" scheme="overheid.RechterlijkeMacht">Rechtbank Gelderland</dcterms:creator>
+      <dcterms:date rdfs:label="Uitspraakdatum">2020-04-30</dcterms:date>
+      <psi:zaaknummer rdfs:label="Zaaknr">19-1831 en 19-1267</psi:zaaknummer>
+      <dcterms:type rdf:language="nl" resourceIdentifier="http://psi.rechtspraak.nl/uitspraak">Uitspraak</dcterms:type>
+      <psi:procedure rdf:language="nl" rdfs:label="Procedure" resourceIdentifier="http://psi.rechtspraak.nl/procedure#eersteAanlegEnkelvoudig">Eerste aanleg - enkelvoudig</psi:procedure>
+      <dcterms:coverage>NL</dcterms:coverage>
+      <dcterms:spatial rdfs:label="Zittingsplaats">Arnhem</dcterms:spatial>
+      <dcterms:subject rdfs:label="Rechtsgebied" resourceIdentifier="http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht">Bestuursrecht</dcterms:subject>
+      <dcterms:hasVersion rdfs:label="Vindplaatsen" resourceIdentifier="http://psi.rechtspraak.nl/vindplaats">
+        <rdf:list>
+          <rdf:li>Rechtspraak.nl</rdf:li>
+        </rdf:list>
+      </dcterms:hasVersion>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:2395">
+      <dcterms:identifier>http://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:RBGEL:2020:2395</dcterms:identifier>
+      <dcterms:format>text/html</dcterms:format>
+      <dcterms:accessRights>public</dcterms:accessRights>
+      <dcterms:modified>2020-04-30T11:56:50</dcterms:modified>
+      <dcterms:issued rdfs:label="Publicatiedatum">2020-04-30</dcterms:issued>
+      <dcterms:publisher resourceIdentifier="http://rechtspraak.nl/">Raad voor de Rechtspraak</dcterms:publisher>
+      <dcterms:language>nl</dcterms:language>
+      <dcterms:title rdf:language="nl">ECLI:NL:RBGEL:2020:2395 Rechtbank Gelderland , 30-04-2020 / 19-1831 en 19-1267</dcterms:title>
+      <dcterms:abstract resourceIdentifier="../../rs:inhoudsindicatie" />
+    </rdf:Description>
+  </rdf:RDF>
+  <inhoudsindicatie id="ECLI:NL:RBGEL:2020:2395:INH" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <parablock>
+        <para>Verweerder heeft de door eiser aangevraagde tijdelijke omgevingsvergunning (voor een periode van vijf jaar) voor het stallen van caravans in kassen terecht geweigerd. De caravanstalling is in strijd met het bestemmingsplan. Omdat niet wordt voldaan aan een goede ruimtelijke ordening wordt voor dit planologisch strijdig gebruik geen omgevingsvergunning verleend. Een belangenafweging kan dat niet doorbreken.</para>
+        <para>Verder heeft verweerder terecht handhavend opgetreden tegen het planologisch strijdig gebruik. Van bijzondere omstandigheden die zich daartegen verzetten is geen sprake.</para>
+        <para>De beroepen zijn ongegrond.</para>
+      </parablock>
+    </inhoudsindicatie>
+  <uitspraak id="ECLI:NL:RBGEL:2020:2395:DOC" lang="nl" xml:space="preserve" xmlns="http://www.rechtspraak.nl/schema/rechtspraak-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <uitspraak.info>
+    <bridgehead role="bold">RECHTBANK GELDERLAND</bridgehead>
+    <para>Zittingsplaats Arnhem</para>
+    <para />
+    <parablock>
+      <para>Bestuursrecht</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>zaaknummers: AWB 19/1831 en 19/1267</para>
+    </parablock>
+    <para />
+    <bridgehead role="bold">uitspraak van de enkelvoudige kamer van   </bridgehead>
+    <para />
+    <bridgehead role="bold">in de zaken tussen</bridgehead>
+    <para />
+    <bridgehead role="bold">
+      [eiser] , te [woonplaats] , eiser</bridgehead>
+    <para>(gemachtigde: mr. I.E. Nauta),</para>
+    <para />
+    <parablock>
+      <para>en</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="bold">het college van burgemeester en wethouders van de gemeente Lingewaard</emphasis>, verweerder.</para>
+    </parablock>
+    <para />
+    <para />
+  </uitspraak.info>
+  <section role="procesverloop">
+    <title>Procesverloop</title>
+    <para />
+    <parablock>
+      <para>Bij besluit van 30 mei 2018 (het primaire besluit I) heeft verweerder geweigerd om aan eiser een omgevingsvergunning te verlenen.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 3 oktober 2018 (het primaire besluit II) heeft verweerder aan eiser een last onder dwangsom opgelegd.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 29 januari 2019 (het bestreden besluit I) heeft verweerder het bezwaar van eiser tegen het primaire besluit I ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Bij besluit van 12 maart 2019 (het bestreden besluit II) heeft verweerder het bezwaar van eiser tegen het primaire besluit II ongegrond verklaard.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft tegen de bestreden besluiten I en II beroepen ingesteld.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Verweerder heeft verweerschriften ingediend.</para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Het onderzoek ter zitting heeft plaatsgevonden op 28 januari 2020. Eiser is verschenen, vergezeld door zijn gemachtigde en adviseur [adviseur] . Verweerder heeft zich laten vertegenwoordigen door zijn gemachtigden T.J.E. Lodders en E.P.H. Weijde.</para>
+    </parablock>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Overwegingen</title>
+    <para />
+    <para>1. De relevante bestemmingsplanregels en de relevante bepalingen uit de Algemene wet bestuursrecht (Awb), de Wet algemene bepalingen omgevingsrecht (Wabo), het Besluit omgevingsrecht (Bor), de Wet ruimtelijke ordening (Wro) en de Dienstenrichtlijn zijn opgenomen in de bijlage bij de uitspraak. </para>
+    <para>2. Eiser exploiteert een glastuinbedrijf op het perceel [locatie] in [woonplaats] . De kassen gebruikt eiser voor het telen van groenten, waterlinzen en vezels en voor het stallen van caravans. De percelen van eiser hebben een omvang van 4 hectare, waarvan ongeveer 1,8 hectare is bebouwd met kassen. Ongeveer de helft van de kassen is in gebruik als stalling voor caravans. </para>
+    <para />
+    <parablock>
+      <para>In 2011 heeft verweerder vastgesteld dat de kassen gedeeltelijk werden gebruikt in strijd met het destijds geldende bestemmingsplan, waarna eiser op 4 juni 2012 heeft verzocht om een gedoogbeschikking. Op 14 oktober 2013 heeft verweerder deze verleend voor een periode van twee jaar. De overige daaraan verbonden voorwaarden waren:</para>
+    </parablock>
+    <itemizedlist mark="-">
+      <listitem>
+        <para>dat uiterlijk 31 december 2014 een aanvraag moest zijn ingediend ten behoeve van het realiseren van tenminste 6000 vierkante meter aan glasopstanden;</para>
+      </listitem>
+      <listitem>
+        <para>dat uiterlijk 1 juli 2015 moest zijn gestart met de bouw van deze glasopstanden;</para>
+      </listitem>
+      <listitem>
+        <para>dat uiterlijk 1 april 2016 de bouw gereed moest zijn en dat op 1 juli 2017 de caravanstalling voor de helft was beëindigd;</para>
+      </listitem>
+      <listitem>
+        <para>dat op 1 juli 2018 de volledige stalling moest zijn verwijderd.</para>
+      </listitem>
+    </itemizedlist>
+    <para />
+    <parablock>
+      <para>Op 31 oktober 2013 is het bestemmingsplan “Buitengebied Lingewaard” vastgesteld. Aangezien de gemeenteraad hierin geen medewerking heeft willen verlenen aan het (tijdelijk) toestaan van de stalling van caravans in (een deel van) de glasopstanden, heeft eiser beroep ingesteld tegen het bestemmingsplan. Dit beroep is ongegrond verklaard door de Afdeling bestuursrechtspraak van de Raad van State (de Afdeling)<footnote-ref linkend="_f628d8cf-2199-415f-bbfe-4078d04d70ee" /> en het bestemmingsplan is (deels) onherroepelijk geworden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Op 30 juni 2015 heeft verweerder opnieuw een gedoogbeschikking verleend waaraan dezelfde voorwaarden zijn verbonden als aan de eerste gedoogbeschikking. In beide gedoogbeschikkingen is de bepaling opgenomen dat handhavend zal worden opgetreden indien de stalling niet volledig zou zijn beëindigd. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>Eiser heeft de glasopstanden gerealiseerd. De caravanstalling is niet beëindigd.</para>
+    </parablock>
+    <para />
+    <para>3. Op 7 mei 2018 heeft eiser een (tijdelijke) omgevingsvergunning aangevraagd om voor een periode van vijf jaar de glasopstanden te mogen gebruiken in afwijking van artikel 3.1.2, onder d, van het ter plaatse geldende bestemmingsplan “Buitengebied Lingewaard”. Dit artikel bepaalt dat opslag (als nevenactiviteit) niet mag plaatsvinden in kassen. Op het perceel rust de bestemming "Agrarisch-Glastuinbouw".</para>
+    <para>Verweerder heeft bij het primaire besluit I geweigerd om de omgevingsvergunning te verlenen. Bij het bestreden besluit I (van 29 januari 2019)  is dit besluit in stand gelaten. Volgens verweerder past een caravanstalling niet in een herontwikkelingsgebied waar wordt ingezet op de intensivering van glastuinbouw. Het financieel belang van eiser bij een caravanstalling is volgens verweerder hieraan ondergeschikt. De voorgestane herstructurering en intensivering van de glastuinbouw wordt door de caravanstalling in de kassen gefrustreerd. Verder wil verweerder ongewenste precedenten voorkomen. </para>
+    <para />
+    <para>4. Om het planologisch strijdig gebruik van eiser tegen te gaan heeft verweerder een voornemen tot handhavend optreden verzonden. In de zienswijze heeft eiser aangegeven dat hij het klantenbestand in het voorjaar van 2019 met nog eens 25% zou laten krimpen en dat per 1 juli 2019 de stalling volledig zou zijn beëindigd. Op 3 oktober 2018 heeft verweerder een last onder dwangsom opgelegd waarin eiser is gelast om de kampeermiddelen voor <?linebreak?>1 april 2019 uit de kassen te verwijderen en verwijderd te houden op straffe van een dwangsom van € 30.000,- ineens. Bij het bestreden besluit II heeft verweerder conform het advies van de bezwaarschriftencommissie de begunstigingstermijn verruimd naar 1 juli 2019.</para>
+    <parablock>
+      <para>
+        <?linebreak?>De voorzieningenrechter van deze rechtbank heeft een voorlopige voorziening getroffen en het bestreden besluit II geschorst tot zes weken na de uitspraak op de onderhavige beroepen<footnote-ref linkend="_370e1d55-e9ab-45a8-9596-e3e6083ebef7" />. <?linebreak?></para>
+      <para>De voorzieningenrechter zag in de uitspraak van de voorzieningenrechter van de Afdeling in een tweetal gelijksoortige zaken<footnote-ref linkend="_e6541799-df49-472d-a352-e56462f2842e" />, aanknopingspunten voor het oordeel dat de overwegingen van de Afdeling ook op dit geschil van toepassing waren. De Afdeling had namelijk overwogen dat in die twee zaken in het verleden een duidelijke link is gelegd tussen niet handhavend optreden en hoopgevende ontwikkelingen voor een doorstart, en dat verweerder daarbij niet duidelijk had gemaakt waarom er ondanks de nieuwe ontwikkelingen nu handhavend moest worden opgetreden. </para>
+    </parablock>
+    <para />
+    <parablock>
+      <para>De Afdeling heeft op 29 mei 2019 de handhavingsbesluiten in deze twee gelijksoortige zaken vernietigd en, kort samengevat, geoordeeld dat verweerder ten onrechte niet is ingegaan op het betoog over de evenredigheid van het handhavend optreden<footnote-ref linkend="_b904f316-61d4-4e09-b93d-aab85f5d457a" />.</para>
+    </parablock>
+    <para />
+    <para>5. De rechtbank zal eerst beoordelen of verweerder terecht de omgevingsvergunning heeft geweigerd. Het antwoord op deze vraag is immers bepalend voor het antwoord op de vraag of verweerder de last onder dwangsom heeft mogen opleggen.</para>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Weigering omgevingsvergunning</emphasis>
+      </para>
+    </parablock>
+    <para>6. Eiser heeft ter zitting medegedeeld dat hij zich nog steeds op het standpunt stelt dat verweerder onbevoegd is om te beslissen op de aanvraag, zoals in bezwaar ook door hem betoogd. Volgens eiser is er een verklaring van geen bedenkingen nodig van de raad. </para>
+    <para />
+    <paragroup>
+      <nr>6.1</nr>
+      <para>Een verklaring van geen bedenkingen van de gemeenteraad is op basis van artikel 6.5 van het Bor slechts nodig indien toepassing wordt gegeven aan artikel 2.12, eerste lid, onder a, onderdeel 3˚, van de Wabo. Dat is hier niet aan de orde aangezien hier toepassing kon worden gegeven aan artikel 2.12, eerste lid, onder a, onderdeel 2˚, van de Wabo. Het gebruik van het perceel voor het tijdelijk stallen van caravans valt namelijk onder de reikwijdte van de afwijkingsbevoegdheid van artikel 4, onderdeel 11 van Bijlage II bij het Bor. Eiser heeft zijn betoog in beroep niet nader onderbouwd. Het betoog van eiser slaagt daarom niet.</para>
+      <para />
+      <parablock>
+        <para>7.	Eiser betoogt dat voor het stallen van caravans geen vergunningplicht geldt omdat artikel 3.1.2, onder d, van de planregels onverbindend is. Deze bepaling is innerlijk tegenstrijdig met andere regels van artikelen 3.1.1 en 3.1.2 van het bestemmingsplan en de bepaling maakt een – niet door een goede ruimtelijke ordening te rechtvaardigen – onderscheid tussen de opslag in kassen en de opslag in andere opstallen, zoals voormalige agrarische schuren. Dit onderscheid is evident niet in het belang van een goede ruimtelijke ordening en daarom in strijd met artikel 3.1 van de Wro. Verder is deze bepaling in strijd met artikel 15, derde lid, van de Dienstenrichtlijn omdat hierdoor de uitoefening van de dienst van het stallen van caravans in kassen ontoelaatbaar wordt beperkt, aldus eiser. </para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.1</nr>
+      <para>De rechtbank stelt voorop dat tegen de vaststelling van het bestemmingsplan een rechtsmiddel heeft open gestaan, waarvan eiser ook gebruik heeft gemaakt. De Afdeling heeft echter eisers betoog dat het bestaande (tijdelijke) gebruik van een deel van zijn kassen voor de stalling van caravans bijdraagt aan de herstructurering van het glastuinbouwgebied en niet in strijd is met het gemeentelijk of provinciaal beleid niet gevolgd<footnote-ref linkend="_61389a10-0244-4ce0-9bfe-e72c9b6dcfe7" />. Verder blijkt uit vaste jurisprudentie van de Afdeling<footnote-ref linkend="_25e6e5be-3c67-470e-b115-649c0cc72cd0" /> dat de mogelijkheid om in een procedure als de onderhavige de gelding van de toepasselijke bestemmingsplanregeling aan de orde te stellen niet zover strekt dat deze regeling aan dezelfde toetsingsmaatstaf wordt onderworpen als de maatstaf die wordt gehanteerd in het kader van de beoordeling van beroepen tegen een vastgesteld bestemmingsplan. In dit geval kan een bestemmingsplanregeling derhalve slechts onverbindend worden geacht of buiten toepassing worden gelaten, indien de bestemmingsregeling evident in strijd is met een hogere regeling, waarbij onder meer is vereist dat de hogere regelgeving zodanig concreet is dat deze zich voor toetsing daaraan bij wijze van exceptie leent.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.2</nr>
+      <para>Eiser wordt niet gevolgd in zijn stelling dat artikel 3.1.2, onder d, van de planregels innerlijk tegenstijdig is met andere regels die zijn opgenomen in artikelen 3.1.1 en 3.1.2 van het bestemmingsplan. Op grond van artikel 3.1.1, aanhef en onder d, zijn op eisers perceel nevenactiviteiten toegestaan. In artikel 3.1.2 zijn aanvullende regels opgenomen. Dat deze regels de toegestane nevenactiviteiten in bepaalde mate beperken, en dat regels voor opslag de nevenactiviteit inpandige opslag nog verder beperken en daarbij onderscheid wordt gemaakt tussen opslag in schuren en kassen, maakt nog niet dat sprake is van innerlijke tegenstrijdigheid van betrokken planregels. Voor zover eiser betoogt dat het verbod om opslag te laten plaatsvinden in kassen in strijd is met artikel 3.1 van de Wro wordt hij daarin evenmin gevolgd. Naar het oordeel van de rechtbank is het bepaald niet evident dat het onderscheid dat in de planregels wordt gemaakt tussen opslag in kassen en opslag in schuren niet in het belang van een goede ruimtelijke ordening is gemaakt. Nog daargelaten dat artikel 3.1 van de Wro niet zodanig concreet is dat die bepaling zich leent voor toetsing daaraan bij wijze van exceptie, is niet onbegrijpelijk dat de planwetgever opslag in kassen niet heeft willen toestaan in een gebied waar intensieve glastuinbouw wordt beoogd. In zoverre is hier de verwijzing van verweerder naar de eerdergenoemde uitspraak van 24 juni 2015 (over het bestemmingsplan) wel relevant, aangezien de Afdeling hierin immers heeft overwogen dat het stallen van caravans in kassen in strijd moet worden geacht met het ruimtelijk beleid.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>7.3</nr>
+      <parablock>
+        <para>Over het beroep op de Dienstenrichtlijn het volgende. De rechtbank is van oordeel dat het aanbieden van stallingsruimte voor caravans een economische activiteit is die gewoonlijk tegen vergoeding geschiedt en dat daarom sprake is van een dienst is in de zin van de Dienstenrichtlijn. De rechtbank oordeelt echter dat gelet op overweging 9 van de considerans van de Dienstenrichtlijn het in artikel 3.1.2, onder d, van het bestemmingsplan geregelde verbod om goederen op te slaan in kassen niet onder de werkingssfeer van de Dienstenrichtlijn valt. In die overweging is immers aangegeven dat de Dienstenrichtlijn alleen van toepassing is op eisen met betrekking tot de toegang tot of de uitoefening van een dienstenactiviteit. De Dienstenrichtlijn is niet van toepassing op eisen zoals verkeersregels, regels betreffende de ontwikkeling of het gebruik van land, voorschriften inzake ruimtelijke ordening en stedenbouw, en evenmin op administratieve sancties wegens het niet naleven van dergelijke voorschriften die de dienstenactiviteit niet specifiek regelen of daarop specifiek van invloed zijn, maar die de dienstverrichters bij de uitvoering van hun economische activiteit in acht dienen te nemen op dezelfde wijze als natuurlijke personen die als particulier handelen.</para>
+        <para>De betreffende planregel is een algemeen voorschrift van ruimtelijke ordening dat opslag regelt. Het verbod om dat in kassen te doen is niet alleen gericht tot verhuurders van stallingsruimte ten behoeve van caravans, en dus tot personen of bedrijven die een dienstenactiviteit willen ontwikkelen, maar heeft een generieke gelding. Ook particulieren die een caravan of andere goederen in hun kassen willen opslaan, vallen onder dit verbod. Dit verbod regelt dus niet specifiek de toegang tot een activiteit in verband met diensten of is daarop specifiek van invloed, maar moet door de dienstverrichters in acht worden genomen in de uitoefening van hun economische activiteit, op dezelfde wijze als door personen die handelen als particulier. De Dienstenrichtlijn ziet niet op dergelijke regelingen. De rechtbank verwijst naar en vindt bevestiging in de rechtspraak hierover van het Hof van Justitie van de Europese Unie en van de Afdeling.<footnote-ref linkend="_2b67af6c-780c-4752-9169-60ea416943e0" /></para>
+        <para>Gelet hierop bestaat geen aanleiding voor het oordeel dat artikel 3.1.2, onder d, van het bestemmingsplan onverbindend is of buiten toepassing moet worden gelaten.<?linebreak?></para>
+        <para>8.	Eiser betoogt verder dat het stallen van caravans in kassen niet in strijd is met een goede ruimtelijke ordening omdat de herstructurering van de [locatie] op een dood spoor zit, nieuwe ontwikkelingen die de glastuinbouw in de [locatie] stimuleren niet bekend zijn, de ruimtelijke uitstraling van de (tijdelijke) caravanstelling gering is, het waterlinzenproject dat eiser met de caravanstalling financiert een bijdrage levert aan de herstructurering en vanwege deze bijdrage niet hoeft te worden gevreesd voor precedentwerking. Aanvullend betoogt eiser nog dat herstructurering en intensivering van de glastuinbouw niet aan de orde zullen zijn zolang de PAS-crisis voortduurt, zodat verweerder de omgevingsvergunning niet op grond van dit argument heeft kunnen weigeren.</para>
+      </parablock>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>8.1</nr>
+      <para>De rechtbank overweegt als volgt. In rechtsoverweging 5 van de uitspraak van de Afdeling van 24 juni 2015 staat, kortgezegd, dat het gebruik van de percelen voor de stalling van caravans ook op grond van het vorige bestemmingsplan niet was toegestaan, niet past in het provinciale en gemeentelijke beleid voor het gebied (stimuleren economische toekomstmogelijkheden voor de tuinbouwbedrijven) en hetgeen is aangevoerd omtrent de bedrijfsvoering geen aanleiding geeft om een uitzondering te maken op het beleid. Dat het in de praktijk volgens eiser niet lukt om daadwerkelijk invulling te geven aan het bestemmingsplan, dat ambtelijk wordt nagedacht over een andere invulling van het gebied, en dat de stikstofproblematiek een extra hindernis kan gaan vormen bij het invulling geven aan het bestemmingsplan, neemt niet weg dat het gemeentelijke en provinciale beleid op dit punt ongewijzigd zijn en de Afdeling in de hierboven genoemde uitspraak reeds heeft uitgemaakt dat caravanstalling in kassen niet past in dit beleid. Naar het oordeel van de rechtbank heeft verweerder zich ten tijde van het bestreden besluit 1 dan ook nog steeds in redelijkheid op het standpunt kunnen stellen dat het gevraagde gebruik in strijd is met een goede ruimtelijke ordening. Het betoog van eiser slaagt daarom niet.</para>
+      <para />
+      <para>9. Nu de caravanstalling van eiser in strijd moet worden geacht met een goede ruimtelijke ordening, is niet voldaan aan de toepassingsvereisten van de aanhef van artikel 2.12, eerste lid, van de Wabo. Ook voor tijdelijke afwijkingsvergunningen geldt dit vereiste. Al het overige dat eiser in dit kader heeft aangevoerd treft dan ook geen doel. Dat het financieel belang van eiser bij het gevraagde gebruik groot is, kan niet tot een ander oordeel leiden. Als er strijd is met een goede ruimtelijke ordening, kan een belangenafweging dat niet doorbreken. Aan een beoordeling van de belangenafweging komt de rechtbank in dit geval dus niet toe. Dit geldt ook voor een beoordeling van de stelling van eiser dat herstructurering en intensivering van de glastuinbouw niet aan de orde kan zijn zolang de PAS-crisis voortduurt.  </para>
+      <para />
+      <para>10. Eiser betoogt ten slotte dat verweerder in strijd heeft gehandeld met het gelijkheidsbeginsel. Daartoe stelt eiser dat het gebruik van kassen voor het stallen van caravans wel is vergund op het adres Hazenkamp 1. Dit bevreemdt al helemaal aangezien de buurman die daar een glastuinbouwbedrijf exploiteert aan geen enkel project deelneemt en verweerder volhardt in zijn standpunt dat de [locatie] moet worden geherstructureerd, aldus eiser.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>10.1</nr>
+      <para>Verweerder stelt zich op het standpunt dat de omgevingsvergunning onbedoeld van rechtswege is verleend. De rechtbank ziet geen concrete aanwijzingen dat verweerder dit bewust heeft laten gebeuren en dat er geen sprake zou zijn van een fout. Volgens vaste rechtspraak van de Afdeling<footnote-ref linkend="_dfa7367c-63d9-4e6e-9b4d-09ffb4a7c5f9" /> strekt het beroep op het gelijkheidsbeginsel niet zo ver dat verweerder gemaakte fouten moet herhalen. Het betoog van eiser slaagt daarom niet.<?linebreak?></para>
+      <para>11. Gelet op hetgeen is overwogen, komt de rechtbank tot het oordeel dat verweerder de omgevingsvergunning terecht heeft geweigerd. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Last onder dwangsom</emphasis>
+        </para>
+      </parablock>
+      <para>12. De rechtbank beoordeelt hierna of verweerder de last onder dwangsom heeft mogen opleggen.</para>
+      <para />
+      <para>13. Eiser betoogt dat verweerder ten onrechte de last onder dwangsom heeft opgelegd omdat artikel 3.1.2, onder d, van het bestemmingsplan onverbindend is. Volgens eiser is daarom geen sprake van een overtreding. Dit betoog slaagt niet, aangezien in rechtsoverweging 7 reeds is geoordeeld dat er geen aanleiding bestaat voor het oordeel dat artikel 3.1.2, onder d, van het bestemmingsplan onverbindend is.<?linebreak?></para>
+      <para>
+        <emphasis role="underline">Bevoegdheid van het college</emphasis>
+      </para>
+      <para>14. Niet in geschil is dat stalling van caravans in strijd is met het geldende bestemmingsplan. Verweerder is daarom bevoegd om handhavend op te treden. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Beginselplicht tot handhaving</emphasis>
+        </para>
+      </parablock>
+      <para>15. Gelet op het algemeen belang dat is gediend met handhaving, zal in geval van overtreding van een wettelijk voorschrift het bestuursorgaan dat bevoegd is om met een last onder bestuursdwang of dwangsom op te treden, in de regel van deze bevoegdheid gebruik moeten maken. Slechts onder bijzondere omstandigheden mag van het bestuursorgaan worden gevergd, dit niet te doen. Dit kan zich voordoen indien concreet zicht op legalisatie bestaat. Voorts kan handhavend optreden zodanig onevenredig zijn in verhouding tot de daarmee te dienen belangen dat van optreden in die concrete situatie behoort te worden afgezien.</para>
+      <para />
+      <para>16. Eiser stelt dat verweerder wegens de aanwezigheid van bijzondere omstandigheden ten onrechte niet van handhaving heeft afgezien.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">Vertrouwensbeginsel</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>16.1</nr>
+      <para>Eiser betoogt in de eerste plaats dat verweerder in strijd heeft gehandeld met het vertrouwensbeginsel. Verweerder was ervan op de hoogte dat hij nog onvoldoende inkomsten kan genereren uit zijn deelname aan het waterlinzenproject. Eiser heeft het belang van de caravanstalling voor de financiering van het waterlinzenproject tijdens de overleggen met wethouder [wethouder] meerdere malen aangekaart, hij heeft op verzoek van deze wethouder een bedrijfsplan overgelegd en de wethouder heeft hem niet medegedeeld dat hij moest stoppen met de caravanstalling. Eiser zou niet in de projecten hebben geïnvesteerd en subsidie hebben aangevraagd, als hij had geweten dat verweerder toch zou gaan handhaven. Pas toen eiser zijn investeringen had gedaan ontving hij een last onder dwangsom. Verder stelt eiser dat tijdens het overleg van juli 2017 over het project Living Lab toezeggingen zijn gedaan namens verweerder dat een-op-een gesprekken zouden worden gehouden met de telers waarin zou worden nagegaan hoe de handhaving zich verhoudt tot hun deelname aan dit project. Omdat deze gesprekken niet hebben plaatsgevonden en het project werd doorgezet, is de verwachting gewekt dat niet meer zal worden gehandhaafd. Deze verwachting werd versterkt door de subsidieaanvraag die verweerder in december 2017 heeft gedaan bij de provincie Gelderland voor de realisatie van het project Korte Keten. Verder heeft ook het overleg van 19 december 2018 over de kwestie Humphreys bijgedragen aan deze verwachting. Hiervoor wijst eiser op het gespreksverslag van dit overleg waarin gemaakte afspraken zijn opgenomen tussen, onder meer, eiser en de gemeente en de e-mail van 22 februari 2019 waarin dit verslag is aangevuld. Gelet op deze gebeurtenissen stelt eiser dat bij hem de gerechtvaardigde verwachting is gewekt dat verweerder niet zou handhaven tegen de caravanstalling.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>16.2</nr>
+      <para>Voor de bespreking van een beroep op het vertrouwensbeginsel hanteert de Afdeling een stappenplan<footnote-ref linkend="_b3c104ea-b505-4745-a3f9-abf51a57f5a2" />. De eerste stap is de juridische kwalificatie van de uitlating of gedraging waarop de betrokkene zich beroept, namelijk de vraag of die uitlating of gedraging kan worden gekwalificeerd als een toezegging. Doorgaans zal de uitlating en/of gedraging door een ambtenaar worden gedaan of verricht, maar dit kan ook door anderen gebeuren, bijvoorbeeld een wethouder of derden, die door het bestuursorgaan worden ingeschakeld. Bij de tweede stap moet de vraag worden beantwoord of die toezegging aan het bevoegde bestuursorgaan kan worden toegerekend. Indien beide vragen bevestigend worden beantwoord, en er dus een geslaagd beroep op het vertrouwensbeginsel kan worden gedaan, volgt de derde stap. Die betreft de belangenafweging. In het kader daarvan moet de vraag worden beantwoord of geen zwaarder wegende belangen aan het honoreren van de gewekte verwachtingen in de weg staan. Om aan te nemen dat een toezegging is gedaan, dient degene die zich beroept op het vertrouwensbeginsel aannemelijk te maken dat sprake is van uitlatingen en/of gedragingen van ambtenaren die bij de betrokkene redelijkerwijs de indruk wekken van een welbewuste standpuntbepaling van het bestuur over de manier waarop in zijn geval een bevoegdheid al dan niet zal worden uitgeoefend.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>16.3</nr>
+      <parablock>
+        <para>De rechtbank is van oordeel dat ook in het geval van eiser niet is gebleken van een dergelijke toezegging. Nog daargelaten de omstandigheid dat eiser nimmer contact heeft gehad met wethouder [wethouder] (verantwoordelijk voor handhaving), is ook niet gebleken dat de wethouders [wethouder] (verantwoordelijk voor economische zaken) en Sluiter (verantwoordelijk voor glastuinbouw) uitlatingen hebben gedaan die bij eiser redelijkerwijs de indruk hebben kunnen wekken van een welbewuste standpuntbepaling van verweerder om in het geval van eiser geen gebruik te zullen maken van zijn handhavingsbevoegdheid. De omstandigheid dat wethouder [wethouder] aan eiser heeft gevraagd om een bedrijfsplan waarmee hij mogelijk iets zou kunnen bewerkstelligen bij zijn collega-wethouder [wethouder] , zoals eiser ter zitting heeft gesteld, bevestigt eerder dat hijzelf niet bevoegd was om hierover toezeggingen te doen. Verder is niet gebleken dat tijdens het overleg van juli 2017, waar is gesproken over het project Living Lab, rechtens relevante toezeggingen zijn gedaan. Uit eisers stelling dat verweerder had toegezegd om een-op-een gesprekken te houden met de telers over het handhavend optreden tegen caravanstallingen, kan hooguit worden afgeleid dat verweerder de handhavingsmogelijkheid aan het verkennen was. Dit maakt niet dat eiser hieruit mocht afleiden dat verweerder van handhavend optreden zou afzien. Dat de gesprekken niet hebben plaatsgevonden en het project werd doorgezet, doet hieraan niet af. Ook heeft eiser niet aannemelijk gemaakt dat tijdens het overleg van 19 december 2018 over de kwestie Humphreys rechtens relevante toezeggingen zijn gedaan door wethouder Sluiter. Uit het gespreksverslag van dit overleg blijkt enkel dat één van de telers zijn ongenoegen uit over het gestarte handhavingstraject. Verder komt uit de door de telers gewenste aanvulling op dit verslag, zoals opgenomen in de e-mail van 22 februari 2019, naar voren dat wethouder Sluiter heeft aangegeven dat initiatieven en inspanningen van telers die zijn gericht op het vinden van alternatieven voor de caravanstalling, tot vijf-voor-twaalf een rol zouden kunnen spelen bij het toepassen van het handhavingsbeleid. Nog los van het feit dat deze voorgestelde aanvulling van het gespreksverslag tijdens een volgende bijeenkomst met de werkgroep zou worden besproken, en niet is gebleken dat die aanvulling is overgenomen, en de omstandigheid dat verweerder deze uitlating betwist, blijkt uit deze beweerdelijke uitlating hooguit dat mogelijk sprake zou kunnen zijn van (verder) uitstel maar niet van afstel. </para>
+        <para>Ook is naar het oordeel van de rechtbank niet gebleken van gedragingen die als een toezegging in de in 16.2 genoemde zin kunnen worden aangemerkt. Uit de in de gedoogbeschikkingen genoemde voorwaarden blijkt duidelijk dat de caravanstalling op 1 juli 2018 volledig moest zijn beëindigd. Uit de stukken blijkt verder dat verweerder eiser in de loop der jaren heeft willen ondersteunen in eisers poging om de caravanstalling af te bouwen en daarvoor in de plaats alternatieve teelten te beproeven waarmee eiser voldoende inkomsten zou kunnen genereren. Verweerder heeft daartoe allerlei innovatieve projecten gestimuleerd dan wel toegejuicht, met telers samengewerkt en subsidie(s) aangevraagd. Daaruit kan echter redelijkerwijs niet worden afgeleid dat verweerder de illegale caravanstalling voor onbepaalde tijd zou blijven gedogen en zou afzien van zijn bevoegdheid om tot handhaving over te gaan. </para>
+        <para>Voor zover eiser heeft willen stellen dat het jarenlange gedogen van de caravanstalling een gedraging is die kan worden gekwalificeerd als een toezegging dat verweerder in het geheel niet meer tot handhaving zou overgaan, wordt overwogen dat het vaste rechtspraak is dat uit de enkele omstandigheid dat wordt gedoogd niet kan worden afgeleid dat in het geheel niet meer zal worden gehandhaafd.<footnote-ref linkend="_c7aef9da-8c2d-4057-a074-2d4d823b6347" />  Verweerder heeft het beroep op het vertrouwensbeginsel dan ook terecht verworpen. Het betoog van eiser slaagt daarom niet. <?linebreak?></para>
+        <para>
+          <emphasis role="underline">Evenredigheid</emphasis>
+        </para>
+      </parablock>
+    </paragroup>
+    <paragroup>
+      <nr>16.4</nr>
+      <para>Eiser betoogt in de tweede plaats dat handhaving in dit concrete geval onevenredig is in verhouding tot de daarmee te dienen belangen, althans dat verweerder zijn oordeel ten aanzien van de evenredigheid onvoldoende heeft gemotiveerd. Daartoe stelt eiser dat verweerder, net als in de eerdergenoemde vergelijkbare zaak van twee collega-glastuinbouwers aan de [locatie], zijn belangen in de besluitvorming onvoldoende heeft betrokken en verwijst hij naar de onder 4. aangehaalde uitspraak<footnote-ref linkend="_8bdab42c-d62a-4e0d-b206-de299bc069a2" /> van de Afdeling.  Eiser stelt dat hij in de afgelopen jaren stappen heeft gezet om alternatieve teelten te realiseren en investeringen heeft gedaan in diverse hoopgevende projecten die een economisch en maatschappelijk belang dienen. Zo heeft eiser geïnvesteerd in de projecten Waterlinzen, Living Lab en Korte Keten. Om deze investeringen te kunnen doen zijn de inkomsten die eiser genereert met het stallen van caravans cruciaal. Dat eiser deze inkomsten nodig heeft voor het laten slagen van het waterlinzenproject onderbouwt eiser met een document van A. Megens, deskundige op het gebied van procestechnologie. Indien de inkomsten uit de caravanstalling wegvallen, dan dreigt volgens eiser faillissement van zijn bedrijf. Ook het waterlinzenproject leidt dan schade. Daarnaast wijst eiser opnieuw op de verwachtingen die zijn gewekt door het handelen van betrokken wethouders en de samenwerking van eiser met de gemeente rond de realisatie van bovengenoemde projecten. Verder stelt eiser dat het niet reëel is om vast te blijven houden aan het bestemmingsplan. De [locatie] is volgens eiser ongeschikt voor herstructurering vanwege de verbrokkelde structuur van glastuinbouw en woningbouw. Ook verweerder heeft dit ingezien. In het collegeakkoord 2018 - 2022 heeft verweerder immers aangegeven in gesprek te willen gaan met de provincie Gelderland over een andere invulling van de [locatie]. Onduidelijk is waarom na jarenlang gedogen dit gesprek niet kan worden afgewacht. Eiser wijst er verder op dat verweerder in het nabijgelegen gebied ’t Zand meewerkt aan de realisatie van woningbouw. Dit rechtvaardigt volgens eiser ook een andere invulling van de [locatie]. Daarnaast zorgen de ontwikkelingen op ’t Zand ervoor dat de [locatie] wordt ingesloten door woonwijken. Ook stelt eiser dat uit de door hem overgelegde Aeriusberekening blijkt dat herstructurering en intensivering van glastuinbouw niet aan de orde kan zijn. Volgens eiser leidt de ingebruikname van alle kassen namelijk tot ontoelaatbare stikstofdepositie op nabij gelegen Natura 2000-gebieden. Eiser wijst in dit kader op de PAS-uitspraken van de Afdeling van 29 mei 2019.<footnote-ref linkend="_b98778ef-01d7-4540-a8fe-816afd39d325" /> Verder stelt eiser dat de ruimtelijke uitstraling van de caravanstalling minimaal is. Volgens eiser is ook nog van belang dat niet is gebleken dat derden zich verzetten tegen de caravanstalling en, indien dat wel het geval is, verweerder niet inzichtelijk heeft gemaakt welke derden zich daartegen verzetten en waarom hun belangen zwaarder wegen dan die van eiser. </para>
+    </paragroup>
+    <paragroup>
+      <nr>16.5</nr>
+      <para>Naar het oordeel van de rechtbank heeft verweerder zich in redelijkheid op het standpunt kunnen stellen dat eiser niet onevenredig in zijn belangen is geschaad. Hiervoor heeft verweerder van belang mogen achten dat al in 2011 en later opnieuw in 2018 in het handhavingsbeleid het bestrijden van illegale caravanstalling als prioriteit is benoemd. Ook heeft verweerder terecht bij de afweging betrokken dat reeds in 2011 is geconstateerd dat eiser caravans stalde in kassen en verweerder sindsdien ruimschoots gelegenheid heeft geboden aan eiser om alternatieve inkomstenbronnen te ontwikkelen en tegelijkertijd de caravanstalling stapsgewijs af te bouwen, de afgelopen anderhalf jaar ook door het bieden van ruime begunstigingstermijnen. Dat dit tot op heden nog in onvoldoende mate is gelukt, en dat dit in ieder geval deels niet aan eiser kan worden toegerekend, betekent niet dat verweerder nog langer dient af te wachten of de hoopgevende ontwikkelingen voldoende vruchten gaan afwerpen. Zoals hiervoor reeds is overwogen heeft eiser er niet op mogen vertrouwen dat verweerder zou wachten met handhavend optreden totdat hij financieel niet meer afhankelijk zou zijn van de caravanstalling. Dat eiser heeft besloten om investeringen te doen zonder dat hij een garantie had dat deze terugverdiend zouden kunnen worden, komt dan ook voor zijn eigen risico. In dit verband acht de rechtbank verder nog van belang dat niet is gebleken dat eiser binnen afzienbare tijd niet meer afhankelijk zal zijn van de inkomsten uit de caravanstalling. Op de zitting heeft eiser immers aangegeven dat hij naar verwachting pas in 2023 een rendabel bedrijf kan hebben met het waterlinzenproject. Het is vaste rechtspraak van de Afdeling<footnote-ref linkend="_e973f813-f451-45bd-8c10-d22fe2307b97" /> dat ernstige financiële gevolgen die ontstaan voor degene ten laste van wie wordt gehandhaafd, geen grond bieden voor het oordeel dat verweerder van handhaving dient af te zien.  Ook de omstandigheid dat er algemene maatschappelijke belangen zijn gediend met het slagen van het waterlinzenproject en dat dit project zonder de deelname van eiser zal moeten staken, betekent niet dat verweerder dit algemene belang had moeten laten prevaleren boven het algemene belang dat gediend is bij handhaving. Verweerder heeft daarom deugdelijk gemotiveerd waarom voldoende rekening is gehouden met de belangen van eiser en, vanwege genoemde omstandigheden, de rek er inmiddels uit is.</para>
+      <para />
+      <parablock>
+        <para>De stelling van eiser dat het gelet op diverse recente ontwikkelingen niet reëel is om vast te blijven houden aan de herstructurering, en het gelet op deze ontwikkelingen onevenredig is om tot handhaving over te gaan, volgt de rechtbank evenmin. Uitgangspunt is dat de beoordeling van een handhavingsbesluit ex tunc plaatsvindt, en dat de door eiser geschetste ontwikkelingen ten spijt het gemeentelijke en provinciale beleid vooralsnog ongewijzigd is. Het was ten tijde van het bestreden besluit maar ook ten tijde van de zitting nog te vroeg om te kunnen concluderen dat de huidige bestemming zal worden gewijzigd in woningbouw, zoals eiser lijkt te verwachten. De enkele omstandigheid dat verweerder heeft nagedacht over de voortzetting van de herstructurering en hierover in gesprek wilde met de provincie Gelderland, maakt nog niet dat verweerder concrete plannen had om een andere invulling te geven aan de [locatie] waardoor het handhavend optreden moest worden opgeschort. Op zitting is verweerder op dit onderwerp bevraagd. Verweerder erkent dat in en om de [locatie] woningbouw plaatsvindt, maar dat uit ambtelijk onderzoek is gebleken dat er nog steeds voldoende ruimte bestaat voor de ontwikkeling van glastuinbouw. Volgens verweerder is daarom besloten om de herstructurering van de [locatie] voort te zetten.		</para>
+        <para>De door eiser aangevoerde stikstofproblematiek speelde ten tijde van de besluitvorming nog niet aangezien de PAS-uitspraken van de Afdeling zijn van 29 mei 2019. Dit heeft verweerder dan ook niet bij zijn afweging hoeven te betrekken. Tenslotte maakt de omstandigheid dat de ruimtelijke uitstraling van de caravanstalling volgens eiser gering is niet dat het hier zou gaan om een geringe overtreding. Ongeveer de helft van de oppervlakte aan kassen is immers in gebruik als caravanstalling. Ook de omstandigheid dat derden zich niet zouden verzetten tegen de caravanstalling, hetgeen overigens wordt betwist door verweerder, neemt niet weg dat er sprake is van een overtreding, en zelfs van een overtreding die volgens het handhavingsbeleid van verweerder prioriteit dient te krijgen. 	</para>
+      </parablock>
+      <para />
+      <parablock>
+        <para>Het betoog van eiser slaagt daarom niet.</para>
+      </parablock>
+      <para />
+      <para>17. Gelet op wat is overwogen, biedt hetgeen eiser heeft aangevoerd geen grond voor het oordeel dat verweerder ten onrechte heeft besloten tot handhaving.</para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">begunstigingstermijn</emphasis>
+        </para>
+      </parablock>
+      <para>18. Eiser betoogt ten slotte nog dat de aan de last verbonden begunstigingstermijn onredelijk kort is. Daartoe stelt eiser dat hij de caravanstalling niet wil opheffen voordat andere telers dat ook doen. Indien eiser binnen de begunstigingstermijn aan de last voldoet, dan heeft hij de caravanstalling eerder beëindigd dan andere telers. Dit is volgens eiser oneerlijk omdat hij aan meer projecten deelneemt.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.1</nr>
+      <para>De rechtbank overweegt dat de door verweerder gestelde begunstigingstermijn tot het beëindigen van de caravanstalling niet te kort is. Eiser moest vanaf het primaire besluit II (3 oktober 2018) binnen de gegeven termijn - van zes maanden - aan de opgelegde last voldoen. Verweerder heeft de begunstigingstermijn bij het bestreden besluit II verruimd naar 1 juli 2019. Dit betekent dat eiser negen maanden de tijd heeft gehad om aan de last te voldoen. De rechtbank acht het niet aannemelijk dat de uiteindelijk geboden begunstigingstermijn niet toereikend was om aan de last te voldoen, indien eiser na de ontvangst van de last onder dwangsom stappen had ondernomen. Het betoog van eiser slaagt daarom niet.</para>
+      <para />
+    </paragroup>
+    <paragroup>
+      <nr>18.2</nr>
+      <para>Op de zitting heeft verweerder aangegeven bereid te zijn de begunstigingstermijn op te schorten tot 1 juli 2020. Nu niet is gebleken dat belangen van derden zich daartegen verzetten, ziet de rechtbank aanleiding om die termijn over te nemen en de begunstigingstermijn met toepassing van artikel 8:72, vijfde lid, van de Awb op te schorten tot 1 juli 2020. </para>
+      <para />
+      <parablock>
+        <para>
+          <emphasis role="underline">conclusie</emphasis>
+        </para>
+        <para>19.	Gelet op wat is overwogen in deze uitspraak, zijn de beroepen van eiser ongegrond. <?linebreak?>Voor een proceskostenveroordeling bestaat geen aanleiding.</para>
+      </parablock>
+      <para />
+      <para />
+    </paragroup>
+  </section>
+  <section role="beslissing">
+    <title>Beslissing</title>
+    <para />
+    <parablock>
+      <para>De rechtbank: <?linebreak?>- verklaart de beroepen van eiser ongegrond;</para>
+      <para>- treft de voorlopige voorziening dat de aan de last onder dwangsom verbonden begunstigingstermijn wordt opgeschort tot 1 juli 2020.</para>
+    </parablock>
+    <para />
+    <informaltable>
+      <tgroup cols="3">
+        <colspec colname="colA" />
+        <colspec colname="colB" />
+        <colspec colname="colC" />
+        <tbody>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Deze uitspraak is gedaan op: </para>
+              <para />
+              <para>door mr. drs. M.S.T. Belt, rechter, in tegenwoordigheid van mr. T. Gelo, griffier. </para>
+              <para />
+              <para>Als gevolg van maatregelen rondom het coronavirus is deze uitspraak niet uitgesproken op een openbare uitsprakenzitting. Zodra het openbaar uitspreken weer mogelijk is, wordt deze uitspraak alsnog in het openbaar uitgesproken.</para>
+              <para />
+              <para>De griffier en de rechter zijn in verband met de maatregelen rond het coronavirus verhinderd om deze uitspraak te ondertekenen.</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>griffier</para>
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+              <para />
+              <para />
+              <para />
+              <para>rechter</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>Afschrift verzonden aan partijen op:</para>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+            <entry>
+              <para />
+            </entry>
+          </row>
+          <row>
+            <entry namest="colA" nameend="colC">
+              <para>
+                <emphasis role="bold">Rechtsmiddel</emphasis>
+              </para>
+              <para>Tegen deze uitspraak kan binnen zes weken na de dag van verzending daarvan hoger beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. Als hoger beroep is ingesteld, kan bij de voorzieningenrechter van de hogerberoepsrechter worden verzocht om het treffen van een voorlopige voorziening of om het opheffen of wijzigen van een bij deze uitspraak getroffen voorlopige voorziening.</para>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </informaltable>
+    <para />
+    <para />
+  </section>
+  <section>
+    <title>Bijlage</title>
+    <para />
+    <parablock>
+      <para>
+        <emphasis role="underline">Bestemmingsplan “Buitengebied Lingewaard”</emphasis>
+      </para>
+    </parablock>
+    <paragroup>
+      <nr>3.1</nr>
+      <para>Bestemmingsomschrijving</para>
+      <paragroup>
+        <nr>3.1.1</nr>
+        <parablock>
+          <para>Algemeen</para>
+          <para>De voor Agrarisch - Glastuinbouw (https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1705.60-VG01/r_NL.IMRO.1705.60-VG01_2.3.html) aangewezen gronden zijn bestemd voor:</para>
+        </parablock>
+        <orderedlist numeration="loweralpha">
+          <listitem>
+            <para>. de uitoefening van glastuinbouwbedrijven;</para>
+          </listitem>
+          <listitem>
+            <para>. andere agrarische bedrijven uitsluitend indien deze op navolgende wijze zijn aangeduid (…) </para>
+          </listitem>
+          <listitem>
+            <para>agrarisch grondgebruiagrarisch grondgebruik;</para>
+          </listitem>
+          <listitem>
+            <para>1. c. d. nevenactiviteiten; e. </para>
+          </listitem>
+        </orderedlist>
+        <parablock>
+          <para>(…)</para>
+          <para>met bijbehorende gebouwen, bouwwerken, geen gebouwen zijnde, ontsluitingsvoorzieningen, parkeervoorzieningen binnen het bouwvlak, groenvoorzieningen, tuinen en erven en overeenkomstig de in 3.1.2. opgenomen nadere detaillering van de doeleinden.</para>
+        </parablock>
+        <para />
+      </paragroup>
+      <paragroup>
+        <nr>3.1.2</nr>
+        <parablock>
+          <para>Nadere detaillering van de bestemming</para>
+          <para>In het onderstaande is een nadere detaillering opgenomen van het bepaalde in 3.1.1:</para>
+          <para>c Nevenactiviteiten</para>
+          <para>Voor nevenactiviteiten gelden de volgende bepalingen:</para>
+        </parablock>
+        <orderedlist numeration="arabic">
+          <listitem>
+            <para>. nevenactiviteiten zijn toegestaan in de vorm van agrarisch verwante bedrijvigheid, inpandige opslag, recreatieve voorzieningen en ondergeschikte detailhandel in streekproducten, alsmede de in 3.1.2 onder a (https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1705.60-VG01/r_NL.IMRO.1705.60-VG01_2.3.html) opgenomen Staat van nevenactiviteiten (https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1705.60-VG01/r_NL.IMRO.1705.60-VG01_2.3.html)</para>
+          </listitem>
+          <listitem>
+            <para>. maximaal 25% van de bebouwde oppervlakte van het agrarische bedrijf tot een maximum van 350 m² van de bedrijfsgebouwen, mag worden gebruikt voor een niet-agrarische nevenactiviteit;</para>
+          </listitem>
+          <listitem>
+            <para>. er vindt geen uitbreiding van bebouwing ten behoeve van de activiteit plaats;</para>
+          </listitem>
+          <listitem>
+            <para>. de nevenactiviteit dient qua oppervlak en inkomensvorming ondergeschikt te blijven aan de hoofdfunctie; </para>
+          </listitem>
+          <listitem>
+            <para>. er vindt geen aanzienlijke verkeersaantrekkende werking plaats;</para>
+          </listitem>
+          <listitem>
+            <para>. buitenopslag is niet toegestaan;</para>
+          </listitem>
+          <listitem>
+            <para>. horeca is niet toegestaan.</para>
+          </listitem>
+        </orderedlist>
+        <parablock>
+          <para>d Opslag</para>
+          <para>Voor opslag gelden, aanvullend op het bepaalde in c (https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.1705.60-VG01/r_NL.IMRO.1705.60-VG01_2.3.html), de volgende voorwaarden:</para>
+        </parablock>
+        <orderedlist numeration="arabic">
+          <listitem>
+            <para>. opslag is uitsluitend toegestaan in de vorm van inpandige statische opslag;</para>
+          </listitem>
+          <listitem>
+            <para>. de activiteit dient plaats te vinden binnen de aanwezige gebouwen; </para>
+          </listitem>
+          <listitem>
+            <para>. de opslag mag niet plaatsvinden in kassen;</para>
+          </listitem>
+          <listitem>
+            <para>. detailhandel is niet toegestaan.</para>
+          </listitem>
+        </orderedlist>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline">Wet algemene bepalingen omgevingsrecht (Wabo)</emphasis>
+          </para>
+          <para>Artikel 2.1, eerste lid</para>
+          <para>“Het is verboden zonder omgevingsvergunning een project uit te voeren, voor zover dat geheel of gedeeltelijk bestaat uit:</para>
+        </parablock>
+        <para>a. (…);</para>
+        <para>b. (…);</para>
+        <para>c. het gebruiken van gronden of bouwwerken in strijd met een bestemmingsplan (…);</para>
+        <para>(…).”</para>
+        <para />
+        <parablock>
+          <para>
+            <?linebreak?>Artikel 2.12, eerste lid, aanhef en onder a</para>
+          <para>“Voor zover de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 2.1, onder c, kan de omgevingsvergunning slechts worden verleend indien de activiteit niet in strijd is met een goede ruimtelijke ordening en indien de activiteit in strijd is met het bestemmingsplan en de beheersverordening:</para>
+        </parablock>
+        <para>1. (…)</para>
+        <para>2. in de bij algemene maatregel van bestuur aangewezen gevallen; </para>
+        <para>3. (…).”</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline">Besluit omgevingsrecht (Bor)</emphasis>
+          </para>
+          <para>Artikel 4 van bijlage 2</para>
+          <para>“Voor verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder c, van de wet waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van de wet van het bestemmingsplan of de beheersverordening wordt afgeweken, komen in aanmerking:</para>
+          <para>(…)</para>
+        </parablock>
+        <para>11. ander gebruik van gronden of bouwwerken dan bedoeld in de onderdelen 1 tot en met 10, voor een termijn van ten hoogste tien jaar.”</para>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline">Wet ruimtelijke ordening (Wro)</emphasis>
+          </para>
+          <para>Artikel 3.1, eerste lid</para>
+          <para>“De gemeenteraad stelt voor het gehele grondgebied van de gemeente een of meer bestemmingsplannen vast, waarbij ten behoeve van een goede ruimtelijke ordening de bestemming van de in het plan begrepen grond wordt aangewezen en met het oog op die bestemming regels worden gegeven. Deze regels betreffen in elk geval regels omtrent het gebruik van de grond en van de zich daar bevindende bouwwerken. Deze regels kunnen tevens strekken ten behoeve van de uitvoerbaarheid van in het plan opgenomen bestemmingen, met dien verstande dat deze regels ten aanzien van woningbouwcategorieën uitsluitend betrekking hebben op percentages gerelateerd aan het plangebied.”</para>
+        </parablock>
+        <para />
+        <parablock>
+          <para>
+            <emphasis role="underline">Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten op de interne markt (Dienstenrichtlijn)</emphasis>
+          </para>
+          <para>Artikel 15, derde lid</para>
+          <para>“De lidstaten controleren of de in lid 2 bedoelde eisen aan de volgende voorwaarden voldoen:</para>
+        </parablock>
+        <para>a. a) discriminatieverbod: de eisen maken geen direct of indirect onderscheid naar nationaliteit of, voor vennootschappen, de plaats van hun statutaire zetel;</para>
+        <para>b) noodzakelijkheid: de eisen zijn gerechtvaardigd om een dwingende reden van algemeen belang;</para>
+        <para>c) evenredigheid: de eisen moeten geschikt zijn om het nagestreefde doel te bereiken; zij gaan niet verder dan nodig is om dat doel te bereiken en dat doel kan niet met andere,</para>
+        <para>minder beperkende maatregelen worden bereikt.”</para>
+      </paragroup>
+    </paragroup>
+  </section>
+  <footnote id="_f628d8cf-2199-415f-bbfe-4078d04d70ee" label="1">
+    <para> Zie de uitspraak van 24 juni 2015 (ECLI:NL:RVS:2015:1945).</para>
+  </footnote>
+  <footnote id="_370e1d55-e9ab-45a8-9596-e3e6083ebef7" label="2">
+    <para> Zie de uitspraak van 14 mei 2019 (AWB 19/878 en 19/1830). </para>
+  </footnote>
+  <footnote id="_e6541799-df49-472d-a352-e56462f2842e" label="3">
+    <para> Zie de uitspraak van 22 augustus 2018 (ECLI:NL:RVS:2018:2887).</para>
+  </footnote>
+  <footnote id="_b904f316-61d4-4e09-b93d-aab85f5d457a" label="4">
+    <para> Zie de uitspraak van 29 mei 2019 (ECLI:NL:RVS:2019:1752).</para>
+  </footnote>
+  <footnote id="_61389a10-0244-4ce0-9bfe-e72c9b6dcfe7" label="5">
+    <para> Zie rechtsoverweging 5.7 van de uitspraak van 24 juni 2015 (ECLI:NL:RVS:2015:1945).</para>
+  </footnote>
+  <footnote id="_25e6e5be-3c67-470e-b115-649c0cc72cd0" label="6">
+    <para> Vergelijk de uitspraak van 16 maart 2018 (ECLI:NL:RVS: 2018:906).</para>
+  </footnote>
+  <footnote id="_2b67af6c-780c-4752-9169-60ea416943e0" label="7">
+    <para> Het arrest van het Hof van Justitie van 30 januari 2018 (ECLI:EU:C:2018:44) en de uitspraak van de Afdeling van 13 maart 2019 (ECLI:NL:RVS:2019:810).</para>
+  </footnote>
+  <footnote id="_dfa7367c-63d9-4e6e-9b4d-09ffb4a7c5f9" label="8">
+    <para> Zie bijvoorbeeld de uitspraken van 31 januari en 22 augustus 2018 (ECLI:NL:RVS:2018:320 en ECLI:NL:RVS:2018:2792).</para>
+  </footnote>
+  <footnote id="_b3c104ea-b505-4745-a3f9-abf51a57f5a2" label="9">
+    <para> Zie de uitspraak van de Afdeling van 29 mei 2019 (ECLI:NL:RVS:2019:1694).</para>
+  </footnote>
+  <footnote id="_c7aef9da-8c2d-4057-a074-2d4d823b6347" label="10">
+    <para> Onder andere de uitspraak van de Afdeling van 17 november 2010 (ECLI:NL:RVS:2010:BO4203)</para>
+  </footnote>
+  <footnote id="_8bdab42c-d62a-4e0d-b206-de299bc069a2" label="11">
+    <para> Zie de uitspraak van 29 mei 2019 (ECLI:NL:RVS:2019:1752).</para>
+  </footnote>
+  <footnote id="_b98778ef-01d7-4540-a8fe-816afd39d325" label="12">
+    <para> ECLI:NL:RVS:2019:1603 en ECLI:NL:RVS:2019:1604.</para>
+  </footnote>
+  <footnote id="_e973f813-f451-45bd-8c10-d22fe2307b97" label="13">
+    <para> Zie de uitspraak van 29 oktober 2014 (ECLI:NL:RVS:2014:3883)</para>
+  </footnote>
+</uitspraak>
+</open-rechtspraak>
